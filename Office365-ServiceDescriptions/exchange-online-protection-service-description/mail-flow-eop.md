@@ -1,0 +1,65 @@
+---
+title: Flusso di posta [EOP]
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 6/13/2018
+ms.audience: ITPro
+ms.topic: reference
+f1_keywords:
+- mail-flow-in-eop
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom: Adm_ServiceDesc
+ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
+description: Per la maggior parte delle organizzazioni che utilizzano Office 365, è ospitare le cassette postali e fare attenzione di flusso di posta. È la configurazione più semplice e significa che Office 365 gestisce tutte le cassette postali e filtro. Tuttavia, alcune organizzazioni hanno un'azienda è necessario conservare tutte le loro cassette postali in locale. Exchange Online Protection (EOP) consente di effettuare tale operazione e vengono forniti posta indesiderata e antivirus elaborazione nel cloud. Per ulteriori informazioni e per l'acquisto di EOP, andare a Exchange Online Protection.
+ms.openlocfilehash: 6c43d308db3c4f62e4c6891cb87263560d9478a7
+ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24035988"
+---
+# <a name="mail-floweop"></a><span data-ttu-id="4fc13-107">Flusso di posta [EOP]</span><span class="sxs-lookup"><span data-stu-id="4fc13-107">Mail Flow[EOP]</span></span>
+
+<span data-ttu-id="4fc13-p102">Per la maggior parte delle organizzazioni che utilizzano Office 365, è ospitare le cassette postali e fare attenzione di flusso di posta. È la configurazione più semplice e significa che Office 365 gestisce tutte le cassette postali e filtro. Tuttavia, alcune organizzazioni hanno un'azienda è necessario conservare tutte le loro cassette postali in locale. Exchange Online Protection (EOP) consente di effettuare tale operazione e vengono forniti posta indesiderata e antivirus elaborazione nel cloud. Per ulteriori informazioni e per l'acquisto di EOP, andare a [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection).</span><span class="sxs-lookup"><span data-stu-id="4fc13-p102">For most organizations that use Office 365, we host your mailboxes and take care of mail flow. It's the simplest configuration and means that Office 365 manages all mailboxes and filtering. However, some organizations have a business need to keep all their mailboxes on premises. Exchange Online Protection (EOP) enables you to do that and provides antivirus and anti-spam mail processing in the cloud. For more information and to purchase EOP, go to [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection).</span></span>
+  
+<span data-ttu-id="4fc13-p103">Sono necessarie informazioni sulla gestione dei domini o su Directory Based Edge Blocking (DBEB)? Vedere [Gestione destinatari, dominio e società](recipient-domain-and-company-management.md). Per ulteriori informazioni su tutte le funzionalità EOP, vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="4fc13-p103">Looking for information about domain management or Directory Based Edge Blocking (DBEB)? See [Recipient, Domain, and Company Management](recipient-domain-and-company-management.md). To learn more about all EOP features, see the [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).</span></span>
+  
+## <a name="routing-email-between-office-365-and-your-own-email-servers"></a><span data-ttu-id="4fc13-116">Instradare la posta tra Office 365 e i server di posta elettronica della propria organizzazione</span><span class="sxs-lookup"><span data-stu-id="4fc13-116">Routing email between Office 365 and your own email servers</span></span>
+<span data-ttu-id="4fc13-117"><a name="BKMK_outboundmailrouting"> </a></span><span class="sxs-lookup"><span data-stu-id="4fc13-117"><a name="BKMK_outboundmailrouting"> </a></span></span>
+
+<span data-ttu-id="4fc13-p104">È possibile configurare un connettore per abilitare il flusso di posta tra Office 365 (compreso Exchange Online o EOP) e il server di posta elettronica basato su SMTP, ad esempio, Exchange. Per ulteriori informazioni, vedere [Do I need a connector](http://technet.microsoft.com/library/16731ae9-c909-49dd-bffc-a46e6151fc29.aspx)? e [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx).</span><span class="sxs-lookup"><span data-stu-id="4fc13-p104">You can configure a connector to enable mail flow between Office 365 (including Exchange Online or EOP) and an SMTP-based email server such as Exchange. For details about this, see [Do I need a connector](http://technet.microsoft.com/library/16731ae9-c909-49dd-bffc-a46e6151fc29.aspx)? And [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx).</span></span>
+  
+## <a name="secure-messaging-with-a-trusted-partner"></a><span data-ttu-id="4fc13-121">Messaggistica sicura presso un partner di fiducia</span><span class="sxs-lookup"><span data-stu-id="4fc13-121">Secure messaging with a trusted partner</span></span>
+<span data-ttu-id="4fc13-122"><a name="BKMK_securemessagingwithatrustedpartner"> </a></span><span class="sxs-lookup"><span data-stu-id="4fc13-122"></span></span>
+
+<span data-ttu-id="4fc13-p105">Come cliente EOP, è possibile configurare il flusso di posta sicura con un partner di fiducia utilizzando i connettori di Office 365. Office 365 supporta la comunicazione sicura attraverso il protocollo Transport Layer Security (TLS) ed è possibile creare un connettore per forzare la crittografia tramite TLS. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) è un protocollo crittografico che protegge le comunicazioni via Internet. Utilizzando i connettori, è possibile forzare il protocollo TSL sia per la posta in entrata che per quella in uscita utilizzando certificati autofirmati o convalidati da un'autorità di certificazione. È inoltre possibile applicare altre restrizioni, ad esempio specificando nomi di dominio o intervalli di indirizzi IP dai quali l'organizzazione partner invia messaggi di posta.</span><span class="sxs-lookup"><span data-stu-id="4fc13-p105">As an EOP customer, you can set up secure mail flow with a trusted partner by using Office 365 connectors. Office 365 supports secure communication through Transport Layer Security (TLS), and you can create a connector to enforce encryption via TLS. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) is a cryptographic protocol that provides security for communications over the Internet. By using connectors, you can configure both forced incoming and outgoing TLS using self-signed or certification authority (CA)-validated certificates. You can also apply other security restrictions, such as specifying domain names or IP address ranges from which your partner organization sends mail.</span></span> 
+  
+<span data-ttu-id="4fc13-128">Per ulteriori informazioni, vedere [Configurazione dei connettori per proteggere il flusso di posta con un'organizzazione partner](https://technet.microsoft.com/en-us/library/dn751021%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="4fc13-128">For more information, see [Set up connectors for secure mail flow with a partner organization](https://technet.microsoft.com/en-us/library/dn751021%28v=exchg.150%29.aspx).</span></span>
+  
+## <a name="safe-listing-a-partners-ip-address"></a><span data-ttu-id="4fc13-129">Elenco sicuro indirizzi IP del partner</span><span class="sxs-lookup"><span data-stu-id="4fc13-129">Safe listing a partner's IP address</span></span>
+<span data-ttu-id="4fc13-130"><a name="BKMK_safelistingapartnersipaddress"> </a></span><span class="sxs-lookup"><span data-stu-id="4fc13-130"><a name="BKMK_safelistingapartnersipaddress"> </a></span></span>
+
+<span data-ttu-id="4fc13-p106">È possibile aggiungere l'indirizzo IP di un partner attendibile a un elenco di indirizzi attendibili al fine di assicurarsi che i messaggi inviati dal partner non siano soggetti al filtro posta indesiderata. A tale scopo, è possibile utilizzare l'elenco di indirizzi IP consentiti del filtro connessioni. Per ulteriori informazioni, vedere [Configurazione dei criteri di filtro delle connessioni](https://go.microsoft.com/fwlink/p/?LinkID=287108).</span><span class="sxs-lookup"><span data-stu-id="4fc13-p106">You can add a trusted partner's IP address to a safe list to ensure that messages they send to you are not subject to spam filtering. To do this, you can use the connection filter's IP Allow list. For more information, see [Configure the connection filter policy](https://go.microsoft.com/fwlink/p/?LinkID=287108).</span></span>
+  
+## <a name="conditional-mail-routing"></a><span data-ttu-id="4fc13-134">Routing condizionale della posta</span><span class="sxs-lookup"><span data-stu-id="4fc13-134">Conditional mail routing</span></span>
+<span data-ttu-id="4fc13-135"><a name="BKMK_conditionalmailrouting"> </a></span><span class="sxs-lookup"><span data-stu-id="4fc13-135"></span></span>
+
+<span data-ttu-id="4fc13-p107">È possibile configurare un connettore con una regola di trasporto che instrada la posta verso un sito specifico, a seconda delle condizioni. Per maggiori informazioni, vedere [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).</span><span class="sxs-lookup"><span data-stu-id="4fc13-p107">You can configure a connector with a Transport rule that routes mail to a specific site, based on conditions. For more information, see [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).</span></span>
+  
+## <a name="hybrid-mail-routing"></a><span data-ttu-id="4fc13-138">Routing posta ibrida</span><span class="sxs-lookup"><span data-stu-id="4fc13-138">Hybrid mail routing</span></span>
+<span data-ttu-id="4fc13-139"><a name="BKMK_hybridmailrouting"> </a></span><span class="sxs-lookup"><span data-stu-id="4fc13-139"></span></span>
+
+<span data-ttu-id="4fc13-p108">Per ibrido si intende che una parte delle cassette postali si trova a livello locale e un'altra parte si trova nel cloud (Exchange Online). È possibile passare da una distribuzione autonoma (locale) a una ibrida.</span><span class="sxs-lookup"><span data-stu-id="4fc13-p108">Hybrid means that you host a portion of your mailboxes on premises, and a portion in the cloud (Exchange Online). You can move from a standalone (on-premises) deployment to a hybrid deployment.</span></span>
+  
+<span data-ttu-id="4fc13-p109">In caso di distribuzione ibrida, è possibile proteggere le cassette postali cloud e locali con EOP. Per le cassette postali locali sono necessarie licenze autonome, quando sono protette da EOP. Per ulteriori informazioni sul routing della posta in una distribuzione ibrida, vedere [Transport routing nelle distribuzioni ibride di Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271757).</span><span class="sxs-lookup"><span data-stu-id="4fc13-p109">If you have a hybrid deployment, you can protect your cloud and on-premises mailboxes with EOP. Standalone licenses are required for on-premises mailboxes, when they are protected by EOP. For more information about mail routing in a hybrid deployment, see [Transport routing in Exchange hybrid deployments](https://go.microsoft.com/fwlink/p/?LinkId=271757).</span></span>
+  
+<span data-ttu-id="4fc13-145">Informazioni dettagliate sul provisioning della distribuzione ibrida e sul trasporto dei messaggi ibridi sono disponibili anche in [Assistente per la distribuzione di Microsoft Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036).</span><span class="sxs-lookup"><span data-stu-id="4fc13-145">The [Microsoft Exchange Server Deployment Assistant](https://go.microsoft.com/fwlink/p/?LinkId=287036) also provides detailed hybrid deployment provisioning and hybrid message transport guidance.</span></span> 
+  
+## <a name="feature-availability"></a><span data-ttu-id="4fc13-146">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="4fc13-146">Feature Availability</span></span>
+<span data-ttu-id="4fc13-147"><a name="BKMK_hybridmailrouting"> </a></span><span class="sxs-lookup"><span data-stu-id="4fc13-147"></span></span>
+
+<span data-ttu-id="4fc13-148">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="4fc13-148">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).</span></span>
+  
+
