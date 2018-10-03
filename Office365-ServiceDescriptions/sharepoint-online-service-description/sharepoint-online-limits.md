@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035965"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359592"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online
 
@@ -41,7 +41,7 @@ Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per p
 ||||
 |:-----|:-----|:-----|
 |**Funzionalità** <br/> |**SharePoint Online - Piano 1** <br/> |**SharePoint Online - Piano 2** <br/> |
-|Spazio di archiviazione<sup>1, 2</sup> <br/> |1 TB per ogni organizzazione e 0,5 GB per ogni licenza acquistata<sup>3</sup> <br/> |1 TB per ogni organizzazione e 0,5 GB per ogni licenza acquistata<sup>3</sup> <br/> |
+|Spazio di archiviazione<sup>1, 2</sup> <br/> |1 TB per organizzazione più di 10 GB per la licenza acquistata<sup>3</sup> <br/> |1 TB per organizzazione più di 10 GB per la licenza acquistata<sup>3</sup> <br/> |
 |Condizioni nell'archivio  <br/> |200,000  <br/> |200,000  <br/> |
 |Spazio di archiviazione per raccolte siti  <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |
 |Raccolte siti per tenant  <br/> |500.000 per ogni organizzazione<sup>5</sup> <br/> |500.000 per ogni organizzazione<sup>5</sup> <br/> |

@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in diversi piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: fbfb6d712ca28f4f7839baef090a0786c4cb437a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
+ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036040"
+ms.lasthandoff: 10/02/2018
+ms.locfileid: "25358653"
 ---
 # <a name="office-365-plan-options"></a>Opzioni di piani di Office 365
 
@@ -56,7 +56,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 |Exchange Online  <br/> |Yes<sup>6</sup> <br/> |No  <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |Yes<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Yes<sup>5</sup> <br/> |
-|Skype for Business online  <br/> |Yes<sup>10</sup> <br/> |No  <br/> |Sì<sup>10</sup> <br/> |Yes<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
+|Skype per Business Online <sup>15</sup> <br/> |Yes<sup>10</sup> <br/> |No  <br/> |Sì<sup>10</sup> <br/> |Yes<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
 |Office Online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Applicazioni di Office  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |No  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
@@ -71,6 +71,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 <br/><sup>9</sup> Include Chiosco Exchange Online. > 
 <br/><sup>10</sup> Include Skype for Business Online Piano 2 con limitazioni client di base. > <br/><sup>11</sup> Include Skype for Business Online Piano 2 senza limitazioni client. > <br/><sup>12</sup> Include Skype for Business Online Piano 1 e caratteristiche aggiuntive. > <br/><sup>13</sup> Include Skype for Business Online Piano 2 con supporto vocale e senza limitazioni relative al client. > 
 <br/><sup>14</sup> Include Skype for Business Online Piano 1. 
+<br><sup>15</sup> Teams Microsoft è il client principale per la messaggistica, riunioni e di chiamata in Office 365. Avvio 2018, ott 1, i nuovi clienti di Office 365 con 500 postazioni o meno saranno onboarded ai Teams Microsoft e non possono accedere a Skype Business online. Tenant che utilizzano già Skype per Business Online saranno in grado di continuare pur così (compresi i nuovi utenti provisioning) fino al completamento del passaggio a Microsoft Teams.
   
 #### <a name="basic-client-limitations"></a>Limitazioni client di base
 
