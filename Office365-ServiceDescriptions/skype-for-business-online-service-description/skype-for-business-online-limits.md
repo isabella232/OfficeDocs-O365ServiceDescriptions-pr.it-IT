@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'I limiti in Skype Business online rientrano nelle categorie seguenti:'
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036010"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362881"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti in Skype for Business Online
 
@@ -127,11 +127,11 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Conservazione del contenuto della riunione: Riunione occasionale  <br/> |Configurabile<sup>1</sup> <br/> |15 giorni  <br/> |15 giorni  <br/> |15 giorni  <br/> |15 giorni  <br/> |Non applicabile  <br/> |
-|Conservazione del contenuto della riunione: Riunione ricorrente  <br/> |Configurabile<sup>1</sup> <br/> |15 giorni  <br/> |15 giorni  <br/> |15 giorni  <br/> |15 giorni  <br/> |Non applicabile  <br/> |
+|Conservazione del contenuto della riunione: Riunione occasionale  <br/> |Configurabile<sup>1</sup> <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |Non applicabile  <br/> |
+|Conservazione del contenuto della riunione: Riunione ricorrente  <br/> |Configurabile<sup>1</sup> <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |Non applicabile  <br/> |
 |Conservazione del contenuto della riunione: Riunione immediata  <br/> |Configurabile<sup>1</sup> <br/> |8 ore  <br/> |8 ore  <br/> |8 ore  <br/> |8 ore  <br/> |Non applicabile  <br/> |
 |Scadenza della riunione: Riunione occasionale  <br/> |Data di fine più 365 giorni<sup>2</sup> <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |Non applicabile  <br/> |
-|Scadenza della riunione: Riunione ricorrente  <br/> |Con data di fine: data di fine più 365 giorni<sup>2</sup> <br/> Senza data di fine: ultima conferenza più 6 mesi<sup>3</sup> <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |Non applicabile  <br/> |
+|Scadenza della riunione: Riunione ricorrente  <br/> |Con data di fine: data di fine più 365 giorni<sup>2</sup> <br/> Senza data di fine: se accessibile sempre aggiornati 1/anno<sup>3</sup> <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |14 giorni  <br/> |Non applicabile  <br/> |
 |Scadenza della riunione: Riunione immediata  <br/> |8 ore  <br/> | 8 ore  <br/> |8 ore  <br/> |8 ore  <br/> |8 ore  <br/> |Non applicabile  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
-|Conservazione del contenuto della riunione: Riunione occasionale  <br/> |Configurabile<sup>1</sup> <br/> |Non applicabile  <br/> |15 giorni  <br/> |
-|Conservazione del contenuto della riunione: Riunione ricorrente  <br/> |Configurabile<sup>1</sup> <br/> |Non applicabile  <br/> |15 giorni  <br/> |
+|Conservazione del contenuto della riunione: Riunione occasionale  <br/> |Configurabile<sup>1</sup> <br/> |Non applicabile  <br/> |14 giorni  <br/> |
+|Conservazione del contenuto della riunione: Riunione ricorrente  <br/> |Configurabile<sup>1</sup> <br/> |Non applicabile  <br/> |14 giorni  <br/> |
 |Conservazione del contenuto della riunione: Riunione immediata  <br/> |Configurabile<sup>1</sup> <br/> |Non applicabile  <br/> |8 ore  <br/> |
 |Scadenza della riunione: Riunione occasionale  <br/> |Data di fine più 365 giorni<sup>2</sup> <br/> |Non applicabile  <br/> |14 giorni  <br/> |
-|Scadenza della riunione: Riunione ricorrente  <br/> |Con data di fine: data di fine più 365 giorni<sup>2</sup> <br/> Senza data di fine: ultima conferenza più 6 mesi<sup>3</sup> <br/> |Non applicabile  <br/> |14 giorni  <br/> |
+|Scadenza della riunione: Riunione ricorrente  <br/> |Con data di fine: data di fine più 365 giorni<sup>2</sup> <br/> Senza data di fine: se accessibile sempre aggiornati 1/anno<sup>3</sup> <br/> |Non applicabile  <br/> |14 giorni  <br/> |
 |Scadenza della riunione: Riunione immediata  <br/> |8 ore  <br/> |Non applicabile  <br/> |8 ore  <br/> |
    
 > [!NOTE]

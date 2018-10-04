@@ -15,14 +15,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Si desidera conoscere le licenze è necessario acquistare per ottenere determinati Skype per le funzionalità di Business? Vedere Skype per panoramica sulle licenze aziendale.
-ms.openlocfilehash: c1503762e792183a38b5f63e07c10889914f35df
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036024"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362931"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
+
+> [!NOTE]
+> Microsoft Teams è il client principale per la messaggistica, riunioni e di chiamata in Office 365. Avvio 2018, ott 1, i nuovi clienti di Office 365 con 500 postazioni o meno saranno onboarded ai Teams Microsoft e non possono accedere a Skype Business online. Tenant che utilizzano già Skype per Business Online saranno in grado di continuare pur così (compresi i nuovi utenti provisioning) fino al completamento del passaggio a Microsoft Teams.
+
+> [!NOTE]
+> Skype per Business Online piano 1 viene utilizzato da vendita a partire da 10 ottobre. Ciò significa che non sarà possibile acquisire Skype per Business Online piano 1, per audio e video Peer-to-peer, presenza e messaggistica immediata. Queste funzionalità continuerà a essere supportato in tutte le offerte di Office 365 che includono i team, tra cui Office 365 F1. Quando il piano scade al termine del termine corrente, per poter continuato accesso a queste funzionalità, è necessario passare a una pianificazione diversa. È consigliabile valutare il piano di Office 365 F1 per gli utenti che attualmente dispongono di Skype per Business Online piano 1 assegnato. 
 
  **Si desidera conoscere le licenze è necessario acquistare per ottenere determinati Skype per le funzionalità di Business? Vedere [Skype per panoramica sulle licenze aziendale](https://go.microsoft.com/fwlink/?LinkID=799524).**
   

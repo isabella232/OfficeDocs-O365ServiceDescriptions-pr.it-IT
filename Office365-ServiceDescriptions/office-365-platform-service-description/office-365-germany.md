@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germania è un'opzione distinguono dai servizi di Office 365 già disponibili in Europa. Vengono fornite informazioni utili indirizzo le esigenze dei clienti più regolamentati in Germania, (UE) ed europea libero scambio associazione (EFTA) offrendo ai servizi di produttività leader del settore per il lavoro digitale, dai dati tedeschi viene allineato al centro, con residenza dati in Germania e l'accesso ai dati strict e controllo di misure da un modello di dati univoci trustee applicato in diritto tedesco.
-ms.openlocfilehash: ee91b0d097693488895e022641e92705c9b82e43
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036104"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362961"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -24,7 +24,7 @@ Office 365 Germania è un'opzione distinguono dai servizi di Office 365 già dis
   
 Il trustee dei dati, T-Systems International, una società tedesca indipendente e filiale di Deutsche Telekom, controlla l'accesso fisico e logico ai dati dei clienti. Non è possibile accedere ai dati dei clienti senza l'approvazione o la supervisione del trustee, che è disciplinato dal diritto tedesco. 
   
-A causa della natura univoca di Office 365 Germany, alcune funzionalità non sono state ancora abilitate. I clienti avranno a disposizione la gamma completa di funzionalità con servizi globali. Per una panoramica sulle opzioni incluse e su come ricevere supporto, vedere [Informazioni su Office 365 Germany](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
+In base alle esigenze dei clienti questa evoluzione, strategia Microsoft cloud per Germania verrà evidenziate recapito delle nuove regioni cloud in Germania coerenti con il cloud globale che offre. Con questo stato attivo, si verrà non è più accettare i nuovi clienti o distribuzione qualsiasi nuovo servizio da la Germania Microsoft Cloud attualmente disponibile. I clienti esistenti possono continuare a utilizzare i cloud servizi correnti disponibili sul mercato, che ci sarà mantenere con gli aggiornamenti di sicurezza necessarie. [Informazioni su Office 365 Germania](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilità del servizio per ogni piano
 
@@ -44,7 +44,7 @@ Ogni piano di Office 365 Germany include una serie di servizi individuali, come 
 |Power BI <sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Online di Visio<sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Yammer Enterprise  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |
-|Protezione delle informazioni di Azure  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> il servizio di sottoscrizione basata su cloud con funzionalità correlate, tra cui l'interfaccia di amministrazione di Office 365 in cui è possibile impostare gli utenti e i domini. > <sup>2</sup> è possibile acquistare un piano di Office 365 ProPlus separatamente. Office 365 ProPlus è incluso in Office 365 Germania aziendale E3 ed E4 Enterprise di Office 365 Germania. Per l'utilizzo con Office 365 Germania, è necessario abilitare [l'autenticazione moderno](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) . > <sup>3</sup> project Online e Power BI non sono inclusi, ma può essere acquistato come servizio aggiuntivo separato o aggiunto gratuitamente per il piano di Office 365 Germania Education A1. > <sup>4</sup> consumo Online di Visio (visualizzazione funzionalità) è disponibile gratuitamente. Creare Online di Visio e funzionalità di modifica è necessaria una licenza. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Online di Visio](../visio-online-service-description/visio-online-service-description.md). 
@@ -85,7 +85,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
 |Microsoft StaffHub<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Microsoft oscillazione<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Microsoft Teams  <br/> |Nessun<sup>9</sup> <br/> |No  <br/> |Nessun<sup>9</sup> <br/> |No  <br/> |Nessun<sup>9</sup> <br/> |Nessun<sup>9</sup> <br/> |Nessun<sup>9</sup> <br/> |No  <br/> |
-|Office Delve<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Office Delve<sup></sup> <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Gruppi di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Video di Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |**[Gestione degli account utente](user-account-management.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
@@ -265,7 +265,8 @@ Utilizzare le tabelle seguenti per confrontare la disponibilità delle funzional
 |[Office Mobile per Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Office Mobile per Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Outlook per Android<sup>11</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**Enterprise Value** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
+|**Enterprise Value** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |
+  **Office 365 ProPlus** <br/> |
 |5 installazioni per ogni utente su PC o Mac  <br/> |No  <br/> |Sì  <br/> |Yes<sup>8</sup> <br/> |
 |Provisioning dell'account utente automatizzato  <br/> |N/D  <br/> |Sì  <br/> |Sì  <br/> |
 |Interfaccia utente multilingue  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -641,7 +642,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |[Filtro dei dati sequenza temporale](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizi Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>4</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**Funzionalità di ricerca** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità di ricerca** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |Elaborazione di contenuti avanzata <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Ricerche per indicizzazione continue](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Estrazione entità personalizzata <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -670,7 +671,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |Verticale di ricerca: "Contatti" <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Verticale di ricerca: "Video" <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Ricerche "Questo elenco"](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**Funzionalità per i siti** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità per i siti** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |Modifica dell'aspetto <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Connessioni ai client di Microsoft Office <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Supporto della compatibilità browser](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -700,7 +701,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |[Pagina di dati di utilizzo del sito](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Variazioni](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Servizio di gestione del lavoro <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|**Funzionalità sociali** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità sociali** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |Chiedi <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Blog di personale](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Reputazione, badge e moderazione della comunità <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |

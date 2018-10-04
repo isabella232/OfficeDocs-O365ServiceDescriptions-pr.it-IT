@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: In linea di Excel (in precedenza Excel Web App) consente di estendere l'esperienza di Microsoft Excel al web browser dove è possibile utilizzare con le cartelle di lavoro direttamente sul sito Web in cui è memorizzata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare limitata i file di Office utilizzando Office Online.
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036017"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362901"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ La formattazione condizionale può essere visualizzata ma non applicata in Excel
 ## <a name="apply-data-validation-to-cells"></a>Applicazione della convalida dei dati alle celle
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Non è disponibile in Excel Online. Le funzionalità avanzate come, ad esempio, convalida dei dati sono disponibili solo nell'app desktop Excel. Tuttavia, è possibile visualizzare e interagire con i dati abilitati per la convalida in Excel Online. Ulteriori informazioni sull'[applicazione della convalida dei dati alle celle in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282328).
+Questa funzionalità è disponibile in Excel Online. Altre caratteristiche avanzate sono disponibili solo nell'app desktop Excel.
   
 ## <a name="apply-smartrecommended-formatting"></a>Applicazione della formattazione intelligente/consigliata
 <a name="bkmk_Applysmartformatting"> </a>

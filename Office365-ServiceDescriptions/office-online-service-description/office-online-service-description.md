@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (in precedenza Office Web Apps) Apre i documenti di Word, Excel, OneNote e PowerPoint nel web browser. Office Online è più semplice utilizzare e condividere i file di Office da qualsiasi luogo con una connessione Internet, da qualsiasi dispositivo. I clienti di Microsoft Office 365 con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare i file in viaggio.
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036163"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362871"
 ---
 # <a name="office-online-service-description"></a>Descrizione servizi Office Online
 
@@ -123,7 +123,7 @@ Assistenza per capire quale soluzione Office migliore si adatta alle organizzazi
 |[Filtraggio temporale avanzato (filtro dei dati Sequenza temporale)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |No  <br/> |Sì  <br/> |
 |[Allineamento](excel-online.md#alignment) <br/> |Sì  <br/> |Sì  <br/> |
 |[Applicazione della formattazione condizionale](excel-online.md#apply-conditional-formatting) <br/> |No  <br/> |Sì  <br/> |
-|[Applicazione della convalida dei dati alle celle](excel-online.md#apply-data-validation-to-cells) <br/> |No  <br/> |Sì  <br/> |
+|[Applicazione della convalida dei dati alle celle](excel-online.md#apply-data-validation-to-cells) <br/> |Sì  <br/> |Sì  <br/> |
 |[Applicazione della formattazione intelligente/consigliata](excel-online.md#apply-smartrecommended-formatting) <br/> |No  <br/> |Sì  <br/> |
 |[Registrazione di note audio](onenote-online.md#audio-notes-recording) <br/> |No  <br/> |Sì  <br/> |
 |[Completamento automatico](excel-online.md#autocomplete) <br/> |Sì  <br/> |Sì  <br/> |
