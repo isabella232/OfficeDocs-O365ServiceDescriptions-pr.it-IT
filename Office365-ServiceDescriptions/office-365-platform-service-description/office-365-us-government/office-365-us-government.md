@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci ed evoluzioni del settore pubblico negli Stati Uniti, Microsoft ha creato i piani di Office 365 US Government (orOffice 365 gli Stati Uniti). In questa sezione viene fornita una panoramica delle caratteristiche specifici di Office 365 US pubblici. È consigliabile leggere questa sezione supplementare con le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362911"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435834"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -213,7 +213,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Microsoft StaffHub  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
 |Microsoft Stream  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |No  <br/> |
 |Microsoft Sway  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
-|Microsoft Teams  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
+|Microsoft Teams  <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |
 |Office Delve  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Sì  <br/> |Yes<sup>9, 15</sup> <br/> |
 |Gruppi di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Video di Office 365  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |No  <br/> |
@@ -317,6 +317,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 <br/><sup>11</sup> non ancora disponibile In Office 365 US offerte del governo, ma disponibile a breve. ><br/><sup>12</sup> non incluso, ma può essere acquistato come componente aggiuntivo separato in GCC. 
 <br/><sup>13</sup> non supportato per Office 365 US offerte del governo. 
 <br/><sup>14</sup> disponibile all'indirizzo [https://securescore.office.com](https://securescore.office.com). Sono necessarie le autorizzazioni di amministratore. Per ulteriori informazioni, vedere [Introduzione il punteggio sicura di Office 365](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>15</sup> non ancora disponibile nell'ambiente DoD, ma disponibile a breve. 
+<br><sup>16</sup> non è disponibile in alto le o DoD.
   
 [Come utilizzare la sezione Service Description](office-365-us-government.md#how-to-use-this-service-description-section)
   
