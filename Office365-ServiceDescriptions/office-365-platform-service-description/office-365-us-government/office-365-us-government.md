@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci ed evoluzioni del settore pubblico negli Stati Uniti, Microsoft ha creato i piani di Office 365 US Government (orOffice 365 gli Stati Uniti). In questa sezione viene fornita una panoramica delle caratteristiche specifici di Office 365 US pubblici. È consigliabile leggere questa sezione supplementare con le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
+ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435834"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "25696141"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -249,14 +249,14 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Cassette postali nuove ed eliminate  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Gruppi nuovi ed eliminati  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Utilizzo delle cassette postali  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
-|Tipi di connessioni delle cassette postali  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
+|Tipi di connessioni di cassette postali  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Posta inviata e ricevuta  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Destinatari e mittenti principali  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Rilevamenti di posta indesiderata  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
-|Rilevamenti di malware  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
-|Malware principali nella posta  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
-|Corrispondenze alle regole nella posta  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
-|Corrispondenze alle regole principali per la posta  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
+|Rilevamenti malware  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
+|Principale malware per la posta  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
+|Risultati della regola per la posta  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
+|Principali risultati delle regole per la posta  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Corrispondenze di criteri DLP principali nella posta  <br/> |No  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Corrispondenze di criteri DLP per livello di gravità per la posta  <br/> |No  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Corrispondenza, sostituzioni e falsi positivi dei criteri DLP per la posta  <br/> |No  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
@@ -266,8 +266,8 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Sessioni video, di condivisione applicazioni e di trasferimento file  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Conferenze di messaggistica immediata e audio/video  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Rapporti sulla protezione della posta scaricabile  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
-|Browser utilizzato  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
-|Sistema operativo utilizzato  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
+|Browser in uso  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
+|Sistema operativo in uso  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 G3 Government negli Stati Uniti** <br/> |**Office 365 G5 Government negli Stati Uniti** <br/> |**Office 365 F1 Government negli Stati Uniti** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -286,7 +286,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Governance dei dati avanzata  <br/> |Nessun<sup>12, 15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |Yes<sup>15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |
 |Cloud App Security  <br/> |Nessun<sup>11, 12</sup> <br/> |Nessun<sup>11, 12</sup> <br/> |Yes<sup>11</sup> <br/> |Nessun<sup>11, 12</sup> <br/> |
 |Protezione avanzata dalle minacce  <br/> |Nessun<sup>12</sup> <br/> |Nessun<sup>12</sup> <br/> |Sì  <br/> |Nessun<sup>12</sup> <br/> |
-|Archivio protetto del cliente  <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |
+|Customer Lockbox  <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |
 |Office 365 Advanced eDiscovery  <br/> |Nessun<sup>12, 15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |Sì  <br/> |Nessun<sup>9, 15</sup> <br/> |
 |Secure Score<sup>14</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |
 |Crittografia dei messaggi di Office  <br/> |No  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |No  <br/> |
@@ -343,7 +343,7 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |[Office Mobile per Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Yes<sup>4</sup> <br/> |Yes<sup>4</sup> <br/> |No  <br/> |
 |[Office Mobile per Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Yes<sup>4</sup> <br/> |Yes<sup>4</sup> <br/> |No  <br/> |
 |[Office Mobile per Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Yes<sup>4</sup> <br/> |Yes<sup>4</sup> <br/> |No  <br/> |
-|Outlook per iOS e Android<sup>5</sup>  <br/> |Sì <br/> |Sì <br/> |Sì <br/> |Sì <br/> |
+|Outlook per iOS e Android<sup>5, 4</sup>  <br/> |Sì <br/> |Sì <br/> |Sì <br/> |Sì <br/> |
 |**Enterprise Value** <br/> |**Office 365 US Government G1** <br/> |**Office 365 G3 Government negli Stati Uniti** <br/> |**Office 365 G5 Government negli Stati Uniti** <br/> |**Office 365 F1 Government negli Stati Uniti** <br/> |
 |5 installazioni per ogni utente su PC o Mac  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Provisioning dell'account utente automatizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
