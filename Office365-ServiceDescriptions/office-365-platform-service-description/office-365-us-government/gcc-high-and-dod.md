@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: "Microsoft offre ambienti GCC High e DoD per venire incontro alle esigenze del Dipartimento della Difesa degli Stati Uniti, speciali e in costante evoluzione, e a quelle dei terzisti che si occupano delle informazioni CUI (Controlled Unclassified Information) del Dipartimento della Difesa oppure che sono soggetti alle leggi sul traffico d'armi ITAR ( International Traffic in Arms Regulations). Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. "
-ms.openlocfilehash: cb20461e3aa25b23d2fd5cd7ef8ad0761ccbdef7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
+ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036122"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25719070"
 ---
 # <a name="gcc-high-and-dod"></a>GCC High e DoD
 
@@ -76,7 +76,7 @@ Le sottoscrizioni Office 365 negli ambienti GCC High e DoD includono le caratter
     
 4. Persone specifiche
     
-I clienti che utilizzano SharePoint Online e OneDrive for Business negli ambienti GCC High o DoD possono tenere documenti privati (prima opzione), condividerli con gli utenti all'interno dell'organizzazione (seconda opzione), condividerli con chiunque abbia il link al documento (terza opzione) e condividerli con persone specifiche all'interno degli ambienti GCC High e DoD (quarta opzione); naturalmente, queste opzioni possono anche essere limitate in base ai controlli di accesso a livello di tenant.
+I clienti che utilizzano SharePoint Online e OneDrive for Business in ambienti le alta o DoD possono mantenere privata documenti (prima opzione), condividere con altre persone nell'organizzazione (seconda opzione), condivisione con tutti gli utenti che dispongono del collegamento al documento (terza opzione) e Condividi con utenti specifici in ambienti DoD e le elevata (quarto opzione); Ovviamente, queste opzioni possono essere limitate in base anche i controlli dell'accesso a livello di tenant.
   
 LE elevata tenant solo è possibile condividere con altri tenant le elevata. Per esempio:
   
