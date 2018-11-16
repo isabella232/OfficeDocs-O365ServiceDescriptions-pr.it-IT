@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione di archiviazione di Microsoft Exchange Online.
-ms.openlocfilehash: 2bffa9fccb2c040fde4edcf8a5c80f3bc109bba2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036071"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215351"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione di Archiviazione Exchange Online
 
@@ -37,7 +37,7 @@ Gli amministratori possono utilizzare l'interfaccia di amministrazione di Exchan
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Spostamento dei messaggi su Archiviazione Exchange Online
 
-Gli utenti possono trascinare i messaggi dai file .pst nell'archivio per accedevi in modo facile online. Inoltre, gli utenti possono spostare gli elementi di posta elettronica dalla cassetta postale principale a quella di archiviazione in modo automatico tramite i criteri di archiviazione. In questo modo, è possibile ridurre la dimensione della cassetta postale principale e migliorarne le prestazioni. Tale comportamento è differente rispetto a quello di Exchange Hosted Archive, poiché quest'ultimo crea nell'archivio una copia secondaria di ogni messaggio. Ciò nonostante, i requisiti di conservazione vengono soddisfatti in entrambi gli scenari. Per visualizzare i dettagli relativi ad ulteriori metodi per spostare i messaggi nell'archivio, consultare l'articolo [Cassette postali di archiviazione in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).
+Gli utenti possono trascinare e rilasciare i messaggi dai file pst all'archivio, per semplificare l'accesso in linea. Gli utenti inoltre possono spostare gli elementi di posta elettronica dalla cassetta postale principale la cassetta postale di archiviazione automatica, con quelli di archiviazione, per ridurre le dimensioni e migliorare le prestazioni della cassetta postale principale. Durante questo comportamento è diverso da quello di Exchange Hosted Archive, che verrà creata una copia secondaria di ogni messaggio nell'archivio, è possono ottenere i requisiti di conservazione in entrambi gli scenari. 
   
 ### <a name="import-data-to-the-archive"></a>Importazione di dati nell'archivio
 

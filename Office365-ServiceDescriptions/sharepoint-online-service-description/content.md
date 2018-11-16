@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le seguenti funzionalità di contenuto semplice gestione contenuto aziendale (ECM) per tutti gli utenti. È la combinazione di gestione dei contenuti tradizionali, funzionalità di social networking e scenari di ricerca.
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036097"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215381"
 ---
 # <a name="content"></a>Contenuto
 
@@ -39,7 +39,7 @@ Una Raccolta risorse è preconfigurata per l'utilizzo di funzionalità speciali 
 ## <a name="auditing"></a>Controllo
 <a name="bkmk_Auditing"> </a>
 
-Gli amministratori della raccolta siti di SharePoint Online possono utilizzare la funzionalità di controllo per tenere traccia delle varie azioni eseguite dai diversi utenti sui siti, i tipi di contenuto, gli elenchi, le raccolte, le voci degli elenchi e i file di libreria delle raccolte siti. Ulteriori informazioni sulla [configurazione delle impostazioni di controllo per una raccolta siti](https://go.microsoft.com/fwlink/?LinkId=270950).
+Gli amministratori della raccolta siti SharePoint Online è possono utilizzare la funzionalità di controllo per tenere traccia gli utenti che sono state le azioni siti, i tipi di contenuto, elenchi, raccolte, voci di elenco, e del file della raccolta di raccolte siti. Ulteriori informazioni sulla [configurazione delle impostazioni di controllo per una raccolta siti](https://go.microsoft.com/fwlink/?LinkId=270950).
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Controllo &amp; report (ad esempio, modifiche doc, modifiche dei criteri, eliminazioni)
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ Una Libreria è preconfigurata per l'utilizzo di funzionalità speciali che aiut
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM: Ottimizzazioni motori di ricerca (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-L'ottimizzazione di un sito Web pubblico per la ricerca è molto importante per la connessione con i clienti nuovi e ricorrenti. SharePoint Online include funzionalità SEO incorporate, quali robots.txt personalizzabili e il metatag a livello di pagina per consentire alle organizzazioni di regolare agevolmente i siti per risultati di ricerca migliori. Ulteriori informazioni sull'[ottimizzazione del sito Web per la ricerca (SEO)](https://go.microsoft.com/fwlink/?LinkId=270932).
+Ottimizzazione di un sito Web pubblico per la ricerca è estremamente importante per la connessione con i clienti nuovi e restituzione. SharePoint Online include funzionalità SEO incorporate, ad esempio personalizzabili robots. txt e metatagging a livello di pagina in modo che le organizzazioni possono ottimizzare con facilità siti per migliorare la ricerca.
   
 ## <a name="word-automation-services"></a>Servizi di automazione di Word
 <a name="bkmk_WordAutomationServices"> </a>

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci ed evoluzioni del settore pubblico negli Stati Uniti, Microsoft ha creato i piani di Office 365 US Government (orOffice 365 gli Stati Uniti). In questa sezione viene fornita una panoramica delle caratteristiche specifici di Office 365 US pubblici. È consigliabile leggere questa sezione supplementare con le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696141"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293517"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -185,8 +185,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 |Project Online  <br/> |Nessun<sup>2</sup> <br/> |Nessun<sup>2</sup> <br/> |Nessun<sup>2</sup> <br/> |Nessun<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |Nessun<sup>4</sup> <br/> |Nessun<sup>4</sup> <br/> |Nessun<sup>4</sup> <br/> |Nessun<sup>4</sup> <br/> |
    
-> <sup>1</sup> Skype per Business Basic è disponibile per tutti i clienti. Skype per client desktop Business è un'applicazione installata localmente che offre presenza, messaggistica immediata e le funzionalità di conferenza per piani di Office 365 che includono Skype Business online. Office 365 ProPlus, G3 e G5 includono l'applicazione Skype completa, che include la funzionalità aggiuntive, ad esempio funzionalità telefoniche avanzate supporto, archiviazione e conformità. Skype per licenza Business Online deve essere assegnato per ogni utente.<br/><sup>2</sup> non incluso ma può essere acquistato come componente aggiuntivo separato. 
-<br/> <sup>3</sup> non ancora disponibili in plan le alta o DoD, ma disponibile a breve. 
+> <sup>1</sup> Skype per Business Basic è disponibile per tutti i clienti. Skype per client desktop Business è un'applicazione installata localmente che offre presenza, messaggistica immediata e le funzionalità di conferenza per piani di Office 365 che includono Skype Business online. Office 365 ProPlus, G3 e G5 includono l'applicazione Skype completa, che include la funzionalità aggiuntive, ad esempio funzionalità telefoniche avanzate supporto, archiviazione e conformità. Skype per licenza Business Online deve essere assegnato per ogni utente.<br/><sup>2</sup> non incluso ma può essere acquistato come componente aggiuntivo separato. Project Online include Project Online Desktop Client come parte della sottoscrizione.<br/> <sup>3</sup> non ancora disponibili in plan le alta o DoD, ma disponibile a breve. 
 <br/><sup>4</sup> yammer Enterprise non è un componente di Office 365 US pubblici, ma può essere acquisito senza alcun costo come un'offerta autonoma per ogni utente dispone di una licenza per Office 365 in GCC. Questa proposta è attualmente limitata ai clienti che acquistare Office 365 le in Enterprise Agreement ed Enterprise Agreement sottoscrizione. Yammer non è disponibile in alto le o DoD.<br/><sup>5</sup> pianificare la chiamata è un componente aggiuntivo. 
   
 ## <a name="platform-features"></a>Funzionalità della piattaforma
