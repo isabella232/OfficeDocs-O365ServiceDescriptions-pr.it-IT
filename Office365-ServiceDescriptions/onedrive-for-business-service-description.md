@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business è uno spazio di archiviazione online personale nel cloud, fornito dall'azienda. Può essere usato per archiviare e proteggere file di lavoro, accedendovi con facilità da più dispositivi. È possibile condividere i propri file con i colleghi se necessario e collaborare sui documenti di Office in tempo reale con le app più recenti per dispositivi mobili, Web e desktop di Office. È possibile inoltre sincronizzare i file sul computer locale utilizzando il client di sincronizzazione di OneDrive for Business.
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035990"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215361"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descrizione del servizio OneDrive for Business
 
@@ -101,7 +101,7 @@ I seguenti piani forniscono archiviazione illimitata sul cloud personale a tutte
     
 Le sottoscrizioni con meno di 5 utenti ottengono 1 TB di spazio di archiviazione sul cloud personale per ogni utente. 
   
-I clienti verranno inizialmente dotati di 1 TB di spazio di archiviazione sul cloud personale per ogni utenti in OneDrive for Business. È possibile [aumentare lo spazio di archiviazione predefinito in OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) fino a 5 TB per ogni utente con l'aiuto dell'amministratore di Office 365. 
+I clienti verranno inizialmente dotati di 1 TB di spazio di archiviazione sul cloud personale per ogni utente in OneDrive for Business. È possibile [aumentare lo spazio di archiviazione predefinito in OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) fino a 5 TB per ogni utente con l'aiuto dell'amministratore di Office 365 quando la quota di 1TB è piena al 90%. 
   
 > [!NOTE]
 > È necessario assegnare almeno una licenza a un utente prima di poter aumentare lo spazio di archiviazione predefinito in OneDrive. 
