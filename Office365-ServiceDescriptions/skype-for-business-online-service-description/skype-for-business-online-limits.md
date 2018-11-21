@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'I limiti in Skype Business online rientrano nelle categorie seguenti:'
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296866"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625891"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti in Skype for Business Online
 
@@ -127,7 +127,7 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Tipo di riunione** <br/> |**Descrizione** <br/> 
-|Riunione singola| 14 giorni dopo end, ultima attivazione riunione o l'ultimo aggiornamento in riunione - qualunque sia il più recente.
+|Riunione singola| Riunione potranno almeno fino a 14 giorni dopo l'ora pianificata l'ultima attivazione della riunione o ultimo aggiornamento della riunione, se più recente.
 |Riunione ricorrente con data di fine| Riunione potranno almeno fino a 14 giorni dopo l'ora di fine pianificata dell'ultima occorrenza della riunione, o ultima attivazione della riunione o della riunione ultimo aggiornamento, se più recente.
 |Riunione ricorrente senza data di fine| Riunione sarà sempre accessibile forniti sono disponibili nuovi join conferenza (attivazioni) o pianificazione degli aggiornamenti almeno una volta all'anno
 |     Inizia discussione|Riunione saranno accessibili per almeno 8 ore.
