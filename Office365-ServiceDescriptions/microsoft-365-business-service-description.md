@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft Business 365 è una soluzione integrata riunire la produttività ottimale in classe di Office 365 con funzionalità avanzate di gestione di dispositivi e protezione per proteggere l'organizzazione. . Descrizione dei servizi vengono descritte le funzionalità e le opzioni di pianificazione. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
-ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857314"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674223"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -117,8 +117,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Funzionalità di gestione di identità e accesso nel cloud** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility Suite** <br/> |
-|Single Sign-On (SSO) per \> 10 app  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Autenticazione a più fattori (MFA)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
+|Autenticazione a più fattori di Office 365 (MFA)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Unità amministrative  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Individuazione di app per cloud  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Gruppi dinamici  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
@@ -127,7 +126,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Sincronizzazione bidirezionale di oggetti dispositivo tra directory locali e Azure AD (write-back dispositivo)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Accesso condizionale (basato su gruppo, posizione, stato del dispositivo, accesso o rischio utente)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Personalizzazione delle società (pagine di accesso, personalizzazione del riquadro di accesso)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Criterio di applicazione  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Proxy di applicazione  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |User CAL (Licenza di accesso da parte dell'utente) di Microsoft Identity Manager (MIM)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Connect Health  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Contratto di servizio del 99,9%  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
