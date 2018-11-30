@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: La protezione di Office 365 &amp; centro conformità è progettato per la gestione delle funzionalità di conformità in Office 365 per l'organizzazione. Collegamenti alle funzionalità di conformità di SharePoint ed Exchange esistenti riunire funzionalità di conformità in Office 365.
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036110"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988557"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Protezione di Office 365 &amp; centro conformità
+# <a name="office-365-security-amp-compliance-center"></a>Centro sicurezza e &amp;conformità di Office 365
 
 Il [protezione di Office 365 &amp; centro conformità](https://go.microsoft.com/fwlink/?LinkID=824876) è progettato per la gestione delle funzionalità di conformità in Office 365 per l'organizzazione. Collegamenti alle funzionalità di conformità di SharePoint ed Exchange esistenti riunire funzionalità di conformità in Office 365. 
   
@@ -61,7 +61,7 @@ Il [protezione di Office 365 &amp; centro conformità](https://go.microsoft.com/
 |[Gestione delle minacce avanzata](https://go.microsoft.com/fwlink/?linkid=846673), ad esempio, Customer Lockbox e ricerca minacce per campagne di phishing  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Gestione dei dispositivi mobili](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Prevenzione della perdita di dati](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
-|[Governance dei dati](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |Yes<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Governance dei dati](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Yes<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati avanzata](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Ricerca e analisi](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricerca eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |

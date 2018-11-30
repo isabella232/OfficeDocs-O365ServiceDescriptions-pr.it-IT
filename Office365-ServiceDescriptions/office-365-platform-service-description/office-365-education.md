@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in diversi piani per soddisfare al meglio le esigenze dell'organizzazione. Se si sta cercando le differenze tra i piani di formazione di Office 365, in questo articolo verrà indicato le funzionalità disponibili in ciascuna di esse. Office 365 combina la famiglia di prodotti desktop Microsoft Office familiarità con le versioni basate su cloud delle comunicazioni di ultima generazione e servizi di collaborazione di Microsoft, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office Online e Microsoft Skype Business online, per consentire agli utenti di essere produttivi ovunque tramite Internet.
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215401"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988577"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -32,7 +32,7 @@ Ogni piano di formazione di Office 365 include un numero di singoli servizi, qua
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**A5 Office 365** <sup>3</sup> <br/> |
+|**Servizio** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**A5 Office 365** <sup>3</sup> <br/> |
 |Piattaforma di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Exchange Online  <br/> |Yes<sup>5</sup> <br/> |Yes<sup>4</sup> <br/> |Yes<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -195,7 +195,7 @@ Il [protezione di Office 365 &amp; centro conformità](https://go.microsoft.com/
 |[Gestione di rischio avanzata](https://go.microsoft.com/fwlink/?linkid=846673) , ad esempio explorer archivio protetto e rischio di clienti per campagne di phishing <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Gestione dei dispositivi mobili](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Prevenzione della perdita di dati](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Governance dei dati](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Governance dei dati](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati avanzata](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Ricerca e indagini]<br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricerca eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
