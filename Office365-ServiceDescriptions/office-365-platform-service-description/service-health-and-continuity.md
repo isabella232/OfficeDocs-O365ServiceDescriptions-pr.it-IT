@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e per scoprire tutto momento della pianificazione di manutenzione. Informazioni di stato del servizio sono disponibile in qualsiasi momento eseguendo l'accesso a Office 365.
-ms.openlocfilehash: cc19a26f7bef070837b1dfa53df927373fd35d3e
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
+ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036140"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258738"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
@@ -29,7 +29,7 @@ Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei ser
   
 ## <a name="view-status-of-services"></a>Visualizzazione dello stato dei servizi
 
-La sezione dello stato del servizio di Office 365 indicato lo stato corrente del servizio e informazioni dettagliate sulle interruzioni del servizio e interruzioni. Informazioni di manutenzione pianificate sono disponibili per il centro di messaggio. Per ulteriori informazioni, vedere [visualizzare lo stato dei servizi](https://go.microsoft.com/fwlink/p/?LinkID=270178). 
+La sezione dello stato del servizio di Office 365 indicato lo stato corrente del servizio e informazioni dettagliate sulle interruzioni del servizio e interruzioni. Informazioni di manutenzione pianificate sono disponibili per il centro di messaggio. Per ulteriori informazioni, vedere [visualizzare lo stato dei servizi](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Incidenti di servizio
 
@@ -49,7 +49,7 @@ Quando si verifica un problema di servizio, Microsoft riconosce che tempestivo, 
 
 ### <a name="office-365-admin-app"></a>Applicazione Office 365 Admin
 
-L'applicazione Amministrazione per gli amministratori tenant Office 365 offre la possibilità di connettersi con stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori di Office 365 tenant avrà la possibilità di visualizzare servizio integrità informazioni e la manutenzione aggiornamenti dello stato dai dispositivi mobili. Per ulteriori informazioni, vedere [Domande frequenti su applicazioni di amministrazione](https://community.office365.com/en-us/w/manage/office-365-admin-app-faq.aspx).
+L'applicazione Amministrazione per gli amministratori tenant Office 365 offre la possibilità di connettersi con stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori di Office 365 tenant avrà la possibilità di visualizzare servizio integrità informazioni e la manutenzione aggiornamenti dello stato dai dispositivi mobili. Per ulteriori informazioni, vedere [Domande frequenti su applicazioni di amministrazione](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Management Pack di Office 365 per Microsoft System Center 2012 R2
 
