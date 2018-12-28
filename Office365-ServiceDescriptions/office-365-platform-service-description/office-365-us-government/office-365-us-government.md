@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci ed evoluzioni del settore pubblico negli Stati Uniti, Microsoft ha creato i piani di Office 365 US Government (orOffice 365 gli Stati Uniti). In questa sezione viene fornita una panoramica delle caratteristiche specifici di Office 365 US pubblici. È consigliabile leggere questa sezione supplementare con le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
+ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213913"
+ms.lasthandoff: 12/27/2018
+ms.locfileid: "27449920"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -197,25 +197,25 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 US Government G1** <br/> |**Office 365 G3 Government negli Stati Uniti** <br/> |**Office 365 G5 Government negli Stati Uniti** <br/> |**Office 365 F1 Government negli Stati Uniti** <br/> |
 |**Amministrazione di Office 365** <br/> |||||
-|Amministrazione di Office 365 mediante l'interfaccia di amministrazione di Office 365  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Sì  <br/> |Yes<sup>15</sup> <br/> |
+|Amministrazione di Office 365 mediante l'interfaccia di amministrazione di Office 365  <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |Sì  <br/> |Yes<sup>16</sup> <br/> |
 |Gestione delle impostazioni dei principali servizi da Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Utilizzare Windows PowerShell per gestire Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |No<sup>1</sup> <br/> |Yes<sup>9</sup> <br/> |Sì  <br/> |No<sup>1</sup> <br/> |
+|Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |No<sup>1</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup>  <br/> |No<sup>1</sup> <br/> |
 |**[Funzionalità della famiglia di prodotti Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 G3 Government negli Stati Uniti** <br/> |**Office 365 G5 Government negli Stati Uniti** <br/> |**Office 365 F1 Government negli Stati Uniti** <br/> |
 |Microsoft Bookings  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Microsoft Flow  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
-|Microsoft Forms  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
+|Microsoft Forms  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |API di Microsoft Graph  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft MyAnalytics  <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |
-|Microsoft Planner  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
+|Microsoft Planner  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |
 |App di Microsoft Power  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
-|Microsoft StaffHub  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
+|Microsoft StaffHub  <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |
 |Microsoft Stream  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |No  <br/> |
-|Microsoft Sway  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
-|Microsoft Teams  <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |
-|Office Delve  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Sì  <br/> |Yes<sup>9, 15</sup> <br/> |
+|Microsoft Sway  <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |
+|Microsoft Teams  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |
+|Office Delve  <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Sì  <br/> |Yes<sup>17</sup> <br/> |
 |Gruppi di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Video di Office 365  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |No  <br/> |
+|Microsoft Stream  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |No  <br/> |
 |**[Gestione degli account utente](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 G3 Government negli Stati Uniti** <br/> |**Office 365 G5 Government negli Stati Uniti** <br/> |**Office 365 F1 Government negli Stati Uniti** <br/> |
 |Identità cloud  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Identità federata (Single Sign-On)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -282,14 +282,14 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Protocolli IPv4 e IPv6  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**Attendibilità** <br/> |**Office 365 US Government G1** <br/> |**Office 365 G3 Government negli Stati Uniti** <br/> |**Office 365 G5 Government negli Stati Uniti** <br/> |**Office 365 F1 Government negli Stati Uniti** <br/> |
 |**[Privacy, sicurezza e trasparenza](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
-|Governance dei dati avanzata  <br/> |Nessun<sup>12, 15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |Yes<sup>15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |
+|Governance dei dati avanzata  <br/> |Nessun<sup>12</sup> <br/> |Nessun<sup>12</sup> <br/> |Sì <br/> |Nessun<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |Nessun<sup>11, 12</sup> <br/> |Nessun<sup>11, 12</sup> <br/> |Yes<sup>11</sup> <br/> |Nessun<sup>11, 12</sup> <br/> |
 |Protezione avanzata dalle minacce  <br/> |Nessun<sup>12</sup> <br/> |Nessun<sup>12</sup> <br/> |Sì  <br/> |Nessun<sup>12</sup> <br/> |
 |Customer Lockbox  <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Nessun<sup>9, 12, 15</sup> <br/> |
-|Office 365 Advanced eDiscovery  <br/> |Nessun<sup>12, 15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |Sì  <br/> |Nessun<sup>9, 15</sup> <br/> |
-|Secure Score<sup>14</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |
-|Crittografia dei messaggi di Office  <br/> |No  <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |No  <br/> |
-|Intelligence per le minacce  <br/> |Nessun<sup>12, 15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |Yes<sup>15</sup> <br/> |Nessun<sup>12, 15</sup> <br/> |
+|Office 365 Advanced eDiscovery  <br/> |Nessun<sup>12</sup> <br/> |Nessun<sup>12</sup> <br/> |Sì  <br/> |Nessun<sup>12</sup> <br/> |
+|Secure Score<sup>14</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9</sup> <br/> |Yes<sup>9, 15</sup> <br/> |Yes<sup>9, 15</sup> <br/> |
+|Crittografia dei messaggi di Office  <br/> |No  <br/> |Sì <br/> |Sì <br/> |No  <br/> |
+|Intelligence per le minacce  <br/> |Nessun<sup>12</sup> <br/> |Nessun<sup>12</sup> <br/> |Sì <br/> |Nessun<sup>12</sup> <br/> |
 |**[Conformità [descrizione del servizio]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |Valutazioni SAS 70 / SSAE16  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Certificato ISO 27001  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -316,7 +316,8 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 <br/><sup>11</sup> non ancora disponibile In Office 365 US offerte del governo, ma disponibile a breve. ><br/><sup>12</sup> non incluso, ma può essere acquistato come componente aggiuntivo separato in GCC. 
 <br/><sup>13</sup> non supportato per Office 365 US offerte del governo. 
 <br/><sup>14</sup> disponibile all'indirizzo [https://securescore.office.com](https://securescore.office.com). Sono necessarie le autorizzazioni di amministratore. Per ulteriori informazioni, vedere [Introduzione il punteggio sicura di Office 365](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>15</sup> non ancora disponibile nell'ambiente DoD, ma disponibile a breve. 
-<br><sup>16</sup> non è disponibile in alto le o DoD.
+<br><sup>16</sup> Admin Center non include Analitica utilizzo in ambienti DoD o le alta
+<br><sup>17</sup> non è supportata per gli ambienti le alta o DoD
   
 [Come utilizzare la sezione Service Description](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -380,4 +381,3 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 <br/>Per ulteriori dettagli <sup>5</sup> vedere [Utilizzo di Outlook per iOS e Android in Government Community Cloud](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) .
   
 [Come utilizzare la sezione Service Description](office-365-us-government.md#how-to-use-this-service-description-section)
-
