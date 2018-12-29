@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 è disponibile in diversi piani per soddisfare al meglio le esigenze dell'organizzazione. Se si sta cercando le differenze tra piani di Office 365, inclusi i piani di Exchange Online, in questo articolo verrà indicato le funzionalità disponibili in ciascuna di esse.
-ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
+ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362861"
+ms.lasthandoff: 12/28/2018
+ms.locfileid: "27459709"
 ---
 # <a name="office-365-platform-service-description"></a>Descrizione dei servizi della piattaforma Office 365
 
@@ -92,7 +92,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
 |Amministrazione di Office 365 tramite interfaccia di amministrazione di Office 365 oppure Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |Nessun<sup>2</sup> <br/> |Nessun<sup>2</sup> <br/> |Nessun<sup>2</sup> <br/> |Nessun<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |Nessun<sup>2</sup> <br/> |
@@ -157,10 +157,10 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Malware principali nella posta  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Corrispondenze alle regole nella posta  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Corrispondenze alle regole principali per la posta  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Corrispondenze di criteri DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Corrispondenze di criteri DLP per livello di gravità per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Corrispondenza, sostituzioni e falsi positivi dei criteri DLP per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Corrispondenze alle regole DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Corrispondenze di criteri DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Corrispondenze di criteri DLP per livello di gravità per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Corrispondenza, sostituzioni e falsi positivi dei criteri DLP per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Corrispondenze alle regole DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Sessioni di messaggistica immediata e audio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Conferenze di condivisione applicazioni, Web e telefoniche con accesso esterno  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sessioni video, di condivisione applicazioni e di trasferimento file  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
