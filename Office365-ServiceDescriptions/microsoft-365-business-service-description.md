@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft Business 365 è una soluzione integrata riunire la produttività ottimale in classe di Office 365 con funzionalità avanzate di gestione di dispositivi e protezione per proteggere l'organizzazione. . Descrizione dei servizi vengono descritte le funzionalità e le opzioni di pianificazione. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
-ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
+ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2018
-ms.locfileid: "26674223"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784888"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -122,7 +122,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Individuazione di app per cloud  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Gruppi dinamici  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Reimpostazione della password in modalità self-service per le identità cloud  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Reimpostazione della password in modalità self-service con write-back AD locale  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Reimpostazione della password in modalità self-service con write-back AD locale  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Sincronizzazione bidirezionale di oggetti dispositivo tra directory locali e Azure AD (write-back dispositivo)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Accesso condizionale (basato su gruppo, posizione, stato del dispositivo, accesso o rischio utente)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Personalizzazione delle società (pagine di accesso, personalizzazione del riquadro di accesso)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |

@@ -3,7 +3,7 @@ title: Privacy, sicurezza e trasparenza
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft apprezza il suo rapporto con i clienti e considera fondamentale proteggere la privacy e la sicurezza dei dati dei clienti. Per ulteriori informazioni, visitare il Centro protezione Microsoft.
-ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036063"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784858"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, sicurezza e trasparenza
 
@@ -55,7 +55,7 @@ Customer Lockbox è incluso nel piano 5 di Office 365 Enterprise oppure è possi
   
 ## <a name="advanced-threat-protection"></a>Protezione avanzata dalle minacce
 
-Exchange Online Advanced Threat Protection è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da malware e virus. ATP include le funzionalità Allegati sicuri e Collegamenti sicuri. Collegamenti sicuri protegge in modo tempestivo gli utenti da collegamenti ipertestuali dannosi in un messaggio, fornendo protezione ogni volta che il collegamento viene selezionato. La funzionalità Allegati sicuri protegge da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non dispongono di una firma di virus/malware nota in un ambiente speciale in cui ATP può rilevare attacchi dannosi. Per ulteriori informazioni su ATP, vedere [Descrizione del servizio Exchange Online Advanced Threat Protection](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx).
+Protezione di Office 365 avanzate rischio contribuisce a proteggere l'organizzazione da virus e malware. Degli strumenti di analisi include caratteristiche [Collegamenti sicuro](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Gli allegati sicuri](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)e [Business intelligence di spoofing](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Collegamenti sicuri protegge in modo proattivo gli utenti da collegamenti ipertestuali pericolosi in un messaggio fornendo una protezione ogni volta che viene fatto clic sul collegamento. Gli allegati sicuri protegge da malware sconosciuto e virus, il routing di tutti i messaggi e allegati che non dispongono di una firma virus/il malware noto in un ambiente speciale dove degli strumenti di analisi in grado di rilevare dannose. Per ulteriori informazioni su strumenti di analisi, vedere [Office 365 avanzate Threat Protection Service Description](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
