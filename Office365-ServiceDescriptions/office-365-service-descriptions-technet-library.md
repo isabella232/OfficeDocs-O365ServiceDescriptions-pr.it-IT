@@ -1,5 +1,5 @@
 ---
-title: 'Descrizioni dei servizi di Office 365 '
+title: 'Descrizioni del servizio Office 365 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud progettata per soddisfare le esigenze dell'organizzazione per la sicurezza, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035960"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694660"
 ---
-# <a name="office-365-service-descriptions"></a>Descrizioni dei servizi di Office 365 
+# <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
 Microsoft Office 365 è un servizio basato su cloud progettata per soddisfare le esigenze dell'organizzazione per la sicurezza, l'affidabilità e la produttività degli utenti. 
   
@@ -33,7 +33,7 @@ Per cercare articoli di supporto e informazioni, vedere [Supporto Office](https:
 > [!NOTE]
 > Se si sta cercando il foglio di calcolo di confronto Descrizione del servizio, è stato ritirato. Le tabelle di disponibilità delle funzionalità dei prodotti in ogni pagina Descrizione del servizio sono state aggiornate per aiutare gli utenti a scegliere la versione di Office 365 più adatta alle proprie esigenze. 
   
-Microsoft offre l'Onboarding benefit Office 365 per servizi nei piani ammissibili. L'Onboarding benefit consente di lavorare in remoto con specialisti Microsoft per ottenere il proprio ambiente Office 365 pronto per l'uso. Per ulteriori informazioni, vedere [Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx).
+Microsoft offre il vantaggio di centro FastTrack per Office 365 per servizi nei piani idonei. Il vantaggio consente di lavorare in modalità remota con esperti di Microsoft per prepararsi per l'utilizzo dell'ambiente Office 365. Per ulteriori informazioni, vedere [FastTrack centro vantaggio per Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Per iniziare, vedere le descrizioni dei seguenti servizi:
   
@@ -65,7 +65,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione del servizio Visio Online](visio-online-service-description/visio-online-service-description.md)
     
-- [Descrizione servizio Yammer](yammer-service-description/yammer-service-description.md)
+- [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
     
 - [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     
