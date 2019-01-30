@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (in precedenza Office Web Apps) Apre i documenti di Word, Excel, OneNote e PowerPoint nel web browser. Office Online è più semplice utilizzare e condividere i file di Office da qualsiasi luogo con una connessione Internet, da qualsiasi dispositivo. I clienti di Microsoft Office 365 con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare i file in viaggio.
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435824"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612769"
 ---
 # <a name="office-online-service-description"></a>Descrizione servizi Office Online
 
@@ -32,7 +32,7 @@ Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina r
 Assistenza per capire quale soluzione Office migliore si adatta alle organizzazione? Nelle tabelle seguenti sono confrontare le funzionalità Office Online con quelle per le applicazioni desktop Microsoft Office numerose funzionalità. Utilizzare le tabelle per scoprire quali funzionalità sono disponibili in Office Online e quindi fare clic sul nome della caratteristica per leggere una breve descrizione sul funzionamento di tale funzionalità. È possibile riscontrare che alcune persone all'interno dell'organizzazione richiedono la possibilità di creazione di grafici avanzata dell'app desktop Excel mentre altri devono solo visualizzare e modificare limitata documenti di Word e presentazioni di PowerPoint con Office Online. 
   
 > [!NOTE]
->  Una selezione limitata delle caratteristiche di Office è stato scelto per rappresentare la funzionalità avanzata della famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo delle funzionalità di Microsoft Office. > Microsoft Office 365 ProPlus è una sottoscrizione mensile della famiglia di prodotti desktop Office più recente. > È possibile ottenere una licenza di modifica se che hanno acquistato una licenza di famiglia di prodotti desktop Office (ad esempio, una licenza di Office Professional Plus, Office Standard o Office 365 ProPlus) Office Online clienti locali Microsoft Office Online Server. 
+>  Una selezione limitata delle caratteristiche di Office è stato scelto per rappresentare la funzionalità avanzata della famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo delle funzionalità di Microsoft Office. gt _ Microsoft Office 365 ProPlus è una sottoscrizione mensile della famiglia di prodotti desktop Office più recente. gt _ Microsoft Office Online Server locale clienti di ottenere una licenza di modifica Office Online hanno acquistato una licenza di famiglia di prodotti desktop Office (ad esempio, una licenza di Office Professional Plus, Office Standard o Office 365 ProPlus). 
   
 > [!NOTE]
 > Quando si apre un documento Office, come allegato di Outlook o da una raccolta di documenti di SharePoint, il documento viene aperto in Office Online in sola lettura. Per modificare un documento in Office Online (modalità di modifica), è necessaria una licenza per la famiglia di prodotti Office 365, come ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza per la famiglia di prodotti desktop Office (ad esempio, una sottoscrizione a Office 365 ProPlus o una versione installata di Office Professional Plus 2010). 
@@ -111,7 +111,7 @@ Assistenza per capire quale soluzione Office migliore si adatta alle organizzazi
 |[Zoom](word-online.md#zoom) <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> queste rendering nel visualizzatore, ma non possono creare o modificare in Office Online. > <sup>2</sup> alcuni, ma non tutti i componenti aggiuntivi Office sono disponibili. 
+> <sup>1</sup> queste rendering nel visualizzatore, ma non possono creare o modificare in Office Online. gt _ <sup>2</sup> alcuni, ma non tutti i componenti aggiuntivi Office sono disponibili. 
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -204,6 +204,9 @@ Assistenza per capire quale soluzione Office migliore si adatta alle organizzazi
 |[Creazione condivisa](onenote-online.md#co-authoring) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione e gestione di pagine e sezioni](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Sì  <br/> |Sì  <br/> |
 |[Download della copia di file Office incorporati](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Sì  <br/> |Yes<sup>4</sup> <br/> |
+|[Trascinamento della selezione pagine] <br/> |Sì  <br/> |Sì <br/> |
+|[Trascinamento della selezione sezioni] <br/> |Sì  <br/> |Sì <br/> |
+|[Trascinare e rilasciare i gruppi di sezioni] <br/> |No  <br/> |Sì <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sì  <br/> |Sì  <br/> |
 |[Modifica dei file incorporati](onenote-online.md#EmbeddedFileEdit) <br/> |No  <br/> |Sì  <br/> |
 |[Equazioni](onenote-online.md#equations) <br/> |Sì  <br/> |Sì  <br/> |

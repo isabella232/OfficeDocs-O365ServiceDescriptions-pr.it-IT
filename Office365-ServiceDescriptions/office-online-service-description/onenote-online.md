@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilizzare in linea di OneNote (noto in precedenza OneNote Web App) per prendere appunti in linea in un blocco appunti di OneNote che è possibile aggiungere a ovunque e condividere con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare limitata i file di Office utilizzando Office Online.
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036069"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612749"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ Con OneNote Online, è possibile utilizzare i pulsanti Avanti e Indietro (in sti
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Gestione del blocco appunti: archiviazione delle pagine del blocco/sezione trasversale, riordino delle sezioni, creazione/eliminazione di gruppi di sezione
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-Non è disponibile in OneNote Online. Le funzionalità di gestione avanzata (come il riordino delle sezioni, la creazione ed eliminazione di gruppi di sezioni e il trascinamento per l'archiviazione delle pagine) sono disponibili solo nell'app desktop OneNote. 
+Con OneNote Online, è possibile trascinare e rilasciare per riordinare le pagine e sezioni.  
+Gestione funzioni avanzate, ad esempio la creazione, eliminazione e riordinare i gruppi di sezioni sono disponibili solo nell'app desktop OneNote.
   
 ## <a name="offline-viewing-and-authoring"></a>Creazione e visualizzazione offline
 <a name="bkmk_Offlineviewing"> </a>
