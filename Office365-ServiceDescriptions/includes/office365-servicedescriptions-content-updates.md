@@ -3,16 +3,6 @@
 
 
 
-## <a name="week-of-december-24-2018"></a>Settimana del 24 dicembre 2018
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 27/12/2018 | [Centro sicurezza e conformità di Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificato |
-| 27/12/2018 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | modificato |
-| 28/12/2018 | [Descrizione del servizio della piattaforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificato |
-
-
 ## <a name="week-of-december-31-2018"></a>Settimana del 31 dicembre 2018
 
 
@@ -52,3 +42,15 @@
 |------|------------|--------|
 | 24/1/2019 | [Descrizione del servizio Skype for Business Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificato |
 | 24/1/2019 | [Descrizione del servizio della piattaforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificato |
+
+
+## <a name="week-of-january-28-2019"></a>Settimana del 28 gennaio 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 29/01/2019 | [Descrizione del servizio Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificato |
+| 29/01/2019 | [OneNote Online](/Office365/ServiceDescriptions/office-online-service-description/onenote-online) | modificato |
+| 30/1/2019 | [Microsoft 365 Government come acquistare](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | aggiunta |
+| 30/1/2019 | [Microsoft 365 Government come acquistare](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | modificato |
+| 31/1/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | modificato |
