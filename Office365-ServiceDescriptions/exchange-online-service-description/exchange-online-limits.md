@@ -3,7 +3,7 @@ title: Limiti Exchange Online Limits
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 02/19/2019
+ms.date: 02/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
-ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
+ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30103114"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199921"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
@@ -246,6 +246,8 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
     > [!NOTE]
     > Per determinati client di posta elettronica, i limiti di dimensione dei messaggi possono essere inferiori o il limite di dimensione di un singolo file allegato può essere impostato su un valore inferiore al limite stabilito in Exchange Online. 
   
+- **Limite delle dimensioni dell'intestazione del messaggio** Specifica la dimensione massima di tutti i campi di intestazione del messaggio in un messaggio. Il limite corrente è 256 KB. Se la dimensione totale di tutte le intestazioni dei messaggi è superiore a 256 KB, Exchange Online rifiuterà il messaggio con errore "552 le dimensioni delle intestazioni di 5.3.4 superano le dimensioni massime fisse". La dimensione del corpo del messaggio o degli allegati non è considerata. Poiché i campi di intestazione sono di testo normale, le dimensioni dell'intestazione sono determinate dal numero di caratteri in ogni campo di intestazione e dal numero totale di campi di intestazione. Ogni carattere di testo utilizza 1 byte.
+
 - **Lunghezza massima dell'oggetto** Il numero massimo di caratteri di testo consentito nella riga dell'oggetto di un messaggio di posta elettronica. 
     
 - **Limite massimo di file allegati** Numero massimo di allegati consentito in un messaggio di posta elettronica. Anche se la dimensione totale di tutti i file allegati non supera la dimensione massima del messaggio, esiste comunque un limite sul numero di allegati consentiti nel messaggio. Tale limite viene contrallato dal limite dei messaggi a più parti. 
