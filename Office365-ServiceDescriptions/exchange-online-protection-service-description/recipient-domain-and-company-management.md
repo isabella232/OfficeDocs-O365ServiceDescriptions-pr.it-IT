@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP) sono disponibili diversi metodi di gestione dei destinatari, dominio e informazioni sulla società. Come amministratore, è possibile eseguire alcune attività di gestione nell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguita nell'interfaccia di amministrazione di Microsoft Office 365.
-ms.openlocfilehash: 17a87a85611dc286e3d19eaeefe04466a1ac62d0
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) offre diversi mezzi per la gestione delle informazioni relative a destinatari, dominio e società. In qualità di amministratore, è possibile eseguire alcune attività di gestione all'interno dell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'interfaccia di amministrazione di Microsoft 365.
+ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036121"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210329"
 ---
 # <a name="recipient-domain-and-company-management"></a>Gestione destinatari, dominio e società
 
-Microsoft Exchange Online Protection (EOP) sono disponibili diversi metodi di gestione dei destinatari, dominio e informazioni sulla società. Come amministratore, è possibile eseguire alcune attività di gestione nell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguita nell'interfaccia di amministrazione di Microsoft Office 365.
+Microsoft Exchange Online Protection (EOP) offre diversi mezzi per la gestione delle informazioni relative a destinatari, dominio e società. In qualità di amministratore, è possibile eseguire alcune attività di gestione all'interno dell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'interfaccia di amministrazione di Microsoft 365.
   
 Per informazioni su tutte le funzionalità di EOP? vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>destinatari posta
 <a name="BKMK_mailrecipients"> </a>
 
-I destinatari di posta elettronica vengono classificati come utenti o gruppi di posta elettronica e possono essere gestiti attraverso la sincronizzazione di directory, direttamente nella EAC o in remoto Windows PowerShell. Se i destinatari vengono gestiti in locale, è necessario eseguire la sincronizzazione della directory affinché i destinatari di posta elettronica vengano visualizzati nell'interfaccia di amministrazione di Exchange. Gli utenti gestiti esclusivamente nell'interfaccia di amministrazione di Office 365 non sono disponibili in EAC, ma possono essere aggiunti o rimossi dall'appartenenza in un gruppo ruolo amministratore in EAC. Per ulteriori informazioni sui destinatari in EOP, vedere [Destinatario in EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
+I destinatari di posta vengono categorizzati come utenti o gruppi di posta elettronica e possono essere gestiti tramite la sincronizzazione della directory, direttamente nell'interfaccia di amministrazione di Exchange o tramite Windows PowerShell remoto. Se si gestiscono i destinatari in locale, è necessario eseguire la sincronizzazione della directory in modo che i destinatari di posta elettronica vengano riflessi nell'interfaccia di amministrazione di Exchange. Gli utenti gestiti esclusivamente nell'interfaccia di amministrazione di Microsoft 365 non sono visualizzabili in EAC, ma possono essere aggiunti o rimossi dall'appartenenza a un gruppo di ruoli amministratore in EAC. Per ulteriori informazioni sui destinatari in EOP, vedere [Recipients in EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
   
 ## <a name="admin-role-group-permissions"></a>Autorizzazioni del gruppo di ruolo Admin
 <a name="BKMK_adminrolegrouppermissions"> </a>
@@ -39,7 +39,7 @@ In EOP, è possibile configurare solo ruoli amministrativi. Gli utenti possono e
 ## <a name="domain-management"></a>Gestione del dominio
 <a name="BKMK_domainmanagement"> </a>
 
-I domini gestiti sono quelli protetti da EOP. I domini gestiti possono essere visualizzati e i tipi di domini possono essere modificati nell'interfaccia di amministrazione di Exchange. La gestione e il provisioning del dominio avvengono nell'interfaccia di amministrazione di Office 365 admin center e le modifiche vengono riflesse in EAC. Per ulteriori informazioni, vedere [Visualizza o modifica domini gestiti in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+I domini gestiti sono domini protetti da EOP. I domini gestiti possono essere visualizzati e i tipi di dominio possono essere modificati nell'interfaccia di amministrazione di Exchange. Il provisioning e la gestione dei domini si verificano nell'interfaccia di amministrazione di Microsoft 365 e le modifiche vengono riflesse nell'EAC. Per ulteriori informazioni, vedere [View or Edit managEd Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
   
 ## <a name="match-subdomains"></a>Corrispondenza sottodomini
 <a name="BKMK_EOP_Match_Subdomains"> </a>

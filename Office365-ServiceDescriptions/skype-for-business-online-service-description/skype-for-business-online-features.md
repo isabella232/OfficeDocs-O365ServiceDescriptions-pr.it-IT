@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: Se si è amministratori, è possibile trovare istruzioni dettagliate per la configurazione di Skype per le funzionalità di Business in linea in Set up Skype Business online.
-ms.openlocfilehash: eb0822385e6d2b07a356c069fabf3726ee27dc4b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Se si è un amministratore, è possibile trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for business online in Configurare Skype for business online.
+ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036048"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210259"
 ---
 # <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business online
 
-Se si è amministratori, è possibile trovare istruzioni dettagliate per la configurazione di Skype per le funzionalità di Business in linea in [Set up Skype Business online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
+Se si è un amministratore, è possibile trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for business online in [Configurare Skype for business online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
 ## <a name="clients-for-skype-for-business-online"></a>Client per Skype for Business Online
 <a name="BKMK_Clients"> </a>
@@ -110,7 +110,7 @@ Pertanto, Skype for Business Online fornisce agli amministratori dei clienti i s
   
 - Il portale di Microsoft Office 365
     
-- Interfaccia di amministrazione di Microsoft Office 365
+- Interfaccia di amministrazione di Microsoft 365
     
 - Interfaccia di amministrazione di Skype for Business
     
@@ -123,7 +123,7 @@ Per visualizzare gli argomenti e gli articoli contenenti procedure della Guida a
 
 Un'audioconferenza è una qualsiasi conferenza in cui almeno un partecipante accede alla parte audio mediante un telefono. La possibilità di utilizzare un telefono per accedere a una riunione è utile per chi si trova in viaggio o non ha modo di presenziare alla riunione mediante un dispositivo mobile o un PC. L'uso di un telefono, inoltre, può rappresentare un'opzione migliore in altre situazioni, ad esempio se la connessione Internet è limitata o in caso di un'audioconferenza.
   
-Con le conferenze Audio, gli utenti dell'organizzazione possono ospitare o creare riunioni che contengono numeri di telefono di accesso esterno. I chiamanti possono quindi utilizzare tali numeri di telefono per chiamare una riunione con i propri telefoni (gli utenti che accedono a una riunione verranno visualizzati solo audio, non i messaggi istantanei, desktop condivisi o file condiviso nella riunione). È sufficiente impostare componente aggiuntivo per conferenze per gli utenti che prevedono di programmare o condurre riunioni. A meno che l'organizzatore ha bloccato la riunione, tutti gli utenti con il componente aggiuntivo numero e conferenza ID possono partecipare alla riunione. Per ulteriori informazioni, vedere [Guida introduttiva a conferenze Audio](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) e [numeri di accesso disponibili per le audioconferenze](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Con i servizi di audioconferenza, gli utenti dell'organizzazione possono ospitare o creare riunioni che contengono numeri di telefono con accesso esterno. I chiamanti possono quindi utilizzare i numeri di telefono per chiamare una riunione utilizzando i propri telefoni (gli utenti che si connettono a una riunione riceveranno solo l'audio, non i messaggi istantanei, i desktop condivisi o i file condivisi nella riunione). È sufficiente configurare le conferenze telefoniche con accesso esterno per gli utenti che intendono pianificare o condurre riunioni. Se l'organizzatore non ha bloccato la riunione, tutti gli utenti che hanno il numero di accesso esterno e l'ID conferenza possono partecipare alla riunione. Per ulteriori informazioni, vedere [Guida introduttiva a](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) servizi di audioconferenza e [numeri di accesso esterno disponibili per](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)audioconferenza.
   
 In Office 365, è possibile abilitare le conferenze telefoniche con accesso esterno con un provider di servizi di conferenza telefonica con accesso esterno, o un provider di terze parti (denominato anche ACP, Audio Conferencing Provider).
   

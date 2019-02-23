@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
-description: Microsoft Office 365 supporta i metodi seguenti per la creazione, gestione e l'autenticazione degli utenti.
-ms.openlocfilehash: 7481b9e1910cd9ad64d37f095b71bde5a040ae27
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti.
+ms.openlocfilehash: 27c8cc588720eac081856bedf979a7b004a0d1ec
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036087"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210279"
 ---
 # <a name="user-account-management"></a>Gestione degli account utente
 
-Microsoft Office 365 supporta i metodi seguenti per la creazione, gestione e l'autenticazione degli utenti. 
+Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti. 
   
 > [!NOTE]
 > Questo argomento non include informazioni sulle funzionalità di sicurezza che consentono o impediscono l'accesso a singole risorse di Office 365 (ad esempio, il controllo di accesso basato sui ruoli di Microsoft Exchange Online o le opzioni di configurazione della sicurezza in Microsoft SharePoint Online). Per informazioni dettagliate su tali funzionalità, vedere le descrizioni dei servizi [Descrizione del servizio Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) e [Descrizione del servizio SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
@@ -49,7 +49,7 @@ Il tipo di identità influisce sull'esperienza utente e sulle opzioni di gestion
   
 ### <a name="custom-domains-and-identity-options"></a>Domini personalizzati e opzioni di gestione delle identità
 
-Quando si crea un nuovo utente, il nome di accesso e l'indirizzo di posta elettronica di quest'ultimo vengono assegnati al dominio predefinito impostato nell'interfaccia di amministrazione di Office 365. Per ulteriori informazioni, vedere[Aggiungere utenti e dominio in Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+Quando si crea un nuovo utente, il nome di accesso e l'indirizzo di posta elettronica dell'utente vengono assegnati al dominio predefinito come impostato nell'interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni, vedere [aggiungere gli utenti e il dominio a Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
 Per impostazione predefinita, la sottoscrizione Office 365 utilizza il dominio \< _company name_\> **.onmicrosoft.com** creato con l'account.\*. Anziché mantenere il dominio onmicrosoft.com, è possibile aggiungere uno o più domini personalizzati a Office 365 e consentire agli utenti di effettuare l'accesso a qualsiasi dominio convalidato. Il dominio assegnato a ogni utente corrisponde all'indirizzo di posta elettronica visualizzato nei messaggi di posta elettronica inviati e ricevuti. 
   
@@ -77,7 +77,7 @@ Office 365 utilizza l'autenticazione basata su moduli e il traffico di autentica
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Autenticazione a più fattori per Office 365
 
-Con Autenticazione a più fattori per Office 365\*, agli utenti viene richiesto di confermare telefonate, messaggi di testo o un'app di notifica sullo smartphone dopo aver immesso correttamente la password. L'utente può accedere solo dopo la seconda autenticazione. Gli amministratori di Office 365 possono registrare gli utenti per autenticazioni a più fattori nell'interfaccia di amministrazione Office 365. Ulteriori informazioni su [Autenticazioni a più fattori in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Con l'autenticazione a più fattori per Office\*365, gli utenti sono tenuti a riconoscere una telefonata, un messaggio di testo o una notifica sull'app nel proprio smartphone dopo aver inserito correttamente la propria password. Solo dopo la seconda autenticazione, l'utente può accedere. Gli amministratori di Office 365 possono registrare gli utenti per l'autenticazione a più fattori nell'interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni, vedere [autenticazione a più fattori per Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Autenticazione dei rich client
 
@@ -115,7 +115,7 @@ L'esperienza di accesso varia a seconda del tipo di identità di Office 365 in u
   
 ## <a name="creating-user-accounts"></a>Creazione di account utente
 
-È possibile aggiungere utenti a Office 365 in molti modi. Per ulteriori informazioni, vedere [Aggiungere utenti singolarmente o in gruppo a Office 365 - Guida per l'amministratore](https://go.microsoft.com/fwlink/p/?linkid=860006) e [Aggiungere, rimuovere e gestire utenti nell'anteprima dell'Interfaccia di amministrazione di Office 365](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Creare o modificare gli account utente in Office 365 gestito da 21Vianet - Guida di Amministrazione](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409).
+È possibile aggiungere utenti a Office 365 in più modi. Per ulteriori informazioni, vedere [aggiungere utenti singolarmente o in blocco a Office 365-Guida](https://go.microsoft.com/fwlink/p/?linkid=860006) per [gli amministratori e aggiungere, rimuovere e gestire gli utenti nell'anteprima dell'interfaccia di amministrazione di Microsoft 365](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [creare o modificare gli account utente in office 365 gestito da 21ViaNet-guida](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)per gli amministratori.
   
 ## <a name="deleting-accounts"></a>Eliminazione di account
 
@@ -145,7 +145,7 @@ Sono disponibili numerosi strumenti per la reimpostazione delle password per gli
   
 - **Password reimpostata dall'amministratore** Se gli utenti perdono o dimenticano la loro password, gli amministratori possono reimpostarle nel portale Office 365 oppure utilizzando Windows PowerShell. Gli utenti possono cambiare la password solo se conoscono quella corrente. 
     
-    Per i piani Enterprise, se un amministratore perde o dimentica la password, un altro amministratore con ruolo Amministratore globale può reimpostarne la password nell'interfaccia di amministrazione di Office 365 o tramite Windows PowerShell. Per ulteriori informazioni, vedere [Reimpostare la password dell'amministratore](https://go.microsoft.com/fwlink/p/?LinkID=270062). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Creare o ripristinare le password in Office 365 gestito da 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
+    Per i piani Enterprise, se gli amministratori perdono o dimenticano le password, un amministratore diverso con il ruolo di amministratore globale può reimpostare le password degli amministratori nell'interfaccia di amministrazione di Microsoft 365 o tramite Windows PowerShell. Per ulteriori informazioni, vedere [reimpostare le password per gli amministratori](https://go.microsoft.com/fwlink/p/?LinkID=270062). Se si lavora in Office 365 gestito da 21Vianet in Cina, vedere [Change or reset passwords in office 365 operated by 21ViaNet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     
 - **Password cambiata dall'utente con Outlook Web App** La pagina delle opzioni di Outlook Web App include il collegamento ipertestuale Cambia password che reindirizza gli utenti alla pagina **Cambia password**. L'utente deve conoscere la password precedente. Per ulteriori informazioni, vedere [Modificare la password](https://go.microsoft.com/fwlink/p/?LinkID=270063). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Modificare o ripristinare le password in Office 365 gestito da 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     
@@ -167,7 +167,7 @@ Gli amministratori fatturazione di Office 365 possono modificare i dettagli dell
   
 ## <a name="group-management"></a>Gestione dei gruppi
 
-SharePoint Online utilizza i gruppi di sicurezza per controllare l'accesso ai siti. I gruppi di protezione possono essere creati nell'interfaccia di amministrazione di Office 365. Per ulteriori informazioni sui gruppi di protezione, vedere [Creare, modificare o eliminare un gruppo di sicurezza](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409).
+I gruppi di sicurezza vengono utilizzati in SharePoint Online per controllare l'accesso ai siti. È possibile creare i gruppi di sicurezza nell'interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni sui gruppi di sicurezza, vedere [creare, modificare o eliminare un gruppo di sicurezza](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409).
   
 ## <a name="administrator-roles"></a>Ruoli di amministratore
 

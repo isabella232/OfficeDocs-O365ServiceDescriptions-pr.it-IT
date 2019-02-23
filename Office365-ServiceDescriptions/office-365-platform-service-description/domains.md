@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica di Office 365 e altri servizi per il nome dell'azienda. Una volta completata la procedura guidata, la posta elettronica aziendale inizia a Office 365 anziché al provider di posta elettronica corrente. Per ulteriori informazioni, vedere aggiungere utenti e i domini a Office 365. Se si utilizza Office 365 gestito dal 21Vianet, vedere Verify del dominio.
-ms.openlocfilehash: 47c378482b8a8d09e2f2516968af99af9472c641
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica e altri servizi di Office 365 nel nome dell'azienda. Al termine della procedura guidata, il messaggio di posta elettronica aziendale inizia a venire a Office 365 anziché andare al provider di posta elettronica corrente. Per ulteriori informazioni, vedere Aggiungere utenti e domini a Office 365. Se si utilizza Office 365 gestito da 21Vianet, vedere Verificare il dominio.
+ms.openlocfilehash: 15254355d2bb7aed01d7be8c8e56d455409a51a5
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036003"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210239"
 ---
 # <a name="domains"></a>Domini
 
-Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica di Office 365 e altri servizi per il nome dell'azienda. Una volta completata la procedura guidata, la posta elettronica aziendale inizia a Office 365 anziché al provider di posta elettronica corrente. Per ulteriori informazioni, vedere [aggiungere utenti e i domini a Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Se si utilizza Office 365 gestito dal 21Vianet, vedere [Verify del dominio](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409).
+Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica e altri servizi di Office 365 nel nome dell'azienda. Al termine della procedura guidata, il messaggio di posta elettronica aziendale inizia a venire a Office 365 anziché andare al provider di posta elettronica corrente. Per ulteriori informazioni, vedere [aggiungere utenti e domini a Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Se si utilizza Office 365 gestito da 21Vianet, vedere [verificare il dominio](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409).
   
 ## <a name="custom-domains"></a>Domini personalizzati
 <a name="BKMK_CustomDomains"> </a>
 
-È possibile aggiungere domini fino a 900 per la sottoscrizione a Office 365. Tuttavia, è possibile aggiungere un dominio a Office 365 che già in uso in un altro servizio cloud Microsoft. Ciò significa che è possibile aggiungere dello stesso dominio a più sottoscrizioni di Office 365. Per ulteriori informazioni, vedere [Domande frequenti su domini](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+È possibile aggiungere fino a 900 domini all'abbonamento a Office 365. Tuttavia, non è possibile aggiungere un dominio a Office 365 che si sta già utilizzando in un altro servizio cloud Microsoft. Ciò significa che non è possibile aggiungere lo stesso dominio a più sottoscrizioni di Office 365. Per ulteriori informazioni, vedere [domande frequenti sui domini](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domini di secondo e terzo livello
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
@@ -47,14 +47,14 @@ Se il dominio è registrato presso GoDaddy, in Office 365 è possibile creare au
   
 Indipendentemente dalla posizione in cui sono ospitati i record DNS, è possibile impostarli in modo da utilizzare il dominio per l'URL di un sito Web pubblico ospitato in Office 365 oppure presso un provider di hosting diverso. 
   
-Office 365 controlla in modo proattivo i record DNS per individuare e risolvere i problemi relativi a DNS. Se i record DNS non corrispondono a quelli previsti, si riceverà una notifica nell'interfaccia di amministrazione di Office 365, insieme alle informazioni su come risolvere eventuali problemi identificati.
+Office 365 consente di controllare in modo proattivo i record DNS per individuare e risolvere i problemi relativi a DNS. Se i record DNS non corrispondono a ciò che si prevede di essere, si riceverà una notifica nell'interfaccia di amministrazione di Microsoft 365, insieme a informazioni che indicano come risolvere i possibili problemi identificati.
   
 Per altre informazioni, vedere [Modalità di gestione dei record DNS da parte di Office 365](https://go.microsoft.com/fwlink/p/?LinkID=270144). Per Office 365 gestito da 21Vianet, vedere [Creare record DNS per Office 365 quando si gestiscono i propri record DNS](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409).
   
 ## <a name="sharing-a-domain"></a>Condivisione di un dominio
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-È possibile avviare un programma pilota Office 365 con indirizzi di posta elettronica per un dominio in Office 365 e altri sul provider di posta elettronica precedenti. Consigliato solo per uso durante un test pilota di Office 365, perché richiede passaggi ulteriori operazioni di configurazione e presenta alcune limitazioni per servizi di Office 365. Per ulteriori informazioni, vedere:
+È possibile pilotare Office 365 con alcuni indirizzi di posta elettronica per un dominio in Office 365 e alcuni nel provider di posta elettronica precedente. Questa procedura è consigliata solo per l'utilizzo durante un progetto pilota di Office 365, poiché richiede ulteriori operazioni di installazione e presenta alcune limitazioni per i servizi di Office 365. Per ulteriori informazioni, vedere:
   
 - [Eseguire una distribuzione pilota di Office 365 per una società di piccole dimensioni](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

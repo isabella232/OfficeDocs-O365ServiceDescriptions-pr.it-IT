@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: In questa sezione vengono descritte le interfacce di gestione disponibili per gli amministratori di Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 67a8051b2b3b7136a981f8c8b1203f74a7c018f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036047"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210159"
 ---
 # <a name="administration-and-managementeop"></a>Amministrazione e gestione[EOP]
 
@@ -26,10 +26,10 @@ In questa sezione vengono descritte le interfacce di gestione disponibili per gl
   
 Per informazioni su tutte le funzionalità di EOP? vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).
   
-## <a name="access-to-the-office-365-admin-center"></a>Accesso all'interfaccia di amministrazione di Office 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Accesso all'interfaccia di amministrazione di Microsoft 365
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-L'interfaccia di amministrazione di Microsoft Office 365 è il portale Web dal quale ciascun amministratore dei servizi di un'azienda può gestire gli account e le impostazioni degli utenti per ognuno dei servizi di Office 365 che ha sottoscritto. Dall'interfaccia di amministrazione di Office 365, gli amministratori possono seguire i collegamenti a EAC, da dove potranno gestire le impostazioni specifiche di EOP.
+L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni azienda può gestire gli account utente e le impostazioni per ognuno dei servizi di Office 365 a cui sono sottoscritti. All'interno dell'interfaccia di amministrazione di Microsoft 365 gli amministratori possono seguire i collegamenti a EAC, in cui possono gestire le impostazioni specifiche di EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Accesso all'interfaccia di amministrazione di Exchange
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>
