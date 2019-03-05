@@ -1,9 +1,9 @@
 ---
-title: GCC High e DoD
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 5/23/2018
+title: Office 365 GCC High e DoD
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: "Microsoft offre ambienti GCC High e DoD per venire incontro alle esigenze del Dipartimento della Difesa degli Stati Uniti, speciali e in costante evoluzione, e a quelle dei terzisti che si occupano delle informazioni CUI (Controlled Unclassified Information) del Dipartimento della Difesa oppure che sono soggetti alle leggi sul traffico d'armi ITAR ( International Traffic in Arms Regulations). Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. "
-ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215371"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379038"
 ---
-# <a name="gcc-high-and-dod"></a>GCC High e DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
 Microsoft offre ambienti GCC High e DoD per venire incontro alle esigenze del Dipartimento della Difesa degli Stati Uniti, speciali e in costante evoluzione, e a quelle dei terzisti che si occupano delle informazioni CUI (Controlled Unclassified Information) del Dipartimento della Difesa oppure che sono soggetti alle leggi sul traffico d'armi ITAR ( International Traffic in Arms Regulations). Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.  
   
@@ -44,7 +44,7 @@ Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per
   
 |||
 |:-----|:-----|
-|**Controlli del background e screening del personale Microsoft** <br/> |**Descrizione** <br/> |
+|**Controlli del background e screening del personale Microsoft** <sup>1</sup> <br/> |**Descrizione** <br/> |
 |Cittadinanza negli Stati Uniti  <br/> |Verifica della cittadinanza negli Stati Uniti  <br/> |
 |Controllo della storia professionale  <br/> |Verifica della storia professionale degli ultimi sette (7) anni  <br/> |
 |Verifica dell'istruzione  <br/> |Verifica del livello massimo raggiunto  <br/> |
@@ -55,7 +55,8 @@ Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per
 |Office of Defense Trade Controls Debarred Persons List (DDTC)  <br/> |Convalida rispetto all'elenco del Dipartimento di Stato di soggetti ed entità che non possono effettuare attività di esportazione correlate al settore della difesa  <br/> |
 |Controllo delle impronte digitali  <br/> |Controllo delle impronte digitali rispetto ai database dell'FBI  <br/> |
 |Department of Defense IT-2  <br/> |I dipendenti del Dipartimento che richiedono autorizzazioni elevate per i dati dei clienti oppure accesso amministrativo con privilegi alle funzionalità del servizio Dept of Defense SRG L5 devono attendere la decisione del Defense IT-2, che si basa sul superamento di un'indagine OPM Tier 3  <br/> |
-   
+
+<sup>1</sup> si applica solo al personale con accesso temporaneo o permanente ai contenuti dei clienti ospitati in Office 365 US GCC-High o DOD Clouds
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Dettagli sulle caratteristiche basate sull'architettura cloud conforme
 
 Le sottoscrizioni Office 365 negli ambienti GCC High e DoD includono le caratteristiche principali di Exchange Online, SharePoint Online e Skype for Business. Considerando l'aumento di certificazione e accredito dell'infrastruttura, sono presenti alcune differenze tra le offerte Office 365 commerciali e quelle disponibili in GCC High e DoD.
@@ -76,27 +77,27 @@ Le sottoscrizioni Office 365 negli ambienti GCC High e DoD includono le caratter
     
 4. Persone specifiche
     
-I clienti che utilizzano SharePoint Online e OneDrive for Business in ambienti le alta o DoD possono mantenere privata documenti (prima opzione), condividere con altre persone nell'organizzazione (seconda opzione), condivisione con tutti gli utenti che dispongono del collegamento al documento (terza opzione) e Condividi con utenti specifici in ambienti DoD e le elevata (quarto opzione); Ovviamente, queste opzioni possono essere limitate in base anche i controlli dell'accesso a livello di tenant.
+I clienti che utilizzano SharePoint Online e OneDrive for business negli ambienti GCC High o DoD possono mantenere i documenti privati (prima opzione), condividerli con tutti gli utenti dell'organizzazione (seconda opzione), condividerli con tutti gli utenti che dispongono del collegamento al documento (terza opzione) e condividere con persone specifiche all'interno solo degli ambienti GCC High e DoD (quarta opzione); Naturalmente, queste opzioni possono essere limitate anche in base ai controlli di accesso a livello di tenant.
   
-LE elevata tenant solo è possibile condividere con altri tenant le elevata. Per esempio:
+Gli inquilini di GCC High possono condividerli con altri tenant High GCC. Per esempio:
   
-- LE elevata tenant A condivisibile con le elevata tenant B.
+- GCC High tenant A è in grado di condividere il tenant alto B.
     
-- Tenant non GCC C possono condividere con le elevata tenant o B.
+- Il tenant C non GCC può condividerlo con il tenant alto di GCC A o B.
     
-- LE elevata tenant o B non possono condividere con tenant Non GCC elevata C.
+- Il tenant alto GCC A o B non può condividere con il tenant alto non GCC C.
     
-È inoltre collegati ai profili utente non - le elevata indirizzi di posta elettronica non sono supportati e non consente di avviso tramite posta elettronica da inviare. In locale, ad esempio, l'utente è assegnato un indirizzo di posta elettronica Gmail e quindi sincronizzato con Azure le elevata tenant. L'utente passa a una raccolta e consente di creare un avviso per le modifiche. L'avviso non verrà inviato all'indirizzo Gmail.
+Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai profili utente non sono supportati e non consentiranno di inviare messaggi di posta elettronica di avviso. Ad esempio, per l'utente locale A viene assegnato un indirizzo di posta elettronica di Gmail e quindi sincronizzato con Azure GCC High tenant. L'utente A si sposta in una raccolta e crea un avviso per eventuali modifiche. L'avviso non verrà inviato all'indirizzo Gmail.
   
  **Accesso alle applicazioni esterne** - I collegamenti alle applicazioni esterne, ad esempio, l'origine dati per i componenti aggiuntivi, sono limitati alle origini comprese nei limiti di sicurezza del sistema supportati da GCC High e DoD. 
   
- **Servizi di integrazione applicativa** - funzionalità di servizi di integrazione Applicativa è supportata per gli scenari di integrazione applicativa in cui le origini dati rimangono raggiungibile interno della sicurezza per il servizio cloud. 
+ **Servizi di integrazione applicativa** -la funzionalità BCS è supportata per gli scenari di connettività in cui le origini dati rimangono raggiungibili entro il limite di sicurezza per il servizio cloud. 
   
  **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. È necessario eseguire la migrazione di tutte le soluzioni sandbox nel [ modello estendibilità del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype for Business online
 
- **La chiamata PSTN &amp; servizi di conferenza PSTN** - causa la necessità di utilizzare il telefono rete PSTN (Public Switched) per i servizi orientato alla telefonia, la chiamata PSTN &amp; servizi di conferenza PSTN attualmente non sono disponibili in alto le e DoD. 
+ **Servizi di &amp; conferenza** PSTN per le chiamate PSTN-a causa del requisito di utilizzare la rete PSTN (Public Switched Telephone Network) per i servizi &amp; di TELEFONIa, la chiamata PSTN PSTN non è attualmente disponibile in GCC High e DOD. 
   
 ### <a name="identity"></a>Identità
 
@@ -104,6 +105,6 @@ L'autenticazione a più fattori che utilizza un modello di identità federata co
   
 ### <a name="yammer"></a>Yammer
 
-Yammer che Enterprise non è disponibile negli ambienti di DoD e le elevata.
+Yammer Enterprise non è disponibile negli ambienti GCC High e DoD.
   
 

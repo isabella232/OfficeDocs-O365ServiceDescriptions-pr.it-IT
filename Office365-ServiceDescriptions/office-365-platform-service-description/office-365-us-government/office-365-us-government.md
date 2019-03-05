@@ -3,7 +3,7 @@ title: Office 365 US Government
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 1/9/2019
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (orOffice 365 US Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche di Office 365 US Government. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 34f0ce3259ec3a1a1c4c1111e69026e622861ad8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 271cc53cdf87553d60c14c793a72509e014cc739
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210439"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379058"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -89,25 +89,8 @@ Office 365 fornisce la capacità di integrare applicazioni di terze parti in sit
 ## <a name="restricted-data-access-by-administrators"></a>Accesso ai dati riservati da parte degli amministratori
 <a name="BM5-Restricted"> </a>
 
-L'accesso al contenuto del cliente di Office 365 US Government da parte di amministratori Microsoft è riservato a personale esclusivamente cittadino degli Stati Uniti. Questo personale viene sottoposto ad accertamenti e investigazioni secondo le norme governative interessate.
-  
-||||
-|:-----|:-----|:-----|
-|**Screening del background** <br/> |**GCC** <br/> |**GCC High e DOD** <br/> |
-|Verifica della cittadinanza negli Stati Uniti  <br/> |Sì  <br/> |Sì  <br/> |
-|Controllo della storia professionale  <br/> |Sì  <br/> |Sì  <br/> |
-|Verifica dell'istruzione  <br/> |Sì  <br/> |Sì  <br/> |
-|Ricerca del numero di previdenza sociale (SSN)  <br/> |Sì  <br/> |Sì  <br/> |
-|Controllo di precedenti penali (7 anni)  <br/> |Sì  <br/> |Sì  <br/> |
-|Office of Foreign Assets Control List (OFAC)  <br/> |Sì  <br/> |Sì  <br/> |
-|Bureau of industry and security List (BIS)  <br/> |Sì  <br/> |Sì  <br/> |
-|Controllo basato sull'impronta digitale dei database di criminali dell'FBI  <br/> |Sì  <br/> |Sì  <br/> |
-|Local state CJIS Criminal background check  <br/> |Sì<sup>1</sup>   <br/> |No  <br/> |
-|DOD IT-2 in base a OPM Tier 3 Investigation  <br/> |No  <br/> |DOD SRG L5 Tenants Only  <br/> |
+Accesso al contenuto del cliente del governo degli Stati Uniti di Office 365 da parte di Microsoft Administrators è limitato al personale schermato. Per i dettagli sui livelli di screening, fare riferimento alla pagina di descrizione del servizio per ciascun ambiente (GCC o GCC High e DoD). 
 
-<sup>1</sup> per gli stati iscritti al programma MSFT Govt cloud CJIS
-   
-[Come utilizzare la sezione Service Description](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack Center onboarding Assistance
 <a name="BM5-Restricted"> </a>
@@ -136,11 +119,11 @@ I clienti che scelgono il beneficio per la migrazione di [FastTrack](https://fas
 ||||
 |:-----|:-----|:-----|
 |**Screening del background** <br/> |**GCC** <br/> |**GCC High e DoD** <br/> |
-|Verifica della cittadinanza negli Stati Uniti  <br/> |Sì  <br/> |Sì  <br/> |
-|Controllo della storia professionale  <br/> |Sì  <br/> |Sì  <br/> |
-|Verifica dell'istruzione  <br/> |Sì  <br/> |Sì  <br/> |
-|Ricerca del numero di preVidenza sociale (SSN)  <br/> |Sì  <br/> |Sì  <br/> |
-|Controllo di precedenti penali (7 anni)  <br/> |Sì  <br/> |Sì  <br/> |
+|Verifica della cittadinanza negli Stati Uniti  <br/> |Sì  <br/> |Sì   <br/> |
+|Controllo della storia professionale  <br/> |Sì  <br/> |Sì   <br/> |
+|Verifica dell'istruzione  <br/> |Sì  <br/> |Sì   <br/> |
+|Ricerca del numero di preVidenza sociale (SSN)  <br/> |Sì  <br/> |Sì   <br/> |
+|Controllo di precedenti penali (7 anni)  <br/> |Sì  <br/> |Sì   <br/> |
    
 [Come utilizzare la sezione Service Description](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -176,12 +159,12 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 |:-----|:-----|:-----|:-----|:-----|
 |**Servizi di Office 365** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 governo degli Stati Uniti F1** <br/> |
 |Office Online  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Office 365 ProPlus  <br/> |No <br/> |Sì <br/> |Sì  <br/> |No  <br/> |
-|Exchange Online  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
+|Office 365 ProPlus  <br/> |No <br/> |Sì <br/> |Sì <br/> |No  <br/> |
+|Exchange Online  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
 |Exchange Online Protection  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|SharePoint Online  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|OneDrive for Business  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Skype for business (presenza della &amp; messaggistica istantanea)  <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |Sì   <br/> |Sì<sup>1</sup> <br/> |
+|SharePoint Online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Skype for business (presenza della &amp; messaggistica istantanea)  <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>1</sup> <br/> |
 | Sistema di segreteria telefonica, audioconferenza  <br/> |No<sup>2, 3</sup> <br/> |No<sup>2, 3</sup> <br/> |Sì <sup>3,5</sup> <br/> |No  <br/> |
 |Power BI Pro  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
 |Project Online  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |
@@ -200,8 +183,8 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |**Funzionalità** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 governo degli Stati Uniti F1** <br/> |
 |**Amministrazione di Office 365** <br/> |||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365  <br/> |Sì<sup>16</sup> <br/> |Sì<sup>16</sup> <br/> |Sì  <br/> |Sì<sup>16</sup> <br/> |
-|Gestione delle impostazioni dei principali servizi da Office 365  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Utilizzare Windows PowerShell per gestire Office 365  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
+|Gestione delle impostazioni dei principali servizi da Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Utilizzare Windows PowerShell per gestire Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |No<sup>1</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup>  <br/> |No<sup>1</sup> <br/> |
 |**[Funzionalità della famiglia di prodotti Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 governo degli Stati Uniti F1** <br/> |
 |Microsoft Bookings  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -302,7 +285,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Contratto sull'elaborazione dati di Microsoft  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
 |PCI DSS Livello Uno  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
 |Dati PAN conformi allo standard PCI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[Continuità del servizio](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
+|**[Continuità del servizio](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
 |**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 governo degli Stati Uniti F1** <br/> |
 |Utilizzo di BlackBerry Internet Service (BIS)  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |
 |**[Partner](../../office-365-platform-service-description/partners.md)** <br/> |||||
@@ -339,7 +322,7 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |Sì   <br/> |Sì<sup>3</sup> <br/> |
+|[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>3</sup> <br/> |
 |[Office per Mac per Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
 |[Office Mobile per iPhone/iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |No  <br/> |
 |[Office Mobile per Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |No  <br/> |
@@ -349,32 +332,32 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |**Enterprise Value** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 governo degli Stati Uniti F1** <br/> |
 |5 installazioni per ogni utente su PC o Mac  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
 |Provisioning dell'account utente automatizzato  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Interfaccia utente multilingue  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
+|Interfaccia utente multilingue  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
 |Distribuzione push del client  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
-|Supporto client per server Exchange locale  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Supporto client per SharePoint on-premises  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Controllo degli aggiornamenti software  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Confronto di database  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Virtualizzazione Desktop  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Confronto fogli di calcolo Excel  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
+|Supporto client per server Exchange locale  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Supporto client per SharePoint on-premises  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Controllo degli aggiornamenti software  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Confronto di database  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Virtualizzazione Desktop  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Confronto fogli di calcolo Excel  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
 |Verifica fogli di calcolo Excel  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Archiviazione e conformità Exchange Online e SharePoint Online  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Supporto di Criteri di gruppo  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
+|Archiviazione e conformità Exchange Online e SharePoint Online  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Supporto di Criteri di gruppo  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
 |Information Rights Management tramite Azure Information Protection  <br/> |No<sup>1</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |No<sup>1</sup> <br/> |
 |Information Rights Management tramite Windows Server AD RMS  <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |
-|Supporto dei componenti aggiuntivi di Office, ActiveX e oggetto browser helper (BHO)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> | No  <br/> |
-|Accesso client di OneNote ai blocchi appunti in SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Supporto dei componenti aggiuntivi di Office, ActiveX e oggetto browser helper (BHO)  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Accesso client di OneNote ai blocchi appunti in SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
 |Office Lens  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Telemetria di Office  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
-|Supporto non in linea per le applicazioni client  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> | No  <br/> |
-|Installazione client side-by-side ottimizzata  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> | No  <br/> |
+|Supporto non in linea per le applicazioni client  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
+|Installazione client side-by-side ottimizzata  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
 |Power Map per Excel  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
 |PowerPivot per Excel  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
 |Power Query per Excel  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
 |Power View per Excel  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
 |Impostazioni roaming  <br/> |No  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |No  <br/> |
 |Attivazione di computer condivisi  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
-|Supporto per il blocco dell'archiviazione file basata su cloud  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> | No  <br/> |
+|Supporto per il blocco dell'archiviazione file basata su cloud  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Aggiornamenti della versione  <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
 |Volume activation (KMS/MAK)  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
