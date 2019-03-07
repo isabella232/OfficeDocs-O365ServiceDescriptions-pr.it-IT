@@ -1,7 +1,7 @@
 ---
 title: Reporting e business intelligence
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: I report seguenti e caratteristiche di business intelligence sono disponibili in Project Online.
-ms.openlocfilehash: eee05d4f12af50e0df090cf21b8bc9f6c73ba7ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Le seguenti funzionalità di Reporting e business intelligence sono disponibili in Project online.
+ms.openlocfilehash: 37bad29131a8c18a312bfc1b7b784e07080c4203
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036051"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466483"
 ---
 # <a name="reporting-and-business-intelligence"></a>Reporting e business intelligence
 
-I report seguenti e caratteristiche di business intelligence sono disponibili in Project Online.
+Le seguenti funzionalità di Reporting e business intelligence sono disponibili in Project online.
   
 ## <a name="odata-feeds"></a>Feed OData
 <a name="bkmk_ODataFeeds"> </a>
@@ -30,7 +30,7 @@ I feed OData abilitano le query REST e una serie di raccolte client OData per cr
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Dashboard predefinito del portfolio
 <a name="bkmk_OutOfTheBoxPortfolioDashboards"> </a>
 
-Relazioni avanzate e pronte sono progettati per essere immediatamente utile per molti clienti e l'applicazione web consente inoltre la personalizzazione del dashboard del portfolio e consentono di soddisfare specifiche esigenze dell'organizzazione. Scegliere un'ampia gamma di progetto, attività e i report basati sulle risorse, inclusi la segnalazione problemi/rischi/risultati finali, nonché diverse opzioni di filtro, inclusi i filtri in base ai campi personalizzati. Report possono essere personalizzati con pochi clic senza lasciare l'app. 
+I report ricchi e fuori campo sono stati pensati per essere immediatamente utili per molti clienti e l'app Web consente anche la personalizzazione del dashboard del portfolio per soddisfare esigenze specifiche dell'organizzazione. Scegliere tra una vasta gamma di report su progetti, attività e risorse, inclusi i rapporti problemi/rischi/risultati finali, nonché diverse opzioni di filtro, tra cui il filtro per campi personalizzati. I report possono essere personalizzati con pochi clic senza uscire dall'app. 
   
 ## <a name="project-desktop-reporting"></a>Creazione di report per Project desktop
 <a name="bkmk_ProjectDesktopReporting"> </a>

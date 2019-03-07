@@ -1,7 +1,7 @@
 ---
 title: Componenti aggiuntivi
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Gli utenti di Office 365 è inoltre possono acquistare ulteriori componenti aggiuntivi associati a SharePoint Online.
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint è un insieme di strumenti e tecnologie basati sul Web, che consente a un'organizzazione di archiviare, condividere e gestire informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è l'ideale per lavorare a progetti, archiviare dati e documenti in una posizione centrale e condividere informazioni con altri utenti. I clienti che utilizzano Office 365 possono anche acquistare altri componenti aggiuntivi associati a SharePoint Online.
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036053"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466403"
 ---
 # <a name="add-ons"></a>Componenti aggiuntivi
 
-Microsoft SharePoint è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Gli utenti di Office 365 è inoltre possono acquistare ulteriori componenti aggiuntivi associati a SharePoint Online.
+Microsoft SharePoint è un insieme di strumenti e tecnologie basati sul Web, che consente a un'organizzazione di archiviare, condividere e gestire informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è l'ideale per lavorare a progetti, archiviare dati e documenti in una posizione centrale e condividere informazioni con altri utenti. I clienti che utilizzano Office 365 possono anche acquistare altri componenti aggiuntivi associati a SharePoint Online.
   
-## <a name="additional-storage"></a>Spazio di archiviazione aggiuntivo
+## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
 
 Qualora fosse necessario ulteriore spazio di archiviazione, è possibile ottenerlo pagando un importo mensile per gigabyte (GB).

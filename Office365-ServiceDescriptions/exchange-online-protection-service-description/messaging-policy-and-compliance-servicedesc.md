@@ -1,7 +1,7 @@
 ---
 title: Criteri di messaggistica e conformità [descrizione del servizio]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) fornisce criteri di messaggistica e funzionalità di conformità che consentono di gestire i dati della posta elettronica.
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035989"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466973"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>Criteri di messaggistica e conformità [descrizione del servizio]
 
-Microsoft Exchange Online Protection (EOP) fornisce criteri di messaggistica e funzionalità di conformità che consentono di gestire i dati della posta elettronica.
+Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
   
 Per informazioni su tutte le funzionalità di EOP? vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).
   
@@ -67,7 +67,7 @@ Per ulteriori informazioni sulla prevenzione della perdita dei dati (DLP), veder
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 <a name="BKMK_OME_in_EOP"> </a>
 
-Crittografia dei messaggi di Office 365, una parte di Azure Information Protection è un servizio online che consente agli utenti di posta elettronica inviare messaggi di posta elettronica crittografata a tutti gli utenti. Clienti locali possono accedere a Office 365 Message Encryption acquisto Azure Information Protection e utilizzando Exchange Online Protection per impostare il flusso di posta elettronica tramite Exchange Online. Per ulteriori informazioni sulla crittografia dei messaggi di Office 365 in Exchange Online, vedere [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) in Exchange Online Service Description. 
+La crittografia dei messaggi di Office 365, una parte di Azure Information Protection, è un servizio online che consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a qualsiasi utente. I clienti locali possono accedere alla crittografia dei messaggi di Office 365 acquistando Azure Information Protection e utilizzando Exchange Online Protection per impostare il flusso di posta attraverso Exchange Online. Per ulteriori informazioni sulla crittografia messaggi di Office 365 in Exchange Online, vedere [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) nella descrizione del servizio Exchange Online. 
   
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Funzionalità di conformità e criteri di messaggistica tra opzioni EOP
 <a name="BKMK_OME_in_EOP"> </a>
@@ -75,11 +75,11 @@ Crittografia dei messaggi di Office 365, una parte di Azure Information Protecti
 |**Funzionalità**|**EOP autonomo**|**Funzionalità di EOP in Exchange Online**|**Exchange Enterprise CAL con servizi**|
 |:-----|:-----|:-----|:-----|
 |Regole di trasporto  <br/> |Sì<sup>1</sup> <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |
-|Registrazione di controllo  <br/> |Yes<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|Prevenzione della perdita di dati (DLP)  <br/> |No  <br/> |Sì  <br/> |Yes<sup>3</sup> <br/> |
-|Crittografia dei messaggi di Office 365  <br/> |Yes<sup>4</sup> <br/> |Sì  <br/> |Yes<sup>4</sup> <br/> |
+|Registrazione di controllo  <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|Prevenzione della perdita di dati (DLP)  <br/> |No  <br/> |Sì  <br/> |Sì<sup>3</sup> <br/> |
+|Crittografia dei messaggi di Office 365  <br/> |Sì<sup>4</sup> <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> i criteri disponibili e le azioni sono diverse EOP ed Exchange Online. Per un elenco dei criteri disponibili e le azioni in EOP, vedere [Criteri della regola di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320393). Per un elenco dei criteri disponibili e le azioni in Exchange Online, vedere [Criteri della regola di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320394) e [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395). > Rapporti di controllo di EOP <sup>2</sup> è un sottoinsieme di Exchange Online controllo report che non includono informazioni sulle cassette postali. > <sup>3</sup> suggerimenti dei criteri DLP non sono disponibili per Exchange Enterprise CAL con i clienti di servizi. > <sup>4</sup> supportato per clienti locali che hanno acquistato il componente aggiuntivo di protezione delle informazioni Azure e utilizzare Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre ai componenti aggiuntivi Azure Information Protection Office 365 ProPlus deve essere acquistato. 
+> <sup>1</sup> I criteri e le azioni disponibili in EOP e in Exchange Online sono diversi. Per un elenco dei criteri e delle azioni disponibili in EOP, vedere [Criteri delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Azioni delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320393). Per un elenco dei criteri e delle azioni disponibili in Exchange Online, vedere [Criteri delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320394) e [Azioni delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> I report di controllo di EOP corrispondono a un sottoinsieme dei report di controllo di Exchange Online che non includono informazioni sulle cassette postali. > <sup>3</sup> I suggerimenti relativi ai criteri DLP non sono disponibili per i clienti che dispongono di Exchange Enterprise CAL with Services. > <sup>4</sup> supportato per i clienti locali che acquistano il componente aggiuntivo di Azure Information Protection e utilizzano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre al componente aggiuntivo di Azure Information Protection, è necessario acquistare Office 365 ProPlus. 
   
 

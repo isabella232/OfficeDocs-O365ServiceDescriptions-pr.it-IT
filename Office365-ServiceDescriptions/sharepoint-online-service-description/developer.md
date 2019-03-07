@@ -1,7 +1,7 @@
 ---
 title: Sviluppatore
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
-description: SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le funzionalità seguenti supportano gli sviluppatori che desiderano creare applicazioni e soluzioni per estendere le funzionalità di SharePoint.
-ms.openlocfilehash: e34ab0ca07fadb171a6e2fa52ec37daf7dcd60ac
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le funzionalità seguenti supportano gli sviluppatori che vogliono realizzare app e soluzioni per estendere la funzionalità di SharePoint.
+ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036056"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467713"
 ---
 # <a name="developer"></a>Sviluppatore
 
-SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le funzionalità seguenti supportano gli sviluppatori che desiderano creare applicazioni e soluzioni per estendere le funzionalità di SharePoint.
+SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le funzionalità seguenti supportano gli sviluppatori che vogliono realizzare app e soluzioni per estendere la funzionalità di SharePoint.
   
 ## <a name="access-services"></a>Access Services
 <a name="bkmk_AccessServices"> </a>
@@ -54,12 +54,12 @@ Il database dei servizi di gestione delle app archivia le informazioni delle lic
 ## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS: Tipi di contenuto esterno impostati per app
 <a name="bkmk_AppScopedExternalContentTypes"> </a>
 
-Con l'aggiunta del nuovo modello di app in SharePoint, servizi di integrazione applicativa (BCS) possono ora ambito tipi di contenuto esterno a livello di applicazione anziché a livello di farm. In questo modo notevole flessibilità per sviluppatori di app per consentire loro di utilizzare dati esterni nelle relative app. Ulteriori informazioni sui [tipi di contenuto esterno impostati per app](https://go.microsoft.com/fwlink/?LinkId=271279).
+Con l'aggiunta del nuovo modello app in SharePoint, i servizi di integrazione applicativa (BCS) possono ora applicare i tipi di contenuto esterno a livello di app invece che a livello di farm. In questo modo si ottiene una grande flessibilità per gli sviluppatori di app consentendo loro di utilizzare dati esterni all'interno delle proprie app. Per ulteriori informazioni, vedere [Tipi di contenuto esterno impostati per app](https://go.microsoft.com/fwlink/?LinkId=271279).
   
-## <a name="bcs-business-data-web-parts"></a>Servizi di integrazione Applicativa: Web part dati Business
+## <a name="bcs-business-data-web-parts"></a>BCS: Web part dati business
 <a name="bkmk_BCSBusinessDataWebparts"> </a>
 
-Web part dati business sono speciali web part che interagiscono con i dati esterni. Vengono utilizzati come Web part standard di SharePoint, ma si basano su tipi di contenuto esterno, sono riportate le descrizioni XML delle connessioni ai dati esterni. 
+Le web part per i dati business sono Web part speciali che funzionano con dati esterni. Vengono utilizzati come Web part di SharePoint standard, ma sono basati su tipi di contenuto esterno, che sono descrizioni XML delle connessioni ai dati esterni. 
   
 ## <a name="bcs-external-list"></a>BCS: Elenco esterno
 <a name="bkmk_BCSExternalList"> </a>
@@ -136,20 +136,20 @@ La Gestione progettazione consente di definire una procedura dettagliata per cre
 
 Utilizzando SharePoint Designer, gli utenti avanzati e gli sviluppatori possono creare velocemente soluzioni SharePoint in risposta alle necessità aziendali. Per ulteriori informazioni, vedere [SharePoint Designer per gli sviluppatori](https://go.microsoft.com/fwlink/?LinkId=271294).
   
-## <a name="sharepoint-framework"></a>Framework di SharePoint
+## <a name="sharepoint-framework"></a>SharePoint Framework
 <a name="bkmk_SharePointFramework"> </a>
 
-Framework di SharePoint (SPFx) è un modello di pagina e web part che fornisce il supporto completo per lo sviluppo di SharePoint sul lato client, facile integrazione con dati di SharePoint e il supporto per gli strumenti di Apri origine. Per ulteriori informazioni sul [Framework di SharePoint](https://go.microsoft.com/fwlink/?linkid=869276).
+SharePoint Framework (SPFx) è un modello di pagina e web part che fornisce supporto completo per lo sviluppo di SharePoint lato client, semplice integrazione con i dati di SharePoint e supporto per strumenti open source. Per ulteriori informazioni, vedere [SharePoint Framework](https://go.microsoft.com/fwlink/?linkid=869276).
   
-## <a name="sharepoint-2010-workflows-out-of-the-box"></a>Flussi di lavoro di SharePoint 2010 (predefinito)
+## <a name="sharepoint-2010-workflows-out-of-the-box"></a>Flussi di lavoro di SharePoint 2010 (fuori dalla casella)
 <a name="bkmk_Worflow2010outofthebox"> </a>
 
 Usare il flusso di lavoro predefinito incluso in SharePoint per modellare i comuni processi aziendali.
   
-## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>Flussi di lavoro di SharePoint 2013 e SharePoint 2016 
+## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>Flussi di lavoro di SharePoint 2013 e SharePoint 2016
 <a name="bkmk_Workflow2013"> </a>
 
-Flussi di lavoro di SharePoint 2013 e SharePoint 2016 sono gestiti da Windows Workflow Foundation 4 (WF), che è stato riprogettato in modo significativo rispetto alle versioni precedenti. La caratteristica principale dell'infrastruttura del nuovo flusso di lavoro è probabilmente l'introduzione di Azure come host l'esecuzione del flusso di lavoro. Ulteriori informazioni sulle [Novità dei flussi di lavoro di SharePoint](https://go.microsoft.com/fwlink/?LinkId=271297).
+I flussi di lavoro di SharePoint 2013 e SharePoint 2016 sono basati su Windows Workflow Foundation 4 (WF), che è stato riprogettato in modo significativo dalle versioni precedenti. Forse la caratteristica più importante della nuova infrastruttura del flusso di lavoro è l'introduzione di Azure come host di esecuzione del flusso di lavoro. Per ulteriori informazioni, vedere [What ' s New in Workflows for SharePoint](https://go.microsoft.com/fwlink/?LinkId=271297).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 <a name="bkmk_Workflow2013"> </a>

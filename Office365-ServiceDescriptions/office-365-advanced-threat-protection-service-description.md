@@ -1,7 +1,7 @@
 ---
 title: Descrizione del servizio Office 365 Advanced Threat Protection
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 02/20/2019
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale. ATP dispone di funzionalità di creazione report e traccia URL avanzate che consentono agli amministratori di analizzare i tipi di attacchi che si verificano nell'organizzazione.
-ms.openlocfilehash: bf16c3593ba7ff8cb5ecc9c57b170d5ce153d77e
-ms.sourcegitcommit: 0779536e4b9dc4bed4fb3c7f0767314b9a63d397
+ms.openlocfilehash: 4bdd657ba517db072cf73a5e313d93ce2805b7b3
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "30178345"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468043"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -81,7 +81,7 @@ Stiamo continuando ad aggiungere nuove funzionalità a Office 365 ATP. Di seguit
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Requisiti per Office 365 Advanced Threat Protection (ATP)
 
-ATP può essere utilizzato con qualsiasi agente di trasferimento della posta SMTP, ad esempio Microsoft Exchange Server. Per informazioni sui sistemi operativi, i Web browser e le lingue supportate da ATP, vedere le sezioni "browser supportati" e "lingue supportate" nell'interfaccia di [amministrazione di Exchange in Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
+ATP può essere utilizzato con qualsiasi agente di trasferimento della posta SMTP, ad esempio Microsoft Exchange Server. Per informazioni sui sistemi operativi, i browser Web e le lingue supportate da ATP, vedere le sezioni "Browser supportati" e "Lingue supportate" in [Interfaccia di amministrazione di Exchange in Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
   
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Disponibilità delle funzionalità tra i piani di Advanced Threat Protection (ATP)
 
@@ -90,28 +90,28 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |**Funzionalità**|**ATP piano 1**<br>(in precedenza ATP autonomo)|**ATP piano 2**<br>(in precedenza Threat Intelligence <br>standalone | Office 365 Enterprise E5| 
 |:-----|:-----|:-----|:-----|
 | *Configurazione, protezione e rilevamento* | 
-|Allegati sicuri |Sì|Sì  |Sì |
-|Collegamenti sicuri |Sì|Sì  |Sì  | 
-|Criteri di anti-phishing |Sì |Sì  |Sì  |
-|ATP per SharePoint, OneDrive e Microsoft Teams |Sì |Sì  |Sì |
-|Collegamenti sicuri nei team |Sì|Sì  |Sì  |
-|Rapporti in tempo reale |Sì |Sì  |Sì |
+|Allegati sicuri |Sì|Sì |Sì|
+|Collegamenti sicuri |Sì|Sì |Sì | 
+|Criteri di anti-phishing |Sì |Sì |Sì |
+|ATP per SharePoint, OneDrive e Microsoft Teams |Sì |Sì |Sì|
+|Collegamenti sicuri nei team |Sì|Sì |Sì |
+|Rapporti in tempo reale |Sì |Sì |Sì|
 |*Automazione, indagine, correzione e formazione* |
-|Indicatori delle minacce |No |Sì |Sì  |
-|Explorer (Advanced Threat Investigation) |No |Sì |Sì  |
-|Indagini e risposte automatiche  |No |Sì |Sì  |
-|Simulatore di attacco |No |Sì |Sì  |
+|Indicatori delle minacce |No |Sì |Sì |
+|Explorer (Advanced Threat Investigation) |No |Sì |Sì |
+|Indagini e risposte automatiche  |No |Sì |Sì |
+|Simulatore di attacco |No |Sì |Sì |
 
    
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Funzionalità di Advanced Threat Protection (ATP)
 
 ### <a name="safe-attachments"></a>Allegati sicuri
 
-Gli [allegati sicuri di ATP](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) proteggono da malware e virus sconosciuti e offrono una protezione zero-day per salvaguardare il sistema di messaggistica. Tutti i messaggi e gli allegati che non dispongono di una firma virus/malware nota vengono instradati a un ambiente speciale in cui ATP utilizza una vasta gamma di tecniche di apprendimento e analisi del computer per rilevare eventuali intenzioni dannose. Se non viene rilevata alcuna attività sospetta, il messaggio viene rilasciato per il recapito alla cassetta postale. 
+Gli [allegati sicuri di ATP](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) proteggono da malware e virus sconosciuti e offrono una protezione zero-day per salvaguardare il sistema di messaggistica. Tutti i messaggi e gli allegati che non dispongono di una firma virus/malware nota vengono instradati a un ambiente speciale in cui ATP utilizza una varietà di tecniche di apprendimento e analisi dei computer per rilevare attacchi dannosi. Se non viene rilevata alcuna attività sospetta, il messaggio viene rilasciato per il recapito alla cassetta postale. 
 
 ### <a name="safe-links"></a>Collegamenti sicuri
 
-La funzionalità [ATP Safe Links](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane ogni volta che si fa clic sul collegamento, in quanto i collegamenti dannosi vengono bloccati dinamicamente mentre è possibile accedere a collegamenti validi.
+La funzionalità [ATP Safe Links](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane ogni volta che l'utente fa clic sul collegamento, in quanto i collegamenti dannosi vengono bloccati in modo dinamico mentre i collegamenti corretti continuano ad essere accessibili.
 
 ### <a name="anti-phishing-policies"></a>Criteri di anti-phishing
 

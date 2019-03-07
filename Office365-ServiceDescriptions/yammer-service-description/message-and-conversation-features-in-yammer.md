@@ -1,7 +1,7 @@
 ---
 title: Funzionalità messaggio e conversazione in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: In Yammer sono disponibili le seguenti funzionalità messaggio e conversazione.
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035999"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468163"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Funzionalità messaggio e conversazione in Yammer
 
@@ -39,7 +39,7 @@ Inviare notifiche ad altri colleghi e inserirli nella conversazione @menzionando
 
 Scopri chi è in linea e avvia immediatamente una discussione privata con uno o più colleghi. L'elenco dei contatti viene ordinato automaticamente dalla persone con cui l'utente interagisce più spesso.
   
-## <a name="private-messages"></a>Messaggi privati
+## <a name="private-messages"></a>Private Messages
 <a name="bkmk_PrivateMessages"> </a>
 
 Avvia un dialogo privato con uno o più colleghi. È possibile aggiungere altri partecipanti in qualunque momento.
@@ -54,7 +54,7 @@ Condividere conversazioni con il feed di un altro gruppo o tramite messaggio pri
 
 Grazie al supporto di Office Online in Yammer, è possibile visualizzare e modificare i documenti caricati su Yammer con Office Online, direttamente in Yammer. In questo modo è possibile eseguire il rendering dei documenti con Office Online, abilitare la creazione condivisa da diversi utenti contemporaneamente e visualizzare conversazioni di Yammer rilevanti, direttamente sul browser.
   
-## <a name="events"></a>Eventi
+## <a name="events"></a>Events
 <a name="bkmk_Events"> </a>
 
 Organizzare riunioni ed eventi, condividerli con i colleghi e tenere traccia dei partecipanti. È possibile aggiungere gli eventi sui calendari di Outlook, Google, Yahoo! e iCal.

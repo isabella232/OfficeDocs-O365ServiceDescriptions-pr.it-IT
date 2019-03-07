@@ -1,7 +1,7 @@
 ---
 title: Funzionalità dei servizi di base
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 12/21/2016
 ms.audience: ITPro
@@ -10,21 +10,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Le principali funzionalità funzionalità servizi seguenti sono disponibili in Project Online.
-ms.openlocfilehash: b244c29c0858b1334dee7cc6841c12a2e4b1a45c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
+ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035986"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468053"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 
-Le principali funzionalità funzionalità servizi seguenti sono disponibili in Project Online.
+In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere [Descrizione del servizio Project Online](project-online-service-description.md).
+Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [Descrizione del servizio Project Online](project-online-service-description.md).
   
-## <a name="active-directory-integration"></a>Integrazione di Active Directory
+## <a name="active-directory-integration"></a>Integrazione con Active Directory
 <a name="bkmk_AD_Integration"> </a>
 
 Active Directory fornisce una posizione centrale agli amministratori per gestire le autorizzazioni e le credenziali dell'utente. L'integrazione di Active Directory con Project determina che gli utenti e i gruppi nell'Active Directory siano sincronizzati in Project Online o in Project Server 2013. Vedere [Gestire sincronizzazione di gruppi di sicurezza con Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
@@ -34,7 +34,7 @@ Active Directory fornisce una posizione centrale agli amministratori per gestire
 
 Project Online e Project Server 2013 forniscono funzionalità agli amministratori per pianificare, installare, configurare, mantenere ed espandere Project. Per ulteriori informazioni, vedere [Novità di Project Server 2013 per i professionisti IT](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
-## <a name="getting-started"></a>Guida introduttiva
+## <a name="getting-started"></a>Riquadro attività iniziale
 <a name="bkmk_GettingStarted"> </a>
 
 I contenuti della guida introduttiva sono disponibili per Project Online. Vedere [Introduzione a Project Online](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US).
@@ -49,17 +49,17 @@ Project Online e Project Server 2013 include funzionalità per prevenire, identi
 
 I dati dei clienti sono fondamentali e pertanto Microsoft è costantemente impegnata nella protezione di questi dati e della privacy dei clienti. Vedere [Centro protezione di Office 365](https://go.microsoft.com/fwlink/?LinkId=402637).
   
-## <a name="ppm-partner-ecosystem"></a>Ecosistema di PPM Partner
+## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 <a name="bkmk_ProjectPortfolioManagementPartner"> </a>
 
 La soluzione PPM (gestione portfolio progetti) di Microsoft è sostenuta da centinaia di Partner Microsoft che hanno conseguito la certificazione di Competenza PPM, sostenuto esami specifici ed eseguito numerose distribuzioni in oltre 80 paesi in tutto il mondo. Quando occorre assistenza per attività di valutazione, previsione, distribuzione o formazione e si è pronti a impegnarsi con dei professionisti del settore, rivolgersi con fiducia a un partner PPM [nel paese di appartenenza](https://go.microsoft.com/fwlink/p/?LinkId=272646).
   
-## <a name="service-reliability"></a>Affidabilità del servizio
+## <a name="service-reliability"></a>Service reliability
 <a name="bkmk_ServiceReliability"> </a>
 
 Microsoft garantisce ai clienti Office 365 tempi di attività del 99,9% grazie a una garanzia finanziaria leader nel settore. Vedere [Continuità del servizio](https://go.microsoft.com/fwlink/?LinkId=402653).
   
-## <a name="service-updates"></a>Aggiornamenti dei servizi
+## <a name="service-updates"></a>Service updates
 <a name="bkmk_Serviceupdates"> </a>
 
 Vengono aggiornati regolarmente i servizi Office 365 con nuove caratteristiche e funzionalità. Vedere [Aggiornamenti dei servizi](../office-365-platform-service-description/service-updates.md).

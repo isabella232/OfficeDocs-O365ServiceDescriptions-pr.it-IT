@@ -1,7 +1,7 @@
 ---
 title: Funzionalità supporto in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: In Yammer sono disponibili le seguenti funzionalità di supporto.
-ms.openlocfilehash: 95a9710d701f329819cd4265695849bfece97a75
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036001"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467373"
 ---
 # <a name="support-features-in-yammer"></a>Funzionalità supporto in Yammer
 
@@ -30,14 +30,14 @@ In Yammer sono disponibili le seguenti funzionalità di supporto.
 ## <a name="fasttrack-center"></a>FastTrack Center
 <a name="bkmk_FastTrackCenter"> </a>
 
-Il servizio Microsoft FastTrack consentono alle organizzazioni di spostamento nel cloud Microsoft fornendo assistenza in ogni fase durante il processo. FastTrack consente di pianificare in modo strategico le implementazioni, rapidamente uscita di nuovi servizi e i nuovi utenti incorporati. Per ulteriori informazioni, visitare il [Centro FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Per informazioni sulla creazione di rete Yammer, inclusa la prima del lancio, avvio e i documenti di supporto e attività, vedere il [previsione: identificare gli scenari di](https://fasttrack.microsoft.com/office/envision/identify-scenarios) di pagina e quindi scegliere **riunire nell'organizzazione**.
+Il servizio Microsoft FastTrack è in grado di supportare l'organizzazione nelle varie fasi del passaggio a Microsoft Cloud. FastTrack consente di pianificare le implementazioni in modo strategico, attivare velocemente nuovi servizi e eseguire l'onboarding di nuovi utenti. Per informazioni dettagliate, visitare [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Per informazioni sulla creazione di una rete di Yammer, inclusi i documenti e le attività di preavvio, avvio e supporto, passare alla pagina [immagina: identificare gli scenari](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e quindi fare clic su riportare l' **organizzazione insieme**.
   
-## <a name="customer-support"></a>Assistenza clienti
+## <a name="customer-support"></a>Supporto clienti
 <a name="BKMK_Customersupport"> </a>
 
 Il supporto tecnico è disponibile per fornire risposte alle domande dei clienti e per risolvere i problemi in modo rapido. I clienti di Yammer possono ricevere assistenza tramite la pubblicazione di domande sul forum pubblico del supporto. Tale forum viene monitorato dagli operatori del supporto per 24 ore al giorno, sette giorni la settimana. I clienti di Yammer che cercano assistenza, possono consultare l'articolo [Supporto pubblico di Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
   
-## <a name="administrator-support"></a>Supporto per amministratori
+## <a name="administrator-support"></a>Administrator support
 <a name="BKMK_Administratorsupport"> </a>
 
 Gli amministratori di Yammer Enterprise sono responsabili della gestione degli account e sono autorizzati a comunicare direttamente con il team di supporto Microsoft. Gli amministratori di Yammer Enterprise che cercano assistenza, possono consultare l'articolo [Supporto Microsoft](https://go.microsoft.com/fwlink/p/?LinkId=330922).
@@ -56,7 +56,7 @@ Esempi
 ## <a name="technical-support-initial-response-times"></a>Tempo di risposta iniziale del supporto tecnico
 <a name="BKMK_Administratorsupport"> </a>
 
-Tempo di risposta iniziale si basata sui livelli di gravità descritti in precedenza e il tipo di sottoscrizione di Yammer. Nella tabella seguente sono illustrati i tempi di risposta di destinazione.
+Il tempo di risposta iniziale dipende dal livello di gravità descritto in precedenza e dal tipo di sottoscrizione Yammer. I tempi di risposta di destinazione sono illustrati nella tabella seguente.
   
 |**Livello di gravità**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

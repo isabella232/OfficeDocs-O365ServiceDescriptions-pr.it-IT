@@ -1,7 +1,7 @@
 ---
 title: PowerPoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,40 +14,40 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: In linea di PowerPoint (in precedenza PowerPoint Web App) consente di estendere l'esperienza di Microsoft PowerPoint al web browser dove è possibile utilizzare le presentazioni direttamente sul sito Web di cui è memorizzata la presentazione. I clienti di Microsoft Office 365 con Office Online possono visualizzare, creare e modificare i file in viaggio.
-ms.openlocfilehash: 4d28ee4715ba55122b95588b5f0888bc0155245d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: PowerPoint online (in precedenza PowerPoint Web App) consente di estendere la propria esperienza Microsoft PowerPoint al Web browser, in cui è possibile lavorare con le presentazioni direttamente nel sito Web in cui è archiviata la presentazione. I clienti Microsoft Office 365 con Office Online possono visualizzare, creare e modificare file in viaggio.
+ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036081"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467343"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-In linea di PowerPoint (in precedenza PowerPoint Web App) consente di estendere l'esperienza di Microsoft PowerPoint al web browser dove è possibile utilizzare le presentazioni direttamente sul sito Web di cui è memorizzata la presentazione. I clienti di Microsoft Office 365 con Office Online possono visualizzare, creare e modificare i file in viaggio.
+PowerPoint online (in precedenza PowerPoint Web App) consente di estendere la propria esperienza Microsoft PowerPoint al Web browser, in cui è possibile lavorare con le presentazioni direttamente nel sito Web in cui è archiviata la presentazione. I clienti Microsoft Office 365 con Office Online possono visualizzare, creare e modificare file in viaggio.
   
 PowerPoint Editor è un componente front-end su Web che crea un livello di modifica basato su browser che permette agli utenti di lavorare sui documenti senza che ciò ne comprometta la fedeltà.
   
-Se si sceglie il pulsante **Apri in PowerPoint** nella barra degli strumenti di PowerPoint Online, la presentazione viene aperto nell'app desktop PowerPoint (se nel computer è installato Microsoft PowerPoint 2010 o versioni successive). 
+Se si fa clic sul pulsante **Apri in PowerPoint** sulla barra degli strumenti di PowerPoint online, la presentazione verrà aperta nell'app desktop PowerPoint (se nel computer è installato Microsoft PowerPoint 2010 o versione successiva). 
   
 Informazioni su come [Scaricare e installare Office in un PC usando Office 365 per le aziende](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
-## <a name="alignment-bullets-numbers"></a>Allineamento, elenchi puntati e numerati
+## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 <a name="bkmk_AlignmentBulletsNumbers"> </a>
 
 Con PowerPoint Online, è possibile modificare l'allineamento dei paragrafi, inserire elenchi puntati o numerati e modificare il livello del testo in questi elenchi. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="apply-basic-transitions-and-animations"></a>Applicazione di animazioni e transizioni di base
+## <a name="apply-basic-transitions-and-animations"></a>Apply basic transitions and animations
 <a name="bkmk_Applybasictransitions"> </a>
 
 Scegliere da una galleria di effetti di animazione e transizione. PowerPoint Online supporta 8 transizioni e 37 animazioni. Le ulteriori animazioni e le transizioni non supportate da PowerPoint Online sono conservate e visualizzate nella presentazione, ma non possono essere modificate in PowerPoint Online. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Applicazione della formattazione avanzata a testo, forme e immagini
+## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Apply rich formatting to text, shapes, and pictures
 <a name="bkmk_Applyrichformatting"> </a>
 
 Non è disponibile in PowerPoint Online. Le funzionalità di formattazione avanzata che prevedono maggiori colori, sfumature, contagocce, effetti e stili sono disponibili nell'app desktop PowerPoint. Con PowerPoint Online, è possibile aggiungere caselle di testo, scegliere in una raccolta di forme e applicare gli stili per definire effetti di riempimento, contorno e ombreggiatura. 
   
-## <a name="apply-themes-and-theme-variants"></a>Applicazioni di temi e varianti del tema
+## <a name="apply-themes-and-theme-variants"></a>Apply themes and theme variants
 <a name="bkmk_ApplyThemes"> </a>
 
 Quando si aggiunge una nuova diapositiva alla presentazione, scegliere in una raccolta di temi e varianti incorporata. I temi non supportati da PowerPoint Online sono conservati nella presentazione, ma non possono essere modificati in PowerPoint Online. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
@@ -57,12 +57,12 @@ Quando si aggiunge una nuova diapositiva alla presentazione, scegliere in una ra
 
 PowerPoint Online supporta solo componenti aggiuntivi di contenuto per Office. I componenti aggiuntivi di contenuto integrano le funzionalità basate su Web sotto forma di contenuto che può essere visualizzato in linea con una presentazione. Ulteriori informazioni sui [tipi di componenti aggiuntivi per Office](https://go.microsoft.com/fwlink/p/?LinkId=282310).
   
-## <a name="arrange-objects"></a>Disposizione degli oggetti
+## <a name="arrange-objects"></a>Arrange objects
 <a name="bkmk_ArrangeObjects"> </a>
 
 Spostare, ridimensionare, ruotare oppure ordinare forme e caselle di testo su livelli, spostandoli in primo piano in PowerPoint Online. Separare le forme per lavorarci individualmente. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="broadcast-slide-show"></a>Trasmissione di una presentazione
+## <a name="broadcast-slide-show"></a>Broadcast slide show
 <a name="bkmk_BroadcastSlideShow"> </a>
 
 Per trasmettere una presentazione a utenti remoti tramite PowerPoint Online è necessaria l'app desktop PowerPoint. Gli utenti possono visualizzare le presentazioni in diretta tramite PowerPoint Online, indipendentemente dal fatto che sui loro computer sia installata o meno l'app desktop PowerPoint. Ulteriori informazioni sulla [trasmissione di una presentazione](https://go.microsoft.com/fwlink/?LinkId=272765).
@@ -72,17 +72,17 @@ Per trasmettere una presentazione a utenti remoti tramite PowerPoint Online è n
 
 Con PowerPoint Online, è possibile tagliare, copiare e incollare i contenuti in una presentazione. Un utente può copiare e incollare il testo tra i programmi Office Online, così come tra Office Online e le app desktop Microsoft Office sul computer. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="create-and-manage-slides"></a>Creazione e gestione delle diapositive
+## <a name="create-and-manage-slides"></a>Create and manage slides
 <a name="bkmk_CreateManageSlides"> </a>
 
 Aggiungere, riordinare, duplicare, nascondere ed eliminare le diapositive in PowerPoint Online. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="create-custom-animation"></a>Creazione di animazioni personalizzate
+## <a name="create-custom-animation"></a>Create custom animation
 <a name="bkmk_Createcustomanimation"> </a>
 
 PowerPoint Online include una galleria di effetti di animazione. Le animazioni non supportate da PowerPoint Online sono conservate e visualizzate nella presentazione, ma non possono essere modificate in PowerPoint Online. Per creare animazioni personalizzate, è necessario che sul computer sia installata l'app desktop PowerPoint. Ulteriori informazioni sulla [creazione di animazioni personalizzate con l'app desktop PowerPoint 2013](https://go.microsoft.com/fwlink/p/?LinkId=282348).
   
-## <a name="design-tools--advanced"></a>Strumenti avanzati per la progettazione
+## <a name="design-tools--advanced"></a>Design tools- advanced
 <a name="bkmk_DesigntoolsAdvanced"> </a>
 
 Non è disponibile in PowerPoint Online. Le funzionalità di progettazione avanzate, quali la creazione di schemi di diapositive e la modifica dei layout, sono disponibili solo nell'app desktop PowerPoint. Con PowerPoint Online, è possibile utilizzare un proprio file modello come base per la creazione di nuovi file o scegliere un tema nell'elenco di elementi predefiniti.
@@ -97,12 +97,12 @@ Dropbox è un servizio di hosting dei file che offre l'archiviazione sul cloud, 
 
 Con PowerPoint Online, è possibile incorporare le presentazioni su siti Web o blog in modo che chiunque possa visualizzarle, anche se non dispone dell'app desktop Microsoft PowerPoint. I visualizzatori incorporati mostrano animazioni, transizioni e audio/video, proprio come una visualizzazione di lettura ad alta fedeltà. Ulteriori informazioni su come [incorporare le presentazioni su una pagina Web o in un blog](https://go.microsoft.com/fwlink/?LinkId=272766).
   
-## <a name="font-formatting"></a>Formattazione dei caratteri
+## <a name="font-formatting"></a>Font formatting
 <a name="bkmk_FontFormatting"> </a>
 
 PowerPoint Online consente di agire sul testo applicando grassetto, corsivo, sottolineature e modificando colore e dimensione dei caratteri. È anche possibile utilizzare Copia formato per copiare il formato delle forme intere.
   
-## <a name="full-fidelity-reading-view"></a>Visualizzazione di lettura ad alta fedeltà
+## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 <a name="bkmk_FullFidelityReading"> </a>
 
 Visualizzare le presentazioni come sono state create, con animazioni, transizioni e audio/video.
@@ -112,12 +112,12 @@ Visualizzare le presentazioni come sono state create, con animazioni, transizion
 
 Non è possibile inserire input penna PowerPoint Online ma PowerPoint Online li visualizza come previsto.
   
-## <a name="full-selection-of-animations-and-transitions"></a>Selezione completa di transizioni e animazioni
+## <a name="full-selection-of-animations-and-transitions"></a>Full selection of animations and transitions
 <a name="bkmk_FullAnimationsTransitions"> </a>
 
 PowerPoint Online supporta 8 transizioni e 37 animazioni. Per una raccolta più ricca, utilizzare l'app desktop PowerPoint. 
   
-## <a name="headers-and-footers"></a>Intestazioni e piè di pagina
+## <a name="headers-and-footers"></a>Headers and footers
 <a name="bkmk_HeadersFooters"> </a>
 
 Non è possibile inserire, modificare o eliminare le intestazioni e i piè di pagina, inclusi data e numero di diapositiva, in PowerPoint Online, ma PowerPoint Online li visualizza come previsto. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
@@ -132,12 +132,12 @@ Inserire, modificare e utilizzare i collegamenti ipertestuali. I collegamenti se
 
 I contenuti audio e video vengono riprodotti in visualizzazione di lettura e presentazione di diapositive con un limite di dimensione del file di 100 MB. I video online possono essere inseriti da YouTube e i controlli multimediali possono essere ridimensionati, spostati ed eliminati in PowerPoint Online. Per inserire contenuti audio e video diversi da quelli di YouTube, però, è necessaria l'app desktop Microsoft PowerPoint.
   
-## <a name="integration-with-excel-for-charts"></a>Integrazione con Excel per i grafici
+## <a name="integration-with-excel-for-charts"></a>Integration with Excel for charts
 <a name="bkmk_IntegrationExcel"> </a>
 
 Non è disponibile in PowerPoint Online. Con PowerPoint Online, è possibile visualizzare i grafici Excel presenti in una presentazione, ma non è possibile modificare o inserire un grafico Excel in una presentazione con PowerPoint Online. Ulteriori informazioni sulla [copia di un grafico Excel in PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272773).
   
-## <a name="navigation-slide-sorter"></a>Navigazione  sequenza diapositive
+## <a name="navigation-slide-sorter"></a>Navigation— slide sorter
 <a name="bkmk_Navigation"> </a>
 
 Non è disponibile in PowerPoint Online. La visualizzazione Sequenza diapositive, che fornisce un'anteprima delle diapositive in modo che sia più facile organizzarle e riordinarle, non è disponibile in PowerPoint Online. Nell'app desktop PowerPoint, è possibile utilizzare la visualizzazione Sequenza diapositive per organizzare le diapositive aggiungendo delle sezioni e suddividendo le diapositive in diverse categorie.
@@ -162,12 +162,12 @@ Con PowerPoint Online, è possibile inserire immagini archiviate nel computer o 
 
 Non è disponibile in PowerPoint Online. L'app desktop Microsoft PowerPoint consente di trasmettere le presentazioni utilizzando il Servizio presentazioni Office, un servizio pubblico e gratuito che permette ad altri utenti di seguire la presentazione tramite il loro browser. Ulteriori informazioni sul [Servizio presentazioni Office](https://go.microsoft.com/fwlink/?LinkId=272774).
   
-## <a name="presenter-view"></a>Visualizzazione Relatore
+## <a name="presenter-view"></a>Presenter view
 <a name="bkmk_PresenterView"> </a>
 
 Non è disponibile in PowerPoint Online. Solo l'app desktop Microsoft PowerPoint consente al relatore di controllare la velocità di visualizzazione delle diapositive, le note, i commenti e gli strumenti di zoom. PowerPoint Online non supporta queste funzionalità.
   
-## <a name="print-to-pdf"></a>Stampa su PDF
+## <a name="print-to-pdf"></a>Print to PDF
 <a name="bkmk_PrinttoPDF"> </a>
 
 Con PowerPoint Online, è possibile stampare la presentazione in formato PDF in modo che il layout e la formattazione delle diapositive vengano stampate così come previsto. Ulteriori informazioni sulle [attività di base disponibili in PowerPoint Online](https://go.microsoft.com/fwlink/?LinkId=272775).
@@ -177,27 +177,27 @@ Con PowerPoint Online, è possibile stampare la presentazione in formato PDF in 
 
 È possibile scegliere la lingua del testo ed eseguire il controllo ortografico utilizzando il dizionario incorporato con PowerPoint Online. Tuttavia, PowerPoint Online non utilizza un dizionario personalizzato e non include la funzionalità di traduzione o un thesaurus.
   
-## <a name="real-time-co-authoring"></a>Creazione condivisa in tempo reale
+## <a name="real-time-co-authoring"></a>Real-time co-authoring
 <a name="bkmk_Coauthoring"> </a>
 
 Più persone possono lavorare simultaneamente in un documento in PowerPoint Online e PowerPoint 2016. La presenza in tempo reale consente all'utente di verificare il lavoro dell'altro utente nella presentazione. In questo modo, non si creano conflitti quando vengono apportate modifiche ed è possibile visualizzare le modifiche man mano che vengono eseguite. PowerPoint 2013 supporta le modifiche simultanee ma senza indicazione della presenza. Inoltre le modifiche non possono essere visualizzare da più autori fino al salvataggio del documento. Per ulteriori informazioni sull'utilizzo della creazione condivisa in tempo reale in PowerPoint, vedere [Collaborare alle presentazioni di PowerPoint](https://go.microsoft.com/fwlink/?linkid=844014).
   
-## <a name="reviewer-tools---advanced"></a>Strumenti revisore - avanzati
+## <a name="reviewer-tools---advanced"></a>Strumenti reviewer-Advanced
 <a name="bkmk_AdvancedReviewerTools"> </a>
 
-Non è disponibile in PowerPoint Online. Funzionalità avanzate revisore, ad esempio i conflitti di unione e presentazioni di confronto, sono disponibili solo in PowerPoint desktop app. Con PowerPoint Online, è possibile visualizzare, aggiungere, modificare o eliminare commenti.
+Non è disponibile in PowerPoint Online. Le funzionalità di revisione avanzate, quali i conflitti di unione e il confronto delle presentazioni, sono disponibili solo nell'app desktop PowerPoint. Con PowerPoint online, è possibile visualizzare, aggiungere, modificare o eliminare commenti.
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>Gestione dei diritti: applicazione e utilizzo di IRM e della sicurezza tramite password
 <a name="bkmk_CreationPasswords"> </a>
 
 Non disponibile in PowerPoint Online. PowerPoint Online visualizza le presentazioni protette con Information Rights Management (IRM). Tuttavia, nel browser tali presentazioni non possono essere modificate e non è possibile creare presentazioni protette con IRM in PowerPoint Online. PowerPoint Online non può aprire presentazioni con firma digitale o crittografate con una password. 
   
-## <a name="run-slide-show"></a>Esecuzione di una presentazione
+## <a name="run-slide-show"></a>Run slide show
 <a name="bkmk_RunSlideShow"> </a>
 
 Con PowerPoint Online è possibile eseguire la presentazione utilizzando semplicemente un browser e una connessione Internet. Ulteriori informazioni sulle [attività di base disponibili in PowerPoint Onlin](https://go.microsoft.com/fwlink/?LinkId=272775).
   
-## <a name="save-as-or-download-a-copy"></a>Salvataggio o download di una copia
+## <a name="save-as-or-download-a-copy"></a>Save As or Download a copy
 <a name="bkmk_Save"> </a>
 
 PowerPoint Online salva il lavoro ogni volta che viene apportata una modifica. Non c'è alcun comando Salva. È possibile scaricare una copia, ma è necessario disporre dell'app desktop Microsoft PowerPoint per modificare una copia locale.
@@ -212,7 +212,7 @@ Gli elementi WordArt e grafici non possono essere inseriti in PowerPoint Online,
 
 Se viene salvata in una raccolta di documenti di SharePoint, la presentazione è online ed è possibile condividerla inviando un collegamento invece di un allegato di posta elettronica. Gli utenti che dispongono delle autorizzazioni appropriate possono visualizzarla nel browser o su un dispositivo mobile. Ulteriori informazioni sulla [condivisione di una presentazione](https://go.microsoft.com/fwlink/?LinkId=272776).
   
-## <a name="slide-show"></a>Presentazione
+## <a name="slide-show"></a>Slide show
 <a name="bkmk_Slideshow"> </a>
 
 PowerPoint Online riproduce le presentazioni in una finestra a schermo intero. Premere la barra spaziatrice per far avanzare le diapositive. Le animazioni nelle diapositive vengono riprodotte, ma sono supportati solamente gli effetti di transizione Dissolvenza da sinistra a destra tra le diapositive. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
@@ -222,7 +222,7 @@ PowerPoint Online riproduce le presentazioni in una finestra a schermo intero. P
 
 È possibile aggiungere elementi SmartArt, passare a una diversa combinazione di colori o layout, applicare gli stili SmartArt e modificare il testo con PowerPoint Online. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="table-creationediting-and-formatting"></a>Creazione/modifica e formattazione delle tabelle
+## <a name="table-creationediting-and-formatting"></a>Table creation/editing and formatting
 <a name="bkmk_Tablecreation"> </a>
 
 È possibile creare e modificare tabelle in PowerPoint Online e PowerPoint Online supporta la maggior parte delle funzioni relative alle tabelle. Per le funzioni avanzate, come l'unione e la separazione delle celle, utilizzare l'app desktop PowerPoint. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
@@ -232,19 +232,19 @@ PowerPoint Online riproduce le presentazioni in una finestra a schermo intero. P
 
 Quando è necessario compiere delle operazioni in PowerPoint Online ma non si conosce la procedura, è possibile utilizzare la funzionalità di ricerca Informazioni per trovare rapidamente quello di cui si ha bisogno. La funzionalità Informazioni comprende cosa si sta cercando di effettuare e ne velocizza l'esecuzione grazie a dei consigli.
   
-## <a name="undo-and-redo"></a>Annulla e Ripeti
+## <a name="undo-and-redo"></a>Undo and redo
 <a name="bkmk_Undoredo"> </a>
 
 Durante la sessione di modifica della presentazione attiva, è possibile utilizzare i comandi Annulla (Ctrl + Z) e Ripeti (Ctrl + Y) un numero illimitato di volte per agire sulle operazioni eseguite. Se la sessione di modifica entra in timeout o se si passa alla visualizzazione di lettura per più di 30 secondi, la cronologia delle operazioni viene reimpostata. Ulteriori informazioni sui [tasti di scelta rapida sulla tastiera in PowerPoint Onlin](https://go.microsoft.com/fwlink/?LinkId=272950).
   
-## <a name="view-and-add-comments"></a>Visualizzazione e aggiunta dei commenti
+## <a name="view-and-add-comments"></a>View and add comments
 <a name="bkmk_Viewaddcomments"> </a>
 
-Se i file vengono archiviati in SharePoint Online o OneDrive for Business, è possibile aggiungere, modificare o eliminare i commenti. 
+Se i file sono archiviati in SharePoint Online o OneDrive for business, è possibile aggiungere, modificare o eliminare commenti. 
   
-Se i file vengono archiviati in OneDrive, è possibile aggiungere, modificare o eliminare i commenti nella visualizzazione di modifica e consente di visualizzare e aggiornare i commenti in visualizzazione lettura.
+Se i file sono archiviati in OneDrive, è possibile aggiungere, modificare o eliminare i commenti durante la visualizzazione di modifica ed è possibile visualizzare e aggiornare i commenti in visualizzazione lettura.
   
-## <a name="view-and-edit-slide-notes"></a>Visualizzazione e modifica delle note sulle diapositive
+## <a name="view-and-edit-slide-notes"></a>View and edit slide notes
 <a name="bkmk_Viewslidenotes"> </a>
 
 Con PowerPoint Online, le note per ciascuna presentazione possono essere visualizzate o nascoste. È inoltre possibile aggiungere le note in modalità di modifica.

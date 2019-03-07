@@ -1,7 +1,7 @@
 ---
 title: Funzionalità di Skype for Business Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se si è un amministratore, è possibile trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for business online in Configurare Skype for business online.
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210259"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467433"
 ---
-# <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business online
+# <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business Online
 
 Se si è un amministratore, è possibile trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for business online in [Configurare Skype for business online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
-## <a name="clients-for-skype-for-business-online"></a>Client per Skype for Business Online
+## <a name="clients-for-skype-for-business-online"></a>Clients for Skype for Business Online
 <a name="BKMK_Clients"> </a>
 
 > [!IMPORTANT]
@@ -123,7 +123,7 @@ Per visualizzare gli argomenti e gli articoli contenenti procedure della Guida a
 
 Un'audioconferenza è una qualsiasi conferenza in cui almeno un partecipante accede alla parte audio mediante un telefono. La possibilità di utilizzare un telefono per accedere a una riunione è utile per chi si trova in viaggio o non ha modo di presenziare alla riunione mediante un dispositivo mobile o un PC. L'uso di un telefono, inoltre, può rappresentare un'opzione migliore in altre situazioni, ad esempio se la connessione Internet è limitata o in caso di un'audioconferenza.
   
-Con i servizi di audioconferenza, gli utenti dell'organizzazione possono ospitare o creare riunioni che contengono numeri di telefono con accesso esterno. I chiamanti possono quindi utilizzare i numeri di telefono per chiamare una riunione utilizzando i propri telefoni (gli utenti che si connettono a una riunione riceveranno solo l'audio, non i messaggi istantanei, i desktop condivisi o i file condivisi nella riunione). È sufficiente configurare le conferenze telefoniche con accesso esterno per gli utenti che intendono pianificare o condurre riunioni. Se l'organizzatore non ha bloccato la riunione, tutti gli utenti che hanno il numero di accesso esterno e l'ID conferenza possono partecipare alla riunione. Per ulteriori informazioni, vedere [Guida introduttiva a](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) servizi di audioconferenza e [numeri di accesso esterno disponibili per](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)audioconferenza.
+Grazie ai servizi di audioconferenza, gli utenti dell'organizzazione possono ospitare o creare riunioni che contengono numeri di telefono con accesso esterno. I chiamanti possono utilizzare tali numeri di telefono per partecipare a una riunione con il proprio telefono; potranno ascoltare soltanto l'audio, ma non avranno accesso alla messaggistica istantanea, ai desktop condivisi oppure ai file condivisi. È necessario soltanto configurare le conferenza con accesso esterno per gli utenti che intendono programmare o condurre riunioni. Se l'organizzatore non ha bloccato la riunione, chiunque disponga del numero di accesso esterno e dell'ID di conferenza può partecipare alla riunione. Per ulteriori informazioni, vedere [Guida introduttiva a](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) servizi di audioconferenza e [numeri di accesso esterno disponibili per](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)audioconferenza.
   
 In Office 365, è possibile abilitare le conferenze telefoniche con accesso esterno con un provider di servizi di conferenza telefonica con accesso esterno, o un provider di terze parti (denominato anche ACP, Audio Conferencing Provider).
   

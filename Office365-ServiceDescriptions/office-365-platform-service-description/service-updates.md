@@ -1,7 +1,7 @@
 ---
 title: Aggiornamenti dei servizi
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Per saperne di più sulle funzionalità di Office 365 appena rilasciate, o che stanno per essere rilasciate, consultare la Roadmap di Office 365.
-ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
+ms.openlocfilehash: b2ba1896f3c1acd616c62a82e7a8a1f25744d26f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29966220"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467763"
 ---
 # <a name="service-updates"></a>Aggiornamenti dei servizi
 

@@ -1,7 +1,7 @@
 ---
 title: Creazione di rapporti e traccia dei messaggi
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,35 +12,35 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: Microsoft Exchange Online Protection (EOP) offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: b52e1e33a8eec0694143c3dc277481fff79bf918
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
+ms.openlocfilehash: 9ad043776baf9c9a2e5ea8ca7cead0811ca66d3a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210209"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466823"
 ---
 # <a name="reporting-and-message-trace"></a>Creazione di rapporti e traccia dei messaggi
 
-Microsoft Exchange Online Protection (EOP) offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
+Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
   
 Per informazioni su tutte le funzionalità di EOP? vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).
   
 ## <a name="microsoft-365-admin-center-reports"></a>Rapporti dell'interfaccia di amministrazione di Microsoft 365
 <a name="BKMK_office365admincenterreports"> </a>
 
-La pagina report nell'interfaccia di amministrazione di Microsoft 365 fornisce informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole di trasporto di Exchange o dai criteri di prevenzione della perdita di dati (DLP). I report migliorati per la protezione, le regole e DLP offrono un'esperienza di report interattiva per gli amministratori di EOP. Questi rapporti forniscono dati di riepilogo e la possibilità di eseguire il drill-down nei dettagli sui singoli messaggi.
+La pagina report nell'interfaccia di amministrazione di Microsoft 365 fornisce informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole di trasporto di Exchange o dai criteri di prevenzione della perdita di dati (DLP). I report migliorati per la protezione, le regole e DLP forniscono un'esperienza di report interattiva agli amministratori di EOP. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
   
 Per altre informazioni dettagliate su questi report, vedere l'articolo su come [utilizzare i report di protezione della porta elettronica in Office 365 per visualizzare i dati su malware, posta indesiderata e rilevamenti delle regole](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
-## <a name="excel-download-application-reports"></a>Rapporti applicazione download di Excel
+## <a name="excel-download-application-reports"></a>Excel download application reports
 <a name="BKMK_exceldownloadapplicationreports"> </a>
 
-I rapporti di protezione della posta elettronica sono disponibili anche nella cartella di lavoro di Reporting di Excel 2013, che fornisce rapporti di riepilogo con funzionalità di drill-down. Tuttavia, si consiglia di utilizzare i report dell'interfaccia di amministrazione avanzata di Microsoft 365. La cartella di lavoro per la creazione dei report di Excel 2013 è stata pianificata come obsoleta in futuro. 
+I report di protezione della posta elettronica sono inoltre disponibili nella cartella di lavoro per la creazione dei report di Excel 2013, che offre report riassuntivi con funzionalità di drill-down. Tuttavia, si consiglia di utilizzare i report dell'interfaccia di amministrazione avanzata di Microsoft 365. La cartella di lavoro per la creazione dei report di Excel 2013 sarà deprecata in futuro. 
   
 Per una panoramica sulla cartella di lavoro e per i collegamenti per scaricarla e installarla, vedere l'articolo sui [report di protezione della posta elettronica di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776) . Per informazioni su come utilizzare la cartella di lavoro, vedere l'articolo sui [rapporti sulla protezione della posta utilizzando la cartella di lavoro per la creazione di report di Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211).
   
-## <a name="reporting-using-web-services"></a>Creazione di report tramite i servizi Web
+## <a name="reporting-using-web-services"></a>Reporting using web services
 <a name="BKMK_reportingusingwebservices"> </a>
 
 Non disponibili per gli utenti EOP autonomi. È possibile utilizzare il servizio Web REST/OData Tenant Reporting per raccogliere in modo programmato riepiloghi e report dettagliati sui dati della messaggistica ed è possibile visualizzare i dati nella pagina Web in un portale Web gestito dal cliente. Per ulteriori informazioni, vedere l'articolo sui [servizi web per la creazione di report di Office 365](https://go.microsoft.com/fwlink/?LinkId=279926).

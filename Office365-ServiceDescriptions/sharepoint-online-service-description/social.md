@@ -1,7 +1,7 @@
 ---
 title: Sociale
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,34 +12,34 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
-description: Microsoft SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le seguenti funzionalità di social networking consentire agli utenti di collaborare in modo più efficace per essi. In che modo? Grazie a strumenti di collaborazione grande utilizzabili da chiunque per condividere idee, trovare persone e competenze e le informazioni aziendali posizione.
-ms.openlocfilehash: 3e964ef776b8df36700964463eaeeb2557288ce6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le seguenti funzionalità di social networking consentono alle persone di collaborare in modo più efficace. Come? Fornendo grandi strumenti di collaborazione che chiunque può utilizzare per condividere idee, trovare persone e competenze e informazioni aziendali sulla posizione.
+ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035984"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466463"
 ---
 # <a name="social"></a>Sociale
 
-Microsoft SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le seguenti funzionalità di social networking consentire agli utenti di collaborare in modo più efficace per essi. In che modo? Grazie a strumenti di collaborazione grande utilizzabili da chiunque per condividere idee, trovare persone e competenze e le informazioni aziendali posizione. 
+Microsoft SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le seguenti funzionalità di social networking consentono alle persone di collaborare in modo più efficace. Come? Fornendo grandi strumenti di collaborazione che chiunque può utilizzare per condividere idee, trovare persone e competenze e informazioni aziendali sulla posizione. 
   
-## <a name="personal-blogs"></a>Blog di personale
+## <a name="personal-blogs"></a>Blog personale
 <a name="bkmk_Blogs"> </a>
 
 I blog possono consentire alle organizzazioni di condividere rapidamente le informazioni tra dipendenti, partner o clienti. Gli utenti possono aggiungere opinioni in un'area con oggetto complesso, fornire ispirazione e guida oppure spiegare una nuova linea guida o procedura.
   
-## <a name="community"></a>Comunità
+## <a name="community"></a>Community
 <a name="bkmk_Community"> </a>
 
 Una comunità online è un luogo virtuale in cui vengono discusse e condivise varie idee. Promuove la comunicazione aperta favorendo le discussioni tra utenti che condividono le proprie competenze e apprendono da altri. Ulteriori informazioni sulla [creazione di una comunità](https://go.microsoft.com/fwlink/p/?LinkId=271061).
   
-## <a name="company-feed"></a>Feed società
+## <a name="company-feed"></a>Company Feed
 <a name="bkmk_CompanyFeed"> </a>
 
 Il feed della società è un newsfeed pubblico dell'organizzazione. Tutti i post vengono visualizzati nell'ambito della società, inclusi quelli creati dalle persone che gli utenti potrebbero non seguire. Ulteriori informazioni sui [feed della società](https://go.microsoft.com/fwlink/p/?LinkId=271062).
   
-## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>Feed del sito (sito del team classica tramite social networking di SharePoint)
+## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>Feed del sito (sito del team classico con SharePoint Social)
 <a name="bkmk_SiteFeed"> </a>
 
 Il feed di un sito, simile a un newsfeed, è un luogo nel sito del team dove postare informazioni e rispondere ad altri post. Ulteriori informazioni sull'[inserimento di post destinati a un gruppo ristretto di persone](https://go.microsoft.com/fwlink/p/?LinkId=271071).

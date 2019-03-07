@@ -1,7 +1,7 @@
 ---
 title: Gestione portfolio
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,19 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Le caratteristiche di gestione portfolio seguenti sono disponibili in Project Online.
-ms.openlocfilehash: c279338ee9ee2c6911e308cb3da65f4aa9f360c6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: In Project online sono disponibili le seguenti funzionalità di gestione del portfolio.
+ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036061"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466623"
 ---
 # <a name="portfolio-management"></a>Gestione portfolio
 
-Le caratteristiche di gestione portfolio seguenti sono disponibili in Project Online.
+In Project online sono disponibili le seguenti funzionalità di gestione del portfolio.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere [Descrizione del servizio Project Online](project-online-service-description.md).
+Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [Descrizione del servizio Project Online](project-online-service-description.md).
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analisi dei progetti e ottimizzazione del portfolio
 <a name="bkmk_AnalyzeProjects"> </a>
@@ -54,7 +54,7 @@ I flussi di lavoro forniscono un modo strutturato di sviluppare i progetti in fa
 
 È importante riuscire a identificare, selezionare e realizzare i portfolio di progetti che meglio rispondono alle strategie aziendali e ai requisiti di massimizzazione del ritorno sull'investimento (ROI). Per ulteriori informazioni, vedere [Guida per le soluzioni della gestione del portfolio di progetti (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
-## <a name="program-management"></a>Gestione del programma
+## <a name="program-management"></a>Gestione programma
 <a name="bkmk_ProgramManagement"> </a>
 
 Ciascun progetto nell'ambito di gestione di un programma si propone obiettivi specifici, i quali, in combinazione con quelli degli altri progetti, determinano il successo dell'intero programma. Per ulteriori informazioni, vedere [Guida per le soluzioni della gestione del portfolio di progetti (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).

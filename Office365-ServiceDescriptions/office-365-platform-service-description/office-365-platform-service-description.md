@@ -1,7 +1,7 @@
 ---
 title: Descrizione dei servizi della piattaforma Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 2/21/2019
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft Office 365 è disponibile in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 5346aa8a30ed89b31ed7b072914f146707068561
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
+ms.openlocfilehash: eb542d224f330581490265713675929df65693c8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210359"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467723"
 ---
 # <a name="office-365-platform-service-description"></a>Descrizione dei servizi della piattaforma Office 365
 
-Microsoft Office 365 è disponibile in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
+Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
   
 Microsoft Office 365 mette la potenza del cloud a disposizione delle aziende di tutte le dimensioni per aiutarle a risparmiare tempo e denaro e a liberare preziose risorse. Office 365 combina la consueta di Microsoft Office per desktop con le versioni su cloud dei più innovativi servizi di comunicazione e collaborazione di Microsoft, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office Online e Microsoft Skype for Business online, per favorire la produttività degli utenti ovunque si trovino grazie a Internet.
   
@@ -48,7 +48,7 @@ Per informazioni sui contratti multilicenza per Office 365, vedere [Contratto di
 
 Per le organizzazioni che si qualificano per i piani di Office 365 Nonprofit, tali piani includono esattamente le stesse caratteristiche previste dai piani aziendali corrispondenti (ad esempio, Office 365 Nonprofit Enterprise E5 include le stesse caratteristiche di Office 365 Enterprise E5). L'unica differenza tra i piani equivalenti è il prezzo che si paga. Per ulteriori informazioni sui piani di Office 365 Nonprofit, vedere i [piani e prezzi di Office 365 Nonprofit](http://go.microsoft.com/fwlink/?LinkID=627221) e queste [domande frequenti](http://go.microsoft.com/fwlink/?LinkID=786641).
   
-## <a name="system-requirements"></a>Requisiti del sistema
+## <a name="system-requirements"></a>Requisiti di sistema
 
 Per i requisiti di sistema per Office 365, il servizio a sottoscrizione mensile per aziende, centri di istruzione ed enti pubblici, vedere [Requisiti di sistema di Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
@@ -56,9 +56,9 @@ Per i requisiti di sistema per Office 365, il servizio a sottoscrizione mensile 
 
 Per informazioni sui contratti di servizio, vedere [Contratto di servizio](https://go.microsoft.com/fwlink/?linkid=843153). Per informazioni sui tempi di attività recenti per Office 365, vedere [Trasparenza nelle operazioni di Office 365](https://go.microsoft.com/fwlink/?linkid=848695).
   
-## <a name="security-amp-compliance-center"></a>Centro &amp; sicurezza e conformità
+## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Per informazioni sul centro conformità &amp; di sicurezza e sui collegamenti a ulteriori informazioni e disponibilità, vedere [Centro sicurezza &amp; e conformità di Office 365](office-365-securitycompliance-center.md).
+For information about the Security &amp; Compliance Center and links to additional information and availability, see [Office 365 Security &amp; Compliance Center](office-365-securitycompliance-center.md).
   
 ## <a name="data-storage-location"></a>Posizione di archiviazione dei dati
 
@@ -94,37 +94,37 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì   <br/> |N.<sup>2</sup> <br/> |
+|Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
 |**[Funzionalità della famiglia di prodotti Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Microsoft Bookings  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Microsoft Flow  <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |Sì<sup>14</sup> <br/> |
-|Microsoft Forms  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|API di Microsoft Graph  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Microsoft MyAnalytics  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> | No  <br/> |
-|Microsoft Planner  <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |No  <br/> |
-|App di Microsoft Power  <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì<sup>13</sup> <br/> |
-|Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Microsoft Stream  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì<sup>18</sup> <br/> |
-|Microsoft Sway  <br/> |Sì  <br/> |Sì   <br/> |Sì  <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |
-|Microsoft Teams<sup>10</sup> <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì<sup>12</sup> <br/> |
-|Office Delve  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> | No  <br/> |
-|Gruppi di Office 365  <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Video di Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì<sup>11</sup> <br/> |
+|Microsoft Flow  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup> <br/> |
+|Microsoft Forms  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|API di Microsoft Graph  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Microsoft MyAnalytics  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|Microsoft Planner  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|App di Microsoft Power  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup> <br/> |
+|Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Microsoft Stream  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>18</sup> <br/> |
+|Microsoft Sway  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>12</sup> <br/> |
+|Office Delve  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Gruppi di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Video di Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |
 |Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |No  <br/> |
 |**[Gestione degli account utente](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Identità cloud, identità federata oppure autenticazione a più fattori  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Strumento di configurazione desktop Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Caricamento di massa con i file csv  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Strumento di sincronizzazione della directory  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Migrazione semplice (completa) di Exchange  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Eliminare account e reimpostare le password utente da Office 365 oppure tramite Windows PowerShell<sup>3</sup> <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Gli utenti possono modificare la propria password<sup>4</sup> <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
+|Identità cloud, identità federata oppure autenticazione a più fattori  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Strumento di configurazione desktop Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Caricamento di massa con i file csv  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Strumento di sincronizzazione della directory  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Migrazione semplice (completa) di Exchange  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Eliminare account e reimpostare le password utente da Office 365 oppure tramite Windows PowerShell<sup>3</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Gli utenti possono modificare la propria password<sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Gestione delle licenze  <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |
-|Gestione dei gruppi di sicurezza da Office 365  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Disponibilità di più ruoli amministratore  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Possibilità di permettere a un partner di gestire Office 365  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Servizi di Azure Active Directory  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
+|Gestione dei gruppi di sicurezza da Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Disponibilità di più ruoli amministratore  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Possibilità di permettere a un partner di gestire Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Servizi di Azure Active Directory  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Domini](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Aggiunta di domini di secondo livello personalizzati, come fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Aggiunta di domini di terzo livello personalizzati, come marketing.fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -151,19 +151,19 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Posta inviata e ricevuta  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Destinatari e mittenti principali  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Rilevamenti di posta indesiderata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Rilevamenti di malware  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Malware principali nella posta  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Corrispondenze alle regole nella posta  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Corrispondenze alle regole principali per la posta  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Corrispondenze di criteri DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
-|Corrispondenze di criteri DLP per livello di gravità per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |
-|Corrispondenza, sostituzioni e falsi positivi dei criteri DLP per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Corrispondenze alle regole DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Sessioni di messaggistica immediata e audio  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Conferenze di condivisione applicazioni, Web e telefoniche con accesso esterno  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
-|Sessioni video, di condivisione applicazioni e di trasferimento file  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Conferenze di messaggistica immediata e audio/video  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
-|Rapporti sulla protezione della posta scaricabile  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Rilevamenti di malware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Malware principali nella posta  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Corrispondenze alle regole nella posta  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Corrispondenze alle regole principali per la posta  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Corrispondenze di criteri DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Corrispondenze di criteri DLP per livello di gravità per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Corrispondenza, sostituzioni e falsi positivi dei criteri DLP per la posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Corrispondenze alle regole DLP principali nella posta  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Sessioni di messaggistica immediata e audio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Conferenze di condivisione applicazioni, Web e telefoniche con accesso esterno  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Sessioni video, di condivisione applicazioni e di trasferimento file  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Conferenze di messaggistica immediata e audio/video  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Rapporti sulla protezione della posta scaricabile  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -176,20 +176,20 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Guida online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Community  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Altre risorse di supporto in autonomia  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Formazione autonoma  <br/> |Sì  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
+|Formazione autonoma  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Rete](networking.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Protocolli IPv4 e IPv6  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
+|Protocolli IPv4 e IPv6  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**Attendibilità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[Privacy, sicurezza e trasparenza](privacy-security-and-transparency.md)** <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |
+|**[Privacy, sicurezza e trasparenza](privacy-security-and-transparency.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Office 365 Cloud App Security  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
-|Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> | No  <br/> |
+|Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Archivio protetto del cliente  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
-|Chiave cliente per Office 365<sup>16</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> | No  <br/> |
-|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> | No  <br/> |
-|Secure Score<sup>7</sup> <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |
+|Chiave cliente per Office 365<sup>16</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|Secure Score<sup>7</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Intelligence per le minacce  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |**[Conformità [descrizione del servizio]](compliance-servicedesc.md)** <br/> ||||||||
-|Valutazioni SAS 70 / SSAE16  <br/> |Sì  <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì   <br/> |Sì  <br/> |Sì  <br/> |
+|Valutazioni SAS 70 / SSAE16  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Certificato ISO 27001  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Clausole modello UE  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |EU Safe Harbor  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -208,11 +208,18 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
    
 
 > <sup>1</sup> Office 365 non fornisce supporto per nessun sistema operativo non supportato dal relativo produttore. 
-<br/><sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Office 365 ProPlus, che non è incluso in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1.<br/><sup>3</sup> se si utilizza la sincronizzazione della directory con un Active Directory locale, è necessario eliminare gli account o cambiare le password utilizzando Active Directory locale, anziché il portale di Office 365 o utilizzando il modulo di Azure Active Directory per Windows PowerShell. 
-<br/><sup>4</sup> per informazioni su come impostare i criteri di gestione della password in modalità self-service per gli utenti, vedere [gestire password in Azure ad](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
-<br/><sup>6</sup> La riduzione delle postazioni acquistate con un'offerta a termine può essere soggetta a un addebito per rescissione anticipata. Non è applicabile alle sottoscrizioni mensili.<br/><sup>7</sup> disponibile all' [https://securescore.office.com](https://securescore.office.com)indirizzo. Richiede autorizzazioni di amministratore. Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>8</sup> Microsoft Sway non è attualmente disponibile per i clienti in determinate aree geografiche. Alcuni piani legacy di Office 365 che non sono più presenti nel mercato dal 2015 agosto possono anche non avere accesso a Microsoft Sway.<br/><sup>9</sup> esperienza ridotta. Se l'organizzazione dipende da Internet Explorer 8 o Internet Explorer 9 per accedere alle applicazioni Web e ai servizi meno recenti, è consigliabile eseguire l'aggiornamento a Internet Explorer 11 e valutare la modalità organizzazione per Internet Explorer 11. Questo aggiornamento consente di garantire una maggiore compatibilità con le versioni precedenti delle app Web legacy.<br/><sup>10</sup> Microsoft teams è disponibile in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise (E1, E3, E5, F1) e nei piani di Office 365 Education. 
+<br/><sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità Protezione delle informazioni di Azure richiedono una sottoscrizione a Office 365 ProPlus che non è inclusa in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1. 
+<br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
+<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>6</sup> la riduzione dei sedili che sono stati acquistati con uno sconto termini può essere soggetta a una tariffa di terminazione anticipata. This is not applicable for subscriptions paid on a monthly basis. 
+<br/><sup>7</sup> disponibile all' [https://securescore.office.com](https://securescore.office.com)indirizzo. Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894). 
+<br/><sup>8</sup> Microsoft Sway non è attualmente disponibile per i clienti in determinate aree geografiche. Alcuni piani legacy di Office 365 che non sono più presenti nel mercato dal 2015 agosto possono anche non avere accesso a Microsoft Sway. 
+<br/><sup>9</sup> esperienza ridotta. Se l'organizzazione dipende da Internet Explorer 8 o Internet Explorer 9 per accedere alle applicazioni Web e ai servizi meno recenti, è consigliabile eseguire l'aggiornamento a Internet Explorer 11 e valutare la modalità organizzazione per Internet Explorer 11. Questo aggiornamento consente di fornire una migliore compatibilità con le versioni precedenti delle applicazioni Web legacy. 
+<br/><sup>10</sup> Microsoft teams è disponibile in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise (E1, E3, E5, F1) e nei piani di Office 365 Education. 
 <br/><sup>11</sup> In Office 365 Enterprise F1, Office 365 video è limitato alla sola visualizzazione (nessuna pubblicazione o condivisione). 
-<br/><sup>12</sup> inoffice 365 Enterprise F1, sono supportate le chiamate audio/video uno-a-uno. I diritti di riunioni sono limitati all'aggiunta di join (nessuna creazione o avvio).<br/><sup>13</sup> In Office 365 Enterprise F1, PowerApps è limitato al solo utilizzo (nessuna pubblicazione o condivisione). 
+<br/><sup>12</sup> inoffice 365 Enterprise F1, sono supportate le chiamate audio/video uno-a-uno. I diritti delle riunioni sono limitati alla sola partecipazione (nessuna funzione di creazione o avvio). 
+<br/><sup>13</sup> In Office 365 Enterprise F1, PowerApps è limitato al solo utilizzo (nessuna pubblicazione o condivisione). 
 <br/><sup>14</sup> In Office 365 Enterprise F1, il flusso è limitato solo ai consumi e le esecuzioni sono limitate a 750 per utente al mese. 
-<br/><sup>15</sup> disponibile solo nei piani didattici di Office 365, inclusa l'istruzione Office 365 E5. Non è disponibile in Office 365 Enterprise E5.<br/><sup>16</sup> per ulteriori informazioni, vedere [controllo dei dati in Office 365 utilizzando la chiave del cliente](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti provenienti da Canada e Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti provenienti da Europa, Medio Oriente e Africa vengono esportati nell'Europa occidentale [Paesi Bassi]. GT<br/><sup>18</sup> Solo utilizzo di Microsoft Stream: nessuna possibilità di pubblicazione o condivisione. 
+<br/><sup>15</sup> disponibile solo nei piani didattici di Office 365, inclusa l'istruzione Office 365 E5. Non è disponibile in Office 365 Enterprise E5. 
+<br/><sup>16</sup> per ulteriori informazioni, vedere [controllo dei dati in Office 365 utilizzando la chiave del cliente](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>17</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti provenienti da Europa, Medio Oriente e Africa vengono esportati nell'Europa occidentale [Paesi Bassi]. GT <br/><sup>18</sup> consumo solo per Microsoft Stream: nessuna pubblicazione o condivisione. 

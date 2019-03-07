@@ -1,7 +1,7 @@
 ---
 title: Funzionalità collaborazione documento in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: In Yammer sono disponibili le seguenti funzionalità di collaborazione documento.
-ms.openlocfilehash: 3f38d139e2b792620ab653f160875efe610769bd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: aff27c7638975044c76aa6328cd3939230afd2b8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036127"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466313"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Funzionalità collaborazione documento in Yammer
 
@@ -29,7 +29,7 @@ In Yammer sono disponibili le seguenti funzionalità di collaborazione documento
 
 Condividere documenti Microsoft Office, PDF, immagini e video tra team e ottenere immediatamente dei commenti. Caricare nuove versioni per assicurare che tutti possano sempre vedere l'ultima bozza e accedere alle versioni precedenti.
   
-## <a name="recent-changes"></a>Elenco delle modifiche recenti
+## <a name="recent-changes"></a>Recent Changes
 <a name="bkmk_RecentChanges"> </a>
 
 È possibile visualizzare immediatamente tutte le modifiche effettuate su un documento per ciascun collaboratore nel riquadro Modifiche recenti. Effettuare il ripristino a una versione precedente in qualunque momento.
@@ -37,7 +37,7 @@ Condividere documenti Microsoft Office, PDF, immagini e video tra team e ottener
 ## <a name="official-content"></a>Contenuto ufficiale
 <a name="bkmk_OfficialContent"> </a>
 
-Segno di file come ufficiale e di sola lettura. Contenuto ufficiale livello superiore nella directory del contenuto per semplificare l'accesso e i risultati della ricerca.
+Contrassegnare i file come ufficiali e di sola lettura. I contenuti ufficiali appaiono più elevati nei risultati di ricerca e nelle directory di contenuto per un accesso più facile.
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Funzionalità collaborazione documento tra piani Yammer
 <a name="bkmk_OfficialContent"> </a>

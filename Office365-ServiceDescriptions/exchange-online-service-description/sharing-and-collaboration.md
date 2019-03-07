@@ -1,7 +1,7 @@
 ---
 title: Condivisione e collaborazione
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 13ab2163b76b5ccc4732659a64be5fcead01dc9d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036013"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466923"
 ---
 # <a name="sharing-and-collaboration"></a>Condivisione e collaborazione
 
@@ -43,7 +43,7 @@ Per ulteriori informazioni sulle cassette postali dei siti, vedere [Cassette pos
   
 ## <a name="public-folders"></a>Cartelle pubbliche
 
-Cartelle pubbliche in Exchange Online sono state modernizzate per sfruttare le tecnologie di archiviazione e disponibilità elevate esistente del database delle cassette postali. L'architettura delle cartelle pubbliche vengono utilizzate le cassette postali progettate appositamente per la memorizzazione della gerarchia e il contenuto delle cartelle pubbliche. Ciò significa che non è più un database delle cartelle pubbliche separato. Replica delle cartelle pubbliche ora utilizza il modello di replica continua. Disponibilità elevata per le cassette postali gerarchia e del contenuto è disponibile un gruppo di disponibilità del database (DAG) nel centro dati. In Exchange Online sono limitate a 1000 cassette postali di cartelle pubbliche. Ogni cassetta postale delle cartelle pubbliche anche con una dimensione massima di memoria. Per ulteriori informazioni, vedere la sezione "Limiti cartella delle cassette postali" in [Exchange Online Limits](exchange-online-limits.md). Cassette postali delle cartelle pubbliche avere lo stesso messaggio, destinatario e limiti della capacità di avviso le cassette postali regolari. Per ulteriori informazioni, vedere [Recipients](recipients.md). 
+Le cartelle pubbliche in Exchange Online sono state modernizzate per sfruttare l'elevata disponibilità esistente e le tecnologie di archiviazione del database delle cassette postali. L'architettura delle cartelle pubbliche utilizza cassette postali speciali per archiviare sia la gerarchia sia il contenuto della cartella pubblica. Ciò significa che non è più disponibile un database delle cartelle pubbliche separato. La replica delle cartelle pubbliche ora utilizza il modello di replica continua. L'elevata disponibilità della gerarchia e delle cassette postali del contenuto è fornita dal gruppo di disponibilità del database (DAG) che si trova nel data center. In Exchange Online, l'utente ha un limite di 1000 cassette postali delle cartelle pubbliche. Anche ciascuna cassetta postale di cartelle pubbliche possiede dimensioni di archiviazione massime. Per ulteriori informazioni, vedere la sezione "Limiti cartella delle cassette postali" su [Limiti Exchange Online Limits](exchange-online-limits.md). Le cassette postali di cartelle pubbliche hanno i medesimi avvisi per limiti di spazio di archiviazione, messaggi, destinatari e avvisi di capacità delle cassette postali normali. Per ulteriori informazioni, vedere [Destinatari](recipients.md). 
   
 Per ulteriori informazioni sulle cartelle pubbliche, vedere [Cartelle pubbliche](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

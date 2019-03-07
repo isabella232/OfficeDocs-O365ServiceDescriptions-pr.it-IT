@@ -1,7 +1,7 @@
 ---
 title: 'Descrizioni del servizio Office 365 '
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 è un servizio basato su cloud progettata per soddisfare le esigenze dell'organizzazione per la sicurezza, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
-ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
+description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
+ms.openlocfilehash: abf2ca2eb13bc5830bb5520836aebc66aa55bc1f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "28694660"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466693"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
-Microsoft Office 365 è un servizio basato su cloud progettata per soddisfare le esigenze dell'organizzazione per la sicurezza, l'affidabilità e la produttività degli utenti. 
+Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti. 
   
 Gli argomenti presenti in questa libreria forniscono descrizioni dettagliate su servizi e funzionalità disponibili in Office 365. Per confrontare le funzionalità tra piani, vedere [Confronto tra piani di Office 365 for Business ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oppure la relativa descrizione del servizio nell'elenco riportato di seguito. 
   
@@ -33,7 +33,7 @@ Per cercare articoli di supporto e informazioni, vedere [Supporto Office](https:
 > [!NOTE]
 > Se si sta cercando il foglio di calcolo di confronto Descrizione del servizio, è stato ritirato. Le tabelle di disponibilità delle funzionalità dei prodotti in ogni pagina Descrizione del servizio sono state aggiornate per aiutare gli utenti a scegliere la versione di Office 365 più adatta alle proprie esigenze. 
   
-Microsoft offre il vantaggio di centro FastTrack per Office 365 per servizi nei piani idonei. Il vantaggio consente di lavorare in modalità remota con esperti di Microsoft per prepararsi per l'utilizzo dell'ambiente Office 365. Per ulteriori informazioni, vedere [FastTrack centro vantaggio per Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft offre il vantaggio FastTrack Center per Office 365 per i servizi idonei nei piani idonei. Il vantaggio consente di lavorare in remoto con gli specialisti Microsoft per ottenere l'ambiente Office 365 pronto per l'uso. Per altre informazioni, vedere [FastTrack Center Benefit per Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Per iniziare, vedere le descrizioni dei seguenti servizi:
   
@@ -65,7 +65,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione del servizio Visio Online](visio-online-service-description/visio-online-service-description.md)
     
-- [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
+- [Descrizione servizio Yammer](yammer-service-description/yammer-service-description.md)
     
 - [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     
@@ -74,5 +74,5 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
   
 ## <a name="disclaimer"></a>Dichiarazione di non responsabilità
 
-© 2018 Microsoft Corporation. Tutti i diritti riservati. Microsoft Office 365 e altri nomi di prodotti o servizi sono o possono essere marchi o marchi registrati e/o marchi registrati negli Stati Uniti e/o negli altri paesi. Le informazioni fornite nel presente documento sono esclusivamente per scopi informativi e rappresenta la visualizzazione corrente di Microsoft Corporation alla data di pubblicazione più recente o la data di revisione del presente documento. Non deve essere un contratto di servizio e non implica l'applicazione Microsoft o cliente alle funzionalità, caratteristiche o responsabilità citate nel presente documento. MICROSOFT NON FORNISCE ALCUNA GARANZIA, ESPRESSA O IMPLICITA, PER QUANTO RIGUARDA LE INFORMAZIONI CONTENUTE IN QUESTO DOCUMENTO. 
+© 2018 Microsoft Corporation. Tutti i diritti riservati. Microsoft, Office 365 e altri nomi di prodotti e servizi sono o potrebbero essere marchi o marchi registrati negli Stati Uniti e/o in altri paesi. Le informazioni contenute nel presente documento hanno intento puramente informativo e rappresentano il punto di vista di Microsoft Corporation al momento della più recente pubblicazione ovvero revisione del documento stesso. Esso non intende in alcun modo costituire contratto di servizio e non impegna Microsoft o il cliente in relazione ad alcuna funzionalità, capacità o responsabilità qui menzionata. MICROSOFT NON GARANTISCE IN ALCUN MODO, ESPRESSO, IMPLICITO O A TERMINI DI LEGGE, LE INFORMAZIONI CONTENUTE NEL PRESENTE DOCUMENTO. 
   

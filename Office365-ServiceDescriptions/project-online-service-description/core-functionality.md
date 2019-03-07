@@ -1,7 +1,7 @@
 ---
 title: Funzionalità di base
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Le funzionalità di funzionalità di base seguenti sono disponibili in Project Online.
-ms.openlocfilehash: 12d754a9119afe3e8827cb33b1bcbba3ee8f4ebe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: In Project online sono disponibili le seguenti funzionalità di base.
+ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035997"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467471"
 ---
 # <a name="core-functionality"></a>Funzionalità di base
 
-Le funzionalità di funzionalità di base seguenti sono disponibili in Project Online.
+In Project online sono disponibili le seguenti funzionalità di base.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere [Descrizione del servizio Project Online](project-online-service-description.md).
+Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [Descrizione del servizio Project Online](project-online-service-description.md).
   
 ## <a name="add-columns"></a>Aggiunta di colonne
 <a name="bkmk_AddColumns"> </a>
@@ -69,7 +69,7 @@ Grazie alla barra multifunzione, un'interfaccia a schede che consente di trovare
 ## <a name="multiple-level-undo"></a>Annullamento delle ultime azioni effettuate
 <a name="bkmk_Multiplelevelundo"> </a>
 
-È possibile annullare più modifiche contemporaneamente utilizzando il menu di annullamento. 
+È possibile annullare più modifiche contemporaneamente utilizzando il menu Annulla. 
   
 ## <a name="network-diagram-view"></a>Visualizzazione Diagramma reticolare
 <a name="bkmk_Networkdiagramview"> </a>

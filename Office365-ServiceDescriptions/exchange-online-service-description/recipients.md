@@ -1,7 +1,7 @@
 ---
 title: Destinatari
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
-ms.openlocfilehash: 32f792028f9e0d15b97048861ddc77ac59151b0f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036008"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467413"
 ---
 # <a name="recipients"></a>Destinatari
 
@@ -37,7 +37,7 @@ La quantità di spazio di archiviazione nella cassetta postale disponibile per u
   
 Per ulteriori informazioni, vedere le sezioni relative ai limiti di archiviazione della cassetta postale e agli avvisi di capacità in questo argomento, [Limiti Exchange Online Limits](exchange-online-limits.md).
   
-### <a name="mailtips"></a>Messaggi di avviso
+### <a name="mailtips"></a>Suggerimenti messaggio
 
 Gli avvisi messaggio sono messaggi informativi automatizzati che vengono visualizzati sulla riga A: quando gli utenti compongono o inseriscono l'indirizzo in un messaggio. Lo scopo è impedire recapiti accidentali, violazioni dei criteri o rapporti di mancato recapito (NDR) non necessari. Ad esempio, gli avvisi messaggio possono generare un avviso se i mittenti provano a inviare messaggi a gruppi troppo grandi, a gruppi che contengono destinatari esterni o a un gruppo di distribuzione moderato o con restrizioni. Per ulteriori informazioni, vedere [Avviso messaggi](https://go.microsoft.com/fwlink/p/?LinkId=401472).
   

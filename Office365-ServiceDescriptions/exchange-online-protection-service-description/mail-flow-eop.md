@@ -1,7 +1,7 @@
 ---
 title: Flusso di posta [EOP]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Per la maggior parte delle organizzazioni che utilizzano Office 365, è ospitare le cassette postali e fare attenzione di flusso di posta. È la configurazione più semplice e significa che Office 365 gestisce tutte le cassette postali e filtro. Tuttavia, alcune organizzazioni hanno un'azienda è necessario conservare tutte le loro cassette postali in locale. Exchange Online Protection (EOP) consente di effettuare tale operazione e vengono forniti posta indesiderata e antivirus elaborazione nel cloud. Per ulteriori informazioni e per l'acquisto di EOP, andare a Exchange Online Protection.
-ms.openlocfilehash: 6c43d308db3c4f62e4c6891cb87263560d9478a7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e i filtri vengono gestiti da Office 365. Tuttavia, alcune organizzazioni hanno la necessità di tenere in locale tutte le cassette postali. Per questo motivo, possono usare Exchange Online Protection (EOP) e ottenere anche controlli antivirus e contro la posta indesiderata nel cloud. Per ulteriori informazioni e per acquistare EOP, visitare Exchange Online Protection.
+ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035988"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467573"
 ---
 # <a name="mail-floweop"></a>Flusso di posta [EOP]
 
-Per la maggior parte delle organizzazioni che utilizzano Office 365, è ospitare le cassette postali e fare attenzione di flusso di posta. È la configurazione più semplice e significa che Office 365 gestisce tutte le cassette postali e filtro. Tuttavia, alcune organizzazioni hanno un'azienda è necessario conservare tutte le loro cassette postali in locale. Exchange Online Protection (EOP) consente di effettuare tale operazione e vengono forniti posta indesiderata e antivirus elaborazione nel cloud. Per ulteriori informazioni e per l'acquisto di EOP, andare a [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection).
+Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e i filtri vengono gestiti da Office 365. Tuttavia, alcune organizzazioni hanno la necessità di tenere in locale tutte le cassette postali. Per questo motivo, possono usare Exchange Online Protection (EOP) e ottenere anche controlli antivirus e contro la posta indesiderata nel cloud. Per ulteriori informazioni e per acquistare EOP, visitare [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection).
   
 Sono necessarie informazioni sulla gestione dei domini o su Directory Based Edge Blocking (DBEB)? Vedere [Gestione destinatari, dominio e società](recipient-domain-and-company-management.md). Per ulteriori informazioni su tutte le funzionalità EOP, vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).
   
@@ -48,7 +48,7 @@ Per ulteriori informazioni, vedere [Configurazione dei connettori per proteggere
 
 È possibile configurare un connettore con una regola di trasporto che instrada la posta verso un sito specifico, a seconda delle condizioni. Per maggiori informazioni, vedere [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).
   
-## <a name="hybrid-mail-routing"></a>Routing posta ibrida
+## <a name="hybrid-mail-routing"></a>Hybrid mail routing
 <a name="BKMK_hybridmailrouting"> </a>
 
 Per ibrido si intende che una parte delle cassette postali si trova a livello locale e un'altra parte si trova nel cloud (Exchange Online). È possibile passare da una distribuzione autonoma (locale) a una ibrida.

@@ -1,7 +1,7 @@
 ---
 title: Applicazioni di Office
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: "Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate."
-ms.openlocfilehash: 01f5613e53e9fbb66853febd4e61c6ff94c10b05
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035994"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467693"
 ---
 # <a name="office-applications"></a>Applicazioni di Office
 
@@ -71,12 +71,12 @@ Skype for Business è un client per la messaggistica istantanea e un'applicazion
 
 Microsoft InfoPath è un programma che consente di progettare, distribuire, completare e inviare formati elettronici. È possibile scegliere di aggiungere Web part Modulo di InfoPath a un sito SharePoint Online. Ulteriori informazioni su [Utilizzare la web part Modulo di InfoPath](http://go.microsoft.com/fwlink/p/?LinkId=271687).
   
-## <a name="windows-8-apps"></a>App di Windows 8
+## <a name="windows-8-apps"></a>Windows 8 Apps
 <a name="bkmkWin8Apps"> </a>
 
 Alcune applicazioni di Office, quali Excel e Word, dispongono di riquadri bloccati nella schermata di avvio dei dispositivi con Windows 8 e Windows RT, per impostazioni predefinita. Ulteriori informazioni su [Trovare e avviare applicazioni di Office in Windows 8 o Windows RT](http://go.microsoft.com/fwlink/p/?LinkId=271688).
   
-## <a name="office-mobile-for-ipadiphone"></a>Office Mobile per iPhone/iPad
+## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 <a name="BKMK_Office_for_iPad"> </a>
 
 Office Mobile per iPad e iPhone include Word per iPad/iPhone, Excel per iPhone/iPad e PowerPoint per iPhone/iPad. Le app sono disponibili per il download gratuitamente e con i piani applicabili di Office 365 è possibile creare e modificare documenti sul proprio iPad o iPhone. Per ulteriori informazioni sulle differenze tra le app di Office Mobile per iPad/iPhone e le equivalenti versioni desktop per le piattaforme Mac e Windows, vedere:
@@ -87,14 +87,14 @@ Office Mobile per iPad e iPhone include Word per iPad/iPhone, Excel per iPhone/i
     
 - [Confrontare PowerPoint per iPad con PowerPoint per Mac e PowerPoint per Windows](http://go.microsoft.com/fwlink/p/?LinkId=507545)
     
-## <a name="office-mobile-for-android"></a>Office Mobile per Android
+## <a name="office-mobile-for-android"></a>Office Mobile for Android
 <a name="BKMK_Office_for_Android"> </a>
 
 Office Mobile per Android include Word per Android, Excel per Android e PowerPoint per Android. Le app sono disponibili per il download gratuitamente e con i piani applicabili di Office 365 è possibile creare e modificare documenti sui propri dispositivi Android. Per ulteriori informazioni sulle differenze tra le app di Office Mobile per Android e le equivalenti versioni desktop, vedere:
   
 - [Office Mobile per Android](https://support.office.com/en-us/article/Office-Mobile-for-Android-phones-ee598133-59d1-43c3-b47c-aac3f2d9a605?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-phone"></a>Office Mobile per Windows Phone
+## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Office Mobile per Windows Phone include Word per Windows Phone, Excel per Windows Phone e PowerPoint per Windows Phone. Le app sono disponibili per il download gratuitamente e con i piani applicabili di Office 365 è possibile creare e modificare documenti sul proprio Windows Phone. Per ulteriori informazioni sulle differenze tra Office Mobile per Windows Phone e le equivalenti versioni desktop, vedere:

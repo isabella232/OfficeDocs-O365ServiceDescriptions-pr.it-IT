@@ -1,7 +1,7 @@
 ---
 title: Partner
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: In quanto partner autorizzato di Microsoft, Microsoft Office 365 offre l'opportunità di incrementare la base di clienti e creare con essi relazioni durature. A fronte di un canone mensile o annuale, i clienti possono utilizzare i servizi basati su cloud, evitando in tal modo di dover gestire backup dei dati, hardware per i server e relativi aggiornamenti. I servizi effettivamente disponibili dipendono dal tipo di servizi che si è autorizzati a fornire.
-ms.openlocfilehash: de56f3f3f890c0015ae823bd78bc0185d065fe9c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036064"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467623"
 ---
 # <a name="partners"></a>Partner
 

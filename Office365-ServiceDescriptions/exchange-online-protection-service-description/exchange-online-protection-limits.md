@@ -1,7 +1,7 @@
 ---
 title: Limiti Exchange Online Protection
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: I seguenti limiti attualmente esistono per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
-ms.openlocfilehash: 2e2efe4693cb7e5cdf52b4d035512657c39f03c2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
+ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036136"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468143"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti Exchange Online Protection
 
-I seguenti limiti attualmente esistono per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato. 
+I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato. 
   
 > [!TIP]
 > Per ulteriori informazioni sui limiti Exchange Online, vedere [Limiti Exchange Online Limits](../exchange-online-service-description/exchange-online-limits.md). I limiti delle regole di trasporto si applicano anche ai clienti EOP autonomi. I limiti relativi alla frequenza di destinatari e di messaggi validi in Exchange Online non sono invece applicabili per i clienti che utilizzano EOP in uno scenario autonomo. 
@@ -50,7 +50,7 @@ I seguenti limiti attualmente esistono per Exchange Online Protection. Questi li
 |**Funzionalità**|****EOP autonomo****|****Caratteristiche EOP in Exchange Online****|****Exchange Enterprise CAL con servizi****|
 |:-----|:-----|:-----|:-----|
 |Limiti dominio  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Limiti dimensioni messaggio (inclusi gli allegati)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Limiti dimensioni messaggio (inclusi gli allegati)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Limiti destinatario  <br/> |Vedere "Limite destinatari" sopra riportato  <br/> |500 destinatari quando si invia da una cassetta postale ospitata; vedere "Limite destinatari" sopra riportato per ulteriori scenari  <br/> |Vedere "Limite destinatari" sopra riportato  <br/> |
 |Limite dei mittenti attendibili  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
 |Limite dei mittenti bloccati  <br/> |1024 voci  <br/> |1024 voci  <br/> ||

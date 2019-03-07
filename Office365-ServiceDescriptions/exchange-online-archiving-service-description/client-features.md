@@ -1,7 +1,7 @@
 ---
 title: Funzionalità client in Archiviazione Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Archiviazione di Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di piattaforme e dispositivi. Si verifica la connettività di rete per l'archivio dell'utente tramite Internet e connessioni di rete privata virtuale (VPN) non sono necessarie. Le organizzazioni possono pubblicare un server Accesso Client locale per consentire agli utenti di accedere alla cassetta postale principale utilizzando Outlook via Internet, senza la necessità di una connessione VPN. Se è necessario l'accesso di rete VPN per accedere alla cassetta postale principale dell'utente ubicata in un server locale, questo requisito non cambia.
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Archiviazione Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di dispositivi e piattaforme. Tutta la connettività di rete verso l'archivio dell'utente si verifica su Internet e le connessioni VPN (rete privata virtuale) non sono richieste. Le organizzazioni possono pubblicare un server Client Access in locale per consentire agli utenti di accedere alla cassetta postale principale tramite Outlook Anywhere, senza richiedere una connessione VPN. Se viene richiesto l'accesso VPN per accedere alla cassetta postale principale dell'utente situata su un server in locale, tale requisito non viene modificato.
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035961"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467183"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Funzionalità client in Archiviazione Exchange Online
 
-Archiviazione di Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di piattaforme e dispositivi. Si verifica la connettività di rete per l'archivio dell'utente tramite Internet e connessioni di rete privata virtuale (VPN) non sono necessarie. Le organizzazioni possono pubblicare un server Accesso Client locale per consentire agli utenti di accedere alla cassetta postale principale utilizzando Outlook via Internet, senza la necessità di una connessione VPN. Se è necessario l'accesso di rete VPN per accedere alla cassetta postale principale dell'utente ubicata in un server locale, questo requisito non cambia.
+Archiviazione Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di dispositivi e piattaforme. Tutta la connettività di rete verso l'archivio dell'utente si verifica su Internet e le connessioni VPN (rete privata virtuale) non sono richieste. Le organizzazioni possono pubblicare un server Client Access in locale per consentire agli utenti di accedere alla cassetta postale principale tramite Outlook Anywhere, senza richiedere una connessione VPN. Se viene richiesto l'accesso VPN per accedere alla cassetta postale principale dell'utente situata su un server in locale, tale requisito non viene modificato.
   
 > [!IMPORTANT]
 > Microsoft si riserva il diritto di bloccare o limitare le connessioni da qualunque software client che impatta negativamente l'integrità del Archiviazione Exchange Online servizio. 
@@ -50,15 +50,15 @@ Nella tabella seguente sono elencati i client supportati da Archiviazione Exchan
 |:-----|:-----|
 |Outlook 2010 e versioni successive  <br/> |Supporta le funzionalità più recenti in Archiviazione Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Supportato per l'utilizzo con Archiviazione Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |Non supportata  <br/> |
-|Outlook per Mac 2011  <br/> |Non supportata  <br/> |
-|Outlook per Mac  <br/> |Supportati da archiviazione Exchange Online. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008, Web Services Edition  <br/> |Non supportata  <br/> |
-|IMAP e POP  <br/> |Non supportata  <br/> |
+|Outlook 2003  <br/> |Non supportato  <br/> |
+|Outlook per Mac 2011  <br/> |Non supportato  <br/> |
+|Outlook per Mac  <br/> |Supportato per l'utilizzo con archiviazione Exchange Online. <sup>3</sup> <br/> |
+|Microsoft Office Entourage 2008, Web Services Edition  <br/> |Non supportato  <br/> |
+|IMAP e POP  <br/> |Non supportato  <br/> |
 |Exchange ActiveSync (dispositivi mobili)  <br/> |Non supportata  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> non è incluso in Microsoft Office Standard di outlook. Per ulteriori informazioni, vedere [requisiti relativi alle licenze per l'archivio personale e i criteri di conservazione](https://go.microsoft.com/fwlink/?LinkId=389396). > <sup>2</sup> richiede l'aggiornamento per abilitare il supporto di archiviazione. Gli utenti di Outlook 2007 non possono visualizzare o applicare criteri di conservazione o archiviare i criteri per gli elementi nelle cassette postali di archiviazione; è necessario utilizzano criteri amministratore eseguito il provisioning. Agli utenti di Outlook 2007 è inoltre possono cercare la cassetta postale locale e l'archivio contemporaneamente. > <sup>3</sup> non è possibile utilizzare 2016 Outlook per Mac o Outlook per Mac per le cartelle di spostamento o copia, gli elementi del calendario, contatti, attività o note per l'archivio o visualizzare nella cassetta postale di archivio se gli elementi sono stati spostati in precedenza disponibili con altre versioni di Outlook ( ad esempio Outlook 2016 per Windows). Per ulteriori informazioni, vedere [Use l'archivio online con 2016 Outlook per Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
+> <sup>1</sup> Outlook incluso con Microsoft Office Standard non è supportato. Per informazioni, vedere [Requisiti per la concessione delle licenze per l'archivio personale e i criteri di conservazione](https://go.microsoft.com/fwlink/?LinkId=389396). > <sup>2</sup> Richiede l'aggiornamento per abilitare il supporto di archiviazione. Gli utenti Outlook 2007 non possono visualizzare o applicare i criteri di conservazione e archiviazione per gli elementi nelle cassette postali di archiviazione; devono basarsi sui criteri predisposti dall'amministratore. Inoltre, gli utenti di Outlook 2007 non possono ricercare contemporaneamente la cassetta postale in locale e l'archivio. > <sup>3</sup> non è possibile utilizzare Outlook 2016 per Mac o Outlook per Mac per spostare o copiare cartelle, elementi del calendario, contatti, attività o note nell'archivio oppure visualizzarli nella cassetta postale di archiviazione, se gli elementi sono stati precedentemente spostati tramite qualsiasi altra versione di Outlook, ad esempio Outlook 2016 per Windows). Per ulteriori informazioni, vedere [use your online Archive with Outlook 2016 for Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
   
 ## <a name="outlook-web-app"></a>Outlook Web App
 

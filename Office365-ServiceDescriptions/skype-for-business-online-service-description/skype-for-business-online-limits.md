@@ -1,7 +1,7 @@
 ---
 title: Limiti in Skype for Business Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'I limiti in Skype Business online rientrano nelle categorie seguenti:'
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+description: 'I limiti di Skype for business online rientrano nelle categorie seguenti:'
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213893"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466963"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti in Skype for Business Online
 
-I limiti in Skype Business online rientrano nelle categorie seguenti:
+I limiti di Skype for business online rientrano nelle categorie seguenti:
   
 - [Limiti peer-to-peer](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -42,31 +42,31 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
 
 - **Limite di trasferimento file** La dimensione massima relativa a un file che può essere trasferito in una conversazione di messaggistica istantanea di Skype for Business online. Per informazioni sui tipi di file per i quali è stato bloccato il trasferimento file, vedere l'articolo del supporto Microsoft relativo all' [invio e ricezione di file o allegati in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
-- **Limiti relativi alle conversazioni a schede aperte** Il numero massimo di schede di conversazione che un utente di Skype for Business può aprire in contemporanea. 
+- **Limiti relativi alle conversazioni a schede aperte** Il numero massimo di schede di conversazione che gli utenti di Skype for Business possono aprire in contemporanea. 
     
 ### <a name="peer-to-peer-limits-across-office-365-options"></a>Limiti peer-to-peer tra le opzioni di Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Non applicabile  <br/> |
-|Conversazione limite<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Limite di conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicabile  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> un client può avviare una sessione di chat con un massimo di 99 utenti manualmente aggiungendoli o inviare un messaggio immediato dal menu di scelta rapida di una gruppo o lista di distribuzione. Per ulteriori informazioni sulla messaggistica immediata in Skype Business online, vedere [inviare un messaggio Istantaneo in Skype per le aziende](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> un client può avviare una chat con un massimo di 99 utenti aggiungendoli manualmente o inviando un messaggio istantaneo dal menu di scelta rapida di un gruppo o di una lista di distribuzione. Per ulteriori informazioni sulla messaggistica istantanea in Skype for business online, vedere [inviare un messaggio istantaneo in Skype for business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Limiti peer-to-peer tra le opzioni autonome
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
+|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |
-|Conversazione limite<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Limite di conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> un client può avviare una sessione di chat con un massimo di 99 utenti manualmente aggiungendoli o inviare un messaggio immediato dal menu di scelta rapida di una gruppo o lista di distribuzione. Per ulteriori informazioni sulla messaggistica immediata in Skype Business online, vedere [inviare un messaggio Istantaneo in Skype per le aziende](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> un client può avviare una chat con un massimo di 99 utenti aggiungendoli manualmente o inviando un messaggio istantaneo dal menu di scelta rapida di un gruppo o di una lista di distribuzione. Per ulteriori informazioni sulla messaggistica istantanea in Skype for business online, vedere [inviare un messaggio istantaneo in Skype for business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Limiti delle riunioni
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -87,7 +87,7 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite caricamento file  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Non applicabile  <br/> |
 |Partecipanti a una riunione in Skype for Business<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicabile  <br/> |
 |Relatori di una riunione in Skype for Business  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicabile  <br/> |
@@ -103,7 +103,7 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
+|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
 |Limite caricamento file  <br/> |500 MB  <br/> |Non applicabile  <br/> |500 MB  <br/> |
 |Partecipanti a una riunione in Skype for Business  <br/> |250  <br/> |Non applicabile  <br/> |250  <br/> |
 |Relatori di una riunione in Skype for Business  <br/> |250  <br/> |Non applicabile  <br/> |250  <br/> |
@@ -119,7 +119,7 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
     
 - **Periodo di scadenza della riunione** La quantità di tempo dopo la quale una riunione è terminata in cui l'utente può accedere alla riunione. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Limiti di conservazione delle riunioni nelle opzioni di Office 365 e piani autonomi
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Limiti di conservazione delle riunioni tra le opzioni di Office 365 e i piani autonomi
 
 > [!NOTE]
 > Ogni utente può avere al massimo 1.000 conferenze nel database in qualsiasi momento. 
@@ -127,10 +127,10 @@ I limiti in Skype Business online rientrano nelle categorie seguenti:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Tipo di riunione** <br/> |**Descrizione** <br/> 
-|Riunione singola| Riunione potranno almeno fino a 14 giorni dopo l'ora pianificata l'ultima attivazione della riunione o ultimo aggiornamento della riunione, se più recente.
-|Riunione ricorrente con data di fine| Riunione potranno almeno fino a 14 giorni dopo l'ora di fine pianificata dell'ultima occorrenza della riunione, o ultima attivazione della riunione o della riunione ultimo aggiornamento, se più recente.
-|Riunione ricorrente senza data di fine| Riunione sarà sempre accessibile forniti sono disponibili nuovi join conferenza (attivazioni) o pianificazione degli aggiornamenti almeno una volta all'anno
-|     Inizia discussione|Riunione saranno accessibili per almeno 8 ore.
+|Riunione singola| La riunione sarà accessibile almeno fino a 14 giorni dopo l'orario pianificato o l'ultima riunione di attivazione o l'ultimo aggiornamento della riunione, a seconda di quale sia l'ultima.
+|Riunione ricorrente con data di fine| La riunione sarà accessibile almeno fino a 14 giorni dopo l'ora di fine pianificata dell'ultima occorrenza della riunione o l'ultima riunione o l'ultimo aggiornamento della riunione, a seconda di quale sia il più recente.
+|Riunione ricorrente senza data di fine| La riunione sarà sempre accessibile, purché siano presenti nuovi join di conferenza (attivazioni) o la pianificazione degli aggiornamenti almeno una volta all'anno
+|Incontra ora|La riunione sarà accessibile per almeno 8 ore.
 
 
   

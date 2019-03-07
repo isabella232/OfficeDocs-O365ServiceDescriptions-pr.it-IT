@@ -1,7 +1,7 @@
 ---
 title: Funzionalità di conformità e sicurezza in Archiviazione Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: c54ec8f37c6f881dc934307f7784f79d01c7a878
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036007"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467793"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Funzionalità di conformità e sicurezza in Archiviazione Exchange Online
 
@@ -36,7 +36,7 @@ Con Outlook 2010 e versioni successive e con Outlook Web App, gli utenti possono
   
 I criteri di conservazione disponibili in Archiviazione Exchange Online sono identici a quelli di Exchange Server 2010 Service Pack 2 (SP2) e versioni successive. Gli amministratori possono gestire i criteri di conservazione da ambienti locali Exchange Server 2010 e versioni successive. Le cartelle gestite, ossia il precedente approccio alla gestione dei record di messaggistica introdotto in Exchange 2007, non sono disponibili né compatibili con Archiviazione Exchange Online. Per ulteriori dettagli, vedere [Tag di conservazione e criteri di conservazione](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
-### <a name="in-place-hold-and-litigation-hold"></a>Archiviazione sul posto e conservazione per controversia legale
+### <a name="in-place-hold-and-litigation-hold"></a>Blocco sul posto e blocco per controversia legale
 <a name="BKMK_In_placehold"> </a>
 
 In presenza di un ragionevole rischio di controversia, le organizzazioni sono tenute a conservare le informazioni in forma elettronica, inclusi i messaggi pertinenti al caso. Questa aspettativa può divenire realtà prima che siano note le specifiche del caso, richiedendo pertanto una conservazione ad ampio spettro. Le organizzazioni possono conservare tutti i messaggi di posta elettronica relativi a uno specifico argomento oppure tutti i messaggi di posta elettronica di determinati individui.
@@ -72,7 +72,7 @@ Per ulteriori informazioni, vedere [Conservazione in locale](https://go.microsof
 > [!NOTE]
 > Per gli utenti di Archiviazione Exchange Online, la quota predefinita per la cartella degli elementi ripristinabili è pari a 100 GB. 
   
-### <a name="in-place-ediscovery"></a>eDiscovery in locale
+### <a name="in-place-ediscovery"></a>eDiscovery sul posto
 <a name="BKMK_In_placehold"> </a>
 
 Archiviazione Exchange Online supporta eDiscovery in locale per la ricerca nei contenuti delle cassette postali di un'organizzazione. Utilizzando l'interfaccia di amministrazione di Exchange o una sessione remota di Windows PowerShell da un server Exchange 2013 locale, gli amministratori o i responsabili dell'individuazione autorizzati possono eseguire ricerche in una vasta gamma di elementi delle cassette postali, inclusi messaggi di posta elettronica, allegati, appuntamenti del calendario, attività e contatti. eDiscovery in locale può eseguire simultaneamente ricerche nelle cassette postali principali e negli archivi. Tra i filtri disponibili sono inclusi quelli per mittente, destinatario, tipo di messaggio, data di invio o ricezione, Cc e Bcc, oltre a quelli per la sintassi KQL (Keyword Query Language). Per ulteriori dettagli, vedere [eDiscovery in locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).

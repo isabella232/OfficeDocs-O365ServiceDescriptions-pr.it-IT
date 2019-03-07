@@ -1,7 +1,7 @@
 ---
 title: Supporto
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Con ogni sottoscrizione di Microsoft Office 365 Enterprise, Business, Education e Government, supporto per Microsoft vengono fornite fatturazione tecnica, prevendita, globale e supporto per le sottoscrizioni. Supporto è disponibile sia online tramite il portale di Office 365 e per telefono per le sottoscrizioni a pagamento e versioni di prova. Per ulteriori informazioni, vedere Opzioni di supporto di Office 365.
-ms.openlocfilehash: bb93982e24065abbf558145afcff07f10181ceb7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Con ogni sottoscrizione Microsoft Office 365 Enterprise, Business, Education e Government, il supporto tecnico Microsoft fornisce assistenza globale per problemi tecnici e relativi a prevendita, fatturazione e sottoscrizione. Il supporto è disponibile sia online tramite il portale di Office 365 sia tramite telefono per abbonamenti a pagamento e a prova. Per ulteriori informazioni, vedere Supporto per Office 365.
+ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036105"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467533"
 ---
 # <a name="support"></a>Supporto
 
 > [!NOTE]
-> Tutte le opzioni di supporto seguenti sono per tutto il mondo versioni di Office 365. Per tutto il supporto per Office 365 gestito dal 21Vianet in Cina, vedere [contatto Office 365 per aziende di supporto per Office 365 gestito dal 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Per Office 365 Germania, vedere [contatto Office 365 per aziende di supporto per Office 365 Germania](https://go.microsoft.com/fwlink/?linkid=846979). 
+> Tutte le opzioni di supporto seguenti sono valide per tutte le versioni internazionali di Office 365. Per tutto il supporto per Office 365 gestito da 21Vianet in Cina, vedere contattare il supporto di Office [365 for business per office 365 gestito da 21ViaNet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Per Office 365 Germany, vedere [contattare il supporto di office 365 for business per office 365 Germany](https://go.microsoft.com/fwlink/?linkid=846979). 
   
-Con ogni sottoscrizione di Microsoft Office 365 Enterprise, Business, Education e Government, supporto per Microsoft vengono fornite fatturazione tecnica, prevendita, globale e supporto per le sottoscrizioni. Supporto è disponibile sia online tramite il portale di Office 365 e per telefono per le sottoscrizioni a pagamento e versioni di prova. Per ulteriori informazioni, vedere [Opzioni di supporto di Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279810).
+Con ogni sottoscrizione Microsoft Office 365 Enterprise, Business, Education e Government, il supporto tecnico Microsoft fornisce assistenza globale per problemi tecnici e relativi a prevendita, fatturazione e sottoscrizione. Il supporto è disponibile sia online tramite il portale di Office 365 sia tramite telefono per abbonamenti a pagamento e a prova. Per ulteriori informazioni, vedere [Supporto per Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279810).
   
 Gli amministratori autorizzati possono utilizzare il portale Office 365 per inviare richieste di assistenza online, accedere ai numeri del supporto telefonico e visualizzare tutte le richieste di assistenza aperte e chiuse di recente. Le richieste di assistenza inviate al portale Office 365 possono essere riaperte nei 14 giorni successivi alla chiusura della richiesta. Per le istruzioni, vedere [Contattare il supporto Office 365 for business](https://go.microsoft.com/fwlink/p/?LinkID=279815).
   
@@ -90,7 +90,7 @@ Il tempo di risposta iniziale dipende dal livello di gravità descritto in prece
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Livello di gravità** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Enterprise di Office 365 E3<sup>2</sup>** <br/> **Office 365 Government G2<sup>2</sup>** <br/> **Office 365 Government US E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 Government US K1<sup>2</sup>** <br/> |**Opzioni di supporto avanzato<sup>3</sup>** <br/> |
+|**Livello di gravità** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 governo G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Opzioni di supporto avanzato<sup>3</sup>** <br/> |
 | Gravità A (critico)  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |
 |Gravità B (alto)  <br/> |Disponibile: orario di ufficio  <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: giorno successivo  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: giorno successivo  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: 2 ore  <br/> |
 |Gravità C (medio)  <br/> |Disponibile: orario di ufficio  <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: 4 ore  <br/> |
@@ -108,7 +108,7 @@ Il supporto per piani autonomi a pagamento è gestito con gli stessi obiettivi r
 
 A seconda del paese e della lingua, i tecnici dell'assistenza sono disponibili durante l'orario di ufficio locale e, nella maggior parte dei casi, 24 ore al giorno. Per ulteriori informazioni, vedere [Numeri telefonici internazionali](https://go.microsoft.com/fwlink/p/?LinkID=270873) e [Opzioni di supporto per Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279810). Se è necessaria l'assistenza di un interprete, i tecnici dell'assistenza possono rimanere in linea e organizzare l'intervento di un interprete durante la conversazione. 
   
-## <a name="shared-support-responsibilities"></a>Responsabilità condivisa per il supporto
+## <a name="shared-support-responsibilities"></a>Responsabilità condivise per il supporto
 <a name="TechnicalSupport"> </a>
 
 Microsoft sa che ricevere un supporto tecnico tempestivo da personale qualificato è un aspetto fondamentale dei servizi su cloud. Altrettanto importante è il ruolo svolto dal reparto IT del cliente per il supporto degli utenti che vi fanno riferimento.

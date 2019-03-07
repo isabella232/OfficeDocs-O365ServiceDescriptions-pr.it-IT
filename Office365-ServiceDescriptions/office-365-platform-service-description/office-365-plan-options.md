@@ -1,7 +1,7 @@
 ---
 title: Opzioni di piani di Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -16,17 +16,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
-description: Microsoft Office 365 è disponibile in diversi piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: d775e3bef016989bd43708272ec45fe5a2df6b3a
-ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
+description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
+ms.openlocfilehash: 03c04b0b5967247a1ea8b058e74abca98d10bb38
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "26984799"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467133"
 ---
 # <a name="office-365-plan-options"></a>Opzioni di piani di Office 365
 
-Microsoft Office 365 è disponibile in diversi piani per soddisfare al meglio le esigenze dell'organizzazione.
+Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
   
 ## <a name="office-365-service-families-and-plans"></a>Famiglie e piani di servizi di Office 365
 <a name="bkmk_O365Service_Families_and_Plans"> </a>
@@ -52,26 +52,30 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Servizio** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
-|Piattaforma di Office 365  <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Exchange Online  <br/> |Yes<sup>6</sup> <br/> |No  <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |Yes<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì   <br/> |Yes<sup>5</sup> <br/> |
-|Skype per Business Online <sup>15</sup> <br/> |Yes<sup>10</sup> <br/> |No  <br/> |Sì<sup>10</sup> <br/> |Yes<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
+|Piattaforma di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Exchange Online  <br/> |Sì<sup>6</sup> <br/> |No  <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |Sì<sup>9</sup> <br/> |
+|SharePoint Online  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>5</sup> <br/> |
+|Skype for business online <sup>15</sup> <br/> |Sì<sup>10</sup> <br/> |No  <br/> |Sì<sup>10</sup> <br/> |Sì<sup>10</sup> <br/> |Sì<sup>11</sup> <br/> |Sì<sup>13</sup> <br/> |Sì<sup>14</sup> <br/> |
 |Office Online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Applicazioni di Office  <br/> |No  <br/> |Sì  <br/> |Sì   <br/> | No  <br/> |Sì  <br/> |Sì   <br/> |No  <br/> |
-|Project Online  <br/> |No<sup>1</sup> <br/> |No  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
+|Applicazioni di Office  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Project Online  <br/> |N<sup>° 1</sup> <br/> |No  <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
-|Yammer Enterprise  <br/> |Sì  <br/> | No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì   <br/> |
-|Azure informazioni di protezione<sup>3</sup> <br/> |Nessun<sup>2</sup> <br/> |No  <br/> |No<sup>2</sup> <br/> |Nessun<sup>2</sup> <br/> |Sì  <br/> |Sì   <br/> |Nessun<sup>2</sup> <br/> |
+|Yammer Enterprise  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Protezione delle informazioni di Azure<sup>3</sup> <br/> |N.<sup>2</sup> <br/> |No  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
    
 > <sup>1</sup> Project Online non è incluso, ma può essere acquistato come servizio aggiuntivo separato oppure aggiunto gratuitamente al piano di Office 365 Education. > 
-<br/><sup>2</sup> la protezione delle informazioni di azure non è inclusa, ma può essere acquistata come componente aggiuntivo separato e abilitare le funzionalità supportate di Information Rights Management (IRM). Alcune funzionalità di protezione delle informazioni Azure richiedono una sottoscrizione a Office 365 ProPlus, che non è incluso in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Education di Office 365 o F1 Enterprise di Office 365. gt _<br/><sup>3</sup> Per ulteriori informazioni sulle funzionalità di Protezione delle informazioni di Azure incluse nei piani di Office 365, vedere [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> E5 Enterprise di office 365 include funzionalità di sistema telefonico, conferenze Audio e pianificare la chiamata. Per implementare un piano di chiamata è necessario un fornitore di pianificazione aggiuntive (nazionali o internazionali). gt _<br/><sup>5</sup> include archiviazione 2 GB. Non include funzionalità di sincronizzazione desktop. gt _<br/><sup>6</sup> Include Exchange Online Piano 1. > 
+<br/><sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità Protezione delle informazioni di Azure richiedono una sottoscrizione a Office 365 ProPlus che non è inclusa in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1. > 
+<br/><sup>3</sup> Per ulteriori informazioni sulle funzionalità di Protezione delle informazioni di Azure incluse nei piani di Office 365, vedere [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 Enterprise E5 contiene funzionalità di sistema telefonico, audioconferenza e piano di chiamata. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (nazionale o internazionale). > 
+<br/><sup>5</sup> Include 2 GB di archiviazione. Non include la funzionalità di sincronizzazione computer. > 
+<br/><sup>6</sup> Include Exchange Online Piano 1. > 
 <br/><sup>7</sup> Include Exchange Online Piano 2. > 
 <br/><sup>8</sup> Include Exchange Online Piano 1 e caratteristiche aggiuntive. > 
 <br/><sup>9</sup> Include Chiosco Exchange Online. > 
 <br/><sup>10</sup> Include Skype for Business Online Piano 2 con limitazioni client di base. > <br/><sup>11</sup> Include Skype for Business Online Piano 2 senza limitazioni client. > <br/><sup>12</sup> Include Skype for Business Online Piano 1 e caratteristiche aggiuntive. > <br/><sup>13</sup> Include Skype for Business Online Piano 2 con supporto vocale e senza limitazioni relative al client. > 
 <br/><sup>14</sup> Include Skype for Business Online Piano 1. 
-<br><sup>15</sup> Teams Microsoft è il client principale per la messaggistica, riunioni e di chiamata in Office 365. Avvio 2018, ott 1, i nuovi clienti di Office 365 con 500 postazioni o meno saranno onboarded ai Teams Microsoft e non possono accedere a Skype Business online. Tenant che utilizzano già Skype per Business Online saranno in grado di continuare pur così (compresi i nuovi utenti provisioning) fino al completamento del passaggio a Microsoft Teams.<br><sup>16</sup> include avanzate conformità, che fornisce i Advanced Data Governance, eDiscovery avanzate, archivio protetto clienti, chiave cliente, gestione con privilegi di accesso e le funzionalità di conservazione a lungo termine audit log.
+<br><sup>15</sup> Microsoft teams è ora il client principale per i messaggi, le riunioni e le chiamate in Office 365. A partire da Oct. 1, 2018, nuovi clienti di Office 365 con 500 seggi o meno verranno onboarded to Microsoft teams e non avranno accesso a Skype for business online. I tenant che già utilizzano Skype for business online potranno continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completeranno la transizione a Microsoft teams.
+<br><sup>16</sup> include la conformità avanzata, in cui sono disponibili le funzionalità avanzate di governance dei dati, Advanced eDiscovery, archivio clienti, chiave del cliente, gestione degli accessi con privilegi e di conservazione a lungo termine.
   
 #### <a name="basic-client-limitations"></a>Limitazioni client di base
 
@@ -114,7 +118,7 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
   
 |**Servizio**|**Piani**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Archiviazione Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Chiosco Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|Exchange Online  <br/> |[Exchange Online piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Protezione avanzata dalle minacce per Exchange Online](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Archiviazione Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Chiosco Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business piano 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business piano 2](https://onedrive.live.com/about/en-us/business/) <br/> |
 |Skype for Business online  <br/> |[Skype for Business Online piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |

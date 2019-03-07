@@ -1,7 +1,7 @@
 ---
 title: Cerca
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
-description: SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le seguenti funzionalità di ricerca Guida utenti di trovare le informazioni necessarie per le proprie attività. Ricerca è una combinazione di rilevanza, perfezionamento e utenti.
-ms.openlocfilehash: 2aceab27cf37ac27e11a1b4cac105592a2419e5f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Concepito per Microsoft SharePoint Server 2013, è un servizio ospitato ideale per elaborare progetti, archiviare dati e documenti in una posizione centrale e condividere le informazioni. Le seguenti funzionalità di ricerca consentono agli utenti di individuare le informazioni necessarie per il proprio lavoro. La ricerca è una combinazione di pertinenza, perfezionamento e contatti.
+ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036011"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467634"
 ---
-# <a name="search"></a>Cerca
+# <a name="search"></a>Ricerca
 
-SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le seguenti funzionalità di ricerca Guida utenti di trovare le informazioni necessarie per le proprie attività. Ricerca è una combinazione di rilevanza, perfezionamento e utenti.
+SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Concepito per Microsoft SharePoint Server 2013, è un servizio ospitato ideale per elaborare progetti, archiviare dati e documenti in una posizione centrale e condividere le informazioni. Le seguenti funzionalità di ricerca consentono agli utenti di individuare le informazioni necessarie per il proprio lavoro. La ricerca è una combinazione di pertinenza, perfezionamento e contatti.
   
 ## <a name="continuous-crawls"></a>Ricerche per indicizzazione continue
 <a name="bkmk_ContinuousCrawl"> </a>
@@ -59,7 +59,7 @@ Nella distribuzione ibrida di SharePoint, il contenuto dei risultati della ricer
 
 Quando gli utenti ricercano contenuti sui siti di SharePoint, è il contenuto dell'indice a determinare i risultati della ricerca. L'indice di ricerca contiene informazioni provenienti da documenti e pagine del sito ed è generato tramite ricerca per indicizzazione dei contenuti sul sito di SharePoint. Lo schema di ricerca consente alla ricerca per indicizzazione di decidere quali contenuti e metadati scegliere e come indicizzarli. Modificando lo schema di ricerca è possibile creare un'esperienza di ricerca personalizzata per gli utenti. Ulteriori informazioni sulla [gestione dello schema di ricerca in SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).
   
-## <a name="on-hover-preview"></a>Anteprima in lettura al passaggio del mouse
+## <a name="on-hover-preview"></a>Anteprima al passaggio del mouse
 <a name="bkmk_Quickpreview"> </a>
 
 Gli utenti possono soffermarsi con il puntatore su un risultato della ricerca per visualizzare l'anteprima del contenuto di un documento o di un sito e interagirvi nel pannello sensibile al passaggio del mouse a destra dei risultati. Nell'anteprima vengono mostrati diversi metadati e collegamenti diretti alle sezioni principali del documento o del sito. Ulteriori informazioni sui [suggerimenti di ricerca](https://go.microsoft.com/fwlink/p/?LinkId=286614).
@@ -69,12 +69,12 @@ Gli utenti possono soffermarsi con il puntatore su un risultato della ricerca pe
 
 Grazie ai miglioramenti apportati alla corrispondenza fonetica del nome, la ricerca viene effettuata in base ai nomi pronunciati in modo simile (ad esempio, John oppure Jon). Ulteriori informazioni sulla [gestione delle origini dei risultati](https://go.microsoft.com/fwlink/p/?LinkId=286609).
   
-## <a name="query-rulesadd-promoted-results"></a>Regole di query  aggiungere i risultati innalzati di livello
+## <a name="query-rulesadd-promoted-results"></a>Regole di query — aggiungere i risultati innalzati di livello
 <a name="bkmk_QueryRulesAddpromotedresults"> </a>
 
 In una regola di query, vengono specificate le condizioni e le azioni correlate. Quando una query soddisfa le condizioni di una regola di query, il sistema di ricerca esegue le azioni specificate nella regola. L'azione "Aggiungere risultati alzati di livello" consente di innalzare di livello i risultati per visualizzarli tra i primi risultati della ricerca. Ulteriori informazioni sulla [gestione delle regole di query](https://go.microsoft.com/fwlink/p/?LinkId=286607).
   
-## <a name="query-rulesadvanced-actions"></a>Regole di query  azioni avanzate
+## <a name="query-rulesadvanced-actions"></a>Regole di query — azioni avanzate
 <a name="bkmk_UserRulesAdvancedActions"> </a>
 
 In una regola di query, è possibile specificare le condizioni e le azioni correlate. L'azione per aggiungere blocchi di risultati consente di visualizzare un sottoinsieme di risultati della ricerca come gruppo. L'azione "Modificare i risultati classificati modificando la query" consente di modificare la classificazione dei risultati della ricerca restituiti. Ulteriori informazioni sulla [gestione delle regole di query](https://go.microsoft.com/fwlink/p/?LinkId=286607).

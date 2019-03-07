@@ -1,7 +1,7 @@
 ---
 title: OneNote Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Utilizzare in linea di OneNote (noto in precedenza OneNote Web App) per prendere appunti in linea in un blocco appunti di OneNote che è possibile aggiungere a ovunque e condividere con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare limitata i file di Office utilizzando Office Online.
-ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
-ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
+description: Utilizzare OneNote online (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file utilizzando Office Online.
+ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "29612749"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467023"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
-Utilizzare in linea di OneNote (noto in precedenza OneNote Web App) per prendere appunti in linea in un blocco appunti di OneNote che è possibile aggiungere a ovunque e condividere con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare limitata i file di Office utilizzando Office Online. 
+Utilizzare OneNote online (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file utilizzando Office Online. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Collaborazione avanzata: i nuovi contenuti vengono mostrati come non letti, presenza
 <a name="bkmk_AdvancedCollaboration"> </a>
@@ -116,7 +116,7 @@ Non è disponibile in OneNote Online. Con l'app desktop OneNote, è possibile di
 
 La possibilità di collegare la creazione di note a file non è disponibile in OneNote Online e i collegamenti ai file sono nascosti. Tuttavia, vengono conservati nelle note in modo che sia possibile aprirli con l'app desktop OneNote. 
   
-## <a name="navigation"></a>Esplorazione
+## <a name="navigation"></a>Spostamento
 <a name="bkmk_navigation"> </a>
 
 Con OneNote Online, è possibile utilizzare i pulsanti Avanti e Indietro (in stile browser) presenti sulla barra degli strumenti di Accesso rapido per spostarsi velocemente da una pagina a un'altra.
@@ -124,8 +124,8 @@ Con OneNote Online, è possibile utilizzare i pulsanti Avanti e Indietro (in sti
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Gestione del blocco appunti: archiviazione delle pagine del blocco/sezione trasversale, riordino delle sezioni, creazione/eliminazione di gruppi di sezione
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-Con OneNote Online, è possibile trascinare e rilasciare per riordinare le pagine e sezioni.  
-Gestione funzioni avanzate, ad esempio la creazione, eliminazione e riordinare i gruppi di sezioni sono disponibili solo nell'app desktop OneNote.
+Con OneNote online, è possibile trascinare e rilasciare per riordinare le pagine e le sezioni.  
+Le funzionalità di gestione avanzata, ad esempio la creazione, l'eliminazione e l'ordinamento dei gruppi di sezioni sono disponibili solo nell'app desktop OneNote.
   
 ## <a name="offline-viewing-and-authoring"></a>Creazione e visualizzazione offline
 <a name="bkmk_Offlineviewing"> </a>

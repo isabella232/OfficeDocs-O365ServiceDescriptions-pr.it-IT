@@ -1,7 +1,7 @@
 ---
 title: Continuità e integrità del servizio
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,48 +12,48 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e per scoprire tutto momento della pianificazione di manutenzione. Informazioni di stato del servizio sono disponibile in qualsiasi momento eseguendo l'accesso a Office 365.
-ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
-ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
+description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
+ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258738"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466953"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
-Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e per scoprire tutto momento della pianificazione di manutenzione. Informazioni di stato del servizio sono disponibile in qualsiasi momento eseguendo l'accesso a Office 365.
+Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
   
 > [!NOTE]
 > Se si utilizza Office 365 gestito da 21Vianet, alcune delle informazioni seguenti potrebbero non essere valide. In alternativa, consultare il [contratto di servizio di 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="view-status-of-services"></a>Visualizzazione dello stato dei servizi
 
-La sezione dello stato del servizio di Office 365 indicato lo stato corrente del servizio e informazioni dettagliate sulle interruzioni del servizio e interruzioni. Informazioni di manutenzione pianificate sono disponibili per il centro di messaggio. Per ulteriori informazioni, vedere [visualizzare lo stato dei servizi](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+La sezione relativa all'integrità del servizio di Office 365 Visualizza lo stato corrente del servizio e i dettagli relativi alle interruzioni e all'interruzione del servizio. Le informazioni di manutenzione pianificate sono disponibili nel centro messaggi. Per ulteriori informazioni, vedere [Visualizzare lo stato dei servizi](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Incidenti di servizio
 
-Un problema di servizio è un evento che interessa il recapito di un servizio. Risolte servizio possono essere causati da un errore hardware o software nel data center Microsoft, una connessione di rete presenta tra il cliente e Microsoft o un'attività molto impegnativa centro dati principale, ad esempio incendi, da attacchi flood o calamità regionali. La maggior parte dei problemi di servizio possono essere risolti tramite soluzioni di processo e tecnologia Microsoft e vengono risolti all'interno di un breve periodo di tempo. Tuttavia, alcuni problemi di servizio sono più gravi e possono causare interruzioni termini più tempo.
+Un incidente di servizio è un evento che influisce sulla fornitura di un servizio. Gli incidenti di servizio possono essere causati da un errore hardware o software nel Data Center Microsoft, da una connessione di rete errata tra il cliente e Microsoft o da una principale sfida per il Data Center, ad esempio incendi, alluvioni o catastrofi regionali. La maggior parte degli incidenti può essere affrontata tramite le tecnologie e le soluzioni di elaborazione Microsoft e viene risolta entro breve tempo. Tuttavia, alcuni incidenti sono più gravi e possono determinare interruzioni a lungo termine.
   
-Esistono due tipi di notifiche sui tempi quando servizi potrebbero non essere disponibili:
+Esistono due tipi di notifiche sugli orari in cui i servizi potrebbero non essere disponibili:
   
-- **Gli eventi di manutenzione pianificate:** Manutenzione pianificata è aggiornamenti dei servizi Microsoft ha avviato regolari per le applicazioni software e l'infrastruttura. Notifiche di manutenzione pianificate informano lavoro servizio che potrebbe influire sulla funzionalità di un servizio di Office 365. I clienti vengono comunicati entro cinque giorni prima tutti manutenzione pianificata utilizzando il centro messaggi nel portale di amministrazione di Office 365. Microsoft in genere piani di manutenzione per orari quando uso dei servizi viene passato al relativo minimo in base a internazionali diverse aree geografiche. 
+- **Eventi di manutenzione pianificata:** La manutenzione pianificata è una regolare aggiornamento dei servizi avviati da Microsoft all'infrastruttura e alle applicazioni software. Le notifiche di manutenzione pianificate informano i clienti sui lavori di servizio che potrebbero influire sulla funzionalità di un servizio di Office 365. I clienti ricevono una notifica entro cinque giorni prima di tutte le operazioni di manutenzione pianificata tramite il centro messaggi sul portale di amministrazione di Office 365. Microsoft pianifica in genere la manutenzione per periodi in cui l'utilizzo del servizio è storicamente al livello più basso in base ai fusi orari regionali. 
     
 - **Tempi di inattività non pianificati:** gli incidenti relativi al servizio non pianificati si verificano quando uno dei servizi nella famiglia di prodotti di Office 365 non è disponibile o non risponde. 
     
 ## <a name="notification-policy"></a>Criteri di notifica
 
-Quando si verifica un problema di servizio, Microsoft riconosce che tempestivo, mirati e precisi communications sono essenziali per i clienti. Microsoft informa gli amministratori di Office 365 aggiornando specifiche del tenant del servizio sanitario Dashboard (SHD) nel portale di amministrazione di Office 365. Operazioni non consentiti aggiornamenti dei servizi forniti su una frequenza oraria o, se è necessaria una frequenza diversa, sarà indicato nella registrazione di comunicazione SHD. 
+Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft notifica agli amministratori di Office 365 l'aggiornamento del dashboard di integrità del servizio specifico del tenant sul portale di amministrazione di Office 365. Gli aggiornamenti degli incidenti di servizio sono forniti su una cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel messaggio di comunicazione SHD. 
   
 ## <a name="service-health-communication-channels"></a>Canali di comunicazione del servizio di integrità
 
 ### <a name="office-365-admin-app"></a>Applicazione Office 365 Admin
 
-L'applicazione Amministrazione per gli amministratori tenant Office 365 offre la possibilità di connettersi con stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori di Office 365 tenant avrà la possibilità di visualizzare servizio integrità informazioni e la manutenzione aggiornamenti dello stato dai dispositivi mobili. Per ulteriori informazioni, vedere [Domande frequenti su applicazioni di amministrazione](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+L'app di amministrazione per gli amministratori di Office 365 tenant offre la possibilità di connettersi con lo stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori tenant di Office 365 avranno la possibilità di visualizzare le informazioni sull'integrità dei servizi e gli aggiornamenti dello stato di manutenzione dai propri dispositivi mobili. Per ulteriori informazioni, visitare le [domande frequenti sull'app di amministrazione](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Management Pack di Office 365 per Microsoft System Center 2012 R2
 
-Microsoft System Center è una piattaforma di gestione integrata che consente di gestire centro dati, i dispositivi client e ibride cloud ambienti IT. Gli amministratori di Office 365 che utilizzano ora System Center hanno la possibilità di importare il Management Pack 365 Office che consente di visualizzare tutte le comunicazioni di servizio in Operations Manager in System Center. Con questo strumento consente di accedere allo stato dei servizi sottoscrittori, servizio attivi e risolti risolte e le comunicazioni centro messaggi. Per ulteriori informazioni, vedere post di blog [gli strumenti di amministrazione di nuovo Office 365](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) . 
+Microsoft System Center è una piattaforma di gestione integrata che consente di gestire data center, dispositivi client e ambienti IT cloud ibridi. Gli amministratori di Office 365 che utilizzano System Center ora hanno la possibilità di importare il Management Pack di Office 365, che consente di visualizzare tutte le comunicazioni di servizio all'interno di Operations Manager in System Center. Utilizzando questo strumento è possibile accedere allo stato dei servizi sottoscritti, agli incidenti di servizio attivi e risolti e alle comunicazioni del Centro messaggi. Per ulteriori informazioni, leggere il post del blog [Nuovi strumenti di amministrazione di Office 365](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/). 
   
 ### <a name="office-365-service-communications-api"></a>API delle comunicazioni del servizio di Office 365
 
@@ -71,19 +71,19 @@ Per ulteriori informazioni, leggere il post del blog [Nuovi strumenti di amminis
 
 L'impegno di Microsoft per il miglioramento continuo prevede l'analisi degli incidenti di servizio non pianificati che interessano i clienti, al fine di minimizzare la probabilità che si verifichino di nuovo in futuro. 
   
-Problemi di servizio non pianificato sono definiti come interruzioni del servizio multi-tenant che siano state dichiarate in quanto tali nel Dashboard di integrità del servizio e influire sull'utilizzo del servizio come definito dai contratti di servizio del servizio.
+Gli incidenti di servizio non pianificati sono definiti come interruzioni del servizio multi-tenant che influiscono sull'utilizzo del servizio, come definito dai contratti di servizio, e sono stati dichiarati come tali nel dashboard di integrità dei servizi.
   
- Per non pianificato incidono sulla customer service risolte in cui si è verificato impatto ampia e notevole tra un numero elevato di organizzazioni, una verifica di post-incidente preliminare (PIR) devono essere recapitati tramite il Dashboard di integrità del servizio all'interno di 48 ore di evento imprevisto risoluzione, seguita da un PIR finale entro cinque giorni lavorativi. Il rapporto dettagliato PIR include: 
+ Per gli incidenti non pianificati del servizio con impatto sui clienti, in cui si è verificato un impatto ampio e notevole su un numero elevato di organizzazioni, una revisione preliminare post-incidente (PIR) verrà recapitata tramite il dashboard dell'integrità del servizio entro 48 ore dall'evento. soluzione, seguita da un PIR finale entro cinque giorni lavorativi. Il report PIR dettagliato include: 
   
 - Impatto sul cliente e sull'esperienza utente
     
 - Data e ora di inizio e fine dell'incidente
     
-- Sequenza temporale dettagliata delle misure impatto e la risoluzione
+- Sequenza temporale dettagliata delle misure di impatto e risoluzione
     
 - Analisi e misure adottate per il miglioramento continuo delle cause
     
-Per tutti gli altri interventi di servizio, il Dashboard di integrità del servizio fornirà un riepilogo degli eventi imprevisti chiusura incluso un riepilogo finale dell'evento causa preliminare, inizio e fine e informazioni dettagliate passaggi successivi. Per questa categoria di evento imprevisto del servizio, non verrà generato un PIR. 
+Per tutti gli altri incidenti del servizio, il dashboard dell'integrità del servizio fornirà un riepilogo della chiusura degli incidenti che include un riepilogo finale dell'evento, la causa iniziale preliminare, i tempi di inizio e di fine e informazioni dettagliate sui passaggi successivi. Per questa categoria di incidente di servizio, non verrà generato un report PIR. 
   
 ## <a name="service-continuity"></a>Continuità del servizio
 

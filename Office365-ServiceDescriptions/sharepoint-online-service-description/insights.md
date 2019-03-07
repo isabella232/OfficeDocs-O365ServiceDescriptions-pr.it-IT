@@ -1,7 +1,7 @@
 ---
 title: Approfondimenti
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,34 +12,34 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
-description: SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le seguenti funzionalità di Insights consentono alle organizzazioni di utilizzare le informazioni nel database, report e applicazioni aziendali per soddisfare le esigenze aziendali specifiche.
-ms.openlocfilehash: 797c3b549652f33fb8807429d53a4372e1ace80d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è ideale per lavorare a progetti, archiviare dati e documenti in una posizione centrale e condividere informazioni con altri utenti. Le funzionalità Insights seguenti consentono alle organizzazioni di utilizzare le informazioni nei database, rapporti e applicazioni aziendali per soddisfare le specifiche esigenze delle organizzazioni.
+ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036085"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467313"
 ---
 # <a name="insights"></a>Approfondimenti
 
-SharePoint Online è un insieme di strumenti basati sul Web e le tecnologie consentono alle organizzazioni di archiviare, condividere e gestire le informazioni digitali. Questo servizio ospitato basato su Microsoft SharePoint Server 2013, è ideale per l'utilizzo dei progetti, la memorizzazione di dati e i documenti in una posizione centralizzata e condividere informazioni con altri utenti. Le seguenti funzionalità di Insights consentono alle organizzazioni di utilizzare le informazioni nel database, report e applicazioni aziendali per soddisfare le esigenze aziendali specifiche.
+SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è ideale per lavorare a progetti, archiviare dati e documenti in una posizione centrale e condividere informazioni con altri utenti. Le funzionalità Insights seguenti consentono alle organizzazioni di utilizzare le informazioni nei database, rapporti e applicazioni aziendali per soddisfare le specifiche esigenze delle organizzazioni.
   
 ## <a name="business-intelligence-center"></a>Centro business intelligence
 <a name="bkmk_BusinessIntelligenceCenter"> </a>
 
 Il sito del Centro business intelligence consente di archiviare connessioni dati, cartelle di lavoro, report, scorecard e dashboard in una posizione centrale protetta. Ulteriori informazioni sulla [configurazione di un Centro business intelligence](https://go.microsoft.com/fwlink/p/?LinkId=270883).
   
-## <a name="calculated-measures-and-members"></a>Misure e membri calcolati
+## <a name="calculated-measures-and-members"></a>Calculated Measures and Members
 <a name="bkmk_CalculatedMeasuresandMembers"> </a>
 
 Quando si creano rapporti tabella e grafico pivot che utilizzano i dati archiviati in SQL Server Analysis Services, è possibile creare misure e membri calcolati per i rapporti. Ulteriori informazioni su [Funzionalità di business intelligence in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271025).
   
-## <a name="data-connection-library"></a>Raccolta connessioni dati
+## <a name="data-connection-library"></a>Data Connection Library
 <a name="bkmk_DataConnectionLibrary"> </a>
 
 Una raccolta connessioni dati è una raccolta SharePoint speciale progettata per archiviare e gestire le connessioni dati condivise, che possono includere file ODC creati utilizzando Excel. Ulteriori informazioni su [Raccolte di connessioni dati attendibili in SharePoint Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271026).
   
-## <a name="decoupled-pivottables-and-pivotcharts"></a>Tabelle e grafici pivot disaccoppiati
+## <a name="decoupled-pivottables-and-pivotcharts"></a>Decoupled PivotTables and PivotCharts
 <a name="bkmk_DecoupledPivotTablesPivotCharts"> </a>
 
 Quando si crea un rapporto su un grafico pivot, viene creata automaticamente una tabella pivot corrispondente. La novità in Excel 2013 è che non è necessario visualizzare il rapporto tabella pivot sullo stesso foglio di lavoro del rapporto grafico pivot corrispondente. È possibile scegliere di visualizzare solo il rapporto del grafico pivot. Questa funzionalità viene denominata tabelle e grafici pivot disaccoppiati. Ulteriori informazioni su [Tabelle e grafici pivot](https://go.microsoft.com/fwlink/?LinkId=271027).
@@ -54,12 +54,12 @@ Excel Services consente di condividere cartelle di lavoro con altri utenti, inte
 
 È possibile utilizzare la web part Excel Web Access per visualizzare contenuti Excel in un sito SharePoint.
   
-## <a name="field-list-and-field-support"></a>Elenco dei campi e supporto dei campi
+## <a name="field-list-and-field-support"></a>Elenco dei campi e supporto per i campi
 <a name="bkmk_FieldlListFieldSupport"> </a>
 
 Con Excel Online è possibile aprire Field List e Field Well per i rapporti dei grafici e delle tabelle pivot visualizzati nelle finestre del browser. Questa funzione facilita l'esecuzione di modifiche temporanee alle informazioni visualizzate nel rapporto di un grafico o di una tabella pivot senza dover aprire Excel. Ulteriori informazioni su [Business intelligence in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271029).
   
-## <a name="filter-enhancements"></a>Miglioramenti del filtro
+## <a name="filter-enhancements"></a>Filter Enhancements
 <a name="bkmk_FilterEnhancements"> </a>
 
 Sono state semplificate la creazione e la connessione di filtri dati a rapporti. È possibile regolare la dimensione e l'orientamento di un filtro dati. È inoltre possibile formattare i filtri dati applicando stili predefiniti oppure creandone di propri.
@@ -79,17 +79,17 @@ I file ODC consentono di gestire, condividere e riutilizzare le connessioni dati
 
 Non disponibile per i clienti di SharePoint Online. PerformancePoint Services consente agli utenti di SharePoint Server 2013 di creare dashboard interattivi in cui vengono visualizzati gli indicatori KPI e le virtualizzazioni di dati sotto forma di scorecard, rapporti e filtri. Ulteriori informazioni su [PerformancePoint Services](https://go.microsoft.com/fwlink/p/?LinkId=271032).
   
-## <a name="power-bi-web-part"></a>Power BI Web Part
+## <a name="power-bi-web-part"></a>Web part Power BI
 <a name="bkmk_PowerBI"> </a>
 
 Power BI è una famiglia di strumenti di analisi business basata su cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati offrendo una maggiore velocità, efficienza e chiarezza. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci. Per ulteriori informazioni su Power BI, vedere [Introduzione al servizio Power BI](https://go.microsoft.com/fwlink/?linkid=844671).
   
-## <a name="power-pivot-for-excel-in-sharepoint"></a>Alimentazione Pivot per Excel in SharePoint
+## <a name="power-pivot-for-excel-in-sharepoint"></a>Power Pivot for Excel in SharePoint
 <a name="bkmk_PowerPivot"> </a>
 
 Con Power Pivot per Excel, è possibile eseguire analisi di dati avanzate e creare modelli di dati sofisticati. È anche possibile combinare insieme volumi notevoli di dati provenienti da varie origini, analizzare rapidamente i dati e condividere opinioni. Con SharePoint Online, è possibile utilizzare Excel Online per visualizzare e interagire con grafici, tabelle, rapporti dei grafici e delle tabelle pivot in una finestra del browser. È anche possibile utilizzare la web part Excel Web Access per visualizzare contenuti Excel in un sito SharePoint. Per poter visualizzare fogli Power Pivot in SharePoint, è necessario crearli in Excel. Per ulteriori informazioni sull'utilizzo di [Power Pivot in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271036).
   
-## <a name="power-view-for-excel-in-sharepoint"></a>Power View per Excel in SharePoint
+## <a name="power-view-for-excel-in-sharepoint"></a>Power View for Excel in SharePoint
 <a name="bkmk_PowerView"> </a>
 
  Con Power View per Excel, è possibile visualizzare e interagire con dati creati utilizzando visualizzazioni, animazioni e query avanzate altamente interattivi. Con SharePoint Online, si utilizza Excel Online per visualizzare e interagire con cartelle di lavoro contenenti fogli Power View in una finestra del browser. È anche possibile utilizzare la web part Excel Web Access per visualizzare contenuti Excel in un sito SharePoint. Per poter visualizzare fogli Power View in SharePoint, è necessario crearli in Excel. Ulteriori informazioni sull'utilizzo di [Power View in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271035).
@@ -104,7 +104,7 @@ Esplorazione rapida consente alle organizzazioni di selezionare un valore in un 
 
 Consente di visualizzare i dati aggiornati nelle cartelle di lavoro Excel Online connesse a origini dati esterne (ad esempio, i database MS SQL). È necessario connettere le cartelle di lavoro alle origini dati esterne in Excel prima di visualizzarle in Excel Online.
   
-## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>Modalità integrata di SQL Server Reporting Services (SSRS)
+## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SQL Server Reporting Services (SSRS) Integrated Mode
 <a name="bkmk_SQLServerReportingServicesIntegratedMode"> </a>
 
 Quando SQL Server 2012 Reporting Services è integrato con SharePoint, è possibile utilizzare le funzionalità avanzate di gestione centralizzata e collaborazione dei documenti per i contenuti di SQL Server 2012 Reporting Services. I rapporti vengono archiviati insieme ad altri rapporti (ad esempio, file di Excel Online) nelle raccolte di documenti di SharePoint. Le autorizzazioni di SharePoint possono essere utilizzate per controllare l'accesso al contenuto di Reporting Services e gli utenti sono in grado di avviare Progettazione report, Progettazione modelli e Generatore report all'interno di una raccolta documenti. Ulteriori informazioni sul [server di report di Reporting Services](https://go.microsoft.com/fwlink/p/?LinkId=271039).
@@ -114,7 +114,7 @@ Quando SQL Server 2012 Reporting Services è integrato con SharePoint, è possib
 
 Web part di SQL Server 2012 Reporting Services consente agli utenti di visualizzare un rapporto di Reporting Services esistente nella propria Web part in un sito SharePoint. Se il rapporto di Reporting Services contiene parametri, gli utenti possono connettere i filtri al rapporto tramite le impostazioni di Web part. Ulteriori informazioni su [Web part Visualizzatore report](https://go.microsoft.com/fwlink/p/?LinkId=271041).
   
-## <a name="timeline-slicer"></a>Filtro dei dati sequenza temporale
+## <a name="timeline-slicer"></a>Timeline Slicer
 <a name="bkmk_TimelineSlicer"> </a>
 
 Un filtro dei dati della sequenza temporale è un controllo che si può aggiungere a un dashboard creato tramite Excel. Il controllo di una sequenza temporale consente agli utenti di visualizzare le informazioni per un dato periodo di tempo. Ulteriori informazioni su [Business intelligence in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271042).
@@ -132,7 +132,7 @@ Le funzioni definite dall'utente (UDF) offrono la possibilità di utilizzare for
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
 
-Servizi Visio è un'applicazione di servizio che consente agli utenti di condividere e visualizzare disegno di Microsoft Visio (\*. vsdx) e il disegno Web di Visio 2010 (\*vdw) i file. Servizi Visio non è più disponibili con SharePoint Online. Servizi Visio continuerà a essere disponibili in SharePoint Server 2010, SharePoint Server 2013 e SharePoint Server 2016. Ulteriori informazioni su [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043).
+Visio Services è un'applicazione di servizio che consente agli utenti di condividere e visualizzare file Disegno di Microsoft Visio (\*.vsdx) e disegno Web Visio 2010 (\*.vdw). Visio Services non è più disponibile con SharePoint Online. Visio Services continuerà a essere disponibile in SharePoint Server 2010, SharePoint Server 2013 e SharePoint Server 2016. Ulteriori informazioni su [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 <a name="bkmk_VisioServices"> </a>

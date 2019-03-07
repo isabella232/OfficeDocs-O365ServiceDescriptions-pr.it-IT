@@ -1,7 +1,7 @@
 ---
 title: Excel Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,27 +14,27 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: In linea di Excel (in precedenza Excel Web App) consente di estendere l'esperienza di Microsoft Excel al web browser dove è possibile utilizzare con le cartelle di lavoro direttamente sul sito Web in cui è memorizzata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare limitata i file di Office utilizzando Office Online.
-ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+description: Excel online (in precedenza Excel Web App) consente di estendere la propria esperienza Microsoft Excel al Web browser, in cui è possibile lavorare con le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file utilizzando Office Online.
+ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362901"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467383"
 ---
 # <a name="excel-online"></a>Excel Online
 
-In linea di Excel (in precedenza Excel Web App) consente di estendere l'esperienza di Microsoft Excel al web browser dove è possibile utilizzare con le cartelle di lavoro direttamente sul sito Web in cui è memorizzata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare limitata i file di Office utilizzando Office Online.
+Excel online (in precedenza Excel Web App) consente di estendere la propria esperienza Microsoft Excel al Web browser, in cui è possibile lavorare con le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file utilizzando Office Online.
   
 > [!NOTE]
-> Cartelle di lavoro che superano 30 megabyte (MB) non possono essere visualizzati in Excel Online all'interno di Microsoft SharePoint Online. Per visualizzare i file di dimensioni superiori, è necessario l'app desktop Excel installato nel computer. 
+> Le cartelle di lavoro che superano i 30 megabyte (MB) non possono essere visualizzate in Excel online da Microsoft SharePoint Online. Per visualizzare i file di maggiori dimensioni, è necessario che sul computer sia installata l'app desktop Excel. 
   
 > [!NOTE]
 > Per consentire un confronto tra le diverse offerte, le funzionalità avanzate illustrate nell'articolo includono quelle dell'app desktop Excel disponibile solo nella famiglia di prodotti Office (quale Office Professional Plus, Office Standard oppure Office 365 ProPlus). Per un elenco di tutte le funzionalità Office Online, come Word Online e PowerPoint Online, vedere [Disponibilità delle funzionalità tra piani di Office Online](office-online-service-description.md#feature-availability-across-office-online-plans)
   
 Per visualizzare i tipi di file supportati da Excel Online, vedere [Tipi di file supportati per Office Online](office-online-service-description.md#supported-file-types-for-office-online). Per ulteriori informazioni sulle differenze tra Excel Online e l'applicazione desktop di Excel, vedere [Differenze nell'utilizzo di una cartella di lavoro nel browser e in Excel](https://go.microsoft.com/fwlink/?linkid=390875).
   
-## <a name="add-hyperlinks"></a>Aggiunta dei collegamenti ipertestuali
+## <a name="add-hyperlinks"></a>Add hyperlinks
 <a name="bkmk_Addhyperlinks"> </a>
 
 Consente di creare un collegamento alle pagine Web o di aprire i file sul Web aggiungendo un collegamento ipertestuale in una cella. È possibile digitare l'indirizzo Web direttamente nella cella oppure utilizzare il comando Inserisci collegamento ipertestuale.
@@ -54,12 +54,12 @@ Utilizzare i pulsanti di Allineamento nella scheda Home per modificare l'allinea
 
 La formattazione condizionale può essere visualizzata ma non applicata in Excel Online. L'app desktop Excel consente di utilizzare il programma in modo completo e offre ulteriori funzionalità avanzate. Ulteriori informazioni su come [utilizzare la formattazione condizionale in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282326). 
   
-## <a name="apply-data-validation-to-cells"></a>Applicazione della convalida dei dati alle celle
+## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Questa funzionalità è disponibile in Excel Online. Altre caratteristiche avanzate sono disponibili solo nell'app desktop Excel.
+Questa funzionalità è disponibile in Excel online. Altre funzionalità avanzate sono disponibili solo nell'app desktop Excel.
   
-## <a name="apply-smartrecommended-formatting"></a>Applicazione della formattazione intelligente/consigliata
+## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
 Non è disponibile in Excel Online. L'app desktop Excel 2013, consente di selezionare la presentazione più adatta per i propri dati all'interno di una vasta gamma di grafici consigliati. Ulteriori informazioni su [come utilizzare le raccomandazioni per la scelta del grafico in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282335).
@@ -84,7 +84,7 @@ Excel Online può completare la digitazione in corso nella cella e, nel caso ci 
 
 È possibile utilizzare Excel per eseguire una serie di calcoli manuali, automatici e iterativi. Excel utilizza funzionalità per eseguire questi calcoli. Per ulteriori informazioni, vedere [Funzioni di Excel (in base alla categoria)](https://go.microsoft.com/fwlink/?linkid=847459).
   
-## <a name="chart-animations-adapt-to-new-data"></a>Applicazione delle animazioni agli elementi grafici per i nuovi dati
+## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
 <a name="bkmk_Chartanimations"> </a>
 
 Solo l'app desktop Microsoft Excel supporta le funzionalità avanzate per i grafici. Ulteriori informazioni su [come applicare un'animazione a un elemento SmartArt](https://go.microsoft.com/fwlink/p/?LinkId=271668).
@@ -94,22 +94,22 @@ Solo l'app desktop Microsoft Excel supporta le funzionalità avanzate per i graf
 
 I grafici e le tabelle Excel facilitano le operazioni di formattazione dei dati e di gestione delle informazioni. Per ulteriori informazioni, vedere [Creare o eliminare una tabella Excel](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) e [Panoramica dei rapporti di tabella pivot e di grafico pivot](https://go.microsoft.com/fwlink/?linkid=55417).
   
-## <a name="comment-creation"></a>Creazione dei commenti
+## <a name="comment-creation"></a>Comment creation
 <a name="bkmk_Commentcreation"> </a>
 
 È possibile inserire, modificare ed eliminare commenti in Excel Online. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
   
-## <a name="copy-and-paste"></a>Copia e Incolla
+## <a name="copy-and-paste"></a>Copy and paste
 <a name="bkmk_Copyandpaste"> </a>
 
 Per copiare gli elementi in un altro punto del foglio di lavoro, è preferibile utilizzare i tasti di scelta rapida sulla tastiera piuttosto che i comandi degli Appunti o del menu visualizzato facendo clic con il pulsante destro del mouse in Excel Online. Ulteriori informazioni sull'utilizzo [di copia e incolla in Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271669).
   
-## <a name="create-external-data-connections"></a>Creazione di connessioni a dati esterni
+## <a name="create-external-data-connections"></a>Create external data connections
 <a name="bkmk_Createexternaldataconnections"> </a>
 
 È possibile utilizzare Excel Online per visualizzare le connessioni ai dati, tuttavia non è possibile creare connessioni a dati esterni con la Excel Online. Per lavorare con dati esterni è necessaria l'app desktop Excel 2013. Ulteriori informazioni sull'[utilizzo dei dati esterni in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
   
-## <a name="create-tables"></a>Creazione di tabelle
+## <a name="create-tables"></a>Create tables
 <a name="bkmk_CreateTables"> </a>
 
 Creare una tabella per organizzare e analizzare i dati correlati. Le tabelle facilitano le operazioni di ordinamento, filtraggio e formattazione dei dati. 
@@ -124,7 +124,7 @@ Le visualizzazioni di analisi avanzate, quali Power Pivot e Power View, sono dis
 
 È possibile utilizzare la convalida dei dati per limitare i tipi di dati oppure i valori che gli utenti possono immettere in una cella. Per ulteriori informazioni, vedere [Applicare la convalida dei dati alle celles](https://go.microsoft.com/fwlink/?linkid=844735)
   
-## <a name="drag-and-drop-cells"></a>Trascinamento delle celle
+## <a name="drag-and-drop-cells"></a>Drag and drop cells
 <a name="bkmk_DragAndDrop"> </a>
 
 In Excel Online, è possibile spostare il valore di una cella trascinando le celle da un punto a un altro.
@@ -164,17 +164,17 @@ Personalizzare i propri dati per conferirgli l'aspetto desiderato. Scegliere tra
 
 Nella barra delle formule, è possibile visualizzare le formule che hanno prodotto i risultati presenti nelle celle. È possibile aggiungere, modificare ed eliminare parti della formula nel browser proprio come si farebbe nell'app desktop Excel.
   
-## <a name="formula-tools--advanced"></a>Strumenti avanzati per le formule
+## <a name="formula-tools--advanced"></a>Formula tools- advanced
 <a name="bkmk_AdvancedFormulaTools"> </a>
 
 L'app desktop Microsoft Excel supporta gli strumenti per le formule più avanzate, quali formule in forma di matrice e con stile di riferimento 3D. Excel Online supporta solo le formule di Excel più elementari. Ulteriori informazioni sulle [formule](https://go.microsoft.com/fwlink/p/?LinkId=271665).
   
-## <a name="freeze-panes"></a>Blocca riquadri
+## <a name="freeze-panes"></a>Freeze panes
 <a name="bkmk_FreezePanes"> </a>
 
-La caratteristica di riquadri bloccati è disponibile in Excel Online della barra multifunzione. Ulteriori informazioni su [come bloccare i riquadri attività nell'app desktop Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282331) e [suggerimenti per Excel Online](https://go.microsoft.com/fwlink/?linkid=869873).
+La caratteristica Blocca riquadri è disponibile nella barra multifunzione di Excel online. Per ulteriori informazioni sul [funzionamento dei riquadri congelati nell'app desktop excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282331) , [vedere Suggerimenti per Excel online](https://go.microsoft.com/fwlink/?linkid=869873).
   
-## <a name="full-fidelity-reading-view"></a>Visualizzazione di lettura ad alta fedeltà
+## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 <a name="bkmk_FullFidelityReadingView"> </a>
 
 Tutti gli elementi visibili in una cartella di lavoro nel browser in modalità di visualizzazione per modifica, sono visibili anche in modalità di visualizzazione per lettura.
@@ -189,17 +189,17 @@ In Excel Web App è possibile utilizzare all'interno delle formule la maggior pa
 
 Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di lavoro. Basta digitare in una cella e andare in quella posizione nel foglio di lavoro. Ulteriori informazioni sui [tasti di scelta rapida in Excel Online](https://go.microsoft.com/fwlink/p/?LinkID=272943).
   
-## <a name="hideunhide-rows-columns-and-sheets"></a>Nascondi/scopri righe, colonne e fogli
+## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
 
 È possibile nascondere e visualizzare righe, colonne e fogli in una cartella di lavoro in Excel Online.
   
-## <a name="insert-charts"></a>Inserimento dei grafici
+## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
 Creare un grafico per rappresentare visivamente i dati. È possibile scegliere tra diversi tipi di grafici, quali istogramma, a linee, a torta o a barre. Ulteriori informazioni sui [tipi di grafici disponibili](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
-## <a name="insertdelete-rows-and-columns"></a>Inserimento/eliminazione di righe e colonne
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 <a name="bkmk_Insertdeleterowscolumns"> </a>
 
 Selezionare una o più righe prima di fare clic su Inserisci o Elimina nella scheda Home per aggiungere o rimuovere righe o colonne nel foglio di lavoro una riga alla volta o varie righe contemporaneamente.
@@ -209,7 +209,7 @@ Selezionare una o più righe prima di fare clic su Inserisci o Elimina nella sch
 
 Utilizzare Unisci &amp; centra nella scheda Home per combinare e centrare il contenuto delle celle selezionate in una cella di dimensioni maggiori. È possibile modificare l'allineamento facendo clic sui pulsanti di Allineamento.
   
-## <a name="number-formatting"></a>Formattazione dei numeri
+## <a name="number-formatting"></a>Number formatting
 <a name="bkmk_Numberformatting"> </a>
 
 Modificare il formato dei numeri. Scegliere un formato (ad esempio, Valuta o Data in cifre) da un elenco di formati, cambiare il numero di decimali o inserire un separatore per le migliaia.
@@ -219,7 +219,7 @@ Modificare il formato dei numeri. Scegliere un formato (ad esempio, Valuta o Dat
 
 Excel Online viene avviato da un browser Internet e utilizza una connessione Internet. Per accedere ai fogli di calcolo offline, è necessario che sul computer sia installata l'app desktop Microsoft Excel utilizzata per visualizzare e modificare i fogli di lavoro Excel.
   
-## <a name="post-to-social-network-and-present-online"></a>Pubblicazione su un social network e presentazione online
+## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
 <a name="bkmk_posttosocialnetwork"> </a>
 
 Parti selezionate dei fogli di calcolo possono essere condivise sul Web incorporandole nelle pagine di un social network o nell'ambito di riunioni o conversazioni Skype for Business. Excel Online non supporta queste funzionalità. 
@@ -229,7 +229,7 @@ Parti selezionate dei fogli di calcolo possono essere condivise sul Web incorpor
 
 Excel Online consente di visualizzare tabelle e grafici di Power Pivot, è tuttavia necessaria l'app desktop Excel 2013 per creare modelli di dati autonomi Power Pivot.
   
-## <a name="power-view-viewing"></a>Visualizzazione in Power View
+## <a name="power-view-viewing"></a>Power View viewing
 <a name="bkmk_powerviewinteractivity"> </a>
 
 È possibile visualizzare e interagire con i fogli di una cartella di lavoro Power View, ma non è possibile creare Power View mediante Excel Online. La creazione di Power View è disponibile solo con l'applicazione desktop. Power View consente di creare, condividere ed esplorare i dati in visualizzazioni interattive, pronte per la presentazione. È così possibile visualizzare le informazioni in mappe, tabelle e grafici interattivi collegati tra loro in un unico foglio di lavoro. Ulteriori informazioni su [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
@@ -239,22 +239,22 @@ Excel Online consente di visualizzare tabelle e grafici di Power Pivot, è tutta
 
 Utilizzare il comando Stampa in Excel Online per inviare alla stampante l'intero foglio di lavoro o la parte selezionata. Ulteriori informazioni su [come stampare in Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
-## <a name="real-time-co-authoring"></a>Creazione condivisa in tempo reale
+## <a name="real-time-co-authoring"></a>Real-time co-authoring
 <a name="bkmk_Coauthoring"> </a>
 
 Due o più persone possono lavorare contemporaneamente sullo stesso foglio di calcolo aprendolo nel browser Web invece che nell'app desktop Excel. La presenza in tempo reale consente all'utente di verificare il lavoro dell'altro utente sul documento. In questo modo, non si creano conflitti quando vengono apportate modifiche ed è possibile visualizzare le modifiche man mano che vengono eseguite. Per ulteriori informazioni sulla visualizzazione in tempo reale delle modifiche al contenuto condiviso, vedere [Collaborare alle cartelle di lavoro di Excel con la creazione condivisa](https://go.microsoft.com/fwlink/?linkid=850793).
   
-## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Creazione e modifica consigliate dei grafici con i comandi di formattazione
+## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Recommended chart creation and editing with formatting controls
 <a name="bkmk_Advancedrecommendedchart"> </a>
 
 Solo l'app desktop Microsoft Excel supporta i grafici avanzati. Excel Online non supporta queste funzionalità. Ulteriori informazioni sui [tipi di grafici disponibili](https://go.microsoft.com/fwlink/p/?LinkId=271666).
   
-## <a name="refresh-existing-data-connections"></a>Aggiornamento delle connessioni dati esistenti
+## <a name="refresh-existing-data-connections"></a>Refresh existing data connections
 <a name="bkmk_refreshdata"> </a>
 
 Se i dati presenti nel foglio di lavoro sono collegati a origini esterne, ad esempio, database, pagine Web o cubi di analisi, è possibile aggiornarli utilizzando Excel Online.
   
-## <a name="rename-and-add-sheets"></a>Rinominare e aggiungere fogli
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 <a name="bkmk_renameaddsheets"> </a>
 
 Fare clic sull'icona Nuovo foglio per aggiungere un foglio. Fare clic con il pulsante destro del mouse su un qualsiasi foglio per rinominarlo.
@@ -269,12 +269,12 @@ In Excel Online, è possibile rinominare il file di una cartella di lavoro senza
 
 Non è disponibile in Excel Online. Se sul computer è installata l'app desktop Excel, è possibile utilizzare Excel per ricercare e sostituire il contenuto di un documento. Ulteriori informazioni sull'[utilizzo delle funzionalità Trova e Sostituisci in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
-## <a name="rights-management-irm-and-password-security"></a>Gestione dei diritti: IRM e sicurezza tramite password
+## <a name="rights-management-irm-and-password-security"></a>Rights Management: IRM and password security
 <a name="bkmk_RightsManagement"> </a>
 
  Nell'app desktop di Excel, è possibile proteggere la propria cartella di lavoro utilizzando password, autorizzazioni e altre restrizioni. In Excel Online, è possibile caricare e utilizzare cartelle di lavoro che contengono protezione dei fogli. Quest'ultima impedisce agli utenti di selezionare o digitare all'interno di celle protette. Ulteriori informazioni sulla [protezione delle cartelle di lavoro Excel](https://go.microsoft.com/fwlink/p/?LinkId=271672).
   
-## <a name="save-or-download-a-copy"></a>Salvataggio o download di una copia
+## <a name="save-or-download-a-copy"></a>Save or Download a copy
 <a name="bkmk_SaveDownload"> </a>
 
 Se si desidera una copia della cartella di lavoro, utilizzare il comando Salva con nome nella scheda File oppure fare clic con il pulsante destro del mouse sul nome della cartella che la contiene e utilizzare il comando Download per salvare una copia sul proprio computer.
@@ -294,17 +294,17 @@ Quando si condivide un file Excel con altri utenti, è possibile proteggere un f
 
 Facendo clic sui relativi pulsanti, è possibile visualizzare i filtri dei dati del foglio di lavoro e filtrare i dati. Impossibile creare o modificare i filtri dei dati in Excel Online.
   
-## <a name="sort-and-filter-data"></a>Ordinamento e filtro dei dati
+## <a name="sort-and-filter-data"></a>Sort and filter data
 <a name="bkmk_Sortfilterdata"> </a>
 
 In Excel Online, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati, nonché penetrare nei dettagli delle tabelle pivot.
   
-## <a name="spreadsheet-audit-and-compliance"></a>Conformità e verifica dei fogli di calcolo
+## <a name="spreadsheet-audit-and-compliance"></a>Spreadsheet audit and compliance
 <a name="bkmk_Spreadsheetauditcompliance"> </a>
 
 Nell'app desktop Microsoft Excel, è possibile utilizzare le funzionalità di interrogazione e confronto dei fogli di lavoro per confrontare le versioni di una cartella di lavoro, analizzarla per individuare eventuali problemi o incoerenze oppure visualizzare i collegamenti tra cartella di lavoro e fogli di lavoro. Excel Online non supporta queste funzionalità. Ulteriori informazioni sulla [funzionalità di verifica dei fogli di calcolo](https://go.microsoft.com/fwlink/p/?LinkId=271677).
   
-## <a name="status-bar-aggregates"></a>Aggregazione della barra di stato
+## <a name="status-bar-aggregates"></a>Status bar aggregates
 <a name="bkmk_StatusBarAggregates"> </a>
 
 Quando si seleziona un gruppo di celle in Excel Online, è possibile che nella barra di stato venga visualizzato SOMMA, MEDIA e CONTO. Puoi anche personalizzare la barra di stato scegliendo quali aggregati visualizzare.
@@ -319,22 +319,22 @@ Utilizzare Sondaggi per inviare un modulo Excel Online agli utenti che possono c
 
 Quando è necessario compiere delle operazioni in Excel Online ma non si conosce la procedura, è possibile utilizzare la funzionalità di ricerca Informazioni per trovare rapidamente quello di cui si ha bisogno. La funzionalità Informazioni comprende cosa si sta cercando di effettuare e ne velocizza l'esecuzione grazie a dei consigli.
   
-## <a name="undo-and-redo"></a>Annulla e Ripeti
+## <a name="undo-and-redo"></a>Undo and redo
 <a name="bkmk_UndoRedo"> </a>
 
 Excel Online riduce automaticamente il carico di lavoro. Se si commettono errori, utilizzare Annulla o premere Ctrl + Z e Ripeti o premere Ctrl + Y. Ulteriori informazioni sui [tasti di scelta rapida della tastiera in Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
-## <a name="vba-and-macro-scripting"></a>Script macro e VBA
+## <a name="vba-and-macro-scripting"></a>VBA and macro scripting
 <a name="bkmk_VBAMacrosscripting"> </a>
 
 L'app desktop Microsoft Excel è uno strumento estremamente potente per modificare, analizzare e presentare i dati. A volte, nonostante le numerose funzionalità, l'organizzazione potrebbe ritenere più semplice utilizzare il linguaggio di programmazione VBA (Visual Basic for Applications) per creare una macro che esegua le attività comuni e ripetitive o alcune attività non disponibili tramite l'interfaccia utente. Non è possibile creare macro con VBA in Excel Online, ma è possibile aprire e modificare fogli di lavoro abilitati a VBA senza rimuovere (o corrompere) il linguaggio VBA contenuto nel file. Ulteriori informazioni sulla [guida introduttiva alle macro](https://go.microsoft.com/fwlink/p/?LinkId=271678).
   
-## <a name="view-3d-charts"></a>Visualizzazione di grafici 3D
+## <a name="view-3d-charts"></a>View 3D charts
 <a name="bkmk_View3dcharts"> </a>
 
 È possibile visualizzare grafici 3D nel foglio di lavoro. Non è possibile creare o modificare i grafici 3D in Excel Online.
   
-## <a name="what-if-analysis-tools"></a>Strumenti di analisi What if
+## <a name="what-if-analysis-tools"></a>What if analysis tools
 <a name="bkmk_WhatIfAnalysis"> </a>
 
 Non è disponibile in Excel Online. È possibile visualizzare risultati di analisi "What if" in Excel Online, come previsto. Se si desidera utilizzare gli strumenti di analisi quali Ricerca obiettivo, Tabelle dati, Risolutore e Serie, sarà necessaria l'app desktop Excel. Ulteriori informazioni sulle [differenze tra l'utilizzo di una cartella di lavoro nel browser e nell'app desktop Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).

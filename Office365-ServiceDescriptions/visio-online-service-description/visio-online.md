@@ -1,7 +1,7 @@
 ---
 title: Visio Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/28/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online consente di utilizzare Microsoft Visio tramite un Web browser e di lavorare sui diagrammi direttamente sul sito Web dove questi sono archiviati. I clienti di Microsoft Office 365 con Office Online possono visualizzare e condividere diagrammi e inserire commenti mentre sono in viaggio.
-ms.openlocfilehash: 2b6c62b68b984479d2995ef91db17627653828fe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035973"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467563"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -75,7 +75,7 @@ In Visio Online, è possibile cercare tutte le occorrenze di una parola, un nume
 
 In Visio Online, è possibile accedere direttamente ai collegamenti ipertestuali facendo clic sulla forma.
   
-## <a name="navigation"></a>Esplorazione
+## <a name="navigation"></a>Spostamento
 <a name="BM_11"> </a>
 
 In Visio Online, è possibile passare ad altre pagine facendo clic sulle schede nella parte inferiore sinistra.
@@ -90,7 +90,7 @@ I componenti aggiuntivi di Office non sono ancora disponibili in Visio Online.
 
 Non è disponibile in Visio Online. Office Online richiede una connessione Internet e un browser Internet. È necessario che l'app desktop Visio sia installata sul computer per visualizzare e modificare un diagramma non collegato a Internet o al server Office Web Apps locale dell'organizzazione. Se si dispone dell'app desktop Visio installata, è possibile utilizzare le funzionalità complete di Visio per visualizzare e modificare il diagramma. Quando viene salvato, il diagramma online viene aggiornato con le modifiche. È anche possibile scaricare e salvare con nome una copia non in linea del diagramma ma non verrà sincronizzato con la versione online. Ulteriori informazioni sul [server Office Web Apps ](https://technet.microsoft.com/library/ff431685.aspx).
   
-## <a name="print-to-pdf"></a>Stampa su PDF
+## <a name="print-to-pdf"></a>Print to PDF
 <a name="BM_14"> </a>
 
 Stampa su PDF non è disponibile in Visio Online.
@@ -148,6 +148,6 @@ Poiché il diagramma di Visio viene salvato online, è possibile inviarvi un col
 ## <a name="zoom"></a>Zoom
 <a name="BM_25"> </a>
 
-Visio Online include un dispositivo di scorrimento che consente all'utente lo zoom. Inoltre, è possibile utilizzare il panning &amp; funzionalità di Zoom per eseguire lo zoom in un'area del diagramma.
+Visio Online includes a slider that lets you zoom in and out. Also, you can use the Pan &amp; Zoom feature to zoom in on a region of the diagram.
   
 
