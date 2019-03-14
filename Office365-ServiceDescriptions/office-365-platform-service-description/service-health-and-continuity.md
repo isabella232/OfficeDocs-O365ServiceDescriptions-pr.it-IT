@@ -3,7 +3,7 @@ title: Continuità e integrità del servizio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466953"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574140"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
@@ -40,7 +40,25 @@ Esistono due tipi di notifiche sugli orari in cui i servizi potrebbero non esser
 - **Eventi di manutenzione pianificata:** La manutenzione pianificata è una regolare aggiornamento dei servizi avviati da Microsoft all'infrastruttura e alle applicazioni software. Le notifiche di manutenzione pianificate informano i clienti sui lavori di servizio che potrebbero influire sulla funzionalità di un servizio di Office 365. I clienti ricevono una notifica entro cinque giorni prima di tutte le operazioni di manutenzione pianificata tramite il centro messaggi sul portale di amministrazione di Office 365. Microsoft pianifica in genere la manutenzione per periodi in cui l'utilizzo del servizio è storicamente al livello più basso in base ai fusi orari regionali. 
     
 - **Tempi di inattività non pianificati:** gli incidenti relativi al servizio non pianificati si verificano quando uno dei servizi nella famiglia di prodotti di Office 365 non è disponibile o non risponde. 
-    
+
+### <a name="recent-worldwide-uptimes"></a>Tempi di inesecuzione recenti in tutto il mondo
+
+Lo spostamento in un servizio cloud non implica la possibilità di perdere la capacità di sapere cosa succede. Con Office 365, non lo è. Il nostro obiettivo è di essere trasparenti nelle nostre operazioni in modo da poter monitorare lo stato del servizio, tenere conto dei problemi e avere una visione storica della disponibilità. Nelle tabelle seguenti vengono illustrati i dati di tempo di uptime recenti.
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **T1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99,98% <br/> | 99,97% <br/> | 99,98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **T1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99,97% <br/> | 99,98% <br/> | 99.99% <br/> |
+
 ## <a name="notification-policy"></a>Criteri di notifica
 
 Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft notifica agli amministratori di Office 365 l'aggiornamento del dashboard di integrità del servizio specifico del tenant sul portale di amministrazione di Office 365. Gli aggiornamenti degli incidenti di servizio sono forniti su una cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel messaggio di comunicazione SHD. 
