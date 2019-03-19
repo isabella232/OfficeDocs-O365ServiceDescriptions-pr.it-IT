@@ -3,7 +3,7 @@ title: Diritti di utilizzo del prodotto
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,18 +12,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: db1bb3de9f577b896f916b1055d3de24bc009b25
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 43bc5e30b318bf78d38ebebd0f8435c322fac2d2
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467483"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30668971"
 ---
 # <a name="product-use-rights"></a>Diritti di utilizzo del prodotto
 
 ## <a name="microsoft-online-services-use-rights"></a>Diritti di utilizzo di Microsoft Online Services
 
-Ai fini della conformità con il Contratto di sottoscrizione Microsoft Online, utilizzare i servizi online e i software relativi come espressamente consentito dai [Diritti di utilizzo di Microsoft Online Services](https://www.microsoft.com/licensing/products/products.aspx).
+Ai fini della conformità con il Contratto di sottoscrizione Microsoft Online, utilizzare i servizi online e i software relativi come espressamente consentito dai [Diritti di utilizzo di Microsoft Online Services](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>Diritti sull'utilizzo di Office 365 gestito da 21Vianet
 
