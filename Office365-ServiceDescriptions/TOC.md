@@ -81,6 +81,7 @@
 ### [Funzionalità di Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Limiti di Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)
 ## [Descrizione del servizio Workplace Analytics](workplace-analytics-service-description.md)
+## [Descrizione del servizio MyAnalytics](mya-service-description.md)
 ## [Descrizione del servizio Power BI](power-bi-service-description.md)
 ## [Descrizione del servizio Project Online](project-online-service-description/project-online-service-description.md)
 ### [Funzionalità di base](project-online-service-description/core-functionality.md)
