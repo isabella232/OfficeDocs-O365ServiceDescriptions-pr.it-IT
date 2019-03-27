@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct è un'aggiunta dei servizi di supporto a livello aziendale per un contratto di supporto di Microsoft Premier. La descrizione del servizio Office 365 Engineering Direct Service contiene informazioni aggiuntive relative alle caratteristiche offerte e ai requisiti di implementazione.
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467893"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867922"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Descrizione del servizio Office 365 Engineering Direct
 
-Office 365 Engineering Direct è un'aggiunta dei servizi di supporto a livello aziendale per un contratto di supporto di Microsoft Premier. La [Descrizione del servizio Office 365 Engineering Direct Service](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) contiene informazioni aggiuntive relative alle caratteristiche offerte e ai requisiti di implementazione.
+Office 365 Engineering Direct è un'aggiunta dei servizi di supporto a livello aziendale per un contratto di supporto di Microsoft Premier. La [Descrizione del servizio Office 365 Engineering Direct Service](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) contiene informazioni aggiuntive relative alle caratteristiche offerte e ai requisiti di implementazione.
 
 Per ottenere l'offerta di Office 365 Engineering Direct come nuovo cliente, è necessario che l'organizzazione sottoscriva una offerta di supporto Microsoft Premier, che soddisfi il livello di classificazione Enterprise di grandi dimensioni per i servizi di Office 365 ed esegua un addendum del contratto di supporto. Verrà applicato un costo supplementare per la famiglia di servizi aggiunti. Contattare il rappresentante del team dell'account Microsoft per confermare lo stato del contratto di supporto e avviare eventuali modifiche contrattuali per garantire l'offerta di supporto. 
 
