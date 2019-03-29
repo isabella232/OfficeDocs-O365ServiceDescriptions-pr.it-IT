@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: a34a4f4a2a96254a65f04e934b3c1c7c178d9088
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468083"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955805"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -497,11 +497,11 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Elenco sicuro indirizzi IP del partner](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Sì  <br/> |Sì  <br/> |
 |[Routing condizionale della posta](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Sì  <br/> |Sì  <br/> |
 |[Routing posta ibrida](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |No  <br/> |Sì  <br/> |
-|[Rapporti dell'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |N.<sup>8</sup> <br/> |Sì<sup>8, 9</sup> <br/> |
+|[Rapporti dell'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |N.<sup>8</sup> <br/> |Sì<sup>8, 9</sup> <br/> |
 |[Rapporti applicazione download di Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |No  <br/> |Sì  <br/> |
 |[Creazione di report tramite i servizi Web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |No  <br/> |Sì  <br/> |
 |[Traccia dei messaggi](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Sì<sup>12</sup> <br/> |Sì<sup>12</sup> <br/> |
-|[Accesso all'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Sì  <br/> |Sì  <br/> |
+|[Accesso all'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Sì  <br/> |Sì  <br/> |
 |[Accesso all'interfaccia di amministrazione di Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)  <br/> |Sì  <br/> |Sì  <br/> |
 |[Accesso a Windows PowerShell remoto](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |
    

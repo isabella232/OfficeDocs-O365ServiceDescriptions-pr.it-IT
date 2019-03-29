@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. Viene fornito un elenco di piani che offrono Exchange Online Protection e un confronto tra le funzionalità dei vari piani.
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467673"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955765"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
@@ -109,11 +109,11 @@ Di seguito sono elencate tutte le funzionalità. Per informazioni più dettaglia
 |[Elenco sicuro indirizzi IP del partner](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Routing condizionale della posta](mail-flow-eop.md#conditional-mail-routing) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Routing posta ibrida](mail-flow-eop.md#hybrid-mail-routing) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Rapporti dell'interfaccia di amministrazione di Microsoft 365](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Sì<sup>9</sup> <br/> |Sì<sup>10</sup> <br/> |Sì <sup>9, 10</sup> <br/> |
+|[Rapporti dell'interfaccia di amministrazione di Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Sì<sup>9</sup> <br/> |Sì<sup>10</sup> <br/> |Sì <sup>9, 10</sup> <br/> |
 |[Rapporti applicazione download di Excel](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |
 |[Creazione di report tramite i servizi Web](reporting-and-message-trace.md#reporting-using-web-services) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Traccia dei messaggi](reporting-and-message-trace.md#message-trace) <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì  <br/> |
-|[Accesso all'interfaccia di amministrazione di Microsoft 365](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Accesso all'interfaccia di amministrazione di Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Accesso all'interfaccia di amministrazione di Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Accesso a Windows PowerShell remoto](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
    

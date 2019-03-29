@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, provenienti da Data Center tedeschi, con data Residency in Germania e rigorose misure di accesso ai dati e di controllo tramite un modello di attendibilità dei dati univoco disciplinato dal diritto tedesco.
-ms.openlocfilehash: 52f98f816ae0cdb0d919dd485fd0ba4b3767ef22
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468093"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955825"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -437,7 +437,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**EOP autonomo** <br/> |**Funzionalità di EOP in Exchange Online** <br/> |**Exchange Enterprise CAL con servizi** <br/> |
+|**Funzionalità** <br/> |**EOP autonomo** <br/> |**Funzionalità di EOP in Exchange Online** <br/> |**Exchange Enterprise CAL con servizi** <br/> |
 |[destinatari posta](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients) <br/> |Sì<sup>1</sup> <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |
 |[Autorizzazioni del gruppo di ruolo Admin](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione del dominio](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |Sì<sup>3</sup> <br/> |
@@ -462,11 +462,11 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Elenco sicuro indirizzi IP del partner](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Routing condizionale della posta](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Routing posta ibrida](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Rapporti dell'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Sì<sup>9</sup> <br/> |Sì<sup>10</sup> <br/> |Sì <sup>9, 10</sup> <br/> |
+|[Rapporti dell'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Sì<sup>9</sup> <br/> |Sì<sup>10</sup> <br/> |Sì <sup>9, 10</sup> <br/> |
 |[Rapporti applicazione download di Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |
 |[Creazione di report tramite i servizi Web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Traccia dei messaggi](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì  <br/> |
-|[Accesso all'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Accesso all'interfaccia di amministrazione di Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Accesso all'interfaccia di amministrazione di Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Accesso a Windows PowerShell remoto](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
    
@@ -532,7 +532,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |Workload API: ECM APIs <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Workload API: Search APIs <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Workload API: Social APIs <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|**Funzionalità per professionisti IT** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità per professionisti IT** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |[Sincronizzazione con Active Directory](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Mapping di accesso alternativo](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Analytics Platform <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
@@ -569,7 +569,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |Upgrade evaluation site collections <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Registrazione e rapporti di utilizzo](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Supporto di Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**Funzionalità per il contenuto** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità per il contenuto** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |[Supporto standard di accessibilità](../sharepoint-online-service-description/content.md#accessibility-standards-support) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Miglioramenti nella raccolta risorse/supporto video](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Controllo](../sharepoint-online-service-description/content.md#auditing) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -622,7 +622,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |WCM: Recommendations <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[WCM: Ottimizzazioni motori di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizi di automazione di Word](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**Funzionalità Insights** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità Insights** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |[Centro business intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Misure e membri calcolati](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Raccolta connessioni dati](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
@@ -641,7 +641,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |[Filtro dei dati sequenza temporale](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Visio online](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizi Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>4</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**Funzionalità di ricerca** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità di ricerca** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |Advanced Content Processing <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Ricerche per indicizzazione continue](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Custom entity extraction <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -670,7 +670,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |Search vertical: “People” <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Search vertical: “Video” <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Ricerche "Questo elenco"](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**Funzionalità per i siti** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità per i siti** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |Change the look <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Connections to Microsoft Office Clients <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Supporto della compatibilità browser](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -700,7 +700,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |[Pagina di utilizzo del sito](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Variazioni](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Work Management Service <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|**Funzionalità sociali** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Funzionalità sociali** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |Ask Me About <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Blog personale](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Communities Reputation, Badging, and Moderation <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
@@ -723,7 +723,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |Tasks integrated with Outlook <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Trending Tags <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Wiki](../sharepoint-online-service-description/social.md#wikis) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|**Add-Ons** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |
+|**Add-Ons** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |[Spazio di archiviazione aggiuntivo](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[App fornite da Azure: Access Services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[App fornite da Azure: Codice personalizzato nel ruolo Web Lightweight di Azure (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
