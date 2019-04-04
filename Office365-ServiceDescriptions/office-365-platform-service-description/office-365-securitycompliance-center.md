@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 01d739ae1fb363265716021c15b11e51d5daac3e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
+ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467983"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31411865"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -29,7 +29,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US Government F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US Government F1** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Gestione delle minacce](https://go.microsoft.com/fwlink/?linkid=845550), ad esempio, filtro delle e-mail e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -39,8 +39,8 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
 |[Governance dei dati](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati avanzata](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Ricerca e analisi](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Ricerca eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Esportazione eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[ricerca eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[esportazione eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[eDiscovery contiene (incluse le esenzioni di eDiscovery basate su query)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Archiviazione](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
@@ -56,7 +56,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Exchange Online, piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |**SharePoint Online, piano 1** <br/> |**SharePoint Online, piano 2** <br/> |**Skype for Business Online, piano 1** <br/> |**Skype for Business Online, piano 2** <br/> |
+|**Funzionalità** <br/> |**Exchange Online Piano 1** <br/> |**Exchange Online, piano 2** <br/> |**Chiosco Exchange Online** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online Piano 2** <br/> |**Skype for Business online Piano 1** <br/> |**Skype for Business online Piano 2** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Gestione delle minacce](https://go.microsoft.com/fwlink/?linkid=845550), ad esempio, filtro delle e-mail e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -66,7 +66,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
 |[Governance dei dati](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati avanzata](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Ricerca e analisi](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Ricerca eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
+|[ricerca eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
 |[Esportazione eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |N.<sup>4</sup> <br/> |N.<sup>4</sup> <br/> |
 |[eDiscovery contiene (incluse le esenzioni di eDiscovery basate su query)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -81,10 +81,10 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 operated by 21Vianet, see [](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet).
+Il Centro sicurezza e conformità di & non è disponibile in tutti i piani per Office 365 gestito da 21Vianet.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 Germany Enterprise E3, see [](office-365-germany.md#security--compliance-center-availability-in-office-365-germany).
+Il Centro sicurezza e conformità di & è disponibile per Office 365 Germany. Per informazioni su Office 365 Germany, vedere [office 365 Germany](office-365-germany.md).
   
 
