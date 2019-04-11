@@ -3,7 +3,7 @@ title: Descrizione dei servizi della piattaforma Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/28/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 0ad78d2b5fbdecd7fcec3e9177254f7e0b2a99b2
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955785"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764864"
 ---
 # <a name="office-365-platform-service-description"></a>Descrizione dei servizi della piattaforma Office 365
 
@@ -93,7 +93,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
+|**[Amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
 |**[Funzionalità della famiglia di prodotti Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
@@ -112,6 +112,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Gruppi di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Video di Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |
 |Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |No  <br/> |
+|Microsoft Kaizala<sup>19</sup> <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì <br/> |
 |**[Gestione degli account utente](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Identità cloud, identità federata oppure autenticazione a più fattori  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Strumento di configurazione desktop Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -180,7 +181,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |**[Rete](networking.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Protocolli IPv4 e IPv6  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**Attendibilità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[Privacy, sicurezza e trasparenza](privacy-security-and-transparency.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|**[Privacy, Security, and Transparency](privacy-security-and-transparency.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Office 365 Cloud App Security  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Archivio protetto del cliente  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
@@ -197,15 +198,14 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |FISMA Authority to Operate  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Contratto sull'elaborazione dati di Microsoft  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Dati PAN conformi allo standard PCI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[Continuità del servizio](service-health-and-continuity.md)** <br/> ||||||||
+|**[Service Continuity](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Utilizzo di BlackBerry Internet Service (BIS)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Partner](partners.md)** <br/> ||||||||
 |Creazione di inviti e ordini di acquisto di prova per un cliente che utilizza uno specifico piano  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Amministrazione delegata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Contratto di servizio](service-level-agreement.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Diritti di utilizzo del prodotto](product-use-rights.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-   
+|**[Service Level Agreement](service-level-agreement.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|**[Product Use Rights](product-use-rights.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> | 
 
 > <sup>1</sup> Office 365 non fornisce supporto per nessun sistema operativo non supportato dal relativo produttore. 
 <br/><sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità Protezione delle informazioni di Azure richiedono una sottoscrizione a Office 365 ProPlus che non è inclusa in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1. Le app client di Office fornite con Microsoft 365 business supportano anche le funzionalità complete di Azure Information Protection (piano 1).
@@ -222,4 +222,5 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 <br/><sup>14</sup> In Office 365 Enterprise F1, il flusso è limitato solo ai consumi e le esecuzioni sono limitate a 750 per utente al mese. 
 <br/><sup>15</sup> disponibile solo nei piani didattici di Office 365, inclusa l'istruzione Office 365 E5. Non è disponibile in Office 365 Enterprise E5. 
 <br/><sup>16</sup> per ulteriori informazioni, vedere [controllo dei dati in Office 365 utilizzando la chiave del cliente](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti provenienti da Europa, Medio Oriente e Africa vengono esportati nell'Europa occidentale [Paesi Bassi]. GT <br/><sup>18</sup> consumo solo per Microsoft Stream: nessuna pubblicazione o condivisione. 
+<br/><sup>17</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti provenienti da Europa, Medio Oriente e Africa vengono esportati nell'Europa occidentale [Paesi Bassi]. GT <br/><sup>18</sup> consumo solo per Microsoft Stream: nessuna pubblicazione o condivisione.
+<br/><sup>19</sup> a partire dal maggio 2019, le SKU idonee esistenti di Office 365 e Microsoft 365 verranno riempite con Kaizala Pro. A partire dal 1 ° giugno 2019, Kaizala Pro verrà incluso in tutte le SKU di Office 365 e Microsoft 365 idonee.   

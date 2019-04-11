@@ -3,7 +3,7 @@ title: Descrizione del servizio Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
+ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641481"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764824"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
-Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le [descrizioni dei servizi di office 365 ](office-365-service-descriptions-technet-library.md).
+Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le [descrizioni dei servizi di office 365 ](office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Disponibilità delle funzionalità nei piani di Office 365 Business Premium e Microsoft 365 Business.
 
@@ -58,7 +58,8 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Gruppi di Office 365  <br/> |Sì  <br/> |Sì  <br/> |
 |Video di Office 365  <br/> |No  <br/> |No  <br/> |
 |Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |
-|[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|[Office 365 administration features](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione dei contenuti con Azure Information Protection  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |
 |[Gestione degli account utente](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
@@ -178,3 +179,4 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 <br/><sup>15</sup> semplificato Windows 10 gestione dei dispositivi integrata nell'interfaccia di amministrazione di Microsoft 365. Capacità di gestione di Intune di iOS, Android, macOS e di altre funzionalità di gestione dei dispositivi su più piattaforme incorporate nell'interfaccia di amministrazione di gestione dispositivi, anche con licenza per l'utilizzo con Microsoft 365 business. Le app di terze parti e la configurazione di elementi come i profili Wi-Fi e i certificati VPN possono essere gestite anche nell'interfaccia di amministrazione di gestione dei dispositivi. 
 <br/><sup>16</sup> questo piano viene fornito con Microsoft Stream Plan 2, che include video Portal, la trascrizione del testo, la ricerca profonda e il rilevamento del volto.
 <br/><sup>17</sup> semplificato Windows 10 Device Management e i criteri di protezione delle app di Intune incorporati nell'interfaccia di amministrazione di Microsoft 365.
+<br/><sup>18</sup> a partire dal maggio 2019, le SKU idonee esistenti di Office 365 e Microsoft 365 verranno riempite con Kaizala Pro. A partire dal 1 ° giugno 2019, Kaizala Pro verrà incluso in tutte le SKU di Office 365 e Microsoft 365 idonee. 

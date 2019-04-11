@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti.
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467743"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764854"
 ---
 # <a name="user-account-management"></a>Gestione degli account utente
 
@@ -55,7 +55,7 @@ Per impostazione predefinita, la sottoscrizione Office 365 utilizza il dominio \
   
 In Office 365 è possibile ospitare fino a 900 domini Internet registrati, ciascuno dei quali è rappresentato da uno spazio dei nomi diverso. 
   
-Per le organizzazioni che utilizzano l'accesso Single Sign-On, tutti gli utenti in un dominio devono utilizzare lo stesso sistema di identità: l'identità cloud o l'identità federata. Possono essere presenti ad esempio un gruppo di utenti che necessita solo di un'identità cloud, perché non accede ai sistemi locali, e un altro gruppo di utenti che utilizza sia Office 365, sia i sistemi locali. In questo caso è necessario aggiungere due domini a Office 365, ad esempio contractors.contoso.com e staff.contoso.com, e configurare l'accesso Single Sign-On solo per uno di questi domini. L'intero dominio può essere convertito da cloud a federato o viceversa.
+Per le organizzazioni che utilizzano l'accesso Single Sign-On, tutti gli utenti in un dominio devono utilizzare lo stesso sistema di identità: l'identità cloud o l'identità federata. Possono essere presenti ad esempio un gruppo di utenti che necessita solo di un'identità cloud, perché non accede ai sistemi locali, e un altro gruppo di utenti che utilizza sia Office 365, sia i sistemi locali. È necessario aggiungere due domini a Office 365, ad esempio contractors.contoso.com e staff.contoso.com, e configurare solo SSO per uno di essi. L'intero dominio può essere convertito da cloud a federato o viceversa.
   
 Per ulteriori informazioni sui domini in Office 365, vedere la descrizione del servizio [Domini](domains.md). 
   
@@ -71,13 +71,13 @@ Ad eccezione dei siti Internet per l'accesso anonimo creati con SharePoint Onlin
     
 - **Autenticazione dell'identità cloud** Per gli utenti con identità cloud viene utilizzata la tradizionale autenticazione challenge/response. Il Web browser viene reindirizzato al servizio di accesso di Office 365, che richiede l'immissione di nome utente e password per l'account professionale o dell'istituto di istruzione. Il servizio di accesso autentica le credenziali dell'utente e genera un token di servizio, che viene inviato dal Web browser al servizio richiesto per effettuare l'accesso. 
     
-- **Autenticazione dell'identità federata** Gli utenti con identità federate vengono autenticati tramite Active Directory Federation Services (ADFS) 2.0 o un altro servizio token di sicurezza. Il Web browser viene reindirizzato al servizio di accesso di Office 365, che richiede l'immissione dell'ID aziendale dell'utente sotto forma di nome dell'entità utente (UPN, User Principal Name), ad esempio isabel@contoso.com. Il servizio di accesso determina che l'utente fa parte di un dominio federato e chiede se desidera essere reindirizzato al server federativo locale per l'autenticazione. Se l'utente ha effettuato l'accesso a un computer desktop (appartenente a un dominio), viene autenticato tramite Kerberos o NTLMv2 e il servizio token di sicurezza locale genera un token di accesso, che viene inviato al servizio di accesso di Office 365 dal Web browser. Utilizzando il token di accesso, il servizio di accesso genera un token di servizio che viene inviato dal Web browser al servizio richiesto per effettuare l'accesso. Per un elenco dei servizi token di sicurezza disponibili, vedere [Single Sign-On: Roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Autenticazione dell'identità federata** Gli utenti con identità federate vengono autenticati tramite Active Directory Federation Services (ADFS) 2.0 o un altro servizio token di sicurezza. Il Web browser viene reindirizzato al servizio di accesso di Office 365, in cui è possibile digitare l'ID aziendale nel formato nome dell'entità utente (UPN, ad isabel@contoso.comesempio,). Il servizio di accesso determina che l'utente fa parte di un dominio federato e chiede se desidera essere reindirizzato al server federativo locale per l'autenticazione. Se l'utente ha effettuato l'accesso a un computer desktop (appartenente a un dominio), viene autenticato tramite Kerberos o NTLMv2 e il servizio token di sicurezza locale genera un token di accesso, che viene inviato al servizio di accesso di Office 365 dal Web browser. Utilizzando il token di accesso, il servizio di accesso genera un token di servizio che viene inviato dal Web browser al servizio richiesto per effettuare l'accesso. Per un elenco dei servizi token di sicurezza disponibili, vedere [Single Sign-On: Roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 utilizza l'autenticazione basata su moduli e il traffico di autenticazione trasmesso in rete viene sempre crittografato con TLS/SSL tramite la porta 443. Il traffico di autenticazione per i servizi di Office 365 utilizza una percentuale trascurabile della larghezza di banda. 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Autenticazione a più fattori per Office 365
 
-Con Autenticazione a più fattori per Office 365\*, agli utenti viene richiesto di confermare telefonate, messaggi di testo o un'app di notifica sullo smartphone dopo aver immesso correttamente la password. L'utente può accedere solo dopo la seconda autenticazione. Gli amministratori di Office 365 possono registrare gli utenti per l'autenticazione a più fattori nell'interfaccia di amministrazione di Microsoft 365. Ulteriori informazioni su [Autenticazioni a più fattori in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Con l'autenticazione a più fattori per Office 365, gli utenti sono tenuti a riconoscere una telefonata, un messaggio di testo o una notifica sull'app nel proprio smartphone dopo aver inserito correttamente la propria password. L'utente può accedere solo dopo la seconda autenticazione. Gli amministratori di Office 365 possono registrare gli utenti per l'autenticazione a più fattori nell'interfaccia di amministrazione di Microsoft 365. Ulteriori informazioni su [Autenticazioni a più fattori in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Autenticazione dei rich client
 
@@ -175,7 +175,7 @@ Office 365 Enterprise e utilizza un modello di controllo dell'accesso basato su 
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Amministrazione delegata e supporto per i partner
 
-I partner possono essere autorizzati ad amministrare account per conto dei clienti. Quando autorizza l'amministrazione delegata, il cliente non richiede un account utente per i partner e non utilizza alcuna licenza di Office 365. Il partner possono assegnare l'accesso completo o limitato agli utenti della propria organizzazione. L'accesso limitato include i diritti di reimpostazione delle password, gestione delle richieste di servizio e monitoraggio dello stato del sistema. Per ulteriori informazioni, vedere [Aggiungere o rimuovere amministratori delegati](https://go.microsoft.com/fwlink/p/?LinkID=270055).
+I partner possono essere autorizzati ad amministrare account per conto dei clienti. Quando autorizza l'amministrazione delegata, il cliente non richiede un account utente per i partner e non utilizza alcuna licenza di Office 365. Il partner possono assegnare l'accesso completo o limitato agli utenti della propria organizzazione. L'accesso limitato include i diritti di reimpostazione delle password, gestione delle richieste di servizio e monitoraggio dello stato del sistema. 
   
 > [!NOTE]
 > La possibilità di utilizzare e indicare un partner come un amministratore delegato varia in base al paese. 

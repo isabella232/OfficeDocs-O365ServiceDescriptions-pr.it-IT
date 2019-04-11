@@ -152,9 +152,10 @@
 | 3/28/2019 | [Descrizione dei servizi della piattaforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificato |
 
 
-## <a name="week-of-february-25-2019"></a>Settimana del 25 febbraio 2019
+## <a name="week-of-april-01-2019"></a>Settimana del 1 aprile 2019
 
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
 |------|------------|--------|
-| 2/27/2019 | [Descrizione del servizio Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificato |
+| 4/3/2019 | [Centro sicurezza e conformità di Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificato |
+| 4/4/2019 | [Descrizione del servizio Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modificato |
