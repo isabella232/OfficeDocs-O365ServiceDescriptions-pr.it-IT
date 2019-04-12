@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Per informazioni sulle funzionalità di Office 365 appena rilasciate o che stanno per essere rilasciate, vedere la Guida di orientamento di Microsoft 365.
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825154"
+ms.locfileid: "31833842"
 ---
 # <a name="service-updates"></a>Aggiornamenti dei servizi
 
@@ -32,7 +32,7 @@ Per informazioni sulle funzionalità di Office 365 appena rilasciate o che stann
   
 ## <a name="targeted-release"></a>Rilascio assegnato
 
-Con Rilascio assegnato, l'organizzazione oppure un gruppo di utenti ricevono un insieme selezionato di aggiornamenti del servizio circa una settimana prima dell'inizio del processo standard di rilascio. Per ulteriori informazioni, vedere [Programmi di rilascio per Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Con Rilascio assegnato, l'organizzazione oppure un gruppo di utenti ricevono un insieme selezionato di aggiornamenti del servizio circa una settimana prima dell'inizio del processo standard di rilascio. Per ulteriori informazioni, vedere [Opzioni di rilascio di Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
   
 ## <a name="update-notifications"></a>Notifiche sugli aggiornamenti
 

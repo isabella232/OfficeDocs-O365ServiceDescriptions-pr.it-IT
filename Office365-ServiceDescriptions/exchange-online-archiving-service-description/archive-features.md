@@ -3,7 +3,7 @@ title: Funzionalità di archiviazione di Archiviazione Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione di Microsoft Exchange Online Archiving.
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467203"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833844"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione di Archiviazione Exchange Online
 
@@ -37,7 +37,7 @@ Gli amministratori possono utilizzare l'interfaccia di amministrazione di Exchan
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Spostamento dei messaggi su Archiviazione Exchange Online
 
-Gli utenti possono trascinare e rilasciare i messaggi dai file. pst nell'archivio per semplificare l'accesso online. Gli utenti possono anche spostare automaticamente gli elementi di posta elettronica dalla cassetta postale principale alla cassetta postale di archiviazione, utilizzando la polizia di archiviazione, per ridurre le dimensioni e migliorare le prestazioni della cassetta postale principale. Anche se questo comportamento è diverso da quello di Exchange Hosted Archive, che creerà una copia secondaria di ogni messaggio nell'archivio, è possibile ottenere i requisiti di conservazione in entrambi gli scenari. 
+Gli utenti possono trascinare e rilasciare i messaggi dai file. pst nell'archivio per semplificare l'accesso online. Gli utenti possono anche spostare automaticamente gli elementi di posta elettronica dalla cassetta postale principale alla cassetta postale di archiviazione, utilizzando la polizia di archiviazione, per ridurre le dimensioni e migliorare le prestazioni della cassetta postale principale. 
   
 ### <a name="import-data-to-the-archive"></a>Importazione di dati nell'archivio
 
