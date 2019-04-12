@@ -1,9 +1,9 @@
 ---
-title: Conformità [descrizione del servizio]
+title: Conformità
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 è conforme agli standard del settore ed è studiato per contribuire al rispetto dei requisiti normativi dell'attività in cui viene utilizzato. Per ulteriori informazioni, vedere Offerte per la conformità.
-ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466883"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825144"
 ---
-# <a name="complianceservicedesc"></a>Conformità [descrizione del servizio]
+# <a name="compliance"></a>Conformità
 
 > [!NOTE]
 > Le informazioni contenute in questo articolo si applicano alle versioni internazionali di Office 365. Se si usa un'istanza cloud nazionale di Office 365, ad esempio Office 365 U.S. Government, Office 365 Germany e Office 365 gestito da 21Vianet, vedere [Cloud Microsoft nazionali](https://go.microsoft.com/fwlink/?linkid=841582). 

@@ -1,9 +1,9 @@
 ---
-title: Criteri di messaggistica e conformità [descrizione del servizio]
+title: Criteri di messaggistica e conformità
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
-ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466973"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825184"
 ---
-# <a name="messaging-policy-and-complianceservicedesc"></a>Criteri di messaggistica e conformità [descrizione del servizio]
+# <a name="messaging-policy-and-compliance"></a>Criteri di messaggistica e conformità
 
 Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
   
@@ -80,6 +80,9 @@ La crittografia dei messaggi di Office 365, una parte di Azure Information Prote
 |Crittografia dei messaggi di Office 365  <br/> |Sì<sup>4</sup> <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> I criteri e le azioni disponibili in EOP e in Exchange Online sono diversi. Per un elenco dei criteri e delle azioni disponibili in EOP, vedere [Criteri delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Azioni delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320393). Per un elenco dei criteri e delle azioni disponibili in Exchange Online, vedere [Criteri delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320394) e [Azioni delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> I report di controllo di EOP corrispondono a un sottoinsieme dei report di controllo di Exchange Online che non includono informazioni sulle cassette postali. > <sup>3</sup> I suggerimenti relativi ai criteri DLP non sono disponibili per i clienti che dispongono di Exchange Enterprise CAL with Services. > <sup>4</sup> supportato per i clienti locali che acquistano il componente aggiuntivo di Azure Information Protection e utilizzano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre al componente aggiuntivo di Azure Information Protection, è necessario acquistare Office 365 ProPlus. 
+> <sup>1</sup> I criteri e le azioni disponibili in EOP e in Exchange Online sono diversi. Per un elenco dei criteri e delle azioni disponibili in EOP, vedere [Criteri delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Azioni delle regole di trasporto](https://go.microsoft.com/fwlink/p/?LinkId=320393). [](https://go.microsoft.com/fwlink/p/?LinkId=320394)[5](https://go.microsoft.com/fwlink/p/?LinkId=320395) I report di controllo di Exchange Online corrispondono a un sottoinsieme dei report di controllo di Exchange Online che non includono informazioni sulle cassette postali. <br/>
+> <sup>2</sup> I report di controllo di EOP corrispondono a un sottoinsieme dei report di controllo di Exchange Online che non includono informazioni sulle cassette postali. <br/>
+> <sup>3</sup> I suggerimenti relativi ai criteri DLP non sono disponibili per i clienti che dispongono di Exchange Enterprise CAL with Services. <br/>
+> <sup>4</sup> supportato per i clienti locali che acquistano il componente aggiuntivo di Azure Information Protection e utilizzano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre al componente aggiuntivo di Azure Information Protection, è necessario acquistare Office 365 ProPlus. <br/>
   
 

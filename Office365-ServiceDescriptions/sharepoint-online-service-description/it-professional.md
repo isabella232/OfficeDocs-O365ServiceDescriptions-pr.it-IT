@@ -3,7 +3,7 @@ title: Professionista IT
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le funzionalità di SharePoint elencate di seguito supportano i professionisti IT nelle attività di protezione e gestione dell'ambiente SharePoint all'interno dell'organizzazione.
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467593"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825164"
 ---
 # <a name="it-professional"></a>Professionista IT
 
@@ -45,9 +45,9 @@ SharePoint Online fornisce protezione antimalware per file caricati e salvati su
 Non disponibile per i clienti di SharePoint Online. I clienti di SharePoint Server 2013 configurano l'autenticazione basata sulle attestazioni per le applicazioni Web che supportano l'autenticazione delle app e da server a server di SharePoint Server 2013. Per ulteriori informazioni, vedere [Autenticazione basata sulle attestazioni](https://go.microsoft.com/fwlink/p/?LinkId=270982).
   
 ## <a name="data-loss-prevention"></a>Prevenzione della perdita di dati
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-Prevenzione della perdita di dati (DLP) identifica dati sensibili archiviati in SharePoint Online. L'identificazione dei dati sensibili consente all'utente di ridurre i rischi per l'organizzazione. È possibile cercare i tipi di informazioni riservate nella propria organizzazione tramite il Centro eDiscovery. I rilevamenti di contenuti sensibili vengono indicati, archiviati e resi disponibili solo per gli utenti autorizzati nel Centro eDiscovery ed è possibile esportare facilmente i risultati della classificazione. Per ulteriori informazioni sui tipi di dati sensibili, vedere [Inventario dei tipi di informazioni riservate](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx). Ulteriori informazioni su come [Utilizzare DLP in SharePoint Online per identificare dati sensibili archiviati nei siti](https://technet.microsoft.com/library/dn798914.aspx).
+Prevenzione della perdita di dati (DLP) identifica dati sensibili archiviati in SharePoint Online. L'identificazione dei dati sensibili consente all'utente di ridurre i rischi per l'organizzazione. È possibile cercare i tipi di informazioni riservate nella propria organizzazione tramite il Centro eDiscovery. I rilevamenti di contenuti sensibili vengono indicati, archiviati e resi disponibili solo per gli utenti autorizzati nel Centro eDiscovery ed è possibile esportare facilmente i risultati della classificazione. Per ulteriori informazioni sui tipi di dati sensibili, vedere [Inventario dei tipi di informazioni riservate](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx). Ulteriori informazioni su come [Utilizzare DLP in SharePoint Online per identificare dati sensibili archiviati nei siti](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp).
   
 ## <a name="encryption-at-rest"></a>Crittografia dei dati inattivi
 <a name="bkmk_EncryptionAtRest"> </a>

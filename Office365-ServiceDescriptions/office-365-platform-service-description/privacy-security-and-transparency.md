@@ -3,7 +3,7 @@ title: Privacy, sicurezza e trasparenza
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft apprezza il suo rapporto con i clienti e considera fondamentale proteggere la privacy e la sicurezza dei dati dei clienti. Per ulteriori informazioni, visitare il Centro protezione Microsoft.
-ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467583"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825214"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, sicurezza e trasparenza
 
@@ -33,7 +33,7 @@ Per informazioni su come Microsoft Office 365 protegge la privacy dei dati degli
   
 Per le operazioni che gli amministratori di Enterprise, Business, Government ed Education possono eseguire per configurare le impostazioni per la privacy in Office 365, vedere [Opzioni avanzate per la privacy (per gli amministratori)](https://go.microsoft.com/fwlink/p/?LinkID=285202).
   
-Per informazioni su sicurezza e privacy per altri servizi Microsoft, incluso Office 365 ProPlus, vedere [Protezione e privacy per altri servizi Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=281962)
+Per informazioni su sicurezza e privacy per altri servizi Microsoft, incluso Office 365 ProPlus, vedere [Protezione e privacy per altri servizi Microsoft](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>Sicurezza
 
@@ -53,12 +53,12 @@ In qualità di amministratore di Office 365, è possibile usare Customer Lockbox
   
 Customer Lockbox è incluso nel piano 5 di Office 365 Enterprise oppure è possibile acquistare una sottoscrizione separata con qualsiasi altro piano di Office 365 Enterprise. Per ulteriori informazioni, vedere [Richieste di Customer Lockbox di Office 365](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
-## <a name="advanced-threat-protection"></a>Protezione avanzata dalle minacce
+## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
 Office 365 Advanced Threat Protection consente di proteggere l'organizzazione da malware e virus. ATP include [collegamenti sicuri](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [allegati sicuri](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), funzionalità di [anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)e di [Intelligence spoof](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Collegamenti sicuri protegge in modo tempestivo gli utenti da collegamenti ipertestuali dannosi in un messaggio, fornendo protezione ogni volta che il collegamento viene selezionato. La funzionalità Allegati sicuri protegge da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non dispongono di una firma di virus/malware nota in un ambiente speciale in cui ATP può rilevare attacchi dannosi. Per ulteriori informazioni su ATP, vedere [Descrizione del servizio Office 365 Advanced Threat Protection](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
   
 

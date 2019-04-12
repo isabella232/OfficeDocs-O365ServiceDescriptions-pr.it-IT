@@ -2,7 +2,7 @@
 title: Microsoft 365 Education
 ms.author: sharik
 author: skjerland
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468173"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825194"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -97,6 +97,17 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |System Center Endpoint Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Include Exchange Online Piano 1 e caratteristiche aggiuntive. > <sup>2</sup> Include Exchange Online Piano 2. > <sup>3</sup> Include SharePoint Online Piano 1 e caratteristiche aggiuntive. > <sup>4</sup> Include SharePoint Online Piano 2. > <sup>5</sup> Project Online Essentials non è incluso, ma può essere aggiunto gratuitamente al piano Office 365 Education. > <sup>6</sup> Microsoft 365 Education A5 include funzionalità di Sistema telefonico, Audioconferenza e Piano di chiamata. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (Piano di chiamata nazionale o Piano di chiamata internazionale). > <sup>7</sup> Per ulteriori informazioni sulle funzionalità di Azure Information Protection incluse nei piani di Office 365, vedere [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). > <sup>8</sup> Include Intune. > <sup>9</sup> Server e CAL sono inclusi per Exchange, SharePoint e Skype for Business. > <sup>10</sup> ECAL o Core CAL, a seconda della versione di A3 acquistata (con A5, sono inclusi i diritti ECAL). > <sup>11</sup> Per ulteriori informazioni su Azure Active Directory, vedere [Informazioni su Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). > <sup>12</sup> Office Pro Plus è obbligatorio per applicare le misure di sicurezza e inviare messaggi di posta elettronica sicuri dalla versione desktop di Outlook. 
+> <sup>1</sup> Include Exchange Online Piano 1 e caratteristiche aggiuntive.<br/>
+> <sup>2</sup> Include Exchange Online Piano 2. <br/>
+> <sup>3</sup> Include SharePoint Online Piano 1 e caratteristiche aggiuntive. <br/>
+> <sup>4</sup> Include SharePoint Online Piano 2. <br/>
+> <sup>5</sup> Project Online Essentials non è incluso, ma può essere aggiunto gratuitamente al piano Office 365 Education. <br/>
+> <sup>6</sup> Microsoft 365 Education A5 include funzionalità di Sistema telefonico, Audioconferenza e Piano di chiamata. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (Piano di chiamata nazionale o Piano di chiamata internazionale). <br/>
+> <sup>7</sup> Per ulteriori informazioni sulle funzionalità di Azure Information Protection incluse nei piani di Office 365, vedere [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
+> <sup>8</sup> Include Intune. <br/>
+> <sup>9</sup> Server e CAL sono inclusi per Exchange, SharePoint e Skype for Business. <br/>
+> <sup>10</sup> ECAL o Core CAL, a seconda della versione di A3 acquistata (con A5, sono inclusi i diritti ECAL). <br/>
+> <sup>11</sup> Per ulteriori informazioni su Azure Active Directory, vedere [Informazioni su Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>12</sup> Office Pro Plus è obbligatorio per applicare le misure di sicurezza e inviare messaggi di posta elettronica sicuri dalla versione desktop di Outlook. 
   
 
