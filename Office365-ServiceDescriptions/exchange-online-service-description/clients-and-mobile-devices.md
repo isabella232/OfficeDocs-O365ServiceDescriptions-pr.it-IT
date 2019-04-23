@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825204"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981640"
 ---
 # <a name="clients-and-mobile-devices"></a>Client e dispositivi mobili
 
@@ -36,7 +36,7 @@ L'accesso tramite Outlook è abilitato per tutti gli utenti per impostazione pre
 Per informazioni su quali client Outlook sono supportati da Exchange 2016 ed Exchange Online, vedere "Client supportati" in [Requisiti di sistema di Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
   
 > [!IMPORTANT]
->  Outlook non rientra nel prezzo della sottoscrizione a Exchange Online. Alcuni piani di Office 365 includono Microsoft Office Pro Plus, che contiene Microsoft Outlook e può essere acquistato tramite una sottoscrizione separata. >  Se si utilizza POP per connettersi a un account di posta elettronica Exchange Online, vengono visualizzate le seguenti limitazioni: >  Assenza di informazioni del calendario >  Assenza di informazioni sulla disponibilità >  Assenza dell'Elenco indirizzi globale >  Nessuna funzionalità push per la posta elettronica >  Quando ci si connette tramite POP, tutti i messaggi vengono scaricati nel client e non è possibile eseguire la sincronizzazione tra più computer o dispositivi (ad esempio tra un portatile e un telefono). 
+>  Outlook non rientra nel prezzo della sottoscrizione a Exchange Online. Alcuni piani di Office 365 includono Microsoft Office Pro Plus, che contiene Microsoft Outlook e può essere acquistato tramite una sottoscrizione separata. Se si utilizza la funzionalità POP per la connessione a un account di posta elettronica di Exchange Online, verranno visualizzate le limitazioni seguenti: > nessuna informazione del calendario > nessuna informazione sulla disponibilità > nessun elenco di indirizzi globale > no push email > quando si connette tramite POP, tutti i messaggi saranno downlo Aded al client e non verrà eseguita alcuna sincronizzazione tra più computer o dispositivi (ad esempio, tra un computer portatile e un telefono). 
   
 ## <a name="outlook-on-the-web"></a>Outlook sul Web
 
