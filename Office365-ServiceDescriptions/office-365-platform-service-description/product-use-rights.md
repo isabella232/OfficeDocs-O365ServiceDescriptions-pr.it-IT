@@ -13,28 +13,28 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
 ms.openlocfilehash: 43bc5e30b318bf78d38ebebd0f8435c322fac2d2
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30668971"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247072"
 ---
-# <a name="product-use-rights"></a><span data-ttu-id="6ba05-102">Diritti di utilizzo del prodotto</span><span class="sxs-lookup"><span data-stu-id="6ba05-102">Product Use Rights</span></span>
+# <a name="product-use-rights"></a><span data-ttu-id="348d6-102">Diritti di utilizzo del prodotto</span><span class="sxs-lookup"><span data-stu-id="348d6-102">Product Use Rights</span></span>
 
-## <a name="microsoft-online-services-use-rights"></a><span data-ttu-id="6ba05-103">Diritti di utilizzo di Microsoft Online Services</span><span class="sxs-lookup"><span data-stu-id="6ba05-103">Microsoft Online Services Use Rights</span></span>
+## <a name="microsoft-online-services-use-rights"></a><span data-ttu-id="348d6-103">Diritti di utilizzo di Microsoft Online Services</span><span class="sxs-lookup"><span data-stu-id="348d6-103">Microsoft Online Services Use Rights</span></span>
 
-<span data-ttu-id="6ba05-104">Ai fini della conformità con il Contratto di sottoscrizione Microsoft Online, utilizzare i servizi online e i software relativi come espressamente consentito dai [Diritti di utilizzo di Microsoft Online Services](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).</span><span class="sxs-lookup"><span data-stu-id="6ba05-104">If you comply with your Microsoft Online Subscription Agreement, you may use the online services and related software as expressly permitted under [Microsoft Online Services Use Rights](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).</span></span>
+<span data-ttu-id="348d6-104">Ai fini della conformità con il Contratto di sottoscrizione Microsoft Online, utilizzare i servizi online e i software relativi come espressamente consentito dai [Diritti di utilizzo di Microsoft Online Services](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).</span><span class="sxs-lookup"><span data-stu-id="348d6-104">If you comply with your Microsoft Online Subscription Agreement, you may use the online services and related software as expressly permitted under [Microsoft Online Services Use Rights](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).</span></span>
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a><span data-ttu-id="6ba05-105">Diritti sull'utilizzo di Office 365 gestito da 21Vianet</span><span class="sxs-lookup"><span data-stu-id="6ba05-105">Office 365 operated by 21Vianet Use Rights</span></span>
+## <a name="office-365-operated-by-21vianet-use-rights"></a><span data-ttu-id="348d6-105">Diritti sull'utilizzo di Office 365 gestito da 21Vianet</span><span class="sxs-lookup"><span data-stu-id="348d6-105">Office 365 operated by 21Vianet Use Rights</span></span>
 
-<span data-ttu-id="6ba05-106">Vedere il [Contratto standard di Online Services](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) e le [Condizioni per l'utilizzo](http://www.21vbluecloud.com/office365/O365-TOU/).</span><span class="sxs-lookup"><span data-stu-id="6ba05-106">See the [Online Services Standard Agreement](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) and [Terms of Use](http://www.21vbluecloud.com/office365/O365-TOU/).</span></span>
+<span data-ttu-id="348d6-106">Vedere il [Contratto standard di Online Services](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) e le [Condizioni per l'utilizzo](http://www.21vbluecloud.com/office365/O365-TOU/).</span><span class="sxs-lookup"><span data-stu-id="348d6-106">See the [Online Services Standard Agreement](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) and [Terms of Use](http://www.21vbluecloud.com/office365/O365-TOU/).</span></span>
   
-## <a name="licensing"></a><span data-ttu-id="6ba05-107">Licenze</span><span class="sxs-lookup"><span data-stu-id="6ba05-107">Licensing</span></span>
+## <a name="licensing"></a><span data-ttu-id="348d6-107">Licenze</span><span class="sxs-lookup"><span data-stu-id="348d6-107">Licensing</span></span>
 
-<span data-ttu-id="6ba05-108">Per ulteriori informazioni sui programmi di licenza per la propria organizzazione, vedere [Contratti multilicenza](https://go.microsoft.com/fwlink/?LinkId=393693).</span><span class="sxs-lookup"><span data-stu-id="6ba05-108">To learn about licensing programs for your organization, see [Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=393693).</span></span>
+<span data-ttu-id="348d6-108">Per ulteriori informazioni sui programmi di licenza per la propria organizzazione, vedere [Contratti multilicenza](https://go.microsoft.com/fwlink/?LinkId=393693).</span><span class="sxs-lookup"><span data-stu-id="348d6-108">To learn about licensing programs for your organization, see [Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=393693).</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="6ba05-109">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="6ba05-109">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="348d6-109">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="348d6-109">Feature availability</span></span>
 
-<span data-ttu-id="6ba05-110">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="6ba05-110">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
+<span data-ttu-id="348d6-110">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="348d6-110">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
   
 
