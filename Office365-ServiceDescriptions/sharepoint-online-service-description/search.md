@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Concepito per Microsoft SharePoint Server 2013, è un servizio ospitato ideale per elaborare progetti, archiviare dati e documenti in una posizione centrale e condividere le informazioni. Le seguenti funzionalità di ricerca consentono agli utenti di individuare le informazioni necessarie per il proprio lavoro. La ricerca è una combinazione di pertinenza, perfezionamento e contatti.
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467634"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246622"
 ---
 # <a name="search"></a>Ricerca
 
@@ -54,7 +54,7 @@ I nuovi criteri di affinamento grafici offrono una modalità più visiva di filt
 
 Nella distribuzione ibrida di SharePoint, il contenuto dei risultati della ricerca può provenire dai siti locali di SharePoint Online e di SharePoint Server 2013. Per ulteriori informazioni su un ambiente SharePoint ibrido, vedere [Ambiente ibrido per SharePoint Server 2013](https://go.microsoft.com/fwlink/?LinkId=275765).
   
-## <a name="manage-search-schema"></a>Gestione schema di ricerca
+## <a name="manage-search-schema"></a>Gestire lo schema di ricerca
 <a name="bkmk_manage_search_schema"> </a>
 
 Quando gli utenti ricercano contenuti sui siti di SharePoint, è il contenuto dell'indice a determinare i risultati della ricerca. L'indice di ricerca contiene informazioni provenienti da documenti e pagine del sito ed è generato tramite ricerca per indicizzazione dei contenuti sul sito di SharePoint. Lo schema di ricerca consente alla ricerca per indicizzazione di decidere quali contenuti e metadati scegliere e come indicizzarli. Modificando lo schema di ricerca è possibile creare un'esperienza di ricerca personalizzata per gli utenti. Ulteriori informazioni sulla [gestione dello schema di ricerca in SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).

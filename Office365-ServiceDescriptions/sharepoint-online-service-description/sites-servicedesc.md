@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Concepito per Microsoft SharePoint Server 2013, è un servizio ospitato ideale per elaborare progetti, archiviare dati e documenti in una posizione centrale e condividere le informazioni. Le seguenti caratteristiche dei siti offrono un set completo di strumenti che consentono all'organizzazione di creare ogni tipo di sito, oltre a un'unica infrastruttura in grado di semplificarne la gestione. Per informazioni più dettagliate, vedere Trova contenuto su SharePoint Online.
 ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825174"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246582"
 ---
 # <a name="sites"></a>Siti
 

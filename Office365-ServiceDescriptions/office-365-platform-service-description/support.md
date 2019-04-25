@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con ogni sottoscrizione Microsoft Office 365 Enterprise, Business, Education e Government, il supporto tecnico Microsoft fornisce assistenza globale per problemi tecnici e relativi a prevendita, fatturazione e sottoscrizione. Il supporto è disponibile sia online tramite il portale di Office 365 sia tramite telefono per abbonamenti a pagamento e a prova. Per ulteriori informazioni, vedere Supporto per Office 365.
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467533"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247002"
 ---
 # <a name="support"></a>Supporto
 
@@ -127,13 +127,13 @@ L'amministratore è:
     
 - Autorizzato a inviare le richieste di assistenza a Microsoft.
     
-Il compito dell'amministratore è:
+Il ruolo di amministratore consiste nel:
   
 - Fornire la configurazione degli account utente per permettere agli utenti di accedere ai servizi.
     
 - Affrontare i problemi di connettività client, software client e installazione di dispositivi portatili.
     
-- Affrontare i problemi di disponibilità del servizio nell'organizzativa del cliente.
+- Affrontare i problemi di disponibilità del servizio nella durata del comando organizzativa del cliente.
     
 - Utilizzare le risorse per il supporto self-service di Microsoft per risolvere i problemi di supporto.
     

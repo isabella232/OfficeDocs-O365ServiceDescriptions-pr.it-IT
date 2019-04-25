@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft apprezza il suo rapporto con i clienti e considera fondamentale proteggere la privacy e la sicurezza dei dati dei clienti. Per ulteriori informazioni, visitare il Centro protezione Microsoft.
 ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825214"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247062"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, sicurezza e trasparenza
 

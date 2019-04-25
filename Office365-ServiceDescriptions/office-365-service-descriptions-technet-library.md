@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641441"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246792"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
@@ -59,7 +59,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione del servizio Workplace Analytics](workplace-analytics-service-description.md)
 
-- [Descrizione del servizio di analisi](mya-service-description.md)
+- [Descrizione del servizio MyAnalytics](mya-service-description.md)
     
 - [Descrizione del servizio Power BI](power-bi-service-description.md)
     
@@ -67,7 +67,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione del servizio Visio Online](visio-online-service-description/visio-online-service-description.md)
     
-- [Descrizione servizio Yammer](yammer-service-description/yammer-service-description.md)
+- [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
     
 - [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     

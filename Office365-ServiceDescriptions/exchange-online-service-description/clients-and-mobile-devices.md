@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
-ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31981640"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246232"
 ---
 # <a name="clients-and-mobile-devices"></a>Client e dispositivi mobili
 
@@ -38,7 +38,7 @@ Per informazioni su quali client Outlook sono supportati da Exchange 2016 ed Exc
 > [!IMPORTANT]
 >  Outlook non rientra nel prezzo della sottoscrizione a Exchange Online. Alcuni piani di Office 365 includono Microsoft Office Pro Plus, che contiene Microsoft Outlook e può essere acquistato tramite una sottoscrizione separata. Se si utilizza la funzionalità POP per la connessione a un account di posta elettronica di Exchange Online, verranno visualizzate le limitazioni seguenti: > nessuna informazione del calendario > nessuna informazione sulla disponibilità > nessun elenco di indirizzi globale > no push email > quando si connette tramite POP, tutti i messaggi saranno downlo Aded al client e non verrà eseguita alcuna sincronizzazione tra più computer o dispositivi (ad esempio, tra un computer portatile e un telefono). 
   
-## <a name="outlook-on-the-web"></a>Outlook sul Web
+## <a name="outlook-on-the-web"></a>Outlook sul web
 
 Outlook sul Web è una versione basata sul Web del programma di posta elettronica Outlook, che viene utilizzata con Exchange Online. Permette agli utenti di accedere alla posta elettronica, al calendario e ai contatti personali tramite un Web browser, ovunque sia possibile connettersi a Internet. Per informazioni sui browser supportati, vedere [Browser supportati da Outlook sul Web per le aziende](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
@@ -63,7 +63,7 @@ Exchange Online funziona con le app di Outlook disponibili per iOS, Android e Wi
 |Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilità delle app per dispositivi mobili di Outlook  <br/> |Sì  <br/> [Ottenere Outlook per Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sì  <br/> [Ottenere Outlook per iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Built-in  <br/> |
 |App di posta elettronica inCorporate compatibili con Exchange Online  <br/> |App di posta elettronica di Gmail app/Samsung  <br/> |app di posta elettronica iOS  <br/> |Posta di Outlook, calendario, contatti  <br/> |
-|Altre informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configurazione di iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configurazione di Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Ulteriori informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configurazione di iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configurazione di Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    
 Sono inoltre disponibili opzioni per l'utilizzo di Exchange Online con dispositivi, tra cui BlackBerry.
   

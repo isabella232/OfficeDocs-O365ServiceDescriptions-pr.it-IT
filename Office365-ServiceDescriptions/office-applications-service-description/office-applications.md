@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: "Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate."
 ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467693"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246752"
 ---
 # <a name="office-applications"></a>Applicazioni di Office
 

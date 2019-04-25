@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
 ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468143"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245632"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti Exchange Online Protection
 

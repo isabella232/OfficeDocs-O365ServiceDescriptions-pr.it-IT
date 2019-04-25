@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è ideale per lavorare a progetti, archiviare dati e documenti in una posizione centrale e condividere informazioni con altri utenti. Le funzionalità Insights seguenti consentono alle organizzazioni di utilizzare le informazioni nei database, rapporti e applicazioni aziendali per soddisfare le specifiche esigenze delle organizzazioni.
 ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467313"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246732"
 ---
 # <a name="insights"></a>Approfondimenti
 

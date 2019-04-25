@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utilizza un modello di controllo dell'accesso basato sui ruoli per consentire agli amministratori dell'organizzazione di controllare capillarmente ciò che gli utenti e i dipendenti IT possono fare nell'ambito del servizio. A esempio, se un funzionario addetto alla conformità è responsabile per le richieste di ricerca nelle cassette postali, l'amministratore può delegare la propria funzionalità amministrativa a questo funzionario tramite il controllo dell'accesso basato sui ruoli. Exchange Online utilizza la stessa struttura di controllo dell'accesso basato sui ruoli di Microsoft Exchange Server 2013.
 ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468133"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246352"
 ---
 # <a name="permissions"></a>Autorizzazioni
 

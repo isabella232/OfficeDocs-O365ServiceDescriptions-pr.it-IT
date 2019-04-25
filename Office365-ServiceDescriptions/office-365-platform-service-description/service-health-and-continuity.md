@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
 ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30574140"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247042"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 

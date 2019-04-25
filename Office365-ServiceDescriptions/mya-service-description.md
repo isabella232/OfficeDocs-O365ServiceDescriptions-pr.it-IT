@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio di analisi
+title: Descrizione del servizio MyAnalytics
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-pascha
@@ -11,13 +11,13 @@ ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: 'Analisi dei dati: caratteristiche, distribuzioni, privacy e prerequisiti'
 ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30642224"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246502"
 ---
-# <a name="myanalytics-service-description"></a>Descrizione del servizio di analisi
+# <a name="myanalytics-service-description"></a>Descrizione del servizio MyAnalytics
 
 In analisi viene riepilogato il modo in cui si spendono i tempi di lavoro e quindi viene suggerito di lavorare in modo più intelligente. Analytics fornisce tali informazioni attraverso [gli elementi](#elements) che è possibile accedere in Microsoft Outlook o tramite il Web browser.
 

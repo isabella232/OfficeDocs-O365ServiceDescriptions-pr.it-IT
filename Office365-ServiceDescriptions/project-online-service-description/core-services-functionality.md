@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
 ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468053"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246872"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 
@@ -34,7 +34,7 @@ Active Directory fornisce una posizione centrale agli amministratori per gestire
 
 Project Online e Project Server 2013 forniscono funzionalità agli amministratori per pianificare, installare, configurare, mantenere ed espandere Project. Per ulteriori informazioni, vedere [Novità di Project Server 2013 per i professionisti IT](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
-## <a name="getting-started"></a>Riquadro attività iniziale
+## <a name="getting-started"></a>Attività iniziali
 <a name="bkmk_GettingStarted"> </a>
 
 I contenuti della guida introduttiva sono disponibili per Project Online. Vedere [Introduzione a Project Online](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US).

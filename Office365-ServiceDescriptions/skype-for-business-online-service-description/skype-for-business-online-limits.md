@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'I limiti di Skype for business online rientrano nelle categorie seguenti:'
 ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466963"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246462"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti in Skype for Business Online
 
@@ -48,7 +48,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Non applicabile  <br/> |
 |Limite di conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicabile  <br/> |
@@ -60,7 +60,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
+|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |
 |Limite di conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |50  <br/> |
@@ -87,7 +87,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite caricamento file  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Non applicabile  <br/> |
 |Partecipanti a una riunione in Skype for Business<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicabile  <br/> |
 |Relatori di una riunione in Skype for Business  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicabile  <br/> |
@@ -103,7 +103,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
+|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
 |Limite caricamento file  <br/> |500 MB  <br/> |Non applicabile  <br/> |500 MB  <br/> |
 |Partecipanti a una riunione in Skype for Business  <br/> |250  <br/> |Non applicabile  <br/> |250  <br/> |
 |Relatori di una riunione in Skype for Business  <br/> |250  <br/> |Non applicabile  <br/> |250  <br/> |

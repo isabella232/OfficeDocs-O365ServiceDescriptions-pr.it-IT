@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (orOffice 365 US Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche di Office 365 US Government. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei servizi di Office 365.
 ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825224"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247082"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 

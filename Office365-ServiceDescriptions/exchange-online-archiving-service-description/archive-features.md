@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione di Microsoft Exchange Online Archiving.
 ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833844"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245032"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione di Archiviazione Exchange Online
 

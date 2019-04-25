@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti.
 ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764854"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247202"
 ---
 # <a name="user-account-management"></a>Gestione degli account utente
 
@@ -71,7 +71,7 @@ Ad eccezione dei siti Internet per l'accesso anonimo creati con SharePoint Onlin
     
 - **Autenticazione dell'identità cloud** Per gli utenti con identità cloud viene utilizzata la tradizionale autenticazione challenge/response. Il Web browser viene reindirizzato al servizio di accesso di Office 365, che richiede l'immissione di nome utente e password per l'account professionale o dell'istituto di istruzione. Il servizio di accesso autentica le credenziali dell'utente e genera un token di servizio, che viene inviato dal Web browser al servizio richiesto per effettuare l'accesso. 
     
-- **Autenticazione dell'identità federata** Gli utenti con identità federate vengono autenticati tramite Active Directory Federation Services (ADFS) 2.0 o un altro servizio token di sicurezza. Il Web browser viene reindirizzato al servizio di accesso di Office 365, in cui è possibile digitare l'ID aziendale nel formato nome dell'entità utente (UPN, ad isabel@contoso.comesempio,). Il servizio di accesso determina che l'utente fa parte di un dominio federato e chiede se desidera essere reindirizzato al server federativo locale per l'autenticazione. Se l'utente ha effettuato l'accesso a un computer desktop (appartenente a un dominio), viene autenticato tramite Kerberos o NTLMv2 e il servizio token di sicurezza locale genera un token di accesso, che viene inviato al servizio di accesso di Office 365 dal Web browser. Utilizzando il token di accesso, il servizio di accesso genera un token di servizio che viene inviato dal Web browser al servizio richiesto per effettuare l'accesso. Per un elenco dei servizi token di sicurezza disponibili, vedere [Single Sign-On: Roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Autenticazione dell'identità federata** Gli utenti con identità federate vengono autenticati tramite Active Directory Federation Services (ADFS) 2.0 o un altro servizio token di sicurezza. Il Web browser viene reindirizzato al servizio di accesso di Office 365, che richiede l'immissione dell'ID aziendale dell'utente sotto forma di nome dell'entità utente (UPN, User Principal Name), ad esempio isabel@contoso.com. Il servizio di accesso determina che l'utente fa parte di un dominio federato e chiede se desidera essere reindirizzato al server federativo locale per l'autenticazione. Se l'utente ha effettuato l'accesso a un computer desktop (appartenente a un dominio), viene autenticato tramite Kerberos o NTLMv2 e il servizio token di sicurezza locale genera un token di accesso, che viene inviato al servizio di accesso di Office 365 dal Web browser. Utilizzando il token di accesso, il servizio di accesso genera un token di servizio che viene inviato dal Web browser al servizio richiesto per effettuare l'accesso. Per un elenco dei servizi token di sicurezza disponibili, vedere [Single Sign-On: Roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 utilizza l'autenticazione basata su moduli e il traffico di autenticazione trasmesso in rete viene sempre crittografato con TLS/SSL tramite la porta 443. Il traffico di autenticazione per i servizi di Office 365 utilizza una percentuale trascurabile della larghezza di banda. 
   

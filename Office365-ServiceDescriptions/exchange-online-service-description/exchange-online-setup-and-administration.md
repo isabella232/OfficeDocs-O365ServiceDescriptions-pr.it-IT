@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: In questa sezione vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
 ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955745"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246302"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Installazione e amministrazione di Exchange Online
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Per informazioni sulle funzionalità di Office 365 appena rilasciate o che stanno per essere rilasciate, vedere la Guida di orientamento di Microsoft 365.
 ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833842"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247013"
 ---
 # <a name="service-updates"></a>Aggiornamenti dei servizi
 

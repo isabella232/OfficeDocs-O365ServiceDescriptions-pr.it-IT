@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilizzare OneNote online (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file utilizzando Office Online.
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467023"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247182"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -116,7 +116,7 @@ Non è disponibile in OneNote Online. Con l'app desktop OneNote, è possibile di
 
 La possibilità di collegare la creazione di note a file non è disponibile in OneNote Online e i collegamenti ai file sono nascosti. Tuttavia, vengono conservati nelle note in modo che sia possibile aprirli con l'app desktop OneNote. 
   
-## <a name="navigation"></a>Spostamento
+## <a name="navigation"></a>Esplorazione
 <a name="bkmk_navigation"> </a>
 
 Con OneNote Online, è possibile utilizzare i pulsanti Avanti e Indietro (in stile browser) presenti sulla barra degli strumenti di Accesso rapido per spostarsi velocemente da una pagina a un'altra.

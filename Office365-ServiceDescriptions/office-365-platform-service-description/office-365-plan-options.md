@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764814"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247232"
 ---
 # <a name="office-365-plan-options"></a>Opzioni di piani di Office 365
 
@@ -120,10 +120,10 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
   
 |**Servizio**|**Piani**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online Piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online, piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Archiviazione Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Chiosco Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
-|SharePoint Online  <br/> |[SharePoint Online Piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online Piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
-|OneDrive for Business  <br/> |[OneDrive for Business Piano 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business Piano 2](https://onedrive.live.com/about/en-us/business/) <br/> |
-|Skype for Business online  <br/> |[Skype for Business online Piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business online Piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
+|Exchange Online  <br/> |[Exchange Online piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Protezione avanzata dalle minacce per Exchange Online](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Archiviazione Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Chiosco Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|SharePoint Online  <br/> |[SharePoint Online Piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
+|OneDrive for Business  <br/> |[OneDrive for Business piano 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business piano 2](https://onedrive.live.com/about/en-us/business/) <br/> |
+|Skype for Business online  <br/> |[Skype for Business Online piano 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online piano 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
 |Applicazioni di Office  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 Business](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |Gestione dei portfolio di progetti  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |

@@ -1,27 +1,13 @@
 ---
-title: Limiti Exchange Online Limits
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
-ms.date: 03/18/2019
-ms.audience: ITPro
-ms.topic: reference
-f1_keywords:
-- exchange-online-limits
-ms.service: o365-administration
-localization_priority: Normal
-ms.custom:
+title: "limiti di Exchange Online" ms. Author: sharik Author: skjerland Manager: mnirkhe <<<<<<< HEAD ms. Date: 04/15/2019 = = = = = = = ms. Date: 04/18/2019
+>>>>>>> Master ms. audience: ITPro ms. Topic: f1_keywords di riferimento:
+- ' Exchange-Online-limits ' ms. Service: O365-Administration localization_priority: Normal ms. Custom:
 - Adm_ServiceDesc
-- Adm_ServiceDesc_top
-ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
-description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
-ms.translationtype: MT
-ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641471"
+- Adm_ServiceDesc_top ms. AssetID: 70b38a05-6cfa-4CED-A137-116019262fed
+
+<a name="description-find-the-exchange-online-limits-for-a-variety-of-service-areas-including-address-book-limits-mailbox-storage-limits-and-reporting-and-message-trace-limits-to-name-just-a-few"></a>description: ""
 ---
+
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
 Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
@@ -75,7 +61,7 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite elenco indirizzi  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |Limite rubrica offline (OAB, offline address book)  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Limite criteri delle rubriche (ABP, address book policies)  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -85,7 +71,7 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Limite elenco indirizzi  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |Limite rubrica offline (OAB, offline address book)  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Limite criteri delle rubriche (ABP, address book policies)  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -102,11 +88,11 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Cassette postali utente  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
 |Cassette postali di archiviazione<sup>7, 8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |Numero illimitato<sup>1</sup> <br/> |Numero illimitato<sup>1</sup> <br/> |Non disponibile<sup>4</sup> <br/> |
 |Cassette postali condivise  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2, 9</sup> <br/> |50 GB<sup>2, 9</sup> <br/> |50 GB<sup>2</sup> <br/> |
-|Cassette postali per la risorsa  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3</sup> <br/> |
+|Cassette postali per le risorse  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3</sup> <br/> |
 |Cassette postali del sito<sup>5</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |Non disponibile  <br/> |
 |Cassette postali delle cartelle pubbliche  <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |Non disponibile  <br/> |
 |Cassette postali di gruppo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
@@ -118,7 +104,7 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Cassette postali degli utenti  <br/> |2 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
 |Cassette postali di archiviazione<sup>8, 9</sup> <br/> |100 GB<sup>1</sup> <br/> |50 GB  <br/> |UnLimited<sup>2</sup> <br/> |Non disponibile<sup>5</sup> <br/> |
 |Cassette postali condivise  <br/> |2 GB<sup>1</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3, 10</sup> <br/> |50 GB<sup>3</sup> <br/> |
@@ -146,7 +132,7 @@ Exchange Online offre tre tipi di notifiche quando la capacità della cassetta p
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Avviso  <br/> |49 GB  <br/> |49 GB  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |1,96 GB  <br/> |
 |Invio non consentito  <br/> |49,5 GB  <br/> |49,5 GB  <br/> |49,5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |1,98 GB  <br/> |
 |Invio e/o ricezione non consentiti  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
@@ -155,7 +141,7 @@ Exchange Online offre tre tipi di notifiche quando la capacità della cassetta p
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Avviso  <br/> |1,9 GB<sup>1</sup> <br/> |49 GB  <br/> |98 GB  <br/> |1,96 GB  <br/> |
 |Invio non consentito  <br/> |2 GB<sup>1</sup> <br/> |49,5 GB  <br/> |99 GB  <br/> |1,98 GB  <br/> |
 |Invio e/o ricezione non consentiti  <br/> |2,3 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
@@ -193,7 +179,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Numero massimo di messaggi per cartella di cassette postali  <br/> |1 milione  <br/> |1 milione  <br/> |1 milione  <br/> |1 milione  <br/> |1 milione  <br/> |1 milione  <br/> |
 |Avviso per numero di messaggi per cartella di cassette postali  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |Numero massimo di messaggi per cartella nella cartella Elementi ripristinabili  <br/> |3 milioni  <br/> |3 milioni  <br/> |3 milioni  <br/> |3 milioni  <br/> |3 milioni  <br/> |3 milioni  <br/> |
@@ -202,12 +188,12 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (non in attesa)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |UnLimited<sup>2</sup> <br/> |UnLimited<sup>2</sup> <br/> |30 GB  <br/> |
 |Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (in attesa)  <br/> |100 GB<sup>1</sup> <br/> |100 GB<sup>1</sup> <br/> |100 GB<sup>1</sup> <br/> |UnLimited<sup>2</sup> <br/> |UnLimited<sup>2</sup> <br/> |100 GB<sup>1</sup> <br/> |
 |Avviso per numero massimo di messaggi per cartella nella cartella Elementi ripristinabili  <br/> |2,75 milioni  <br/> |2,75 milioni  <br/> |2,75 milioni  <br/> |2,75 milioni  <br/> |2,75 milioni  <br/> |2,75 milioni  <br/> |
-|Numero massimo di sottocartelle per cartella delle cassette postali  <br/> |10,000  <br/> |10.000  <br/> |10.000  <br/> |10.000  <br/> |10.000  <br/> |10.000  <br/> |
+|Numero massimo di sottocartelle per cartella delle cassette postali  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10.000  <br/> |
 |Avviso per numero di sottocartelle per cartella di cassette postali  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |Massima profondità gerarchia cartella  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |Avviso per profondità della gerarchia di cartelle  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Numero massimo di cartelle pubbliche  <br/> | 500.000  <br/> | 500.000  <br/> | 500.000  <br/> | 500.000  <br/> | 500.000  <br/> |Non disponibile  <br/> |
-|Numero massimo di sottocartelle per cartella pubblica  <br/> |10,000  <br/> |10.000  <br/> |10.000  <br/> |10.000  <br/> |10,000  <br/> |Non disponibile  <br/> |
+|Numero massimo di sottocartelle per cartella pubblica  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |Non disponibile  <br/> |
 |Avviso per numero di sottocartelle per cartella pubblica  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |Non disponibile  <br/> |
    
 > [!NOTE]
@@ -217,7 +203,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Numero massimo di messaggi per cartella delle cassette postali  <br/> |Nessun limite<sup>1</sup> <br/> |1 milione  <br/> |1 milione  <br/> |1 milione  <br/> |
 |Avviso per numero di messaggi per cartella delle cassette postali  <br/> |Nessun limite  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |Numero massimo di messaggi per cartella nella cartella Elementi recuperabili  <br/> |Nessun limite  <br/> |3 milioni  <br/> |3 milioni  <br/> |3 milioni  <br/> |
@@ -241,7 +227,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 
 I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
   
-- **Limite dimensione messaggio** I limiti di dimensione dei messaggi sono indispensabili per impedire ai messaggi di grandi dimensioni di bloccare il recapito di altri messaggi e compromettere le prestazioni del servizio a discapito di tutti gli utenti. I limiti includono gli allegati e sono validi a livello di organizzazione per tutti i messaggi (in ingresso, in uscita e interni). I messaggi che superano questo limite non verranno recapitati e il mittente riceverà un rapporto di mancato recapito (NDR). Sebbene limiti di dimensione dei messaggi possano essere configurati su valori più o meno alti o in base ai singoli utenti, gli amministratori possono creare regole di trasporto per limitare le dimensioni massime di ogni singolo allegato. Per ulteriori informazioni, vedere [Office 365 now supports larger email messages (Office 365 ora supporta messaggi di posta elettronica più grandi)](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite dimensione messaggio** I limiti di dimensione dei messaggi sono indispensabili per impedire ai messaggi di grandi dimensioni di bloccare il recapito di altri messaggi e compromettere le prestazioni del servizio a discapito di tutti gli utenti. I limiti includono gli allegati e sono validi a livello di organizzazione per tutti i messaggi (in ingresso, in uscita e interni). I messaggi che superano questo limite non verranno recapitati e il mittente riceverà un rapporto di mancato recapito (NDR). Sebbene limiti di dimensione dei messaggi possano essere configurati su valori più o meno alti o in base ai singoli utenti, gli amministratori possono creare regole di trasporto per limitare le dimensioni massime di ogni singolo allegato. Per ulteriori informazioni, vedere [Office 365 now supports larger email messages (Office 365 ora supporta messaggi di posta elettronica più grandi)](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
     > [!NOTE]
     > Per determinati client di posta elettronica, i limiti di dimensione dei messaggi possono essere inferiori o il limite di dimensione di un singolo file allegato può essere impostato su un valore inferiore al limite stabilito in Exchange Online. 
@@ -265,7 +251,7 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite per la dimensione del messaggio - Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |Limite per la dimensione del messaggio - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
 |Limite per la dimensione del messaggio - Outlook per Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
@@ -281,13 +267,13 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 |Limite di profondità del messaggio incorporato  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> la dimensione massima predefinita dei messaggi per le cassette postali di Office 365 è 25 MB. Gli amministratori di Office 365 possono specificare un limite personalizzato compreso tra 1 MB e 150 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione delle dimensioni massime consentite per i messaggi dell'organizzazione, vedere [Office 365 now supports larger email messages (Office ora supporta messaggi di posta elettronica di dimensioni maggiori)](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> È possibile inviare e ricevere messaggi di dimensioni fino a 150 MB tra utenti di Office 365 (dove il messaggio non lascia mai i datacenter di Office 365). I messaggi indirizzati al di fuori dei datacenter di Office 365 sono soggetti a un ulteriore aumento del 33% della codifica di traduzione, nel caso in cui le dimensioni massime dei messaggi siano di 112 MB. <br/> <sup>3</sup> In OWA i messaggi possono essere soggetti a un aumento del 33% della codifica e le dimensioni dei messaggi che è possibile inviare vengono ridotte del 25% rispetto all'impostazione configurata. Ad esempio, se si personalizzano le impostazioni per una dimensione massima dei messaggi di 100 MB, è possibile inviare messaggi di dimensioni non superiori a 75 MB. <br/> <sup>4</sup> Le dimensioni dei messaggi da spostare in Exchange Online vengono calcolate da Exchange Online. Versioni di Exchange precedenti a Exchange Server 2013 possono riportare dimensioni più piccole dell'elemento. Questo limite si applica per spostare le migrazioni di base utilizzando uno dei servizi replica delle cassette postali supportati di Exchange. Altri metodi di migrazione (completa, a fasi, IMAP, PST) e altri strumenti di terze parti dipendono dal limite per la dimensione dei messaggi generale. <br/> <sup>5</sup> Per informazioni su OME con nuove funzionalità, vedere [Configurare le nuove funzionalità di Crittografia messaggi di Office 365 basate su Azure Information Protection](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>6</sup> Non è possibile allegare un singolo file di dimensioni superiori a 35 MB. Inoltre, non è possibile allegare file le cui dimensioni superano complessivamente 35 MB. Ad esempio, se si allega un file di 34 MB, è possibile allegare solo un altro file di 1 MB. 
+> <sup>1</sup> la dimensione massima predefinita dei messaggi per le cassette postali di Office 365 è 25 MB. Gli amministratori di Office 365 possono specificare un limite personalizzato compreso tra 1 MB e 150 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione delle dimensioni massime consentite per i messaggi dell'organizzazione, vedere [Office 365 now supports larger email messages (Office ora supporta messaggi di posta elettronica di dimensioni maggiori)](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> È possibile inviare e ricevere messaggi di dimensioni fino a 150 MB tra utenti di Office 365 (dove il messaggio non lascia mai i datacenter di Office 365). I messaggi indirizzati al di fuori dei datacenter di Office 365 sono soggetti a un ulteriore aumento del 33% della codifica di traduzione, nel caso in cui le dimensioni massime dei messaggi siano di 112 MB. <br/> <sup>3</sup> In OWA i messaggi possono essere soggetti a un aumento del 33% della codifica e le dimensioni dei messaggi che è possibile inviare vengono ridotte del 25% rispetto all'impostazione configurata. Ad esempio, se si personalizzano le impostazioni per una dimensione massima dei messaggi di 100 MB, è possibile inviare messaggi di dimensioni non superiori a 75 MB. <br/> <sup>4</sup> Le dimensioni dei messaggi da spostare in Exchange Online vengono calcolate da Exchange Online. Versioni di Exchange precedenti a Exchange Server 2013 possono riportare dimensioni più piccole dell'elemento. Questo limite si applica per spostare le migrazioni di base utilizzando uno dei servizi replica delle cassette postali supportati di Exchange. Altri metodi di migrazione (completa, a fasi, IMAP, PST) e altri strumenti di terze parti dipendono dal limite per la dimensione dei messaggi generale. <br/> <sup>5</sup> Per informazioni su OME con nuove funzionalità, vedere [Configurare le nuove funzionalità di Crittografia messaggi di Office 365 basate su Azure Information Protection](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>6</sup> Non è possibile allegare un singolo file di dimensioni superiori a 35 MB. Inoltre, non è possibile allegare file le cui dimensioni superano complessivamente 35 MB. Ad esempio, se si allega un file di 34 MB, è possibile allegare solo un altro file di 1 MB. 
   
 ### <a name="message-limits-across-standalone-options"></a>Limiti dei messaggi nelle opzioni autonome
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Limite per la dimensione del messaggio - Outlook  <br/> |10 MB<sup>4</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>2</sup> <br/> |
 |Limite per la dimensione del messaggio - OWA  <br/> |10 MB<sup>4</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |Limite per la dimensione del messaggio - Outlook per Mac  <br/> |10 MB<sup>4</sup> <br/> |150 MB   <br/> |150 MB   <br/> ||
@@ -303,7 +289,7 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 |Limite di profondità del messaggio incorporato  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Gli amministratori di Office 365 possono specificare un limite personalizzato compreso tra 150 MB e 1 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione delle dimensioni massime consentite per i messaggi dell'organizzazione, vedere [Office 365 now supports larger email messages (Office ora supporta messaggi di posta elettronica di dimensioni maggiori)](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> È possibile inviare e ricevere messaggi di dimensioni fino a 150 MB tra utenti di Office 365 (dove il messaggio non lascia mai i datacenter di Office 365). I messaggi indirizzati al di fuori dei datacenter di Office 365 sono soggetti a un ulteriore aumento del 33% della codifica di traduzione, nel caso in cui le dimensioni massime dei messaggi siano di 112 MB. <br/> <sup>3</sup> In OWA i messaggi possono essere soggetti a un aumento del 33% della codifica e le dimensioni dei messaggi che è possibile inviare vengono ridotte del 25% rispetto all'impostazione configurata. Ad esempio, se si personalizzano le impostazioni per una dimensione massima dei messaggi di 100 MB, è possibile inviare messaggi di dimensioni non superiori a 75 MB. <br/> <sup>4</sup> Questo è il limite predefinito per le organizzazioni Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione. <br/> <sup>5</sup> Le dimensioni dei messaggi da spostare in Exchange Online vengono calcolate da Exchange Online. Versioni di Exchange precedenti a Exchange Server 2013 possono riportare dimensioni più piccole dell'elemento. <br/> <sup>6</sup> Per informazioni su OME con nuove funzionalità, vedere [Configurare le nuove funzionalità di Crittografia messaggi di Office 365 basate su Azure Information Protection](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
+> <sup>1</sup> Gli amministratori di Office 365 possono specificare un limite personalizzato compreso tra 150 MB e 1 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione delle dimensioni massime consentite per i messaggi dell'organizzazione, vedere [Office 365 now supports larger email messages (Office ora supporta messaggi di posta elettronica di dimensioni maggiori)](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> È possibile inviare e ricevere messaggi di dimensioni fino a 150 MB tra utenti di Office 365 (dove il messaggio non lascia mai i datacenter di Office 365). I messaggi indirizzati al di fuori dei datacenter di Office 365 sono soggetti a un ulteriore aumento del 33% della codifica di traduzione, nel caso in cui le dimensioni massime dei messaggi siano di 112 MB. <br/> <sup>3</sup> In OWA i messaggi possono essere soggetti a un aumento del 33% della codifica e le dimensioni dei messaggi che è possibile inviare vengono ridotte del 25% rispetto all'impostazione configurata. Ad esempio, se si personalizzano le impostazioni per una dimensione massima dei messaggi di 100 MB, è possibile inviare messaggi di dimensioni non superiori a 75 MB. <br/> <sup>4</sup> Questo è il limite predefinito per le organizzazioni Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione. <br/> <sup>5</sup> Le dimensioni dei messaggi da spostare in Exchange Online vengono calcolate da Exchange Online. Versioni di Exchange precedenti a Exchange Server 2013 possono riportare dimensioni più piccole dell'elemento. <br/> <sup>6</sup> Per informazioni su OME con nuove funzionalità, vedere [Configurare le nuove funzionalità di Crittografia messaggi di Office 365 basate su Azure Information Protection](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
   
 ## <a name="receiving-and-sending-limits"></a>Limiti di invio e ricezione
 
@@ -341,7 +327,7 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite numero di destinatari  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |
 |Limite destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |
 |Limite di indirizzi proxy del destinatario  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
@@ -351,7 +337,7 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Limite numero di destinatari  <br/> |Nessun limite<sup>1</sup> <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |
 |Limite destinatari  <br/> |500 destinatari<sup>1</sup> <br/> |500 destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |
 |Limite di indirizzi proxy del destinatario  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
@@ -379,19 +365,19 @@ Questi limiti controllano il periodo di tempo durante il quale è possibile acce
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Periodo di mantenimento per la cartella Posta eliminata  <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |
 |Periodo di conservazione per gli elementi rimossi dalla cartella Posta eliminata  <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>1</sup> <br/> |
 |Periodo di conservazione per la cartella Posta indesiderata  <br/> |30 giorni  <br/> |30 giorni  <br/> |30 giorni  <br/> |30 giorni  <br/> |30 giorni  <br/> |30 giorni  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Questo è il limite predefinito. Gli amministratori possono modificare questo valore per l'organizzazione. 
+> <sup>1</sup> questo è il valore predefinito per le organizzazioni di Office 365. Gli amministratori possono modificare questo valore di un massimo di 30 giorni per le cassette postali dell'organizzazione.
   
 ### <a name="retention-limits-across-standalone-options"></a>Limiti di mantenimento nelle opzioni autonome
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Periodo di mantenimento per la cartella Posta eliminata  <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |
 |Periodo di conservazione per gli elementi rimossi dalla cartella Posta eliminata  <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>2</sup> <br/> |14 giorni<sup>2</sup> <br/> |14 giorni<sup>2</sup> <br/> |
 |Periodo di mantenimento per la cartella Posta indesiderata  <br/> |2 anni<sup>1</sup> <br/> |30 giorni  <br/> |30 giorni  <br/> |30 giorni  <br/> |
@@ -413,12 +399,12 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Numero massimo di membri del gruppo di distribuzione<sup>1</sup> <br/> |100.000 membri  <br/> |100.000 membri  <br/> |100.000 membri  <br/> |100.000 membri  <br/> |100.000 membri  <br/> |100.000 membri  <br/> |
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |
 |Dimensione massima dei messaggi per i gruppi di distribuzione con 5.000 a 99.999 membri  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |Dimensione massima dei messaggi per i gruppi di distribuzione con 100.000 membri  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
-|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Numero massimo di gruppi che è possibile creare  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -428,10 +414,10 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Numero massimo di membri del gruppo di distribuzione  <br/> |100.000 membri<sup>1</sup> <br/> |100.000 membri  <br/> |100.000 membri  <br/> |100.000 membri  <br/> |
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.  <br/> |5.000 membri o più<sup>1</sup> <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |
-|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Numero massimo di gruppi che è possibile creare  <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -455,13 +441,13 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
     
 - **Limiti di inoltro** Numero massimo di destinatari configurabili per una regola di Posta in arrivo o di trasporto con un'azione di reindirizzamento. Se una regola viene configurata per reindirizzare un messaggio a un numero maggiore di destinatari, la regola non verrà applicata e tutti i messaggi che soddisfano la condizione della regola non verranno reindirizzati a nessuno dei destinatari elencati nella regola. 
     
-- **Numero di reindirizzamenti di un messaggio** Numero di volte in cui un messaggio verrà reindirizzato, inoltrato o a cui verrà risposto automaticamente sulla base delle regole di Posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene interrotto senza inviare un rapporto di mancato recapito all'utente B che lo informa che il messaggio non è stato recapitato all'utente C. 
+- **Numero di reindirizzamenti di un messaggio** Numero di volte in cui un messaggio verrà reindirizzato, inoltrato o a cui verrà risposto automaticamente sulla base delle regole di Posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene eliminato senza inviare un rapporto di MANCAto recapito (NDR) all'utente B che indica che il messaggio non è stato recapitato all'utente C. È possibile utilizzare l'intestazione X-MS-Exchange-Inbox-rules-loop per determinare il numero di reindirizzamenti di un messaggio. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
     
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Limiti delle regole di journal, trasporto e Posta in arrivo nelle opzioni di Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Numero massimo di regole di journal  <br/> |10 regole  <br/> |10 regole  <br/> |10 regole  <br/> |10 regole  <br/> |10 regole  <br/> |10 regole  <br/> |
 |Numero massimo di regole di trasporto  <br/> |300 regole  <br/> |300 regole  <br/> |300 regole  <br/> |300 regole  <br/> |300 regole  <br/> |300 regole  <br/> |
 |Dimensione massima di una singola regola di trasporto  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
@@ -475,7 +461,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Numero massimo di regole di journal  <br/> |Nessun limite  <br/> |10 regole  <br/> |10 regole  <br/> |10 regole  <br/> |
 |Numero massimo di regole di trasporto  <br/> |Nessun limite  <br/> |300 regole  <br/> |300 regole  <br/> |300 regole  <br/> |
 |Dimensione massima di una singola regola di trasporto  <br/> |40 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
@@ -503,7 +489,7 @@ Questi limiti controllano le impostazioni di moderazione utilizzate per l'approv
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Dimensione massima della cassetta postale di arbitraggio  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |Numero massimo di moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |
 |Scadenza per i messaggi in attesa di moderazione  <br/> |2 giorni  <br/> |2 giorni  <br/> |2 giorni  <br/> |2 giorni  <br/> |2 giorni  <br/> |2 giorni  <br/> |
@@ -513,7 +499,7 @@ Questi limiti controllano le impostazioni di moderazione utilizzate per l'approv
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Dimensione massima della cassetta postale di arbitraggio  <br/> |Nessun limite<sup>1</sup> <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |Numero massimo di moderatori  <br/> |Nessun limite  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |
 |Scadenza per i messaggi in attesa di moderazione  <br/> |5 giorni<sup>1</sup> <br/> |2 giorni  <br/> |2 giorni  <br/> |2 giorni  <br/> |
@@ -537,7 +523,7 @@ I seguenti limiti sono validi per Microsoft Exchange ActiveSync, un protocollo c
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Limite di dispositivi Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Limite di eliminazione di dispositivi Exchange ActiveSync  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Limite del file allegato di Exchange ActiveSync  <br/> |25 MB  <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |25 MB  <br/> |
@@ -546,7 +532,7 @@ I seguenti limiti sono validi per Microsoft Exchange ActiveSync, un protocollo c
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |Limite di dispositivi Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Limite di eliminazione di dispositivi Exchange ActiveSync  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Limite del file allegato di Exchange ActiveSync  <br/> |25 MB  <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |

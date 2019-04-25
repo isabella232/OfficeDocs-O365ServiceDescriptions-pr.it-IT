@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: "Microsoft offre ambienti GCC High e DoD per venire incontro alle esigenze del Dipartimento della Difesa degli Stati Uniti, speciali e in costante evoluzione, e a quelle dei terzisti che si occupano delle informazioni CUI (Controlled Unclassified Information) del Dipartimento della Difesa oppure che sono soggetti alle leggi sul traffico d'armi ITAR ( International Traffic in Arms Regulations). Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. "
+description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
 ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379038"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247112"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
-Microsoft offre ambienti GCC High e DoD per venire incontro alle esigenze del Dipartimento della Difesa degli Stati Uniti, speciali e in costante evoluzione, e a quelle dei terzisti che si occupano delle informazioni CUI (Controlled Unclassified Information) del Dipartimento della Difesa oppure che sono soggetti alle leggi sul traffico d'armi ITAR ( International Traffic in Arms Regulations). Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.  
+Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. 
   
 È opportuno invitare il team degli account o il proprio partner preferito a informarsi ulteriormente in merito alla procedura di convalida oppure ad avviarla.
   
@@ -79,7 +79,7 @@ Le sottoscrizioni Office 365 negli ambienti GCC High e DoD includono le caratter
     
 I clienti che utilizzano SharePoint Online e OneDrive for business negli ambienti GCC High o DoD possono mantenere i documenti privati (prima opzione), condividerli con tutti gli utenti dell'organizzazione (seconda opzione), condividerli con tutti gli utenti che dispongono del collegamento al documento (terza opzione) e condividere con persone specifiche all'interno solo degli ambienti GCC High e DoD (quarta opzione); Naturalmente, queste opzioni possono essere limitate anche in base ai controlli di accesso a livello di tenant.
   
-Gli inquilini di GCC High possono condividerli con altri tenant High GCC. Per esempio:
+Gli inquilini di GCC High possono condividerli con altri tenant High GCC. Ad esempio:
   
 - GCC High tenant A è in grado di condividere il tenant alto B.
     
@@ -95,9 +95,9 @@ Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai 
   
  **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. È necessario eseguire la migrazione di tutte le soluzioni sandbox nel [ modello estendibilità del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
-### <a name="skype-for-business-online"></a>Skype for Business online
+### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **Servizi di &amp; conferenza** PSTN per le chiamate PSTN-a causa del requisito di utilizzare la rete PSTN (Public Switched Telephone Network) per i servizi &amp; di TELEFONIa, la chiamata PSTN PSTN non è attualmente disponibile in GCC High e DOD. 
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   
 ### <a name="identity"></a>Identità
 

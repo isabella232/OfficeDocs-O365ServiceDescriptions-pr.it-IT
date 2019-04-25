@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel online (in precedenza Excel Web App) consente di estendere la propria esperienza Microsoft Excel al Web browser, in cui è possibile lavorare con le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file utilizzando Office Online.
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467383"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246982"
 ---
 # <a name="excel-online"></a>Excel Online
 

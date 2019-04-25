@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Archiviazione Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di dispositivi e piattaforme. Tutta la connettività di rete verso l'archivio dell'utente si verifica su Internet e le connessioni VPN (rete privata virtuale) non sono richieste. Le organizzazioni possono pubblicare un server Client Access in locale per consentire agli utenti di accedere alla cassetta postale principale tramite Outlook Anywhere, senza richiedere una connessione VPN. Se viene richiesto l'accesso VPN per accedere alla cassetta postale principale dell'utente situata su un server in locale, tale requisito non viene modificato.
 ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467183"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245062"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Funzionalità client in Archiviazione Exchange Online
 

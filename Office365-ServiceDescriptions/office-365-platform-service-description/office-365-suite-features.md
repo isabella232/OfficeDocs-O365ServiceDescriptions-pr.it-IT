@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
 ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764834"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247192"
 ---
 # <a name="office-365-suite-features"></a>Funzionalità della famiglia di prodotti Office 365
 

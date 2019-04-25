@@ -10,11 +10,11 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 8cdba6f181613cd1bb9e3c268f240d9e4dd516f0
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30052531"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247172"
 ---
 ---
 
@@ -49,7 +49,8 @@ Microsoft 365 Government è stato creato in modo univoco per soddisfare i requis
 
 **Community Exclusive.** I data center governativi sono disponibili solo per agenzie o reparti governativi o società commerciali che sono state autorizzate a conservare e controllare le informazioni gestite per conto del governo degli Stati Uniti.
 
-**Personale** sottoPosto a screening. L'accesso al contenuto del cliente dell'organizzazione è limitato a personale Microsoft sottoposto a screening che è cittadino statunitense e ha superato i controlli precedenti richiesti. Controlli di terze parti. Tutte le infrastrutture sono controllate da un revisore di terze parti certificato che fornisce un rapporto di valutazione della sicurezza o una lettera di attestazione utilizzata dalle agenzie federali per emettere un'autorizzazione per il funzionamento (ATO). 
+**Personale sottoposto a screening.** L'accesso al contenuto del cliente dell'organizzazione è limitato a personale Microsoft sottoposto a screening che è cittadino statunitense e ha superato i controlli precedenti richiesti.
+Controlli di terze parti. Tutte le infrastrutture sono controllate da un revisore di terze parti certificato che fornisce un rapporto di valutazione della sicurezza o una lettera di attestazione utilizzata dalle agenzie federali per emettere un'autorizzazione per il funzionamento (ATO). 
 
 **Archiviazione del contenuto.** I dati vengono archiviati all'interno degli Stati Uniti continentali con infrastruttura conforme. Nella tabella seguente sono riepilogati Microsoft 365 per gli ambienti e gli impegni del governo degli Stati Uniti.
 

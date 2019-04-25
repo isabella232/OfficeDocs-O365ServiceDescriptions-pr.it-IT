@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 'A partire dall’aggiornamento di dicembre 2016 per Dynamics 365 (online e locale), la funzionalità Dynamics CRM è ora inclusa come parte di 365 Dynamics, una famiglia di applicazioni di business intelligence. Dynamic 365 unisce le caratteristiche relative a Customer Relationship Management (CRM) e a Enterprise Resource Planning (ERP) offrendo nuove applicazioni che consentono di gestire specifiche funzioni aziendali. '
 ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467213"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246522"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Descrizione del servizio Microsoft Dynamics 365 (online)
 
@@ -79,13 +79,13 @@ Di seguito è fornito un riepilogo di alto livello dei diritti d'utilizzo associ
 |**Gestione delle informazioni, hub del servizio interattivo** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Registrare i tempi e costi, gestire informazioni personali, presentare domanda per progetti** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Entità personalizzate** <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |
-|**Doppi diritti d'utilizzo per CAL Dynamics 365 equivalente (se disponibile)** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Completo  <br/> |
+|**Doppi diritti d'utilizzo per CAL Dynamics 365 equivalente (se disponibile)** <br/> |Completo  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Completo  <br/> |
 |**Eseguire i flussi di lavoro e i processi su richiesta** <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |
-|**Diritti per Microsoft Project Online Essentials, Gamification Fan e Spectator** <br/> |Completo  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**Diritti per Microsoft Project Online Essentials, Gamification Fan e Spectator** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Solo portale: inoltro casi serlf-service e avvio chat come supportee (non agente)** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |
 |**Solo portale, solo non dipendenti: aggiornare gli ordini di lavoro, creare e aggiornare le opportunità** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup>`  <br/> |
 |**Report utenti, dashboard e grafici** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Configurare report di sistema, grafici di sistema, dashboard di sistema** <br/> |Nessuna  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
+|**Configurare report di sistema, grafici di sistema, dashboard di sistema** <br/> |Nessuno  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
 |**Lead, opportunità, obiettivi, contratti, offerte, ordini, fatture, concorrenti** <br/> |Sola lettura  <br/> |Completa  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
 |**Campagne di vendita, mini-campagne, elenchi di marketing, listini prezzi, liste prodotti** <br/> |Sola lettura  <br/> |Completa  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
 |**Unified Service Desk** <br/> |Sola lettura  <br/> |Completa  <br/> |Full  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
@@ -93,7 +93,7 @@ Di seguito è fornito un riepilogo di alto livello dei diritti d'utilizzo associ
 |**Ordini di lavoro, pianificazione e invio con bacheca di programmazione, contratti di assistenza, fatture per assistenza sul posto e ordini di acquisto, risorse del cliente, inventario, riparazioni e restituzioni** <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |Sola lettura  <br/> |Completa  <br/> |
 |**Progetto, spese e stime del progetto, visualizzazione della disponibilità delle risorse e gestione della pianificazione, listini prezzi/contratti/fatture del progetto, approvazione delle transazioni del progetto, Microsoft Project Online Premium** <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |Full  <br/> |
 |**PowerApps** <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Full  <br/> |
-|**Microsoft Social Engagement, Voice of Customer, Mobile Offline, Gamification Player and Admin** <br/> |Nessuna  <br/> |Completo  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**Microsoft Social Engagement, Voice of Customer, Mobile Offline, Gamification Player and Admin** <br/> |Nessuno  <br/> |Completo  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Creare flussi di lavoro, importazione globale di dati e personalizzazioni tra entità incluse nell'applicazione** <br/> |Nessuno  <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Completo  <br/> |
    
  **Completo** = tutti i diritti di accesso 

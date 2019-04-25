@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
 ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764824"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246415"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -59,7 +59,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Video di Office 365  <br/> |No  <br/> |No  <br/> |
 |Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|[Office 365 administration features](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione dei contenuti con Azure Information Protection  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |
 |[Gestione degli account utente](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |

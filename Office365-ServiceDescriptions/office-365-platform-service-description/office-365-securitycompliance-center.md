@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
 ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833858"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247212"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -29,7 +29,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 governo degli Stati Uniti F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 governo degli Stati Uniti F1** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Gestione delle minacce](https://go.microsoft.com/fwlink/?linkid=845550), ad esempio, filtro delle e-mail e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |

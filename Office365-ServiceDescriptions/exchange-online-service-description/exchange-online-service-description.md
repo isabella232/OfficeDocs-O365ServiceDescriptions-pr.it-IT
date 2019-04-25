@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Per informazioni sulle funzionalità di confronto tra le sottoscrizioni di Office 365 che includono Exchange Online, vedere In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
 ms.openlocfilehash: 5f30525e37aa4cf71815fcd8670bc2965a62ab4b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467953"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246252"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -199,7 +199,7 @@ Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Busine
 
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
+|**Funzionalità** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online piano 1** <br/> |**Exchange Online piano 2** <br/> |**Chiosco Exchange Online** <br/> |
 |**[Pianificazione e distribuzione](planning-and-deployment.md)** <br/> ||||||
 |Distribuzione ibrida supportata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>23</sup> <br/> |
 |Migrazione IMAP supportata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |

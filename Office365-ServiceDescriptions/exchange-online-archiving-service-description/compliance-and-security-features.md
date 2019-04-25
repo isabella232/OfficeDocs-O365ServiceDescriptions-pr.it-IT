@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467793"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245052"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Funzionalità di conformità e sicurezza in Archiviazione Exchange Online
 

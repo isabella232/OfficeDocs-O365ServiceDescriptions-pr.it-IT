@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Con Office Online, diventa facile utilizzare e condividere file Office ovunque ci si trovi, da praticamente qualsiasi dispositivo, con una connessione Internet. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
 ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467453"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246962"
 ---
 # <a name="office-online-service-description"></a>Descrizione servizi Office Online
 

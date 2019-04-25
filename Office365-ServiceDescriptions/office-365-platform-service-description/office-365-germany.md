@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, provenienti da Data Center tedeschi, con data Residency in Germania e rigorose misure di accesso ai dati e di controllo tramite un modello di attendibilità dei dati univoco disciplinato dal diritto tedesco.
 ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955825"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247322"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -192,7 +192,7 @@ Utilizzare le tabelle seguenti per confrontare la disponibilità delle funzional
   
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germania Enterprise E3<sup>9</sup>** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germania Enterprise E3<sup>9</sup>** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |**Applicazioni di Office** <sup>1, 2</sup> <br/> |||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |N.<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |N.<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
