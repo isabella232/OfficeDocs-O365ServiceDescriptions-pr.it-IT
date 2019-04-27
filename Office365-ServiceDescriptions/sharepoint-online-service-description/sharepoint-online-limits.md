@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246612"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368369"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online
 
@@ -24,7 +24,7 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Office 365 Business Essentials o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 o SharePoint Online (piano 1 o 2)** <br/> | **Office 365 Enterprise F1** <br/> |
+|**Caratteristica** <br/> |**Office 365 Business Essentials o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 o SharePoint Online (piano 1 o 2)** <br/> | **Office 365 Enterprise F1** <br/> |
 |Spazio di archiviazione<sup>1, 2</sup> <br/> |1 TB per ogni organizzazione più 10 GB per licenza acquistata  <br/> |1 TB per ogni organizzazione più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB per ogni organizzazione<sup>3</sup> <br/> |
 |Spazio di archiviazione per raccolte siti  <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>5</sup> <br/> |
 |Raccolte siti per ogni organizzazione  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> | 500.000<br/> |
@@ -43,7 +43,7 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
   
 ## <a name="service-limits-for-all-plans"></a>Limiti di servizio per tutti i piani
 
-- **Elementi in elenchi e raccolte** : un elenco può avere fino a 30 milioni elementi e una raccolta può avere fino a 30 milioni file e cartelle. Le visualizzazioni possono avere fino a 12 colonne di ricerca. Per ulteriori informazioni sulle altre limitazioni per la visualizzazione di elenchi di grandi dimensioni, vedere [gestire elenchi di grandi dimensioni e raccolte in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Per informazioni sui caratteri che non possono essere utilizzati nei nomi di file, vedere [caratteri non validi nei nomi di file e cartelle](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Elementi in elenchi e raccolte** : un elenco può avere fino a 30 milioni elementi e una raccolta può avere fino a 30 milioni file e cartelle. Dopo che sono stati aggiunti 100 elementi a un elenco, una raccolta o una cartella, non è possibile modificare l'ereditarietà delle autorizzazioni per l'elenco, la raccolta o la cartella. Per ulteriori informazioni sulle altre limitazioni per la visualizzazione di elenchi di grandi dimensioni, vedere [gestire elenchi di grandi dimensioni e raccolte in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Per informazioni sui caratteri che non possono essere utilizzati nei nomi di file, vedere [caratteri non validi nei nomi di file e cartelle](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - **Dimensione del file e lunghezza del percorso del file** -15 GB. Per ulteriori informazioni sulle restrizioni e sui limiti quando si utilizza il nuovo client di sincronizzazione di OneDrive (OneDrive. exe), vedere nomi di file [e tipi di file non validi in OneDrive, OneDrive for business e SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 

@@ -3,7 +3,7 @@ title: Continuità e integrità del servizio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/12/2019
+ms.date: 04/25/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
-ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247042"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368389"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
@@ -47,6 +47,13 @@ Lo spostamento in un servizio cloud non implica la possibilità di perdere la ca
 
 <br/>
 
+|**2019** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **T1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99,97% <br/> |  <br/> |  <br/> |  <br/> |
+
+<br/>
+
 |**2018** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **T1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
@@ -58,6 +65,8 @@ Lo spostamento in un servizio cloud non implica la possibilità di perdere la ca
 |:-----|:-----|:-----|:-----|
 | **T1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
 | 99.99% <br/> | 99,97% <br/> | 99,98% <br/> | 99.99% <br/> |
+
+<br/>
 
 ## <a name="notification-policy"></a>Criteri di notifica
 
@@ -147,4 +156,3 @@ Per ulteriori informazioni sul supporto, vedere l'argomento [Supporto](https://t
 
 Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   
-
