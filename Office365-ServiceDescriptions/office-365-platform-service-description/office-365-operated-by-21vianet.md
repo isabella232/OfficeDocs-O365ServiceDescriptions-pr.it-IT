@@ -3,7 +3,7 @@ title: Office 365 gestito da 21Vianet
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 04/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2fb0b7e9c83753e757d1efa87795047ffc403f4f
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247308"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544903"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -98,7 +98,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Office Delve  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Gruppi di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Video di Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>2</sup> <br/> |
-|Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>15<sup>  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**[Gestione degli account utente](user-account-management.md)** <br/> |**Office 365 Business Essentials gestito da 21Vianet** <br/> |**Office 365 Business gestito da 21Vianet** <br/> |**Office 365 Business Premium gestito da 21Vianet** <br/> |**Office 365 A1 gestito da 21Vianet** <br/> |**Office 365 Enterprise E1 gestito da 21Vianet** <br/> |**Office 365 Enterprise E3 gestito da 21Vianet** <br/> |**Office 365 Enterprise F1 gestito da 21Vianet** <br/> |
 |Identità del cloud, identità federata o autenticazione a più fattori<sup>14</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Strumento di configurazione desktop Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -159,7 +159,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Office 365 Business Essentials gestito da 21Vianet** <br/> |**Office 365 Business gestito da 21Vianet** <br/> |**Office 365 Business Premium gestito da 21Vianet** <br/> |**Office 365 A1 gestito da 21Vianet** <br/> |**Office 365 Enterprise E1 gestito da 21Vianet** <br/> |**Office 365 Enterprise E3 gestito da 21Vianet** <br/> |**Office 365 Enterprise F1 gestito da 21Vianet** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate al centro messaggi quando l'azione è obbligatoria, viene risolto un problema, vengono distribuite le funzionalità o le modifiche del servizio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Opzione per attivare Rilascio assegnato  <br/> |No  <br/> |--  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Guida e formazione](help-and-training.md)** <br/> |**Office 365 Business Essentials gestito da 21Vianet** <br/> |**Office 365 Business gestito da 21Vianet** <br/> |**Office 365 Business Premium gestito da 21Vianet** <br/> |**Office 365 A1 gestito da 21Vianet** <br/> |**Office 365 Enterprise E1 gestito da 21Vianet** <br/> |**Office 365 Enterprise E3 gestito da 21Vianet** <br/> |**Office 365 Enterprise F1 gestito da 21Vianet** <br/> |
 |Guida online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -210,6 +210,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 <br/><sup>12</sup> alcuni contenuti TechNet potrebbero non essere applicabili a Office 365 gestito da 21ViaNet. 
 <br/><sup>13</sup> esperienza ridotta. Se l'organizzazione dipende da Internet Explorer 8 o Internet Explorer 9 per accedere alle applicazioni Web e ai servizi meno recenti, è consigliabile eseguire l'aggiornamento a Internet Explorer 11 e valutare la modalità organizzazione per Internet Explorer 11. Questo aggiornamento consente di fornire una migliore compatibilità con le versioni precedenti delle applicazioni Web legacy. 
 <br/><sup>14</sup> l'autenticazione a più fattori attualmente non è supportata in Outlook Mobile (iOS e Android). 
+<br/><sup>15</sup> il blocco appunti di OneNote è disponibile tramite 21ViaNet, ma la barra degli strumenti del blocco appunti della classe OneNote non è disponibile per le app di Windows 10, iPad o OneNote online.
   
 ## <a name="office-365-application-features"></a>Funzionalità delle applicazioni di Office 365
 <a name="BM3_OfficeApp"> </a>
@@ -233,7 +234,7 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |Microsoft Visio Pro<sup>10</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |N.<sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[App di Windows 8](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[App di Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Office per Mac per Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |N.<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Office Mobile per iPhone/iPad](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>5</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -421,7 +422,7 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 <br/><sup>2</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate. 
 <br/><sup>3</sup> le regole di trasporto sono costituite da criteri flessibili, che consentono di definire le condizioni e le eccezioni e le azioni da intraprendere in base ai criteri. I criteri e le azioni disponibili sono diversi tra Exchange Online e Microsoft Exchange Server 2013. Per un elenco dei criteri e delle azioni disponibili, vedere i corrispondenti argomenti per ciascun prodotto. 
 <br/><sup>4</sup> accessibile solo tramite accesso diretto all'interfaccia di gestione di Exchange Admin Center (EAC). 
-<br/><sup>5</sup> Exchange Server 2013 utilizza solo il motore antiMalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. 
+<br/><sup>5</sup> Exchange Server 2013 utilizza solo il motore antimalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. 
 <br/><sup>6</sup> è possibile acquistare una sottoscrizione EOA per ciascuna cassetta postale che necessita della funzionalità di cassette postali inattive. 
 <<br/>sup>7</sup> per eDiscovery, è necessaria una query separata per il cloud locale. 
 <br/><sup>8</sup> pop è supportato, ma IMAP non lo è. 
@@ -692,10 +693,10 @@ Ogni piano di Office 365 include il servizio SharePoint Online, ma non tutti i p
 |[Catalogo](../sharepoint-online-service-description/content.md#catalog) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Pagina categoria e pagina elementi di catalogo](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Web part di ricerca](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
-|[Pubblicazione interSito](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|[Pubblicazione intersito](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |WCM: Designer Tools <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Spostamento in base a facet](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |N.<sup>7</sup> <br/> |No  <br/> |
-|[Copie trasFormate di immagini](../sharepoint-online-service-description/content.md#image-renditions) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|[Copie trasformate di immagini](../sharepoint-online-service-description/content.md#image-renditions) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |WCM: Managed navigation <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |WCM: Mobile and Device Rendering <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |WCM: Multiple Domains <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |

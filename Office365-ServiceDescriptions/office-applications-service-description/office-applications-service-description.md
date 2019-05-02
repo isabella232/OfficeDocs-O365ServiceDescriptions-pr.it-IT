@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 96b453fd96234c3082f6f665c14ace898e3668b4
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368359"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544933"
 ---
 # <a name="office-applications-service-description"></a>Descrizione servizio applicazioni Office
 
@@ -52,7 +52,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |No  <br/> |Sì<sup>11</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>5, 10</sup> <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Sì  <br/> |Sì<sup>12</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[App di Windows 8](office-applications.md#windows-8-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[App di Windows 10](office-applications.md#windows-10-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Office per Mac per Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Office Mobile per iPhone/iPad](office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sì<sup>13</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Office Mobile per Android](office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sì<sup>13</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
