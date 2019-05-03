@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544843"
+ms.locfileid: "33553485"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
@@ -454,6 +454,8 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
     
 - **Numero di reindirizzamenti di un messaggio** Numero di volte in cui un messaggio verrà reindirizzato, inoltrato o a cui verrà risposto automaticamente sulla base delle regole di Posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene eliminato senza inviare un rapporto di MANCAto recapito (NDR) all'utente B che indica che il messaggio non è stato recapitato all'utente C. È possibile utilizzare l'intestazione X-MS-Exchange-Inbox-rules-loop per determinare il numero di reindirizzamenti di un messaggio. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
 
+- **Numero di volte in cui un messaggio viene reindirizzato dalle regole di trasporto** Il numero di volte in cui un messaggio verrà reindirizzato in base alle regole di trasporto. Ad esempio, l'organizzazione di Exchange Tilt Toys dispone di una regola di trasporto per reindirizzare tutti i messaggi inviati dall'utente a all'utente B che si trova nell'organizzazione di Exchange Contoso. All'interno dell'organizzazione di Exchange Contoso è presente una regola di trasporto per reindirizzare tutti i messaggi inviati all'utente B all'utente C che si trova nell'organizzazione di Exchange A. Datum Corporation. In questo caso, il messaggio viene eliminato e un rapporto di mancato recapito (NDR) con codice di stato e rifiuto del messaggio *550 trasporto 5.7.128. Regole. RejectMessage Il numero di cicli delle regole di trasporto superato e il messaggio rifiutato* viene inviato all'utente a. È possibile utilizzare l'intestazione X-MS-Exchange-Transport-Rules-loop per determinare il numero di volte in cui un messaggio è stato reindirizzato dalle regole di trasporto. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Limiti delle regole di journal, trasporto e Posta in arrivo nelle opzioni di Office 365
 
 ||||||||
@@ -467,6 +469,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 |Numero massimo di destinatari aggiunti a un messaggio da tutte le regole di trasporto|100 destinatari|100 destinatari|100 destinatari|100 destinatari|100 destinatari|100 destinatari|
 |Limite di inoltri|10 destinatari|10 destinatari|10 destinatari|10 destinatari|10 destinatari|10 destinatari|
 |Numero di reindirizzamenti di un messaggio|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
+|Numero di volte in cui un messaggio viene reindirizzato dalle regole di trasporto|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limiti delle regole di journal, trasporto e Posta in arrivo nelle opzioni autonome
 
@@ -480,6 +483,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 |Numero massimo di destinatari aggiunti a un messaggio da tutte le regole di trasporto|Nessun limite|100 destinatari|100 destinatari|100 destinatari|
 |Limite di inoltri|Nessun limite|10 destinatari|10 destinatari|10 destinatari|
 |Numero di reindirizzamenti di un messaggio|3 reindirizzamenti|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
+|Numero di volte in cui un messaggio viene reindirizzato dalle regole di trasporto|Nessun limite|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
 
 ## <a name="moderation-limits"></a>Limiti di moderazione
 <a name="ModerationLimits"> </a>
