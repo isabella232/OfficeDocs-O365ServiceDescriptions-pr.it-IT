@@ -3,7 +3,7 @@ title: Office 365 Education
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 combina la consueta di Microsoft Office per desktop con le versioni su cloud dei più innovativi servizi di comunicazione e collaborazione di Microsoft, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office Online e Microsoft Skype for Business online, per favorire la produttività degli utenti ovunque si trovino grazie a Internet.
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544973"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621926"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -698,7 +698,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Numero massimo di regole di journal  <br/> |10 regole  <br/> |10 regole  <br/> |10 regole  <br/> |
+|Numero massimo di regole di journal  <br/> |50 regole  <br/> |50 regole  <br/> |50 regole  <br/> |
 |Numero massimo di regole di trasporto  <br/> |300 regole  <br/> |300 regole  <br/> |300 regole  <br/> |
 |Dimensione massima di una singola regola di trasporto  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |Il limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |

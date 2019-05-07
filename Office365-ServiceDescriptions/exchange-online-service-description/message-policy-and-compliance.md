@@ -3,7 +3,7 @@ title: Criteri dei messaggi e conformità
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246542"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621876"
 ---
 # <a name="message-policy-and-compliance"></a>Criteri dei messaggi e conformità
 
@@ -82,7 +82,7 @@ I server di Office 365 utilizzano BitLocker per crittografare le unità disco ch
 
 Oltre a BitLocker, viene utilizzata una tecnologia denominata Distributed Key Manager (DKM). DKM è una funzionalità sul retro del client che utilizza un set di chiavi segrete per crittografare e decrittografare le informazioni. Solo i membri di un gruppo di sicurezza specifico in servizi di dominio Active Directory possono accedere a tali chiavi per decrittografare i dati crittografati da DKM. In Exchange Online, fanno parte di quel determinato gruppo di sicurezza solo determinati account di servizio nei quali sono in esecuzione i processi di Exchange. Nell'ambito della procedura operativa standard nel datacenter, le credenziali che fanno parte del gruppo di sicurezza non vengono fornite a nessuno; pertanto, nessuno ha accesso alle chiavi in grado di decrittografare le informazioni riservate.
   
-## <a name="customer-key"></a>Chiave cliente
+## <a name="customer-key"></a>Customer Key
 
 Con il codice "Customer Key", è possibile controllare le chiavi di crittografia dell'organizzazione e quindi configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file archiviati in SharePoint Online e OneDrive for business. Per ulteriori informazioni, vedere [controllo dei dati in office 365 utilizzando la crittografia del servizio e la chiave del cliente](https://go.microsoft.com/fwlink/?linkid=863349) [con la chiave del cliente per le domande frequenti su Office 365](https://go.microsoft.com/fwlink/?linkid=869438).
   
@@ -90,7 +90,9 @@ Con il codice "Customer Key", è possibile controllare le chiavi di crittografia
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 La crittografia dei messaggi di Office 365 consente agli utenti di inviare messaggi di posta elettronica crittografati a qualsiasi utente. Sono state annunciate nuove funzionalità nella crittografia dei messaggi di Office che sfruttano le funzionalità di protezione nella crittografia delle informazioni di Azure. Queste nuove funzionalità hanno fornito esperienze degli utenti finali avanzate che facilitano la condivisione e la collaborazione dei messaggi protetti con chiunque sia all'interno che all'esterno dell'organizzazione. Le nuove funzionalità di crittografia dei messaggi di Office presentano alcuni requisiti di installazione. Vedere Configurare le nuove funzionalità di crittografia dei messaggi di Office 365 basate su Azure Information Protection. I clienti sulla crittografia dei messaggi di Office 365 legacy non ottengono le nuove funzionalità senza seguire le istruzioni di installazione fornite sopra. Per ulteriori informazioni, vedere le [domande frequenti](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) su cosa è incluso nelle nuove funzionalità di crittografia dei messaggi di Office 365. 
-  
+
+La crittografia avanzata dei messaggi di Office 365 fornisce ulteriore protezione consentendo la scadenza e la revoca del messaggio.  È inoltre possibile creare più modelli per i messaggi di posta elettronica crittografati provenienti dall'organizzazione.  La crittografia avanzata dei messaggi è inclusa in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (nonprofit staff pricing), Office 365 Enterprise E5 (nonprofit staff pricing) o Office 365 Education a5. Se l'organizzazione dispone di un abbonamento a Office 365 che non include la crittografia dei messaggi avanzata di Office 365, è possibile acquistare la conformità Microsoft 365 E5 o la SKU di Office 365 Advanced Compliance come componente aggiuntivo.
+
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
 

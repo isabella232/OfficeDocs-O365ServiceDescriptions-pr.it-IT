@@ -3,7 +3,7 @@ title: Limiti Exchange Online Limits
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
-ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
+ms.openlocfilehash: dd9d4584115fa32a5ae69b4481d43256a1d1f179
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33553485"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621886"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
@@ -461,7 +461,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Numero massimo di regole di journal|10 regole|10 regole|10 regole|10 regole|10 regole|10 regole|
+|Numero massimo di regole di journal|50 regole|50 regole|50 regole|50 regole|50 regole|50 regole|
 |Numero massimo di regole di trasporto|300 regole|300 regole|300 regole|300 regole|300 regole|300 regole|
 |Dimensione massima di una singola regola di trasporto|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Il limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
@@ -476,7 +476,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
-|Numero massimo di regole di journal|Nessun limite|10 regole|10 regole|10 regole|
+|Numero massimo di regole di journal|Nessun limite|50 regole|50 regole|50 regole|
 |Numero massimo di regole di trasporto|Nessun limite|300 regole|300 regole|300 regole|
 |Dimensione massima di una singola regola di trasporto|40 KB|8 KB|8 KB|8 KB|
 |Il limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto|Nessun limite|20 KB|20 KB|20 KB|
