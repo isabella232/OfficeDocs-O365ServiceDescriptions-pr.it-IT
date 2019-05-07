@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel online (in precedenza Excel Web App) consente di estendere la propria esperienza Microsoft Excel al Web browser, in cui è possibile lavorare con le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file utilizzando Office Online.
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621826"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641622"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di 
 <a name="bkmk_HideUnhide"> </a>
 
 È possibile nascondere e visualizzare righe, colonne e fogli in una cartella di lavoro in Excel Online.
- 
-## <a name="ideas"></a>Idee
-<a name="Ideas"> </a>
-
-Le idee consentono di comprendere i dati tramite riassunti visivi di alto livello, tendenze e modelli. È sufficiente fare clic su una cella di un intervallo di dati e quindi fare clic sul pulsante idee nella scheda Home. ulteriori informazioni sulle [idee](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Non è disponibile in Excel Online. È possibile visualizzare risultati di anali
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizi Office Online](office-online-service-description.md). 
-
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizi Office Online](office-online-service-description.md).

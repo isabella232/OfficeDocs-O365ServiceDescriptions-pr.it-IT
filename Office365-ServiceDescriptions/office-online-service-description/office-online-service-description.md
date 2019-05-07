@@ -3,7 +3,7 @@ title: Descrizione servizi Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Con Office Online, diventa facile utilizzare e condividere file Office ovunque ci si trovi, da praticamente qualsiasi dispositivo, con una connessione Internet. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621866"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641632"
 ---
 # <a name="office-online-service-description"></a>Descrizione servizi Office Online
 
@@ -111,7 +111,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Zoom](word-online.md#zoom) <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> queste eseguono il rendering nel Visualizzatore, ma non è possibile crearle o modificarle in Office Online. > <sup>2</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. 
+> <sup>1</sup> queste eseguono il rendering nel Visualizzatore, ma non è possibile crearle o modificarle in Office Online. <br/>
+> <sup>2</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[GoTo](excel-online.md#goto) <br/> |Sì  <br/> |Sì  <br/> |
 |[Dati del gruppo](excel-online.md#group-data) <br/> |Sì  <br/> |Sì  <br/> |
 |[Nascondi/scopri righe, colonne e fogli](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Sì  <br/> |Sì  <br/> |
-|[Idee](excel-online.md#ideas) <br/> |Sì  <br/> |Sì  <br/> |
 |[Inserimento dei grafici](excel-online.md#insert-charts) <br/> |Sì  <br/> |Sì  <br/> |
 |[Inserimento/eliminazione di righe e colonne](excel-online.md#insertdelete-rows-and-columns) <br/> |Sì  <br/> |Sì  <br/> |
 |[Inserire immagini](excel-online.md#insert-pictures) <br/> |Sì  <br/> |Sì  <br/> |
@@ -193,6 +193,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Visualizzazione di grafici 3D](excel-online.md#view-3d-charts) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti di analisi What if](excel-online.md#what-if-analysis-tools) <br/> |No  <br/> |Sì  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup> non è possibile creare grafici pivot, solo visualizzazione.
  <br/><sup>2</sup> a seconda del modo in cui l'ambiente è configurato, sono supportati alcuni tipi di connessioni dati per le cartelle di lavoro visualizzate in Excel online. Per ulteriori informazioni, vedere aggiornamento dei dati in una cartella di lavoro in una finestra del browser. 
  <br/><sup>3</sup> non è possibile creare macro con VBA in Excel online, ma è possibile aprire e modificare fogli di calcolo abilitaTI a VBA senza rimuovere (o corrompere) il VBA contenuto nel file.
@@ -298,7 +299,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Visualizzazione e aggiunta dei commenti](powerpoint-online.md#view-and-add-comments) <br/> |Sì  <br/> |Sì  <br/> |
 |[Visualizzazione e modifica delle note sulle diapositive](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Sì  <br/> |Sì  <br/> |
 |[Visualizzazione WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sì  <br/> |Sì  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint online supporta una raccolta di otto transizioni e animazioni 37. Per una selezione più ampia o per creare animazioni personalizzate, utilizzare l'app desktop PowerPoint. 
  <br/><sup>2</sup> il dispositivo a cui si sta lavorando deve supportare l'input penna. 
  <br/> <sup>3</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. 
@@ -333,7 +335,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |OpenDocument (.odp)  <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Le macro non possono essere eseguite o modificate. > <sup>2</sup> Se sono presenti delle macro, gli utenti sono inviati a rimuovere una copia del file con le macro. 
+> <sup>1</sup> Le macro non possono essere eseguite o modificate.<br/>
+> <sup>2</sup> Se sono presenti delle macro, gli utenti sono inviati a rimuovere una copia del file con le macro.<br/> 
   
 > [!NOTE]
 > È possibile creare formati di file più recenti (ad esempio,. docx,. XLSL e. pptx) in Office 2016, 2013, 2010 o 2007 oppure in Office 2000 e versioni successive con il pacchetto di compatibilità. 

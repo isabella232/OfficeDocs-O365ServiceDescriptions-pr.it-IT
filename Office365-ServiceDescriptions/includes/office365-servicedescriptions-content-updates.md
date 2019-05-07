@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-25-2019"></a>Settimana del 25 marzo 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 3/26/2019 | [Descrizione del servizio Office 365 Engineering Direct](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | modificato |
-| 3/28/2019 | [Descrizione del servizio Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | modificato |
-| 3/28/2019 | [Installazione e amministrazione di Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | modificato |
-| 3/28/2019 | [Descrizione del servizio Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modificato |
-| 3/28/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | modificato |
-| 3/28/2019 | [Office 365 gestito da 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modificato |
-| 3/28/2019 | [Descrizione del servizio della piattaforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificato |
-
-
 ## <a name="week-of-april-01-2019"></a>Settimana del 1 aprile 2019
 
 
@@ -71,3 +57,27 @@
 | 4/26/2019 | [Continuità e integrità del servizio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificato |
 | 4/26/2019 | [Descrizione servizio applicazioni Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificato |
 | 4/26/2019 | [Limiti di SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificato |
+
+
+## <a name="week-of-april-29-2019"></a>Settimana del 29 aprile 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 5/1/2019 | [Limiti di Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificato |
+| 5/1/2019 | [Office 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | modificato |
+| 5/1/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | modificato |
+| 5/1/2019 | [Office 365 gestito da 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modificato |
+| 5/1/2019 | [Applicazioni di Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications) | modificato |
+| 5/1/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modificato |
+| 5/1/2019 | [Descrizione del servizio Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificato |
+| 5/1/2019 | [Descrizione servizio applicazioni Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificato |
+| 5/2/2019 | [Limiti di Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificato |
+| 5/3/2019 | [Limiti di Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificato |
+| 5/3/2019 | [Office 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | modificato |
+| 5/3/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modificato |
+| 5/3/2019 | [Conformità e criteri dei messaggi](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | modificato |
+| 5/3/2019 | [Descrizione del servizio Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificato |
+| 5/3/2019 | [Gestione portfolio](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | modificato |
+| 5/3/2019 | [Gestione dei progetti](/Office365/ServiceDescriptions/project-online-service-description/project-management) | modificato |
+| 5/3/2019 | [Descrizione del servizio Project Online](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | modificato |
