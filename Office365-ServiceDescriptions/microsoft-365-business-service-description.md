@@ -3,7 +3,7 @@ title: Descrizione del servizio Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/08/2019
+ms.date: 05/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: b338785ee74f3df1be9a85b41ee40d0116247154
+ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246415"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33973354"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -62,6 +62,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione dei contenuti con Azure Information Protection  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |
+|Shared computer activation <br/> |No <br/> |Sì  <br/> |
 |[Gestione degli account utente](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Configurazione desktop Office 365  <br/> |Sì  <br/> |Sì  <br/> |
 |Caricamento in massa tramite file csv  <br/> |Sì  <br/> |Sì  <br/> |
