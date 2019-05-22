@@ -4,17 +4,17 @@ ms.author: danarl
 author: danarl
 manager: mnirkhe
 ms.date: 1/28/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c01d790b6c484aa618bc98b8def3bfa0c098a16c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247172"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343235"
 ---
 ---
 
@@ -25,7 +25,7 @@ In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stat
 ## <a name="whats-microsoft-365-government"></a>Che cos'è Microsoft 365 Government?
 <a name="TopOfPage"> </a>
 
-Microsoft 365 Government è un insieme di funzionalità software cloud per la produttività, la sicurezza e la mobilità specifiche appositamente studiate per gli enti governativi e gli appaltatori degli Stati Uniti sponsorizzati per mantenere le informazioni controllate e non classificate. ReCapitato tramite ambienti univoci che soddisfano i requisiti di conformità più rigorosi, Microsoft 365 Government è un'offerta cloud per i clienti del governo degli Stati Uniti, che corrisponde il più fedelmente possibile alle caratteristiche e alle funzionalità di Microsoft Commercial cloud. Offerte Enterprise. 
+Microsoft 365 Government è un insieme di funzionalità software cloud per la produttività, la sicurezza e la mobilità specifiche appositamente studiate per gli enti governativi e gli appaltatori degli Stati Uniti sponsorizzati per mantenere le informazioni controllate e non classificate. Recapitato tramite ambienti univoci che soddisfano i requisiti di conformità più rigorosi, Microsoft 365 Government è un'offerta cloud per i clienti del governo degli Stati Uniti, che corrisponde il più fedelmente possibile alle caratteristiche e alle funzionalità di Microsoft Commercial cloud. Offerte Enterprise. 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Qual è il valore del governo Microsoft 365?
 <a name="BM1_About"> </a>
@@ -135,7 +135,7 @@ Eseguire la procedura seguente per acquistare le licenze governative di Microsof
 
 - Soluzioni integrate C3
 - Soluzioni di KTL, Inc.
-- DeCollo, LLC
+- Decollo, LLC
 - Planet Technologies
 - Sistemi Summit 7
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/06/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-online-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Con Office Online, diventa facile utilizzare e condividere file Office ovunque ci si trovi, da praticamente qualsiasi dispositivo, con una connessione Internet. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663290"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343784"
 ---
 # <a name="office-online-service-description"></a>Descrizione servizi Office Online
 
@@ -196,7 +196,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 > [!NOTE] 
 > <sup>1</sup> non è possibile creare grafici pivot, solo visualizzazione.
  <br/><sup>2</sup> a seconda del modo in cui l'ambiente è configurato, sono supportati alcuni tipi di connessioni dati per le cartelle di lavoro visualizzate in Excel online. Per ulteriori informazioni, vedere aggiornamento dei dati in una cartella di lavoro in una finestra del browser. 
- <br/><sup>3</sup> non è possibile creare macro con VBA in Excel online, ma è possibile aprire e modificare fogli di calcolo abilitaTI a VBA senza rimuovere (o corrompere) il VBA contenuto nel file.
+ <br/><sup>3</sup> non è possibile creare macro con VBA in Excel online, ma è possibile aprire e modificare fogli di calcolo abilitati a VBA senza rimuovere (o corrompere) il VBA contenuto nel file.
  <br/><sup>4</sup> in Excel online, l'ultimo valore di riferimento conosciuto viene visualizzato nella finestra del browser. Tuttavia, deve essere aggiornato utilizzando l'app desktop Excel. 
  <br/><sup>5</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. 
   

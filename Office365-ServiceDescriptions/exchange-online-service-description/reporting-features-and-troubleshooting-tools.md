@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-reporting-features-and-troubleshooting-tools
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre una vasta gamma di funzionalità di Reporting sia all'interno che all'esterno dell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 71aa0910dc343ecca228e47af0141ac49f556ccd
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246372"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342875"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di reporting e risoluzione dei problemi
 

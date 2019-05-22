@@ -3,7 +3,7 @@ title: Criteri dei messaggi e conformità
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: b0e99d521ea56de91dcb7679aec5addbe9869f80
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621876"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342815"
 ---
 # <a name="message-policy-and-compliance"></a>Criteri dei messaggi e conformità
 
@@ -35,17 +35,18 @@ Gli amministratori utilizzano l'interfaccia di amministrazione di Exchange o Win
   
 Per ulteriori informazioni, vedere:
   
-- [Cassette postali di archiviazione in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421)
+- [Cassette postali di archiviazione in Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)
     
-- [Abilitare o disabilitare una cassetta postale di archiviazione in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425)
+- [Abilitare o disabilitare una cassetta postale di archiviazione in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
     
 ### <a name="archive-sizes"></a>Dimensioni degli archivi
 
 Ciascun archivio personale può contenere i dati di messaggistica di un solo utente. L'allocazione di spazio di archiviazione dipende dal piano di abbonamento. Per ulteriori informazioni sulle dimensioni delle cassette postali di archiviazione, vedere la sezione "Limiti di archiviazione delle cassette postali" in [Limiti Exchange Online Limits](exchange-online-limits.md).
   
 > [!IMPORTANT]
-> L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Microsoft si riserva il diritto di non consentire uno spazio di archiviazione illimitato nei casi in cui una cassetta postale di archiviazione non sia utilizzata in uno scenario personale. > L'archivio locale presenta specifici requisiti di licenza per gli utenti di Outlook. Gli utenti di Outlook 2007 devono disporre dell'aggiornamento cumulativo di Office 2007 del febbraio 2011 per poter accedere all'archivio personale. > Exchange Online non supporta il cmdlet  _New-MailboxImportRequest_ di Windows PowerShell in Exchange Server 2010 Service Pack 1 o versioni successive per l'importazione di file pst in un archivio personale da parte dell'amministratore. Se un utente dispone sia della cassetta postale principale sia dell'archivio in Exchange Online, un amministratore può utilizzare PST Capture, uno strumento gratuito, per importare i dati dei file pst nella cassetta postale principale o nell'archivio dell'utente. 
-  
+> - L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Microsoft si riserva il diritto di non consentire uno spazio di archiviazione illimitato nei casi in cui una cassetta postale di archiviazione non sia utilizzata in uno scenario personale. 
+> - L'archivio locale presenta specifici requisiti di licenza per gli utenti di Outlook. Gli utenti di Outlook 2007 devono disporre dell'aggiornamento cumulativo di Office 2007 del febbraio 2011 per poter accedere all'archivio personale. 
+> - Exchange Online non supporta il cmdlet _New-MailboxImportRequest_ di Windows PowerShell di exchange server 2010 Service Pack 1 o versioni successive per l'importazione guidata dall'amministratore dei file PST in un archivio personale. Se un utente dispone sia della cassetta postale principale sia dell'archivio in Exchange Online, un amministratore può utilizzare PST Capture, uno strumento gratuito, per importare i dati dei file pst nella cassetta postale principale o nell'archivio dell'utente. 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archiviazione basata su cloud delle cassette postali locali
 
 L'utilizzo di Exchange Online per l'archiviazione su cloud di cassette postali locali di Exchange Server 2010 o versioni successive è possibile tramite Archiviazione Microsoft Exchange Online, una soluzione di archiviazione su host fornita da Microsoft. Ciò richiede che l'organizzazione locale sia in modalità ibrida oppure sia impostata per l'archiviazione Exchange Online.
@@ -68,11 +69,11 @@ I criteri di conservazione disponibili Exchange Online sono gli stessi disponibi
 > [!IMPORTANT]
 > Le cartelle gestite, che rappresentano il precedente metodo di gestione dei record di messaggistica introdotto in Exchange Server 2007, non sono più disponibili in Exchange Online. 
   
-Per ulteriori informazioni, vedere [Tag di conservazione e criteri di conservazione](https://go.microsoft.com/fwlink/p/?LinkId=271745).
+Per ulteriori informazioni, vedere [Tag di conservazione e criteri di conservazione](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies).
   
 ## <a name="encryption-of-data-at-rest"></a>Crittografia dei dati statici
 
-La crittografia dei dati del cliente di Office 365 a riposo è fornita da più tecnologie sul fianco del servizio, tra cui BitLocker, DKM, crittografia del servizio di archiviazione di Azure e crittografia del servizio in Exchange Online, Skype for business, OneDrive for business e SharePoint Online. La crittografia dei servizi di Office 365 include un'opzione per l'utilizzo delle chiavi di crittografia gestite dal cliente archiviate in Azure Key Vault. Questa opzione di chiave gestita dal cliente, denominata [chiave del cliente di Office 365](https://go.microsoft.com/fwlink/?linkid=863349), è disponibile per Exchange Online, SharePoint Online e OneDrive for business. 
+La crittografia dei dati del cliente di Office 365 a riposo è fornita da più tecnologie sul fianco del servizio, tra cui BitLocker, DKM, crittografia del servizio di archiviazione di Azure e crittografia del servizio in Exchange Online, Skype for business, OneDrive for business e SharePoint Online. La crittografia dei servizi di Office 365 include un'opzione per l'utilizzo delle chiavi di crittografia gestite dal cliente archiviate in Azure Key Vault. Questa opzione di chiave gestita dal cliente, denominata [chiave del cliente di Office 365](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697), è disponibile per Exchange Online, SharePoint Online e OneDrive for business. 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -84,12 +85,12 @@ Oltre a BitLocker, viene utilizzata una tecnologia denominata Distributed Key Ma
   
 ## <a name="customer-key"></a>Customer Key
 
-Con il codice "Customer Key", è possibile controllare le chiavi di crittografia dell'organizzazione e quindi configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file archiviati in SharePoint Online e OneDrive for business. Per ulteriori informazioni, vedere [controllo dei dati in office 365 utilizzando la crittografia del servizio e la chiave del cliente](https://go.microsoft.com/fwlink/?linkid=863349) [con la chiave del cliente per le domande frequenti su Office 365](https://go.microsoft.com/fwlink/?linkid=869438).
+Con il codice "Customer Key", è possibile controllare le chiavi di crittografia dell'organizzazione e quindi configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file archiviati in SharePoint Online e OneDrive for business. Per ulteriori informazioni, vedere [controllo dei dati in office 365 utilizzando la crittografia del servizio e la chiave del cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697) [con la chiave del cliente per le domande frequenti su Office 365](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq?redirectSourcePath=%252fen-us%252farticle%252fservice-encryption-with-customer-key-for-office-365-faq-41ae293a-bd5c-4083-acd8-e1a2b4329da6).
   
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-La crittografia dei messaggi di Office 365 consente agli utenti di inviare messaggi di posta elettronica crittografati a qualsiasi utente. Sono state annunciate nuove funzionalità nella crittografia dei messaggi di Office che sfruttano le funzionalità di protezione nella crittografia delle informazioni di Azure. Queste nuove funzionalità hanno fornito esperienze degli utenti finali avanzate che facilitano la condivisione e la collaborazione dei messaggi protetti con chiunque sia all'interno che all'esterno dell'organizzazione. Le nuove funzionalità di crittografia dei messaggi di Office presentano alcuni requisiti di installazione. Vedere Configurare le nuove funzionalità di crittografia dei messaggi di Office 365 basate su Azure Information Protection. I clienti sulla crittografia dei messaggi di Office 365 legacy non ottengono le nuove funzionalità senza seguire le istruzioni di installazione fornite sopra. Per ulteriori informazioni, vedere le [domande frequenti](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) su cosa è incluso nelle nuove funzionalità di crittografia dei messaggi di Office 365. 
+La crittografia dei messaggi di Office 365 consente agli utenti di inviare messaggi di posta elettronica crittografati a qualsiasi utente. Sono state annunciate nuove funzionalità nella crittografia dei messaggi di Office che sfruttano le funzionalità di protezione nella crittografia delle informazioni di Azure. Queste nuove funzionalità hanno fornito esperienze degli utenti finali avanzate che facilitano la condivisione e la collaborazione dei messaggi protetti con chiunque sia all'interno che all'esterno dell'organizzazione. Le nuove funzionalità di crittografia dei messaggi di Office presentano alcuni requisiti di installazione. Vedere Configurare le nuove funzionalità di crittografia dei messaggi di Office 365 basate su Azure Information Protection. I clienti sulla crittografia dei messaggi di Office 365 legacy non ottengono le nuove funzionalità senza seguire le istruzioni di installazione fornite sopra. Per ulteriori informazioni, vedere le [domande frequenti](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) su cosa è incluso nelle nuove funzionalità di crittografia dei messaggi di Office 365. 
 
 La crittografia avanzata dei messaggi di Office 365 fornisce ulteriore protezione consentendo la scadenza e la revoca del messaggio.  È inoltre possibile creare più modelli per i messaggi di posta elettronica crittografati provenienti dall'organizzazione.  La crittografia avanzata dei messaggi è inclusa in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (nonprofit staff pricing), Office 365 Enterprise E5 (nonprofit staff pricing) o Office 365 Education a5. Se l'organizzazione dispone di un abbonamento a Office 365 che non include la crittografia dei messaggi avanzata di Office 365, è possibile acquistare la conformità Microsoft 365 E5 o la SKU di Office 365 Advanced Compliance come componente aggiuntivo.
 
@@ -98,7 +99,7 @@ La crittografia avanzata dei messaggi di Office 365 fornisce ulteriore protezion
 
 S/MIME consente di proteggere le informazioni riservate inviando messaggi di posta elettronica firmati e crittografati all'interno dell'organizzazione. Gli amministratori possono utilizzare Windows PowerShell in remoto per configurare S/MIME dopo aver stabilito e rilasciato i certificati PKI agli utenti. Tali certificati devono essere sincronizzati da un servizio certificati Active Directory locale.
   
-S/MIME è supportato in Internet Explorer 9 o versione successiva. Al momento, S/MIME non è supportato su Firefox, Opera e Chrome. Per ulteriori informazioni, vedere [S/MIME per la funzionalità di firma e crittografia dei messaggi](https://go.microsoft.com/fwlink/p/?LinkID=393973).
+S/MIME è supportato in Internet Explorer 9 o versione successiva. Al momento, S/MIME non è supportato su Firefox, Opera e Chrome. Per ulteriori informazioni, vedere [S/MIME per la funzionalità di firma e crittografia dei messaggi](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Blocco sul posto e blocco per controversia legale
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -128,7 +129,7 @@ Inoltre, è possibile utilizzare l'archiviazione sul posto per:
 > [!NOTE]
 > Quando imposta una cassetta postale sull'archiviazione sul posto o sul blocco per controversia legale, la conservazione interessa sia la cassetta postale primaria che quella di archiviazione. 
   
-Per ulteriori informazioni, vedere [Conservazione in locale](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+Per ulteriori informazioni, vedere [Conservazione in locale](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds).
   
 ## <a name="in-place-ediscovery"></a>eDiscovery sul posto
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -153,7 +154,7 @@ In Exchange Online, gli utenti autorizzati possono eseguire la funzionalità eDi
     
 - Copiare i messaggi restituiti nei risultati di ricerca in una cassetta postale di individuazione.
     
-Per ulteriori informazioni, vedere [eDiscovery in locale](http://go.microsoft.com/fwlink/p/?LinkId=271747).
+Per ulteriori informazioni, vedere [eDiscovery in locale](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery).
   
 ## <a name="mail-flow-rules"></a>Regole del flusso di posta
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -173,9 +174,9 @@ Molte organizzazioni sono oggi obbligate dalla legge, dai requisiti normativi e 
 - Applicazione di dichiarazioni di non responsabilità ai messaggi che transitano nell'organizzazione
     
 > [!IMPORTANT]
-> I tipi di file degli allegati che richiedono l'installazione di filtri iFilter di terze parti sul server di posta elettronica (ad esempio Adobe. pdf) non possono essere controllati utilizzando le regole del flusso di posta fino a quando non viene installato un filtro iFilter appropriato. Per ulteriori informazioni sui tipi di file supportati dalle regole del flusso di posta, vedere [Use Mail Flow Rules to inspect Message Attachments in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
+> I tipi di file degli allegati che richiedono l'installazione di filtri iFilter di terze parti sul server di posta elettronica (ad esempio Adobe. pdf) non possono essere controllati utilizzando le regole del flusso di posta fino a quando non viene installato un filtro iFilter appropriato. Per ulteriori informazioni sui tipi di file supportati dalle regole del flusso di posta, vedere [Use Mail Flow Rules to inspect Message Attachments in Office 365](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments). 
   
-Per ulteriori informazioni sulle regole del flusso di posta, vedere [Mail flow rules in Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488).
+Per ulteriori informazioni sulle regole del flusso di posta, vedere [Mail flow rules in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019).
   
 ## <a name="data-loss-prevention"></a>Prevenzione della perdita di dati
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -200,7 +201,7 @@ La funzionalità di prevenzione della perdita dei dati consente di identificare,
     
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
     
-Per ulteriori informazioni sulla prevenzione della perdita dei dati (DLP), vedere [Prevenzione della perdita dei dati](https://go.microsoft.com/fwlink/p/?LinkId=271749).
+Per ulteriori informazioni sulla prevenzione della perdita dei dati (DLP), vedere [Prevenzione della perdita dei dati](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
   
 ## <a name="journaling"></a>Inserimento nel journal
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -221,7 +222,7 @@ Per garantire una soluzione di inserimento nel journal corretta e affidabile, è
     
 - Fornire la necessaria interoperabilità con Exchange Server e il trasporto di Exchange inclusi i formati dei messaggi, l'integrazione delle informazioni su mittente/destinatario e l'appropriata conversione dei contenuti.
     
-Per informazioni sull'inserimento nel journal, vedere [Inserimento nel journal](https://go.microsoft.com/fwlink/p/?LinkId=271750).
+Per informazioni sull'inserimento nel journal, vedere [Inserimento nel journal](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 <a name="bkmk_O365_MessageEncryption"> </a>

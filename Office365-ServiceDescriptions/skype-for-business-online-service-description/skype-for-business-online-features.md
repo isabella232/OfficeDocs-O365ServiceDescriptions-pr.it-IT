@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: supotter
 ms.date: 10/9/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se si è un amministratore, è possibile trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for business online in Configurare Skype for business online.
-ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1f1da35799df6b51147a24127e0c5778eda8022a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246383"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342435"
 ---
 # <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business Online
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/17/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-applications-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: 07bec4e0280d310f4fbb553348aa8b4b4dd0bce6
-ms.sourcegitcommit: 3648328c4e8e74403134c46c528f4534687dbdec
+ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34158914"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343095"
 ---
 # <a name="office-applications-service-description"></a>Descrizione servizio applicazioni Office
 

@@ -3,7 +3,7 @@ title: Descrizione del servizio SharePoint Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,35 +15,35 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint online in Office 365 consente agli utenti di condividere e collaborare, di informare e coinvolgere gli altri all'interno dell'azienda, di trasformare i processi aziendali e di sfruttare le conoscenze collettive. Inoltre, SharePoint fornisce le funzionalità per le organizzazioni per la protezione e la gestione dei dati e per la creazione di soluzioni personalizzate. Per una panoramica rapida, vedere che cos'è SharePoint?
-ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cb5fece44554d57ee019b298fcf2aa9938cd6c48
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246602"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341835"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrizione del servizio SharePoint Online
 
-Microsoft SharePoint online in Office 365 consente agli utenti di condividere e collaborare, di informare e coinvolgere gli altri all'interno dell'azienda, di trasformare i processi aziendali e di sfruttare le conoscenze collettive. Inoltre, SharePoint fornisce le funzionalità per le organizzazioni per la protezione e la gestione dei dati e per la creazione di soluzioni personalizzate. Per una panoramica rapida, vedere [che cos'è SharePoint?](https://go.microsoft.com/fwlink/p/?LinkId=290976)
+Microsoft SharePoint online in Office 365 consente agli utenti di condividere e collaborare, di informare e coinvolgere gli altri all'interno dell'azienda, di trasformare i processi aziendali e di sfruttare le conoscenze collettive. Inoltre, SharePoint fornisce le funzionalità per le organizzazioni per la protezione e la gestione dei dati e per la creazione di soluzioni personalizzate. Per una panoramica rapida, vedere [che cos'è SharePoint?](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US)
   
-Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](http://go.microsoft.com/fwlink/?LinkID=799177&clcid=0x409).
   
 ## <a name="whats-new"></a>Novità
 
-Per informazioni sulle nuove funzionalità in SharePoint Online, vedere [Novità in SharePoint Online](https://go.microsoft.com/fwlink/?LinkId=271744).
+Per informazioni sulle nuove funzionalità in SharePoint Online, vedere [Novità in SharePoint Online](https://support.office.com/article/what-s-new-in-sharepoint-online-02449ef0-027e-4089-8717-f0ae7ea58029?ocmsassetID=HA104098441&CorrelationId=cf1c6949-7734-4168-b4b8-6be84a833a6e&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="system-requirements"></a>Requisiti di sistema
 
 Per i requisiti di sistema per Office 365, il servizio a sottoscrizione mensile per aziende, centri di istruzione ed enti pubblici, vedere [Requisiti di sistema di Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 > [!NOTE]
-> Un'organizzazione può implementare un ambiente SharePoint ibrido, composto da SharePoint Server 2013 o 2016, solitamente distribuito in locale, e SharePoint Online. Per ulteriori informazioni, vedere la pagina [Ambiente ibrido per SharePoint Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=286111) o [Ambiente ibrido per SharePoint Server 2016](https://go.microsoft.com/fwlink/?linkid=847872). 
+> Un'organizzazione può implementare un ambiente SharePoint ibrido, composto da SharePoint Server 2013 o 2016, solitamente distribuito in locale, e SharePoint Online. Per ulteriori informazioni, vedere la pagina [Ambiente ibrido per SharePoint Server 2013](https://docs.microsoft.com/SharePoint/hybrid/hybrid) o [Ambiente ibrido per SharePoint Server 2016](https://docs.microsoft.com/SharePoint/hybrid/hybrid). 
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>Limiti di SharePoint Online
 
 Esistono alcuni limiti per il servizio SharePoint online gestito da Microsoft, ad esempio le quote di raccolta siti, i limiti di caricamento dei file e i limiti di archiviazione. Per ulteriori informazioni, vedere [limiti di SharePoint Online](sharepoint-online-limits.md).
   
-Per ulteriori informazioni, vedere la pagina [Utilizzo di un dispositivo mobile per i siti di SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=290974).
+Per ulteriori informazioni, vedere la pagina [Utilizzo di un dispositivo mobile per i siti di SharePoint Online](https://support.office.com/article/use-a-mobile-device-to-work-with-sharepoint-online-sites-a99f2acf-381a-442c-b305-3e74c251bcb6?ocmsassetID=HA102891452&CTT=1&CorrelationId=67de4f00-eb38-4568-9c82-06a7139d6903&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="subscription-options"></a>Opzioni di sottoscrizione
 
@@ -57,7 +57,7 @@ OneDrive for Business (in precedenza SkyDrive Pro) è un servizio di archiviazio
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>Utenti esterni di SharePoint Online Enterprise
 
-Gli utenti esterni ereditano i diritti di utilizzi del cliente di SharePoint Online dal quale sono stati invitati a collaborare. Vale a dire che se un'organizzazione acquista un piano E3 Enterprise e crea un sito che utilizza funzionalità aziendali, all'utente esterno viene concesso il diritto di utilizzare e/o visualizzare le funzionalità aziendali all'interno della raccolta di siti alla quale è stato invitato. Se gli utenti esterni possono essere invitati come membri di un progetto esteso per eseguire una gamma completa di operazioni nel sito, non avranno le stesse funzionalità di un membro con licenza completa a pagamento all'interno dell'organizzazione. Scopri di più su [cosa possono e non possono fare gli utenti esterni](https://go.microsoft.com/fwlink/p/?LinkId=397616).
+Gli utenti esterni ereditano i diritti di utilizzi del cliente di SharePoint Online dal quale sono stati invitati a collaborare. Vale a dire che se un'organizzazione acquista un piano E3 Enterprise e crea un sito che utilizza funzionalità aziendali, all'utente esterno viene concesso il diritto di utilizzare e/o visualizzare le funzionalità aziendali all'interno della raccolta di siti alla quale è stato invitato. Se gli utenti esterni possono essere invitati come membri di un progetto esteso per eseguire una gamma completa di operazioni nel sito, non avranno le stesse funzionalità di un membro con licenza completa a pagamento all'interno dell'organizzazione. Scopri di più su [cosa possono e non possono fare gli utenti esterni](https://docs.microsoft.com/sharepoint/external-sharing-overview?redirectSourcePath=%252fen-us%252farticle%252fexternal-sharing-overview-c8a462eb-0723-4b0b-8d0a-70feafe4be85).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilità della funzionalità tra i piani Office 365
 <a name="bkmk_tableo365"> </a>
@@ -69,7 +69,6 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità per sviluppatori** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Access Services](developer.md#access-services) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
 |[Catalogo app (SharePoint)](developer.md#app-catalog-sharepoint) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Distribuzione di applicazioni: App ospitate su cloud](developer.md#app-deployment-cloud-hosted-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Distribuzione di applicazioni: App ospitate da SharePoint](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -84,11 +83,10 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Sito dello sviluppatore](developer.md#developer-site) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
 |[Applicazioni basate su moduli](developer.md#infopath-forms-services) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Soluzioni di attendibilità completa](developer.md#full-trust-solutions) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì<sup>17</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì<sup>16</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Modello a oggetto di JavaScript](developer.md#javascript-object-model) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricevitore di eventi remoto](developer.md#remote-event-receiver) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[API REST](developer.md#rest-apis) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Soluzioni in modalità sandbox](developer.md#sandboxed-solutions) <br/> |Sì<sup>16</sup> <br/> |Sì<sup>16</sup> <br/> |Sì<sup>16</sup> <br/> |Sì<sup>16</sup> <br/> |Sì<sup>16</sup> <br/> |Sì<sup>16</sup> <br/> |Sì<sup>16</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione progettazione di SharePoint](developer.md#sharepoint-design-manager) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -99,7 +97,7 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Mapping di accesso alternativo](it-professional.md#alternate-access-mapping-aam) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Protezione antimalware](it-professional.md#anti-malware-protection) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
 |[Supporto dell'autenticazione basata sulle attestazioni](it-professional.md#claims-based-authentication-support) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|[Chiave cliente per Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |N.<sup>20</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |
+|[Chiave cliente per Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |N.<sup>19</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Prevenzione della perdita di dati](it-professional.md#data-loss-prevention) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Crittografia dei dati inattivi](it-professional.md#encryption-at-rest) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
 |Crittografia in transito  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
@@ -127,20 +125,20 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Catalogo](content.md#catalog) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Pagina categoria e pagina elementi di catalogo](content.md#category-page-and-catalog-item-page) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Content Organizer](content.md#content-organizer) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Pubblicazione interSito](content.md#cross-site-publishing) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|[Pubblicazione intersito](content.md#cross-site-publishing) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Gestione progettazione](content.md#design-manager) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Set di documenti](content.md#document-sets) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Traduzione di documenti in Word Online](content.md#document-translation-in-word-online) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricerca eDiscovery](content.md#ediscovery-search) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Esenzione di eDiscovery](content.md#ediscovery-hold) <br/> |N.<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì  <br/> |
 |[Esportazione di eDiscovery](content.md#ediscovery-export) <br/> |N.<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì  <br/> |
-|[Condivisione esterna: accesso esterno](content.md#external-sharing-external-access) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9</sup> <br/> |ConFigurabile per Extranet  <br/> |ConFigurabile per Extranet  <br/> |
+|[Condivisione esterna: accesso esterno](content.md#external-sharing-external-access) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9</sup> <br/> |Configurabile per Extranet  <br/> |Configurabile per Extranet  <br/> |
 |[Condivisione esterna: collegamento guest](content.md#external-sharing-guest-link) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9</sup> <br/> |No  <br/> |No  <br/> |
 |[Spostamento in base a facet](content.md#faceted-navigation) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>6</sup> <br/> |No  <br/> |Sì<sup>7</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Sincronizzazione cartella](content.md#folder-sync) <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|Controllo ibrido  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>19</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|Tassonomia e tipi di contenuti ibridi  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>19</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|[Copie trasFormate di immagini](content.md#image-renditions) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Controllo ibrido  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|Tassonomia e tipi di contenuti ibridi  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|[Copie trasformate di immagini](content.md#image-renditions) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Information Rights Management (IRM)](content.md#information-rights-management-irm) <br/> |N.<sup>3</sup> <br/> |N.<sup>3</sup> <br/> |N.<sup>3</sup> <br/> |N.<sup>3</sup> <br/> |N.<sup>3</sup> <br/> |Sì  <br/> |No<sup>3, 4</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizio metadati gestiti](content.md#managed-metadata-service) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Spostamento basato su metadati](content.md#metadata-driven-navigation) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -177,8 +175,8 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Esplorazione rapida](insights.md#quick-explore) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Modalità integrata di SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Filtro dei dati sequenza temporale](insights.md#timeline-slicer) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|[Visio online](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
-|[Servizi Visio](insights.md#visio-services) <sup>18</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|[Visio online](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Servizi Visio](insights.md#visio-services) <sup>17</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |**Funzionalità di ricerca** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Ricerche per indicizzazione continue](search.md#continuous-crawls) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Collegamenti diretti](search.md#deep-links) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -210,9 +208,9 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Percorsi gestiti personalizzati](sites-servicedesc.md#custom-managed-paths) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Raccolte documenti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance](sites-servicedesc.md#governance) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Siti hub  <br/> |N.<sup>21</sup> <br/> |N.<sup>21</sup> <br/> |N.<sup>21</sup> <br/> |N.<sup>21</sup> <br/> |N.<sup>21</sup> <br/> |N.<sup>21</sup> <br/> |N.<sup>21</sup> <br/> |No  <br/> |No  <br/> |
-|Icona di avvio delle app ibrida  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>19</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|OneDrive ibrido per le aziende e i siti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>19</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|Siti hub  <br/> |N.<sup>20</sup> <br/> |N.<sup>20</sup> <br/> |N.<sup>20</sup> <br/> |N.<sup>20</sup> <br/> |N.<sup>20</sup> <br/> |N.<sup>20</sup> <br/> |N.<sup>20</sup> <br/> |No  <br/> |No  <br/> |
+|Icona di avvio delle app ibrida  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|OneDrive ibrido per le aziende e i siti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Scalabilità e gestione di elenchi di grandi dimensioni](sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Connettività mobile](sites-servicedesc.md#mobile-connectivity) <br/> |Sì<sup>10</sup> <br/> |Sì<sup>10</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>10</sup> <br/> |Sì<sup>10</sup> <br/> |Sì<sup>10</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Interfaccia utente multilingue](sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sì<sup>11</sup> <br/> |Sì<sup>11</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |Sì<sup>11</sup> <br/> |Sì<sup>11</sup> <br/> |Sì  <br/> |Sì  <br/> |
@@ -236,7 +234,7 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Spazio di archiviazione aggiuntivo](add-ons.md#additional-storage) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[App fornite da Azure: Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |No  <br/> |No  <br/> |
 |[App fornite da Azure: Codice personalizzato nel ruolo Web Lightweight di Azure (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
-   
+> [!NOTE]
 > <sup>1</sup> Per utilizzare la sincronizzazione della cartella, è necessario disporre di Office 2013 o una versione successiva (edizione Standard o Professional) o avere una sottoscrizione di Office 365 che includa le applicazioni di Office. I piani di Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Educationnon includono sottoscrizioni alle applicazioni desktop di Office. È tuttavia possibile utilizzare la sincronizzazione cartella se Office 2013 o una versione successiva è installato e si è sottoscritto uno di questi piani. 
 <br/><sup>2</sup> i lavoratori di FIRSTLINE dispongono di funzionalità limitate di OneDrive for business. I lavoratori di FIRSTLINE ricevono 2GB di spazio di archiviazione e mancanza di funzionalità di sincronizzazione desktop. Gli account di FIRSTLINE non includono un sito personale di OneDrive for business, in modo che non traggano vantaggio da una raccolta personale di OneDrive for business con 1 TB o 5 TB di spazio di archiviazione online.
 <br/> <sup>3</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità Protezione delle informazioni di Azure richiedono una sottoscrizione a Office 365 ProPlus che non è inclusa in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1. 
@@ -251,9 +249,8 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 <br/> <sup>12</sup> Non è possibile aggiungere commenti nei blog. 
 <br/> <sup>13</sup> È disponibile il sito Web della community dell'organizzazione ma non viene fornito supporto per la community pubblica. 
 <br/><sup>14</sup> Access 2010 non è supportato. 
-<br/> <sup>15</sup> per Office Online, gli utenti di F1 devono avere accesso a Office Online (tiles Live) per la creazione di contenuto. Tuttavia, sono soggetti a limitazioni associate con le principali app mobili commerciali. Sono incluse le app seguenti: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint e Gruppi. **Non** sono incluse le app seguenti: Outlook, Word, Excel, PowerPoint, and OneNote. 
-<br/> <sup>16</sup> Le soluzioni in modalità sandbox non possono contenere codice utente. Possono contenere solo file di definizione (.xml) e le risorse che sono elaborate dal server quando si attivano. 
-<br/><sup>17</sup> I moduli di InfoPath che contengono codice utente (Sandbox) possono essere usati solo in InfoPath Rich Client. 
-<br/><sup>18</sup> il consumo di Visio online (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio Online richiedono una licenza. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Visio Online](../visio-online-service-description/visio-online-service-description.md).  <br/><sup>19</sup> gli utenti F1 possono accedere a SharePoint Server in una configurazione ibrida, ma Office 365 F1 non include i diritti CAL per accedere al server; tali diritti devono essere acquistati separatamente. 
-<br/><sup>20</sup> la chiave del cliente è disponibile in Office 365 Enterprise E5. La chiave del cliente consente di controllare le chiavi di crittografia dell'organizzazione e quindi di configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file archiviati in SharePoint Online e OneDrive for business. La chiave del cliente consente di soddisfare gli obblighi di conformità perché si controllano le chiavi di crittografia utilizzate da Office 365 per decrittografare i dati. Per ulteriori informazioni, vedere [controllo dei dati in Office 365 tramite Customer Key](https://go.microsoft.com/fwlink/?linkid=862702). 
-<br/><sup>21</sup> prossimamente. 
+<br/> <sup>15</sup> per Office Online, gli utenti di F1 devono avere accesso a Office Online (tiles Live) per la creazione di contenuto. Tuttavia, sono soggetti a limitazioni associate con le principali app mobili commerciali. Sono incluse le app seguenti: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint e Gruppi. **Non** sono inclusi i seguenti: Outlook, Word, Excel, PowerPoint e OneNote.<br/> 
+<sup>16</sup> i moduli di InfoPath che contengono codice utente (sandbox) possono essere utilizzati solo in InfoPath rich client. 
+<br/><sup>17</sup> il consumo di Visio online (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio Online richiedono una licenza. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Visio Online](../visio-online-service-description/visio-online-service-description.md).  <br/><sup>18</sup> gli utenti F1 possono accedere a SharePoint Server in una configurazione ibrida, ma Office 365 F1 non include i diritti CAL per accedere al server; tali diritti devono essere acquistati separatamente. 
+<br/><sup>19</sup> la chiave del cliente è disponibile in Office 365 Enterprise E5. La chiave del cliente consente di controllare le chiavi di crittografia dell'organizzazione e quindi di configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file archiviati in SharePoint Online e OneDrive for business. La chiave del cliente consente di soddisfare gli obblighi di conformità perché si controllano le chiavi di crittografia utilizzate da Office 365 per decrittografare i dati. Per ulteriori informazioni, vedere [controllo dei dati in Office 365 tramite Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
+<br/><sup>20</sup> prossimamente. 

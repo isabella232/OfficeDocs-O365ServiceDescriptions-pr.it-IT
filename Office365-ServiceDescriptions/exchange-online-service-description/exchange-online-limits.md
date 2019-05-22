@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/03/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-limits
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: dd9d4584115fa32a5ae69b4481d43256a1d1f179
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 57ec63ab34341fa0cc4a5123246800e83cd46c2b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621886"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342755"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
@@ -452,7 +452,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 
 - **Limiti di inoltro** Numero massimo di destinatari configurabili per una regola di Posta in arrivo o di trasporto con un'azione di reindirizzamento. Se una regola viene configurata per reindirizzare un messaggio a un numero maggiore di destinatari, la regola non verrà applicata e tutti i messaggi che soddisfano la condizione della regola non verranno reindirizzati a nessuno dei destinatari elencati nella regola.
     
-- **Numero di reindirizzamenti di un messaggio** Numero di volte in cui un messaggio verrà reindirizzato, inoltrato o a cui verrà risposto automaticamente sulla base delle regole di Posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene eliminato senza inviare un rapporto di MANCAto recapito (NDR) all'utente B che indica che il messaggio non è stato recapitato all'utente C. È possibile utilizzare l'intestazione X-MS-Exchange-Inbox-rules-loop per determinare il numero di reindirizzamenti di un messaggio. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
+- **Numero di reindirizzamenti di un messaggio** Numero di volte in cui un messaggio verrà reindirizzato, inoltrato o a cui verrà risposto automaticamente sulla base delle regole di Posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene eliminato senza inviare un rapporto di mancato recapito (NDR) all'utente B che indica che il messaggio non è stato recapitato all'utente C. È possibile utilizzare l'intestazione X-MS-Exchange-Inbox-rules-loop per determinare il numero di reindirizzamenti di un messaggio. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
 
 - **Numero di volte in cui un messaggio viene reindirizzato dalle regole di trasporto** Il numero di volte in cui un messaggio verrà reindirizzato in base alle regole di trasporto. Ad esempio, l'organizzazione di Exchange Tilt Toys dispone di una regola di trasporto per reindirizzare tutti i messaggi inviati dall'utente a all'utente B che si trova nell'organizzazione di Exchange Contoso. All'interno dell'organizzazione di Exchange Contoso è presente una regola di trasporto per reindirizzare tutti i messaggi inviati all'utente B all'utente C che si trova nell'organizzazione di Exchange A. Datum Corporation. In questo caso, il messaggio viene eliminato e un rapporto di mancato recapito (NDR) con codice di stato e rifiuto del messaggio *550 trasporto 5.7.128. Regole. RejectMessage Il numero di cicli delle regole di trasporto superato e il messaggio rifiutato* viene inviato all'utente a. È possibile utilizzare l'intestazione X-MS-Exchange-Transport-Rules-loop per determinare il numero di volte in cui un messaggio è stato reindirizzato dalle regole di trasporto. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - message-and-conversation-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: In Yammer sono disponibili le seguenti funzionalità messaggio e conversazione.
-ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247162"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342195"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Funzionalità messaggio e conversazione in Yammer
 
@@ -29,7 +29,7 @@ In Yammer sono disponibili le seguenti funzionalità messaggio e conversazione.
 
 Utilizzare il server Editore per condividere, aggiornare, aggiungere un documento, pubblicare un sondaggio o un evento e fare i complimenti a qualcuno.
   
-## <a name="mention"></a>@Menzioni
+## <a name="mention"></a>@Mention
 <a name="bkmk_AtMention"> </a>
 
 Inviare notifiche ad altri colleghi e inserirli nella conversazione @menzionando il loro nome.
@@ -54,7 +54,7 @@ Condividere conversazioni con il feed di un altro gruppo o tramite messaggio pri
 
 Grazie al supporto di Office Online in Yammer, è possibile visualizzare e modificare i documenti caricati su Yammer con Office Online, direttamente in Yammer. In questo modo è possibile eseguire il rendering dei documenti con Office Online, abilitare la creazione condivisa da diversi utenti contemporaneamente e visualizzare conversazioni di Yammer rilevanti, direttamente sul browser.
   
-## <a name="events"></a>Events
+## <a name="events"></a>Eventi
 <a name="bkmk_Events"> </a>
 
 Organizzare riunioni ed eventi, condividerli con i colleghi e tenere traccia dei partecipanti. È possibile aggiungere gli eventi sui calendari di Outlook, Google, Yahoo! e iCal.

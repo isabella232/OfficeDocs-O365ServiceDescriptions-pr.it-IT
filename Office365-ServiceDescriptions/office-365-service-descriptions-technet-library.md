@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 03/14/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246792"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343015"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 

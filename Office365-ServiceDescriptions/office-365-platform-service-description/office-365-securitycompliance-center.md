@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/11/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a7cb37e0cf8202281f65ffcc6b233bf254619c20
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247212"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343265"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -48,7 +48,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
 |Criteri di conservazione/eliminazione manuale  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
    
 > <sup>1</sup> la governance dei dati consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete; e creare e applicare i criteri di conservazione/eliminazione tra carichi di lavoro, utenti e gruppi. I criteri di conservazione applicati a cassette postali necessitano di Office 365 Enterprise E3 o E5.
-<br/><sup>2</sup> Advanced Data Governance consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni basate su un criterio di conservazione o eliminazione o entrambe. Include azioni intelligenti/automatiche come la raccomandazione di criteri, l'applicazione automatica di etichette ai dati, l'applicazione di etichette basate su query o tipi di dati sensibili, la revisione della disposizione e l'utilizzo di filtri di importazione intelligenti. Include inoltre la funzionalità di superVisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità.
+<br/><sup>2</sup> Advanced Data Governance consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni basate su un criterio di conservazione o eliminazione o entrambe. Include azioni intelligenti/automatiche come la raccomandazione di criteri, l'applicazione automatica di etichette ai dati, l'applicazione di etichette basate su query o tipi di dati sensibili, la revisione della disposizione e l'utilizzo di filtri di importazione intelligenti. Include inoltre la funzionalità di supervisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità.
 <br/><sup>3</sup> 50 GB di limite. 
 <br/><sup>4</sup> Unlimited. 
 <br/><sup>5</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti di Europa, Medio Oriente e Africa vengono esportati in Europa occidentale (Paesi Bassi). <br/><sup>6</sup> Advanced Threat Protection è disponibile in Office 365 Enterprise E5 e come servizio autonomo per Office 365 Enterprise E1 e Office 365 Enterprise E3. 
@@ -76,7 +76,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://go.microsoft.com
    
 > <sup>1</sup> la governance dei dati consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete; e creare e applicare i criteri di conservazione/eliminazione tra carichi di lavoro, utenti e gruppi. I criteri di conservazione applicati a cassette postali necessitano di Office 365 Enterprise E3 o E5. 
 <br/><sup>2</sup> Richiede l'acquisto del componente aggiuntivo Archiviazione Exchange Online. 
-<br/><sup>3</sup> Advanced Data Governance consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni basate su un criterio di conservazione o eliminazione o entrambe. Include azioni intelligenti/automatiche come la raccomandazione di criteri, l'applicazione automatica di etichette ai dati, l'applicazione di etichette basate su query o tipi di dati sensibili, la revisione della disposizione e l'utilizzo di filtri di importazione intelligenti. Include inoltre la funzionalità di superVisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità.
+<br/><sup>3</sup> Advanced Data Governance consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni basate su un criterio di conservazione o eliminazione o entrambe. Include azioni intelligenti/automatiche come la raccomandazione di criteri, l'applicazione automatica di etichette ai dati, l'applicazione di etichette basate su query o tipi di dati sensibili, la revisione della disposizione e l'utilizzo di filtri di importazione intelligenti. Include inoltre la funzionalità di supervisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità.
 <br/><sup>4</sup> Le conversazioni di Skype vengono memorizzate come parte della cassetta postale. 
 <br/><sup>5</sup> Advanced eDiscovery richiede Office Enterprise E5 di Office 365 oppure una licenza di componente aggiuntivo. <br/><sup>6</sup> L'archiviazione Skype avviene all'interno della cassetta postale dell'utente. 
   

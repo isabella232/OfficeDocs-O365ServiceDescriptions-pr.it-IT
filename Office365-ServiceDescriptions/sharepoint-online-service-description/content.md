@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/17/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-content-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le seguenti funzionalità di contenuto semplificano la gestione dei contenuti aziendali (ECM, Enterprise Content Management) per tutti. È la combinazione tra la gestione del contenuto tradizionale, le funzionalità di social networking e la ricerca avanzata.
-ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246672"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342555"
 ---
 # <a name="content"></a>Contenuto
 
@@ -61,7 +61,7 @@ Disponibile solo per le raccolte di siti privati. Le pagine categoria e le pagin
 
 Content Organizer agisce come un gatekeeper per i documenti. È possibile gestire automaticamente alcune attività importanti della raccolta, quali la gestione delle dimensioni delle cartelle e il routing dei documenti in raccolte o cartelle diverse. In questo modo, oltre a risparmiare tempo, sarà più semplice assicurarsi che una raccolta documenti venga gestita con coerenza. Ulteriori informazioni su [Content Organizer](https://go.microsoft.com/fwlink/?LinkId=270953).
   
-## <a name="cross-site-publishing"></a>Pubblicazione interSito
+## <a name="cross-site-publishing"></a>Pubblicazione intersito
 <a name="bkmk_WCMCrossSitePublishing"> </a>
 
 Disponibile solo per le raccolte di siti privati. La pubblicazione intersito è un metodo di pubblicazione che consente di creare e mantenere il contenuto su uno o più raccolte siti di creazione e di pubblicare il contenuto su una o più raccolte siti di pubblicazione tramite Web part di ricerca. Informazioni su come [attivare la funzionalità Pubblicazione intersito](https://go.microsoft.com/fwlink/p/?LinkId=330810).
@@ -116,7 +116,7 @@ Gli utenti del sito possono generare un collegamento guest (un collegamento anon
 
 Gli utenti possono sincronizzare la raccolta SharePoint nei propri computer, quindi lavorare su quei file della raccolta utilizzando Esplora file. Aggiornamenti alla sincronizzazione file in SharePoint quando gli utenti sono online. È possibile sincronizzare OneDrive for Business o una raccolta documenti nel sito del team. Ulteriori informazioni sulla [sincronizzazione di una raccolta nel computer](https://go.microsoft.com/fwlink/?LinkId=270962).
   
-## <a name="image-renditions"></a>Copie trasFormate di immagini
+## <a name="image-renditions"></a>Copie trasformate di immagini
 <a name="bkmk_WCMImageRenditions"> </a>
 
 Il rendering di immagini consente alle organizzazioni di avere immagini originali di grandi dimensioni in un sito di SharePoint e di disporre inoltre di parti di sito in cui le pagine utilizzano solo versioni più piccole.

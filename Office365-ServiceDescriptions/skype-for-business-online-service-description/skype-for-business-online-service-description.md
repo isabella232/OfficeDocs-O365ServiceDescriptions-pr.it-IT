@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/11/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Si desidera conoscere quali licenze è necessario acquistare per ottenere determinate funzionalità di Skype for Business? Vedere la panoramica sulle licenze di Skype for business.
-ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: ba3e2f87f4bc6b6e66e06aa1a7ded86787324a8f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246862"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342395"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-compliance
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 è conforme agli standard del settore ed è studiato per contribuire al rispetto dei requisiti normativi dell'attività in cui viene utilizzato. Per ulteriori informazioni, vedere Offerte per la conformità.
-ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d7ad8180aa56c6fbe483986f31fce8bc65d64b32
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246762"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343645"
 ---
 # <a name="compliance"></a>Conformità
 

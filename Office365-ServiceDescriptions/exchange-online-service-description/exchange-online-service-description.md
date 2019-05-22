@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Per informazioni sulle funzionalità di confronto tra le sottoscrizioni di Office 365 che includono Exchange Online, vedere In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: 2c1eaf2fcbfc543bf838b91592d454a49df60866
-ms.sourcegitcommit: 718731549996bd25f657f1356365318f8e9e7376
+ms.openlocfilehash: b7beee90d49d9962a0234758ae3f9aba087a226a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33659675"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342765"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 

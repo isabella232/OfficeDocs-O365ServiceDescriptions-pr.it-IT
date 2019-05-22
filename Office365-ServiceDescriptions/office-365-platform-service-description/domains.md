@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/10/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-domains
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica di Office 365 e altri servizi nel nome dell'azienda. Dopo aver completato la procedura guidata, la posta elettronica aziendale inizia ad arrivare in Office 365 invece che nel provider di posta elettronica corrente. Per ulteriori informazioni, vedere Aggiungere utenti e dominio in Office 365. Se si utilizza Office 365 gestito da 21Vianet, vedere Verificare il dominio.
-ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: febc87051ec9b4e6853cadfc43a0d0c272dd1b04
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247282"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343735"
 ---
 # <a name="domains"></a>Domini
 

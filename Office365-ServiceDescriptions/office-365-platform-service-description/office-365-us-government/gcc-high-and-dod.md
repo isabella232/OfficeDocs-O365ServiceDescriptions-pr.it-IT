@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247112"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343255"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -95,7 +95,7 @@ Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai 
   
  **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. È necessario eseguire la migrazione di tutte le soluzioni sandbox nel [ modello estendibilità del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
-### <a name="skype-for-business-online"></a>Skype for Business Online
+### <a name="skype-for-business-online"></a>Skype for Business online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-high-availability-and-business-continuity
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online offre un supporto di conservazione e ripristino estensivo per l'infrastruttura di posta elettronica di un'organizzazione. Questo supporto include la replica delle cassette postali presso i data center e la capacità di ripristinare le cassette postali e gli elementi eliminati.
-ms.openlocfilehash: 2da41ba335faa4cf18228a64fbb1b420d438e503
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d9aac8e2843e085bea9aa4c1e3edc0dbb0789130
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33244902"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342885"
 ---
 # <a name="high-availability-and-business-continuity"></a>High Availability and Business Continuity
 

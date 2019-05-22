@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai contenuti delle descrizioni dei servizi.
-ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246632"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343595"
 ---
 # <a name="recent-service-descriptions-changes"></a>Modifiche recenti delle descrizioni di servizio
 
@@ -66,9 +66,9 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 |Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Aggiornamento per bloccare il supporto dei riquadri in Excel online.  <br/> |
 |SharePoint Online  <br/> |[Descrizione del servizio SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Più aggiornamenti e ristrutturazioni.  <br/> |
 ||[Limiti di SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Più aggiornamenti.  <br/> |
-|Yammer  <br/> |[Funzionalità di amministrazione e sicurezza in Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |RiMosse le note e le chiavi del flusso di attività.  <br/> |
-||[Funzionalità collaborazione documento in Yammer](yammer-service-description/document-collaboration-features-in-yammer.md) <br/> |Note riMosse.  <br/> |
-||[Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md) <br/> |RiMosse le note e le chiavi del flusso di attività dalla tabella di confronto dei piani.  <br/> |
+|Yammer  <br/> |[Funzionalità di amministrazione e sicurezza in Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Rimosse le note e le chiavi del flusso di attività.  <br/> |
+||[Funzionalità collaborazione documento in Yammer](yammer-service-description/document-collaboration-features-in-yammer.md) <br/> |Note rimosse.  <br/> |
+||[Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md) <br/> |Rimosse le note e le chiavi del flusso di attività dalla tabella di confronto dei piani.  <br/> |
    
 ## <a name="february-2018"></a>Febbraio 2018
 
@@ -81,7 +81,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Più aggiornamenti e ristrutturazioni.  <br/> |
 ||[Office 365 gestito da 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correzione della disponibilità di integrazione della segreteria telefonica e della segreteria telefonica.  <br/> |
 |Exchange Online  <br/> |[Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Disponibilità chiarificata dei gruppi per i piani di Exchange Online.  <br/> |
-|Skype for Business Online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Aggiornamento del sistema telefonico e della disponibilità delle conferenze per i clienti di Office 365 Business Premium.  <br/> |
+|Skype for Business online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Aggiornamento del sistema telefonico e della disponibilità delle conferenze per i clienti di Office 365 Business Premium.  <br/> |
    
 ## <a name="january-2018"></a>Gennaio 2018
 
@@ -89,7 +89,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 |:-----|:-----|:-----|
 |**Descrizione servizio** <br/> |**Argomento** <br/> |**Modifica** <br/> |
 |Piattaforma Office 365  <br/> |[Microsoft 365 Education](office-365-platform-service-description/microsoft-365-education.md) <br/> |È stata corretta la disponibilità di Microsoft Teams nei piani di istruzione.  <br/> |
-|Skype for Business Online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Limitazione della conversazione in chat client chiarificata.  <br/> |
+|Skype for Business online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Limitazione della conversazione in chat client chiarificata.  <br/> |
 |Multiplo  <br/> |Multiplo  <br/> |Aggiunta della chiave del cliente per le descrizioni dei servizi di Skype for business online, SharePoint Online e OneDrive for business.  <br/> |
    
 ## <a name="december-2017"></a>Dicembre 2017

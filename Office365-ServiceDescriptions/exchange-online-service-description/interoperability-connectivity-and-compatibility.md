@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-interoperability-connectivity-compatibility
@@ -12,18 +12,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 55cb63c948d6e5f98cea64f98d0ca9d3d8fcdc21
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 80d4248da8fd9d3600789df35085c24e6e436433
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33244882"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342685"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilità, connettività e compatibilità
 
 ## <a name="interoperability-with-other-microsoft-products"></a>Interoperabilità con altri prodotti Microsoft
 
-### <a name="skype-for-business-online"></a>Skype for Business Online
+### <a name="skype-for-business-online"></a>Skype for Business online
 
 Per gli utenti che hanno distribuito Microsoft Lync Server 2010, Lync Server 2013 o Microsoft Office Communications Server 2007 R2 locale, Microsoft Office Communicator può stabilire una connessione a Microsoft Exchange Online utilizzando i Servizi Web Exchange per accedere ai messaggi Fuori sede e ai dati del calendario.
   

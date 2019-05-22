@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-clients-and-mobile-devices
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246232"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342725"
 ---
 # <a name="clients-and-mobile-devices"></a>Client e dispositivi mobili
 
@@ -62,7 +62,7 @@ Exchange Online funziona con le app di Outlook disponibili per iOS, Android e Wi
 |:-----|:-----|:-----|:-----|
 |Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilità delle app per dispositivi mobili di Outlook  <br/> |Sì  <br/> [Ottenere Outlook per Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sì  <br/> [Ottenere Outlook per iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Built-in  <br/> |
-|App di posta elettronica inCorporate compatibili con Exchange Online  <br/> |App di posta elettronica di Gmail app/Samsung  <br/> |app di posta elettronica iOS  <br/> |Posta di Outlook, calendario, contatti  <br/> |
+|App di posta elettronica incorporate compatibili con Exchange Online  <br/> |App di posta elettronica di Gmail app/Samsung  <br/> |app di posta elettronica iOS  <br/> |Posta di Outlook, calendario, contatti  <br/> |
 |Ulteriori informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configurazione di iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configurazione di Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    
 Sono inoltre disponibili opzioni per l'utilizzo di Exchange Online con dispositivi, tra cui BlackBerry.
@@ -147,9 +147,9 @@ Il protocollo SMTP (Simple Mail Transfer Protocol) viene utilizzato per inviare 
 > [!IMPORTANT]
 > Per consentire l'inoltro SMTP sono necessari gli indirizzi IP dei server di origine autorizzati. Quando si utilizza SMTP per l'invio della posta elettronica, sono necessarie l'autenticazione e la crittografia TLS (Transport Layer Security). 
   
-## <a name="blackberry-devices"></a>Dispositivi BlackBerry ®
+## <a name="blackberry-devices"></a>Dispositivi BlackBerry®
 
-La posta elettronica di Office 365 è disponibile nei dispositivi BlackBerry ® tramite Exchange ActiveSync. Per sapere quali sono le opzioni disponibili, vedere gli argomenti seguenti:
+La posta elettronica di Office 365 è disponibile nei dispositivi BlackBerry® tramite Exchange ActiveSync. Per sapere quali sono le opzioni disponibili, vedere gli argomenti seguenti:
   
 - [Configurare la posta elettronica in un dispositivo BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
     

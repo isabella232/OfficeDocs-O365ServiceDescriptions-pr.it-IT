@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-mail-flow
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e il filtro vengono gestiti da Office 365. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione. '
-ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d65ba6b96f9cbeffd42d46f40fd126fb9a659690
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246402"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342775"
 ---
 # <a name="mail-flow"></a>Flusso della posta
 

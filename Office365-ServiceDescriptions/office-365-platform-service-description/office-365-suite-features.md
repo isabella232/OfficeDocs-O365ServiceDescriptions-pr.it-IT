@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-suite-features
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247192"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343285"
 ---
 # <a name="office-365-suite-features"></a>Funzionalità della famiglia di prodotti Office 365
 

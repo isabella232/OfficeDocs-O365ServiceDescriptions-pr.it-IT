@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - word-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word online (in precedenza Word Web App) consente di estendere la propria esperienza di Microsoft Word al Web browser, in cui è possibile lavorare con i documenti direttamente nel sito Web in cui è archiviato il documento.
-ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246952"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343795"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -293,7 +293,7 @@ Con Word Online, è possibile salvare una copia del documento a livello locale.
 
 È possibile utilizzare Word Online per salvare o convertire i file PDF in modo che sia possibile condividerli o stamparli tramite servizi di stampa. E non occorre usare altri software o componenti aggiuntivi.
   
-## <a name="share"></a>Condivisione
+## <a name="share"></a>Condividi
 <a name="bkmk_Share"> </a>
 
 In Word Online, con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
@@ -323,7 +323,7 @@ Non è disponibile in Word Online. In Word Online è possibile visualizzare un i
 
 Utilizzare la funzionalità di tocco per individuare e riutilizzare il contenuto. La funzionalità di tocco rende visibili i file rilevanti usati più di frequente, consentendo di concentrarsi sulla creazione di documenti, anziché cercare file e informazioni. Per ulteriori informazioni, vedere come [trovare e usare i contenuti necessari](https://go.microsoft.com/fwlink/?linkid=825878).
   
-## <a name="tell-me"></a>Informazioni
+## <a name="tell-me"></a>Dimmi
 <a name="BKMK_Tell_Me_Word"> </a>
 
 Quando è necessario compiere delle operazioni in Word Online ma non si conosce la procedura, è possibile utilizzare la funzionalità di ricerca Informazioni per trovare rapidamente quello di cui si ha bisogno. La funzionalità Informazioni comprende cosa si sta cercando di effettuare e ne velocizza l'esecuzione grazie a dei consigli.

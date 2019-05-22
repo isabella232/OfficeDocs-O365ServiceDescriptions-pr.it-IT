@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (orOffice 365 US Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche di Office 365 US Government. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247082"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343215"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -32,7 +32,7 @@ La descrizione servizio di Office 365 US Government è stata pensata come aggiun
 
 I piani di Office 365 US Government sono sottoscrizioni mensili e vengono concessi a un numero illimitato di utenti. 
   
-- L'ambiente **Office 365 GCC** garantisce la conformità ai requisiti federali per i servizi cloud, tra cui FedRAMP moderaTe e i requisiti per la giustizia penale e i sistemi informativi federali (CJI e FTI). 
+- L'ambiente **Office 365 GCC** garantisce la conformità ai requisiti federali per i servizi cloud, tra cui FedRAMP moderate e i requisiti per la giustizia penale e i sistemi informativi federali (CJI e FTI). 
     
 - Gli ambienti **Office 365 GCC High e DOD** offrono la conformità con le linee guida sui requisiti di sicurezza del dipartimento per la difesa, la Defense Federal Acquisition Regulations Supplement (DFARS) e il traffico internazionale di armi (ITAR). 
     
@@ -122,7 +122,7 @@ I clienti che scelgono il beneficio per la migrazione di [FastTrack](https://fas
 |Verifica della cittadinanza negli Stati Uniti  <br/> |Sì  <br/> |Sì  <br/> |
 |Controllo della storia professionale  <br/> |Sì  <br/> |Sì  <br/> |
 |Verifica dell'istruzione  <br/> |Sì  <br/> |Sì  <br/> |
-|Ricerca del numero di preVidenza sociale (SSN)  <br/> |Sì  <br/> |Sì  <br/> |
+|Ricerca del numero di previdenza sociale (SSN)  <br/> |Sì  <br/> |Sì  <br/> |
 |Controllo di precedenti penali (7 anni)  <br/> |Sì  <br/> |Sì  <br/> |
    
 [Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio](office-365-us-government.md#how-to-use-this-service-description-section)
@@ -273,7 +273,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |**[Privacy, sicurezza e trasparenza](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Governance dei dati avanzata  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì <br/> |N.<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |N<sup>. 11, 12</sup> <br/> |N<sup>. 11, 12</sup> <br/> |Sì<sup>11</sup> <br/> |N<sup>. 11, 12</sup> <br/> |
-|Advanced Threat Protection  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì  <br/> |N.<sup>12</sup> <br/> |
+|Protezione avanzata dalle minacce  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì  <br/> |N.<sup>12</sup> <br/> |
 |Archivio protetto del cliente  <br/> |N.<sup>9, 12, 15</sup> <br/> |N.<sup>9, 12, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |N.<sup>9, 12, 15</sup> <br/> |
 |Office 365 Advanced eDiscovery  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì  <br/> |N.<sup>12</sup> <br/> |
 |Punteggio sicuro<sup>14</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-user-account-management
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti.
-ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247202"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343115"
 ---
 # <a name="user-account-management"></a>Gestione degli account utente
 

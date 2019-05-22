@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-reports
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Gli amministratori di Microsoft Office 365 possono visualizzare i report che illustrano in che modo l'organizzazione utilizza i servizi di Office 365. È possibile utilizzare questi rapporti per identificare i problemi, filtrare i dati e scaricare i dati in Microsoft Excel. È inoltre possibile creare report personalizzati utilizzando i servizi Web di Reporting di Office 365. Gli amministratori di Exchange Online e Exchange Online Protection (EOP) possono utilizzare i rapporti di protezione della posta elettronica in Office 365 per visualizzare i dati relativi a malware, posta indesiderata e rilevamenti di regole.
-ms.openlocfilehash: 0ad1389e9c3bb7c400368389739f62abed62b275
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a291d9f7b457a2cf4da254c3bfd21cd671cdc42b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247052"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343165"
 ---
 # <a name="reports"></a>Report
 

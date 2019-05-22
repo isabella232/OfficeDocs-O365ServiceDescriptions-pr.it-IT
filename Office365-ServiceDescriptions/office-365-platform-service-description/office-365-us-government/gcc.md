@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Per soddisfare i requisiti univoci e in evoluzione dei governi federale, statale, locale e tribale degli Stati Uniti, nonché i contraenti che detengono o elaborano dati per conto del governo statunitense, Microsoft offre servizi di Office 365 US Government community (GCC). Disponibili attraverso più canali che includono i contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, sono disponibili versioni di prova solo per gli enti governativi degli Stati Uniti.
-ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247132"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343245"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
