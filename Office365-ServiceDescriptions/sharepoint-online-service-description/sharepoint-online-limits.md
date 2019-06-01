@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: 5c89f7fa92a91a780be9350e16be87e537370586
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8e678bf7fc2373b5e8f97341d2c167548b36322b
+ms.sourcegitcommit: 178a0c81d51a48562b9433c47642ce78c51651a3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342535"
+ms.lasthandoff: 06/01/2019
+ms.locfileid: "34669685"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online
 
@@ -43,7 +43,7 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
   
 ## <a name="service-limits-for-all-plans"></a>Limiti di servizio per tutti i piani
 
-- **Elementi in elenchi e raccolte** : un elenco può avere fino a 30 milioni elementi e una raccolta può avere fino a 30 milioni file e cartelle. Dopo che sono stati aggiunti 100 elementi a un elenco, una raccolta o una cartella, non è possibile modificare l'ereditarietà delle autorizzazioni per l'elenco, la raccolta o la cartella. Per ulteriori informazioni sulle altre limitazioni per la visualizzazione di elenchi di grandi dimensioni, vedere [gestire elenchi di grandi dimensioni e raccolte in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Per informazioni sui caratteri che non possono essere utilizzati nei nomi di file, vedere [caratteri non validi nei nomi di file e cartelle](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Elementi in elenchi e raccolte** : un elenco può avere fino a 30 milioni elementi e una raccolta può avere fino a 30 milioni file e cartelle. Dopo che sono stati aggiunti 100.000 elementi a un elenco, una raccolta o una cartella, non è possibile modificare l'ereditarietà delle autorizzazioni per l'elenco, la raccolta o la cartella. Per ulteriori informazioni sulle altre limitazioni per la visualizzazione di elenchi di grandi dimensioni, vedere [gestire elenchi di grandi dimensioni e raccolte in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Per informazioni sui caratteri che non possono essere utilizzati nei nomi di file, vedere [caratteri non validi nei nomi di file e cartelle](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - **Dimensione del file e lunghezza del percorso del file** -15 GB. Per ulteriori informazioni sulle restrizioni e sui limiti quando si utilizza il nuovo client di sincronizzazione di OneDrive (OneDrive. exe), vedere nomi di file [e tipi di file non validi in OneDrive, OneDrive for business e SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
