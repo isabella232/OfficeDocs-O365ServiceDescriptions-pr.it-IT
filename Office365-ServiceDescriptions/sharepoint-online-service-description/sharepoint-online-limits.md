@@ -9,35 +9,34 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: 8e678bf7fc2373b5e8f97341d2c167548b36322b
-ms.sourcegitcommit: 178a0c81d51a48562b9433c47642ce78c51651a3
+ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2019
-ms.locfileid: "34669685"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742155"
 ---
-# <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online
+# <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online 
 
 Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di SharePoint Online.
   
-## <a name="limits-by-plan"></a>Limiti in base alla pianificazione
+## <a name="limits-by-plan"></a>Limiti in base alla pianificazione 
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 Business Essentials o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 o SharePoint Online (piano 1 o 2)** <br/> | **Office 365 Enterprise F1** <br/> |
-|Spazio di archiviazione<sup>1, 2</sup> <br/> |1 TB per ogni organizzazione più 10 GB per licenza acquistata  <br/> |1 TB per ogni organizzazione più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB per ogni organizzazione<sup>3</sup> <br/> |
-|Spazio di archiviazione per raccolte siti  <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>5</sup> <br/> |
-|Raccolte siti per ogni organizzazione  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> | 500.000<br/> |
+|Spazio di archiviazione totale per ogni organizzazione<sup>1, 2</sup> <br/> |1 TB più 10 GB per licenza acquistata  <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|Archiviazione massima per raccolta siti<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
+|Raccolte siti per ogni organizzazione  <br/> |1 milione<sup>6</sup> <br/> |1 milione<sup>6</sup> <br/> |1 milione<br/> |
 |Numero di utenti  <br/> |Fino a 300  <br/> |1- 500.000<sup>7</sup> <br/> |1- 500.000<sup>7</sup> <br/> |
    
-> [!NOTE]
-> <sup>1</sup> È possibile acquistare una quantità illimitata di spazio di archiviazione SharePoint Online aggiuntivo. Vedere [Modificare lo spazio di archiviazione per l'abbonamento](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). 
-<br/><sup>2</sup> Si consiglia di monitorare il Cestino e svuotarlo regolarmente. Lo spazio di archiviazione utilizzato è compreso nel limite di archiviazione file totale dell'organizzazione. 
+<sup>1</sup> è possibile acquistare una quantità illimitata di ulteriore spazio di archiviazione di SharePoint. Vedere [Modificare lo spazio di archiviazione per l'abbonamento](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<br/><sup>2</sup> Si consiglia di monitorare il Cestino e svuotarlo regolarmente. Lo spazio di archiviazione utilizzato è parte integrante del limite di archiviazione totale dell'organizzazione. 
 <br/> <sup>3</sup> Quando si dispone di una sottoscrizione a Office 365 e di un piano autonomo SharePoint Online, vengono aggiunte quantità di spazio di archiviazione. 
-<br/><sup>4</sup> gli amministratori di SharePoint Online possono impostare limiti di spazio di archiviazione per le raccolte e i siti del sito.
-<br/> <sup>5</sup> Gli operatori di chioschi multimediali non possono amministrare le raccolte siti di SharePoint Online. È necessario disporre di almeno una licenza utente Enterprise per gestire le raccolte siti di chioschi multimediali. 
-<br/> <sup>6</sup> Sono escluse le raccolte siti di OneDrive for Business create per ogni licenza utente. 
-<br/><sup>7</sup> Se si dispone di più di 500.000 utenti, contattare un rappresentante Microsoft. 
+<br/> <sup>4</sup> questo è il limite di archiviazione per una singola raccolta siti e non per la quantità di spazio di archiviazione disponibile per ogni raccolta siti. Questo limite si applica a tutti i tipi di raccolte siti, inclusi i siti del team connessi a un gruppo di Office 365 e OneDrive. Gli amministratori di SharePoint possono [impostare manualmente limiti di spazio di archiviazione inferiori](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>5</sup> gli addetti di FIRSTLINE non possono amministrare le raccolte siti di SharePoint. 
+<br/> <sup>6</sup> non include il OneDrive creato per ogni utente con licenza. 
+<br/> <sup>7</sup> Se si dispone di più di 500.000 utenti, contattare un rappresentante Microsoft. 
   
 
   
@@ -49,7 +48,10 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 
 - **Spostamento e copia tra raccolte siti** -100 GB per operazione. Il Web browser deve rimanere aperto.
 
-- **Sincronizzazione** : per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.000 file in una singola raccolta siti di OneDrive o del team. Anche se SharePoint Online può archiviare 30 milioni documenti per raccolta, per ottenere prestazioni ottimali, è consigliabile sincronizzare non più di 300.000 file in tutte le raccolte documenti. Inoltre, gli stessi problemi di prestazioni possono verificarsi se sono presenti 300.000 elementi o più in tutte le raccolte di cui si esegue la sincronizzazione, anche se non si sincronizzano tutti gli elementi di tali raccolte. Se si utilizza il client di sincronizzazione precedente di OneDrive for business (Groove. exe), il limite di sincronizzazione per ogni raccolta è 20.000 elementi (inclusi 5.000 elementi per sito del team).
+- **Sincronizzazione** : per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.000 file in tutte le raccolte documenti sincronizzate, anche se si utilizzano file su richiesta oppure se si sceglie solo alcune cartelle all'interno delle raccolte da sincronizzare. Se si utilizza il client di sincronizzazione precedente di OneDrive for business (Groove. exe), il limite di sincronizzazione per ogni raccolta è 20.000 elementi (inclusi 5.000 elementi per sito del team).
+
+    > [!NOTE]
+    > Se gli utenti devono sincronizzare i file nelle raccolte documenti che dispongono di centinaia di migliaia di file, è possibile "nascondere" le cartelle dal client di sincronizzazione impostando il livello di autorizzazione delle cartelle su "lettura con restrizioni". 
 
 - **** Versions-50.000 Major Versions e 511 versioni secondarie.
 
@@ -57,7 +59,7 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 
 - **Managed Metadata** -200.000 termini in Store termine, 1.000 set termini globali, 1.000 gruppi.
 
-- **Siti secondari** : fino a 2.000 per ogni raccolta siti.
+- **Siti secondari** -2.000 per raccolta siti.
 
 - **Applicazioni ospitate in SharePoint** -20.000 istanze per ogni organizzazione.
 
@@ -66,7 +68,7 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 - **Users** -2 milioni per ogni raccolta siti.
 
 > [!NOTE]
-> Non esiste alcun limite al numero di utenti esterni che è possibile invitare alle raccolte siti di SharePoint Online. Per ulteriori informazioni, vedere [gestire la condivisione esterna per l'ambiente di SharePoint Online](/sharepoint/external-sharing-overview).
+> Non esiste alcun limite al numero di ospiti che è possibile invitare alle raccolte siti di SharePoint. Per ulteriori informazioni sulla condivisione esterna, vedere [Panoramica della condivisione esterna](/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Vedere anche
 

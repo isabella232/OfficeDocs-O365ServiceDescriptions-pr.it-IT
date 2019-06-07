@@ -3,7 +3,7 @@ title: Descrizione del servizio Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493494"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742105"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -26,8 +26,8 @@ Microsoft 365 business è una soluzione integrata che unisce la produttività Be
 
 La tabella seguente indica le funzionalità della piattaforma per i piani di Office 365 Business Premium e Microsoft 365 Business.
   
-Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md).
-  
+Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md).<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**Opzioni dei piani** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
@@ -149,7 +149,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
    
 |||
 |:-----|:-----|
-|**Funzionalità di gestione di Windows 10**: Microsoft 365 Business consente di gestire facilmente i dispositivi. Quando si configura il tenant di Microsoft 365 Business, si selezionano le impostazioni per la configurazione del dispositivo e la protezione delle app. Tali impostazioni definiscono i criteri che vengono applicati automaticamente ai dispositivi che accedono ad Azure Active Directory. Le funzionalità di gestione di Windows 10 Pro includono:  <br/> |**Microsoft 365 Business** <br/> |
+|**Funzionalità di gestione di Windows 10**: Microsoft 365 Business consente di gestire facilmente i dispositivi. Quando si configura il tenant di Microsoft 365 Business, si selezionano le impostazioni per la configurazione del dispositivo e la protezione delle app. Tali impostazioni definiscono i criteri che vengono applicati automaticamente ai dispositivi che accedono ad Azure Active Directory. Le funzionalità di gestione di Windows 10 Pro includono:  <br/>|**Microsoft 365 Business** <br/> |
 |Distribuzione semplificata con Windows AutoPilot  <br/> |Sì  <br/> |
 |Attivazione della sottoscrizione  <br/> |Sì  <br/> |
 |Controllo organizzativo dello schermo del dispositivo su inattivo  <br/> |Sì  <br/> |
@@ -162,9 +162,9 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Proteggere i PC da minacce basate sul Web in Microsoft Edge  <br/> |Sì  <br/> |
 |Usa regole per ridurre la superficie di attacco dei dispositivi <br/> |Sì  <br/> |
 |Protegge le cartelle da minacce come il ransomware <br/> |Sì  <br/> |
-|Protezione dei file e delle cartelle nei PC da accessi non autorizzati con BitLocker <br/> |Sì  <br/> |
-   
-> <sup>1</sup> include Exchange Online piano 1.
+|Protezione dei file e delle cartelle nei PC da accessi non autorizzati con BitLocker <br/> |Sì  <br/> |   
+
+<sup>1</sup> include Exchange Online piano 1.
 <br/><sup>2</sup> include Skype for business online piano 2 con limitazioni client di base.
 <br/><sup>3</sup> Project online non è incluso, ma può essere acquistato come servizio aggiuntivo separato oppure aggiunto gratuitamente al piano Office Education. 
 <br/><sup>4</sup> Azure Information Protection (AIP) consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Azure Information Protection Piano 1 è incluso in Microsoft 365 Business. 
