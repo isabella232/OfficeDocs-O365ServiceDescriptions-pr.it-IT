@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742155"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780665"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online 
 
@@ -30,15 +30,13 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 |Raccolte siti per ogni organizzazione  <br/> |1 milione<sup>6</sup> <br/> |1 milione<sup>6</sup> <br/> |1 milione<br/> |
 |Numero di utenti  <br/> |Fino a 300  <br/> |1- 500.000<sup>7</sup> <br/> |1- 500.000<sup>7</sup> <br/> |
    
-<sup>1</sup> è possibile acquistare una quantità illimitata di ulteriore spazio di archiviazione di SharePoint. Vedere [Modificare lo spazio di archiviazione per l'abbonamento](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> è possibile acquistare una quantità illimitata di ulteriore spazio di archiviazione di SharePoint. Vedere [Modificare lo spazio di archiviazione per l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Si consiglia di monitorare il Cestino e svuotarlo regolarmente. Lo spazio di archiviazione utilizzato è parte integrante del limite di archiviazione totale dell'organizzazione. 
-<br/> <sup>3</sup> Quando si dispone di una sottoscrizione a Office 365 e di un piano autonomo SharePoint Online, vengono aggiunte quantità di spazio di archiviazione. 
-<br/> <sup>4</sup> questo è il limite di archiviazione per una singola raccolta siti e non per la quantità di spazio di archiviazione disponibile per ogni raccolta siti. Questo limite si applica a tutti i tipi di raccolte siti, inclusi i siti del team connessi a un gruppo di Office 365 e OneDrive. Gli amministratori di SharePoint possono [impostare manualmente limiti di spazio di archiviazione inferiori](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>3</sup> se si dispone di un abbonamento a Office 365 e di un componente aggiuntivo per l'archiviazione di file di Office 365, vengono aggiunti gli importi di archiviazione. 
+<br/> <sup>4</sup> questo è il limite di archiviazione per una singola raccolta siti e non per la quantità di spazio di archiviazione disponibile per ogni raccolta siti. Questo limite si applica a tutti i tipi di raccolte siti, inclusi i siti del team connessi a un gruppo di Office 365 e OneDrive. Gli amministratori di SharePoint possono [impostare manualmente limiti di spazio di archiviazione inferiori](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits). 
 <br/> <sup>5</sup> gli addetti di FIRSTLINE non possono amministrare le raccolte siti di SharePoint. 
 <br/> <sup>6</sup> non include il OneDrive creato per ogni utente con licenza. 
 <br/> <sup>7</sup> Se si dispone di più di 500.000 utenti, contattare un rappresentante Microsoft. 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>Limiti di servizio per tutti i piani
 
@@ -68,8 +66,8 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 - **Users** -2 milioni per ogni raccolta siti.
 
 > [!NOTE]
-> Non esiste alcun limite al numero di ospiti che è possibile invitare alle raccolte siti di SharePoint. Per ulteriori informazioni sulla condivisione esterna, vedere [Panoramica della condivisione esterna](/sharepoint/external-sharing-overview).
+> Non esiste alcun limite al numero di ospiti che è possibile invitare alle raccolte siti di SharePoint. Per ulteriori informazioni sulla condivisione esterna, vedere [Panoramica della condivisione esterna](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Vedere anche
 
-[Limiti della ricerca per SharePoint Online](/sharepoint/search-limits)
+[Limiti della ricerca per SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)
