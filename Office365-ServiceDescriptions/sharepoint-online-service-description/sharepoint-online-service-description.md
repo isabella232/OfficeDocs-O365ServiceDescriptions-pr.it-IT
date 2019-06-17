@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint online in Office 365 consente agli utenti di condividere e collaborare, di informare e coinvolgere gli altri all'interno dell'azienda, di trasformare i processi aziendali e di sfruttare le conoscenze collettive. Inoltre, SharePoint fornisce le funzionalità per le organizzazioni per la protezione e la gestione dei dati e per la creazione di soluzioni personalizzate. Per una panoramica rapida, vedere che cos'è SharePoint?
-ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780705"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931128"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrizione del servizio SharePoint Online
 
@@ -62,6 +62,9 @@ Gli utenti esterni ereditano i diritti di utilizzi del cliente di SharePoint Onl
 <a name="bkmk_tableo365"> </a>
 
 Utilizzare la tabella seguente per determinare se una funzionalità di SharePoint è disponibile in un piano di Office 365. 
+
+> [!TIP]
+> È possibile che alcune colonne della tabella siano nascoste. Utilizzare la barra di scorrimento nella parte inferiore della tabella per scorrere verso destra e vedere colonne aggiuntive.
   
 ****
 

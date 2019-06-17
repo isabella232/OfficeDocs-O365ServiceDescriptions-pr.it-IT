@@ -3,7 +3,6 @@ title: Descrizione servizio applicazioni Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343095"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931138"
 ---
 # <a name="office-applications-service-description"></a>Descrizione servizio applicazioni Office
 
@@ -90,7 +89,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Volume activation (KMS/MAK)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|N.<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Quando si installa Office 365 o Office 2019, è possibile ottenere OneNote per Windows 10 per impostazione predefinita. Per ulteriori informazioni, vedere [domande frequenti su OeNOte in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>Quando si installa Office 365 o Office 2019, è possibile ottenere OneNote per Windows 10 per impostazione predefinita. Per ulteriori informazioni, vedere [domande frequenti su OneNote in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>OneNote app accesso ai blocchi appunti su SharePoint Server, SharePoint Online, OneDrive for business e Office 365. <br/>
 ><sup>+++</sup>Il supporto di BHO è una tecnologia di estensione per Internet Explorer. <br/>
 ><sup>1</sup> Con la presente versione di Office sono supportate le funzionalità di archiviazione e conformità ma i piani Exchange Online e SharePoint Online non sono inclusi e devono essere acquistati separatamente o utilizzati con un server equivalente supportato in locale.<br/>
