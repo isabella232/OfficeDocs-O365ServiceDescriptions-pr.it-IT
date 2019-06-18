@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>Settimana del 06 maggio 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modificato |
-| 5/6/2019 | [Descrizione del servizio Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificato |
-| 5/7/2019 | [Descrizione del servizio Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modificato |
-| 5/7/2019 | [Supporto](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modificato |
-| 5/7/2019 | [Descrizione del servizio Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificato |
-
-
 ## <a name="week-of-may-13-2019"></a>Settimana del 13 maggio 2019
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Centro sicurezza e conformità di Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificato |
 | 6/7/2019 | [Limiti di SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificato |
 | 6/7/2019 | [Descrizione del servizio SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificato |
+
+
+## <a name="week-of-june-10-2019"></a>Settimana del 10 giugno 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 6/13/2019 | [Descrizione servizio applicazioni Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificato |
+| 6/13/2019 | [Descrizione del servizio SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificato |

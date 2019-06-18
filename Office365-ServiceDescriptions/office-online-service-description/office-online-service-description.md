@@ -3,7 +3,6 @@ title: Descrizione servizi Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Con Office Online, diventa facile utilizzare e condividere file Office ovunque ci si trovi, da praticamente qualsiasi dispositivo, con una connessione Internet. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343784"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018308"
 ---
 # <a name="office-online-service-description"></a>Descrizione servizi Office Online
 
 Office Online (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Con Office Online, diventa facile utilizzare e condividere file Office ovunque ci si trovi, da praticamente qualsiasi dispositivo, con una connessione Internet. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
   
-Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-online-plans"></a>Disponibilità delle funzionalità tra piani di Office Online
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina r
 Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'organizzazione? Nelle tabelle seguenti vengono confrontate le funzionalità di Office Online per le app desktop Microsoft Office complete di funzionalità. Utilizzare le tabelle per scoprire quali funzionalità sono disponibili in Office Online e quindi fare clic sul nome della funzionalità per leggere una breve descrizione del funzionamento della caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione hanno bisogno della funzionalità di creazione di grafici avanzata dell'app desktop Excel, mentre altri devono solo visualizzare e modificare leggermente documenti di Word e presentazioni di PowerPoint con Office Online. 
   
 > [!NOTE]
->  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo delle funzionalità di Microsoft Office. >  Microsoft Office 365 ProPlus è una sottoscrizione mensile per la versione più recente della famiglia di prodotti desktop Office. > Microsoft Office Online Server i clienti locali ricevono una licenza di modifica di Office Online se hanno acquistato una licenza per la famiglia di prodotti desktop Office (ad esempio, una licenza Office Professional Plus, Office standard o Office 365 ProPlus). 
+>  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo delle funzionalità di Microsoft Office. <br/>  Microsoft Office 365 ProPlus è una sottoscrizione mensile per la versione più recente della famiglia di prodotti desktop Office. <br/>  Microsoft Office Online Server i clienti locali ricevono una licenza di modifica di Office Online se hanno acquistato una licenza per la famiglia di prodotti desktop Office (ad esempio, una licenza Office Professional Plus, Office standard o Office 365 ProPlus). 
   
 > [!NOTE]
 > Quando si apre un documento Office, come allegato di Outlook o da una raccolta di documenti di SharePoint, il documento viene aperto in Office Online in sola lettura. Per modificare un documento in Office Online (modalità di modifica), è necessaria una licenza per la famiglia di prodotti Office 365, come ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza per la famiglia di prodotti desktop Office (ad esempio, una sottoscrizione a Office 365 ProPlus o una versione installata di Office Professional Plus 2010). 
@@ -45,7 +44,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |**Funzionalità dell'applicazione** <br/> |**Word Online** <br/> |**App desktop Word** <br/> |
 |[Guide di allineamento e layout dinamico](word-online.md#alignment-guides-and-live-layout) <br/> |No  <br/> |Sì  <br/> |
 |[Applicazione di stili](word-online.md#apply-styles) <br/> |Sì  <br/> |Sì  <br/> |
-|[Salvataggio automatico](word-online.md#autosave) <br/> |No  <br/> |Sì  <br/> |
+|[Salvataggio automatico](word-online.md#autosave) <br/> |Sì  <br/> |Sì  <br/> |
 |[Glossario](word-online.md#autotext) <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricerca e creazione da un modello professionale](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |Sì  <br/> |Sì  <br/> |
 |[Elenchi puntati e numerati](word-online.md#bullets-and-numbering) <br/> |Sì  <br/> |Sì  <br/> |
@@ -214,9 +213,9 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Creazione condivisa](onenote-online.md#co-authoring) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione e gestione di pagine e sezioni](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Sì  <br/> |Sì  <br/> |
 |[Download della copia di file Office incorporati](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |
-|[Drag and drop Pages] <br/> |Sì  <br/> |Sì <br/> |
-|[Sezioni drag and drop] <br/> |Sì  <br/> |Sì <br/> |
-|[Gruppi di sezioni drag and drop] <br/> |No  <br/> |Sì <br/> |
+|Trascinare e rilasciare pagine <br/> |Sì  <br/> |Sì <br/> |
+|Sezioni di trascinamento e rilascio <br/> |Sì  <br/> |Sì <br/> |
+|Gruppi di sezioni di trascinamento e rilascio <br/> |No  <br/> |Sì <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sì  <br/> |Sì  <br/> |
 |[Modifica dei file incorporati](onenote-online.md#EmbeddedFileEdit) <br/> |No  <br/> |Sì  <br/> |
 |[Equazioni](onenote-online.md#equations) <br/> |Sì  <br/> |Sì  <br/> |
@@ -301,10 +300,11 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Visualizzazione WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sì  <br/> |Sì  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint online supporta una raccolta di otto transizioni e animazioni 37. Per una selezione più ampia o per creare animazioni personalizzate, utilizzare l'app desktop PowerPoint. 
- <br/><sup>2</sup> il dispositivo a cui si sta lavorando deve supportare l'input penna. 
- <br/> <sup>3</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. 
- <br/><sup>4</sup> non è possibile creare grafici pivot o tabelle pivot, ma è possibile visualizzarle nel visualizzatore. 
+><sup>1</sup> PowerPoint online supporta una raccolta di otto transizioni e animazioni 37. Per una selezione più ampia o per creare animazioni personalizzate, utilizzare l'app desktop PowerPoint. 
+ <br/>
+<sup>2</sup> il dispositivo a cui si sta lavorando deve supportare l'input penna. <br/> 
+<sup>3</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. <br/>
+<sup>4</sup> non è possibile creare grafici pivot o tabelle pivot, ma è possibile visualizzarle nel visualizzatore. 
   
 ## <a name="supported-file-types-for-office-online"></a>Tipi di file supportati per Office Online
 <a name="bkmk_SupportedFileTypes"> </a>
