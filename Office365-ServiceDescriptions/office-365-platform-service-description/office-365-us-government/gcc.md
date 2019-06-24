@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Per soddisfare i requisiti univoci e in evoluzione dei governi federale, statale, locale e tribale degli Stati Uniti, nonché i contraenti che detengono o elaborano dati per conto del governo statunitense, Microsoft offre servizi di Office 365 US Government community (GCC). Disponibili attraverso più canali che includono i contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, sono disponibili versioni di prova solo per gli enti governativi degli Stati Uniti.
-ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3519ad9d34180b82bf32761cf3d1188ffff2b7d6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343245"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131100"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -34,7 +34,7 @@ Office 365 US Government supporta il riconoscimento Federal Risk and Authorizati
   
 Office 365 US Government supporta anche la SRG (Security Requirements Guide) relativa al cloud computing del Dipartimento della Difesa degli Stati Uniti d'America per i sistemi di livello 2 (informazioni non classificate controllate). 
   
-Exchange Online, SharePoint Online, Archiviazione Exchange Online, Skype for Business e Office Online dispongono di caratteristiche che possono supportare i requisiti dei clienti CJIS per forze dell'ordine e quelli IRS-1075 per i clienti che gestiscono FTI.
+Exchange Online, SharePoint Online, Exchange Online Archiving, Skype for business e Office per il Web dispongono di caratteristiche che possono supportare i requisiti di CJIS dei clienti per le agenzie di applicazione della legge e i requisiti IRS-1075 per i clienti che gestiscono FTI.
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Personale della Office 365 US Government Community sottoposto a screening
 

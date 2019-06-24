@@ -3,7 +3,6 @@ title: Descrizione del servizio Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742105"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130970"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -36,7 +35,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |SharePoint Online  <br/> |Sì  <br/> |Sì  <br/> |
 |OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |
 |Skype for Business online  <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |
-|Office Online  <br/> |Sì  <br/> |Sì  <br/> |
+|Office per il Web  <br/> |Sì  <br/> |Sì  <br/> |
 |Applicazioni di Office  <br/> |Sì  <br/> |Sì  <br/> |
 |Project Online  <br/> |N.<sup>3</sup> <br/> |N.<sup>3</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |
@@ -118,7 +117,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità di gestione di identità e accesso nel cloud** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
+|**Funzionalità di gestione di identità e accesso nel cloud** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Autenticazione a più fattori di Azure (AMF)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Unità amministrative  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Individuazione di app per cloud  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
@@ -126,14 +125,13 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Reimpostazione della password in modalità self-service per le identità cloud  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Reimpostazione della password in modalità self-service con write-back AD locale  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Sincronizzazione bidirezionale di oggetti dispositivo tra directory locali e Azure AD (write-back dispositivo)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|Accesso condizionale (basato su gruppo, posizione, stato del dispositivo, accesso o rischio utente)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Accesso condizionale (in base al gruppo, alla posizione o allo stato del dispositivo)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Personalizzazione delle società (pagine di accesso, personalizzazione del riquadro di accesso)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proxy di applicazione  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |User CAL (Licenza di accesso da parte dell'utente) di Microsoft Identity Manager (MIM)  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Connect Health  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Contratto di servizio del 99,9%  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Advanced Threat Analytics  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|Accesso condizionale  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |**Funzionalità di gestione di dispositivi e applicazioni** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Gestione dei dispositivi mobili (MDM)<sup>15</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Registrazione automatica di Gestione di dispositivi mobili (MDM)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: af529770b0c9a28f55f149d498cfeffeb3f4b934
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343015"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130910"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
@@ -41,7 +41,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione servizio applicazioni Office](office-applications-service-description/office-applications-service-description.md)
     
-- [Descrizione servizi Office Online](office-online-service-description/office-online-service-description.md)
+- [Office per la descrizione del servizio Web](office-online-service-description/office-online-service-description.md)
     
 - [Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
     

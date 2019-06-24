@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, provenienti da Data Center tedeschi, con data Residency in Germania e rigorose misure di accesso ai dati e di controllo tramite un modello di attendibilità dei dati univoco disciplinato dal diritto tedesco.
-ms.openlocfilehash: ccc1a0efe2f5a6563d7e5602f5522a3da8fb5595
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343585"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131077"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -38,7 +38,7 @@ Ogni piano di Office 365 Germany include una serie di servizi individuali, come 
 |SharePoint Online  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Skype for Business online  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Office Online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Office per il Web  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Office 365 ProPlus<sup>2</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Project Online <sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Power BI <sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -329,24 +329,24 @@ Utilizzare le tabelle seguenti per confrontare la disponibilità delle funzional
 <sup>10</sup> L'attivazione per contratti multilicenza per Office 365 Germany Enterprise E3 e Office 365 ProPlus è limitata alle installazioni su Windows Server 2008 R2 e versioni successive con il ruolo RDS abilitato o alle installazioni di Windows To Go. In entrambi i casi, gli utenti che accedono a queste installazioni devono disporre dell'apposita licenza di Office 365 Germany Enterprise E3 o Office 365 ProPlus.<br/>
 <sup>11</sup> non disponibile per Office 365 Germany, ma lo sarà presto. 
   
-## <a name="office-online-features"></a>Funzionalità di Office Online
+## <a name="office-for-the-web-features"></a>Office per le funzionalità Web
 <a name="BM1_Platform"> </a>
 
-Nella tabella seguente sono riportati i collegamenti ai confronti delle funzionalità di funzionalità di Office Online disponibili in Office 365 Germany per le app desktop Microsoft Office con funzionalità avanzate. Utilizzare i confronti per scoprire quali funzionalità sono disponibili in Office Online e quindi fare clic sul nome della funzionalità per leggere una breve descrizione su come funziona la caratteristica. Si potrebbe scoprire che alcune persone nell'organizzazione hanno bisogno delle funzionalità avanzate per i grafici dell'app desktop Excel, mentre per altre è sufficiente visualizzare e apportare piccole modifiche ai documenti Word e alle presentazioni PowerPoint con Office Online. 
+Nella tabella seguente sono riportati i collegamenti ai confronti di Office per le funzionalità delle funzionalità Web disponibili in Office 365 Germany per le app desktop Microsoft Office ricche di funzionalità. Utilizzare i confronti per scoprire quali funzionalità sono disponibili in Office per il Web e quindi fare clic sul nome della funzionalità per leggere una breve descrizione su come funziona la caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione possono richiedere la funzionalità di creazione di grafici avanzata dell'app desktop Excel, mentre altri possono solo visualizzare e modificare documenti di Word e presentazioni di PowerPoint con Office per il Web. 
   
 > [!NOTE]
 > - È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. La tabella non è un elenco completo delle funzionalità di Microsoft Office. <br/> 
 > - Microsoft Office 365 ProPlus è una sottoscrizione mensile per la versione più recente della famiglia di prodotti desktop Office. <br/>
-> -  Microsoft Office Web Apps Server 2013 i clienti locali ricevono una licenza di modifica di Office Online se hanno acquistato una licenza per la famiglia di prodotti desktop Office (ad esempio Office Professional Plus, Office standard o una licenza di Office 365 ProPlus). <br/>
+> -  Microsoft Office Web Apps Server 2013 i clienti locali ricevono un ufficio per la licenza di modifica Web se hanno acquistato una licenza per la famiglia di prodotti desktop Office (ad esempio Office Professional Plus, Office standard o una licenza di Office 365 ProPlus). <br/>
 > -  A causa della natura di Office 365 Germany, esistono alcune funzionalità che non sono state ancora attivate. Nel tempo tutti i servizi verranno dotati delle funzionalità complete. 
   
 ||||
 |:-----|:-----|:-----|
-|**Applicazione** <br/> |**Office Online** <br/> |**Collegamento a un confronto dettagliato sulla funzionalità** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**Applicazione** <br/> |**Office per il Web** <br/> |**Collegamento a un confronto dettagliato sulla funzionalità** <br/> |
+|Word  <br/> |Word per il Web  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel per il Web  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote per il Web  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint per il Web  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Funzionalità di Exchange Online 
 <a name="BM1_Platform"> </a>
@@ -638,7 +638,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |[Content Organizer](../sharepoint-online-service-description/content.md#content-organizer) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione progettazione](../sharepoint-online-service-description/content.md#design-manager) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Set di documenti](../sharepoint-online-service-description/content.md#document-sets) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Traduzione di documenti in Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Traduzione di documenti in Word per il Web](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricerca eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Esenzione di eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
 |[Esportazione di eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
@@ -653,8 +653,8 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |[Servizio metadati gestiti](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Spostamento basato su metadati](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Disposizione multifase](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Office Online (creazione/modifica)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
-|[Office Online (visualizzazione)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Office per il Web (creazione/modifica)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
+|[Office per il Web (visualizzazione)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Integrazione di Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |PowerPoint Automation Services <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Raccolta di archiviazione](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
@@ -897,7 +897,7 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 |[Content Organizer](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione progettazione](../sharepoint-online-service-description/content.md#design-manager) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Set di documenti](../sharepoint-online-service-description/content.md#document-sets) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Traduzione di documenti in Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Traduzione di documenti in Word per il Web](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricerca eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Sì<sup>6</sup> <br/> |Sì  <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |
 |[Esenzione di eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |N.<sup>6</sup> <br/> |No  <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |
 |[Esportazione di eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |N.<sup>6</sup> <br/> |No  <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |
@@ -912,8 +912,8 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 |[Servizio metadati gestiti](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Spostamento basato su metadati](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Disposizione multifase](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Office Online (creazione/modifica)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>16</sup> <br/> |
-|[Office Online (visualizzazione)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Office per il Web (creazione/modifica)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>16</sup> <br/> |
+|[Office per il Web (visualizzazione)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Office ProPlus (Osub)  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Integrazione di Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |PowerPoint Automation Services <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |

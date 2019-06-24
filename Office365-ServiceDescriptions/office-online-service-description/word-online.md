@@ -1,5 +1,5 @@
 ---
-title: Word Online
+title: Word per il Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,37 +14,37 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word online (in precedenza Word Web App) consente di estendere la propria esperienza di Microsoft Word al Web browser, in cui è possibile lavorare con i documenti direttamente nel sito Web in cui è archiviato il documento.
-ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Word per il Web (in precedenza Word Web App) estende la propria esperienza di Microsoft Word al Web browser, in cui è possibile utilizzare i documenti direttamente nel sito Web in cui è archiviato il documento.
+ms.openlocfilehash: 92a5768e6b745dbc65d47eba6b437af81eb7dc30
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343795"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131290"
 ---
-# <a name="word-online"></a>Word Online
+# <a name="word-for-the-web"></a>Word per il Web
 
-Word online (in precedenza Word Web App) consente di estendere la propria esperienza di Microsoft Word al Web browser, in cui è possibile lavorare con i documenti direttamente nel sito Web in cui è archiviato il documento. 
+Word per il Web (in precedenza Word Web App) estende la propria esperienza di Microsoft Word al Web browser, in cui è possibile utilizzare i documenti direttamente nel sito Web in cui è archiviato il documento. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Alignment guides and live layout
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
 
-I righelli e le linee della griglia non sono disponibili in Word Online. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+I righelli e le griglie non sono disponibili in Word per il Web. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="apply-styles"></a>Apply styles
 <a name="bkmk_Styles"> </a>
 
-È possibile applicare al testo in Word Online gli stili per paragrafi e caratteri salvati in un documento. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Gli stili di paragrafo e di carattere salvati in un documento sono disponibili per essere applicati al testo in Word per il Web. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="office-add-ins"></a>Componenti aggiuntivi di Office
 <a name="bkmk_AppsforOffice"> </a>
 
-Dall'archivio di Office, è possibile ottenere un componente aggiuntivo per Word. I componenti aggiuntivi di Office funzionano solo nell'applicazione desktop di Word e non sono disponibili in Word Online. Informazioni su come [ottenere un componente aggiuntivo per Word](https://go.microsoft.com/fwlink/?LinkId=391443).
+Dall'archivio di Office, è possibile ottenere un componente aggiuntivo per Word. I componenti aggiuntivi di Office funzionano solo nell'app desktop Word e non sono disponibili in Word per il Web. Informazioni su come [ottenere un componente aggiuntivo per Word](https://go.microsoft.com/fwlink/?LinkId=391443).
   
 ## <a name="autosave"></a>Salvataggio automatico
 <a name="bkmk_Save"> </a>
 
-Word Online salva automaticamente il documento quando si apportano modifiche.
+La parola per il Web Salva automaticamente il documento quando si apportano modifiche.
   
 ## <a name="autotext"></a>Glossario
 <a name="bkmk_autotext"> </a>
@@ -54,32 +54,32 @@ Word Online salva automaticamente il documento quando si apportano modifiche.
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 <a name="bkmk_DesignedTemplates"> </a>
 
-Non è disponibile in Word Online. Le funzionalità di progettazione avanzate, quale la creazione di documenti da una vasta gamma di modelli professionali disponibili su Office.com, sono disponibili solo nell'app desktop Word. Tuttavia, i clienti Office 365 possono configurare una raccolta documenti per lanciare un modello personalizzato quando un utente crea un nuovo documento. Per ulteriori informazioni, vedere [Aggiungere un tipo di contenuto a un elenco o libreria](https://go.microsoft.com/fwlink/p/?LinkId=391446).
+Non disponibile in Word per il Web. Le funzionalità di progettazione avanzate, quale la creazione di documenti da una vasta gamma di modelli professionali disponibili su Office.com, sono disponibili solo nell'app desktop Word. Tuttavia, i clienti Office 365 possono configurare una raccolta documenti per lanciare un modello personalizzato quando un utente crea un nuovo documento. Per ulteriori informazioni, vedere [Aggiungere un tipo di contenuto a un elenco o libreria](https://go.microsoft.com/fwlink/p/?LinkId=391446).
   
 ## <a name="bullets-and-numbering"></a>Elenchi puntati e numerati
 <a name="bkmk_BulletsNumbering"> </a>
 
-Con Word Online, è possibile scegliere fra tre tipi di elenchi puntati e cinque tipi di elenchi numerati. Fare clic sui pulsanti Aumenta rientro e Riduci rientro per modificare il livello delle voci negli elenchi puntati e numerati all'interno del documento, così come per quelli creati nell'app desktop Word. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, è possibile applicare una scelta di tre stili di elenchi puntati o cinque stili di numerazione. Fare clic sui pulsanti Aumenta rientro e Riduci rientro per modificare il livello delle voci negli elenchi puntati e numerati all'interno del documento, così come per quelli creati nell'app desktop Word. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="captions"></a>Didascalie
 <a name="bkmk_Captions"> </a>
 
-Non è disponibile in Word Online. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per aggiungere delle didascalie a un documento. Ulteriori informazioni sull'[aggiunta di didascalie in Word 2013](https://go.microsoft.com/fwlink/p/?LinkId=282312).
+Non disponibile in Word per il Web. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per aggiungere delle didascalie a un documento. Ulteriori informazioni sull'[aggiunta di didascalie in Word 2013](https://go.microsoft.com/fwlink/p/?LinkId=282312).
   
 ## <a name="citations-and-bibliography"></a>Citations and bibliography
 <a name="bkmk_Citations"> </a>
 
-Non è disponibile in Word Online. In Word Online è possibile visualizzare le citazioni esistenti, ma non aggiungerne di nuove. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per aggiungere bibliografia e citazioni a un documento. Ulteriori informazioni sulla [creazione di una bibliografia in Word 2013](https://go.microsoft.com/fwlink/p/?LinkId=282314). 
+Non disponibile in Word per il Web. È possibile visualizzare le citazioni esistenti in Word per il Web, ma non è possibile aggiungere citazioni. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per aggiungere bibliografia e citazioni a un documento. Ulteriori informazioni sulla [creazione di una bibliografia in Word 2013](https://go.microsoft.com/fwlink/p/?LinkId=282314). 
   
 ## <a name="clipboard"></a>Appunti
 <a name="bkmk_Clipboard"> </a>
 
-A causa dei limiti imposti dalla tecnologia del browser, le operazioni di Copia e Incolla in Office Online sono diverse dalle stesse operazioni eseguite nelle applicazioni desktop Office. Ulteriori informazioni sull'[utilizzo di Copia e Incolla in Office Online](https://go.microsoft.com/fwlink/p/?LinkId=282321).
+A causa delle limitazioni della tecnologia del Web browser, la copia e incolla di testo in Office per il Web differisce dalla copia e incolla del testo nelle applicazioni desktop di Office. Per ulteriori informazioni [, vedere copia e incolla in Office per il Web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
   
 ## <a name="collaboration--advanced"></a>Collaboration- advanced
 <a name="bkmk_AdvancedCollaboration"> </a>
 
-Non è disponibile in Word Online. Le funzionalità di collaborazione avanzata, quali l'attivazione di Rilevamento modifiche e la possibilità di unire, confrontare e combinare i documenti, sono disponibili solo nell'app desktop Word. Come previsto, le modifiche rilevate vengono visualizzate in Word Online in modalità di visualizzazione.
+Non disponibile in Word per il Web. Le funzionalità di collaborazione avanzata, quali l'attivazione di Rilevamento modifiche e la possibilità di unire, confrontare e combinare i documenti, sono disponibili solo nell'app desktop Word. Come previsto, le modifiche riportate vengono visualizzate in Word per il Web durante la modalità di visualizzazione.
   
 ## <a name="content-controls"></a>Controlli contenuto
 <a name="bkmk_contentcontrols"> </a>
@@ -94,12 +94,12 @@ Microsoft Word offre una pratica raccolta di frontespizi predefiniti. Basta sceg
 ## <a name="creation-of-advanced-document-elements"></a>Creazione di elementi di documenti avanzati
 <a name="bkmk_Creationadvanceddocumentelements"> </a>
 
-Non è disponibile in Word Online. Gli elementi avanzati, quali glossari, copertine, bibliografie, sommari, indici, equazioni e filigrane sono disponibili solo nell'app desktop Word. 
+Non disponibile in Word per il Web. Gli elementi avanzati, quali glossari, copertine, bibliografie, sommari, indici, equazioni e filigrane sono disponibili solo nell'app desktop Word. 
   
-## <a name="document-parts-and-themes"></a>Document parts and themes
+## <a name="document-parts-and-themes"></a>Parti e temi del documento
 <a name="bkmk_Documentpartsandthemes"> </a>
 
-Non è disponibile in Word Online. Parti e temi del documento, quali controlli contenuto, raccolte preformattate di combinazioni di colori e di tipi di carattere, set di effetti grafici, sono disponibili solo nell'app desktop Word. 
+Non disponibile in Word per il Web. Parti e temi del documento, quali controlli contenuto, raccolte preformattate di combinazioni di colori e di tipi di carattere, set di effetti grafici, sono disponibili solo nell'app desktop Word. 
   
 ## <a name="document-translation"></a>Traduzione di documenti
 <a name="bkmk_DocumentTranslation"> </a>
@@ -119,22 +119,22 @@ Microsoft Word include il supporto incorporato per la scrittura e la modifica di
 ## <a name="find-and-replace"></a>Trova e Sostituisci
 <a name="bkmk_Find"> </a>
 
-Trova e sostituisci il testo nel documento utilizzando lo strumento Trova e sostituisci su Word Online e sull'app Word desktop. Per ulteriori informazioni sull'utilizzo di Trova e sostituisci in Word Web App, vedere Word Online, vedere [Novità di Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
+Trovare e sostituire il testo nel documento utilizzando lo strumento trova e Sostituisci in Word per il Web e l'app desktop Word. Per ulteriori informazioni sull'utilizzo di trova e Sostituisci in Word per il Web, vedere [What ' s New in Word for the Web](https://go.microsoft.com/fwlink/?LinkId=389520).
   
 ## <a name="font-formatting"></a>Font formatting
 <a name="bkmk_Fontformatting"> </a>
 
-Con Word Online, è possibile scegliere un carattere, una dimensione del carattere e numerosi attributi di formattazione quali grassetto, corsivo, sottolineato e apice. Evidenziare il testo, cambiare il colore del carattere e cancellare la formattazione del testo selezionato. La formattazione del tema del documento è disponibile per la formattazione del testo in Word Online. È possibile individuare i caratteri del tema attivo in cima alla raccolta Caratteri e i colori del tema nella raccolta Colore carattere. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, è possibile applicare il tipo di carattere, la dimensione del carattere e diversi attributi di formattazione dei tipi di carattere, tra cui grassetto, corsivo, sottolineato e apice. Evidenziare il testo, cambiare il colore del carattere e cancellare la formattazione del testo selezionato. La formattazione del tema del documento è disponibile per formattare il testo in Word per il Web. È possibile individuare i caratteri del tema attivo in cima alla raccolta Caratteri e i colori del tema nella raccolta Colore carattere. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="footnotes-and-endnotes"></a>Footnotes and endnotes
 <a name="bkmk_Footnotes"> </a>
 
-Puoi aggiungere piè di pagina e note di chiusura ai tuoi documenti in Word Online. Ulteriori informazioni sull'[aggiunta di piè di pagina e note di chiusura in Word Online](https://go.microsoft.com/fwlink/p/?LinkId=397306).
+È possibile aggiungere note a piè di pagina e note di chiusura ai documenti in Word per il Web. Per ulteriori informazioni [, vedere Aggiunta di note a piè di pagina e note di chiusura in Word per il Web](https://go.microsoft.com/fwlink/p/?LinkId=397306).
   
 ## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 <a name="bkmk_FullFidelityReadingView"> </a>
 
-Quando si apre il documento in OneDrive o SharePoint, Word Online apre il documento nel browser. Il layout e la formattazione corrispondono a quelli che si otterrebbero aprendo il documento in modalità Layout di stampa nell'app desktop Word.
+Quando si apre il documento in OneDrive o SharePoint, la parola per il Web apre il documento nel browser. Il layout e la formattazione corrispondono a quelli che si otterrebbero aprendo il documento in modalità Layout di stampa nell'app desktop Word.
   
 ## <a name="graphic-effect-presets"></a>Impostazioni predefinite per effetti grafici
 <a name="bkmk_presets"> </a>
@@ -144,12 +144,12 @@ Quando si apre il documento in OneDrive o SharePoint, Word Online apre il docume
 ## <a name="headers-and-footers"></a>Intestazioni e piè di pagina
 <a name="bkmk_WordHeadersandFooters"> </a>
 
-Inserire un'intestazione e piè di pagina al proprio documento su Word Online e sull'app Word desktop. È disponibile anche la possibilità di applicare intestazioni e piè di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni sull'utilizzo di intestazioni e piè di pagina in Word Online, vedere [Novità di Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
+Inserire un'intestazione e un piè di pagina nel documento in Word per il Web e l'app desktop Word. È disponibile anche la possibilità di applicare intestazioni e piè di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni sull'utilizzo delle intestazioni e dei piè di pagina in Word per il Web, vedere [What ' s New in Word for the Web](https://go.microsoft.com/fwlink/?LinkId=389520).
   
 ## <a name="hyperlinks"></a>Collegamenti ipertestuali
 <a name="bkmk_Hyperlinks"> </a>
 
-Con Word Online, è possibile creare facilmente dei collegamenti ai segnalibri in un documento e impostare un suggerimento che venga visualizzato quando il cursore punta al collegamento. Ulteriori informazioni sui [collegamenti ipertestuali in Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271863).
+Con Word per il Web, è possibile creare facilmente collegamenti ai segnalibri all'interno di un documento e impostare un suggerimento per la visualizzazione quando il cursore punta al collegamento. Per ulteriori informazioni, vedere [collegamenti ipertestuali in Word per il Web](https://go.microsoft.com/fwlink/p/?LinkId=271863).
   
 ## <a name="index"></a>Indice
 <a name="bkmk_index"> </a>
@@ -164,12 +164,12 @@ L'editor di input penna consente di modificare e formattare i documenti utilizza
 ## <a name="insert-online-pictures"></a>Insert online pictures
 <a name="bkmk_InsertPicturessClipArt"> </a>
 
-Con Word Online, è possibile inserire un'immagine salvata sul disco rigido locale o da immagini di Bing. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, è possibile inserire un'immagine da un file salvato nell'unità disco rigido locale o da immagini Bing. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="irm-and-password-protection"></a>IRM e protezione tramite password
 <a name="bkmk_IRMpasswoprdprotect"> </a>
 
-Word Online visualizza documenti protetti con Information Rights Management (IRM). Tuttavia, nel browser tali documenti non possono essere modificati e non è possibile creare presentazioni protette con IRM in Word Online. Word Online non può aprire i documenti con firma digitale o crittografate con una password. Le funzionalità di protezione avanzata dei documenti, quali la creazione di documenti protetti tramite IRM e l'applicazione di protezione tramite password, sono disponibili solo nell'app desktop Word.
+In Word per il Web vengono visualizzati i documenti protetti con Information Rights Management (IRM). Tuttavia, questi documenti non possono essere modificati nel browser e non è possibile creare documenti protetti con IRM in Word per il Web. La parola per il Web non è in grado di aprire documenti crittografati con una password. Le funzionalità di protezione avanzata dei documenti, quali la creazione di documenti protetti tramite IRM e l'applicazione di protezione tramite password, sono disponibili solo nell'app desktop Word.
   
 ## <a name="learning-tools"></a>Strumenti di apprendimento
 <a name="BKMK_LearningTools"> </a>
@@ -179,49 +179,49 @@ Gli strumenti di apprendimento sono studiati per migliorare le proprie capacità
 ## <a name="lists"></a>Elenchi
 <a name="BKMK_Lists_WordOnline"> </a>
 
-In Word Online, inizia a scrivere direttamente sotto a un elenco numerato esistente e la tua riga successiva diventerà automaticamente parte dell'elenco. Ulteriori informazioni sulla [creazione di un elenco in Word Online](https://go.microsoft.com/fwlink/p/?LinkId=397307).
+In Word per il Web, iniziare a digitare direttamente al di sotto di un elenco numerato esistente e la riga successiva diventerà automaticamente parte dell'elenco. Per ulteriori informazioni, vedere [creazione di un elenco in Word per il Web](https://go.microsoft.com/fwlink/p/?LinkId=397307).
   
 ## <a name="mail-merge"></a>Mail merge
 <a name="bkmk_Mailmerge"> </a>
 
-Non è disponibile in Word Online. Le funzionalità di integrazione avanzata dei dati, ad esempio Stampa unione tramite un foglio di calcolo Excel, sono disponibili solo nell'app desktop Word. 
+Non disponibile in Word per il Web. Le funzionalità di integrazione avanzata dei dati, ad esempio Stampa unione tramite un foglio di calcolo Excel, sono disponibili solo nell'app desktop Word. 
   
 ## <a name="offline-viewing-and-authoring"></a>Creazione e visualizzazione offline
 <a name="bkmk_Offlineviewingauthoring"> </a>
 
-Non è disponibile in Word Online. Office Online richiede una connessione Internet e un browser Internet. È necessario che l'app desktop Word sia installata sul computer per visualizzare e modificare un documento non collegato a Internet o al server Office Web Apps locale dell'organizzazione. Se si dispone dell'app desktop Word installata, è possibile utilizzare le funzionalità complete di Word per visualizzare e modificare il documento. Quando viene salvato, il documento online viene aggiornato con le modifiche. È anche possibile scaricare e salvare con nome una copia non in linea del documento ma non verrà sincronizzato con la versione online. Ulteriori informazioni sul [server Office Web Apps](https://go.microsoft.com/fwlink/p/?LinkId=282318).
+Non disponibile in Word per il Web. Office per il Web richiede una connessione Internet e un browser Internet. È necessario che l'app desktop Word sia installata sul computer per visualizzare e modificare un documento non collegato a Internet o al server Office Web Apps locale dell'organizzazione. Se si dispone dell'app desktop Word installata, è possibile utilizzare le funzionalità complete di Word per visualizzare e modificare il documento. Quando viene salvato, il documento online viene aggiornato con le modifiche. È anche possibile scaricare e salvare con nome una copia non in linea del documento ma non verrà sincronizzato con la versione online. Ulteriori informazioni sul [server Office Web Apps](https://go.microsoft.com/fwlink/p/?LinkId=282318).
   
 ## <a name="page-breaks"></a>Page breaks
 <a name="bkmk_PageBreaks"> </a>
 
-Inserire interruzioni di pagina in Word Online e nell'applicazione desktop di Word.
+Inserire interruzioni di pagina in Word per il Web e l'app desktop Word.
   
 ## <a name="page-layout-tools"></a>Page layout tools
 <a name="bkmk_PageLayoutTools"> </a>
 
-Con Word Online, è possibile regolare margini e dimensioni del documento o impostare la pagina verticalmente o orizzontalmente. Word Online non visualizza righelli e linee della griglia. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
+Con Word per il Web, è possibile modificare i margini, le dimensioni della carta e se la pagina è disposta verticalmente o orizzontalmente nei documenti. In Word per il Web non vengono visualizzati righelli e griglie. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
-Informazioni su come [Eliminare una pagina vuota in Word Online](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1).
+Informazioni su come [eliminare una pagina vuota in Word per il Web](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1).
   
 ## <a name="page-layout-tools--advanced"></a>Page layout tools- advanced
 <a name="bkmk_AdvancedPageLayout"> </a>
 
-Non è disponibile in Word Online. Le funzionalità avanzate come bordi pagina e numeri riga, sono disponibili solo nell'app Word desktop.
+Non disponibile in Word per il Web. Le funzionalità avanzate come bordi pagina e numeri riga, sono disponibili solo nell'app Word desktop.
   
 ## <a name="page-numbers"></a>Page numbers
 <a name="bkmk_PageNumbers"> </a>
 
-Inserire i numeri di pagina sul documento in Word Online e sull'app Word desktop. È disponibile anche la possibilità di applicare i numeri di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni sull'utilizzo dei numeri di pagina in Word Online, vedere [Novità di Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
+Inserire i numeri di pagina nel documento in Word per il Web e l'app desktop Word. È disponibile anche la possibilità di applicare i numeri di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni sull'utilizzo dei numeri di pagina in Word per il Web, vedere [What ' s New in Word for the Web](https://go.microsoft.com/fwlink/?LinkId=389520).
   
 ## <a name="paragraph-formatting"></a>Formattazione dei paragrafi
 <a name="bkmk_ParagraphFormatting"> </a>
 
-Con Word Online, è possibile allineare i paragrafi a sinistra, a destra o al centro, sviluppare il testo da destra a sinistra, aumentare o ridurre il rientro, formattare i paragrafi come elenco puntato o numerato. È anche possibile cancellare la formattazione. Non è possibile modificare l'interlinea in Word Online. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, è possibile allineare i paragrafi a sinistra, a destra o al centro; eseguire il testo da destra a sinistra; aumento o riduzione del rientro; e formattare i paragrafi come elenco puntato o numerato. È anche possibile cancellare la formattazione. Non è possibile modificare l'interlinea in Word per il Web. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="picture-tools"></a>Picture tools
 <a name="bkmk_PictureTools"> </a>
 
-Con Word Online, è possibile ridimensionare le immagini e aggiungere testo alternativo nel documento. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, è possibile ridimensionare le immagini e aggiungere testo alternativo nel documento. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="preformatted-font-and-color-schemes"></a>Schemi di carattere e colore preformattati
 <a name="bkmk_themes"> </a>
@@ -231,32 +231,32 @@ Con Word Online, è possibile ridimensionare le immagini e aggiungere testo alte
 ## <a name="present-online"></a>Presentazione online
 <a name="bkmk_Presentonline"> </a>
 
-Non disponibile in Word Online. Con l'app desktop Word 2013, è possibile utilizzare Servizio presentazioni Office o Skype for Business Online per visualizzare un documento durante una riunione online in modo che i colleghi possano utilizzare un collegamento per seguire l'utente che illustra il documento. 
+Non disponibile in Word per il Web. Con l'app desktop Word 2013, è possibile utilizzare Servizio presentazioni Office o Skype for Business Online per visualizzare un documento durante una riunione online in modo che i colleghi possano utilizzare un collegamento per seguire l'utente che illustra il documento. 
   
-## <a name="print-to-pdf"></a>Print to PDF
+## <a name="print-to-pdf"></a>Stampa su PDF
 <a name="bkmk_PrintPDF"> </a>
 
-Con Word Online, è possibile creare un PDF e visualizzare la finestra di dialogo Stampa con un semplice clic del mouse. Ulteriori informazioni sulla [stampa di un documento in Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271860).
+Con Word per il Web, è possibile ottenere un processo con un solo clic per la generazione di un file PDF e la visualizzazione della finestra di dialogo Stampa. Per ulteriori informazioni, vedere [stampa di un documento in Word per il Web](https://go.microsoft.com/fwlink/p/?LinkId=271860).
   
 ## <a name="printing--advanced"></a>Printing- advanced
 <a name="bkmk_AdvancedPrinting"> </a>
 
-Non è disponibile in Word Online. Le funzionalità avanzate di stampa (ad esempio, stampa di commenti e proprietà dei documenti) sono disponibili solo nell'app desktop Word 
+Non disponibile in Word per il Web. Le funzionalità avanzate di stampa (ad esempio, stampa di commenti e proprietà dei documenti) sono disponibili solo nell'app desktop Word 
   
 ## <a name="proofing-tools"></a>Strumenti di correzione
 <a name="bkmk_ProofingTools"> </a>
 
-Word Online esegue automaticamente il controllo ortografico durante la digitazione e sottolinea con una linea ondulata rossa le parole con errori di ortografia. Sono incluse le azioni di correzione automatica standard, quali la correzione dei comuni errori ortografici e la conversione dei caratteri in simboli. Inoltre, è possibile impostare la lingua di modifica o disattivare il controllo ortografico per il testo selezionato. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+La parola per il Web verifica automaticamente l'ortografia durante la digitazione e applica una sottolineatura rossa ondulata al testo con errori di ortografia. Sono incluse le azioni di correzione automatica standard, quali la correzione dei comuni errori ortografici e la conversione dei caratteri in simboli. Inoltre, è possibile impostare la lingua di modifica o disattivare il controllo ortografico per il testo selezionato. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="proofing-tools--advanced"></a>Proofing tools- advanced
 <a name="bkmk_AdvancedProofingTools"> </a>
 
-Non è disponibile in Word Online. Gli strumenti di correzione avanzati, quali la possibilità di aggiungere nuove parole al dizionario del controllo ortografico e l'utilizzo di dizionari personalizzati e di strumenti linguistici e di traduzione, sono disponibili solo nell'app desktop Word. 
+Non disponibile in Word per il Web. Gli strumenti di correzione avanzati, quali la possibilità di aggiungere nuove parole al dizionario del controllo ortografico e l'utilizzo di dizionari personalizzati e di strumenti linguistici e di traduzione, sono disponibili solo nell'app desktop Word. 
   
-## <a name="real-time-co-authoring"></a>Real-time co-authoring
+## <a name="real-time-co-authoring"></a>Creazione condivisa in tempo reale
 <a name="bkmk_Coauthoring"> </a>
 
-È possibile che più di una persona funzioni contemporaneamente in un documento. In Word online e Word 2016, la presenza in tempo reale consente di visualizzare la posizione in cui i coautori lavorano nel documento in modo da non creare conflitti durante la modifica ed è possibile visualizzare le modifiche apportate. Word 2013 supporta la modifica simultanea, ma non vi è alcuna indicazione sulla presenza e le modifiche non possono essere visualizzate da più autori finché il documento non viene salvato. Per ulteriori informazioni sulla creazione condivisa in tempo reale, vedere [What ' s New in Word online](https://go.microsoft.com/fwlink/?LinkId=389520) e [collaborare sui documenti di Word con la creazione condivisa in tempo reale](https://go.microsoft.com/fwlink/?linkid=798760).
+È possibile che più di una persona funzioni contemporaneamente in un documento. In Word per il Web e Word 2016, la presenza in tempo reale consente di visualizzare la posizione in cui i coautori operano nel documento, in modo da non creare conflitti durante la modifica ed è possibile visualizzare le modifiche apportate. Word 2013 supporta la modifica simultanea, ma non vi è alcuna indicazione sulla presenza e le modifiche non possono essere visualizzate da più autori finché il documento non viene salvato. Per ulteriori informazioni sulla creazione condivisa in tempo reale, vedere [What ' s New in Word for the Web](https://go.microsoft.com/fwlink/?LinkId=389520) e [collaborare sui documenti di Word con la creazione condivisa in tempo reale](https://go.microsoft.com/fwlink/?linkid=798760).
   
 ## <a name="reference-tools"></a>Reference tools
 <a name="bkmk_ReferenceTools"> </a>
@@ -276,47 +276,47 @@ Il ricercatore aiuta a trovare e incorporare fonti affidabili e contenuti per il
 ## <a name="rich-media"></a>Rich media
 <a name="bkmk_RichMedia"> </a>
 
-Non è disponibile in Word Online. Le funzionalità avanzate per i contenuti multimediali, quale l'inserimento di video online o presentazioni PowerPoint nel documento Word, sono disponibili solo nell'app desktop Word. 
+Non disponibile in Word per il Web. Le funzionalità avanzate per i contenuti multimediali, quale l'inserimento di video online o presentazioni PowerPoint nel documento Word, sono disponibili solo nell'app desktop Word. 
   
-## <a name="rich-table-formatting"></a>Rich table formatting
+## <a name="rich-table-formatting"></a>Formattazione avanzata delle tabelle
 <a name="bkmk_Richtableformatting"> </a>
 
-La formattazione avanzata delle tabelle, ad esempio la scelta di stili preimpostati o l'impostazione di determinate opzioni per righe, colonne e per ombreggiatura e bordi, sono disponibili in Word Online e nell'app Word desktop. Per ulteriori informazioni sulla formattazione delle tabelle in Word Online, vedere [Novità di Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
+La formattazione avanzata delle tabelle, come la scelta degli stili di tabella preimpostati, l'impostazione delle opzioni per le righe e le colonne di intestazione e l'impostazione delle opzioni di ombreggiatura e bordi, sono disponibili sia in Word per il Web che nell'app desktop Word. Per ulteriori informazioni sulla formattazione delle tabelle in Word per il Web, vedere [What ' s New in Word for the Web](https://go.microsoft.com/fwlink/?LinkId=389520).
   
 ## <a name="save-as-and-download-a-copy"></a>Save As and Download a copy
 <a name="bkmk_SaveAsDownload"> </a>
 
-Con Word Online, è possibile salvare una copia del documento a livello locale.
+Con Word per il Web, è possibile salvare una copia del documento localmente.
   
 ## <a name="save-as-pdf"></a>Salva come PDF
 <a name="bkmk_pdf"> </a>
 
-È possibile utilizzare Word Online per salvare o convertire i file PDF in modo che sia possibile condividerli o stamparli tramite servizi di stampa. E non occorre usare altri software o componenti aggiuntivi.
+È possibile utilizzare Word affinché il Web salvi o converta i file in PDF in modo che sia possibile condividerli o stamparli utilizzando stampanti commerciali. E non occorre usare altri software o componenti aggiuntivi.
   
 ## <a name="share"></a>Condividi
 <a name="bkmk_Share"> </a>
 
-In Word Online, con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, si tratta di un processo con un solo clic per l'invio di un collegamento che può essere utilizzato da altri utenti per visualizzare o modificare il documento. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="simple-table-creation"></a>Simple table creation
 <a name="bkmk_Table"> </a>
 
-Con Word Online, è possibile inserire una tabella e modificarne il testo e la struttura, ad esempio aggiungendo o eliminando righe e colonne. Funzionalità più avanzate, quali l'applicazione di stili tabella personalizzati e la scelta delle dimensioni delle celle, della direzione del testo e dell'ordinamento, sono disponibili solo nell'app desktop Word.
+Con Word per il Web, è possibile inserire una tabella, modificare il testo di una tabella e modificare facilmente la struttura di base delle tabelle, ad esempio l'aggiunta o l'eliminazione di righe e colonne. Funzionalità più avanzate, quali l'applicazione di stili tabella personalizzati e la scelta delle dimensioni delle celle, della direzione del testo e dell'ordinamento, sono disponibili solo nell'app desktop Word.
   
 ## <a name="smartart"></a>SmartArt
 <a name="bkmk_SmartArteditreformat"> </a>
 
-Con Word Online, i documenti esistenti con SmartArt vengono visualizzati correttamente in modalità di visualizzazione. Nella modalità di modifica, vengono visualizzati come segnaposto che è possibile eliminare, ma non modificare. Non possono essere spostati o ridimensionati in Word Online. Le funzionalità "artistiche" avanzate che consentono l'inserimento di forme, grafici, caselle di testo, SmartArt o WordArt sono disponibili solo nell'app desktop Word.
+Con Word per il Web, i documenti esistenti con SmartArt vengono visualizzati correttamente in modalità di visualizzazione. Nella modalità di modifica, vengono visualizzati come segnaposto che è possibile eliminare, ma non modificare. Non è possibile spostarli o ridimensionarli in Word per il Web. Le funzionalità "artistiche" avanzate che consentono l'inserimento di forme, grafici, caselle di testo, SmartArt o WordArt sono disponibili solo nell'app desktop Word.
   
-## <a name="table-of-contents"></a>Table of Contents
+## <a name="table-of-contents"></a>Sommario
 <a name="bkmk_TOC"> </a>
 
-Non è disponibile in Word Online. In Word Online è possibile visualizzare un sommario esistente, ma non crearne uno. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per creare un sommario nel documento. Ulteriori informazioni su [creare un sommario](https://go.microsoft.com/fwlink/p/?LinkId=324414). 
+Non disponibile in Word per il Web. È possibile visualizzare un sommario esistente, ma non crearne uno usando Word per il Web. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per creare un sommario nel documento. Ulteriori informazioni su [creare un sommario](https://go.microsoft.com/fwlink/p/?LinkId=324414). 
   
 ## <a name="table-of-authority"></a>Table of Authority
 <a name="bkmk_TableofAuthority"> </a>
 
-Non è disponibile in Word Online. In Word Online è possibile visualizzare un indice delle fonti esistente, ma non crearne uno.
+Non disponibile in Word per il Web. È possibile visualizzare una tabella di autorità esistente, ma non crearne una usando Word per il Web.
   
 ## <a name="tap"></a>Tocco
 <a name="BKMK_Tap"> </a>
@@ -326,12 +326,12 @@ Utilizzare la funzionalità di tocco per individuare e riutilizzare il contenuto
 ## <a name="tell-me"></a>Dimmi
 <a name="BKMK_Tell_Me_Word"> </a>
 
-Quando è necessario compiere delle operazioni in Word Online ma non si conosce la procedura, è possibile utilizzare la funzionalità di ricerca Informazioni per trovare rapidamente quello di cui si ha bisogno. La funzionalità Informazioni comprende cosa si sta cercando di effettuare e ne velocizza l'esecuzione grazie a dei consigli.
+Quando hai bisogno di realizzare qualcosa in Word per il Web ma non sai come, puoi usare la funzionalità di ricerca Dimmi per trovare rapidamente quello che stai cercando. La funzionalità Informazioni comprende cosa si sta cercando di effettuare e ne velocizza l'esecuzione grazie a dei consigli.
   
 ## <a name="translation-service"></a>Servizio di traduzione
 <a name="bkmk_translation"> </a>
 
-Con gli strumenti di traduzione disponibile in Word Online, è possibile tradurre testo, un intero file, parole o frasi selezionate o singole parole. 
+È possibile tradurre testo, se si tratta di un intero file, di parole selezionate per frasi o singole parole, con gli strumenti di traduzione disponibili in Word per il Web. 
   
 ## <a name="undo-and-redo"></a>Annulla e Ripeti
 <a name="bkmk_Undoredo"> </a>
@@ -341,12 +341,12 @@ Annullare una serie di azioni o ripetere un'azione.
 ## <a name="vba-and-forms-scripts"></a>Script Forms e VBA
 <a name="bkmk_VBAforms"> </a>
 
-In modalità di visualizzazione, i controlli Active X, gli oggetti OLR incorporati e una riga della firma vengono visualizzati come previsto nel documento. Nella modalità di modifica, vengono visualizzati come segnaposto che è possibile eliminare, ma non modificare. Non possono essere spostati o ridimensionati in Word Online. Le macro e i comandi avanzati sono disponibili solo nell'app desktop Word. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+In modalità di visualizzazione, i controlli Active X, gli oggetti OLR incorporati e una riga della firma vengono visualizzati come previsto nel documento. Nella modalità di modifica, vengono visualizzati come segnaposto che è possibile eliminare, ma non modificare. Non è possibile spostarli o ridimensionarli in Word per il Web. Le macro e i comandi avanzati sono disponibili solo nell'app desktop Word. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="view-and-add-comments"></a>View and add comments
 <a name="bkmk_Viewaddcomments"> </a>
 
-Con Word Online, puoi inserire, modificare o eliminare i commenti nella modalità di modifica. È inoltre possibile rispondere a un commento o contrassegnarlo come completato, esattamente come in Word versione desktop.
+Con Word per il Web, è possibile inserire, modificare o eliminare i commenti in modalità di modifica. È inoltre possibile rispondere a un commento o contrassegnarlo come completato, esattamente come in Word versione desktop.
   
 ## <a name="watermarks"></a>Filigrane
 <a name="bkmk_watermarks"> </a>
@@ -356,15 +356,15 @@ Le filigrane sono testo o immagini dietro il testo del documento. Ad esempio, è
 ## <a name="word-count"></a>Conteggio parole
 <a name="bkmk_Wordcount"> </a>
 
-Word Online fornisce un conteggio approssimativo delle parole nel documento. Ulteriori informazioni sul [conteggio delle parole in Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271864).
+La parola per il Web fornisce un conteggio di parole non conforme per la parola nel documento. Per ulteriori informazioni, vedere [conteggio delle parole in Word per il Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
   
 ## <a name="zoom"></a>Zoom
 <a name="bkmk_Zoom"> </a>
 
-La funzionalità di zoom è disponibile in modalità di visualizzazione. Con Word Online, utilizzare le impostazioni di visualizzazione del browser per eseguire lo zoom avanti e indietro in modalità di modifica. Ulteriori informazioni sul [conteggio delle parole in Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271864).
+La funzionalità di zoom è disponibile in modalità di visualizzazione. Con Word per il Web, utilizzare le impostazioni di visualizzazione del browser per ingrandire o rimpicciolire la modalità di modifica. Per ulteriori informazioni, vedere [conteggio delle parole in Word per il Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 <a name="bkmk_Zoom"> </a>
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizi Office Online](office-online-service-description.md). 
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Office per la descrizione del servizio Web](office-online-service-description.md). 
   

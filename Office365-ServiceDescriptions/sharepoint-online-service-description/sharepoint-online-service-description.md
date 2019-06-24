@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint online in Office 365 consente agli utenti di condividere e collaborare, di informare e coinvolgere gli altri all'interno dell'azienda, di trasformare i processi aziendali e di sfruttare le conoscenze collettive. Inoltre, SharePoint fornisce le funzionalità per le organizzazioni per la protezione e la gestione dei dati e per la creazione di soluzioni personalizzate. Per una panoramica rapida, vedere che cos'è SharePoint?
-ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931128"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131010"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrizione del servizio SharePoint Online
 
@@ -52,7 +52,7 @@ Ogni persona che accede a SharePoint Online deve essere assegnata a un piano di 
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
-OneDrive for Business (in precedenza SkyDrive Pro) è un servizio di archiviazione online personale per i dipendenti di un'azienda. Si tratta del luogo in cui gli utenti possono memorizzare, sincronizzare e condividere i file di lavoro tra più dispositivi, in modo facile e sicuro. OneDrive for Business è incluso in SharePoint Online, ma può essere acquistato anche come piano autonomo. L'opzione autonoma di OneDrive for Business include Office Online. Per vedere quali funzionalità sono incluse in OneDrive for Business con Office Online, vedi [Descrizione del servizio OneDrive for Business](../onedrive-for-business-service-description.md).
+OneDrive for Business (in precedenza SkyDrive Pro) è un servizio di archiviazione online personale per i dipendenti di un'azienda. Si tratta del luogo in cui gli utenti possono memorizzare, sincronizzare e condividere i file di lavoro tra più dispositivi, in modo facile e sicuro. OneDrive for Business è incluso in SharePoint Online, ma può essere acquistato anche come piano autonomo. L'opzione autonoma di OneDrive for business include Office per il Web. Per sapere quali funzionalità sono incluse in OneDrive for business con Office per il Web, vedere la [Descrizione del servizio OneDrive for business](../onedrive-for-business-service-description.md).
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>Utenti esterni di SharePoint Online Enterprise
 
@@ -130,7 +130,7 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Pubblicazione intersito](content.md#cross-site-publishing) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Gestione progettazione](content.md#design-manager) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Set di documenti](content.md#document-sets) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Traduzione di documenti in Word Online](content.md#document-translation-in-word-online) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Traduzione di documenti in Word per il Web](content.md#document-translation-in-word-for-the-web) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Ricerca eDiscovery](content.md#ediscovery-search) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Esenzione di eDiscovery](content.md#ediscovery-hold) <br/> |N.<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì  <br/> |
 |[Esportazione di eDiscovery](content.md#ediscovery-export) <br/> |N.<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |N.<sup>6</sup> <br/> |No  <br/> |Sì  <br/> |
@@ -145,8 +145,8 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 |[Servizio metadati gestiti](content.md#managed-metadata-service) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Spostamento basato su metadati](content.md#metadata-driven-navigation) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Disposizione multifase](content.md#multi-stage-disposition) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Office Online (creazione/modifica)](content.md#office-online-createedit) <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>15</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|[Office Online (visualizzazione)](content.md#office-online-view) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Office per il Web (creazione/modifica)](content.md#office-for-the-web-createedit) <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>15</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|[Office per il Web (visualizzazione)](content.md#office-for-the-web-view) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Office ProPlus  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Integrazione di Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Incluso  <br/> |Incluso  <br/> |Incluso  <br/> |Incluso  <br/> |Incluso  <br/> |Incluso  <br/> |Incluso  <br/> |Sì  <br/> |Sì  <br/> |
 |[Raccolta di archiviazione](content.md#preservation-hold-library) <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
@@ -250,7 +250,7 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 <sup>11</sup> La guida è disponibile soltanto in cinese semplificato e in inglese. <br/> <sup>12</sup> Non è possibile aggiungere commenti nei blog. <br/> 
 <sup>13</sup> È disponibile il sito Web della community dell'organizzazione ma non viene fornito supporto per la community pubblica. <br/>
 <sup>14</sup> Access 2010 non è supportato. <br/> 
-<sup>15</sup> per Office Online, gli utenti di F1 devono avere accesso a Office Online (tiles Live) per la creazione di contenuto. Tuttavia, sono soggetti a limitazioni associate con le principali app mobili commerciali. Sono incluse le app seguenti: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint e Gruppi. **Non** sono inclusi i seguenti: Outlook, Word, Excel, PowerPoint e OneNote.<br/> 
+<sup>15</sup> per Office per il Web, gli utenti di F1 devono avere accesso a Office per il Web (piastrelle animate) per la creazione di contenuto. Tuttavia, sono soggetti a limitazioni associate con le principali app mobili commerciali. Sono incluse le app seguenti: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint e Gruppi. **Non** sono inclusi i seguenti: Outlook, Word, Excel, PowerPoint e OneNote.<br/> 
 <sup>16</sup> i moduli di InfoPath che contengono codice utente (sandbox) possono essere utilizzati solo in InfoPath rich client. <br/>
 <sup>17</sup> il consumo di Visio online (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio Online richiedono una licenza. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Visio Online](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> gli utenti F1 possono accedere a SharePoint Server in una configurazione ibrida, ma Office 365 F1 non include i diritti CAL per accedere al server; tali diritti devono essere acquistati separatamente. <br/>

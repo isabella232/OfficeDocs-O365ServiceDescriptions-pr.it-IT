@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Concepito per Microsoft SharePoint Server 2013, è un servizio ospitato ideale per elaborare progetti, archiviare dati e documenti in una posizione centrale e condividere le informazioni. Le seguenti caratteristiche dei siti offrono un set completo di strumenti che consentono all'organizzazione di creare ogni tipo di sito, oltre a un'unica infrastruttura in grado di semplificarne la gestione. Per informazioni più dettagliate, vedere Trova contenuto su SharePoint Online.
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342485"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130870"
 ---
 # <a name="sites"></a>Siti
 
@@ -104,7 +104,7 @@ Gli elenchi di attività vengono utilizzati per la gestione del lavoro in modo g
 ## <a name="team-notebook"></a>Blocco appunti del team
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-Quando si crea un sito del team, viene creato automaticamente un blocco appunti condiviso di OneNote 2013 come parte integrante del sito. È possibile utilizzare il blocco appunti per acquisire, compilare e condividere informazioni. (La funzionalità è disponibile solo con l'iscrizione alla suite Office 365 che include il supporto di Office Online.)
+Quando si crea un sito del team, viene creato automaticamente un blocco appunti condiviso di OneNote 2013 come parte integrante del sito. È possibile utilizzare il blocco appunti per acquisire, compilare e condividere informazioni. Questa funzionalità è disponibile solo se è stato eseguito l'accesso a una famiglia di prodotti Office 365 che include Office per il supporto Web.
   
 ## <a name="variations"></a>Variazioni
 <a name="bkmk_Variations"> </a>

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è ideale per lavorare a progetti, archiviare dati e documenti in una posizione centrale e condividere informazioni con altri utenti. Le funzionalità Insights seguenti consentono alle organizzazioni di utilizzare le informazioni nei database, rapporti e applicazioni aziendali per soddisfare le specifiche esigenze delle organizzazioni.
-ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3765a8bbbb931e22bfcd26962a370d55724865e9
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342505"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131330"
 ---
 # <a name="insights"></a>Approfondimenti
 
@@ -47,7 +47,7 @@ Quando si crea un rapporto su un grafico pivot, viene creata automaticamente una
 ## <a name="excel-services"></a>Excel Services
 <a name="bkmk_ExcelServices"> </a>
 
-Excel Services consente di condividere cartelle di lavoro con altri utenti, interagire con rapporti, visualizzare e consultare informazioni dalla finestra del browser nonché aggiornare i dati. Consente inoltre di condividere cartelle di lavoro intere o parti di esse con altri utente e controllare che vi siano visualizzate le informazioni. In SharePoint 2016 le capacità di Excel Services sono disponibili mediante Excel Online in Office Online Server. Excel Services richiede Office Online Server in ambiente locale. Ulteriori informazioni su [Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271028).
+Excel Services consente di condividere cartelle di lavoro con altri utenti, interagire con rapporti, visualizzare e consultare informazioni dalla finestra del browser nonché aggiornare i dati. Consente inoltre di condividere cartelle di lavoro intere o parti di esse con altri utente e controllare che vi siano visualizzate le informazioni. In SharePoint 2016, le funzionalità di Excel Services sono disponibili tramite Excel per il Web in Office Online Server. Excel Services richiede Office Online Server in ambiente locale. Ulteriori informazioni su [Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271028).
   
 ## <a name="excel-web-access-web-part-for-sharepoint"></a>Web part Excel Web Access per SharePoint
 <a name="bkmk_WebPart"> </a>
@@ -57,7 +57,7 @@ Excel Services consente di condividere cartelle di lavoro con altri utenti, inte
 ## <a name="field-list-and-field-support"></a>Elenco dei campi e supporto per i campi
 <a name="bkmk_FieldlListFieldSupport"> </a>
 
-Con Excel Online è possibile aprire Field List e Field Well per i rapporti dei grafici e delle tabelle pivot visualizzati nelle finestre del browser. Questa funzione facilita l'esecuzione di modifiche temporanee alle informazioni visualizzate nel rapporto di un grafico o di una tabella pivot senza dover aprire Excel. Ulteriori informazioni su [Business intelligence in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271029).
+Excel per il Web consente di aprire l'elenco dei campi e i campi del pozzetto per i rapporti di grafico pivot e i rapporti PivotTable visualizzati in una finestra del browser. Questa funzione facilita l'esecuzione di modifiche temporanee alle informazioni visualizzate nel rapporto di un grafico o di una tabella pivot senza dover aprire Excel. Ulteriori informazioni su [Business intelligence in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271029).
   
 ## <a name="filter-enhancements"></a>Filter Enhancements
 <a name="bkmk_FilterEnhancements"> </a>
@@ -87,12 +87,12 @@ Power BI è una famiglia di strumenti di analisi business basata su cloud che co
 ## <a name="power-pivot-for-excel-in-sharepoint"></a>Power Pivot for Excel in SharePoint
 <a name="bkmk_PowerPivot"> </a>
 
-Con Power Pivot per Excel, è possibile eseguire analisi di dati avanzate e creare modelli di dati sofisticati. È anche possibile combinare insieme volumi notevoli di dati provenienti da varie origini, analizzare rapidamente i dati e condividere opinioni. Con SharePoint Online, è possibile utilizzare Excel Online per visualizzare e interagire con grafici, tabelle, rapporti dei grafici e delle tabelle pivot in una finestra del browser. È anche possibile utilizzare la web part Excel Web Access per visualizzare contenuti Excel in un sito SharePoint. Per poter visualizzare fogli Power Pivot in SharePoint, è necessario crearli in Excel. Per ulteriori informazioni sull'utilizzo di [Power Pivot in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271036).
+Con Power Pivot per Excel, è possibile eseguire analisi di dati avanzate e creare modelli di dati sofisticati. È anche possibile combinare insieme volumi notevoli di dati provenienti da varie origini, analizzare rapidamente i dati e condividere opinioni. Con SharePoint Online, è possibile utilizzare Excel per il Web per visualizzare e interagire con grafici, tabelle, rapporti di grafico pivot e rapporti di tabella pivot in una finestra del browser. È anche possibile utilizzare la web part Excel Web Access per visualizzare contenuti Excel in un sito SharePoint. Per poter visualizzare fogli Power Pivot in SharePoint, è necessario crearli in Excel. Per ulteriori informazioni sull'utilizzo di [Power Pivot in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271036).
   
 ## <a name="power-view-for-excel-in-sharepoint"></a>Power View for Excel in SharePoint
 <a name="bkmk_PowerView"> </a>
 
- Con Power View per Excel, è possibile visualizzare e interagire con dati creati utilizzando visualizzazioni, animazioni e query avanzate altamente interattivi. Con SharePoint Online, si utilizza Excel Online per visualizzare e interagire con cartelle di lavoro contenenti fogli Power View in una finestra del browser. È anche possibile utilizzare la web part Excel Web Access per visualizzare contenuti Excel in un sito SharePoint. Per poter visualizzare fogli Power View in SharePoint, è necessario crearli in Excel. Ulteriori informazioni sull'utilizzo di [Power View in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271035).
+ Con Power View per Excel, è possibile visualizzare e interagire con dati creati utilizzando visualizzazioni, animazioni e query avanzate altamente interattivi. Con SharePoint Online, è possibile utilizzare Excel per visualizzare e interagire con le cartelle di lavoro che contengono fogli di Power View in una finestra del browser. È anche possibile utilizzare la web part Excel Web Access per visualizzare contenuti Excel in un sito SharePoint. Per poter visualizzare fogli Power View in SharePoint, è necessario crearli in Excel. Ulteriori informazioni sull'utilizzo di [Power View in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271035).
   
 ## <a name="quick-explore"></a>Esplorazione rapida
 <a name="bkmk_QuickExplore"> </a>
@@ -102,12 +102,12 @@ Esplorazione rapida consente alle organizzazioni di selezionare un valore in un 
 ## <a name="refresh-excel-workbooks-interactively"></a>Aggiornamento delle cartelle di lavoro Excel in modo interattivo
 <a name="bkmk_RefreshExcel"> </a>
 
-Consente di visualizzare i dati aggiornati nelle cartelle di lavoro Excel Online connesse a origini dati esterne (ad esempio, i database MS SQL). È necessario connettere le cartelle di lavoro alle origini dati esterne in Excel prima di visualizzarle in Excel Online.
+Consente di visualizzare i dati aggiornati in Excel per le cartelle di lavoro Web connesse a origini dati esterne, ad esempio i database MS SQL. Tenere presente che è necessario connettere le cartelle di lavoro a origini dati esterne in Excel prima di visualizzarle in Excel per il Web.
   
 ## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SQL Server Reporting Services (SSRS) Integrated Mode
 <a name="bkmk_SQLServerReportingServicesIntegratedMode"> </a>
 
-Quando SQL Server 2012 Reporting Services è integrato con SharePoint, è possibile utilizzare le funzionalità avanzate di gestione centralizzata e collaborazione dei documenti per i contenuti di SQL Server 2012 Reporting Services. I rapporti vengono archiviati insieme ad altri rapporti (ad esempio, file di Excel Online) nelle raccolte di documenti di SharePoint. Le autorizzazioni di SharePoint possono essere utilizzate per controllare l'accesso al contenuto di Reporting Services e gli utenti sono in grado di avviare Progettazione report, Progettazione modelli e Generatore report all'interno di una raccolta documenti. Ulteriori informazioni sul [server di report di Reporting Services](https://go.microsoft.com/fwlink/p/?LinkId=271039).
+Quando SQL Server 2012 Reporting Services è integrato con SharePoint, è possibile utilizzare le funzionalità avanzate di gestione centralizzata e collaborazione dei documenti per i contenuti di SQL Server 2012 Reporting Services. I report vengono archiviati nelle raccolte documenti di SharePoint, insieme ad altri report, ad esempio Excel per i file Web. Le autorizzazioni di SharePoint possono essere utilizzate per controllare l'accesso al contenuto di Reporting Services e gli utenti sono in grado di avviare Progettazione report, Progettazione modelli e Generatore report all'interno di una raccolta documenti. Ulteriori informazioni sul [server di report di Reporting Services](https://go.microsoft.com/fwlink/p/?LinkId=271039).
   
 ## <a name="sql-server-reporting-services-ssrs-web-part"></a>Web part di SQL Server Reporting Services (SSRS)
 <a name="bkmk_SSRSWebPart"> </a>
@@ -127,7 +127,7 @@ A volte, le cartelle di lavoro di Excel contengono modelli di dati di Power Pivo
 ## <a name="user-defined-functions"></a>Funzioni definite dall'utente
 <a name="bkmk_UserDefinedFunctions"> </a>
 
-Le funzioni definite dall'utente (UDF) offrono la possibilità di utilizzare formule nelle celle dei fogli di lavoro in Excel Online per chiamare funzioni personalizzate scritte in codice gestito. Le UDF sono una funzionalità di programmazione avanzata che consente all'azienda di sviluppare e applicare il codice personalizzato nelle cartelle di lavoro in Excel Online. È possibile creare UDF per chiamare funzioni matematiche personalizzate, ottenere dati da origini dati personalizzate nei fogli di lavoro e chiamare servizi Web dalle UDF.
+Le funzioni definite dall'utente (UDF) offrono la possibilità di utilizzare formule in Excel per le celle del foglio di lavoro Web per chiamare le funzioni personalizzate scritte in codice gestito. Le FDU sono una funzionalità di programmabilità avanzata che consente all'organizzazione di sviluppare e inserire codice personalizzato in Excel per i fogli di lavoro Web. È possibile creare UDF per chiamare funzioni matematiche personalizzate, ottenere dati da origini dati personalizzate nei fogli di lavoro e chiamare servizi Web dalle UDF.
   
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
