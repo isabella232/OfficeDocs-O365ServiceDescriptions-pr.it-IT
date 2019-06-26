@@ -3,7 +3,6 @@ title: Office 365 GCC High e DoD
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343255"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233523"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
 Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. 
   
-È opportuno invitare il team degli account o il proprio partner preferito a informarsi ulteriormente in merito alla procedura di convalida oppure ad avviarla.
+È opportuno invitare il team degli account o il proprio partner preferito a informarsi ulteriormente in merito alla procedura di convalida oppure ad avviarla. Per ulteriori informazioni su come acquistare, vedere [Microsoft 365 Government-come acquistare](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
 ## <a name="how-to-use-this-service-description-section"></a>Come utilizzare la sezione Service Description
 
@@ -56,7 +55,7 @@ Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per
 |Controllo delle impronte digitali  <br/> |Controllo delle impronte digitali rispetto ai database dell'FBI  <br/> |
 |Department of Defense IT-2  <br/> |I dipendenti del Dipartimento che richiedono autorizzazioni elevate per i dati dei clienti oppure accesso amministrativo con privilegi alle funzionalità del servizio Dept of Defense SRG L5 devono attendere la decisione del Defense IT-2, che si basa sul superamento di un'indagine OPM Tier 3  <br/> |
 
-<sup>1</sup> si applica solo al personale con accesso temporaneo o permanente ai contenuti dei clienti ospitati in Office 365 US GCC-High o DOD Clouds
+<sup>1</sup> si applica solo al personale con accesso temporaneo o permanente ai contenuti dei clienti ospitati in Office 365 US GCC-High o DOD Clouds.
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Dettagli sulle caratteristiche basate sull'architettura cloud conforme
 
 Le sottoscrizioni Office 365 negli ambienti GCC High e DoD includono le caratteristiche principali di Exchange Online, SharePoint Online e Skype for Business. Considerando l'aumento di certificazione e accredito dell'infrastruttura, sono presenti alcune differenze tra le offerte Office 365 commerciali e quelle disponibili in GCC High e DoD.
@@ -93,7 +92,7 @@ Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai 
   
  **Servizi di integrazione applicativa** -la funzionalità BCS è supportata per gli scenari di connettività in cui le origini dati rimangono raggiungibili entro il limite di sicurezza per il servizio cloud. 
   
- **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. È necessario eseguire la migrazione di tutte le soluzioni sandbox nel [ modello estendibilità del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
+ **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. È necessario eseguire la migrazione di tutte le soluzioni sandbox nel [ modello estendibilità del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype for Business online
 

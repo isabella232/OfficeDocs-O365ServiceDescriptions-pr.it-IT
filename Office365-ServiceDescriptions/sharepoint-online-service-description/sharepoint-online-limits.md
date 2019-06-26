@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780665"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233533"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online 
 
@@ -54,7 +54,8 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 - **** Versions-50.000 Major Versions e 511 versioni secondarie.
 
 - **Gruppi di SharePoint** : un utente può appartenere a gruppi di 5.000 e ciascun gruppo può avere fino a 5.000 utenti. È possibile avere fino a 10.000 gruppi per ogni raccolta siti.
-
+    > [!NOTE]
+    > Per i limiti dei gruppi di Azure AD, vedere [limiti e limitazioni del servizio di Azure ad](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) in quanto tali limiti possono influire sulla gestione dell'appartenenza dei siti del gruppo pubblico e privato. 
 - **Managed Metadata** -200.000 termini in Store termine, 1.000 set termini globali, 1.000 gruppi.
 
 - **Siti secondari** -2.000 per raccolta siti.
@@ -64,10 +65,8 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 - **Ambiti di sicurezza univoci per elenco o raccolta** -5.000. Per gli elenchi di grandi dimensioni, la progettazione deve disporre di un numero di autorizzazioni univoco possibile.
 
 - **Users** -2 milioni per ogni raccolta siti.
-
-> [!NOTE]
-> Non esiste alcun limite al numero di ospiti che è possibile invitare alle raccolte siti di SharePoint. Per ulteriori informazioni sulla condivisione esterna, vedere [Panoramica della condivisione esterna](https://docs.microsoft.com/sharepoint/external-sharing-overview).
-
+    > [!NOTE]
+    > Non esiste alcun limite al numero di ospiti che è possibile invitare alle raccolte siti di SharePoint. Per ulteriori informazioni sulla condivisione esterna, vedere [Panoramica della condivisione esterna](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 ## <a name="see-also"></a>Vedere anche
 
 [Limiti della ricerca per SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)
