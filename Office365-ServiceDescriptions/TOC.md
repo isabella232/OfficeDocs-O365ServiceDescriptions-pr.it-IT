@@ -2,7 +2,6 @@
   
 
 # [Descrizioni del servizio Office 365](office-365-service-descriptions-technet-library.md)
-## [Descrizione del servizio Microsoft 365 Business](microsoft-365-business-service-description.md)
 ## [Descrizione del servizio della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Opzioni dei piani di Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Requisiti di sistema per Office 365](office-365-platform-service-description/office-365-system-requirements.md)
@@ -33,7 +32,7 @@
 ### [Diritti di utilizzo del prodotto](office-365-platform-service-description/product-use-rights.md)
 ## [Descrizione servizio applicazioni Office](office-applications-service-description/office-applications-service-description.md)
 ### [Applicazioni di Office](office-applications-service-description/office-applications.md)
-## [Office per la descrizione del servizio Web](office-online-service-description/office-online-service-description.md)
+## [Descrizione del servizio Office per il Web](office-online-service-description/office-online-service-description.md)
 ### [Word per il Web](office-online-service-description/word-online.md)
 ### [Excel per il Web](office-online-service-description/excel-online.md)
 ### [OneNote per il Web](office-online-service-description/onenote-online.md)
@@ -107,5 +106,8 @@
 ### [Funzionalità piattaforma Yammer](yammer-service-description/yammer-platform-features.md)
 ### [Funzionalità di amministrazione e sicurezza in Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Funzionalità supporto in Yammer](yammer-service-description/support-features-in-yammer.md)
+## Descrizioni del servizio Microsoft 365
+### [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
 ## [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
 
