@@ -2,26 +2,25 @@
 title: Descrizione del servizio MyAnalytics
 ms.author: sharik
 author: skjerland
-ms.reviewer: v-pascha
-ms.date: 03/14/2019
+ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: 'Analisi dei dati: caratteristiche, distribuzioni, privacy e prerequisiti'
-ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 464938e19185e360990cc9b146b670ccd3e5beca
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246502"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753825"
 ---
 # <a name="myanalytics-service-description"></a>Descrizione del servizio MyAnalytics
 
 In analisi viene riepilogato il modo in cui si spendono i tempi di lavoro e quindi viene suggerito di lavorare in modo più intelligente. Analytics fornisce tali informazioni attraverso [gli elementi](#elements) che è possibile accedere in Microsoft Outlook o tramite il Web browser.
 
-Alcuni degli elementi di analisi sono forniti automaticamente agli utenti di vari piani di Office 365. Per ulteriori informazioni, vedere [distribuZioni di analisi](#myanalytics-distributions).  
+Alcuni degli elementi di analisi sono forniti automaticamente agli utenti di vari piani di Office 365. Per ulteriori informazioni, vedere [distribuzioni di analisi](#myanalytics-distributions).  
 
 L'analisi elabora le informazioni in modo da proteggere la privacy dei dipendenti. Per ulteriori informazioni, vedere [privacy dei dati](#data-privacy).
 
@@ -29,19 +28,19 @@ L'analisi elabora le informazioni in modo da proteggere la privacy dei dipendent
 
 Analytics è costituito dai seguenti elementi:
 
-* [Dashboard personale di analisi](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard): consente di riflettere sulle proprie abitudini di lavoro, ad esempio il tempo disponibile per lo stato attivo, la riunione e le procedure di posta elettronica e la rete.
-* [Componente aggiuntivo di Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): fornisce informazioni dettagliate su come eseguire le attività di Outlook che consentono di rimanere in primo piano e di fare di più.
-* [Digest del messaggio di posta elettronica](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): offre maggiori dettagli sulla settimana precedente.
-* Impulsi di [analisi](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): queste brevi notifiche basate su dati e ai contenuti vengono visualizzate in Outlook durante la lettura o la composizione di un messaggio di posta elettronica o di un invito alla riunione.
+* [Dashboard di analisi](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): consente di riflettere sui modelli di lavoro, ad esempio il tempo disponibile per lo stato attivo, la riunione e le procedure di posta elettronica e la rete.
+* Approfondimenti del [componente aggiuntivo di Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): consente di approfondire le proprie attività in Outlook che consentono di rimanere in primo piano e di fare di più.
+* [Raccolta messaggi di posta elettronica](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): consente di evidenziare i modelli di lavoro in un messaggio di posta elettronica settimanale.
+* [Suggerimenti in linea in Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): questi suggerimenti brevi, basati sui dati e ai contenuti vengono visualizzati in Outlook durante la lettura o la composizione di un messaggio di posta elettronica o di un invito alla riunione.
 
 ## <a name="myanalytics-distributions"></a>Distribuzioni di analisi
 
 Gli elementi di analisi sono disponibili in vari livelli per gli utenti di diversi piani di Microsoft Office 365, come descritto nella tabella seguente:
 
-| Piano | Elementi disponibili |
-| --- | --- |
-| Microsoft 365 E3</br>Microsoft 365 Business</br>Office 365 E3</br>Office 365 E1</br>Business Premium</br>Business Essentials | </br></br></br>[Componente aggiuntivo](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
-| Microsoft 365 E5</br>Office 365 Enterprise E5</br>Office 365 A5</br>Office 365 Nonprofit E5</br>Componente aggiuntivo di analisi | </br>[Dashboard](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard), [componente aggiuntivo](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in), [digest di posta elettronica](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)e [Nudge di analisi](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications) |
+| Piano | Piano di servizio | Elementi disponibili |
+| --- | --- | ----- |
+| Microsoft 365 E3</br>Microsoft 365 Business</br>Office 365 E3</br>Office 365 E1</br>Business Premium</br>Business Essentials |  <br>Insights by <br>MyAnalytics| </br></br></br>[Approfondimenti del componente aggiuntivo di Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in) <br> (altri elementi di analisi<br> verranno rese disponibili in futuro.|
+| Microsoft 365 E5</br>Office 365 Enterprise E5</br>Office 365 A5</br>Office 365 Nonprofit E5</br>Componente aggiuntivo di analisi | Analisi (completa)<br>e<br>  Insights by analisi analitica | </br>[Dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2), [approfondimenti del componente aggiuntivo di Outlook, del digest di](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in) [posta elettronica](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)e [suggerimenti in linea](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications) |
 
 Per ulteriori informazioni, vedere [disponibilità delle caratteristiche](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 
