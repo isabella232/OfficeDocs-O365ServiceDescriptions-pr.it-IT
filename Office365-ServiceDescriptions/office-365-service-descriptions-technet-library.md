@@ -3,7 +3,6 @@ title: 'Descrizioni del servizio Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: af529770b0c9a28f55f149d498cfeffeb3f4b934
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130910"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777477"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
@@ -65,9 +64,13 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione del servizio Project Online](project-online-service-description/project-online-service-description.md)
     
-- [Descrizione del servizio Visio Online](visio-online-service-description/visio-online-service-description.md)
+- [Visio per la descrizione del servizio Web](visio-online-service-description/visio-online-service-description.md)
     
 - [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
+
+- [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+
+- [Guida alla gestione delle licenze di servizi a livello di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     

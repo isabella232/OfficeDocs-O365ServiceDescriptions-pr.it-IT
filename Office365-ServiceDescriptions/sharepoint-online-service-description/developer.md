@@ -3,7 +3,6 @@ title: Sviluppatore
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le funzionalità seguenti supportano gli sviluppatori che vogliono realizzare app e soluzioni per estendere la funzionalità di SharePoint.
-ms.openlocfilehash: c1b9bd6e86b14d8328edabc0ebf1d81fb592fb21
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 51b2b1134ace11e377a87f3e8a436157142d6d2f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342515"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777517"
 ---
 # <a name="developer"></a>Sviluppatore
 

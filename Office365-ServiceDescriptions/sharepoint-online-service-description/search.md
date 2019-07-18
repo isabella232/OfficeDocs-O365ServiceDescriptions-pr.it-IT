@@ -3,7 +3,6 @@ title: Cerca
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Concepito per Microsoft SharePoint Server 2013, è un servizio ospitato ideale per elaborare progetti, archiviare dati e documenti in una posizione centrale e condividere le informazioni. Le seguenti funzionalità di ricerca consentono agli utenti di individuare le informazioni necessarie per il proprio lavoro. La ricerca è una combinazione di pertinenza, perfezionamento e contatti.
-ms.openlocfilehash: 512ebe26388ed4fdfb49f5a55c7a2adfe2b64cd7
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 689960f76e5de434af90c6d4d8d8f2da82a07f5f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742165"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777867"
 ---
 # <a name="search"></a>Ricerca
 

@@ -3,7 +3,6 @@ title: Approfondimenti
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è ideale per lavorare a progetti, archiviare dati e documenti in una posizione centrale e condividere informazioni con altri utenti. Le funzionalità Insights seguenti consentono alle organizzazioni di utilizzare le informazioni nei database, rapporti e applicazioni aziendali per soddisfare le specifiche esigenze delle organizzazioni.
-ms.openlocfilehash: 3765a8bbbb931e22bfcd26962a370d55724865e9
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 3dd85cc7bd714b1a6a22435adc7a4c894b6921bd
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131330"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35778007"
 ---
 # <a name="insights"></a>Approfondimenti
 

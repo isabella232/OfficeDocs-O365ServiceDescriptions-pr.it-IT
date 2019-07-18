@@ -1,38 +1,37 @@
 ---
-title: Descrizione del servizio Visio Online
+title: Visio per la descrizione del servizio Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Con Visio Online, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È molto semplice creare diagrammi di prim'ordine con i tipi di diagrammi più comuni e set di forme completi. Gli utenti di Visio Online possono visualizzare e collaborare tra loro condividendo diagrammi e inserendo commenti nei file aggiornati in SharePoint Online o OneDrive for Business Online.
-ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È molto semplice creare diagrammi di prim'ordine con i tipi di diagrammi più comuni e set di forme completi. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
+ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342385"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777727"
 ---
-# <a name="visio-online-service-description"></a>Descrizione del servizio Visio Online
+# <a name="visio-for-the-web-service-description"></a>Visio per la descrizione del servizio Web
 
-Con Visio Online, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È molto semplice creare diagrammi di prim'ordine con i tipi di diagrammi più comuni e set di forme completi. Gli utenti di Visio Online possono visualizzare e collaborare tra loro condividendo diagrammi e inserendo commenti nei file aggiornati in SharePoint Online o OneDrive for Business Online.
+Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È molto semplice creare diagrammi di prim'ordine con i tipi di diagrammi più comuni e set di forme completi. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
   
-Per ulteriori informazioni e per iniziare, vedere [Visio Online](https://products.office.com/en-US/visio/visio-online).
+Per ulteriori informazioni e per iniziare, vedere [Visio per il Web](https://products.office.com/en-US/visio/visio-online).
   
-Per informazioni sull'uso di Visio Online, vedere [Guida di Visio Online](https://go.microsoft.com/fwlink/?linkid=855982).
+Per informazioni sull'utilizzo di Visio per il Web, vedere [centro assistenza di Visio](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Confronto e disponibilità delle funzionalità
 
-Nella seguente tabella sono confrontate le funzionalità di Visio Online per le app desktop Visio. Utilizzare questa tabella per verificare quali funzionalità sono disponibili in Visio Online, quindi fare clic sul nome della funzionalità per leggere una breve descrizione sul suo funzionamento. Si potrebbe scoprire che alcune persone nell'organizzazione hanno bisogno delle funzionalità avanzate per l'app desktop Visio, mentre per altre è sufficiente visualizzare e apportare piccole modifiche ai diagrammi Visio con Visio Online.  
+Nella tabella seguente vengono confrontate le funzionalità di Visio per la funzionalità Web con le app desktop di Visio ricche di funzionalità. Utilizzare la tabella per scoprire quali funzionalità sono disponibili in Visio per il Web e quindi fare clic sul nome della funzionalità per leggere una breve descrizione su come funziona la caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione devono disporre delle funzionalità avanzate dell'app desktop di Visio, mentre altre devono solo visualizzare e modificare i diagrammi di Visio con Visio per il Web. 
   
 ||||
 |:-----|:-----|:-----|
-|**Funzionalità dell'applicazione** <br/> |**Visio Online** <br/> |**App desktop Visio** <br/> |
+|**Funzionalità dell'applicazione** <br/> |**Visio per il Web** <br/> |**App desktop Visio** <br/> |
 |[Applicazione della formattazione avanzata a testo e forme](visio-online.md#BM_1) <br/> |Sì  <br/> |Sì  <br/> |
 |[Disposizione degli oggetti](visio-online.md#BM_2) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione di soluzioni mashup](visio-online.md#BM_3) <br/> |Sì  <br/> |Sì  <br/> |
@@ -61,12 +60,12 @@ Nella seguente tabella sono confrontate le funzionalità di Visio Online per le 
    
 > <sup>1</sup> Visitare collegamenti ipertestuali (non è possibile inserirli o modificarli). 
 <br/><sup>2</sup> Condividere tramite SharePoint o One Drive for Business e condividere con gli utenti che non dispongono di SharePoint o OneDrive. 
-<br/> <sup>3</sup> non disponibile nell'editor di Visio online.
-<br/><sup>4</sup> non disponibile in Visio online Viewer. 
-<br/><sup>5</sup> non disponibile nell'editor di Visio online, ma è possibile passare alla modalità di visualizzazione e visualizzare i commenti. 
-<br/><sup>6</sup> disponibile in Visio online editor. 
+<br/> <sup>3</sup> non disponibile in Visio per l'editor Web.
+<br/><sup>4</sup> non disponibile in Visio per il visualizzatore Web. 
+<br/><sup>5</sup> non è disponibile in Visio per l'editor Web, ma è possibile passare alla modalità di visualizzazione e visualizzare i commenti. 
+<br/><sup>6</sup> disponibile in Visio per l'editor Web. 
   
-## <a name="supported-file-types-in-visio-online"></a>Tipi di file supportati in Visio Online
+## <a name="supported-file-types-in-visio-for-the-web"></a>Tipi di file supportati in Visio per il Web
 
 ||||
 |:-----|:-----|:-----|

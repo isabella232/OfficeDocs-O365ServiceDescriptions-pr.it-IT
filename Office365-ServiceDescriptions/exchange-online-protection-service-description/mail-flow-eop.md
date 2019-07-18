@@ -3,7 +3,6 @@ title: Flusso di posta [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e i filtri vengono gestiti da Office 365. Tuttavia, alcune organizzazioni hanno la necessità di tenere in locale tutte le cassette postali. Per questo motivo, possono usare Exchange Online Protection (EOP) e ottenere anche controlli antivirus e contro la posta indesiderata nel cloud. Per ulteriori informazioni e per acquistare EOP, visitare Exchange Online Protection.
-ms.openlocfilehash: c55d1d376d617b863a75ff609cbc3f064418746b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 59ccec07af154275697c671014aae6e204710031
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341825"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776627"
 ---
 # <a name="mail-floweop"></a>Flusso di posta [EOP]
 

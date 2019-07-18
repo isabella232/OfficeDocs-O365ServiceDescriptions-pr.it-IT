@@ -3,7 +3,6 @@ title: Word per il Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word per il Web (in precedenza Word Web App) estende la propria esperienza di Microsoft Word al Web browser, in cui è possibile utilizzare i documenti direttamente nel sito Web in cui è archiviato il documento.
-ms.openlocfilehash: 92a5768e6b745dbc65d47eba6b437af81eb7dc30
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: d15376278f04f129b8161d7220c62d0380d0b89f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131290"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777597"
 ---
 # <a name="word-for-the-web"></a>Word per il Web
 

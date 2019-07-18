@@ -3,7 +3,6 @@ title: Continuità e integrità del servizio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/25/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
-ms.openlocfilehash: 6dfafb853035636326266cf2bd4fba97bdc499ee
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ffa55d304f5fbf7a9f97aef83207a923ea4dcce2
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343155"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776447"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 

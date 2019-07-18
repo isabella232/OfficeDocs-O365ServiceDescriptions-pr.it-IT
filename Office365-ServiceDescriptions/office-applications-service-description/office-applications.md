@@ -3,7 +3,6 @@ title: Applicazioni di Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: "Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate."
-ms.openlocfilehash: 8af3a955b02478bf461df710041e0e4970868845
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 82a6678d7a019740daf6e4f5c57e9cd02d677113
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342995"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776377"
 ---
 # <a name="office-applications"></a>Applicazioni di Office
 

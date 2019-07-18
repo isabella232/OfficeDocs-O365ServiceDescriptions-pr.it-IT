@@ -3,7 +3,6 @@ title: Office 365 Germany
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, provenienti da Data Center tedeschi, con data Residency in Germania e rigorose misure di accesso ai dati e di controllo tramite un modello di attendibilità dei dati univoco disciplinato dal diritto tedesco.
-ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 4a98fa9b16e68233ffb9cc76d62bd07c1eed97e7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131077"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777387"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -39,10 +38,10 @@ Ogni piano di Office 365 Germany include una serie di servizi individuali, come 
 |OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Skype for Business online  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Office per il Web  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Office 365 ProPlus<sup>2</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Office 365 ProPlus <sup>2</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Project Online <sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Power BI <sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Visio online<sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Visio per il Web <sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Yammer Enterprise  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |
 |Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
@@ -50,7 +49,7 @@ Ogni piano di Office 365 Germany include una serie di servizi individuali, come 
 > <sup>1</sup> servizio di sottoscrizione basato su cloud con funzionalità correlate, tra cui l'interfaccia di amministrazione di Microsoft 365, in cui è possibile configurare utenti e domini. <br/>
 <sup>2</sup> È possibile acquistare un piano Office 365 ProPlus separatamente. Office 365 ProPlus è incluso con Office 365 Germany Enterprise E3 e Office 365 Germany Enterprise E4. È necessario attivare l' [autenticazione moderna](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) per utilizzare Office 365 Germany. <br/>
 <sup>3</sup> Project online e Power BI non sono inclusi, ma possono essere acquistati come servizio aggiuntivo separato o aggiunti gratuitamente al piano Office 365 Germany Education a1. <br/>
-<sup>4</sup> Il consumo di Visio Online (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio Online richiedono una licenza. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Visio Online](../visio-online-service-description/visio-online-service-description.md). 
+<sup>4</sup> Visio per il consumo Web (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio per il Web richiedono una licenza. Per ulteriori informazioni su Visio per il Web, vedere la [Descrizione di Visio per il servizio Web](../visio-online-service-description/visio-online-service-description.md). 
   
 ## <a name="system-requirements"></a>Requisiti di sistema
 
@@ -700,7 +699,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |Scorecards & Dashboards <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Modalità integrata di SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Filtro dei dati sequenza temporale](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|[Visio online](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Visio per il Web](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizi Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>4</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**Funzionalità di ricerca** <br/> |**OneDrive for Business Piano 1** <br/> |**OneDrive for Business piano 2** <br/> |**SharePoint Online Piano 1** <br/> |**SharePoint Online piano 2** <br/> |
 |Advanced Content Processing <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -793,7 +792,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 > <sup>1</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato per abilitare le funzionalità IRM supportate.<br/>
 <sup>2</sup> Gli App Store di Office e SharePoint sono servizi opzionali gestiti da Microsoft Corporation o dalle sue affiliate da qualsiasi sede Microsoft del mondo. Le app disponibili nello Store sono fornite da vari fornitori e sono soggette ai termini e alle condizioni, nonché alle informative sulla privacy di questi ultimi. L'utilizzo di queste app potrebbe comportare il trasferimento, l'archiviazione o l'elaborazione dei propri dati nel paese in cui ha sede l'editore, una sua affiliata o i provider di servizio. La disponibilità di specifiche app e dei metodi di pagamento dipende dal proprio paese e dal servizio. Consultare attentamente i termini e le condizioni dell'editore, nonché l'informativa sulla privacy, prima di scaricare e utilizzare le sue app.<br/>
 <sup>3</sup> Non ancora disponibile per Windows Phone.<br/> 
-<sup>4</sup> Il consumo di Visio Online (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio Online richiedono una licenza. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Visio Online](../visio-online-service-description/visio-online-service-description.md). 
+<sup>4</sup> Visio per il consumo Web (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio per il Web richiedono una licenza. Per ulteriori informazioni su Visio per il Web, vedere la [Descrizione di Visio per il servizio Web](../visio-online-service-description/visio-online-service-description.md). 
   
 ## <a name="project-online-features"></a>Funzionalità di Project Online
 <a name="BM1_Platform"> </a>
@@ -962,7 +961,7 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 |[Modalità integrata di SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Filtro dei dati sequenza temporale](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Uso e interazione con cartelle di lavoro Excel contenenti modelli di dati](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Visio online](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Visio per il Web](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizi Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>18</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**Funzionalità di ricerca** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |Advanced Content Processing <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -1068,7 +1067,7 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 <sup>14</sup> È disponibile il sito Web della community dell'organizzazione ma non viene fornito supporto per la community pubblica.<br/>
 <sup>15</sup> Access 2010 non è supportato.<br/> <sup>16</sup> Gli utenti di postazioni non possono creare documenti di Office utilizzando i riquadri animati. Per creare un documento, questi utenti devono accedere a un sito di SharePoint Online, facendo clic su **Nuovo** e selezionando un tipo di file (documento Word, cartella di lavoro di Excel, presentazione PowerPoint, blocco appunti OneNote o sondaggio Excel) dal menu **Crea nuovo file**. <br/>
 <sup>17</sup> I moduli di InfoPath che contengono codice utente (Sandbox) possono essere usati solo in InfoPath Rich Client.<br/>
-<sup>18</sup> il consumo di Visio online (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio Online richiedono una licenza. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Visio Online](../visio-online-service-description/visio-online-service-description.md).<br/>
+<sup>18</sup> Visio per il consumo Web (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio per il Web richiedono una licenza. Per ulteriori informazioni su Visio per il Web, vedere la [Descrizione di Visio per il servizio Web](../visio-online-service-description/visio-online-service-description.md).<br/>
 <sup>19</sup> gli utenti di K1 possono accedere a SharePoint Server in una configurazione ibrida, ma Office 365 K1 non include i diritti CAL per accedere al server; tali diritti devono essere acquistati separatamente. 
   
 ## <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business Online
@@ -1213,9 +1212,9 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon. 
   
-## <a name="visio-online-features"></a>Funzionalità di Visio Online
+## <a name="visio-for-the-web-features"></a>Visio per le funzionalità Web
 <a name="BM3_Skype"> </a>
 
-Visio online è disponibile per Office 365 Germania. Per ulteriori informazioni su Visio Online, vedere la [Descrizione del servizio Visio Online](../visio-online-service-description/visio-online-service-description.md).
+Visio per il Web è disponibile per Office 365 Germania. Per ulteriori informazioni su Visio per il Web, vedere la [Descrizione di Visio per il servizio Web](../visio-online-service-description/visio-online-service-description.md).
   
 

@@ -3,7 +3,6 @@ title: Siti
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Concepito per Microsoft SharePoint Server 2013, è un servizio ospitato ideale per elaborare progetti, archiviare dati e documenti in una posizione centrale e condividere le informazioni. Le seguenti caratteristiche dei siti offrono un set completo di strumenti che consentono all'organizzazione di creare ogni tipo di sito, oltre a un'unica infrastruttura in grado di semplificarne la gestione. Per informazioni più dettagliate, vedere Trova contenuto su SharePoint Online.
-ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 9b7848c07aa9c161eedaae85a168befff804716b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130870"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777827"
 ---
 # <a name="sites"></a>Siti
 
