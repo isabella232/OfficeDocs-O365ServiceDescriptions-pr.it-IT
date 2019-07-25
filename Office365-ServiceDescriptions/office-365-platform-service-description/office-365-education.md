@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: a701c0bf5d5e68f22f8c294ff69e18f3a8270151
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777017"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854884"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -157,7 +157,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |Gestione avanzata della sicurezza  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Archivio protetto del cliente  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|Office 365 Advanced eDiscovery<sup>7</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Advanced eDiscovery<sup>7</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Punteggio sicuro<sup>5</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Intelligence per le minacce  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |**[Conformità [Descrizione del servizio]](compliance-servicedesc.md)** <br/> ||||
@@ -186,7 +186,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 <sup>5</sup> disponibile all' [https://securescore.office.com](https://securescore.office.com/) indirizzo (collegamento richiede autorizzazioni di amministratore). Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> Microsoft Sway non è attualmente disponibile per i clienti in determinate aree geografiche. Alcuni piani legacy di Office 365 che non sono più presenti nel mercato dal 2015 agosto possono anche non avere accesso a Microsoft Sway. <br/> 
 <sup>7</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti di Europa, Medio Oriente e Africa vengono esportati in Europa occidentale (Paesi Bassi). <br>
-<sup>8</sup> per informazioni sulle funzionalità di Microsoft Stream incluse in ogni piano, vedere the [Stream Licensing Overview](https://stream.microsoft.com/documentation/stream-license-overview/). 
+<sup>8</sup> per informazioni sulle funzionalità di Microsoft Stream incluse in ogni piano, vedere the [Stream Licensing Overview](https://stream.microsoft.com/documentation/stream-license-overview/). <br/>
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Caratteristiche del centro &amp; sicurezza e conformità di Office 365
 <a name="SCC"> </a>
@@ -201,26 +201,30 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 |**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione avanzata della sicurezza](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|[Gestione delle minacce](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), ad esempio, filtro delle e-mail e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Gestione avanzata delle minacce](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512) , ad esempio archivio protetto dei clienti e Esplora minacce per campagne di phishing <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|[Gestione delle minacce](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), ad esempio il filtro della posta e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Gestione avanzata delle minacce](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512), ad esempio Esplora minacce per le campagne di phishing <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |No  <br/> |No  <br/> |Sì  <br/> |
 |[Gestione dei dispositivi mobili](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Prevenzione della perdita di dati](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati avanzata](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|[Ricerca e indagine]<br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Ricerca eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Esportazione eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4) <sup>4</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|eDiscovery contiene (incluse le esenzioni di eDiscovery basate su query)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Archiviazione](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4) <sup>3</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Criteri di conservazione/eliminazione manuale  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Ricerca contenuto](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[casi di eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Esportazione eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[eDiscovery contiene (incluse le esenzioni di eDiscovery basate su query)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20) <sup>4</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|[Archiviazione](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Criteri di conservazione/eliminazione manuale](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Controllo unificato](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|||||
    
 > [!NOTE]
 > <sup>1</sup> la governance dei dati consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete; e creare e applicare i criteri di conservazione/eliminazione tra carichi di lavoro, utenti e gruppi. I criteri di conservazione applicati a cassette postali necessitano di Office 365 Enterprise E3 o E5. <br/> 
 <sup>2</sup> Advanced Data Governance consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni basate su un criterio di conservazione o eliminazione o entrambe. Include azioni intelligenti/automatiche, ad esempio i criteri di raccomandazione; applicazione automatica delle etichette ai dati. applicazione delle etichette in base ai tipi di dati sensibili o alle query. e l'utilizzo di filtri di importazione intelligenti. Include inoltre la funzionalità di supervisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità. <br/> 
 <sup>3</sup> illimitato. <br/> 
 <sup>4</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti di Europa, Medio Oriente e Africa vengono esportati in Europa occidentale (Paesi Bassi). <br/> 
-<sup>5</sup> Advanced Threat Protection è disponibile in Office 365 a5 e come servizio autonomo per Office 365 a1 e Office 365 a3. 
+<sup>5</sup> Advanced Threat Protection è disponibile in Office 365 a5 e come servizio autonomo per Office 365 a1 e Office 365 a3.<br/>
+<sup>6</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato. <br/>
   
 ## <a name="office-application-features"></a>Funzionalità delle applicazioni di Office
 <a name="SCC"> </a>
@@ -618,9 +622,9 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |Lunghezza massima dell'oggetto  <br/> |255 caratteri  <br/> |255 caratteri  <br/> |255 caratteri  <br/> |
 |Limite massimo dei file allegati  <br/> |250 allegati  <br/> |250 allegati  <br/> |250 allegati  <br/> |
-|Limite di dimensione massima dei file allegati - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|Limite di dimensione massima dei file allegati - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Limite di dimensione massima dei file allegati - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|Limite di dimensione massima dei file allegati - Outlook per Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |
+|Limite di dimensione massima dei file allegati - Outlook per Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Limite dei messaggi a più parti  <br/> |250 parti  <br/> |250 parti  <br/> |250 parti  <br/> |
 |Limite di profondità del messaggio incorporato  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |
    
