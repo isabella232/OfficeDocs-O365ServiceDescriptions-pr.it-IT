@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: c4f8721264abcd0e7e24a99653fa9dc7ba88f9ab
-ms.sourcegitcommit: 6e85c4e1f5d3ccaa5c1fd32f597ca2a8064417ac
+ms.openlocfilehash: 1f13d80f04b0c9ecbd6ac85add1b6a17c6c02c45
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35628579"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908803"
 ---
 # <a name="office-applications-service-description"></a>Descrizione servizio applicazioni Office
 
@@ -40,54 +40,54 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/> |
 |**Applicazioni di Office** <br/> |||||||||||
-|[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>+<sup> <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |Sì  <br/> |Sì  <br/> |Sì <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft Access](office-applications.md#microsoft-access) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì<sup>11</sup> <br/> |No  <br/> |Sì<sup>11</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Skype for Business](office-applications.md#skype-for-business) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>5, 10</sup> <br/> |
-|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Sì  <br/> |Sì<sup>12</sup> <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[App di Windows 10](office-applications.md#windows-10-apps) <br/> |Sì  <br/> |Sì  <br/> |No  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Office per Mac per Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |No  <br/> |No  <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Office Mobile per iPhone/iPad](office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sì<sup>13</sup> <br/>|Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |
-|[Office Mobile per Android](office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sì<sup>13</sup> <br/> |Sì<sup>13</sup>  <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |
-|[Office Mobile per Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sì<sup>13</sup> <br/> |Sì <sup>13</sup> <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |
-|Outlook per Android  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|**Enterprise Value** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|5 installazioni per ogni utente su PC o Mac  <br/> |No  <br/> |No  <br/>| No  <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Provisioning dell'account utente automatizzato  <br/> |N/D  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Interfaccia utente multilingue  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Distribuzione push del client  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Supporto client per server Exchange locale  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Supporto client per SharePoint on-premises  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Controllo degli aggiornamenti software  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/>  |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Confronto di database  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Virtualizzazione Desktop  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì<sup>8</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Confronto fogli di calcolo Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Verifica fogli di calcolo Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Archiviazione e conformità Exchange Online e SharePoint Online  <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/>|Sì<sup>1</sup> <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Supporto di Criteri di gruppo  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Servizio criteri cloud di Office  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Information Rights Management tramite Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
+|[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>+<sup> <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |Sì  <br/> |Sì  <br/> |Sì <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Microsoft Access](office-applications.md#microsoft-access) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì<sup>11</sup> <br/> |No  <br/> |Sì<sup>11</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì<sup>11</sup>  <br/> |
+|[Skype for Business](office-applications.md#skype-for-business) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì<sup>5</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>5, 10</sup> <br/> |Sì<sup>5</sup>  <br/> |
+|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Sì  <br/> |Sì<sup>12</sup> <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|[App di Windows 10](office-applications.md#windows-10-apps) <br/> |Sì  <br/> |Sì  <br/> |No  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
+|[Office per Mac per Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |No  <br/> |No  <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|[Office Mobile per iPhone/iPad](office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sì<sup>13</sup> <br/>|Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |
+|[Office Mobile per Android](office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sì<sup>13</sup> <br/> |Sì<sup>13</sup>  <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |
+|[Office Mobile per Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sì<sup>13</sup> <br/> |Sì <sup>13</sup> <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |
+|Outlook per Android  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|**Enterprise Value** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
+|5 installazioni per ogni utente su PC o Mac  <br/> |No  <br/> |No  <br/>| No  <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> | Sì<sup>7</sup> <br/> |
+|Provisioning dell'account utente automatizzato  <br/> |N/D  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Interfaccia utente multilingue  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Distribuzione push del client  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|Client support for on-premises Exchange  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|Client support for on-premises SharePoint  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|Control of software updates  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/>  |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|Database Compare  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br> |
+|Virtualizzazione Desktop  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì<sup>8</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Confronto fogli di calcolo Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Verifica fogli di calcolo Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/>
+|Archiviazione e conformità Exchange Online e SharePoint Online  <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/>|Sì<sup>1</sup> <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
+|Supporto di Criteri di gruppo  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Supporto per i criteri cloud di Office  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Information Rights Management tramite Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |
 |Information Rights Management tramite Windows Server AD RMS  <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |Sì <br/>| Sì<sup>3</sup> <br/>|Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |
-|Supporto dei componenti aggiuntivi di Office, ActiveX e oggetto browser helper (BHO)  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>+++<sup> <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Accesso client di OneNote ai blocchi appunti in SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì <sup>++</sup> <br/> |Sì <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |
-|Telemetria di Office  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Supporto non in linea per le applicazioni client  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/>  |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Power Map per Excel  <br/> |N.<sup>4</sup> <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|PowerPivot per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> 
-|Power Query per Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Power View per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Impostazioni roaming  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
-|Attivazione di computer condivisi  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Supporto per il blocco dell'archiviazione file basata su cloud  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/>
-|Toccare per trovare e utilizzare di nuovo i contenuti  <br/> |No  <br/> |No  <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Aggiornamenti della versione  <br/> |No  <br/> |No  <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Volume activation (KMS/MAK)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|N.<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Supporto dei componenti aggiuntivi di Office, ActiveX e oggetto browser helper (BHO)  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>+++<sup> <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Accesso client di OneNote ai blocchi appunti in SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì <sup>++</sup> <br/> |Sì <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |Sì <br/> |
+|Office Telemetry  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Supporto non in linea per le applicazioni client  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/>  |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
+|Power Map per Excel  <br/> |N.<sup>4</sup> <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|PowerPivot per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
+|Power Query per Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Power View per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Impostazioni roaming  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Attivazione di computer condivisi  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Supporto per il blocco dell'archiviazione file basata su cloud  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
+|Toccare per trovare e utilizzare di nuovo i contenuti  <br/> |No  <br/> |No  <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Aggiornamenti della versione  <br/> |No  <br/> |No  <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
+|Volume activation (KMS/MAK)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|N.<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br> |
    
 > [!NOTE]
 ><sup>+</sup>Quando si installa Office 365 o Office 2019, è possibile ottenere OneNote per Windows 10 per impostazione predefinita. Per ulteriori informazioni, vedere [domande frequenti su OneNote in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>

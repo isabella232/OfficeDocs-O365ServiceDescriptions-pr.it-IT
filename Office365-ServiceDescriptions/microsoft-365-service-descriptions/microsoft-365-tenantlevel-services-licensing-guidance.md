@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per i servizi a livello di tenant di Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411461"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908723"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Guida alla gestione delle licenze di servizi a livello di Microsoft 365
 
@@ -191,7 +191,7 @@ I criteri di conservazione di ADG possono essere applicati agli utenti con licen
 
 ## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
 
-Advanced eDiscovery fornisce soluzioni di ricerca e eDiscovery per i servizi IT e legali all'interno delle organizzazioni per identificare, raccogliere, preservare, ridurre ed esaminare i contenuti relativi a un'indagine o a una controversia preliminare all'esportazione all'esterno di Office 365 sistema.
+Office 365 Advanced eDiscovery fornisce soluzioni di analisi e di eDiscovery per i servizi IT e legali all'interno delle società per identificare, raccogliere, preservare, ridurre ed esaminare i contenuti relativi a un'indagine o a una controversia preliminare prima dell'esportazione Sistema Office 365.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
@@ -199,7 +199,7 @@ Gli utenti con licenza di Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 comp
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Gli utenti traggono vantaggio da Advanced eDiscovery quando il contenuto viene messo in attesa come parte di una controversia legale o di un'indagine.
+Un utente beneficia di Advanced eDiscovery quando l'utente viene selezionato come custode dei dati (una persona che ha il controllo amministrativo di un documento o di un file elettronico) per un caso.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -207,7 +207,7 @@ Per impostazione predefinita, le funzionalità avanzate di eDiscovery sono abili
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Le organizzazioni possono gestire Advanced eDiscovery per ogni utente e aggiungere gli utenti a un caso di eDiscovery avanzato, oltre a fornire agli utenti l'accesso di modifica ai percorsi condivisi tramite le autorizzazioni di eDiscovery. Per istruzioni su come applicare le autorizzazioni avanzate di eDiscovery agli utenti con licenza, vedere [assign eDiscovery Permissions in the Security & Compliance Center](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+gli amministratori di eDiscovery possono selezionare utenti specifici come depositari dei dati per un caso utilizzando lo strumento di gestione del custode incorporato in Advanced eDiscovery, come descritto in [aggiungere i depositari a un caso avanzato di eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case).
 
 ## <a name="office-365-customer-key"></a>Chiave cliente per Office 365
 
@@ -255,7 +255,7 @@ Microsoft non si impegna a fornire le richieste di approvazione per il controllo
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestione degli accessi con privilegi in Office 365
 
-Gestione accessi con privilegi (PAM) fornisce il controllo di accesso granulare sulle attività di amministratore privilegiate in Office 365. Dopo aver abilitato la gestione degli accessi con privilegi, gli utenti dovranno richiedere l'accesso just-in-time tramite un flusso di lavoro di approvazione estremamente ambito e con un limite di tempo per completare le attività elevate e privilegiate.
+Gestione accessi con privilegi (PAM) fornisce il controllo di accesso granulare sulle attività di amministratore privilegiate in Office 365. Dopo aver abilitato PAM, gli utenti dovranno richiedere l'accesso just-in-time tramite un flusso di lavoro di approvazione estremamente ambito e con un limite di tempo per completare le attività elevate e con privilegi.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
@@ -293,21 +293,21 @@ Per impostazione predefinita, i messaggi di posta elettronica di Exchange Online
 
 Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità di Office 365, in**posizioni**di **prevenzione** > della perdita di dati.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>Prevenzione della perdita di dati per le conversazioni tra chat e canali di Teams
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Prevenzione della perdita di dati per i messaggi di chat e canali dei team
 
-Con la prevenzione della perdita di dati (DLP) per i team chat e le conversazioni dei canali, le organizzazioni possono bloccare i messaggi nelle chat e nelle conversazioni di canale che contengono informazioni riservate, come ad esempio le informazioni finanziarie, le informazioni di identificazione personale, informazioni relative all'integrità o altre informazioni riservate.
+Con la prevenzione della perdita di dati (DLP) per i messaggi di chat e di canale dei team, le organizzazioni possono bloccare chat e messaggi di canale che contengono informazioni riservate, ad esempio informazioni finanziarie, informazioni di identificazione personale, informazioni relative all'integrità o Altre informazioni riservate.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
-Gli utenti con licenza di Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 compliance e Office 365 Advanced compliance possono trarre vantaggio da DLP per la chat di team e le conversazioni dei canali.
+Gli utenti con licenza di Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 compliance e Office 365 Advanced compliance possono trarre vantaggio da DLP per la chat di team e i messaggi di canale.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-I mittenti usufruiscono delle informazioni riservate nei messaggi di chat in uscita e di conversazione dei canali ispezionati per informazioni riservate, come configurati nel criterio DLP dell'organizzazione.
+I mittenti possono usufruire delle informazioni riservate nella chat in uscita e nei messaggi del canale ispezionati per ottenere informazioni riservate, come configurato nel criterio DLP dell'organizzazione.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, i team chat e le conversazioni di canale sono una *posizione abilitata (carico di lavoro)* per queste funzionalità DLP per tutti gli utenti all'interno del tenant. Per ulteriori informazioni sull'utilizzo dei criteri DLP, vedere [Overview of Data Loss Prevention](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Per impostazione predefinita, i messaggi chat e il canale dei team sono un *percorso abilitato (carico di lavoro)* per queste funzionalità DLP per tutti gli utenti all'interno del tenant. Per ulteriori informazioni sull'utilizzo dei criteri DLP, vedere [Overview of Data Loss Prevention](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -359,3 +359,23 @@ Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi av
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 Gli amministratori devono applicare le regole del flusso di posta per la crittografia dei messaggi avanzata solo agli utenti con licenza. Per ulteriori informazioni sulla definizione delle regole del flusso di posta, vedere [definire le regole del flusso di posta per crittografare i messaggi di posta elettronica in Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
+
+## <a name="supervision-policies"></a>Criteri di supervisione
+
+I criteri di supervisione in Office 365 consentono di acquisire le comunicazioni dei dipendenti per l'esame da revisori designati. È possibile definire criteri specifici che consentono di acquisire messaggi di posta elettronica interni ed esterni, Microsoft teams o comunicazioni di terze parti nell'organizzazione. I revisori possono quindi esaminare i messaggi per assicurarsi che siano conformi agli standard dei messaggi dell'organizzazione e risolverli con il tipo di classificazione.
+
+### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
+
+Gli utenti con licenza di Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 compliance e Office 365 Advanced compliance possono trarre vantaggio dai criteri di supervisione.
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Gli utenti usufruiscono del servizio tramite le comunicazioni monitorate dai criteri di supervisione.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+Gli amministratori creano criteri di supervisione nel centro sicurezza & conformità. Questi criteri definiscono le comunicazioni e gli utenti soggetti a revisione nell'organizzazione, definiscono le condizioni personalizzate che devono soddisfare le comunicazioni e specificano chi deve eseguire le revisioni.
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+Gli amministratori scelgono utenti o gruppi specifici da includere in un criterio di supervisione. Quando si sceglie un gruppo, è possibile selezionare anche utenti specifici del gruppo da escludere dai criteri di supervisione. Per ulteriori informazioni sulle politiche di supervisione, vedere [criteri di supervisione in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
