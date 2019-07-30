@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776707"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928405"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti Exchange Online Protection
 
@@ -38,7 +38,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
     
 - **Limite ritardo messaggi** I messaggi il cui recapito è ritardato rimangono nelle code per 2 giorni. I tentativi di invio dei messaggi variano in base al tipo di errore ricevuto dal sistema di posta elettronica del destinatario. I messaggi vengono recuperati ogni 15 minuti. 
     
-- **Periodo di mantenimento in quarantena per la posta indesiderata** Per impostazione predefinita, i messaggi di posta indesiderata messi in quarantena vengono conservati per 15 giorni. Gli amministratori possono ridurre tale valore tramite i criteri di filtro del contenuto. 
+- **Periodo di conservazione** della quarantena della posta indesiderata Per impostazione predefinita, i messaggi di posta indesiderata inviati alla quarantena vengono conservati per 30 giorni. Gli amministratori possono ridurre tale valore tramite i criteri di filtro del contenuto. 
     
 - **Notifiche di quarantena della posta indesiderata dell'utente finale** Per impostazione predefinita, se abilitata, le notifiche di quarantena della posta indesiderata dell'utente finale vengono inviate ogni 3 giorni. Possono essere configurate per essere inviate a intervalli da 1 o 15 giorni. 
     
@@ -55,7 +55,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
 |Limite dei mittenti bloccati  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
 |Limiti elenco IP consentito o IP non consentito  <br/> |1273 voci  <br/> |1273 voci  <br/> |1273 voci  <br/> |
 |Limiti ritardo messaggio  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |
-|Periodo di mantenimento in quarantena della posta indesiderata  <br/> |15 giorni per impostazione predefinita, ma può essere ridotto  <br/> |15 giorni per impostazione predefinita, ma può essere ridotto  <br/> |15 giorni per impostazione predefinita, ma può essere ridotto  <br/> |
+|Periodo di mantenimento in quarantena della posta indesiderata  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |
 |Notifiche di quarantena della posta indesiderata dell'utente finale  <br/> |3 giorni per impostazione predefinita, configurabile in un intervallo da 1 a 15 giorni  <br/> |3 giorni per impostazione predefinita, configurabile in un intervallo da 1 a 15 giorni  <br/> |3 giorni per impostazione predefinita, configurabile in un intervallo da 1 a 15 giorni  <br/> |
    
 

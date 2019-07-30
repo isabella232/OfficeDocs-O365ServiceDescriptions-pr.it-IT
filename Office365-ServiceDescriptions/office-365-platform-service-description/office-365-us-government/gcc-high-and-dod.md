@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233523"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928415"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -76,15 +76,17 @@ Le sottoscrizioni Office 365 negli ambienti GCC High e DoD includono le caratter
     
 4. Persone specifiche
     
-I clienti che utilizzano SharePoint Online e OneDrive for business negli ambienti GCC High o DoD possono mantenere i documenti privati (prima opzione), condividerli con tutti gli utenti dell'organizzazione (seconda opzione), condividerli con tutti gli utenti che dispongono del collegamento al documento (terza opzione) e condividere con persone specifiche all'interno solo degli ambienti GCC High e DoD (quarta opzione); Naturalmente, queste opzioni possono essere limitate anche in base ai controlli di accesso a livello di tenant.
+I clienti che utilizzano SharePoint Online e OneDrive for business negli ambienti GCC High o DoD possono mantenere i documenti privati (prima opzione), condividerli con tutti gli utenti dell'organizzazione (seconda opzione), condividerli con tutti gli utenti che dispongono del collegamento al documento (terza opzione) e condivisione con utenti specifici (quarta opzione). È possibile limitare queste opzioni in base ai controlli di accesso a livello di tenant.
+
+Quando si condivide con persone specifiche, SharePoint verificherà che gli utenti siano destinatari di un collegamento tramite l'invio di un codice di accesso una tantum all'indirizzo di posta elettronica condiviso. Tuttavia, quando un tenant di GCC-High condivide un altro tenant di GCC-High, verrà creato un account Guest per il destinatario in Azure AD, che eseguirà l'accesso con il nome utente e la password.
   
-Gli inquilini di GCC High possono condividerli con altri tenant High GCC. Ad esempio:
+Altri esempi:
   
-- GCC High tenant A è in grado di condividere il tenant alto B.
+- GCC High tenant A è in grado di condividere con il tenant elevato B GCC, mentre gli utenti B eseguono l'accesso utilizzando il nome utente e la password di Azure AD.
     
-- Il tenant C non GCC può condividerlo con il tenant alto di GCC A o B.
+- Il tenant C non GCC può condividerlo con il tenant alto di GCC A o B e gli utenti A o B possono accedere utilizzando codici di accesso una tantum.
     
-- Il tenant alto GCC A o B non può condividere con il tenant alto non GCC C.
+- L'alto tenant A o B di GCC può condividere con il tenant alto C non GCC e gli utenti C si configurano utilizzando codici di accesso una tantum.
     
 Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai profili utente non sono supportati e non consentiranno di inviare messaggi di posta elettronica di avviso. Ad esempio, per l'utente locale A viene assegnato un indirizzo di posta elettronica di Gmail e quindi sincronizzato con Azure GCC High tenant. L'utente A si sposta in una raccolta e crea un avviso per eventuali modifiche. L'avviso non verrà inviato all'indirizzo Gmail.
   
@@ -92,7 +94,7 @@ Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai 
   
  **Servizi di integrazione applicativa** -la funzionalità BCS è supportata per gli scenari di connettività in cui le origini dati rimangono raggiungibili entro il limite di sicurezza per il servizio cloud. 
   
- **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. È necessario eseguire la migrazione di tutte le soluzioni sandbox nel [ modello estendibilità del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
+ **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. Tutte le soluzioni in modalità sandbox devono essere migrate nel [modello extensibility del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype for Business online
 
