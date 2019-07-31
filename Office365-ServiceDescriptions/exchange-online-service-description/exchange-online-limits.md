@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
+ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928897"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35940534"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
@@ -266,6 +266,7 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 |Limite per la dimensione del messaggio - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |Limite per la dimensione del messaggio - Outlook per Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite per la dimensione del messaggio - migrazione|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
+|Limite per la dimensione del messaggio-Outlook per iOS e Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>5</sup>|150 MB|150 MB |150 MB |150 MB |150 MB |150 MB|
 |Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>5</sup>|25 MB|25 MB |25 MB |25 MB |25 MB |25 MB|
 |Lunghezza massima dell'oggetto|255 caratteri|255 caratteri|255 caratteri|255 caratteri|255 caratteri|255 caratteri|
@@ -273,6 +274,7 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 |Limite di dimensione massima dei file allegati - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB |
 |Limite di dimensione massima dei file allegati - OWA <sup>6</sup>|35 MB|35 MB|35 MB|35 MB|35 MB|35 MB|
 |Limite di dimensione massima dei file allegati - Outlook per Mac|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB |
+|Limite per la dimensione dei file allegati-Outlook per iOS e Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |Limite dei messaggi a più parti|250 parti|250 parti|250 parti|250 parti|250 parti|250 parti|
 |Limite di profondità del messaggio incorporato|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|
 
@@ -286,15 +288,17 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 |**Funzionalità**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Limite per la dimensione del messaggio - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
 |Limite per la dimensione del messaggio - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
-|Limite per la dimensione del messaggio - Outlook per Mac|10 MB<sup>4</sup>|150 MB |150 MB ||
+|Limite per la dimensione del messaggio - Outlook per Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |Limite per la dimensione del messaggio - migrazione|Non applicabile|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
-|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
+|Limite per la dimensione del messaggio-Outlook per iOS e Android |25 MB |33 MB |33 MB |33 MB |
+|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>6</sup>|150 MB |150 MB |150 MB |150 MB |
 |Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>6</sup>|25 MB|25 MB |25 MB |25 MB|
 |Lunghezza massima dell'oggetto|255 caratteri|255 caratteri|255 caratteri|255 caratteri|
 |Limite massimo dei file allegati|1024 allegati<sup>4</sup>|250 allegati|250 allegati|250 allegati|
 |Limite di dimensione massima dei file allegati - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB |
 |Limite di dimensione massima dei file allegati - OWA|35 MB<sup>4</sup>|35 MB|35 MB|35 MB|
 |Limite di dimensione massima dei file allegati - Outlook per Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
+|Limite per la dimensione dei file allegati-Outlook per iOS e Android|25 MB |33 MB|33 MB|33 MB|
 |Limite dei messaggi a più parti|250 parti|250 parti|250 parti|250 parti|
 |Limite di profondità del messaggio incorporato|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|
 
