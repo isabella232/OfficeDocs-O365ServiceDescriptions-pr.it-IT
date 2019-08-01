@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928405"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051607"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti Exchange Online Protection
 
@@ -52,7 +52,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
 |Limiti dimensioni messaggio (inclusi gli allegati)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Limiti destinatario  <br/> |Vedere "Limite destinatari" sopra riportato  <br/> |500 destinatari quando si invia da una cassetta postale ospitata; vedere "Limite destinatari" sopra riportato per ulteriori scenari  <br/> |Vedere "Limite destinatari" sopra riportato  <br/> |
 |Limite dei mittenti attendibili  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
-|Limite dei mittenti bloccati  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
+|Limite del mittente bloccato per ogni criterio  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
 |Limiti elenco IP consentito o IP non consentito  <br/> |1273 voci  <br/> |1273 voci  <br/> |1273 voci  <br/> |
 |Limiti ritardo messaggio  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |
 |Periodo di mantenimento in quarantena della posta indesiderata  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |
