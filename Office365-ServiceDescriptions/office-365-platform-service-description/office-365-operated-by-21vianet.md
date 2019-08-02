@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 76ba8a468a2036818addd3d0ece908a691179ab1
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908813"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058838"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -357,13 +357,13 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Avvisi di capacità  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Messaggi secondari  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Suggerimenti messaggio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>12</sup> <br/> |Sì<sup>12</sup> <br/> |Sì<sup>12</sup> <br/> |Sì<sup>12</sup> <br/> |
-|Accesso delegato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|Accesso delegato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Regole posta in arrivo  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Account connessi  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup> <br/> |Sì<sup>13</sup> <br/> |Sì<sup>13</sup> <br/> |Sì<sup>13</sup> <br/> |
 |Cassette postali inattive  <br/> |N.<sup>6</sup> <br/> |--  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |No <sup>6</sup> <br/> |
 |Rubrica offline  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Criteri della rubrica  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Rubrica gerarchica  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|Rubrica gerarchica  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Elenchi indirizzi ed elenco indirizzi globale  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |Sì<sup>14</sup> <br/> |
 |Gruppi di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Gruppi di distribuzione  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
