@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale. ATP dispone di funzionalità di creazione report e traccia URL avanzate che consentono agli amministratori di analizzare i tipi di attacchi che si verificano nell'organizzazione.
-ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
-ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
+ms.openlocfilehash: aaa017f127ee17ce872ec7ba8fb13b78bc332048
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36058818"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171696"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -72,7 +72,7 @@ Stiamo continuando ad aggiungere nuove funzionalità a Office 365 ATP. Di seguit
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) le funzionalità sono ora le funzionalità di ricerca e di risposta alle minacce nell'ambito del piano ATP 2. Sono disponibili nuove funzionalità, ad esempio l' [analisi e la risposta automatizzate](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)e i miglioramenti apportati a [Threat Explorer](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance).<br/><br/>Se l'organizzazione attualmente non dispone di ATP o se si dispone di ATP, ma non di TI, sono disponibili diverse opzioni da prendere in considerazione, con la disponibilità di ATP piano 1 e ATP piano 2. Per ulteriori informazioni, vedere [disponibilità delle funzionalità tra i piani di Advanced Threat Protection (ATP)](#feature-availability-across-advanced-threat-protection-atp-plans) (in questo articolo) e i [piani e i prezzi di Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection). |Esaminare la sottoscrizione dell'organizzazione e, se necessario, [acquistare o modificare un componente aggiuntivo](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).  |
 |Quando gli utenti utilizzano Outlook o Outlook Web Application (OWA), i [collegamenti sicuri di ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) eseguono il rendering degli URL originali e non degli URL riscritti. (Viene chiamato il rendering del collegamento nativo).<br>Quando il rendering dei collegamenti nativi è disponibile per l'organizzazione, questa funzionalità funzionerà in Outlook 365 (a portata di clic), OWA e in Windows e Mac OS. |Nessuno         |
 |Le [pagine di avviso ATP di Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) dispongono di una nuova combinazione di colori, maggiori dettagli e la possibilità di continuare a un sito nonostante gli avvisi e i consigli specificati. |Nessuno         |
-|La protezione dei [collegamenti sicuri ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) è estesa per essere applicata agli URL di Office per il Web (Word per il Web, Excel per il Web, PowerPoint per il Web e OneNote per il Web) e Office 365 ProPlus su Mac.   |[Esaminare e modificare i criteri dei collegamenti sicuri di ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
+|La protezione dei [collegamenti sicuri di ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) è estesa per essere applicata agli URL di Office per il Web (Word per il Web, Excel per il Web, PowerPoint per il Web e OneNote per il Web) e Office 365 ProPlus su Mac.   |[Esaminare e modificare i criteri dei collegamenti sicuri di ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
 |Le funzionalità di quarantena nel &amp; Centro sicurezza e conformità sono estese a [ATP per SharePoint Online, OneDrive for business e Microsoft teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams). |[Esaminare e modificare i criteri per gli allegati sicuri di ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
 |La protezione di [collegamenti sicuri ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) è estesa per essere applicata ai messaggi di posta elettronica inviati tra gli utenti all'interno di un'organizzazione. |[Esaminare e modificare i criteri dei collegamenti sicuri di ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
 |La protezione dei [collegamenti sicuri di ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) è estesa per essere applicata agli URL nella posta elettronica e negli URL dei documenti di Office 365 ProPlus, ad esempio Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android.  |Assicurarsi [di utilizzare l'autenticazione moderna per Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
@@ -93,7 +93,8 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |Collegamenti sicuri |Sì|Sì |Sì | 
 |Criteri di anti-phishing |Sì |Sì |Sì |
 |ATP per SharePoint, OneDrive e Microsoft Teams |Sì |Sì |Sì|
-|Collegamenti sicuri nei team |Sì|Sì |Sì |
+|Allegati sicuri nei team |Sì|Sì |Sì |
+|Collegamenti sicuri nei team |No |No |No |
 |Rapporti in tempo reale |Sì |Sì |Sì|
 |*Automazione, indagine, correzione e formazione* |
 |Tracker delle minacce |No |Sì |Sì |
@@ -114,6 +115,16 @@ Gli [allegati sicuri di ATP](https://docs.microsoft.com/office365/securitycompli
 ### <a name="safe-links"></a>Collegamenti sicuri
 
 La funzionalità [ATP Safe Links](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane ogni volta che l'utente fa clic sul collegamento, in quanto i collegamenti dannosi vengono bloccati in modo dinamico mentre i collegamenti corretti continuano ad essere accessibili.
+
+I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
+
+- Office 365 ProPlus in Windows o Mac
+- Office per il Web (Word per il Web, Excel per il Web, PowerPoint per il Web e OneNote per il Web)
+- Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android 
+
+> [!NOTE] 
+> Gli utenti devono essere concessi in licenza per ATP, devono essere inclusi nei criteri dei collegamenti sicuri di ATP e devono essere firmati nei propri dispositivi affinché la protezione sia sul posto.
+
 
 ### <a name="anti-phishing-policies"></a>Criteri di anti-phishing
 
