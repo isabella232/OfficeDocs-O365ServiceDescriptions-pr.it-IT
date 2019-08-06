@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940534"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206846"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
@@ -408,7 +408,7 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 - **Limitare l'invio di messaggi a gruppi di distribuzione di grandi dimensioni**: i gruppi di distribuzione che contengono il numero di membri specificati da questo limite devono essere configurati per la gestione del recapito o l'approvazione dei messaggi La gestione recapito specifica un elenco di mittenti a cui è consentito inviare messaggi al gruppo di distribuzione. L'approvazione messaggi specifica uno o più moderatori che devono approvare tutti i messaggi inviati al gruppo di distribuzione.
 
-- **Dimensione massima dei messaggi per gruppi di distribuzione di grandi dimensioni**: se un messaggio viene inviato a 5.000 o più destinatari, la dimensione del messaggio non può superare questo limite. Se supera questo limite, il messaggio non verrà recapitato e il mittente riceverà un rapporto di mancato recapito. Il numero totale di destinatari viene determinato dopo l'espansione del gruppo di distribuzione.
+- **Dimensione massima dei messaggi per gruppi di distribuzione di grandi dimensioni**: se un messaggio viene inviato a 5.000 o più destinatari, la dimensione del messaggio non può superare questo limite. Se supera questo limite, il messaggio non verrà recapitato e il mittente riceverà un rapporto di mancato recapito.
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>Limiti dei gruppi di distribuzione nelle opzioni di Office 365
 
