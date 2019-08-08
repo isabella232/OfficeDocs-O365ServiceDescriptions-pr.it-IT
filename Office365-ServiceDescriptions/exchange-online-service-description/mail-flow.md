@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e il filtro vengono gestiti da Office 365. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione. '
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776787"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231414"
 ---
 # <a name="mail-flow"></a>Flusso della posta
 
@@ -29,16 +29,16 @@ Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft o
 
 Microsoft Exchange Online può effettuare il routing del flusso di posta dall'organizzazione tramite un server locale o un servizio ospitato (talvolta denominato "smart hosting"). Ciò consente all'organizzazione di utilizzare le funzionalità di prevenzione della perdita dei dati, di eseguire una post elaborazione personalizzata della posta in uscita e di recapitare la posta ai propri partner tramite reti private. Exchange Online supporta anche la funzionalità di riscrittura degli indirizzi, nella quale la posta in uscita viene inviata attraverso un gateway locale che ne modifica gli indirizzi. Questa funzionalità permette di nascondere i sottodomini, di far apparire la posta proveniente da più domini come proveniente da un unico dominio o di far apparire la posta inviata da un partner dell'organizzazione come inviata dall'organizzazione stessa. Gli amministratori possono personalizzare il routing della posta dall'interfaccia di amministrazione di Exchange.
   
-Per ulteriori informazioni, vedere [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx).
+Per ulteriori informazioni, vedere [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 > [!IMPORTANT]
-> Exchange Online può recapitare il flusso di posta all'interno e all'esterno dell'organizzazione. 
+> Exchange Online può recapitare il flusso di posta all'interno e all'esterno dell'organizzazione. Se il dominio del destinatario è ospitato in Exchange Online con i record MX DNS che puntano a Exchange Online Protection, il flusso di posta dal tenant al destinatario non si recherà su Internet.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Messaggistica sicura presso un partner di fiducia
 
-Come cliente Exchange Online, è possibile configurare il flusso di posta sicura con un partner di fiducia utilizzando i connettori di Office 365. Office 365 supporta la comunicazione sicura attraverso il protocollo Transport Layer Security (TLS) ed è possibile creare un connettore per forzare la crittografia tramite TLS. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) è un protocollo crittografico che protegge le comunicazioni via Internet. Utilizzando i connettori, è possibile forzare il protocollo TSL sia per la posta in entrata che per quella in uscita utilizzando certificati autofirmati o convalidati da un'autorità di certificazione. È inoltre possibile applicare altre restrizioni, ad esempio specificando nomi di dominio o intervalli di indirizzi IP dai quali l'organizzazione partner invia messaggi di posta. 
+Come cliente Exchange Online, è possibile configurare il flusso di posta sicura con un partner di fiducia utilizzando i connettori di Office 365. Office 365 supporta la comunicazione sicura attraverso il protocollo Transport Layer Security (TLS) ed è possibile creare un connettore per forzare la crittografia tramite TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) è un protocollo crittografico che protegge le comunicazioni via Internet. Utilizzando i connettori, è possibile forzare il protocollo TSL sia per la posta in entrata che per quella in uscita utilizzando certificati autofirmati o convalidati da un'autorità di certificazione. È inoltre possibile applicare altre restrizioni, ad esempio specificando nomi di dominio o intervalli di indirizzi IP dai quali l'organizzazione partner invia messaggi di posta. 
   
-Per ulteriori informazioni, vedere [Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx).
+Per ulteriori informazioni, vedere [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
 > [!IMPORTANT]
 > Potrebbe essere obbligatorio utilizzare un certificato convalidato da un'autorità di certificazione. 
@@ -47,13 +47,13 @@ Per ulteriori informazioni, vedere [Set up connectors for secure mail flow with 
 
 È possibile indirizzare la posta diretta a siti specifici utilizzando i connettori e le regole di trasporto. Con il routing basato su criteri, è possibile scegliere un connettore in base a specifiche condizioni.
   
-Per ulteriori informazioni, vedere [Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).
+Per ulteriori informazioni, vedere [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Elenco indirizzi attendibili della posta in arrivo:
 
 È possibile aggiungere l'indirizzo IP di un partner attendibile a un elenco di indirizzi attendibili al fine di assicurarsi che i messaggi inviati dal partner non siano soggetti al filtro posta indesiderata. A tale scopo, è possibile utilizzare l'elenco di indirizzi IP consentiti del filtro connessioni.
   
-Per ulteriori informazioni, vedere [Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx).
+Per ulteriori informazioni, vedere [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Routing posta ibrida
 
@@ -98,4 +98,3 @@ Per ulteriori informazioni sui requisiti di una distribuzione ibrida, vedere [Pr
 
 Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   
-

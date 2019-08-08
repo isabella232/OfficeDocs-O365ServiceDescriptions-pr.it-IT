@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051607"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231394"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti Exchange Online Protection
 
@@ -36,7 +36,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
     
 - **Limite elenco IP consentiti o IP non consentiti** Quando si configura un elenco indirizzi IP consentiti o un elenco indirizzi IP non consentiti nel filtro di connessione, è possibile specificare un massimo di 1273 voci (una voce può essere un singolo indirizzo IP o un intervallo CIDR di indirizzi IP compresi tra 24 e 32). 
     
-- **Limite ritardo messaggi** I messaggi il cui recapito è ritardato rimangono nelle code per 2 giorni. I tentativi di invio dei messaggi variano in base al tipo di errore ricevuto dal sistema di posta elettronica del destinatario. I messaggi vengono recuperati ogni 15 minuti. 
+- **Limite di rinvio del messaggio** I messaggi in differimento rimarranno nelle code per 24 ore. I tentativi di invio dei messaggi variano in base al tipo di errore ricevuto dal sistema di posta elettronica del destinatario. I messaggi vengono recuperati ogni 15 minuti. 
     
 - **Periodo di conservazione** della quarantena della posta indesiderata Per impostazione predefinita, i messaggi di posta indesiderata inviati alla quarantena vengono conservati per 30 giorni. Gli amministratori possono ridurre tale valore tramite i criteri di filtro del contenuto. 
     
