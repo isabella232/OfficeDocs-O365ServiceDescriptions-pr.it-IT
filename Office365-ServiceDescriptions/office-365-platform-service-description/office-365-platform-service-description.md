@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: a2a21a06d90a82423e9a669dec12a5311df33e80
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: ccc8ba16e540381233609d2abab0497cf24f780e
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206836"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258884"
 ---
 # <a name="office-365-platform-service-description"></a>Descrizione dei servizi della piattaforma Office 365
 
@@ -92,7 +92,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
+|**[Funzionalità di amministrazione di Office 365](https://docs.microsoft.com/office/admins-itprofessionals)** <br/> ||||||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
 |**[Funzionalità della famiglia di prodotti Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
@@ -124,7 +124,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Gestione dei gruppi di sicurezza da Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Disponibilità di più ruoli amministratore  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Possibilità di permettere a un partner di gestire Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Servizi di Azure Active Directory  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Servizi di Azure Active Directory<sup>23</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Domini](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Aggiunta di domini di secondo livello personalizzati, come fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Aggiunta di domini di terzo livello personalizzati, come marketing.fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -226,3 +226,4 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 <br/><sup>20</sup> disponibile come componente aggiuntivo gratuito. Per ulteriori informazioni, vedere [Get Access to Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
 <br/><sup>21</sup> per ottenere analisi (completa) con il piano E3, è necessario acquistare il componente aggiuntivo di analisi. Per ulteriori informazioni, vedere i [piani e gli ambienti di analisi](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments). 
 <br/><sup>22</sup> include informazioni approfondite in base a analisi analitiche. Per ulteriori informazioni, vedere i [piani e gli ambienti di analisi](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+<br/><sup>23</sup> include le funzionalità di Azure Active Directory descritte nella colonna **Office 365 Apps** nella [pagina dei prezzi di Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). È necessario aggiungere Azure Active Directory piano 1 o piano 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 per ottenere le funzionalità avanzate di Azure AD.

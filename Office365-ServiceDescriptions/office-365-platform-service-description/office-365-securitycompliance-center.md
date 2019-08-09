@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 7728de2cba553b278e980a26dfe6658800077713
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 8638c3049449f6b718fca8141fedea225da6d5c1
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854914"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258894"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -35,7 +35,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 |[Gestione avanzata delle minacce](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), ad esempio Esplora minacce per le campagne di phishing<sup>6</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Gestione dei dispositivi mobili](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Prevenzione della perdita di dati per Exchange Online, SharePoint Online e OneDrive for business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>7</sup><br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Prevenzione della perdita di dati per Exchange Online, SharePoint Online e OneDrive for business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>7, 9</sup><br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Prevenzione della perdita di dati per i messaggi di chat e di canale di Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/>|
 |[Barriere informative](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/>|
 |[Governance dei dati](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -59,7 +59,8 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 <sup>6</sup> Advanced Threat Protection è disponibile in Office 365 Enterprise E5 e come servizio autonomo per Office 365 Enterprise E1 e Office 365 Enterprise E3.<br> 
 <sup>7</sup> include i file archiviati nei repository di Microsoft teams.<br/>
 <sup>8</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato. <br/>
-   
+<sup>9</sup> è disponibile un componente aggiuntivo DLP che può essere aggiunto a qualsiasi SKU con Exchange o SharePoint/OneDrive.<br/>
+
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
 |||||||||
@@ -71,7 +72,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 |[Gestione avanzata delle minacce](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), ad esempio Esplora minacce per le campagne di phishing  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Gestione dei dispositivi mobili](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Prevenzione della perdita di dati per Exchange Online, SharePoint Online e OneDrive for business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì <sup>7<sup> <br/> |No  <br/> |Sì  <br/> |
+|[Prevenzione della perdita di dati per Exchange Online, SharePoint Online e OneDrive for business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>9</sup> <br/> |No  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì <sup>7<sup> <br/> |No  <br/> |Sì  <br/> |
 |[Prevenzione della perdita di dati per i messaggi di chat e di canale di Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Barriere informative](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Governance dei dati](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -95,6 +96,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 <sup>6</sup> l'archiviazione Skype è all'interno della cassetta postale dell'utente.<br/> 
 <sup>7</sup> include i file archiviati nei repository di Microsoft teams.<br/>
 <sup>8</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato. <br/>
+<sup>9</sup> è disponibile un componente aggiuntivo DLP che può essere aggiunto a qualsiasi SKU con Exchange o SharePoint/OneDrive.<br/>
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 

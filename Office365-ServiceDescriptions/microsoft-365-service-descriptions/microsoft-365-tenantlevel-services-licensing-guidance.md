@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per i servizi a livello di tenant di Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206866"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258864"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Guida alla gestione delle licenze di servizi a livello di Microsoft 365
 
@@ -63,7 +63,7 @@ Per impostazione predefinita, le funzionalità di Azure ATP sono abilitate a liv
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Microsoft non si impegna a fornire funzionalità di rilevamento delle minacce agli utenti che non dispongono di una licenza. Nel corso del tempo, i controlli delle licenze o degli strumenti mirati verranno aggiunti a Azure ATP per garantire che la funzionalità di Azure ATP sia applicabile solo agli utenti con licenza.
+Microsoft fornisce richieste di approvazione per gli utenti con licenza dell'archivio di controllo di accesso ai clienti.
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -150,7 +150,7 @@ Gli utenti con licenza di Azure AD P1 possono trarre vantaggio dalle funzionalit
 
 Per usufruire delle funzionalità di [controllo delle app con accesso condizionale](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS, è necessario che gli utenti dispongano di una licenza per Azure Active Directory P1, incluso in Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ Sicurezza di a3/G3, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5.
 
-Per usufruire dell' [etichettatura automatica](https://docs.microsoft.com/cloud-app-security/data-protection-policies), gli utenti devono essere concessi in licenza per Azure Information Protection P2, incluso in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Compliance.
+Per trarre vantaggio dall' [etichettatura automatica](https://docs.microsoft.com/cloud-app-security/data-protection-policies), gli utenti devono essere concessi in licenza per Azure Information Protection P1, incluso in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Compliance.
 
 Per ulteriori informazioni, vedere il [foglio dati di Microsoft cloud app Security Licensing](http://www.aka.ms/mcaslicensing).
 
@@ -226,9 +226,9 @@ Le chiavi di crittografia per i clienti di Office 365 possono essere abilitate p
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Per assegnare le chiavi di crittografia ai dati all'interno di un tenant di Office 365 e/o Microsoft 365 per gli utenti con licenza, seguire i criteri di distribuzione delle chiavi di crittografia dei clienti:
+Per assegnare le chiavi di crittografia ai dati all'interno di un tenant di Office 365 e/o Microsoft 365 per gli utenti con licenza, seguire le istruzioni per la distribuzione delle chiavi di crittografia dei clienti:
 
-  - Per SharePoint Online, i file in uno o più siti possono essere crittografati utilizzando la chiave del cliente come descritto di seguito: [impostazione della chiave del cliente per SharePoint Online e OneDrive for business](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business).
+  - Per SharePoint Online e OneDrive for business, i file in uno o più siti possono essere crittografati utilizzando la chiave del cliente, come descritto di seguito: [impostazione della chiave del cliente per SharePoint Online e OneDrive for business](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business).
 
   - Per Exchange Online e Skype for business online, le cassette postali possono essere crittografate utilizzando la chiave del cliente come descritto di seguito: [impostazione della chiave del cliente per Exchange Online e Skype for business](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
 
