@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Informazioni sullo spazio di archiviazione di OneDrive fornito per ogni piano di abbonamento.
-ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
+ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131250"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36286013"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descrizione del servizio OneDrive for Business
 
@@ -38,7 +38,7 @@ Per esaminare i requisiti per il client di sincronizzazione e l'app per disposit
   
 ## <a name="about-sync"></a>Informazioni sulla sincronizzazione
 
-Per installare il client di sincronizzazione più recente, andare alla [pagina di download di OneDrive](https://onedrive.live.com/about/download/). 
+Chiunque il cui piano include OneDrive può usare il client di sincronizzazione di OneDrive, a meno che il reparto IT non lo disabiliti esplicitamente. Per installare il client di sincronizzazione più recente, andare alla [pagina di download di OneDrive](https://onedrive.live.com/about/download/). Per altre informazioni sul client di sincronizzazione, vedere [Sincronizzare i file con il client di sincronizzazione di OneDrive in Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49).
   
 ## <a name="storage-space-per-user"></a>Spazio di archiviazione per utente
 
