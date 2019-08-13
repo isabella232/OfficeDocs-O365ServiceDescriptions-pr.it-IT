@@ -3,14 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Settimana del 1 ° luglio 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 7/1/2019 | [Guida alla gestione delle licenze di servizi a livello di Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modificato |
-
-
 ## <a name="week-of-july-08-2019"></a>Settimana del 08 luglio 2019
 
 
@@ -152,3 +144,24 @@
 | 8/1/2019 | [Office 365 gestito da 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modificato |
 | 8/2/2019 | [Guida alla gestione delle licenze di servizi a livello di Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modificato |
 | 8/2/2019 | [Descrizione del servizio Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modificato |
+
+
+## <a name="week-of-august-05-2019"></a>Settimana del 05 agosto 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 8/5/2019 | [Limiti di Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificato |
+| 8/5/2019 | [Descrizione del servizio Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) | modificato |
+| 8/5/2019 | [Guida alla gestione delle licenze di servizi a livello di Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modificato |
+| 8/5/2019 | [Descrizione del servizio della piattaforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificato |
+| 8/7/2019 | [Descrizione del servizio Archiviazione Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | modificato |
+| 8/7/2019 | [Limiti di Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | modificato |
+| 8/7/2019 | [Flusso di posta](/Office365/ServiceDescriptions/exchange-online-service-description/mail-flow) | modificato |
+| 8/7/2019 | [Conformità e criteri dei messaggi](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | modificato |
+| 8/7/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | modificato |
+| 8/8/2019 | [Guida alla gestione delle licenze di servizi a livello di Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modificato |
+| 8/8/2019 | [Descrizione del servizio della piattaforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificato |
+| 8/8/2019 | [Centro sicurezza e conformità di Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificato |
+| 8/9/2019 | [Descrizione del servizio della piattaforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificato |
+| 8/9/2019 | [Descrizione del servizio OneDrive for Business](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | modificato |
