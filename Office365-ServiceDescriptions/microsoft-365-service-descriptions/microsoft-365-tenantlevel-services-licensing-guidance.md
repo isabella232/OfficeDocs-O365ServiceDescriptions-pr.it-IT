@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per i servizi a livello di tenant di Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258864"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384870"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Guida alla gestione delle licenze di servizi a livello di Microsoft 365
 
@@ -63,7 +63,7 @@ Per impostazione predefinita, le funzionalità di Azure ATP sono abilitate a liv
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Microsoft fornisce richieste di approvazione per gli utenti con licenza dell'archivio di controllo di accesso ai clienti.
+Microsoft fornisce funzionalità di rilevamento delle minacce per gli utenti con licenza.
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -250,7 +250,7 @@ Gli amministratori possono abilitare i controlli archivio clienti all'interno de
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Microsoft non si impegna a fornire le richieste di approvazione per il controllo dell'accesso dei clienti per gli utenti che non dispongono di una licenza. Nel tempo, i controlli delle licenze o gli strumenti mirati verranno aggiunti all'archivio protetto dei clienti per assicurarsi che l'archivio protetto dei clienti sia assegnabile agli utenti con licenza.
+Microsoft fornisce richieste di approvazione per gli utenti dell'organizzazione del controllo di accesso ai clienti all'interno di Office 365.
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestione degli accessi con privilegi in Office 365
 
