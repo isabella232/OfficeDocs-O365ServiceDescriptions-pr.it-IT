@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928415"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450290"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -84,7 +84,7 @@ Altri esempi:
   
 - GCC High tenant A è in grado di condividere con il tenant elevato B GCC, mentre gli utenti B eseguono l'accesso utilizzando il nome utente e la password di Azure AD.
     
-- Il tenant C non GCC può condividerlo con il tenant alto di GCC A o B e gli utenti A o B possono accedere utilizzando codici di accesso una tantum.
+- Il tenant alto C non GCC può condividere con il tenant A o B di GCC High, mentre gli utenti A o B eseguono l'accesso utilizzando codici di codice una tantum.
     
 - L'alto tenant A o B di GCC può condividere con il tenant alto C non GCC e gli utenti C si configurano utilizzando codici di accesso una tantum.
     

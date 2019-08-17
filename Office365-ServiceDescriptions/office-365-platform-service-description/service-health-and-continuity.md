@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
-ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
-ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
+ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36298036"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450280"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
@@ -79,7 +79,7 @@ L'app di amministrazione per gli amministratori di Office 365 tenant offre la po
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Management Pack di Office 365 per Microsoft System Center 2012 R2
 
-Microsoft System Center è una piattaforma di gestione integrata che consente di gestire data center, dispositivi client e ambienti IT cloud ibridi. Gli amministratori di Office 365 che utilizzano System Center ora hanno la possibilità di importare il Management Pack di Office 365, che consente di visualizzare tutte le comunicazioni di servizio all'interno di Operations Manager in System Center. Utilizzando questo strumento è possibile accedere allo stato dei servizi sottoscritti, agli incidenti di servizio attivi e risolti e alle comunicazioni del Centro messaggi. Per ulteriori informazioni, leggere il post del blog [Nuovi strumenti di amministrazione di Office 365](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/). 
+Microsoft System Center è una piattaforma di gestione integrata che consente di gestire data center, dispositivi client e ambienti IT cloud ibridi. Gli amministratori di Office 365 che utilizzano System Center ora hanno la possibilità di importare il Management Pack di Office 365, che consente di visualizzare tutte le comunicazioni di servizio all'interno di Operations Manager in System Center. Utilizzando questo strumento è possibile accedere allo stato dei servizi sottoscritti, agli incidenti di servizio attivi e risolti e alle comunicazioni del Centro messaggi. Per ulteriori informazioni, leggere il post del blog [Nuovi strumenti di amministrazione di Office 365](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
   
 ### <a name="office-365-service-communications-api"></a>API delle comunicazioni del servizio di Office 365
 
@@ -91,7 +91,7 @@ L'API delle comunicazioni del servizio di Office 365 consente di accedere alle c
     
 - Notifiche di manutenzione pianificata
     
-Per ulteriori informazioni, leggere il post del blog [Nuovi strumenti di amministrazione di Office 365](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/). 
+Per ulteriori informazioni, leggere il post del blog [Nuovi strumenti di amministrazione di Office 365](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
   
 ## <a name="post-incident-reviews"></a>Analisi a posteriori degli incidenti
 
@@ -115,7 +115,7 @@ Per tutti gli altri incidenti del servizio, il dashboard dell'integrità del ser
 
 Le offerte di Microsoft Office 365 vengono rese disponibili tramite sistemi altamente resilienti utili per mantenere le prestazioni del servizio a un livello ottimale. Le disposizioni di continuità del servizio fanno parte della progettazione di Office 365. Tali disposizioni consentono a Office 365 di riprendere tempestivamente a funzionare in seguito a eventi imprevisti, quali guasti hardware o errori di applicazione, danneggiamento dei dati o altri incidenti che colpiscono gli utenti. Queste soluzioni per la continuità del servizio vengono applicate anche in caso di interruzioni estremamente gravi, ad esempio in seguito a disastri naturali o a un incidente in un data center Microsoft che compromette il funzionamento dell'intero data center.
   
-Notare che dopo il recupero da interruzioni estremamente gravi, può essere necessario prevedere un intervallo di tempo prima che per il servizio venga ripristinata la ridondanza completa del data center. Ad esempio, in caso di errore del Data Center 1, i servizi vengono ripristinati utilizzando le risorse nel Data Center 2. Tuttavia, ci potrebbe essere un intervallo di tempo prima che il Data Center 2 riprenda la continuità del servizio a causa delle risorse ripristinate nel Data Center 1 o delle nuove risorse nel Data Center 3. In questa fase si applica il [Contratto di servizio](https://technet.microsoft.com/en-us/library/office-365-service-level-agreement.aspx) per Office 365. Office 365 gestito da 21Vianet è caratterizzato da un contratto di servizio differente. Per ulteriori informazioni, consultare il [sito di 21Vianet site](http://www.21vbluecloud.com/office365/O365-SLA/). 
+Notare che dopo il recupero da interruzioni estremamente gravi, può essere necessario prevedere un intervallo di tempo prima che per il servizio venga ripristinata la ridondanza completa del data center. Ad esempio, in caso di errore del Data Center 1, i servizi vengono ripristinati utilizzando le risorse nel Data Center 2. Tuttavia, ci potrebbe essere un intervallo di tempo prima che il Data Center 2 riprenda la continuità del servizio a causa delle risorse ripristinate nel Data Center 1 o delle nuove risorse nel Data Center 3. In questa fase si applica il [Contratto di servizio](service-level-agreement.md) per Office 365. Office 365 gestito da 21Vianet è caratterizzato da un contratto di servizio differente. Per ulteriori informazioni, consultare il [sito di 21Vianet site](http://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Garantire la disponibilità dei dati
 
@@ -149,9 +149,9 @@ L'organizzazione di assistenza è perfettamente allineata con lo sviluppo di pro
     
 Prima di immettere una richiesta di assistenza, i clienti possono accedere ad articoli della Knowledge Base e domande frequenti che forniscono soluzioni immediate ai problemi più comuni. Tali risorse vengono continuamente aggiornate con le ultime informazioni, e questo aiuta a evitare ritardi fornendo soluzioni ai problemi noti. Se tuttavia si verifica un problema che richiede l'intervento di un tecnico, il personale è disponibile per fornire assistenza immediata per telefono e tramite il portale di amministrazione, 24 ore al giorno per 7 giorni la settimana.
   
-Per ulteriori informazioni sul supporto, vedere l'argomento [Supporto](https://technet.microsoft.com/en-us/library/office-365-support.aspx). 
+Per ulteriori informazioni sul supporto, vedere l'argomento [Supporto](support.md). 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).
   

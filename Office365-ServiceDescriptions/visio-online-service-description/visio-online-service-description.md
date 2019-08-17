@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È molto semplice creare diagrammi di prim'ordine con i tipi di diagrammi più comuni e set di forme completi. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
-ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777727"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450300"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio per la descrizione del servizio Web
 
@@ -32,31 +32,31 @@ Nella tabella seguente vengono confrontate le funzionalità di Visio per la funz
 ||||
 |:-----|:-----|:-----|
 |**Funzionalità dell'applicazione** <br/> |**Visio per il Web** <br/> |**App desktop Visio** <br/> |
-|[Applicazione della formattazione avanzata a testo e forme](visio-online.md#BM_1) <br/> |Sì  <br/> |Sì  <br/> |
-|[Disposizione degli oggetti](visio-online.md#BM_2) <br/> |Sì  <br/> |Sì  <br/> |
-|[Creazione di soluzioni mashup](visio-online.md#BM_3) <br/> |Sì  <br/> |Sì  <br/> |
-|[Creazione di diagrammi](visio-online.md#BM_4) <br/> |Sì  <br/> |Sì  <br/> |
-|[Tagliare, copiare e incollare](visio-online.md#BM_5) <br/> |Sì  <br/> |Sì  <br/> |
-|[Modifica di diagrammi](visio-online.md#BM_6) <br/> |Sì  <br/> |Sì  <br/> |
-|[Incorporare un diagramma in una pagina Web, SharePoint o blog](visio-online.md#BM_7) <br/> |Sì  <br/> |No  <br/> |
-|[Trova](visio-online.md#BM_8) <br/> |Sì  <br/> |Sì  <br/> |
-|[Formattazione dei caratteri](visio-online.md#BM_9) <br/> |Sì  <br/> |Sì  <br/> |
-|[Collegamenti ipertestuali](visio-online.md#BM_10)<sup>1</sup> <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |
-|[Esplorazione](visio-online.md#BM_11) <br/> |Sì  <br/> |Sì  <br/> |
-|[Componenti aggiuntivi di Office](visio-online.md#BM_12) <br/> |No  <br/> |Sì  <br/> |
-|[Visualizzazione offline](visio-online.md#BM_13) <br/> |No  <br/> |Sì  <br/> |
-|[Stampa su PDF](visio-online.md#BM_14) <br/> |Sì<sup>4</sup> <br/> |Sì  <br/> |
-|[Strumenti di correzione](visio-online.md#BM_15) <br/> |No  <br/> |Sì  <br/> |
-|[Creazione condivisa in tempo reale](visio-online.md#BM_16) <br/> |No  <br/> |Sì  <br/> |
-|[Salvataggio o download di una copia](visio-online.md#BM_17) <br/> |Sì  <br/> |Sì  <br/> |
-|[Condividere un diagramma](visio-online.md#BM_18)<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |No  <br/> |Sì  <br/> |
-|[Informazioni](visio-online.md#BM_20) <br/> |No  <br/> |Sì  <br/> |
-|[Annulla e Ripeti](visio-online.md#BM_21) <br/> |No  <br/> |Sì  <br/> |
-|[Visualizzazione e aggiunta dei commenti](visio-online.md#BM_22) <br/> |Sì<sup>5</sup> <br/> |Sì  <br/> |
-|[Visualizzare le proprietà forma](visio-online.md#BM_23) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |
-|[Visualizzare i file di Visio nel browser](visio-online.md#BM_24) <br/> |Sì  <br/> |Sì  <br/> |
-|[Zoom](visio-online.md#BM_25) <br/> |Sì<sup>6</sup> <br/> |Sì  <br/> |
+|[Applicazione della formattazione avanzata a testo e forme](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sì  <br/> |Sì  <br/> |
+|[Disposizione degli oggetti](visio-online.md#arrange-objects) <br/> |Sì  <br/> |Sì  <br/> |
+|[Creazione di soluzioni mashup](visio-online.md#build-mashup-solutions) <br/> |Sì  <br/> |Sì  <br/> |
+|[Creazione di diagrammi](visio-online.md#create-diagrams) <br/> |Sì  <br/> |Sì  <br/> |
+|[Tagliare, copiare e incollare](visio-online.md#cut-copy-and-paste) <br/> |Sì  <br/> |Sì  <br/> |
+|[Modifica di diagrammi](visio-online.md#edit-diagrams) <br/> |Sì  <br/> |Sì  <br/> |
+|[Incorporare un diagramma in una pagina Web, SharePoint o blog](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Sì  <br/> |No  <br/> |
+|[Trova](visio-online.md#find) <br/> |Sì  <br/> |Sì  <br/> |
+|[Formattazione dei caratteri](visio-online.md#font-formatting) <br/> |Sì  <br/> |Sì  <br/> |
+|[Collegamenti ipertestuali](visio-online.md#hyperlinks)<sup>1</sup> <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |
+|[Esplorazione](visio-online.md#navigation) <br/> |Sì  <br/> |Sì  <br/> |
+|[Componenti aggiuntivi di Office](visio-online.md#office-add-ins) <br/> |No  <br/> |Sì  <br/> |
+|[Visualizzazione offline](visio-online.md#offline-viewing) <br/> |No  <br/> |Sì  <br/> |
+|[Stampa su PDF](visio-online.md#print-to-pdf) <br/> |Sì<sup>4</sup> <br/> |Sì  <br/> |
+|[Strumenti di correzione](visio-online.md#proofing-tools) <br/> |No  <br/> |Sì  <br/> |
+|[Creazione condivisa in tempo reale](visio-online.md#real-time-co-authoring) <br/> |No  <br/> |Sì  <br/> |
+|[Salvataggio o download di una copia](visio-online.md#save-as-or-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
+|[Condividere un diagramma](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|[SmartArt](visio-online.md#smartart) <br/> |No  <br/> |Sì  <br/> |
+|[Informazioni](visio-online.md#tell-me) <br/> |No  <br/> |Sì  <br/> |
+|[Annulla e Ripeti](visio-online.md#undo-and-redo) <br/> |No  <br/> |Sì  <br/> |
+|[Visualizzazione e aggiunta dei commenti](visio-online.md#view-and-add-comments) <br/> |Sì<sup>5</sup> <br/> |Sì  <br/> |
+|[Visualizzare le proprietà forma](visio-online.md#view-shape-data) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |
+|[Visualizzare i file di Visio nel browser](visio-online.md#view-visio-files-in-the-browser) <br/> |Sì  <br/> |Sì  <br/> |
+|[Zoom](visio-online.md#zoom) <br/> |Sì<sup>6</sup> <br/> |Sì  <br/> |
    
 > <sup>1</sup> Visitare collegamenti ipertestuali (non è possibile inserirli o modificarli). 
 <br/><sup>2</sup> Condividere tramite SharePoint o One Drive for Business e condividere con gli utenti che non dispongono di SharePoint o OneDrive. 
