@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450290"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568119"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -108,4 +108,8 @@ L'autenticazione a più fattori che utilizza un modello di identità federata co
 
 Yammer Enterprise non è disponibile negli ambienti GCC High e DoD.
   
+## <a name="customer-support"></a>Supporto clienti
 
+Microsoft ricorda di non condividere informazioni controllate, sensibili o riservate con il personale di supporto clienti come parte dell'evento di supporto quando si utilizza Office 365 GCC High/DOD, almeno fino a quando non si conferma l'autorizzazione dell'agente di supporto per visualizzare o accedere a tali dati.
+
+Microsoft si impegna a proteggere la [privacy](https://privacy.microsoft.com/privacystatement)). Tuttavia, il supporto di Office 365 GCC High/DoD non è incluso nel limite di accreditamento del servizio e non fornisce FedRAMP, DOD SRG, ITAR, IRS 1075 o CJIS data handling Compliance Assurances.
