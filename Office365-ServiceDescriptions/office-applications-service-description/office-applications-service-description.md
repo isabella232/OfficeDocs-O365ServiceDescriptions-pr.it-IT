@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: 1f13d80f04b0c9ecbd6ac85add1b6a17c6c02c45
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: f33fc698420f511ce1fdf6b14f51565e71d9cd3f
+ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908803"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "36656310"
 ---
 # <a name="office-applications-service-description"></a>Descrizione servizio applicazioni Office
 
@@ -83,8 +83,8 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Power Query per Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |Power View per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |Impostazioni roaming  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No <br/> |
-|Attivazione di computer condivisi  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
-|Supporto per il blocco dell'archiviazione file basata su cloud  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
+|Attivazione di computer condivisi  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
+|Support for blocking cloud-based file storage  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
 |Toccare per trovare e utilizzare di nuovo i contenuti  <br/> |No  <br/> |No  <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |Aggiornamenti della versione  <br/> |No  <br/> |No  <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
 |Volume activation (KMS/MAK)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|N.<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br> |
@@ -97,13 +97,13 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 <sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità Protezione delle informazioni di Azure richiedono una sottoscrizione a Office 365 ProPlus che non è inclusa in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1.<br/>
 <sup>3</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate.<br/>
 <sup>4</sup> Se si è in possesso di Office Professional Plus 2013 o di una versione autonoma di Excel 2013, è possibile scaricare e usare la [versione di anteprima di Power Map per Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) come componente aggiuntivo non supportato.<br/> 
-<sup>5</sup> Skype for Business Basic è disponibile per tutti i clienti. Il client desktop Skype for Business è un'applicazione installata localmente che fornisce funzionalità di presenza, messaggistica istantanea e conferenza per i piani di Office 365 contenenti Skype for Business online. Office 365 ProPlus e Office 365 Enterprise E3 includono l'applicazione Skype completa, che comprende ulteriori funzionalità tra cui un supporto avanzato alla telefonia, funzionalità di conformità e archiviazione. È necessario assegnare una licenza di Skype for Business online a ciascun utente. Per ulteriori informazioni sulle funzionalità di Lync Basic, vedere [Client per Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/> 
+<sup>5</sup> Skype for Business Basic è disponibile per tutti i clienti. Il client desktop Skype for Business è un'applicazione installata localmente che fornisce funzionalità di presenza, messaggistica istantanea e conferenza per i piani di Office 365 contenenti Skype for Business online. Office 365 ProPlus e Office 365 Enterprise E3 includono l'applicazione Skype completa, che comprende ulteriori funzionalità tra cui un supporto avanzato alla telefonia, funzionalità di conformità e archiviazione. È necessario assegnare una licenza di Skype for Business online a ciascun utente. Per un confronto tra caratteristiche e funzionalità, vedere [tabelle di confronto client desktop per Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> Alcuni istituti scolastici sono idonei per Education Plus, che include Office 365 ProPlus e consente agli studenti, ai docenti e al personale di installare la versione più recente di Office su un massimo di 5 PC o computer Mac e su altri dispositivi mobili, tra cui tablet Windows e iPad. Gli istituti scolastici si qualificano per Office 365 Education Plus quando richiedono una licenza di Office per tutti i docenti e i membri del personale tramite Enrollment for Education Solutions, Open Value Subscription Education Solutions o un contratto scolastico. Access e Publisher sono disponibili solo su PC. OneNote per Mac è disponibile come download separato dal Mac App Store. <br/>
 <sup>7</sup> Office per Mac 2011 può essere installato, ma non attivato. <br/>
 <sup>8</sup> Office 365 ProPlus è supportato sull'infrastruttura desktop virtuale (VDI) dedicata dall'utente. Office 365 ProPlus supporta solo RDS (Remote Desktop Services) se acquistato tramite un programma multilicenza.<br/>
 <sup>9</sup> L'attivazione per contratti multilicenza per Office 365 Enterprise E3 e Office 365 ProPlus è limitata alle installazioni su Windows Server 2008 R2 e versioni successive con il ruolo RDS abilitato o alle installazioni di Windows To Go. In entrambi i casi, gli utenti che accedono a queste installazioni devono disporre dell'apposita licenza di Office 365 Enterprise E3 o Office 365 ProPlus.<br/> 
 <sup>10</sup> Le funzionalità di Skype for Business in Office 365 Enterprise F1 includono Skype for Business Piano 1 (nessuna condivisione desktop, nessuna condivisione delle applicazioni, impossibile avviare video/audio per più partecipanti o conferenze Web, impossibile pianificare riunioni).<br/> 
-<sup>11</sup> Access è attualmente disponibile se si è in corso il canale o la versione di destinazione per Deferred Channel. Per gli utenti di Deferred Channel, Access sarà disponibile a giugno 2017. Per maggiori informazioni, vedere [Access è incluso in Office 365 Business e Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/> 
+<sup>11</sup> Access è attualmente disponibile se si è in corso il canale o la versione di destinazione per Deferred Channel. Per gli utenti di Deferred Channel, Access sarà disponibile a giugno 2017. Per maggiori informazioni, vedere [Access è incluso in Office 365 Business e Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
 <sup>12</sup> InfoPath 2013 è ancora supportato ed è disponibile nell'installazione di Office Professional Plus 2016, ma non è disponibile una nuova versione per Office 2016.<br/> 
 <sup>13</sup> supporto solo per le funzionalità di modifica di base.<br/> 
 <sup>14</sup> limitato ai dispositivi con schermi integrati che misurano 10,1 pollici o meno in diagonale.<br/> 
