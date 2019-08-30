@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Archiviazione Microsoft Exchange Online è una soluzione di archiviazione di livello aziendale basata su cloud di Microsoft Office 365 per le organizzazioni che hanno distribuito Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e versioni successive) oppure abbonarsi a determinati piani di Exchange Online o Office 365. Archiviazione Exchange Online agevola le attività correlate ad archiviazione, conformità, regolamentazione ed eDiscovery e al tempo stesso semplifica l'infrastruttura locale riducendo i costi e il carico per l'IT.
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656290"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672580"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrizione del servizio Archiviazione Exchange Online
 
@@ -65,7 +65,7 @@ Ogni utente che accede al servizio Archiviazione Exchange Online deve disporre d
   
 ## <a name="unlimited-archive-storage-quota"></a>Quota di spazio di archiviazione illimitata
 
- La funzionalità di archiviazione illimitata in Office 365 (chiamata archiviazione in espansione automatica) fornisce una quantità illimitata di spazio di archiviazione nelle cassette postali di archiviazione in Exchange Online. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Nelle distribuzioni ibride di Exchange, l'archiviazione in espansione automatica è supportata solo per le cassette postali di archiviazione basate sul cloud quando la cassetta postale dell'utente locale risiede su Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o versione successiva). Per ulteriori informazioni, vedere [Panoramica dell'archiviazione illimitata Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). Consultare la [roadmap di Office 365](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=) per maggiori dettagli sulla disponibilità.
+ La funzionalità di archiviazione illimitata in Office 365 (chiamata *archiviazione in espansione automatica*) fornisce fino a 1 TB di spazio di archiviazione nelle cassette postali di archivio in Exchange Online. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando l'archiviazione in espansione automatica è attivata, lo spazio di archiviazione aggiuntivo viene aggiunto automaticamente quando viene raggiunta la capacità di archiviazione di 100 GB. Nelle distribuzioni ibride di Exchange, l'archiviazione in espansione automatica è supportata solo per le cassette postali di archiviazione basate sul cloud quando la cassetta postale dell'utente locale risiede su Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o versione successiva). Per ulteriori informazioni, vedere [Panoramica dell'archiviazione illimitata Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Gli amministratori non possono modificare la quota di archiviazione.<br/>
