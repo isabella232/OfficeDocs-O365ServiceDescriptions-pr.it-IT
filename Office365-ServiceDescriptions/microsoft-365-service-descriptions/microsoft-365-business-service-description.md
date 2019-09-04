@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206856"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717544"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -133,9 +133,9 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Contratto di servizio del 99,9%  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Advanced Threat Analytics  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |**Funzionalità di gestione di dispositivi e applicazioni** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Gestione dei dispositivi mobili (MDM)<sup>15</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Gestione dei dispositivi mobili di Intune (MDM) per PC, Mac e dispositivi mobili<sup>15</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Registrazione automatica di Gestione di dispositivi mobili (MDM)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Gestione di applicazioni mobili (MAM) per app di Office e app LOB<sup>17</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
+|Gestione delle applicazioni mobili di Intune per le app di Office e le app LOB<sup>17</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Gestione di Windows Update, protezione, criteri firewall<sup>15</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione dei dati: cancellazione selettiva  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Destinazione Gruppo di sicurezza per i criteri  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
