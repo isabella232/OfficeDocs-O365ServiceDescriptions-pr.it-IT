@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei servizi di Office 365.
-ms.openlocfilehash: fe89cacd115135cd7cd3c5314b84da64c45edf83
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
+ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231404"
+ms.lasthandoff: 09/05/2019
+ms.locfileid: "36762394"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -99,7 +99,7 @@ L'onboarding consiste di:
     
 I servizi di adozione da parte dell'utente comprendono attività che rendono gli utenti consapevoli dei servizi idonei e che è possibile utilizzare per creare valore aziendale. Questa assistenza viene fornita parallelamente alle attività di onboarding.
   
-È possibile trovare informazioni specifiche sul processo di FastTrack Center [](https://aka.ms/whatistheprocess). Per una ripartizione dei ruoli e delle responsabilità per l'impegno, esaminare le [responsabilità di FastTrack](https://aka.ms/whatdoesftcdo) e [le](https://aka.ms/whatdowedo)responsabilità.
+È possibile trovare informazioni specifiche sul processo di FastTrack Center [.](https://aka.ms/whatistheprocess) Per una ripartizione dei ruoli e delle responsabilità per l'impegno, esaminare le [responsabilità di FastTrack](https://aka.ms/whatdoesftcdo) e [le](https://aka.ms/whatdowedo)responsabilità.
   
 <sup>1</sup> è necessario acquistare almeno 50 licenze dall'elenco dei [piani idonei](https://aka.ms/whocanbenefit) per ricevere i servizi di FastTrack, 
   
@@ -323,10 +323,10 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>3</sup> <br/> |
 |[Office per Mac per Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Office Mobile per iPhone/iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |No  <br/> |
-|[Office Mobile per Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |No  <br/> |
-|[Office Mobile per Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |No  <br/> |
-|Office Mobile per tablet con Windows 10 <br/> |No  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |No  <br/> |
+|[Office Mobile per iPhone/iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sì  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |Sì  <br/> |
+|[Office Mobile per Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Sì  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |Sì  <br/> |
+|[Office Mobile per Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |Sì  <br/> |
+|Office Mobile per tablet con Windows 10 <br/> |Sì  <br/> |Sì<sup></sup> <br/> |Sì<sup></sup> <br/> |Sì  <br/> |
 |Outlook per iOS e Android<sup>5, 4</sup>  <br/> |Sì <br/> |Sì <br/> |Sì <br/> |Sì <br/> |
 |**Enterprise Value** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |5 installazioni per ogni utente su PC o Mac  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
