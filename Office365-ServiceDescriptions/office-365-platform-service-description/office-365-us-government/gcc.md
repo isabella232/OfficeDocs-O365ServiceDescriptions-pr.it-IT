@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Per soddisfare i requisiti univoci e in evoluzione dei governi federale, statale, locale e tribale degli Stati Uniti, nonché i contraenti che detengono o elaborano dati per conto del governo statunitense, Microsoft offre servizi di Office 365 US Government community (GCC). Disponibili attraverso più canali che includono i contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, sono disponibili versioni di prova solo per gli enti governativi degli Stati Uniti.
-ms.openlocfilehash: 5a89a930b11f92e1b5278885839304cc4e5982f6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776897"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998508"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -64,7 +64,7 @@ Se si ritiene che Yammer sia lo strumento giusto per la propria organizzazione, 
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 US Government Community e MyAnalytics
 
-MyAnalytics è progettato e gestito secondo l'implementazione del controllo FedRAMP per i servizi Office 365, ma non è stato ancora sottoposto alla revisione di un'organizzazione 3PAO come parte del controllo FedRAMP annuale di Office 365. Se necessario, consultare l'ufficio responsabile della conformità prima di abilitare i servizi MyAnalytics per gli utenti nella propria organizzazione. 
+MyAnalytics è progettato e gestito secondo l'implementazione del controllo FedRAMP per i servizi Office 365, ma non è stato ancora sottoposto alla revisione di un'organizzazione 3PAO come parte del controllo FedRAMP annuale di Office 365. Se necessario, consultare l'ufficio responsabile della conformità prima di abilitare i servizi MyAnalytics per gli utenti nella propria organizzazione.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Supporto ai clienti di Office 365 US Government community Cloud (GCC)
 

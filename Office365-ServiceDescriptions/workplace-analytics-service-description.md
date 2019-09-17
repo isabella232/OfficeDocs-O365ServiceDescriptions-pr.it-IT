@@ -2,6 +2,7 @@
 title: Descrizione del servizio Workplace Analytics
 ms.author: sharik
 author: skjerland
+ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,28 +10,41 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: L'analisi dei luoghi di lavoro di Microsoft fornisce informazioni dettagliate sulle tendenze di comunicazione e collaborazione dell'azienda che consentono di prendere decisioni aziendali più efficaci.
-ms.openlocfilehash: feab626e55e72584beb0879ae172cb8f7d95ab05
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 3a0ab6b1bb936922581a70bbae651cbe5e4c52a5
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35778017"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998528"
 ---
 # <a name="workplace-analytics-service-description"></a>Descrizione del servizio Workplace Analytics
 
 L'analisi dei luoghi di lavoro di Microsoft fornisce informazioni dettagliate sulle tendenze di comunicazione e collaborazione dell'azienda che consentono di prendere decisioni aziendali più efficaci.
-  
-Microsoft Workplace Analytics analizza il lavoro di collaborazione dei team per permettere l'identificazione dei comportamenti che favoriscono oppure compromettono i profitti. È possibile utilizzare queste informazioni per: 
-  
-- Migliorare l'efficienza dell'organizzazione
-    
-- Ridurre lo stress da lavoro
-    
-- Ridurre il caos in azienda
-    
-- Coinvolgere e mantenere i dipendenti
-    
-Per maggiori informazioni, vedere [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Fare clic [qui](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) per iniziare a utilizzare l'analisi dei luoghi di lavoro. 
+
+## <a name="transform-unprecedented-insights-into-action"></a>Trasformare le intuizioni inedite in azione
+
+* Overload Collaboration Address
+* Suddividere i silo org
+* Procedure di gestione di livello superiore
+* Accelerare le acquisizioni
+* Sradicare le inefficienze del processo
+* Produttività delle vendite di unità
+* Trasformare l'esperienza dipendente
+* Pianificazione dell'area di lavoro
+
+## <a name="gain-objective-actionable-insights"></a>Ottenere informazioni obiettive, utili per l'azione
+
+Vedere in che modo l'organizzazione spende tempo e collabora internamente ed esternamente con intuizioni senza precedenti di Office 365. L'analisi sul posto di lavoro fornisce ai leader aziendali dozzine di metriche comportamentali performabili sul tempo e le reti per informare una serie di decisioni strategiche, tra cui i modelli di Teaming, l'allocazione delle risorse e la pianificazione dell'area di lavoro
+
+## <a name="drive-organizational-change-with-data"></a>Modifica dell'organizzazione delle unità con i dati
+
+L'analisi dei luoghi di lavoro fornisce un insieme ricco di dati oggettivi per prendere decisioni aziendali migliori. I dashboard di esplorazione guidata evidenziano potenziali aree problematiche, mentre le query flessibili rispondono a domande aziendali mirate su strategie di noleggio, nuove strutture organizzative e programmi aziendali. Aumentare i dati di Office 365 con le informazioni sull'esito dell'azienda per definire procedure consigliate, modelli predittivi e benchmark. Introduce le iniziative di modifica in base ai dati comportamentali e misura il successo dei programmi nel tempo. Contattare il rappresentante del servizio clienti Microsoft per ulteriori informazioni sui servizi di consulenza disponibili che è possibile utilizzare per quantificare le sfide aziendali e implementare la modifica.
+
+## <a name="privacy-and-compliance-designed-for-you"></a>Privacy e conformità progettate per l'utente
+
+L'analisi dei luoghi di lavoro fornisce controlli sulla privacy per soddisfare le proprie esigenze e conformità per proteggere i dati. I clienti decidono quali popolazioni analizzare e mantenere il controllo sull'aggregazione dei dati e sugli standard di deidentificazione. L'analisi dei luoghi di lavoro analizza solo i metadati di Office 365. La visualizzazione dei dati e i livelli di aggregazione si basano sulle preferenze del ruolo e del cliente.
+
+Per maggiori informazioni, vedere [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Per ulteriori informazioni su come utilizzare l'analisi dei luoghi di lavoro, vedere [documentazione relativa all'analisi del lavoro](https://docs.microsoft.com/workplace-analytics/).
   
 ## <a name="licensing-requirements"></a>Requisiti relativi alle licenze
 

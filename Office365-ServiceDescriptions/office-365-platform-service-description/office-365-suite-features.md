@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ade0eb80e1161d9dc70baba7496bc2ecc48699aa
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776907"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998458"
 ---
 # <a name="office-365-suite-features"></a>Funzionalità della famiglia di prodotti Office 365
 
@@ -48,7 +48,7 @@ Utilizzare l'API di Microsoft Graph per creare rapidamente le app che si connett
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
 
-MyAnalytics fornisce statistiche che aiutano a comprendere come gestire il proprio tempo a lavoro. MyAnalytics monitora le attività quotidiane dell'utente, trova aree che potrebbero trarre vantaggio dalla sua attenzione e gli offre strumenti per ottenere un utilizzo più attento del suo tempo. Per saperne di più su MyAnalytics, consultare [Ulteriori informazioni su come utilizzare MyAnalytics](https://support.office.com/en-us/article/Learn-more-about-the-way-you-work-with-Microsoft-MyAnalytics-23462129-e512-40ee-acad-d968916c31b8?ui=en-US&amp;rs=en-US&amp;ad=US) e [Microsoft MyAnalytics per amministratori di Office 365](https://support.office.com/en-us/article/Microsoft-MyAnalytics-for-Office-365-admins-77590915-6eb0-47a6-a72f-8116cfcfc2c7).
+La funzionalità di analisi consente di approfondire due dei fattori chiave della produttività personale: la modalità di utilizzo e l'utilizzo dell'utente. Analisi dei modelli di lavoro giornalieri, individua le aree che potrebbero trarre vantaggio dall'attenzione e fornisce gli strumenti per ottenere un utilizzo più ponderato del proprio tempo. Per ulteriori informazioni, vedere [Microsoft Analytics](https://products.office.com/business/myanalytics-personal-analytics) e [Microsoft Analytics per gli amministratori di Office 365](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins).
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 <a name="BKMK_Planner"> </a>

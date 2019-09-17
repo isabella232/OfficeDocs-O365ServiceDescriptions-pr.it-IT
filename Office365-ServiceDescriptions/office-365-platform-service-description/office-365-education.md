@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854884"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998488"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -74,7 +74,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |Microsoft Flow  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Forms  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |API di Microsoft Graph  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Microsoft MyAnalytics  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Microsoft analisi<sup>9</sup>  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Planner  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |App di Microsoft Power  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft StaffHub  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -186,8 +186,9 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 <sup>5</sup> disponibile all' [https://securescore.office.com](https://securescore.office.com/) indirizzo (collegamento richiede autorizzazioni di amministratore). Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> Microsoft Sway non è attualmente disponibile per i clienti in determinate aree geografiche. Alcuni piani legacy di Office 365 che non sono più presenti nel mercato dal 2015 agosto possono anche non avere accesso a Microsoft Sway. <br/> 
 <sup>7</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti di Europa, Medio Oriente e Africa vengono esportati in Europa occidentale (Paesi Bassi). <br>
-<sup>8</sup> per informazioni sulle funzionalità di Microsoft Stream incluse in ogni piano, vedere the [Stream Licensing Overview](https://stream.microsoft.com/documentation/stream-license-overview/). <br/>
-  
+<sup>8</sup> per informazioni sulle funzionalità di Microsoft Stream incluse in ogni piano, vedere the [Stream Licensing Overview](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
+<sup>9</sup> per ulteriori informazioni, vedere i [piani e gli ambienti di analisi dei dati](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
+
 ## <a name="office-365-security-amp-compliance-center-features"></a>Caratteristiche del centro &amp; sicurezza e conformità di Office 365
 <a name="SCC"> </a>
 
