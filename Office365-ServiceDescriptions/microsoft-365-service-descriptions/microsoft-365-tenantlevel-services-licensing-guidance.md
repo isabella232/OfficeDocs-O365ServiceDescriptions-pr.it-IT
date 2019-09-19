@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per i servizi a livello di tenant di Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
-ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
+ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384870"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035132"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Guida alla gestione delle licenze di servizi a livello di Microsoft 365
 
@@ -39,7 +39,7 @@ Gli analisti e i professionisti della sicurezza di secops traggono vantaggio dal
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di AADIP sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione di AADIP, vedere Abilitazione di [Azure Active Directory Identity Protection](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
+Per impostazione predefinita, le funzionalità di AADIP sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione di AADIP, vedere [Abilitazione di Azure Active Directory Identity Protection](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -150,7 +150,7 @@ Gli utenti con licenza di Azure AD P1 possono trarre vantaggio dalle funzionalit
 
 Per usufruire delle funzionalità di [controllo delle app con accesso condizionale](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS, è necessario che gli utenti dispongano di una licenza per Azure Active Directory P1, incluso in Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ Sicurezza di a3/G3, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5.
 
-Per trarre vantaggio dall' [etichettatura automatica](https://docs.microsoft.com/cloud-app-security/data-protection-policies), gli utenti devono essere concessi in licenza per Azure Information Protection P1, incluso in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Compliance.
+Per usufruire dell' [etichettatura automatica](https://docs.microsoft.com/cloud-app-security/data-protection-policies), gli utenti devono essere concessi in licenza per Azure Information Protection P2, incluso in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Compliance.
 
 Per ulteriori informazioni, vedere il [foglio dati di Microsoft cloud app Security Licensing](http://www.aka.ms/mcaslicensing).
 
@@ -182,7 +182,7 @@ ADG consente agli utenti di applicare etichette a dati specifici per mantenere c
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di ADG sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione di ADG per l'applicazione di etichette automatiche e dei criteri per gli utenti con licenza, vedere [Overview of](https://docs.microsoft.com/office365/securitycompliance/labels)retention labels.
+Per impostazione predefinita, le funzionalità di ADG sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione di ADG per l'applicazione di etichette automatiche e dei criteri per gli utenti con licenza, vedere [Overview of retention labels](https://docs.microsoft.com/office365/securitycompliance/labels).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -222,7 +222,7 @@ Gli utenti traggono vantaggio dalla chiave del cliente, con i dati a riposo crit
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Le chiavi di crittografia per i clienti di Office 365 possono essere abilitate per tutti i dati archiviati in cassette postali di Exchange Online e Skype for business e per i file di SharePoint Online e OneDrive for business. Per informazioni sulla configurazione di Office 365 Customer Key per crittografare i dati a riposo, vedere Controlling [your data in Office 365 using Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key).
+Le chiavi di crittografia per i clienti di Office 365 possono essere abilitate per tutti i dati archiviati in cassette postali di Exchange Online e Skype for business e per i file di SharePoint Online e OneDrive for business. Per informazioni sulla configurazione di Office 365 Customer Key per crittografare i dati a riposo, vedere [controlling your data in Office 365 using Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -266,7 +266,7 @@ L'abilitazione di PAM consente alle organizzazioni di operare con zero privilegi
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità PAM sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione dei criteri PAM, vedere Configuring [Privileged Access Management in Office 365](https://docs.microsoft.com/office365/securitycompliance/privileged-access-management-configuration).
+Per impostazione predefinita, le funzionalità PAM sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione dei criteri PAM, vedere [Configuring Privileged Access Management in Office 365](https://docs.microsoft.com/office365/securitycompliance/privileged-access-management-configuration).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -278,7 +278,7 @@ Con la prevenzione della perdita di dati (DLP) per Exchange Online, SharePoint O
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
-Gli utenti con licenza di Office 365 E3/a3/G3, Microsoft 365 business, Microsoft 365 E3/a3/G3 e la prevenzione della perdita di dati di Office 365 possono trarre vantaggio da DLP per Exchange Online, SharePoint Online e OneDrive for business.
+Gli utenti con licenza di Office 365 E3/a3/G3, Microsoft 365 business, Microsoft 365 a1/E3/a3/G3 e la prevenzione della perdita di dati di Office 365 possono trarre vantaggio da DLP per Exchange Online, SharePoint Online e OneDrive for business.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -333,7 +333,7 @@ Gli utenti traggono vantaggio dalle funzionalità di conformità avanzate delle 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Gli amministratori creano e gestiscono i criteri di barriera delle informazioni utilizzando i cmdlet di PowerShell nel centro sicurezza & conformità. Gli amministratori devono essere assegnati all'amministratore globale di Microsoft 365 Enterprise, all'amministratore globale di Office 365 o al ruolo di amministratore di conformità per creare un criterio barriera informativo. Per impostazione predefinita, questi criteri si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulle barriere informative, vedere barriere informative [in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Gli amministratori creano e gestiscono i criteri di barriera delle informazioni utilizzando i cmdlet di PowerShell nel centro sicurezza & conformità. Gli amministratori devono essere assegnati all'amministratore globale di Microsoft 365 Enterprise, all'amministratore globale di Office 365 o al ruolo di amministratore di conformità per creare un criterio barriera informativo. Per impostazione predefinita, questi criteri si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulle barriere informative, vedere [barriere informative in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 

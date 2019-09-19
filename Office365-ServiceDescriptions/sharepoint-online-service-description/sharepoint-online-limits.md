@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
-ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
+ms.openlocfilehash: 4ec162de7b5e005a177d0eb2f2122ba46422519c
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/07/2019
-ms.locfileid: "35581315"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035102"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online 
 
@@ -46,12 +46,16 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 
 - **Spostamento e copia tra raccolte siti** -100 GB per operazione. Il Web browser deve rimanere aperto.
 
-- **Sincronizzazione** : per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.000 file in tutte le raccolte documenti sincronizzate, anche se si utilizzano file su richiesta oppure se si sceglie solo alcune cartelle all'interno delle raccolte da sincronizzare. Se si utilizza il client di sincronizzazione precedente di OneDrive for business (Groove. exe), il limite di sincronizzazione per ogni raccolta è 20.000 elementi (inclusi 5.000 elementi per sito del team).
+- **Sincronizzazione** : per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.000 file in tutte le raccolte documenti sincronizzate, anche se si utilizzano file su richiesta oppure se si sceglie solo alcune cartelle all'interno delle raccolte da sincronizzare.
+
+    Se si utilizza il client di sincronizzazione precedente di OneDrive for business (Groove. exe), è possibile sincronizzare fino a 20.000 elementi totali in tutte le raccolte sincronizzate. Sono incluse le librerie di OneDrive for business, le raccolte siti del team o entrambe. Indipendentemente dal limite di sincronizzazione globale, esistono limiti al numero di elementi che possono essere sincronizzati per ogni tipo di raccolta:
+    - È possibile sincronizzare fino a 20.000 elementi in una raccolta di OneDrive for business. Sono inclusi i file e le cartelle. 
+    - È possibile sincronizzare fino a 5.000 elementi in una raccolta di SharePoint. Sono inclusi i file e le cartelle. Si tratta di raccolte che si trovano in vari siti di SharePoint, ad esempio siti del team e siti community, raccolte create da altre persone o create dalla pagina siti. È possibile sincronizzare più raccolte di SharePoint. Tutti i siti del team sincronizzati conteranno anche rispetto al limite totale di 20.000 elementi in tutte le raccolte sincronizzate.
 
     > [!NOTE]
     > Se gli utenti devono sincronizzare i file nelle raccolte documenti che dispongono di centinaia di migliaia di file, è possibile "nascondere" le cartelle dal client di sincronizzazione impostando il livello di autorizzazione delle cartelle su "lettura con restrizioni". 
 
-- **** Versions-50.000 Major Versions e 511 versioni secondarie.
+- **Versions-50.000** Major Versions e 511 versioni secondarie.
 
 - **Gruppi di SharePoint** : un utente può appartenere a gruppi di 5.000 e ciascun gruppo può avere fino a 5.000 utenti. È possibile avere fino a 10.000 gruppi per ogni raccolta siti.
     > [!NOTE]
