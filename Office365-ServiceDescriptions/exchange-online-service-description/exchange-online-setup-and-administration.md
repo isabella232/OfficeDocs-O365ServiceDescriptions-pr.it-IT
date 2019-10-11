@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: In questa sezione vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
-ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ba7d1aa31aba19f43d3318687daf76f50f60d08f
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776487"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442631"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Installazione e amministrazione di Exchange Online
 
@@ -40,24 +40,20 @@ Pertanto, Exchange Online fornisce agli amministratori dei clienti i seguenti st
 - [Windows PowerShell remoto per Exchange Online](exchange-online-setup-and-administration.md#remote-windows-powershell-for-exchange-online)
     
 ### <a name="microsoft-office-365-portal"></a>Il portale di Microsoft Office 365
-<a name="BKMK_MicrosoftOnlineServicesPortal"> </a>
 
 Il portale Microsoft Office 365, disponibile all'indirizzo [https://portal.office.com](https://portal.office.com), è il sito Web tramite il quale gli amministratori e i partner acquistano e gestiscono i servizi di Office 365 e dal quale avviano e utilizzano gli strumenti collaborativi di Office 365.
   
 ### <a name="microsoft-365-admin-center"></a>Interfaccia di amministrazione di Microsoft 365
-<a name="BKMK_Office365admincenterl"> </a>
 
-L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni azienda può gestire gli account utente e le impostazioni per ognuno dei servizi di Office 365 a cui sono sottoscritti. Dall'interfaccia di amministrazione di Microsoft 365 gli amministratori possono seguire i collegamenti all'interfaccia di amministrazione di Exchange (EAC), in cui è possibile gestire le impostazioni specifiche di Exchange Online. Per ulteriori informazioni sull'utilizzo dell'interfaccia di amministrazione di Microsoft 365, vedere il video seguente: Introducing [Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni azienda può gestire gli account utente e le impostazioni per ognuno dei servizi di Office 365 a cui sono sottoscritti. Dall'interfaccia di amministrazione di Microsoft 365 gli amministratori possono seguire i collegamenti all'interfaccia di amministrazione di Exchange (EAC), in cui è possibile gestire le impostazioni specifiche di Exchange Online. Per ulteriori informazioni sull'utilizzo dell'interfaccia di amministrazione di Microsoft 365, vedere il video seguente: [Introducing Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Interfaccia di amministrazione di Exchange
-<a name="BKMK_ExchangeAdministrationCenter"> </a>
 
 Exchange Online offre una singola console di gestione unificata pensata per la facilità di utilizzo e ottimizzata per la gestione di distribuzioni ibride locali, online o ibride. L'interfaccia di amministrazione di Exchange consente agli amministratori di gestire le impostazioni specifiche di Exchange.
   
 Per ulteriori informazioni sull'utilizzo dell'interfaccia di amministrazione di Exchange per la gestione di Exchange Online, vedere [Interfaccia di amministrazione di Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271807).
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Windows PowerShell remoto per Exchange Online
-<a name="BKMK_RemoteWindowsPowerShell"> </a>
 
 Tramite Windows PowerShell remoto, gli amministratori possono connettersi a Exchange Online per eseguire attività di gestione non disponibili o più difficilmente utilizzabili nell'interfaccia di amministrazione di Exchange. Tra queste attività sono incluse l'automazione delle attività ripetitive, le personalizzazione dei criteri e la connessione di Exchange Online a infrastrutture e processi esistenti. Per ulteriori informazioni, vedere [Connessione a Exchange Online tramite Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
   

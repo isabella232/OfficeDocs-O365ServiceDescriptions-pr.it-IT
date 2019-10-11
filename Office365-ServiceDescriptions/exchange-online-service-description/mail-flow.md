@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e il filtro vengono gestiti da Office 365. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione. '
-ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231414"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442601"
 ---
 # <a name="mail-flow"></a>Flusso della posta
 
@@ -36,7 +36,7 @@ Per ulteriori informazioni, vedere [Set up connectors to route mail between Offi
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Messaggistica sicura presso un partner di fiducia
 
-Come cliente Exchange Online, è possibile configurare il flusso di posta sicura con un partner di fiducia utilizzando i connettori di Office 365. Office 365 supporta la comunicazione sicura attraverso il protocollo Transport Layer Security (TLS) ed è possibile creare un connettore per forzare la crittografia tramite TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) è un protocollo crittografico che protegge le comunicazioni via Internet. Utilizzando i connettori, è possibile forzare il protocollo TSL sia per la posta in entrata che per quella in uscita utilizzando certificati autofirmati o convalidati da un'autorità di certificazione. È inoltre possibile applicare altre restrizioni, ad esempio specificando nomi di dominio o intervalli di indirizzi IP dai quali l'organizzazione partner invia messaggi di posta. 
+Come cliente Exchange Online, è possibile configurare il flusso di posta sicura con un partner di fiducia utilizzando i connettori di Office 365. Office 365 supporta la comunicazione sicura attraverso il protocollo Transport Layer Security (TLS) ed è possibile creare un connettore per forzare la crittografia tramite TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) è un protocollo crittografico che fornisce sicurezza per le comunicazioni via Internet. Utilizzando i connettori, è possibile forzare il protocollo TSL sia per la posta in entrata che per quella in uscita utilizzando certificati autofirmati o convalidati da un'autorità di certificazione. È inoltre possibile applicare altre restrizioni, ad esempio specificando nomi di dominio o intervalli di indirizzi IP dai quali l'organizzazione partner invia messaggi di posta. 
   
 Per ulteriori informazioni, vedere [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -65,7 +65,7 @@ Informazioni dettagliate sul provisioning della distribuzione ibrida e sul trasp
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Spazio indirizzo condiviso con controllo routing locale (il record MX punta a Exchange locale)
 
-Lo spazio indirizzo condiviso con controllo routing locale (il record MX punta a Exchange locale) è uno scenario di distribuzione ibrida per il routing della posta, in cui le cassette postali sono ospitate in parte in Exchange Online e in parte localmente e il flusso di posta Internet in entrata e in uscita passa attraverso l'organizzazione Exchange locale. Questo scenario viene anche detto trasporto posta centralizzato. In questo scenario, Exchange Online viene dotato di EOP e la posta Internet in entrata viene indirizzata al server di posta locale prima di essere reindirizzata all'EOP e infine alle cassette postali ospitate in Exchange Online. Inoltre, la posta in uscita dalle cassette postali di Exchange Online passa attraverso l'organizzazione Exchange locale relativamente ai messaggi inviati a destinatari esterni. Con questa configurazione, è possibile utilizzare un singolo spazio dei nomi di dominio SMTP per tutte le cassette postali sia dell'organizzazione Exchange locale sia dell'organizzazione Exchange Online. 
+Lo spazio di indirizzi condiviso con il controllo di routing locale (MX punta a locale) è uno scenario di routing della posta di distribuzione ibrida in cui le cassette postali sono ospitate parzialmente in Exchange Online e parzialmente in locale e nel flusso di posta Internet in ingresso e in uscita viene instradata attraverso l'organizzazione di Exchange locale. Questo scenario viene anche detto trasporto posta centralizzato. In questo scenario, viene effettuato il provisioning di Exchange Online con EOP e la posta Internet in arrivo viene instradata al server di posta locale prima di essere instradata a EOP e infine alle cassette postali ospitate in Exchange Online. Inoltre, la posta in uscita dalle cassette postali di Exchange Online passa attraverso l'organizzazione Exchange locale relativamente ai messaggi inviati a destinatari esterni. Con questa configurazione, è possibile utilizzare un singolo spazio dei nomi di dominio SMTP per tutte le cassette postali sia dell'organizzazione Exchange locale sia dell'organizzazione Exchange Online. 
   
 Per ulteriori informazioni sulle opzioni di trasporto in una distribuzione ibrida, vedere [Opzioni di trasporto nelle distribuzioni ibride di Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   

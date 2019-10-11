@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401762"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442751"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -88,7 +88,11 @@ Solo l'app desktop Microsoft Excel supporta le funzionalità avanzate per i graf
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Grafici e tabelle, inclusi i report dei grafici pivot e delle tabelle pivot
 
 I grafici e le tabelle Excel facilitano le operazioni di formattazione dei dati e di gestione delle informazioni. Per ulteriori informazioni, vedere [creare e formattare tabelle](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) e [Panoramica dei rapporti di tabella pivot e di grafico pivot](https://go.microsoft.com/fwlink/?linkid=55417).
-  
+
+## <a name="check-spelling"></a>Controllo ortografico
+
+Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionare **Controlla** > **** > **ortografia**correzione. Per ulteriori informazioni, vedere [controllo ortografico](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+
 ## <a name="comment-creation"></a>Comment creation
 
 È possibile inserire, modificare ed eliminare i commenti in Excel per il Web. È inoltre possibile risolvere un thread di commento, che lo chiude in modifiche e nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
@@ -123,7 +127,7 @@ Dropbox è un servizio di hosting dei file che offre l'archiviazione sul cloud, 
   
 ## <a name="duplicate-copy-worksheets"></a>Fogli di lavoro duplicati (copia)
 
-È possibile duplicare (o copiare) fogli di lavoro all'interno di una cartella o in un'altra cartella di lavoro in Excel per il Web. Per ulteriori informazioni, vedere [copia di fogli di lavoro in Excel per il Web](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
+È possibile duplicare (o copiare) fogli di lavoro all'interno di una cartella o in un'altra cartella di lavoro in Excel per il Web. Per ulteriori informazioni, vedere [copia di fogli di lavoro in Excel per il Web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Incorporare la cartella di lavoro in una pagina Web o in un Blog (OneDrive)
 
@@ -171,7 +175,7 @@ Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di 
  
 ## <a name="group-data"></a>Dati del gruppo
 
-È possibile raggruppare o delineare le righe e le colonne in Excel per il foglio di calcolo Web. Per ulteriori informazioni, vedere [raggruppamento di dati in Excel per il Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+È possibile raggruppare o delineare le righe e le colonne in Excel per il foglio di calcolo Web. Per ulteriori informazioni, vedere [raggruppamento di dati in Excel per il Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di 
 
 Creare un grafico per rappresentare visivamente i dati. È possibile scegliere tra diversi tipi di grafici, quali istogramma, a linee, a torta o a barre. Ulteriori informazioni sui [tipi di grafici disponibili](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
-## <a name="insertdelete-rows-and-columns"></a>Inserimento/eliminazione di righe e colonne
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-Selezionare una o più righe prima di fare clic su Inserisci o Elimina nella scheda Home per aggiungere o rimuovere righe o colonne nel foglio di lavoro una riga alla volta o varie righe contemporaneamente.
+Selezionare una o più righe prima di selezionare **Inserisci** o **Elimina** nella scheda **Home** per aggiungere o rimuovere righe o colonne nel foglio di lavoro una alla volta o diverse contemporaneamente.
 
 ## <a name="insert-pictures"></a>Inserire immagini
 
@@ -195,7 +199,7 @@ Aggiungere e formattare forme quali caselle, cerchi, linee, connettori o frecce 
   
 ## <a name="merge-cells"></a>Merge cells
 
-Utilizzare Unisci &amp; centra nella scheda Home per combinare e centrare il contenuto delle celle selezionate in una cella di dimensioni maggiori. È possibile modificare l'allineamento facendo clic sui pulsanti di Allineamento.
+Utilizzare Unisci &amp; centra nella scheda Home per combinare e centrare il contenuto delle celle selezionate in una cella di dimensioni maggiori. È possibile modificare l'allineamento selezionando i pulsanti di allineamento.
 
 ## <a name="named-ranges"></a>Intervalli denominati
 
@@ -249,15 +253,15 @@ Se i dati nella cartella di lavoro sono connessi a origini esterne, ad esempio d
 
 È possibile rimuovere i valori duplicati in un intervallo o in una tabella. Per ulteriori informazioni, vedere [filtrare i valori univoci o rimuovere i valori duplicati](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
-## <a name="rename-and-add-sheets"></a>Rinominare e aggiungere fogli
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-Fare clic sull'icona Nuovo foglio per aggiungere un foglio. Fare clic con il pulsante destro del mouse su un qualsiasi foglio per rinominarlo.
+Selezionare l'icona nuovo foglio per aggiungere un foglio. Fare clic con il pulsante destro del mouse su un qualsiasi foglio per rinominarlo.
   
 ## <a name="rename-file-while-workbook-is-open"></a>Rinominare il file mentre la cartella di lavoro è aperta
 
-In Excel per il Web, è possibile rinominare un file della cartella di lavoro senza chiuderlo facendo clic sul nome dell'intestazione e digitando un nuovo nome. Per rinominare un file utilizzando l'app desktop Excel, chiudere il file, passare alla relativa posizione nel dispositivo e rinominare il file.
+In Excel per il Web, è possibile rinominare un file della cartella di lavoro senza chiuderlo selezionando il nome del nome dell'intestazione e digitando un nuovo cognome. Per rinominare un file utilizzando l'app desktop Excel, chiudere il file, passare alla relativa posizione nel dispositivo e rinominare il file.
   
-## <a name="replace"></a>Sostituisce
+## <a name="replace"></a>Sostituisci
 
 Non disponibile in Excel per il Web. Se sul computer è installata l'app desktop Excel, è possibile utilizzare Excel per ricercare e sostituire il contenuto di un documento. Ulteriori informazioni sull' [utilizzo di trova e Sostituisci in Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
@@ -279,7 +283,7 @@ Quando si condivide un file Excel con altri utenti, è possibile proteggere un f
   
 ## <a name="slicer-viewing"></a>Visualizzazione dei filtri dei dati
 
-Facendo clic sui relativi pulsanti, è possibile visualizzare i filtri dei dati del foglio di lavoro e filtrare i dati. Non è possibile creare o modificare i filtri dei dati in Excel per il Web.
+Visualizzare i filtri dei dati nel foglio di lavoro e filtrarli selezionando i pulsanti di sezionamento. Non è possibile creare o modificare i filtri dei dati in Excel per il Web.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Quando si ha bisogno di realizzare qualcosa in Excel per il Web, ma non si sa co
 
 ## <a name="total-data"></a>Dati totali
 
-È possibile eseguire rapidamente il totale dei dati in una tabella facendo clic su Toggle Total Row in format As Table nella scheda Home. 
+È possibile eseguire rapidamente il totale dei dati in una tabella abilitando l'opzione toggle Total Row. Per ulteriori informazioni, vedere [Total the data in a Excel table](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web).
 
 ## <a name="undo-and-redo"></a>Undo and redo
 

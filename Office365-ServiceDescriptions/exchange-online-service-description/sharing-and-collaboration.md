@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776917"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442541"
 ---
 # <a name="sharing-and-collaboration"></a>Condivisione e collaborazione
 
 ## <a name="federated-sharing"></a>Condivisione federata
 
-La Federazione fa riferimento all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo per gli utenti di Microsoft Exchange Online per condividere le informazioni di calendario e di contatto con i destinatari in altre organizzazioni federate esterne o con gli utenti che hanno accesso a Internet. Sono incluse anche le organizzazione che sono ospitate da Exchange Online oppure le organizzazioni Microsoft Exchange Server 2010 o Exchange Server 2013. Utilizzando le relazioni tra organizzazioni e i criteri di condivisione, gli amministratori di Exchange Online possono abilitare gli utenti all'invio di inviti alla condivisione del calendario da Microsoft Outlook Web App o Microsoft Outlook 2010 o versioni successive.
+La Federazione si riferisce all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo per gli utenti di Microsoft Exchange Online per condividere dati del calendario di disponibilità e informazioni di contatto con i destinatari in altre organizzazioni esterne federate o con utenti che dispongono dell'accesso a Internet. Sono incluse anche le organizzazione che sono ospitate da Exchange Online oppure le organizzazioni Microsoft Exchange Server 2010 o Exchange Server 2013. Utilizzando le relazioni tra organizzazioni e i criteri di condivisione, gli amministratori di Exchange Online possono abilitare gli utenti all'invio di inviti alla condivisione del calendario da Microsoft Outlook Web App o Microsoft Outlook 2010 o versioni successive.
   
 > [!IMPORTANT]
 >  Le organizzazione Exchange 2010 e Exchange 2013 esterne devono configurare una relazione di trust federativa con Microsoft Federation Gateway come parte della condivisione federata. Per le organizzazioni Exchange Online non occorre configurare una relazione di trust federativa; la relazione di trust federativa con Microsoft Federation Gateway viene creata automaticamente quando viene creato il tenant di Office 365. >  Le organizzazioni Exchange Online devono configurare una relazione tra organizzazioni o i criteri di condivisione per abilitare la condivisione federata. >  La condivisione dell'elenco indirizzi globale o lo spostamento delle cassette postali degli utenti tra organizzazioni Exchange Online che si trovano in tenant di Office 365 differenti non è supportato nella condivisione federata. 

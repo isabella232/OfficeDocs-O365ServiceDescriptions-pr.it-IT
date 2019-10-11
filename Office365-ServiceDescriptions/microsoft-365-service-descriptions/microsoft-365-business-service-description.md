@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717544"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442551"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -58,7 +58,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Video di Office 365  <br/> |No  <br/> |No  <br/> |
 |Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|[Funzionalità di amministrazione di Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Funzionalità dell'interfaccia di amministrazione di Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione dei contenuti con Azure Information Protection  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |
 |Shared computer activation <br/> |No <br/> |Sì  <br/> |
@@ -168,7 +168,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 <br/><sup>4</sup> Azure Information Protection (AIP) consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Azure Information Protection Piano 1 è incluso in Microsoft 365 Business. 
 <br/><sup>5</sup> Microsoft teams è disponibile in Microsoft 365 business, Office 365 Business Essentials, Office 365 Business Premium e Office 365 Enterprise (E1, E3, E5, F1). Non è ancora disponibile per i piani Office 365 Education. 
 <br/><sup>6</sup> Azure Information Protection (AIP) consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Azure Information Protection Piano 1 è incluso in Microsoft 365 Business. 
-<br/><sup>7</sup> Azure ad Connect Tool per abilitare la sincronizzazione della directory è supportato in Office 365 Business Premium, che è un componente di Microsoft 365 business. Tuttavia, quando i componenti di gestione di Windows sono abilitati per Microsoft 365 business, è necessario un Azure AD-join. Se si dispone di un ambiente Active Directory locale e si desidera aggiungere i propri dispositivi ad Azure AD, è possibile eseguire questa operazione configurando i [dispositivi ibridi di Azure ad Uniti](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
+<br/><sup>7</sup> Azure ad Connect Tool per abilitare la sincronizzazione della directory è supportato in Office 365 Business Premium, che è un componente di Microsoft 365 business. Tuttavia, quando i componenti di gestione di Windows sono abilitati per Microsoft 365 business, è necessario un Azure AD-join. Se si dispone di un ambiente Active Directory locale e si desidera aggiungere i propri dispositivi ad Azure AD, è possibile eseguire questa operazione [configurando i dispositivi ibridi di Azure ad Uniti](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
 <br/><sup>8</sup> se si utilizza la sincronizzazione della directory con un Active Directory locale, è necessario eliminare gli account o cambiare le password utilizzando Active Directory locale, anziché il portale di Office 365 o utilizzando il modulo di Azure Active Directory per Windows PowerShell. 
 <br/><sup>9</sup> solo identità cloud. Vedere [consentire agli utenti di reimpostare le proprie password in Office 365](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords). 
 <br/><sup>10</sup> la riduzione dei sedili che sono stati acquistati con uno sconto termini può essere soggetta a una tariffa di terminazione anticipata. This is not applicable for subscriptions paid on a monthly basis. 

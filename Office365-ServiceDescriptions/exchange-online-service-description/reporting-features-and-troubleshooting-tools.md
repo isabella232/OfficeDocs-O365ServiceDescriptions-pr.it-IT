@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre una vasta gamma di funzionalità di Reporting sia all'interno che all'esterno dell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776867"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442641"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di reporting e risoluzione dei problemi
 
@@ -39,9 +39,9 @@ Per ulteriori informazioni sui report disponibili con ciascuna sottoscrizione Of
 
 È anche possibile utilizzare la cartella di lavoro Excel 2013 per visualizzare rapporti di riepilogo con funzionalità di drill-down. Tuttavia, si consiglia di utilizzare i report dell'interfaccia di amministrazione avanzata di Microsoft 365. La cartella di lavoro per la creazione dei report di Excel 2013 diventerà obsoleta. Per una panoramica sulla cartella di lavoro e per i collegamenti per scaricarla e installarla, vedere la seguente [pagina di download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Per informazioni su come utilizzare la cartella di lavoro, vedere [Rapporti sulla protezione della posta utilizzando la cartella di lavoro per reporting di Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
-### <a name="reporting-using-web-services"></a>Reporting tramite i servizi Web
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-L'accesso ai rapporti sintetici e dettagliati su cassette postali, gruppi e dati di messaggistica avviene tramite il servizio REST/OData Tenant Reporting Web, un'interfaccia di programmazione che consente di creare rapporti personalizzati. Per ulteriori informazioni, vedere [Servizio Web dei rapporti per Office 365](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+L'accesso ai report di riepilogo e dettagliati relativi a cassette postali, gruppi e dati di messaggistica è disponibile tramite il servizio Web Reporting tenant REST/OData, che è un'interfaccia a livello di programmazione che consente di creare report personalizzati. Per ulteriori informazioni, vedere [Office 365 Reporting Web Services](https://go.microsoft.com/fwlink/p/?LinkId=287041).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Funzionalità di reporting e strumenti di risoluzione dei problemi nell'interfaccia di amministrazione di Exchange
 
