@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Gli smartphone BlackBerry® possono accedere alla posta elettronica e ai documenti in Office 365.
-ms.openlocfilehash: 0af0e0f1615c45c468b05d66e274c158dba673e0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776947"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523471"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -34,7 +34,7 @@ Per ulteriori informazioni, vedere [Configurare la posta elettronica su un Black
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>BlackBerry ® 7 e precedenti smartphone con Microsoft Exchange Online
 
-È possibile utilizzare BlackBerry® Internet Service (BIS) per connettere gli smartphone BlackBerry 7 e versioni precedenti a Exchange Online. Il servizio BIS permette agli utenti di BlackBerry di accedere ai propri account di posta elettronica via Internet tramite IMAP o POP.
+È possibile utilizzare BlackBerry® Internet Service (BIS) per connettere gli smartphone BlackBerry 7 e versioni precedenti a Exchange Online. BIS consente agli utenti di BlackBerry di accedere ai propri account di posta elettronica via Internet tramite IMAP o POP.
   
 La maggior parte degli operatori lo hanno configurato, gli utenti finali dovranno configurare la sincronizzazione di posta elettronica, calendario e contatti usando le istruzioni incluse nei seguenti articoli della Knowledge Base:
   
@@ -53,6 +53,5 @@ Per l'accesso a Microsoft SharePoint Online, gli utenti BlackBerry possono utili
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).
   
-

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 5e804bdb93ac7f2e001879e6f0555330f7425ff3
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442691"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523451"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online Limits
 
@@ -344,23 +344,27 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Caratteristica**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Limite numero di destinatari|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|
+|Limite di frequenza destinatario<sup>1</sup>|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|
 |Limite destinatari|500 destinatari|500 destinatari|500 destinatari|500 destinatari|500 destinatari|500 destinatari|
 |Limite di indirizzi proxy del destinatario|400|400|400|400|400|400|
 |Limite di frequenza dei messaggi|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|
+
+> [!NOTE]
+> <sup>1</sup> dopo il raggiungimento del limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5.000 destinatari alle 09:00, quindi Invia un altro messaggio a 2.500 destinatari alle 10:00 del mattino e quindi Invia un altro messaggio ai destinatari 2.500 a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limiti di invio nelle opzioni autonome
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
-|Limite numero di destinatari|Nessun limite<sup>1</sup>|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|
+|Limite numero di destinatari|Nessun limite<sup>1</sup>|10.000 destinatari al giorno<sup>2</sup>|10.000 destinatari al giorno<sup>2</sup>|10.000 destinatari al giorno<sup>2</sup>|
 |Limite destinatari|500 destinatari<sup>1</sup>|500 destinatari|500 destinatari|500 destinatari|
 |Limite di indirizzi proxy del destinatario|400|400|400|400|
 |Limite di frequenza dei messaggi|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|
 
 > [!NOTE]
-> <sup>1</sup> Questo è il limite predefinito per le organizzazioni Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione.
+> <sup>1</sup> Questo è il limite predefinito per le organizzazioni Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione.<br/>
+<sup>2</sup> dopo che è stato raggiunto il limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5.000 destinatari alle 09:00, quindi Invia un altro messaggio a 2.500 destinatari alle 10:00 del mattino e quindi Invia un altro messaggio ai destinatari 2.500 a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
 
 ## <a name="reporting-and-message-trace-limits"></a>Limiti relativi alla creazione di rapporti e traccia dei messaggi
 

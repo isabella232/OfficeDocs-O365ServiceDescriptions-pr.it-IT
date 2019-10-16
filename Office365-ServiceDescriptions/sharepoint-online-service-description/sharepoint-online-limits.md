@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: 4ec162de7b5e005a177d0eb2f2122ba46422519c
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: f111729e829c0886c38141915fa7225f7633a578
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035102"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523214"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online 
 
@@ -24,16 +24,16 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Office 365 Business Essentials o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 o SharePoint Online (piano 1 o 2)** <br/> | **Office 365 Enterprise F1** <br/> |
+|**Caratteristica** <br/> |**Office 365 Business Essentials o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 o SharePoint Online (piano 1 o 2)** <br/> | **Office 365 Enterprise F1** <br/> |
 |Spazio di archiviazione totale per ogni organizzazione<sup>1, 2</sup> <br/> |1 TB più 10 GB per licenza acquistata  <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Archiviazione massima per raccolta siti<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Raccolte siti per ogni organizzazione  <br/> |1 milione<sup>6</sup> <br/> |1 milione<sup>6</sup> <br/> |1 milione<br/> |
 |Numero di utenti  <br/> |Fino a 300  <br/> |1- 500.000<sup>7</sup> <br/> |1- 500.000<sup>7</sup> <br/> |
    
-<sup>1</sup> è possibile acquistare una quantità illimitata di ulteriore spazio di archiviazione di SharePoint. Vedere [Modificare lo spazio di archiviazione per l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> [informazioni su come trovare l'archiviazione totale e disponibile per l'organizzazione](/sharepoint/manage-site-collection-storage-limits). È possibile acquistare una quantità illimitata di ulteriore spazio di archiviazione di SharePoint. Vedere [Modificare lo spazio di archiviazione per l'abbonamento](/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Si consiglia di monitorare il Cestino e svuotarlo regolarmente. Lo spazio di archiviazione utilizzato è parte integrante del limite di archiviazione totale dell'organizzazione. 
 <br/> <sup>3</sup> se si dispone di un abbonamento a Office 365 e di un componente aggiuntivo per l'archiviazione di file di Office 365, vengono aggiunti gli importi di archiviazione. 
-<br/> <sup>4</sup> questo è il limite di archiviazione per una singola raccolta siti e non per la quantità di spazio di archiviazione disponibile per ogni raccolta siti. Questo limite si applica a tutti i tipi di raccolte siti, inclusi i siti del team connessi a un gruppo di Office 365 e OneDrive. Gli amministratori di SharePoint possono [impostare manualmente limiti di spazio di archiviazione inferiori](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>4</sup> questo è il limite di archiviazione per una singola raccolta siti e non per la quantità di spazio di archiviazione disponibile per ogni raccolta siti. Questo limite si applica a tutti i tipi di raccolte siti, inclusi i siti del team connessi a un gruppo di Office 365 e OneDrive. Gli amministratori di SharePoint possono [impostare manualmente limiti di spazio di archiviazione inferiori](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> gli addetti di FIRSTLINE non possono amministrare le raccolte siti di SharePoint. 
 <br/> <sup>6</sup> non include il OneDrive creato per ogni utente con licenza. 
 <br/> <sup>7</sup> Se si dispone di più di 500.000 utenti, contattare un rappresentante Microsoft. 
