@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442701"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581922"
 ---
 # <a name="clients-and-mobile-devices"></a>Client e dispositivi mobili
 
@@ -62,7 +62,7 @@ Exchange Online funziona con le app di Outlook disponibili per iOS, Android e Wi
 |Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilità delle app per dispositivi mobili di Outlook  <br/> |Sì  <br/> [Ottenere Outlook per Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sì  <br/> [Ottenere Outlook per iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Built-in  <br/> |
 |App di posta elettronica incorporate compatibili con Exchange Online  <br/> |App di posta elettronica di Gmail app/Samsung  <br/> |app di posta elettronica iOS  <br/> |Posta di Outlook, calendario, contatti  <br/> |
-|Ulteriori informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configurazione di iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configurazione di Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Altre informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configurazione di iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configurazione di Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 Sono inoltre disponibili opzioni per l'utilizzo di Exchange Online con dispositivi, tra cui BlackBerry.
   
@@ -70,7 +70,7 @@ Sono inoltre disponibili opzioni per l'utilizzo di Exchange Online con dispositi
 
 Outlook offre agli utenti l'esperienza di posta elettronica e calendario rapida e intuitiva che si aspettano da una moderna app per dispositivi mobili, essendo l'unica app che fornisce supporto per le migliori funzionalità di Office 365. È l'unica applicazione di posta elettronica appositamente progettata per supportare l'intera esperienza di Office 365, offrendo agli utenti un'esperienza coerente da desktop a mobile. Outlook è integrato con Intune, Enterprise Mobility and Security ed Exchange Controls per garantire la sicurezza dei dati e degli utenti.
   
-Outlook consente agli utenti di:
+Con Outlook, gli utenti possono:
   
 - Gestire l'intera giornata da un dispositivo mobile.
 

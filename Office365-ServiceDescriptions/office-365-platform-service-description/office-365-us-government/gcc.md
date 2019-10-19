@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Per soddisfare i requisiti univoci e in evoluzione dei governi federale, statale, locale e tribale degli Stati Uniti, nonché i contraenti che detengono o elaborano dati per conto del governo statunitense, Microsoft offre servizi di Office 365 US Government community (GCC). Disponibili attraverso più canali che includono i contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, sono disponibili versioni di prova solo per gli enti governativi degli Stati Uniti.
-ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998508"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595284"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -37,13 +37,13 @@ Exchange Online, SharePoint Online, Exchange Online Archiving, Skype for busines
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Personale della Office 365 US Government Community sottoposto a screening
 
-Il personale Office 365 non ha un accesso diretto ai contenuti dei clienti ospitati nella Office 365 US Government Community. Qualsiasi membro del personale che richiede l'elevazione dei privilegi temporanea per ottenere l'accesso ai contenuti dei clienti prima deve aver superato i controlli del background riportati di seguito. 
+Il personale Office 365 non ha un accesso diretto ai contenuti dei clienti ospitati nella Office 365 US Government Community. Qualsiasi personale che richiede l'elevazione temporanea delle autorizzazioni che consentirà l'accesso al contenuto del cliente deve prima aver superato i controlli di sfondo riportati di seguito. 
   
 |||
 |:-----|:-----|
 |**Controlli del background e screening del personale Microsoft** <sup>1</sup> <br/> |**Descrizione** <br/> |
-|Cittadinanza negli Stati Uniti  <br/> |Verifica della cittadinanza negli Stati Uniti  <br/> |
-|Controllo della storia professionale  <br/> |Verifica della storia professionale degli ultimi sette (7) anni  <br/> |
+|Cittadinanza degli Stati Uniti  <br/> |Verifica della cittadinanza negli Stati Uniti  <br/> |
+|Verifica della cronologia del lavoro  <br/> |Verifica della storia professionale degli ultimi sette (7) anni  <br/> |
 |Verifica dell'istruzione  <br/> |Verifica del livello massimo raggiunto  <br/> |
 |Ricerca del numero di previdenza sociale (SSN)  <br/> |Verifica della validità del numero di previdenza sociale (SSN) fornito  <br/> |
 |Controllo di precedenti penali  <br/> |Un controllo dei precedenti penali relativo agli ultimi sette (7) anni per rilevare eventuali infrazioni o reati a livello statale, provinciale, locale e federale  <br/> |
@@ -53,7 +53,8 @@ Il personale Office 365 non ha un accesso diretto ai contenuti dei clienti ospit
 |Controllo delle impronte digitali  <br/> |Controllo delle impronte digitali rispetto ai database dell'FBI  <br/> |
 |Screening del background CJIS  <br/> |Verifica dei precedenti penali a livello statale e federale eseguita dall'autorità nominata dal CSA di stato all'interno di ogni stato iscritto al programma Microsoft CJIS IA  <br/> |
 
-<sup>1</sup> si applica solo al personale con accesso temporaneo o permanente ai contenuti dei clienti ospitati in Office 365 US Government community Cloud (GCC)  
+<sup>1</sup> si applica solo al personale con accesso temporaneo o permanente ai contenuti dei clienti ospitati in Office 365 US Government community Cloud (GCC).
+  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government Community e Yammer
 
 Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 US Government Piano E1 ed E3. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 US Government con i contratti Enterprise Agreement ed Enterprise Subscription. 

@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839867"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595265"
 ---
 ---
 
@@ -117,10 +117,12 @@ Nella tabella seguente sono riportate le opzioni in grado di soddisfare le esige
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Come acquistare Microsoft 365 Government
 
 Eseguire la procedura seguente per acquistare le licenze governative di Microsoft 365:
+
 1. [Completare e inviare il modulo](https://products.office.com/government/eligibility-validation) per convalidare l'idoneità dell'organizzazione.
 2. Collaborare con il team dell'account Microsoft o con un partner qualificato per effettuare un ordine. I clienti possono acquistare Microsoft 365 per le licenze governative degli Stati Uniti solo tramite i partner selezionati.
 
 **LSP GCC e GCC High (+ 500 seggi)**
+
 - CDW
 - Connection (in precedenza connessione a PC)
 - Dell
@@ -145,7 +147,7 @@ Eseguire la procedura seguente per acquistare le licenze governative di Microsof
 
 **Nota:** Tutti i provider di soluzioni per la gestione delle licenze Microsoft (LSP) nell'elenco precedente possono eseguire transazioni sia GCC che GCC High through Enterprise Agreement (EA) per creare il foglio prezzi del cliente (CPS). Le organizzazioni che non si qualificano per EA possono acquistare licenze GCC tramite i partner AOS-G elencati o il programma partner CSP.
 
-**Se si lavora con un partner CSP, contattare o [trovare un provider](https://www.microsoft.com/solution-providers/home) di crittografia.**
+**Se si lavora con un partner CSP, contattare o [trovare un provider](https://www.microsoft.com/solution-providers/home)di crittografia.**
 
 ## <a name="what-trials-are-available"></a>Quali prove sono disponibili?
 

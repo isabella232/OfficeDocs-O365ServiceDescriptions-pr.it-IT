@@ -1,5 +1,5 @@
 ---
-title: Flusso della posta
+title: Flusso di posta
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e il filtro vengono gestiti da Office 365. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione. '
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442601"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581452"
 ---
-# <a name="mail-flow"></a>Flusso della posta
+# <a name="mail-flow"></a>Flusso di posta
 
 Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e il filtro vengono gestiti da Office 365. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione.  
   
 ## <a name="custom-routing-of-outbound-email"></a>Routing personalizzato della posta in uscita
 
-Microsoft Exchange Online può effettuare il routing del flusso di posta dall'organizzazione tramite un server locale o un servizio ospitato (talvolta denominato "smart hosting"). Ciò consente all'organizzazione di utilizzare le funzionalità di prevenzione della perdita dei dati, di eseguire una post elaborazione personalizzata della posta in uscita e di recapitare la posta ai propri partner tramite reti private. Exchange Online supporta anche la funzionalità di riscrittura degli indirizzi, nella quale la posta in uscita viene inviata attraverso un gateway locale che ne modifica gli indirizzi. Questa funzionalità permette di nascondere i sottodomini, di far apparire la posta proveniente da più domini come proveniente da un unico dominio o di far apparire la posta inviata da un partner dell'organizzazione come inviata dall'organizzazione stessa. Gli amministratori possono personalizzare il routing della posta dall'interfaccia di amministrazione di Exchange.
+Microsoft Exchange Online può effettuare il routing del flusso di posta dall'organizzazione tramite un server locale o un servizio ospitato (talvolta denominato "smart hosting"). In questo modo l'organizzazione utilizzerà gli strumenti di prevenzione della perdita di dati (DLP), eseguirà l'elaborazione personalizzata del messaggio di posta elettronica in uscita e recapiterà la posta elettronica ai partner commerciali tramite reti private. Exchange Online supporta anche la funzionalità di riscrittura degli indirizzi, nella quale la posta in uscita viene inviata attraverso un gateway locale che ne modifica gli indirizzi. Questa funzionalità consente di nascondere i sottodomini, di rendere la posta elettronica da un'organizzazione multi-dominio come un singolo dominio oppure di rendere i messaggi di posta elettronica inoltrati dal partner come se fossero stati inviati dall'interno dell'organizzazione. Gli amministratori possono personalizzare il routing della posta dall'interfaccia di amministrazione di Exchange.
   
 Per ulteriori informazioni, vedere [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
@@ -96,5 +96,5 @@ Per ulteriori informazioni sui requisiti di una distribuzione ibrida, vedere [Pr
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere la [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   

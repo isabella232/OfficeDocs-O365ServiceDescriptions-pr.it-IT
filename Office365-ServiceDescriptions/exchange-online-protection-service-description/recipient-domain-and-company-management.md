@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) offre diversi mezzi per la gestione delle informazioni relative a destinatari, dominio e società. In qualità di amministratore, è possibile eseguire alcune attività di gestione all'interno dell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'interfaccia di amministrazione di Microsoft 365.
-ms.openlocfilehash: 8cab1137f31917aaae5e10fb116601dabd7fb43b
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 84be0148636b4e345f59158af0a767e9cd2396c7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442721"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581842"
 ---
 # <a name="recipient-domain-and-company-management"></a>Gestione destinatari, dominio e società
 

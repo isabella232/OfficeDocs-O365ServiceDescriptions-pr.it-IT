@@ -11,32 +11,30 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: a88ccb9ec0280b43d58c290210b569fb17e7f7a0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776477"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581882"
 ---
-# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Funzionalità di conformità e sicurezza in Archiviazione Exchange Online
+# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Funzionalità di conformità e sicurezza in archiviazione Exchange Online
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Funzionalità di conformità in Archiviazione Exchange Online
 
 Nelle sezioni seguenti vengono descritte le funzionalità di conformità di Microsoft Archiviazione Exchange Online.
   
 ### <a name="retention-policies"></a>Criteri di conservazione
-<a name="BKMK_Retentionpolicies"> </a>
 
-Archiviazione Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratori possono anche fornire agli utenti un menu di criteri di conservazione e permettere loro di applicarli a particolari elementi, conversazioni o cartelle utilizzando Outlook 2010 o versioni successive oppure Outlook Web App. In Archiviazione Exchange Online gli amministratori gestiscono i criteri di conservazione dall'infrastruttura locale.
+Archiviazione Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratori possono anche fornire agli utenti un menu di criteri di conservazione e consentire loro di applicare i criteri a elementi, conversazioni o cartelle specifici utilizzando Outlook 2010 o versione successiva o Outlook sul Web. In Archiviazione Exchange Online gli amministratori gestiscono i criteri di conservazione dall'infrastruttura locale.
   
 Archiviazione Exchange Online offre due tipi di criteri: archiviazione ed eliminazione. Entrambi i tipi possono essere applicati allo stesso elemento o alla stessa cartella. Un utente, ad esempio, può contrassegnare un messaggio di posta elettronica per impostarne lo spostamento automatico nell'archivio personale entro un numero di giorni specificato e l'eliminazione automatica dopo un altro intervallo di giorni.
   
-Con Outlook 2010 e versioni successive e con Outlook Web App, gli utenti possono applicare i criteri di conservazione a cartelle, conversazioni o singoli messaggi e possono inoltre visualizzare i criteri di conservazione applicati e le date di eliminazione previste nei messaggi. Anche gli utenti di altri client di posta elettronica possono utilizzare le funzionalità di eliminazione o archiviazione dei messaggi in base ai criteri di conservazione sul lato server configurati dall'amministratore, ma non possono usufruire dello stesso livello di visibilità e controllo.
+Con Outlook 2010 e versioni successive e Outlook sul Web, gli utenti possono applicare i criteri di conservazione alle cartelle, alle conversazioni o ai singoli messaggi ed è inoltre possibile visualizzare i criteri di conservazione applicati e le date di eliminazione previste nei messaggi. Anche gli utenti di altri client di posta elettronica possono utilizzare le funzionalità di eliminazione o archiviazione dei messaggi in base ai criteri di conservazione sul lato server configurati dall'amministratore, ma non possono usufruire dello stesso livello di visibilità e controllo.
   
 I criteri di conservazione disponibili in Archiviazione Exchange Online sono identici a quelli di Exchange Server 2010 Service Pack 2 (SP2) e versioni successive. Gli amministratori possono gestire i criteri di conservazione da ambienti locali Exchange Server 2010 e versioni successive. Le cartelle gestite, ossia il precedente approccio alla gestione dei record di messaggistica introdotto in Exchange 2007, non sono disponibili né compatibili con Archiviazione Exchange Online. Per ulteriori dettagli, vedere [Tag di conservazione e criteri di conservazione](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
-### <a name="in-place-hold-and-litigation-hold"></a>Blocco sul posto e blocco per controversia legale
-<a name="BKMK_In_placehold"> </a>
+### <a name="in-place-hold-and-litigation-hold"></a>Archiviazione sul posto e conservazione per controversia legale
 
 In presenza di un ragionevole rischio di controversia, le organizzazioni sono tenute a conservare le informazioni in forma elettronica, inclusi i messaggi pertinenti al caso. Questa aspettativa può divenire realtà prima che siano note le specifiche del caso, richiedendo pertanto una conservazione ad ampio spettro. Le organizzazioni possono conservare tutti i messaggi di posta elettronica relativi a uno specifico argomento oppure tutti i messaggi di posta elettronica di determinati individui.
   
@@ -72,7 +70,6 @@ Per ulteriori informazioni, vedere [Conservazione in locale](https://go.microsof
 > Per gli utenti di Archiviazione Exchange Online, la quota predefinita per la cartella degli elementi ripristinabili è pari a 100 GB. 
   
 ### <a name="in-place-ediscovery"></a>eDiscovery sul posto
-<a name="BKMK_In_placehold"> </a>
 
 Archiviazione Exchange Online supporta eDiscovery in locale per la ricerca nei contenuti delle cassette postali di un'organizzazione. Utilizzando l'interfaccia di amministrazione di Exchange o una sessione remota di Windows PowerShell da un server Exchange 2013 locale, gli amministratori o i responsabili dell'individuazione autorizzati possono eseguire ricerche in una vasta gamma di elementi delle cassette postali, inclusi messaggi di posta elettronica, allegati, appuntamenti del calendario, attività e contatti. eDiscovery in locale può eseguire simultaneamente ricerche nelle cassette postali principali e negli archivi. Tra i filtri disponibili sono inclusi quelli per mittente, destinatario, tipo di messaggio, data di invio o ricezione, Cc e Bcc, oltre a quelli per la sintassi KQL (Keyword Query Language). Per ulteriori dettagli, vedere [eDiscovery in locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
@@ -100,7 +97,7 @@ Per crittografare la connessione tra server di posta elettronica, in modo da evi
 
 Per una maggiore sicurezza, le connessioni tra client e Archiviazione Exchange Online utilizzano i seguenti metodi di crittografia:
   
-- Per la sicurezza del traffico di Outlook, Outlook Web App ed Exchange Web Services viene utilizzato SSL, con la porta TCP 443.
+- SSL viene utilizzato per proteggere Outlook, Outlook sul Web e il traffico dei servizi Web di Exchange, utilizzando la porta TCP 443.
     
 - Le connessioni client ai server locali rimangono invariate con l'introduzione di Archiviazione Exchange Online.
     
@@ -114,13 +111,13 @@ Analogamente, Archiviazione Exchange Online archivia messaggi crittografati tram
 
 Archiviazione Exchange Online non offre servizi IRM (Information Rights Management) ospitati, ma gli amministratori possono utilizzare i servizi locali AD RMS (Active Directory Rights Management Services). Se viene distribuito un server AD RMS, Outlook può comunicare direttamente con tale server, consentendo agli utenti di scrivere e leggere messaggi protetti tramite IRM. Se è configurata l'interoperabilità tra il server AD RMS e l'ambiente locale di Exchange, gli utenti potranno scrivere e leggere messaggi protetti tramite IRM.
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Supporto di IRM in Outlook Web App
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Supporto di IRM in Outlook sul Web
 
-Gli utenti possono leggere e creare messaggi protetti tramite IRM in modalità nativa in Outlook Web App, esattamente come in Outlook. I messaggi protetti tramite IRM in Outlook Web App sono accessibili tramite Internet Explorer, Firefox, Safari e Chrome (senza plug-in). Per i messaggi sono disponibili la ricerca di testo, la visualizzazione delle conversazioni e il riquadro di anteprima. Per abilitare questa funzionalità è necessario che sia configurata l'interoperabilità tra il server AD RMS e l'ambiente locale di Exchange.
+Gli utenti possono leggere e creare messaggi protetti con IRM in modo nativo in Outlook sul Web, proprio come in Outlook. È possibile accedere ai messaggi protetti tramite IRM in Outlook sul Web tramite Internet Explorer, Firefox, Safari e Chrome (senza che sia necessario alcun plug-in). Per i messaggi sono disponibili la ricerca di testo, la visualizzazione delle conversazioni e il riquadro di anteprima. Per abilitare questa funzionalità è necessario che sia configurata l'interoperabilità tra il server AD RMS e l'ambiente locale di Exchange.
   
 #### <a name="irm-search"></a>Ricerca IRM
 
-I messaggi protetti tramite IRM sono indicizzati e supportano l'esecuzione di ricerche nei vari componenti, inclusi intestazioni, oggetto, corpo del messaggio e allegati. Gli utenti possono eseguire ricerche negli elementi protetti tramite IRM in Outlook e Outlook Web App, mentre gli amministratori possono eseguire queste ricerche utilizzando eDiscovery sul posto o il cmdlet **Search-Mailbox**. 
+I messaggi protetti tramite IRM sono indicizzati e supportano l'esecuzione di ricerche nei vari componenti, inclusi intestazioni, oggetto, corpo del messaggio e allegati. Gli utenti possono cercare gli elementi protetti tramite IRM in Outlook e Outlook sul Web e gli amministratori possono cercare gli elementi protetti tramite IRM utilizzando eDiscovery sul posto o il cmdlet **Search-Mailbox** .
   
 ### <a name="auditing"></a>Controllo
 

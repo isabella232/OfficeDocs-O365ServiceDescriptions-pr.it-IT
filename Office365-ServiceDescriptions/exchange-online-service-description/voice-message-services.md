@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442561"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581432"
 ---
 # <a name="voice-message-services"></a>Servizi di messaggistica vocale
 
@@ -44,11 +44,11 @@ I servizi di messaggistica vocale ospitati consentono a un'azienda di connettere
     
 - Reimpostazione PIN posta vocale da Web App e Outlook (vedere l'articolo relativo a come [reimpostare il PIN della posta vocale](https://go.microsoft.com/fwlink/p/?LinkId=271794)). 
     
-- Indicatore di messaggi in attesa (vedere l'articolo relativo a [MWI in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271795) per i dettagli). 
+- Regole di ricezione chiamata (vedere [Consenti agli utenti di posta vocale di inoltrare le chiamate](https://go.microsoft.com/fwlink/p/?LinkId=271795) per i dettagli).
     
-- Regole di ricezione delle chiamate (vedere le [informazioni sulle regole di ricezione delle chiamate](https://go.microsoft.com/fwlink/p/?LinkId=271796) per i dettagli). 
+- Casella vocale protetta in Exchange Online (vedere [Protect Voice mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) per i dettagli).
     
-- Posta vocale protetta in Exchange Online (vedere l'argomento relativo alla [posta vocale protetta in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271797) per i dettagli). 
+- Anteprima casella vocale (vedere [consentire agli utenti di visualizzare una trascrizione](https://go.microsoft.com/fwlink/p/?LinkId=271797) della segreteria telefonica per un elenco di lingue supportate).
     
 - Speech access to email, voice mail, calendar, personal contacts, and personal contact groups.
     
@@ -56,10 +56,16 @@ I servizi di messaggistica vocale ospitati consentono a un'azienda di connettere
     
 - Ricerca nelle directory tramite Outlook Voice Access o un operatore automatico.
     
-For more information about voice mail features, see [Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+Per ulteriori informazioni sulle funzionalità di segreteria telefonica, vedere segreteria telefonica [in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
   
 > [!IMPORTANT]
-> The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. > The customer must provide a telephony connection from the public switched telephone network (PSTN) using a VoIP gateway and PBX, IP PBX, or Skype for Business Server 2015. > The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. > Hosted voice mail is available only to Exchange Online Plan 2 and Office 365 Enterprise E3 subscribers. 
+> The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. 
+>
+> Il cliente deve fornire una connessione telefonica dalla rete PSTN (Public Switched Telephone Network) utilizzando un gateway VoIP e PBX, IP PBX o Skype for Business Server 2015. 
+>
+> Il cliente deve fornire i dispositivi hardware SBC e garantire che tali SBC siano correttamente configurati per connettersi ai servizi di posta vocale. Occorre configurare anche un livello appropriato di sicurezza utilizzando certificati e interfacce IP pubbliche e private e abilitando le corrette porte TCP attraverso i relativi firewall locali. 
+>
+> La segreteria telefonica ospitata è disponibile solo per i sottoscrittori di Exchange Online piano 2 e Office 365 Enterprise E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilità posta vocale di terze parti
 

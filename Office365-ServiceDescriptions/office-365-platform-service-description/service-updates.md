@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Per informazioni sulle funzionalità di Office 365 appena rilasciate o che stanno per essere rilasciate, vedere la Guida di orientamento di Microsoft 365.
-ms.openlocfilehash: cd9de8191efb5d22644ba2901735c4be82f5ae62
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777497"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581352"
 ---
 # <a name="service-updates"></a>Aggiornamenti dei servizi
 
@@ -35,7 +35,7 @@ Con Rilascio assegnato, l'organizzazione oppure un gruppo di utenti ricevono un 
   
 ## <a name="update-notifications"></a>Notifiche sugli aggiornamenti
 
-Office 365 cerca di inviare notifiche ai clienti in merito all'avanzamento di eventuali modifiche per le quali l'amministratore deve intraprendere azioni volte a garantire il normale funzionamenti dei servizi. Se non diversamente specificato, Microsoft invierà una notifica con 30 giorni di anticipo tramite il [Message Center](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx) quando un aggiornamento potrebbe necessitare l'intervento dell'amministratore. 
+Office 365 cerca di inviare notifiche ai clienti in merito all'avanzamento di eventuali modifiche per le quali l'amministratore deve intraprendere azioni volte a garantire il normale funzionamenti dei servizi. Se non diversamente specificato, Microsoft invierà una notifica con 30 giorni di anticipo tramite il [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide) quando un aggiornamento potrebbe necessitare l'intervento dell'amministratore. 
   
 La maggior parte degli aggiornamenti di servizio di Office 365 sono correzioni di bug, miglioramenti delle prestazioni e aggiornamenti della sicurezza che non necessitano azioni da parte del cliente. Le funzionalità nuove e migliorate sono disponibili nella [Roadmap di Microsoft 365 for business](http://roadmap.office.com/).
   
@@ -43,6 +43,6 @@ Tenere presente che Office 365 segue il [criterio del ciclo di vita online ](htt
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).
   
 

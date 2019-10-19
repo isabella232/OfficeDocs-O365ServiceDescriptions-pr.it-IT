@@ -1,5 +1,5 @@
 ---
-title: Criteri dei messaggi e conformità
+title: Criteri e conformità del messaggio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231424"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581962"
 ---
-# <a name="message-policy-and-compliance"></a>Criteri dei messaggi e conformità
+# <a name="message-policy-and-compliance"></a>Criteri e conformità del messaggio
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archiviazione di cassette postali di Exchange Online
 
 Le cassette postali di Exchange Online risiedono nel cloud e la loro archiviazione richiede ambienti host univoci. In alcuni casi, è possibile utilizzare Exchange Online per archiviare le cassette postale locali nel cloud. In questa sezione vengono descritte le opzioni per l'archiviazione in Exchange Online.
   
-Exchange Online dispone di funzionalità di archiviazione integrate per le cassette postali basate su cloud, tra cui un Archivio in locale che consente agli utenti di archiviare comodamente i messaggi di posta elettronica meno recenti. Un Archivio in locale è una speciale cassetta postale che viene visualizzata insieme alle cartelle della cassetta postale principale di un utente in Outlook e Outlook Web App. Gli utenti possono accedere all'archivio ed effettuarvi ricerche esattamente come fanno per le cassette postali principali. Le funzionalità disponibili dipendono dal client in uso:
+Exchange Online dispone di funzionalità di archiviazione integrate per le cassette postali basate su cloud, tra cui un Archivio in locale che consente agli utenti di archiviare comodamente i messaggi di posta elettronica meno recenti. Un archivio sul posto è un tipo speciale di cassetta postale che viene visualizzata accanto alle cartelle principali delle cassette postali di un utente in Outlook e Outlook sul Web. Gli utenti possono accedere all'archivio ed effettuarvi ricerche esattamente come fanno per le cassette postali principali. Le funzionalità disponibili dipendono dal client in uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 e Outlook Web App** Gli utenti hanno accesso a tutte le funzionalità dell'archivio e alle relative funzionalità di conformità, come il controllo sui criteri di conservazione e archiviazione. 
+- **Outlook 2016, outlook 2013, outlook 2010 e Outlook sul Web** Gli utenti possono accedere alle funzionalità complete dell'archivio, nonché alle relative funzionalità di conformità, come il controllo sui criteri di conservazione e archiviazione. 
     
 - **Outlook 2007** Gli utenti dispongono di un supporto base per l'Archivio in locale e non tutte le funzionalità di archiviazione e conformità sono disponibili. Ad esempio, gli utenti non possono applicare i criteri di archiviazione o conservazione agli elementi di una cassetta postale e devono avvalersi invece dei criteri stabiliti dall'amministratore. 
     
@@ -45,7 +45,8 @@ Ciascun archivio personale può contenere i dati di messaggistica di un solo ute
 > [!IMPORTANT]
 > - L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Microsoft si riserva il diritto di non consentire uno spazio di archiviazione illimitato nei casi in cui una cassetta postale di archiviazione non sia utilizzata in uno scenario personale. 
 > - L'archivio locale presenta specifici requisiti di licenza per gli utenti di Outlook. Gli utenti di Outlook 2007 devono disporre dell'aggiornamento cumulativo di Office 2007 del febbraio 2011 per poter accedere all'archivio personale. 
-> - Exchange Online non supporta il cmdlet _New-MailboxImportRequest_ di Windows PowerShell di exchange server 2010 Service Pack 1 o versioni successive per l'importazione guidata dall'amministratore dei file PST in un archivio personale. Se un utente dispone sia della cassetta postale principale sia dell'archivio in Exchange Online, un amministratore può utilizzare PST Capture, uno strumento gratuito, per importare i dati dei file pst nella cassetta postale principale o nell'archivio dell'utente. 
+> - Exchange Online non supporta il cmdlet _New-MailboxImportRequest_ di Windows PowerShell di exchange server 2010 Service Pack 1 o versioni successive per l'importazione guidata dall'amministratore dei file PST in un archivio personale. Se un utente dispone sia della cassetta postale principale sia dell'archivio in Exchange Online, un amministratore può utilizzare PST Capture, uno strumento gratuito, per importare i dati dei file pst nella cassetta postale principale o nell'archivio dell'utente.
+
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archiviazione basata su cloud delle cassette postali locali
 
 L'utilizzo di Exchange Online per l'archiviazione su cloud di cassette postali locali di Exchange Server 2010 o versioni successive è possibile tramite Archiviazione Microsoft Exchange Online, una soluzione di archiviazione su host fornita da Microsoft. Ciò richiede che l'organizzazione locale sia in modalità ibrida oppure sia impostata per l'archiviazione Exchange Online.
@@ -55,13 +56,13 @@ L'utilizzo di Exchange Online per l'archiviazione su cloud di cassette postali l
   
 ## <a name="retention-tags-and-retention-policies"></a>Tag di conservazione e criteri di conservazione
 
-Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratore possono anche fornire agli utenti un menu di criteri di conservazione e permettere loro di applicarli a particolari elementi, conversazioni o cartelle utilizzando Outlook 2010 o versioni successive oppure Outlook Web App.
+Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratori possono anche fornire agli utenti un menu di criteri di conservazione e consentire loro di applicare i criteri a elementi, conversazioni o cartelle specifici utilizzando Outlook 2010 o versione successiva o Outlook sul Web.
   
 In Exchange Online, gli amministratori gestiscono i criteri di conservazione tramite l'interfaccia di amministrazione di Exchange o tramite Windows PowerShell remoto.
   
 Exchange Online fornisce due tipi di criteri: i criteri di archiviazione e i criteri di eliminazione. Entrambi i tipi di criteri possono essere combinati nello stesso elemento o nella stessa cartella. Ad esempio, un utente può assegnare un tag a un messaggio di posta elettronica in modo che il messaggio venga automaticamente spostato dopo un dato numero di giorni ed eliminato dopo un ulteriore numero di giorni.
   
-Con Outlook 2010 o versioni successive e Outlook Web App, gli utenti possono applicare i criteri di conservazione alle cartelle, alle conversazioni o a messaggi specifici. Possono altresì visualizzare i criteri di conservazione applicati e le date di eliminazione previste per i messaggi. Gli utenti di altri client di posta elettronica possono solo eliminare o archiviare i propri messaggi di posta elettronica sulla base dei criteri di conservazione definiti dall'amministratore sul server.
+Con Outlook 2010 o versioni successive e Outlook sul Web, gli utenti possono applicare i criteri di conservazione alle cartelle, alle conversazioni o ai singoli messaggi. Possono altresì visualizzare i criteri di conservazione applicati e le date di eliminazione previste per i messaggi. Gli utenti di altri client di posta elettronica possono solo eliminare o archiviare i propri messaggi di posta elettronica sulla base dei criteri di conservazione definiti dall'amministratore sul server.
   
 I criteri di conservazione disponibili Exchange Online sono gli stessi disponibili in Exchange Server 2010 Service Pack 2 RU4. Gli amministratori possono utilizzare Windows PowerShell in remoto per migrare i criteri di conservazione dagli ambienti Exchange Server 2010 in locale o versioni successive a Exchange Online.
   
@@ -127,9 +128,9 @@ Inoltre, è possibile utilizzare l'archiviazione sul posto per:
   
 Per ulteriori informazioni, vedere [Conservazione in locale](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds).
   
-## <a name="in-place-ediscovery"></a>eDiscovery in locale
+## <a name="in-place-ediscovery"></a>eDiscovery sul posto
 
-Exchange Online consente ai clienti di effettuare ricerche nei contenuti delle cassette postali di un'organizzazione tramite un'interfaccia basata sul Web. Gli amministratori o i responsabili di conformità e protezione autorizzati a eseguire ricerche eDiscovery in locale (mediante assegnazione) possono effettuare ricerche nei messaggi di posta elettronica, negli allegati, negli appuntamenti sul calendario, nelle attività, nei contatti e in altri elementi. La ricerca eDiscovery in locale può essere eseguita simultaneamente negli archivi e nelle cassette postali primarie. Tra gli efficienti filtri disponibili ci sono quelli per mittente, destinatario, tipo di messaggio, data di invio/ricezione e Cc/Bcc, oltre a quelli per la sintassi KQL. I risultati della ricerca includono anche gli elementi contenuti nella cartella Posta eliminata, se soddisfano i criteri di ricerca specificati.
+Exchange Online consente ai clienti di eseguire ricerche nei contenuti delle cassette postali in un'organizzazione tramite un'interfaccia basata sul Web. Gli amministratori o i responsabili di conformità e protezione autorizzati a eseguire ricerche eDiscovery in locale (mediante assegnazione) possono effettuare ricerche nei messaggi di posta elettronica, negli allegati, negli appuntamenti sul calendario, nelle attività, nei contatti e in altri elementi. La ricerca eDiscovery in locale può essere eseguita simultaneamente negli archivi e nelle cassette postali primarie. Tra gli efficienti filtri disponibili ci sono quelli per mittente, destinatario, tipo di messaggio, data di invio/ricezione e Cc/Bcc, oltre a quelli per la sintassi KQL. I risultati della ricerca includono anche gli elementi contenuti nella cartella Posta eliminata, se soddisfano i criteri di ricerca specificati.
   
 I risultati delle ricerche eDiscovery in locale possono essere visualizzati in anteprima in un'interfaccia basata sul Web, esportati in un file PST oppure copiati in una particolare cassetta postale detta "cassetta postale di individuazione". Una cassetta postale di individuazione ha una quota di 50 GB per l'archiviazione dei risultati della ricerca. Gli amministratori possono connettere Outlook alla cassetta postale di individuazione per accedere ai risultati della ricerca ed esportarli come file .pst.
   
@@ -174,7 +175,7 @@ Per ulteriori informazioni sulle regole del flusso di posta, vedere [Mail flow r
   
 ## <a name="data-loss-prevention"></a>Prevenzione della perdita di dati
 
-La funzionalità di prevenzione della perdita dei dati consente di identificare, monitorare e proteggere le informazioni sensibili dell'organizzazione attraverso un'approfondita analisi dei contenuti. La prevenzione della perdita dei dati è una funzionalità avanzata che sta diventando sempre più importante per i sistemi di messaggistica aziendali, in quanto i messaggi di posta elettronica business-critical contengono informazioni sensibili che devono protette. La funzionalità di prevenzione della perdita dei dati in Exchange Online consente agli amministratori di proteggere i dati sensibili senza influire negativamente sulla produttività degli utenti.
+La funzionalità di prevenzione della perdita dei dati consente di identificare, monitorare e proteggere le informazioni sensibili dell'organizzazione attraverso un'approfondita analisi dei contenuti. La prevenzione della perdita dei dati è una funzionalità avanzata che sta diventando sempre più importante per i sistemi di messaggistica aziendali, in quanto i messaggi di posta elettronica business-critical contengono informazioni sensibili che devono protette. La funzionalità DLP in Exchange Online consente di proteggere i dati sensibili senza influire sulla produttività dei lavoratori.
   
 È possibile configurare i criteri DLP nell'interfaccia di gestione dell'interfaccia di amministrazione di Exchange per: 
   
@@ -190,7 +191,7 @@ La funzionalità di prevenzione della perdita dei dati consente di identificare,
     
 - I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale del documento facilita la creazione di tipi di informazione sensibili personalizzate basate su moduli di testo utilizzabili per definire le regole di trasporto e i criteri DLP.
     
-- Aggiungere dei suggerimenti relativi ai criteri che possono contribuire a ridurre la perdita di dati presentando un avviso agli utenti di Outlook 2016, Outlook 2013, Outlook Web App e OWA e a migliorare l'efficienza dei criteri applicati permettendo agli utenti di segnalare eventuali falsi positivi. 
+- Aggiungere suggerimenti per i criteri, che possono contribuire a ridurre la perdita di dati visualizzando un avviso per Outlook 2016, Outlook 2013, Outlook sul Web e OWA per i dispositivi degli utenti e può anche migliorare l'efficacia dei criteri consentendo la creazione di report falsi positivi. 
     
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
     

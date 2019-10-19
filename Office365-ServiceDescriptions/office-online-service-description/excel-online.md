@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442751"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595304"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -96,6 +96,10 @@ Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionar
 ## <a name="comment-creation"></a>Comment creation
 
 È possibile inserire, modificare ed eliminare i commenti in Excel per il Web. È inoltre possibile risolvere un thread di commento, che lo chiude in modifiche e nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+
+## <a name="convert-a-table-to-a-range"></a>Convertire una tabella in un intervallo
+
+Dopo aver creato una tabella di Excel, è possibile che si desideri solo lo stile della tabella senza la funzionalità tabella. Per interrompere l'utilizzo dei dati in una tabella senza perdere la formattazione dello stile di tabella applicata, è possibile convertire la tabella in un intervallo normale di dati del foglio di lavoro. Ulteriori informazioni su come [convertire una tabella di Excel in un intervallo di dati](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di 
  
 ## <a name="group-data"></a>Dati del gruppo
 
-È possibile raggruppare o delineare le righe e le colonne in Excel per il foglio di calcolo Web. Per ulteriori informazioni, vedere [raggruppamento di dati in Excel per il Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
+È possibile raggruppare o delineare le righe e le colonne in Excel per il foglio di calcolo Web. I tasti di scelta rapida consentono di espandere o comprimere rapidamente i gruppi creati. Per ulteriori informazioni, vedere [raggruppamento di dati in Excel per il Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 È possibile nascondere e visualizzare righe, colonne e fogli in una cartella di lavoro in Excel per il Web.
+
+## <a name="ideas"></a>Idee
+
+Le idee in Excel consentono di comprendere i dati tramite riassunti visivi di alto livello, tendenze e modelli. È sufficiente selezionare una cella in un intervallo di dati e quindi selezionare il pulsante **idee** nella scheda **Home** . le idee in Excel analizzeranno i dati e restituiranno elementi visivi interessanti su di esso in un riquadro attività. Per ulteriori informazioni, vedere [idee in Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -287,7 +295,7 @@ Visualizzare i filtri dei dati nel foglio di lavoro e filtrarli selezionando i p
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel per il Web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati, nonché esaminare i dettagli delle tabelle pivot. Per ulteriori informazioni [, vedere ordinamento e filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+In Excel per il Web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati (dall'alto verso il basso o da sinistra a destra) ed eseguire il drill-through nei dettagli delle tabelle pivot. Per ulteriori informazioni [, vedere ordinamento e filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Conformità e verifica dei fogli di calcolo
 

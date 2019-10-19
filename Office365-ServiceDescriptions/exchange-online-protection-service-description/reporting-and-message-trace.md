@@ -1,5 +1,5 @@
 ---
-title: Creazione di rapporti e traccia dei messaggi
+title: Creazione di report e traccia messaggio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b8afb8a404fb322d70ce5d393c5a5e70cc5af6aa
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442711"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581902"
 ---
-# <a name="reporting-and-message-trace"></a>Creazione di rapporti e traccia dei messaggi
+# <a name="reporting-and-message-trace"></a>Creazione di report e traccia messaggio
 
 Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
 
@@ -40,7 +40,7 @@ Non disponibili per gli utenti EOP autonomi. È possibile utilizzare il servizio
 
 ## <a name="message-trace"></a>Traccia dei messaggi
 
-La funzionalità di traccia dei messaggi in EAC permette a un amministratore di seguire l'iter dei messaggi di posta elettronica mentre attraversano EOP. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Mostra inoltre quali azioni sono state eseguite sul messaggio prima del raggiungimento dello stato finale. La disponibilità di informazioni dettagliate su un messaggio specifico consente di rispondere in modo efficiente alle domande dell'utente, risolvere i problemi relativi al flusso di posta, convalidare le modifiche apportate ai criteri e ridurre la necessità di contattare il supporto tecnico per assistenza. Per ulteriori informazioni, vedere [eseguire una traccia dei messaggi e visualizzare i risultati nell'](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results)interfaccia di amministrazione di Exchange.
+La funzionalità di traccia dei messaggi nell'interfaccia di amministrazione di Exchange consente, come amministratore, di seguire i messaggi di posta elettronica che passano attraverso il EOP. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Mostra inoltre quali azioni sono state eseguite sul messaggio prima del raggiungimento dello stato finale. La disponibilità di informazioni dettagliate su un messaggio specifico consente di rispondere in modo efficiente alle domande dell'utente, risolvere i problemi relativi al flusso di posta, convalidare le modifiche apportate ai criteri e ridurre la necessità di contattare il supporto tecnico per assistenza. Per ulteriori informazioni, vedere [eseguire una traccia dei messaggi e visualizzare i risultati nell'](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results)interfaccia di amministrazione di Exchange.
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

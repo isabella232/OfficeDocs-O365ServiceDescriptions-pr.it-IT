@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 2547b3dfa0379ca0b0ba28830e5c3d9cf499131b
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 936c610438ddb7589352380d6adc33e1fbe4aef1
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998538"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582142"
 ---
 # <a name="office-365-platform-service-description"></a>Descrizione dei servizi della piattaforma Office 365
 
@@ -188,7 +188,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Office 365 Advanced eDiscovery<sup>17</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Secure Score<sup>7</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Intelligence per le minacce  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
-|**[Conformità [descrizione del servizio]](compliance-servicedesc.md)** <br/> ||||||||
+|**[Conformità](compliance-servicedesc.md)** <br/> ||||||||
 |Valutazioni SAS 70 / SSAE16  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Certificato ISO 27001  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Clausole modello UE  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |

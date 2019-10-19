@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. . La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le descrizioni dei servizi di Office 365.
-ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05e2da6ede768120c0cde61eb28ca1deb7c2cbf5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442551"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582042"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -77,7 +77,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
    
 ||||
 |:-----|:-----|:-----|
-|[Criteri dei messaggi e conformità](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Criteri e conformità del messaggio](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Archiviazione di cassette postali di Exchange Online  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |
 |Tag e criteri di conservazione di Gestione record di messaggistica (MRM)  <br/> |Sì  <br/> |Sì  <br/> |
 |Crittografia dei dati inattivi (BitLocker)  <br/> |Sì  <br/> |Sì  <br/> |
@@ -97,7 +97,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |No  <br/> |No  <br/> |
 |Punteggio sicuro<sup>14</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |Intelligence per le minacce  <br/> |No  <br/> |No  <br/> |
-|[Conformità [descrizione del servizio]](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Conformità](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Valutazioni SAS 70 / SSAE16  <br/> |Sì  <br/> |Sì  <br/> |
 |Certificato ISO 27001  <br/> |Sì  <br/> |Sì  <br/> |
 |Clausole modello UE  <br/> |Sì  <br/> |Sì  <br/> |
@@ -117,7 +117,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità di gestione di identità e accesso nel cloud** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|**Funzionalità di gestione delle identità e degli accessi** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Autenticazione a più fattori di Azure (AMF)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Unità amministrative  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Individuazione di app per cloud  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
@@ -138,7 +138,7 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |Gestione delle applicazioni mobili di Intune per le app di Office e le app LOB<sup>17</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Gestione di Windows Update, protezione, criteri firewall<sup>15</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione dei dati: cancellazione selettiva  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Destinazione Gruppo di sicurezza per i criteri  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
+|Targeting del gruppo di sicurezza (SG) per i criteri  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Installazione delle app di Office su dispositivi Windows 10 registrati  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Configurazione di Windows Defender  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Distribuzione dei profili dispositivo e della configurazione di sicurezza<sup>15</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
@@ -150,10 +150,10 @@ Per visualizzare la disponibilità delle funzionalità nei piani di Office 365, 
 |**Funzionalità di gestione di Windows 10**: Microsoft 365 Business consente di gestire facilmente i dispositivi. Quando si configura il tenant di Microsoft 365 Business, si selezionano le impostazioni per la configurazione del dispositivo e la protezione delle app. Tali impostazioni definiscono i criteri che vengono applicati automaticamente ai dispositivi che accedono ad Azure Active Directory. Le funzionalità di gestione di Windows 10 Pro includono:  <br/>|**Microsoft 365 Business** <br/> |
 |Distribuzione semplificata con Windows AutoPilot  <br/> |Sì  <br/> |
 |Attivazione della sottoscrizione  <br/> |Sì  <br/> |
-|Controllo organizzativo dello schermo del dispositivo su inattivo  <br/> |Sì  <br/> |
-|Controllo organizzativo dell'accesso utente alle app da Microsoft Store  <br/> |Sì  <br/> |
+|Controllo dell'organizzazione dello schermo del dispositivo sul minimo  <br/> |Sì  <br/> |
+|Controllo organizzativo dell'accesso degli utenti alle app da Microsoft Store  <br/> |Sì  <br/> |
 |Controllo organizzativo dell'accesso utente a Cortana  <br/> |Sì  <br/> |
-|Controllo organizzativo dei suggerimenti di Windows e delle pubblicità provenienti da Microsoft  <br/> |Sì  <br/> |
+|Controllo organizzativo di suggerimenti e pubblicità di Windows da Microsoft  <br/> |Sì  <br/> |
 |Aggiornamento automatico dei dispositivi Windows 10  <br/> |Sì  <br/> |
 |**Funzionalità di sicurezza di Windows 10** <br/> |**Microsoft 365 Business** <br/> |
 |Proteggere i PC da virus e altre minacce tramite Windows Defender Antivirus  <br/> |Sì  <br/> |

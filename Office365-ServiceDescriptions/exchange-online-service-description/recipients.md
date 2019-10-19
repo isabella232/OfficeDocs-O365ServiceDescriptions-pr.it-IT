@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
-ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442621"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582132"
 ---
 # <a name="recipients"></a>Destinatari
 
@@ -42,7 +42,7 @@ Gli avvisi messaggio sono messaggi informativi automatizzati che vengono visuali
   
 ### <a name="delegate-access"></a>Accesso delegato
 
-Exchange Online supporta l'accesso delegato, ovvero la possibilità per gli utenti di delegare ad altri la gestione della propria posta elettronica e dei calendari. L'accesso delegato è in genere utilizzato tra manager e assistente, quando l'assistente si occupa dei messaggi di posta elettronica in arrivo del manager e ne coordina l'agenda. Gli utenti Exchange Online possono abilitare l'accesso delegato in Outlook o Outlook Web App oppure dagli amministratori nell'interfaccia di amministrazione di Exchange. 
+Exchange Online supporta l'accesso delegato, ovvero la possibilità per gli utenti di delegare ad altri la gestione della propria posta elettronica e dei calendari. L'accesso delegato è in genere utilizzato tra manager e assistente, quando l'assistente si occupa dei messaggi di posta elettronica in arrivo del manager e ne coordina l'agenda. L'accesso delegato può essere abilitato dagli utenti di Exchange online in Outlook o Outlook sul Web o dagli amministratori nell'interfaccia di amministrazione di Exchange. 
   
 Per i delegati sono disponibili due tipi di accesso:
   
@@ -54,7 +54,7 @@ Per ulteriori informazioni su come concedere la delega di accesso, vedere [Gesti
   
 ### <a name="inbox-rules"></a>Regole di Posta in arrivo
 
-Exchange Online consente agli utenti di creare regole di posta in arrivo che eseguono automaticamente azioni specifiche basate su criteri sui messaggi in arrivo. Ad esempio, è possibile creare una regola per spostare automaticamente tutta la posta in una cartella specifica se la posta è stata inviata a un determinato gruppo di distribuzione. Gli utenti possono gestire le regole in Outlook o Outlook Web App. Gli amministratori possono bloccare determinati tipi di regole di posta in arrivo disabilitando l'inoltro e/o le risposte automatiche sul lato server. Ad esempio, disabilitando l'inoltro della posta elettronica sul lato server si impedisce agli utenti l'inoltro automatico dei messaggi di posta elettronica agli account personali. In modo analogo, disabilitando le risposte automatiche sul lato server si impedisce agli utenti esterni di utilizzare tali risposte allo scopo di identificare indirizzi di posta elettronica validi. Tali modifiche vengono effettuate tramite Windows PowerShell remoto.
+Exchange Online consente agli utenti di creare regole di posta in arrivo che eseguono automaticamente azioni specifiche basate su criteri sui messaggi in arrivo. Ad esempio, è possibile creare una regola per spostare automaticamente tutta la posta in una cartella specifica se la posta è stata inviata a un determinato gruppo di distribuzione. Gli utenti gestiscono le regole di posta in arrivo da Outlook o Outlook sul Web. Gli amministratori possono bloccare determinati tipi di regole di posta in arrivo disabilitando l'inoltro e/o le risposte automatiche sul lato server. Ad esempio, disabilitando l'inoltro della posta elettronica sul lato server si impedisce agli utenti l'inoltro automatico dei messaggi di posta elettronica agli account personali. In modo analogo, disabilitando le risposte automatiche sul lato server si impedisce agli utenti esterni di utilizzare tali risposte allo scopo di identificare indirizzi di posta elettronica validi. Tali modifiche vengono effettuate tramite Windows PowerShell remoto.
   
 ### <a name="clutter"></a>Messaggi secondari
 
@@ -62,7 +62,7 @@ Messaggi secondari consente di concentrarsi sui messaggi più importanti nella p
   
 ### <a name="connected-accounts"></a>Account connessi
 
-La funzionalità Account connessi consente agli utenti di Exchange Online di connettere account di posta elettronica esterni (ad esempio, account personali) ai propri account in Exchange Online, quindi di utilizzare Outlook Web App per la gestione di tutti i messaggi in una sola sede. Gli account connessi vengono sincronizzati automaticamente all'accesso in Outlook Web App; gli utenti possono anche sincronizzare manualmente gli account da Outlook Web App. Gli amministratori possono abilitare e disabilitare questa funzionalità per determinati utenti o per tutti gli utenti nell'[Interfaccia di amministrazione di Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
+La funzionalità account connessi consente agli utenti di Exchange Online di connettere gli account di posta elettronica esterni (ad esempio gli account personali) ai propri account di posta elettronica interni in Exchange Online e quindi di utilizzare Outlook sul Web per interagire con tutti i messaggi in un'unica posizione. Gli account connessi vengono sincronizzati automaticamente al momento dell'accesso a Outlook sul Web. Gli utenti possono anche sincronizzare manualmente gli account da Outlook sul Web. Gli amministratori possono abilitare e disabilitare questa funzionalità per determinati utenti o per tutti gli utenti nell'[Interfaccia di amministrazione di Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
   
 ### <a name="inactive-mailboxes"></a>Cassette postali inattive
 
@@ -75,7 +75,7 @@ L'abilitazione di una cassetta postale inattiva prevede che alla cassetta venga 
   
 Per ulteriori informazioni, vedere:
   
-- [Gestione delle cassette postali inattive in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286991)
+- [Gestire le cassette postali inattive in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286991)
     
 - [Conservazione in locale e per controversia legale](https://go.microsoft.com/fwlink/p/?LinkId=271746)
     
@@ -85,15 +85,15 @@ Per ulteriori informazioni, vedere:
 
 ### <a name="offline-address-book"></a>Rubrica offline
 
-La funzionalità Rubrica offline fornisce uno snapshot delle informazioni su Active Directory disponibili nell'Elenco indirizzi globale di Outlook. Lo snapshot è memorizzato nella cache locale in Outlook per essere disponibile quando l'utente lavora fuori rete.
+La caratteristica Rubrica fuori rete fornisce un'istantanea delle informazioni di Active Directory disponibili nell'elenco indirizzi globale (GAL) di Outlook. Lo snapshot è memorizzato nella cache locale in Outlook per essere disponibile quando l'utente lavora fuori rete.
   
-### <a name="address-book-policies"></a>Criteri della rubrica
+### <a name="address-book-policies"></a>Criteri delle rubriche
 
-Exchange Online supporta i criteri della rubrica. I criteri della rubrica consentono di suddividere gli utenti in gruppi specifici per fornire viste personalizzate dell'Elenco indirizzi globale dell'organizzazione. Quando si crea un criterio delle rubriche, si assegna un Elenco indirizzi globale, una Rubrica offline, un elenco di sale e uno o più elenchi indirizzi al criterio. È quindi possibile assegnare il criterio delle rubriche agli utenti delle cassette postali, per consentire l'accesso a un Elenco indirizzi globale personalizzato in Outlook e Outlook Web App. Gli amministratori possono configurare questi criteri utilizzando Windows PowerShell Remote. Per ulteriori informazioni sui criteri della rubrica, vedere [Rubriche in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
+Exchange Online supporta i criteri della Rubrica. I criteri della rubrica consentono di suddividere gli utenti in gruppi specifici per fornire viste personalizzate dell'Elenco indirizzi globale dell'organizzazione. Quando si crea un criterio delle rubriche, si assegna un Elenco indirizzi globale, una Rubrica offline, un elenco di sale e uno o più elenchi indirizzi al criterio. È quindi possibile assegnare il criterio rubrica agli utenti delle cassette postali, fornendo loro l'accesso a un elenco indirizzi globale personalizzato in Outlook e Outlook sul Web. Gli amministratori possono configurare questi criteri utilizzando Windows PowerShell Remote. Per ulteriori informazioni sui criteri della rubrica, vedere [Rubriche in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
   
-### <a name="address-lists"></a>Elenchi indirizzi
+### <a name="address-lists"></a>Elenchi di indirizzi
 
-Exchange Online supporta la personalizzazione degli elenchi di indirizzi e dell'elenco indirizzi globale, una directory a livello di organizzazione di tutti gli utenti abilitati alla posta, gruppi di distribuzione e contatti esterni. Gli amministratori possono nascondere utenti, gruppi di distribuzione e contatti nell'elenco indirizzi globale utilizzando lo strumento di sincronizzazione della directory o Windows PowerShell remoto.
+Exchange Online supporta la personalizzazione di elenchi indirizzi e GAL. Un elenco indirizzi globale è una directory a livello di organizzazione di tutti gli utenti abilitati alla posta elettronica, i gruppi di distribuzione e i contatti esterni. Gli amministratori possono nascondere utenti, gruppi di distribuzione e contatti dall'elenco indirizzi globale utilizzando lo strumento di sincronizzazione della directory o Windows PowerShell remoto.
   
 ### <a name="hierarchical-address-books"></a>Rubriche gerarchiche
 
@@ -127,21 +127,21 @@ Per ulteriori informazioni sui contatti esterni, vedere [Creazione di una relazi
 
 ### <a name="resource-mailboxes"></a>Cassette postali per la risorsa
 
-Le cassette postali per le risorse (ad esempio per sale runioni e attrezzature) rappresentano le sale riunioni oppure altre strutture o risorse di una società. Gli utenti possono prenotare sale o risorse aggiungendo l'alias di posta elettronica della risorsa alle convocazioni di riunioni in Outlook o Outlook Web App. Le sale riunioni o le risorse sono visualizzate nell'elenco indirizzi globale in Outlook e Outlook Web App.
+Le cassette postali per le risorse (ad esempio per sale runioni e attrezzature) rappresentano le sale riunioni oppure altre strutture o risorse di una società. Gli utenti possono prenotare sale o risorse aggiungendo l'alias di posta elettronica della risorsa alle convocazioni di riunione in Outlook o Outlook sul Web. Le sale riunioni e le risorse vengono visualizzate nell'elenco indirizzi globale in Outlook e Outlook sul Web.
   
 Gli amministratori creano cassette postali delle risorse utilizzando l'interfaccia di amministrazione di Exchange o Windows PowerShell Remote. Le cassette postali possono anche essere sincronizzate con Exchange Online da Active Directory locale.
   
 Per ulteriori informazioni sulle cassette postali per le risorse, vedere:
   
-- [Creare e gestire cassette postali sala](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [Creazione e gestione delle cassette sala](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
-- [Gestire le cassette postali attrezzatura](https://go.microsoft.com/fwlink/?LinkId=717534)
+- [Gestire le cassette postali dell’attrezzatura](https://go.microsoft.com/fwlink/?LinkId=717534)
     
 ### <a name="conference-room-management"></a>Gestione delle sale riunioni
 
 In Exchange Online è disponibile l'Operatore Prenotazione risorse (RBA, Resource Booking Attendant), che automatizza la pianificazione delle sale riunioni e di altre risorse. Una cassetta postale per la risorsa configurata per Operatore Prenotazione risorse accetta, rifiuta o conferma le convocazioni di riunioni nell'organizzatore della riunione basato sulla disponibilità del calendario della risorsa. 
   
-Gli amministratori possono personalizzare le risposte automatiche alle richieste per sale riunioni e configurare criteri di prenotazione in Outlook Web App. Nei criteri sono inclusi l'autore della programmazione, l'ora e il giorno della programmazione, le informazioni sulla riunione visibili nel calendario della risorsa e la percentuale di conflitti di programmazione consentiti. Gli amministratori possono disabilitare Operatore Prenotazione risorse e assegnare a utenti specifici la gestione manuale delle convocazioni di riunioni.
+Gli amministratori possono personalizzare le risposte alle sale riunioni automatizzate e configurare i criteri di prenotazione in Outlook sul Web. Nei criteri sono inclusi l'autore della programmazione, l'ora e il giorno della programmazione, le informazioni sulla riunione visibili nel calendario della risorsa e la percentuale di conflitti di programmazione consentiti. Gli amministratori possono disabilitare Operatore Prenotazione risorse e assegnare a utenti specifici la gestione manuale delle convocazioni di riunioni.
   
 Gli amministratori devono definire e gestire le impostazioni RBA mediante Windows PowerShell remoto.
   
@@ -153,9 +153,9 @@ I messaggi Fuori sede sono risposte automatiche ai messaggi in arrivo inviati da
 
 Gli utenti possono condividere il calendario personale in uno dei due modi seguenti:
   
-- **Condivisione calendario federata** La federazione fa riferimento all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo semplice per gli utenti di Exchange per condividere le informazioni relative al calendario e ai contatti con i destinatari in altre organizzazioni esterne federate. Sono incluse le organizzazioni di Exchange Online oppure organizzazioni di Exchange Server 2010 o Exchange Server 2013 locali. Gli amministratori di Exchange Online non dovranno impostare una relazione di trust con Microsoft Federation Gateway, in quanto la relazione viene preconfigurata per tutti gli utenti di Exchange Online al momento della creazione del servizio tenant Office 365. Un criterio di condivisione predefinito consente agli utenti di inviare inviti per la condivisione dei calendari in Outlook Web App o Outlook 2010. In Windows PowerShell remoto, gli amministratori possono disabilitare il criterio o configurare il livello dei dati del calendario relativi alla disponibilità che gli utenti possono condividere. Possono inoltre creare una relazione tra organizzazioni con un'altra organizzazione federata, che consente la visibilità tra le organizzazioni del livello desiderato di informazioni sulla disponibilità per ogni utente senza alcun invito alla condivisione da parte dei singoli utenti. Nell'ambito dei criteri di condivisione definiti dagli amministratori e/o delle relazioni tra organizzazioni, gli utenti possono definire individualmente i dettagli delle future condivisioni. 
+- **Condivisione calendario federata** La federazione fa riferimento all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo semplice per gli utenti di Exchange per condividere le informazioni relative al calendario e ai contatti con i destinatari in altre organizzazioni esterne federate. Sono incluse le organizzazioni di Exchange Online oppure organizzazioni di Exchange Server 2010 o Exchange Server 2013 locali. Gli amministratori di Exchange Online non dovranno impostare una relazione di trust con Microsoft Federation Gateway, in quanto la relazione viene preconfigurata per tutti gli utenti di Exchange Online al momento della creazione del servizio tenant Office 365. Un criterio di condivisione predefinito consente agli utenti di inviare inviti alla condivisione del calendario da Outlook sul Web o Outlook 2010. In Windows PowerShell remoto, gli amministratori possono disabilitare il criterio o configurare il livello dei dati del calendario relativi alla disponibilità che gli utenti possono condividere. Possono inoltre creare una relazione tra organizzazioni con un'altra organizzazione federata, che consente la visibilità tra le organizzazioni del livello desiderato di informazioni sulla disponibilità per ogni utente senza alcun invito alla condivisione da parte dei singoli utenti. Nell'ambito dei criteri di condivisione definiti dagli amministratori e/o delle relazioni tra organizzazioni, gli utenti possono definire individualmente i dettagli delle future condivisioni. 
     
-- **Condivisione calendario su Internet** In Exchange Online gli utenti possono pubblicare i propri calendari utilizzando il formato iCal per l'accesso anonimo di tutti gli utenti, internamente o esternamente all'organizzazione. I destinatari possono utilizzare Exchange, una piattaforma diversa o semplicemente un browser Web. Gli utenti di Exchange Online possono anche abbonarsi ai calendari pubblicati da altre persone in posizioni Internet tramite iCal. La condivisione dei calendari personali è diversa dalla condivisione dei calendari federata, che viene configurata da un amministratore e offre condivisione della disponibilità tra organizazioni. I dati del calendario in formato iCal non potranno essere pubblicati dagli utenti se l'amministratore non ha impostato e applicato un criterio di condivisione che lo consenta. Gli amministratori possono disabilitare la pubblicazione e le sottoscrizioni iCal per gli utenti di un'organizzazione utilizzando Windows PowerShell remoto. 
+- **Condivisione calendario su Internet** In Exchange Online gli utenti possono pubblicare i propri calendari utilizzando il formato iCal per l'accesso anonimo di tutti gli utenti, internamente o esternamente all'organizzazione. I destinatari possono utilizzare Exchange, una piattaforma diversa o semplicemente un browser Web. Gli utenti di Exchange Online possono anche abbonarsi ai calendari pubblicati da altre persone in posizioni Internet tramite iCal. La condivisione dei calendari personali è diversa dalla condivisione dei calendari federata, che viene configurata da un amministratore e offre condivisione della disponibilità tra organizazioni. Nessun utente può pubblicare dati del calendario in formato iCal finché l'amministratore non ha impostato e applicato un criterio di condivisione che lo consenta. Gli amministratori possono disabilitare la pubblicazione e le sottoscrizioni iCal per gli utenti di un'organizzazione utilizzando Windows PowerShell remoto.
     
 Per ulteriori informazioni sulla condivisione federata, vedere [Condivisione in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -171,4 +171,3 @@ Exchange Online supporta la funzionalità Ricerca sala di Outlook 2010, che cons
 
 Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   
-

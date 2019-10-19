@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Archiviazione Microsoft Exchange Online è una soluzione di archiviazione di livello aziendale basata su cloud di Microsoft Office 365 per le organizzazioni che hanno distribuito Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e versioni successive) oppure abbonarsi a determinati piani di Exchange Online o Office 365. Archiviazione Exchange Online agevola le attività correlate ad archiviazione, conformità, regolamentazione ed eDiscovery e al tempo stesso semplifica l'infrastruttura locale riducendo i costi e il carico per l'IT.
-ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
-ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
+ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672580"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581862"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrizione del servizio Archiviazione Exchange Online
 
@@ -79,17 +79,17 @@ Ogni utente che accede al servizio Archiviazione Exchange Online deve disporre d
 ||||
 |:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Archiviazione Exchange Online per Exchange Server<sup>1</sup>**          <br/> |**Archiviazione Exchange Online per Exchange Online<sup>2</sup>** <br/> |
-|**[Funzionalità di archiviazione di Archiviazione Exchange Online](archive-features.md)** <br/> |||
+|**[Funzionalità di archiviazione in Exchange Online Archiving](archive-features.md)** <br/> |||
 |Cassetta postale di archiviazione  <br/> |Sì  <br/> |Sì  <br/> |
 |Spostare i messaggi utilizzando i criteri di archiviazione  <br/> |Sì  <br/> |Sì  <br/> |
 |Importazione di dati nell'archivio  <br/> |Sì  <br/> |Sì  <br/> |
 |Recupero di elementi eliminati  <br/> |Sì  <br/> |Sì  <br/> |
 |Recupero di cassette postali eliminate  <br/> |Sì  <br/> |Sì  <br/> |
 |Backup di cassetti postali  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Funzionalità client in Archiviazione Exchange Online](client-features.md)** <br/> |||
+|**[Funzionalità client in archiviazione Exchange Online](client-features.md)** <br/> |||
 |Outlook<sup>3</sup> <br/> |Sì  <br/> |Sì  <br/> |
-|Outlook Web App  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Funzionalità di conformità e sicurezza in Archiviazione Exchange Online](compliance-and-security-features.md)** <br/> |||
+|Outlook sul web  <br/> |Sì  <br/> |Sì  <br/> |
+|**[Funzionalità di conformità e sicurezza in archiviazione Exchange Online](compliance-and-security-features.md)** <br/> |||
 |Criteri di conservazione  <br/> |Sì  <br/> |Sì  <br/> |
 |Archiviazione sul posto e conservazione per controversia legale<sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |eDiscovery sul posto  <br/> |Sì  <br/> |Sì  <br/> |
@@ -104,7 +104,7 @@ Ogni utente che accede al servizio Archiviazione Exchange Online deve disporre d
 <sup>1</sup> Le cassette postali degli utenti devono trovarsi in Exchange 2010 SP2 o versione successiva.
 <br/>
 <sup>2</sup> un archivio sul posto può essere utilizzato solo per archiviare la posta per un singolo utente o un'entità per la quale è stata applicata una licenza. Non è consentito utilizzare un'Archiviazione sul posto come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, gli amministratori IT non possono creare cassette postali condivise e lasciare che gli utenti copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) una cassetta postale condivisa con l'esplicito scopo di archiviarla. <br/> 
-<sup>3</sup> Per un elenco delle versioni di Microsoft Outlook supportate, vedere [Funzionalità client in Archiviazione Exchange Online](client-features.md). <br/>
+<sup>3</sup> per un elenco delle versioni di Microsoft Outlook supportate, vedere [funzionalità client in archiviazione Exchange Online](client-features.md). <br/>
 <sup>4</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità Protezione delle informazioni di Azure richiedono una sottoscrizione a Office 365 ProPlus che non è inclusa in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1. <br/>
 <sup>5</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate. <br/>
 <sup>6</sup> Quando imposta una cassetta postale sull'archiviazione sul posto o sul blocco per controversia legale, la conservazione interessa sia la cassetta postale primaria che quella di archiviazione. 

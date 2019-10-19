@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
-ms.openlocfilehash: af611b7124c85866bad5bec74f853d70f721e5ae
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334126"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581872"
 ---
 # <a name="messaging-policy-and-compliance"></a>Criteri di messaggistica e conformità
 
@@ -35,7 +35,7 @@ La registrazione di controllo consente di tracciare modifiche specifiche apporta
 
 ## <a name="data-loss-prevention-dlp"></a>Prevenzione della perdita di dati (DLP)
 
-Non disponibili per gli utenti EOP autonomi. Prevenzione della perdita di dati (DLP) aiuta a identificare, monitorare e proteggere i dati sensibili dell'organizzazione attraverso un'analisi approfondita del contenuto. La prevenzione della perdita dei dati è una funzionalità avanzata che sta diventando sempre più importante per i sistemi di messaggistica aziendali, in quanto i messaggi di posta elettronica business-critical contengono informazioni sensibili che devono protette. La funzionalità di prevenzione della perdita dei dati consente agli amministratori di proteggere i dati sensibili senza influire negativamente sulla produttività degli utenti.
+Non disponibili per gli utenti EOP autonomi. Prevenzione della perdita di dati (DLP) aiuta a identificare, monitorare e proteggere i dati sensibili dell'organizzazione attraverso un'analisi approfondita del contenuto. La prevenzione della perdita dei dati è una funzionalità avanzata che sta diventando sempre più importante per i sistemi di messaggistica aziendali, in quanto i messaggi di posta elettronica business-critical contengono informazioni sensibili che devono protette. La funzionalità DLP consente di proteggere i dati sensibili senza influire sulla produttività dei lavoratori.
 
 È possibile configurare criteri DLP nell'interfaccia di amministrazione di Exchange, per:
 
@@ -51,7 +51,7 @@ Non disponibili per gli utenti EOP autonomi. Prevenzione della perdita di dati (
 
 - I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale dei documenti consente di creare facilmente tipi di informazioni riservate personalizzate in base ai moduli basati su testo che è possibile utilizzare per definire le regole del flusso di posta e i criteri DLP.
 
-- Aggiungere dei suggerimenti relativi ai criteri che possono contribuire a ridurre la perdita di dati presentando un avviso agli utenti di Outlook 2013, Outlook Web App e OWA e a migliorare l'efficienza dei criteri applicati permettendo agli utenti di segnalare eventuali falsi positivi.
+- Aggiungere suggerimenti per i criteri, che possono contribuire a ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2013, Outlook sul Web e OWA per i dispositivi e può anche migliorare l'efficacia dei criteri consentendo la creazione di report falsi positivi.
 
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
 

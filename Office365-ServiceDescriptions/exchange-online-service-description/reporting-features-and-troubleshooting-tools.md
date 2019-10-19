@@ -1,5 +1,5 @@
 ---
-title: Funzionalità di reporting e risoluzione dei problemi
+title: Funzionalità di Reporting e strumenti di risoluzione dei problemi
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre una vasta gamma di funzionalità di Reporting sia all'interno che all'esterno dell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442641"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581992"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di reporting e risoluzione dei problemi
+# <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di Reporting e strumenti di risoluzione dei problemi
 
 Microsoft Exchange Online offre una vasta gamma di funzionalità di Reporting sia all'interno che all'esterno dell'interfaccia di amministrazione di Exchange (EAC).
   
@@ -49,7 +49,7 @@ Nell'interfaccia di amministrazione di Exchange sono disponibili le seguenti fun
   
 ### <a name="trace-an-email-message"></a>Traccia di un messaggio di posta elettronica
 
-La funzionalità di traccia dei messaggi permette a un amministratore di seguire l'iter dei messaggi di posta elettronica mentre attraversano il servizio Exchange Online. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Ciò consente all'amministratore di rispondere in modo preciso alle domande dei propri utenti e di risolvere i problemi del flusso di posta elettronica, riducendo la necessità di rivolgersi al supporto tecnico per assistenza.
+La funzionalità di traccia dei messaggi consente, come amministratore, di seguire i messaggi di posta elettronica che passano attraverso il servizio Exchange Online. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Ciò consente all'amministratore di rispondere in modo preciso alle domande dei propri utenti e di risolvere i problemi del flusso di posta elettronica, riducendo la necessità di rivolgersi al supporto tecnico per assistenza.
   
 > [!IMPORTANT]
 > Per la risoluzione di problemi generici, utilizzare gli strumenti di reporting per ottenere i dati necessari. Per problemi più specifici, per i quali è necessario avere i dettagli relativi a un determinato messaggio, utilizzare lo strumento di traccia dei messaggi. 

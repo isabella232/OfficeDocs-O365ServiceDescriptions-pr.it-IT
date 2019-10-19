@@ -11,24 +11,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776797"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581832"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilità, connettività e compatibilità
 
 ## <a name="interoperability-with-other-microsoft-products"></a>Interoperabilità con altri prodotti Microsoft
 
-### <a name="skype-for-business-online"></a>Skype for Business online
+### <a name="skype-for-business-online"></a>Skype for Business Online
 
 Per gli utenti che hanno distribuito Microsoft Lync Server 2010, Lync Server 2013 o Microsoft Office Communications Server 2007 R2 locale, Microsoft Office Communicator può stabilire una connessione a Microsoft Exchange Online utilizzando i Servizi Web Exchange per accedere ai messaggi Fuori sede e ai dati del calendario.
   
 Lync Server 2010 e Lync Server 2013 locale possono interagire con Exchange Online in due ulteriori modalità:
   
-- Messaggistica istantanea e interoperabilità con la presenza in Outlook Web App
+- Interoperabilità della messaggistica istantanea e della presenza in Outlook sul Web
     
 - Interoperabilità posta vocale
     
@@ -50,7 +50,7 @@ Exchange Online offre le seguenti funzionalità per il collegamento alle applica
     
 ### <a name="exchange-web-services"></a>Servizi Web Exchange
 
-Servizi Web Exchange (EWS) è l'API di sviluppo consigliata per Exchange Server ed Exchange Online. Utilizzando Servizi Web Exchange o Exchange Web Services Managed API, gli amministratori possono accedere ai dati archiviati con Exchange Online dalle applicazioni eseguite in locale, in Azure o in altri servizi ospitati. Servizi Web Exchange consente agli amministratori di eseguire azioni specializzate come l'esecuzione di query sul contenuto di una cassetta postale, l'inserimento di eventi del calendario, la creazione di attività o l'attivazione di un'azione specifica in base al contenuto di un messaggio di posta elettronica. Exchange Online abilita la funzionalità EWS concedendo autorizzazioni per le applicazioni agli account dei clienti. Tali autorizzazioni consentono all'applicazione del cliente di accedere alla cassetta postale dell'applicazione e aggiungere contenuto. Exchange Impersonation è un metodo utilizzato per concedere autorizzazioni per le applicazioni. Per ulteriori informazioni sull'utilizzo dei Servizi Web Exchange con Exchange Online, vedere gli articoli tecnici in Exchange Online Developer Center.
+Servizi Web Exchange (EWS) è l'API di sviluppo consigliata per Exchange Server ed Exchange Online. Utilizzando Servizi Web Exchange o Exchange Web Services Managed API, gli amministratori possono accedere ai dati archiviati con Exchange Online dalle applicazioni eseguite in locale, in Azure o in altri servizi ospitati. EWS consente agli amministratori di eseguire azioni specializzate, ad esempio l'esecuzione di query sui contenuti di una cassetta postale, la registrazione di un evento del calendario, la creazione di un'attività o l'attivazione di un'azione specifica in base al contenuto di un messaggio di posta elettronica. Exchange Online abilita la funzionalità EWS concedendo autorizzazioni per le applicazioni agli account dei clienti. Tali autorizzazioni consentono all'applicazione del cliente di accedere alla cassetta postale dell'applicazione e aggiungere contenuto. Exchange Impersonation è un metodo utilizzato per concedere autorizzazioni per le applicazioni. Per ulteriori informazioni sull'utilizzo dei Servizi Web Exchange con Exchange Online, vedere gli articoli tecnici in Exchange Online Developer Center.
   
 ### <a name="smtp-relay"></a>Relay SMTP
 

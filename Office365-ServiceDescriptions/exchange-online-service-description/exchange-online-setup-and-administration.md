@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: In questa sezione vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
-ms.openlocfilehash: ba7d1aa31aba19f43d3318687daf76f50f60d08f
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+description: In questo articolo vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
+ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442631"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581982"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Installazione e amministrazione di Exchange Online
 
-In questa sezione vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
+In questo articolo vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
   
 ## <a name="self-service-administration-tools"></a>Strumenti di amministrazione self-service
 
@@ -104,4 +104,3 @@ Quando Microsoft rilascia una nuova versione di Exchange, i clienti hanno tempo 
 
 Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   
-

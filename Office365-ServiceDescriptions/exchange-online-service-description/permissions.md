@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utilizza un modello di controllo dell'accesso basato sui ruoli per consentire agli amministratori dell'organizzazione di controllare capillarmente ciò che gli utenti e i dipendenti IT possono fare nell'ambito del servizio. A esempio, se un funzionario addetto alla conformità è responsabile per le richieste di ricerca nelle cassette postali, l'amministratore può delegare la propria funzionalità amministrativa a questo funzionario tramite il controllo dell'accesso basato sui ruoli. Exchange Online utilizza la stessa struttura di controllo dell'accesso basato sui ruoli di Microsoft Exchange Server 2013.
-ms.openlocfilehash: 49d388e08b606fab5df0fc23435aef37d1029050
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776847"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581952"
 ---
 # <a name="permissions"></a>Autorizzazioni
 
@@ -35,7 +35,7 @@ Esistono due tipi di ruoli, ruoli amministrativi e ruoli dell'utente finale:
   
 - **Ruoli amministrativi** Tali ruoli contengono le autorizzazioni che possono essere assegnate agli amministratori o a utenti esperti che utilizzano i gruppi di ruoli che si occupano della gestione di una parte dell'organizzazione Exchange Online, ad esempio destinatari, server o database. 
     
-- **Ruoli dell'utente finale** Tali ruoli, assegnati mediante i criteri di assegnazione, consentono agli utenti di gestire vari aspetti delle proprie cassette postali e dei gruppi di distribuzione di cui sono proprietari. I ruoli dell'utente finale iniziano con il prefisso  `My`.
+- **Ruoli dell'utente finale** Questi ruoli, assegnati mediante i criteri di assegnazione dei ruoli, consentono agli utenti di gestire le proprie cassette postali e i gruppi di distribuzione di cui sono proprietari. I ruoli dell'utente finale iniziano con il prefisso  `My`.
     
 I ruoli definiscono le autorizzazioni che consentono ad amministratori e utenti di eseguire le attività rendendo disponibili i cmdlet per coloro ai quali sono stati assegnati quei ruoli. Poiché nell'interfaccia di amministrazione di Exchange e in Exchange Management Shell vengono utilizzati i cmdlet per gestire Exchange Online, la concessione dell'accesso a un cmdlet consente all'amministratore o all'utente di eseguire l'attività in ogni singola interfaccia di gestione di Exchange Online.
   
@@ -48,7 +48,7 @@ Per ulteriori informazioni sulle autorizzazioni in Exchange Online, vedere [Auto
   
 ## <a name="role-groups"></a>Gruppi di ruoli
 
-I gruppi di ruoli di gestione associano i ruoli di gestione a un gruppo di amministratori o utenti esperti. Gli amministratori gestiscono una configurazione del destinatario o dell'organizzazione di Exchange Online su vasta scala. Gli utenti specialisti gestiscono funzionalità specifiche di Exchange Online, come, ad esempio, la conformità, oppure possono avere capacità di gestione limitate, ad esempio, come membri dell'assistenza tecnica, ma senza autorizzazioni di gestione troppo ampie. I gruppi di ruoli in genere associano ruoli di gestione amministrativi che consentono agli amministratori e agli utenti esperti di gestire la configurazione dell'organizzazione e i destinatari. Ad esempio, la possibilità per gli amministratori di gestire i destinatari o di utilizzare le funzionalità di individuazione delle cassette postali viene controllata per mezzo dei gruppi di ruolo. 
+I gruppi di ruoli di gestione associano i ruoli di gestione a un gruppo di amministratori o utenti esperti. Gli amministratori gestiscono una configurazione del destinatario o dell'organizzazione di Exchange Online su vasta scala. Gli utenti specialisti gestiscono funzionalità specifiche di Exchange Online, come, ad esempio, la conformità, oppure possono avere capacità di gestione limitate, ad esempio, come membri dell'assistenza tecnica, ma senza autorizzazioni di gestione troppo ampie. I gruppi di ruoli in genere associano i ruoli di gestione amministrativa che consentono agli amministratori e agli utenti esperti di gestire la configurazione dell'organizzazione e dei destinatari. Ad esempio, la possibilità per gli amministratori di gestire i destinatari o di utilizzare le funzionalità di individuazione delle cassette postali viene controllata per mezzo dei gruppi di ruolo. 
   
 > [!IMPORTANT]
 > Alcuni dei gruppi di ruolo disponibili nella versione locale di Microsoft Exchange Server 2013 potrebbero non essere disponibili in Exchange Online. 

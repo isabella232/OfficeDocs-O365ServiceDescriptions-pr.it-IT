@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per i servizi a livello di tenant di Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035132"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582032"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Guida alla gestione delle licenze di servizi a livello di Microsoft 365
 
@@ -45,7 +45,7 @@ Per impostazione predefinita, le funzionalità di AADIP sono abilitate a livello
 
 Gli amministratori possono assegnare un ambito AADIP assegnando criteri di rischio che definiscono il livello per la reimpostazione delle password e che consentono l'accesso solo per gli utenti con licenza. Per istruzioni su come ambito delle distribuzioni di AADIP, vedere [Configure the Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="azure-advanced-threat-protection"></a>Protezione avanzata dalle minacce di Azure
+## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
 Azure Advanced Threat Protection (ATP) è un servizio cloud che consente di proteggere gli ambienti ibridi aziendali da più tipi di attacchi informatici e minacce privilegiate avanzate.
 
@@ -80,6 +80,7 @@ La funzionalità di scansione AIP consente di classificare, contrassegnare e pro
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
 Per impostazione predefinita, le funzionalità AIP sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione dei criteri di AIP per gli utenti con licenza, vedere [attivazione di Azure Rights Management](https://docs.microsoft.com/azure/information-protection/activate-service).
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 I criteri di funzionalità AIP (eccetto la caratteristica scanner) possono essere inclusi nell'ambito di gruppi o utenti specifici; i registri possono essere modificati per impedire agli utenti senza licenza di eseguire le funzionalità di classificazione o etichettatura di AIP. Per istruzioni su come ambito delle distribuzioni AIP, vedere [Configuring the Azure Information Protection Policy](https://docs.microsoft.com/azure/information-protection/configure-policy).

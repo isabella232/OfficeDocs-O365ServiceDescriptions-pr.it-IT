@@ -1,5 +1,5 @@
 ---
-title: Limiti Exchange Online Protection
+title: Limiti di Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231394"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581468"
 ---
-# <a name="exchange-online-protection-limits"></a>Limiti Exchange Online Protection
+# <a name="exchange-online-protection-limits"></a>Limiti di Exchange Online Protection
 
 I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato. 
   
@@ -38,7 +38,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
     
 - **Limite di rinvio del messaggio** I messaggi in differimento rimarranno nelle code per 24 ore. I tentativi di invio dei messaggi variano in base al tipo di errore ricevuto dal sistema di posta elettronica del destinatario. I messaggi vengono recuperati ogni 15 minuti. 
     
-- **Periodo di conservazione** della quarantena della posta indesiderata Per impostazione predefinita, i messaggi di posta indesiderata inviati alla quarantena vengono conservati per 30 giorni. Gli amministratori possono ridurre tale valore tramite i criteri di filtro del contenuto. 
+- **Periodo di conservazione della quarantena della posta indesiderata** Per impostazione predefinita, i messaggi di posta indesiderata inviati alla quarantena vengono conservati per 30 giorni. Gli amministratori possono ridurre tale valore tramite i criteri di filtro del contenuto. 
     
 - **Notifiche di quarantena della posta indesiderata dell'utente finale** Per impostazione predefinita, se abilitata, le notifiche di quarantena della posta indesiderata dell'utente finale vengono inviate ogni 3 giorni. Possono essere configurate per essere inviate a intervalli da 1 o 15 giorni. 
     

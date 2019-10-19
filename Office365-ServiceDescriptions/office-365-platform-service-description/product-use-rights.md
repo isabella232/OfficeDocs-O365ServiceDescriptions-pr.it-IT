@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 97f2872dd1aa56f99058dabad167422a0d507fa8
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4fd3b239b1cbc433b90b4aa44407f31b18698717
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777369"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582092"
 ---
 # <a name="product-use-rights"></a>Diritti di utilizzo del prodotto
 
@@ -34,6 +34,6 @@ Per ulteriori informazioni sui programmi di licenza per la propria organizzazion
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).
   
 

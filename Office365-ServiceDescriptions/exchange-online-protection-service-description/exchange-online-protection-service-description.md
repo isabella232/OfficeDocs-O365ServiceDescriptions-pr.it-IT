@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. Viene fornito un elenco di piani che offrono Exchange Online Protection e un confronto tra le funzionalità dei vari piani.
-ms.openlocfilehash: bc95415e4f348c326b36f300b39df3fe87f7e282
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, oltre a un confronto tra le caratteristiche di tali piani.
+ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334146"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581912"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
-Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. Viene fornito un elenco di piani che offrono Exchange Online Protection e un confronto tra le funzionalità dei vari piani.
+Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, oltre a un confronto tra le caratteristiche di tali piani.
 
 Microsoft Exchange Online Protection (EOP) è un servizio di filtro della posta elettronica che aiuta l'organizzazione a proteggersi da spam e malware e include funzionalità in grado di tutelare l'organizzazione dalle violazioni dei criteri di messaggistica. EOP è in grado di semplificare la gestione dell'ambiente di messaggistica e ridurre molte delle responsabilità associate alla gestione di componenti hardware e software locali.
 
@@ -89,7 +89,7 @@ Di seguito sono elencate tutte le funzionalità. Per informazioni più dettaglia
 |[Gestione del dominio](recipient-domain-and-company-management.md#domain-management)|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|
 |[Corrispondenza sottodomini](recipient-domain-and-company-management.md#match-subdomains)|Sì|Sì|No|
 |[DBEB (Directory Based Edge Blocking)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Sì|Sì|Sì|
-|[Regole dei flussi di posta](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|Sì<sup>4</sup>|Sì<sup>4, 6</sup>|Sì|
+|[Regole del flusso di posta](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|Sì<sup>4</sup>|Sì<sup>4, 6</sup>|Sì|
 |[Registrazione di controllo](messaging-policy-and-compliance-servicedesc.md#audit-logging)|Sì<sup>5</sup>|Sì|Sì|
 |[Prevenzione della perdita di dati (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|No|Sì|Sì<sup>6</sup>|
 |[Crittografia dei messaggi di Office 365](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Sì<sup>12</sup>|Sì|Sì<sup>12</sup>|
