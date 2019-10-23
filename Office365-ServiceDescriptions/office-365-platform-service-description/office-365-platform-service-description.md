@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 936c610438ddb7589352380d6adc33e1fbe4aef1
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0cb39edea15d784e0009d56dda1a648602b09fa9
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582142"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633463"
 ---
 # <a name="office-365-platform-service-description"></a>Descrizione dei servizi della piattaforma Office 365
 
@@ -92,7 +92,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[Funzionalità di amministrazione di Office 365](https://docs.microsoft.com/office/admins-itprofessionals)** <br/> ||||||||
+|**[Funzionalità di amministrazione di Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
 |**[Funzionalità della famiglia di prodotti Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |

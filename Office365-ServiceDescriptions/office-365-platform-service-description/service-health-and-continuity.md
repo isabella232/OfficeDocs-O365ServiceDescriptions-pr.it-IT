@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
-ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450280"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633437"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
@@ -83,7 +83,7 @@ Microsoft System Center è una piattaforma di gestione integrata che consente di
   
 ### <a name="office-365-service-communications-api"></a>API delle comunicazioni del servizio di Office 365
 
-L'API delle comunicazioni del servizio di Office 365 consente di accedere alle comunicazioni di servizio di Office 365 nel modo desiderato. Con questo nuovo strumento di amministrazione, è ora possibile creare gli strumenti per le comunicazioni di servizio di Office 365 o connettersi ad essi, potenzialmente semplificando il modo di monitorare l'ambiente. L'API delle comunicazioni di servizio consente di monitorare quanto segue nel proprio ambiente:
+L'API di Communications Service 365 di Office consente di accedere alle comunicazioni di servizio di Office 365 nel modo desiderato. Con questo nuovo strumento di amministrazione, è ora possibile creare gli strumenti per le comunicazioni di servizio di Office 365 o connettersi ad essi, potenzialmente semplificando il modo di monitorare l'ambiente. L'API di Communications Service consente di monitorare quanto segue nell'ambiente in uso:
   
 - Integrità del servizio in tempo reale
     

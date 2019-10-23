@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582062"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633501"
 ---
 # <a name="office-365-plan-options"></a>Opzioni di piani di Office 365
 
@@ -84,6 +84,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 #### <a name="basic-client-limitations"></a>Limitazioni client di base
 
 Le funzionalità seguenti sono disponibili nel client completo, ma non nel client di base:
+
 - Gestire le impostazioni di intercettazione team
 - Gestire i delegati    
 - Eseguire chiamate per conto di un altro contatto (scenario manager/delegato)    
@@ -97,7 +98,7 @@ Le funzionalità seguenti sono disponibili nel client completo, ma non nel clien
 
 Con il variare delle esigenze aziendali, potrebbe essere necessario cambiare il piano di Office 365. È possibile passare dalla sottoscrizione a Office 365 corrente a un'altra: 
   
-- **Nella stessa famiglia di servizi:** È possibile ad esempio passare da Office 365 Business Essentials a Office 365 Business Premium o da Office 365 Enterprise E1 a Office 365 Enterprise E3.     
+- **Nella stessa famiglia di servizi:** È possibile ad esempio passare da Office 365 Business Essentials a Office 365 Business Premium o da Office 365 Enterprise E1 a Office 365 Enterprise E3.
 - **Da un piano autonomo:** Ad esempio, è possibile passare da Exchange Online, piano 1 a Office 365 Enterprise E1.     
 - **Per una famiglia di servizi differente:** È possibile ad esempio passare da Office 365 Business Essentials a Office 365 Enterprise E3.     
 Per informazioni su come cambiare le sottoscrizioni nonché su come passare da una sottoscrizione di prova a una a pagamento, vedere [Modificare il piano o la sottoscrizione di Office 365](https://support.office.com/article/HA104031833)
@@ -105,7 +106,6 @@ Per informazioni su come cambiare le sottoscrizioni nonché su come passare da u
 È possibile combinare i piani Enterprise, Business e autonomi (ad esempio Exchange Online, piano 1) in un singolo account. Tuttavia, le limitazioni esistenti relative al numero di postazioni per ciascun piano rimangono invariate. Per esempio, è possibile disporre di 300 postazioni per ciascun piano in Office 365 Business Essentials e Office 365 Business Premium, ma di un numero illimitato di utenti in Exchange Online, piano 1.
   
 ## <a name="standalone-services"></a>Servizi autonomi
-<a name="bkmk_standaloneservices"> </a>
 
 I seguenti servizi online sono disponibili singolarmente come piani autonomi. Possono essere aggiunti alla famiglia di servizi Business ed Enterprise che non li contiene già. Per informazioni sui prezzi o per chattare con un rappresentante online, selezionare uno qualsiasi dei piani elencati nella tabella seguente.
   
@@ -125,6 +125,5 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
-<a name="bkmk_standaloneservices"> </a>
 
 Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).

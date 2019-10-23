@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti.
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582172"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631655"
 ---
 # <a name="user-account-management"></a>Gestione degli account utente
 
@@ -104,7 +104,7 @@ L'esperienza di accesso varia a seconda del tipo di identità di Office 365 in u
 |Outlook 2010 o Office Outlook 2007 in Windows Vista  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
 |POP, IMAP, Outlook per Mac  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
-|Esperienze Web: Office 365 portal/Outlook Web app/SharePoint Online/Office per il Web  <br/> |Richiede l'accesso a ogni sessione del browser <sup>4</sup> <br/> |Richiede l'accesso a ogni sessione <sup>3</sup> <br/> |
+|Esperienze Web: Office 365 portal/Outlook sul Web/SharePoint Online/Office per il Web  <br/> |Richiede l'accesso a ogni sessione del browser <sup>4</sup> <br/> |Richiede l'accesso a ogni sessione <sup>3</sup> <br/> |
 |Office 2010 o Office 2007 con SharePoint Online  <br/> |Richiede l'accesso a ogni sessione SharePoint Online<sup>4</sup> <br/> |Richiede l'accesso a ogni sessione SharePoint Online<sup>3</sup> <br/> |
 |Skype for Business online  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Nessuna richiesta  <br/> |
 |Outlook per Mac  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Sono disponibili numerosi strumenti per la reimpostazione delle password per gli
     
     Per i piani Enterprise, se gli amministratori perdono o dimenticano le password, un amministratore diverso con il ruolo di amministratore globale può reimpostare le password degli amministratori nell'interfaccia di amministrazione di Microsoft 365 o tramite Windows PowerShell. Per ulteriori informazioni, vedere [Reimpostare la password dell'amministratore](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Creare o ripristinare le password in Office 365 gestito da 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **Password cambiata dall'utente con Outlook Web App** La pagina delle opzioni di Outlook Web App include il collegamento ipertestuale Cambia password che reindirizza gli utenti alla pagina **Cambia password**. L'utente deve conoscere la password precedente. Per ulteriori informazioni, vedere [Modificare la password](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Modificare o ripristinare le password in Office 365 gestito da 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- **L'utente modifica le password con Outlook sul Web** Nella pagina Opzioni di Outlook sul Web è incluso un collegamento ipertestuale Cambia password, che reindirizza gli utenti alla pagina **Cambia password** . L'utente deve conoscere la password precedente. Per ulteriori informazioni, vedere [Modificare la password](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Modificare o ripristinare le password in Office 365 gestito da 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 - **Diritti di reimpostazione della password basati sul ruolo** Per i piani Enterprise, gli utenti autorizzati, come il personale del supporto tecnico, possono ricevere diritti utente di **Reimpostazione password** e l'autorizzazione a cambiare le password tramite i ruoli predefiniti o personalizzati di Office 365, senza diventare amministratori dei servizi con diritti completi. Per impostazione predefinita nei piani Enterprise, gli amministratori con ruolo Amministratore globale, Amministratore password o Amministratore Gestione utenti possono cambiare le password. Per ulteriori informazioni, vedere [Assegnazione di ruoli di amministratore](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
     
@@ -157,7 +157,7 @@ Sono disponibili numerosi strumenti per la reimpostazione delle password per gli
     
  **Gestione delle password tramite identità federata:**
   
-Quando si utilizza l'identità federata, le password vengono gestite in Active Directory. Il servizio token di sicurezza locale negozia l'autenticazione con Office 365 Federation Gateway senza passare le password locali degli utenti di Active Directory tramite Internet a Office 365. Vengono utilizzati criteri password locali o, per i client Web, l'identificazione a due fattori. Outlook Web App non include il collegamento ipertestuale Cambia password. Gli utenti possono cambiare password utilizzando gli strumenti standard locali o tramite le opzioni di accesso del proprio PC desktop.
+Quando si utilizza l'identità federata, le password vengono gestite in Active Directory. Il servizio token di sicurezza locale negozia l'autenticazione con Office 365 Federation Gateway senza passare le password locali degli utenti di Active Directory tramite Internet a Office 365. Vengono utilizzati criteri password locali o, per i client Web, l'identificazione a due fattori. Outlook sul Web non include un collegamento ipertestuale Cambia password. Gli utenti possono cambiare password utilizzando gli strumenti standard locali o tramite le opzioni di accesso del proprio PC desktop.
   
 Se lo [Scenario di sincronizzazione della directory con Single Sign-On (SSO)](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100)) è attivo nell'ambiente Office 365 e si verifica un'interruzione che influisce sul provider di identità federato, il backup di sincronizzazione della password per l'accesso federato fornisce l'opzione per trasferire il dominio sulla sincronizzazione delle password manualmente. L'utilizzo della sincronizzazione delle password consentirà agli utenti di accedere a Office 365 mentre l'interruzione viene risolta. Informazioni su [come passare da Single Sign-On alla sincronizzazione delle password](https://go.microsoft.com/fwlink/p/?LinkId=509832).
   

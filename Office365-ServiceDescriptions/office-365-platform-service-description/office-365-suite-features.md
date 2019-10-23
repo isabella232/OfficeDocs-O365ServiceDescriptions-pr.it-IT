@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: 801079a5a6b26872acb34ad2b21aad4aff875430
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582122"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633425"
 ---
 # <a name="office-365-suite-features"></a>Funzionalità della famiglia di prodotti Office 365
 
@@ -67,11 +67,11 @@ Microsoft Sway è un'app di narrativa digitale professionale per le aziende che 
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft Teams è un'area di lavoro di Office 365 basata su chat, che permette ai membri dei team di ottenere maggiori risultati, grazie alla collaborazione. Microsoft Teams funge da hub per i team di lavoro, offrendo loro accesso immediato a conversazioni in chat, contenuti e strumenti di Office 365 in un'unica area di lavoro. SharePoint e OneNote sono integrati e i membri del team possono modificare i documenti di Office dall'app stessa. Oltre alle chat, Microsoft Teams supporta anche videochiamate e riunioni. In questo modo, i team possono riunirsi in diretta, sia su richiesta che in base a una pianificazione. I membri del team possono collaborare con altri utenti senza problemi e cercare persone, chat e file in qualsiasi momento. Microsoft Teams è compatibile con Windows, Mac, Web e con le piattaforme Android e iOS. Per maggiori informazioni, vedere [Guida di Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams non è ancora disponibile in [Office 365 Germany](office-365-germany.md).
+Microsoft teams è un'area di lavoro con centro chat in Office 365 che consente ai membri del team di ottenere un maggiore insieme. Microsoft teams funge da Hub per il lavoro di squadra, fornendo accesso immediato alle conversazioni di chat, al contenuto e agli strumenti di Office 365 in una singola area di lavoro. SharePoint e OneNote sono incorporati e i membri del team possono lavorare sui documenti di Office direttamente all'interno dell'app. Oltre alle chat, Microsoft teams supporta anche le videochiamate e le riunioni per consentire ai team di riunirsi in tempo reale, sia su richiesta che pianificato. I membri del team possono collaborare facilmente con più team e cercare tra utenti, chat e file in qualsiasi momento. Microsoft teams è compatibile con piattaforme Windows, Mac, Web, Android e iOS. Per ulteriori informazioni, vedere [Guida di Microsoft teams online](https://go.microsoft.com/fwlink/?linkid=834413). I team non sono ancora disponibili in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="office-delve"></a>Office Delve
 
-Office Delve consente agli utenti di cercare e individuare contenuti con Office 365 tramite una personalizzazione in funzione dell'utente. Delve è la prima applicazione con tecnologia Office Graph. Per ulteriori informazioni su Office Delve, accedere a [Che cos'è Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
+Office approfondire consente agli utenti di cercare e scoprire contenuti in Office 365 in base alle informazioni personalizzate. Delve è la prima applicazione con tecnologia Office Graph. Per ulteriori informazioni su Office Delve, accedere a [Che cos'è Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
 ## <a name="office-365-groups"></a>Gruppi di Office 365
 

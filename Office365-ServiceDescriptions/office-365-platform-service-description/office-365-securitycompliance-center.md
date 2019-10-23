@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 6f522423fd635f08d6f752d345a6677372096a43
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523274"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633447"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 

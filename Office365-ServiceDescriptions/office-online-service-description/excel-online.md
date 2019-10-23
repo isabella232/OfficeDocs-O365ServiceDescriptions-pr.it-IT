@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595304"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631635"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -79,10 +79,9 @@ Excel per il Web può completare ciò che si sta digitando in una cella e, se es
 
 ## <a name="cell-references-in-formulas"></a>Riferimenti di cella nelle formule
 
-È possibile utilizzare i riferimenti di cella nelle formule. Quando si fa riferimento a una cella o a un intervallo di una formula, la cella o l'intervallo riferito viene evidenziato con un colore. Per ulteriori informazioni, vedere [utilizzare riferimenti di cella in una formula](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+È possibile utilizzare i riferimenti di cella nelle formule. Quando si [fa riferimento a una cella o a un intervallo di una formula](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa), la cella o l'intervallo riferito viene evidenziato con un colore. Per ulteriori informazioni, vedere [utilizzare riferimenti di cella in una formula](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Applicazione delle animazioni agli elementi grafici per i nuovi dati
-
 Solo l'app desktop Microsoft Excel supporta le funzionalità avanzate per i grafici. Ulteriori informazioni su [come applicare un'animazione a un elemento SmartArt](https://go.microsoft.com/fwlink/p/?LinkId=271668).
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Grafici e tabelle, inclusi i report dei grafici pivot e delle tabelle pivot
@@ -95,7 +94,7 @@ Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionar
 
 ## <a name="comment-creation"></a>Comment creation
 
-È possibile inserire, modificare ed eliminare i commenti in Excel per il Web. È inoltre possibile risolvere un thread di commento, che lo chiude in modifiche e nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+È possibile inserire, modificare ed eliminare i commenti in Excel per il Web. È inoltre possibile risolvere un thread di commento, che lo chiude in modifiche e nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. Utilizzare @mentions nei commenti per inviare messaggi di posta elettronica alla persona che si parla. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertire una tabella in un intervallo
 
@@ -103,7 +102,7 @@ Dopo aver creato una tabella di Excel, è possibile che si desideri solo lo stil
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Per ottenere risultati ottimali, utilizzare i tasti di scelta rapida, non il menu o i comandi degli Appunti in Excel per il Web, per copiare gli elementi in un altro percorso del foglio di lavoro. Per ulteriori informazioni [, vedere Utilizzo di copia e incolla in Excel per il Web](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
+È possibile tagliare, copiare e incollare testo, numeri, equazioni, forme, grafici e immagini. Se si dispone di dati nelle colonne che è necessario ruotare per riorganizzarlo in righe, utilizzare la caratteristica **TRANSPOSE** del menu **Incolla** .
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Le visualizzazioni di analisi avanzate, quali Power Pivot e Power View, sono dis
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 È possibile spostare il valore della cella in Excel per il Web trascinando le celle da una posizione a un'altra.
+
+## <a name="draw-cell-borders"></a>Disegnare i bordi delle celle
+
+È possibile disegnare bordi attorno alle celle in un foglio di lavoro per facilitare l'organizzazione visiva dei dati. Per ulteriori informazioni, vedere [frontiere delle celle in Excel](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web).
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,9 +158,9 @@ Personalizzare i propri dati per conferirgli l'aspetto desiderato. Scegliere tra
   
 ## <a name="formula-bar"></a>Formula bar
 
-Nella barra delle formule, è possibile visualizzare le formule che hanno prodotto i risultati presenti nelle celle. È possibile aggiungere, modificare ed eliminare parti della formula nel browser proprio come si farebbe nell'app desktop Excel.
+Nella barra delle formule, è possibile visualizzare le formule che hanno prodotto i risultati presenti nelle celle. È possibile aggiungere, modificare ed eliminare parti della formula nel browser proprio come si farebbe nell'app desktop Excel. Excel per il Web evidenzia gli argomenti della formula con i colori che forniscono un mapping visivo tra la formula e i dati del foglio di lavoro.
   
-## <a name="formula-tools--advanced"></a>Strumenti avanzati per le formule
+## <a name="formula-tools-advanced"></a>Strumenti per le formule, avanzate
 
 L'app desktop Microsoft Excel supporta gli strumenti per le formule più avanzate, quali formule in forma di matrice e con stile di riferimento 3D. Excel per il Web supporta solo le formule di Excel di base. Ulteriori informazioni sulle [formule](https://go.microsoft.com/fwlink/p/?LinkId=271665).
   
@@ -211,7 +214,7 @@ Utilizzare Unisci &amp; centra nella scheda Home per combinare e centrare il con
 
 ## <a name="named-ranges"></a>Intervalli denominati
 
-Non è possibile creare intervalli denominati in Excel per il Web, ma è possibile utilizzare gli intervalli denominati creati in Excel desktop nel foglio di calcolo in Excel per il Web.
+Non è possibile creare intervalli denominati in Excel per il Web, ma è possibile utilizzare gli intervalli denominati creati in Excel desktop nel foglio di calcolo in Excel per il Web. Quando si seleziona un intervallo denominato, il nome viene visualizzato appena prima della barra della formula.
 
 ## <a name="number-formatting"></a>Formattazione dei numeri
 
@@ -281,7 +284,7 @@ Non disponibile in Excel per il Web. Se sul computer è installata l'app desktop
 
 Se si desidera una copia della cartella di lavoro, utilizzare il comando Salva con nome nella scheda File oppure fare clic con il pulsante destro del mouse sul nome della cartella che la contiene e utilizzare il comando Download per salvare una copia sul proprio computer.
   
-## <a name="share"></a>Condividi
+## <a name="share"></a>Condividere
 
 Con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni sull' [utilizzo di Office per il Web per collaborare in office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
@@ -295,7 +298,7 @@ Visualizzare i filtri dei dati nel foglio di lavoro e filtrarli selezionando i p
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel per il Web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati (dall'alto verso il basso o da sinistra a destra) ed eseguire il drill-through nei dettagli delle tabelle pivot. Per ulteriori informazioni [, vedere ordinamento e filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+In Excel per il Web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati (dall'alto verso il basso o da sinistra a destra, più livelli) ed eseguire il drill-through nei dettagli delle tabelle pivot. Per ulteriori informazioni [, vedere ordinamento e filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Conformità e verifica dei fogli di calcolo
 
