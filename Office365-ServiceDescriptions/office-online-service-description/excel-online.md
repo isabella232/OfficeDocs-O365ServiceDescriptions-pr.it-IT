@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
+ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631635"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637253"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -94,7 +94,7 @@ Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionar
 
 ## <a name="comment-creation"></a>Comment creation
 
-È possibile inserire, modificare ed eliminare i commenti in Excel per il Web. È inoltre possibile risolvere un thread di commento, che lo chiude in modifiche e nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. Utilizzare @mentions nei commenti per inviare messaggi di posta elettronica alla persona che si parla. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+È possibile inserire, modificare ed eliminare i commenti in Excel per il Web. È inoltre possibile risolvere un thread di commento, che lo chiude in modifiche e nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. [Utilizzare @mentions nei commenti](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) per inviare messaggi di posta elettronica alla persona che si parla. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertire una tabella in un intervallo
 
