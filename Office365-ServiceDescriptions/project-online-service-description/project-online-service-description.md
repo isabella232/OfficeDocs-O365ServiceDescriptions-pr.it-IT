@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523259"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700248"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -50,7 +50,18 @@ Project online è una soluzione flessibile online per la gestione dei portfolio 
 
 Project online è basato sulla piattaforma SharePoint e archivia i dati nell'archivio dati di SharePoint.
 
-Project online è disponibile tramite due abbonamenti: Project Online Professional e Project Online Premium. La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Le funzionalità elencate nella sezione [Project Online features](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
+Project online è disponibile tramite due abbonamenti: Project Online Professional e Project Online Premium. Le funzionalità elencate nella sezione [Project Online features](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
+
+La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Project Online Essentials è un abbonamento *componente aggiuntivo* per i membri del team per i clienti che dispongono di abbonamenti Premium Project Online Professional o Project online. Fornisce ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online. 
+
+I membri del team con Project Online Essentials sono in grado di eseguire le seguenti funzioni di Project online:
+
+- Utilizzo di un'interfaccia basata sul Web
+- Aggiornamento attività, problemi e rischi
+- Invio di schede attività
+- Condividere documenti e collaborare con Microsoft teams o con gli utenti di Skype for business
+
+Project Online Essentials non include il progetto per il Web.
 
 ### <a name="project-online-desktop-client"></a>Client desktop di Project online
 
@@ -247,7 +258,15 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 
 ### <a name="use-of-sharepoint-online"></a>Utilizzo di SharePoint Online
 
-Project online richiede l'utilizzo di SharePoint Online, che viene provisioning per l'utente come parte di Project online. I diritti per la funzionalità di SharePoint Online fornita con Project Online Professional o Premium sono limitati all'archiviazione e all'accesso ai dati per il supporto di Project online.
+Project online richiede l'utilizzo di SharePoint Online, che viene provisioning come parte di Project online. I diritti per la funzionalità di SharePoint Online fornita con Project Online Professional o Premium sono limitati all'archiviazione e all'accesso ai dati per il supporto di Project online.
+
+### <a name="project-roadmap-and-microsoft-flow"></a>Roadmap del progetto e Microsoft Flow
+
+La roadmap del progetto richiede l'utilizzo di Microsoft Flow, che viene provisionato nell'ambito della sottoscrizione al progetto. I diritti per la funzionalità Microsoft Flow sono limitati alle funzionalità di flusso Microsoft richieste dalla roadmap del progetto. La funzionalità Microsoft Flow richiesta dalla roadmap del progetto viene visualizzata come **integrazione dei dati per Project con** il piano del servizio di flusso nella sezione **app** dell'interfaccia di amministrazione di Microsoft 365.
+
+### <a name="project-for-the-web-and-common-data-service"></a>Project per il servizio Web e per i dati comuni
+
+Project per il Web richiede l'utilizzo del servizio dati comune (CDS) per l'archiviazione dei dati. Il provisioning dei CD è incluso nell'abbonamento al progetto. Le funzionalità relative ai diritti di CDS sono limitate all'archiviazione e all'accesso ai dati per il supporto di Project per il Web. La funzionalità CDS richiesta da Project viene visualizzata come **servizio dati comune per** il piano del servizio di Project nella sezione **app** dell'interfaccia di amministrazione di Microsoft 365.
 
 ### <a name="data-backup-and-retention"></a>Backup e conservazione dei dati
 

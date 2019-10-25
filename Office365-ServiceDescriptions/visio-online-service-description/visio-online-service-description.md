@@ -1,5 +1,5 @@
 ---
-title: Visio per la descrizione del servizio Web
+title: Descrizione del servizio Visio per il Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È molto semplice creare diagrammi di prim'ordine con i tipi di diagrammi più comuni e set di forme completi. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
-ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+description: Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web.
+ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450300"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700238"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio per la descrizione del servizio Web
+# <a name="visio-for-the-web-service-description"></a>Descrizione del servizio Visio per il Web
 
-Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È molto semplice creare diagrammi di prim'ordine con i tipi di diagrammi più comuni e set di forme completi. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
+Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È semplice e facile creare diagrammi di prima classe con tipi di diagramma di uso comune e set di forme ricche. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
   
 Per ulteriori informazioni e per iniziare, vedere [Visio per il Web](https://products.office.com/en-US/visio/visio-online).
   
@@ -27,7 +27,7 @@ Per informazioni sull'utilizzo di Visio per il Web, vedere [centro assistenza di
   
 ## <a name="feature-availability-and-comparison"></a>Confronto e disponibilità delle funzionalità
 
-Nella tabella seguente vengono confrontate le funzionalità di Visio per la funzionalità Web con le app desktop di Visio ricche di funzionalità. Utilizzare la tabella per scoprire quali funzionalità sono disponibili in Visio per il Web e quindi fare clic sul nome della funzionalità per leggere una breve descrizione su come funziona la caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione devono disporre delle funzionalità avanzate dell'app desktop di Visio, mentre altre devono solo visualizzare e modificare i diagrammi di Visio con Visio per il Web. 
+Nella tabella seguente vengono confrontate le funzionalità di Visio per la funzionalità Web con le app desktop di Visio ricche di funzionalità. Utilizzare la tabella per scoprire quali funzionalità sono disponibili in Visio per il Web e quindi selezionare il nome della funzionalità per leggere una breve descrizione del funzionamento della caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione devono disporre delle funzionalità avanzate dell'app desktop di Visio, mentre altre devono solo visualizzare e modificare i diagrammi di Visio con Visio per il Web. 
   
 ||||
 |:-----|:-----|:-----|

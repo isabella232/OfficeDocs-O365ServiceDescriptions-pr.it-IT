@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 4c2f6398f59bbb7045c3afa09193077975214170
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633535"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701708"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -573,7 +573,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |[Catalogo app (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Distribuzione di applicazioni: app ospitate nel cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Distribuzione di applicazioni: app ospitate da SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|[Servizi di gestione delle app](../sharepoint-online-service-description/developer.md#app-management-services)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|[Servizio di gestione app](../sharepoint-online-service-description/developer.md#app-management-service)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |BCS: avvisi per gli elenchi esterni|No|No|No|No|No|Sì|No|
 |[BCS: tipi di contenuto esterno con ambito app (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|No|No|No|No|No|Sì|No|
 |[BCS: Web part dati business](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|No|No|No|No|No|Sì|No|
@@ -694,7 +694,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |WCM: rendering per dispositivi mobili|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |WCM: più domini|No|No|No|No|No|No|No|
 |WCM: Recommendations|Sì|No|Sì|Sì|Sì|Sì|Sì|
-|[WCM: Ottimizzazioni motori di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Sì|No|Sì|Sì|Sì|Sì|Sì|
+|[WCM: ottimizzazione del motore di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |[Servizi di automazione di Word](../sharepoint-online-service-description/content.md#word-automation-services)|No|No|No|No|No|No|No|
 |**Funzionalità Insights**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
 |[Centro business intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center)|No|No|No|No|No|No|No|
@@ -756,7 +756,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Business and sites OneDrive ibrido|Sì|Sì|Sì|Sì|Sì|Sì|Sì<sup>15</sup>|
 |[Scalabilità e gestione di elenchi di grandi dimensioni](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Connettività per dispositivi mobili](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|No|Sì<sup>13</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|
-|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|
+|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|Sì<sup>13</sup>|
 |My Tasks|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |[Web part di OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |[Gestione delle autorizzazioni](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|

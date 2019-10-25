@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, provenienti da Data Center tedeschi, con data Residency in Germania e rigorose misure di accesso ai dati e di controllo tramite un modello di attendibilità dei dati univoco disciplinato dal diritto tedesco.
-ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595294"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701688"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -143,7 +143,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Aggiornamenti dei servizi](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Roadmap.office.com per alcuni aggiornamenti del servizio|Sì|--|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -199,7 +199,7 @@ Utilizzare le tabelle seguenti per confrontare la disponibilità delle funzional
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germania Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**Funzionalità**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germania Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**Applicazioni di Office**<sup>1, 2</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sì|No|Sì|N.<sup>7</sup>|No|Sì|Sì|No|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sì|No|Sì|N.<sup>7</sup>|No|Sì|Sì|No|
@@ -550,7 +550,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |[Catalogo app (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Sì|Sì|Sì|Sì|
 |[Distribuzione di applicazioni: app ospitate nel cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Sì|Sì|Sì|Sì|
 |[Distribuzione di applicazioni: app ospitate da SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Sì|Sì|Sì|Sì|
-|[Servizi di gestione delle app](../sharepoint-online-service-description/developer.md#app-management-services)|Sì|Sì|Sì|Sì|
+|[Servizio di gestione app](../sharepoint-online-service-description/developer.md#app-management-service)|Sì|Sì|Sì|Sì|
 |BCS: avvisi per gli elenchi esterni|No|No|No|Sì|
 |[BCS: tipi di contenuto esterno con ambito app (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|No|No|No|Sì|
 |[BCS: Web part dati business](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|No|No|No|Sì|
@@ -670,7 +670,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |WCM: rendering per dispositivi mobili|No|No|Sì|Sì|
 |WCM: più domini|No|No|No|No|
 |WCM: Recommendations|No|No|Sì|Sì|
-|[WCM: Ottimizzazioni motori di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|No|No|Sì|Sì|
+|[WCM: ottimizzazione del motore di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|No|No|Sì|Sì|
 |[Servizi di automazione di Word](../sharepoint-online-service-description/content.md#word-automation-services)|No|No|No|No|
 |**Funzionalità Insights**|**OneDrive for Business Piano 1**|**OneDrive for Business piano 2**|**SharePoint Online Piano 1**|**SharePoint Online piano 2**|
 |[Centro business intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center)|No|No|No|Sì|
@@ -730,7 +730,7 @@ Nella tabella seguente sono elencate l'opzione autonoma di OneDrive for Business
 |OneDrive ibrido per le aziende e i siti|Sì|Sì|Sì|Sì|
 |[Scalabilità e gestione di elenchi di grandi dimensioni](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Sì|Sì|Sì|Sì|
 |[Connettività per dispositivi mobili](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì|Sì|
-|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Sì|Sì|Sì|Sì|
+|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Sì|Sì|Sì|Sì|
 |My Tasks|No|No|Sì|Sì|
 |[Web part di OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|No|No|Sì|Sì|
 |[Gestione delle autorizzazioni](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Sì|Sì|Sì|Sì|
@@ -807,7 +807,7 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 |[Catalogo app (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Distribuzione di applicazioni: app ospitate nel cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Distribuzione di applicazioni: app ospitate da SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|[Servizi di gestione delle app](../sharepoint-online-service-description/developer.md#app-management-services)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|[Servizio di gestione app](../sharepoint-online-service-description/developer.md#app-management-service)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |BCS: avvisi per gli elenchi esterni|No|No|No|Sì|No|Sì|Sì|No|
 |[BCS: tipi di contenuto esterno con ambito app (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|No|No|No|Sì|No|Sì|Sì|No|
 |[BCS: Web part dati business](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|No|No|No|Sì|No|Sì|Sì|No|
@@ -928,7 +928,7 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 |WCM: rendering per dispositivi mobili|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |WCM: più domini|No|No|No|No|No|No|No|No|
 |WCM: Recommendations|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
-|[WCM: Ottimizzazioni motori di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
+|[WCM: ottimizzazione del motore di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Servizi di automazione di Word](../sharepoint-online-service-description/content.md#word-automation-services)|No|No|No|No|No|No|No|No|
 |**Funzionalità Insights**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |[Centro business intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center)|No|No|No|No|No|Sì|Sì|No|
@@ -990,7 +990,7 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 |OneDrive ibrido per le aziende e i siti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì<sup>19</sup>|
 |[Scalabilità e gestione di elenchi di grandi dimensioni](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Connettività per dispositivi mobili](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|No|Sì<sup>11</sup>|Sì<sup>11</sup>|Sì<sup>11</sup>|Sì<sup>11</sup>|Sì<sup>11</sup>|Sì<sup>11</sup>|Sì<sup>11</sup>|
-|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|
+|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|
 |My Tasks|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Web part di OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Gestione delle autorizzazioni](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -1067,7 +1067,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**Funzionalità**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì|Sì|No|
 |Lync 2013 Basic|Sì|Sì|Sì|Sì|Sì|Sì|No|
