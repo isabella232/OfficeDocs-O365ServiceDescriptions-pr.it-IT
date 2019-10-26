@@ -1,5 +1,5 @@
 ---
-title: Funzionalità individuazione in Yammer
+title: Funzionalità di individuazione in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,45 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: In Yammer sono disponibili le seguenti funzionalità di rilevazione.
-ms.openlocfilehash: cd60bc6c7e24598241b56a12f6193b81fc50b74a
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777987"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726379"
 ---
-# <a name="discovery-features-in-yammer"></a>Funzionalità individuazione in Yammer
+# <a name="discovery-features-in-yammer"></a>Funzionalità di individuazione in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità di rilevazione.
   
 ## <a name="feeds"></a>Inserimenti
-<a name="bkmk_Feeds"> </a>
 
-Restare sempre aggiornati su conversazioni, file e progetti più rilevanti che avvengono all'interno della società. I feed consentono all'utente di unirsi velocemente a conversazioni, di @menzionare i colleghi per tenerli informati delle discussioni e delle anteprime dei documenti.
-  
+Rimanere in cima a conversazioni rilevanti, file e progetti che si verificano nell'organizzazione. I feed consentono di avviare rapidamente conversazioni, @mention i collaboratori per eseguire il loop in una discussione e visualizzare in anteprima i documenti.
+
+## <a name="instant-type-ahead"></a>Tipo di anticipo istantaneo
+
+I risultati di ricerca suggeriti appaiono durante la digitazione in modo da facilitare e velocizzare la propria ricerca. I risultati sono categorizzati in base a utenti, gruppi, file, note, argomenti e applicazioni.
+    
 ## <a name="ticker"></a>Ticker
-<a name="bkmk_Ticker"> </a>
 
-Scopri immediatamente a cosa stanno lavorando i colleghi. Ticker mostra tutte le attività in tempo reale, tra cui la modifica di pagine, il caricamento di file e gli aggiornamenti effettuati in altre applicazioni aziendali.
+Scopri immediatamente a cosa stanno lavorando i colleghi. Il ticker Visualizza le storie di attività che si verificano in tempo reale, incluse le modifiche alle pagine, i caricamenti di file e gli aggiornamenti effettuati in altre applicazioni aziendali.
   
 ## <a name="topics"></a>Argomenti
-<a name="bkmk_Topics"> </a>
 
-Contrassegnare i contenuti con argomenti che facilitano gli altri utenti a trovare rapidamente messaggi correlati, file, Note e altro ancora aggiungendo un hashtag (#) prima della parola o ricercando argomenti esistenti.
+Tag contenuto con argomenti per aiutare gli altri a trovare rapidamente messaggi, file, note e altro ancora, aggiungendo un hashtag (#) prima della parola o ricercando gli argomenti esistenti.
   
 ## <a name="universal-search"></a>Ricerca universale
-<a name="bkmk_UniversalSearch"> </a>
 
-La ricerca di testo completo consente di trovare rapidamente file, Note, conversazioni, utenti e dati tra la rete Yammer e app aziendali integrate.
-  
-## <a name="instant-type-ahead"></a>Completamento istantaneo
-<a name="bkmk_InstantTypeAhead"> </a>
-
-I risultati di ricerca suggeriti appaiono durante la digitazione in modo da facilitare e velocizzare la propria ricerca. I risultati vengono categorizzati per utenti, gruppi, file, Note, argomenti e applicazioni.
+La ricerca full-text consente di trovare rapidamente file, note, conversazioni, persone e dati tra la rete di Yammer e le app aziendali integrate.
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
-<a name="bkmk_InstantTypeAhead"> </a>
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
   
   

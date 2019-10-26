@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Si desidera conoscere quali licenze è necessario acquistare per ottenere determinate funzionalità di Skype for Business? Vedere la panoramica sulle licenze di Skype for business.
-ms.openlocfilehash: e4d73f94da357b39520d1e702dfef96ea95d3deb
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701698"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733747"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
 
@@ -46,7 +46,7 @@ Per informazioni sulle nuove funzionalità di Skype for Business online, vedere 
 
 È consigliabile utilizzare la pagina di confronto semplice per scegliere la versione di Skype for business online. Vedere [Confronta i piani di Riunini Skype](https://go.microsoft.com/fwlink/?linkid=798291). Per un confronto più approfondito, vedere le tabelle seguenti sulle funzionalità. Se si necessita di maggiore assistenza, contattare il [supporto](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support). È possibile selezionare le impostazioni locali dall'elenco a discesa per ottenere un numero locale.
   
-Per visualizzare tutti i piani di Office 365, vedere [Confrontare i piani di Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Per un confronto più dettagliato, vedere [Opzioni di piani di Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
+Per visualizzare tutti i piani di Office 365, vedere [Confrontare i piani di Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Per un confronto più dettagliato, vedere [Opzioni di piani di Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
   
  Per confrontare singole funzionalità dei client Web e desktop di Skype for Business, vedere le [tabelle di confronto dei client per Skype for Business Server 2015](https://go.microsoft.com/fwlink/?linkid=829754). Per un confronto dettagliato dei client mobili di Skype for Business, vedere le [tabelle di confronto dei client mobili](https://go.microsoft.com/fwlink/?linkid=846932)
   
@@ -153,7 +153,7 @@ Per un confronto più dettagliato, vedere la tabella seguente.
 |Segreteria telefonica  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |[Piano di chiamata](skype-for-business-online-features.md#calling-plans-in-office-365) (piano per le chiamate nazionali, con acquisto di componenti aggiuntivi necessari)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |No  <br/> |
 |[Piano di chiamata](skype-for-business-online-features.md#calling-plans-in-office-365) (piano di chiamata internazionale con acquisto di componenti aggiuntivi necessari)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |No  <br/> |
-|[Crediti di comunicazione](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Crediti di comunicazione](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Skype for Business Voice  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |**[Sicurezza e archiviazione](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Messaggistica istantanea e crittografia multimediale  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -196,7 +196,7 @@ Per un confronto più dettagliato, vedere la tabella seguente.
 Nella seguente tabella viene elencata la disponibilità di funzionalità di Skype for Business online nei piani autonomi. Per una descrizione di queste funzionalità, visitare le [funzionalità di Skype for business online](skype-for-business-online-features.md).
   
 > [!NOTE]
-> Gli utenti con licenza Skype for Business online Piano autonomo 2 riceveranno il client Skype for Business Basic, non il client completo Skype for Business. Se si desidera che gli utenti ricevano il client Skype for Business, sarà necessario aggiornare la loro licenza (ad esempio, una licenza Enterprise). Per distribuire il client Skype for Business ai propri utenti, vedere [Distribuire il client Skype for Business in Office 365](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
+> Gli utenti con licenza Skype for Business online Piano autonomo 2 riceveranno il client Skype for Business Basic, non il client completo Skype for Business. Se si desidera che gli utenti ricevano il client Skype for Business, sarà necessario aggiornare la loro licenza (ad esempio, una licenza Enterprise). Per distribuire il client Skype for Business ai propri utenti, vedere [Distribuire il client Skype for Business in Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
   
 |||||
 |:-----|:-----|:-----|:-----|

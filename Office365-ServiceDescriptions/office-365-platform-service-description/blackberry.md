@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Gli smartphone BlackBerry® possono accedere alla posta elettronica e ai documenti in Office 365.
-ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523471"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734164"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -38,11 +38,11 @@ Per ulteriori informazioni, vedere [Configurare la posta elettronica su un Black
   
 La maggior parte degli operatori lo hanno configurato, gli utenti finali dovranno configurare la sincronizzazione di posta elettronica, calendario e contatti usando le istruzioni incluse nei seguenti articoli della Knowledge Base:
   
-- [KB31310 - Servizi BlackBerry Internet Service e Microsoft Office 365](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
+- [KB31310 - Servizi BlackBerry Internet Service e Microsoft Office 365](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
-- [KB00561: come configurare la sincronizzazione del calendario wireless su uno smartphone BlackBerry](http://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
+- [KB00561: come configurare la sincronizzazione del calendario wireless su uno smartphone BlackBerry](https://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
     
-- [KB22430: come attivare o disattivare la sincronizzazione dei contatti wireless con BlackBerry Internet Service](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
+- [KB22430: come attivare o disattivare la sincronizzazione dei contatti wireless con BlackBerry Internet Service](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
 > Gli utenti che connettono i propri account tramite connessioni IMAP o POP possono sincronizzare la propria posta elettronica solo tramite una connessione wireless. Per informazioni su come gli utenti BIS possono sincronizzare i contatti e il calendario tra i propri smartphone BlackBerry e i propri account con una connessione via cavo, contattare il supporto per BlackBerry. 

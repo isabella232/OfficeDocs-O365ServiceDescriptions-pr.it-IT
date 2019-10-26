@@ -1,5 +1,5 @@
 ---
-title: Funzionalità profilo in Yammer
+title: Caratteristiche del profilo in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,50 +12,43 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: In Yammer sono disponibili le seguenti funzionalità del profilo.
-ms.openlocfilehash: e1462d97725dd2485021fbd7dc8d1b378b0c51fc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5c6acde9c620eb0f51263b121574266d67740b57
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777937"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726497"
 ---
-# <a name="profile-features-in-yammer"></a>Funzionalità profilo in Yammer
+# <a name="profile-features-in-yammer"></a>Caratteristiche del profilo in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità del profilo.
-  
-## <a name="user-profiles"></a>Profili utente
-<a name="bkmk_UserProfiles"> </a>
-
-Caricare un'immagine, immettere dettagli di contatto ed elencare le proprie competenze. I profili aggregano tutte le informazioni personali, tra cui le conversazioni e i file.
-  
+ 
 ## <a name="expertise"></a>Expertise
-<a name="bkmk_Expertise"> </a>
 
-Cerca in tutta la società le competenze di cui hai bisogno. Siccome Expertise è ricercabile istantaneamente, su richiesta è possibile trovare utili informazioni.
-  
-## <a name="member-directory"></a>Elenco iscritti
-<a name="bkmk_MemberDirectory"> </a>
+Accedere all'intera organizzazione per trovare gli esperti necessari. Poiché l'esperienza è immediatamente ricercabile, è possibile trovare informazioni utili su richiesta.
 
-Sfoglia l'elenco iscritti per trovare persone all'interno del proprio team e altri colleghi in tutta la società.
-  
-## <a name="org-chart"></a>Organigramma
-<a name="bkmk_OrgChart"> </a>
-
-Aggiungi manager e report per creare un'organigramma della società insieme ai colleghi. Le informazioni dell'organigramma vengono automaticamente visualizzate nel profilo.
-  
-## <a name="praise"></a>Complimenti
-<a name="bkmk_Praise"> </a>
-
-Dai e ricevi riconoscimenti per lavori ben fatti. Risultati e badge sono visualizzabili nei profili della scheda Complimenti.
-  
 ## <a name="leaderboards"></a>Classifica ufficiale
-<a name="bkmk_Leaderboards"> </a>
 
 Identifica i colleghi influenti della rete. Nelle classifiche ufficiali vengono visualizzate le persone con più messaggi, più messaggi con risposta e con Mi piace.
+
+## <a name="member-directory"></a>Directory Membri
+
+Passare alla Directory Membri per trovare persone del team e i colleghi provenienti dall'intera organizzazione.
+  
+## <a name="org-chart"></a>Organigramma
+
+Aggiungere Manager e report per creare un organigramma insieme ai colleghi. Le informazioni sull'organigramma vengono visualizzate automaticamente nei profili.
+  
+## <a name="praise"></a>Complimenti
+
+Dai e ricevi riconoscimenti per lavori ben fatti. I conseguimenti e i badge vengono visualizzati nei profili della scheda **lode** .
+ 
+## <a name="user-profiles"></a>Profili utente
+
+Caricare un'immagine, immettere informazioni di contatto e elencare le proprie competenze. I profili aggregano tutte le informazioni personali, tra cui le conversazioni e i file.
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
-<a name="bkmk_Leaderboards"> </a>
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
   
 

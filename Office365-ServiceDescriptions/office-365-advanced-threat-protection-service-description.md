@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale. ATP dispone di funzionalità di creazione report e traccia URL avanzate che consentono agli amministratori di analizzare i tipi di attacchi che si verificano nell'organizzazione.
-ms.openlocfilehash: ffb08bc3104e1c41ebf6441a68fd3d22b367f5c4
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
+ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401742"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734174"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -61,12 +61,14 @@ ATP è incluso in Office 365 Enterprise E5, Office 365 Education a5 e Microsoft 
 
 Per acquistare Office 365 Advanced Threat Protection, vedere [Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Per confrontare le funzionalità tra i piani, vedere [confrontare i piani di Office 365 per le aziende](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) e [individuare la soluzione Microsoft 365 Enterprise adatta all'utente](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Per confrontare le funzionalità tra i piani, vedere [confrontare i piani di Office 365 per le aziende](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) e [individuare la soluzione Microsoft 365 Enterprise adatta all'utente](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Novità in Office 365 Advanced Threat Protection (ATP)
 
 Stiamo continuando ad aggiungere nuove funzionalità a Office 365 ATP. Per ulteriori informazioni sulle nuove funzionalità di ATP (o Microsoft 365 in generale), vedere le risorse seguenti:
+
 - [Roadmap di Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
+
 - [Novità di Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Requisiti per Office 365 Advanced Threat Protection (ATP)
@@ -87,13 +89,13 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |Allegati sicuri nei team|Sì|Sì|Sì|
 |Collegamenti sicuri nei team|No|No|No|
 |Rapporti in tempo reale|Sì|Sì|Sì|
-|*Automazione, indagine, correzione e formazione*|
+|*Automazione, analisi, correzione e formazione*|
 |Tracker delle minacce|No|Sì|Sì|
 |Explorer (Advanced Threat Investigation)|No|Sì|Sì|
 |Risposta agli incidenti automatici|No|Sì|Sì|
 |Simulatore di attacco|No|Sì|Sì|
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>Funzionalità di Advanced Threat Protection (ATP)
+## <a name="advanced-threat-protection-atp-capabilities"></a>Funzionalità avanzate di protezione dalle minacce (ATP)
 
 ### <a name="safe-attachments"></a>Allegati sicuri
 
@@ -104,15 +106,15 @@ Gli [allegati sicuri di ATP](https://docs.microsoft.com/office365/securitycompli
 
 ### <a name="safe-links"></a>Collegamenti sicuri
 
-La funzionalità [ATP Safe Links](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane ogni volta che l'utente fa clic sul collegamento, in quanto i collegamenti dannosi vengono bloccati in modo dinamico mentre i collegamenti corretti continuano ad essere accessibili.
+La funzionalità [ATP Safe Links](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane ogni volta che seleziona il collegamento, in quanto i collegamenti dannosi vengono bloccati dinamicamente mentre è possibile accedere a collegamenti validi.
 
 I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
-- Office 365 ProPlus in Windows o Mac.
+- Office 365 ProPlus in Windows o Mac
 
-- Office per il Web (Word per il Web, Excel per il Web, PowerPoint per il Web e OneNote per il Web).
+- Office per il Web (Word per il Web, Excel per il Web, PowerPoint per il Web e OneNote per il Web)
 
-- Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android.
+- Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android
 
 > [!NOTE]
 > Gli utenti devono essere concessi in<sup>\*</sup>licenza per ATP, devono essere inclusi nei criteri dei collegamenti sicuri di ATP e devono essere firmati nei propri dispositivi affinché la protezione sia sul posto.
@@ -129,7 +131,7 @@ Il [anti-phishing ATP](https://docs.microsoft.com/office365/securitycompliance/a
 
 ### <a name="real-time-reports"></a>Rapporti in tempo reale
 
-Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità di Office 365 includono [rapporti in tempo reale e approfondimenti](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) che consentono agli amministratori della sicurezza e della conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi alla sicurezza o l'aumento attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
+Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità di Office 365 includono [rapporti in tempo reale e](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) informazioni che consentono agli amministratori di sicurezza e conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi di sicurezza o l'aumento attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
 
 ### <a name="threat-trackers"></a>Tracker delle minacce
 
@@ -143,4 +145,4 @@ Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection
 
 ### <a name="attack-simulator"></a>Simulatore di attacco
 
-[Simulatore di attacco](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator) consente agli utenti autorizzati di eseguire scenari di attacco realistici nell'organizzazione. Sono disponibili diversi tipi di attacchi, tra cui un attacco per il nome visualizzato Spear-phishing, un attacco spray per la password e un attacco per la password di forza bruta.
+[Attack Simulator](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator) consente agli utenti autorizzati di eseguire scenari di attacco realistici nell'organizzazione. Sono disponibili diversi tipi di attacchi, tra cui un attacco per il nome visualizzato Spear-phishing, un attacco spray per la password e un attacco per la password di forza bruta.

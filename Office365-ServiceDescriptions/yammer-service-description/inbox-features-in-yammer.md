@@ -1,5 +1,5 @@
 ---
-title: Funzionalità della Posta in arrivo in Yammer
+title: Funzionalità di posta in arrivo in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,30 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.
-ms.openlocfilehash: 8e259ece1629b536b3782df5b523acf5bb747eea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777947"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726339"
 ---
-# <a name="inbox-features-in-yammer"></a>Funzionalità della Posta in arrivo in Yammer
+# <a name="inbox-features-in-yammer"></a>Funzionalità di posta in arrivo in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.
   
 ## <a name="inbox"></a>Posta in arrivo
-<a name="bkmk_Inbox"> </a>
 
-La Posta in arrivo aggrega automaticamente le @menzioni, gli annunci dei gruppi, le conversazioni e i messaggi privati dell'utente in modo che sia facilmente possibile definire la priorità delle risposte.
+La posta in arrivo aggrega automaticamente le @mentions, gli annunci di gruppo, le conversazioni e i messaggi privati in modo da poter assegnare una priorità semplice alle risposte.
   
-## <a name="inbox-search"></a>Ricerca Posta in arrivo
-<a name="bkmk_InboxSearch"> </a>
+## <a name="inbox-search"></a>Ricerca posta in arrivo
 
-Ricercare all'interno di tutta la Posta in arrivo per trovare rapidamente conversazioni, messaggi privati e annunci.
+Eseguire una ricerca in tutta la posta in arrivo per trovare rapidamente conversazioni, messaggi privati e annunci.
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
-<a name="bkmk_InboxSearch"> </a>
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
   
 

@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: f111729e829c0886c38141915fa7225f7633a578
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523214"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726185"
 ---
-# <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online 
+# <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online
 
 Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di SharePoint Online.
   
@@ -24,7 +24,7 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 Business Essentials o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 o SharePoint Online (piano 1 o 2)** <br/> | **Office 365 Enterprise F1** <br/> |
+|**Funzionalità** <br/> |**Office 365 Business Essentials o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 o SharePoint Online (piano 1 o 2)** <br/> | **Office 365 Enterprise F1** <br/> |
 |Spazio di archiviazione totale per ogni organizzazione<sup>1, 2</sup> <br/> |1 TB più 10 GB per licenza acquistata  <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Archiviazione massima per raccolta siti<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Raccolte siti per ogni organizzazione  <br/> |1 milione<sup>6</sup> <br/> |1 milione<sup>6</sup> <br/> |1 milione<br/> |

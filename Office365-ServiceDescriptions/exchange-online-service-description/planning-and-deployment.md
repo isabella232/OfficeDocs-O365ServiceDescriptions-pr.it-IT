@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582002"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733867"
 ---
 # <a name="planning-and-deployment"></a>Pianificazione e distribuzione
 
@@ -38,7 +38,7 @@ Per distribuzione "solo cloud" si intende una soluzione in cui nel servizio Exch
 
 Disponibile per le organizzazioni Microsoft Exchange 2003, Exchange 2007, Exchange 2010 ed Exchange 2013 locali, la distribuzione ibrida offre una configurazione di coesistenza a lungo termine con alcune cassette postali ospitate in Exchange Online o un percorso di migrazione verso l'hosting di tutte le cassette postali utente in Exchange Online. La distribuzione ibrida offre alle organizzazioni la possibilità di estendere al cloud le numerose funzionalità e il controllo amministrativo che hanno nell'organizzazione Microsoft Exchange locale. Le funzionalità di configurazione ibrida includono trasporto della posta sicuro, informazioni sulla disponibilità del calendario condiviso e verifica dei messaggi tra le organizzazioni locali ed Exchange Online.
   
-Per ulteriori informazioni sulle distribuzioni ibride, vedere l'articolo relativo alle [distribuzioni ibride di Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Se si utilizza Office 365 gestito da 21Vianet, vedere [Configurazione delle funzionalità ibride di Exchange con Office 365 gestito da 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+Per ulteriori informazioni sulle distribuzioni ibride, vedere l'articolo relativo alle [distribuzioni ibride di Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Se si utilizza Office 365 gestito da 21Vianet, vedere [Configurazione delle funzionalità ibride di Exchange con Office 365 gestito da 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
   
 > [!IMPORTANT]
 > Le organizzazioni Exchange 2003 locali devono installare almeno un server Accesso client/Cassette postali di Exchange 2010 per configurare la distribuzione ibrida con Exchange Online. Le organizzazioni Exchange 2007 locali devono installare almeno un server Accesso client/Cassette postali di Exchange 2010 o Exchange 2013 per configurare una distribuzione ibrida con Exchange Online. Le organizzazioni Exchange 2010 ed Exchange 2013 locali supportano in modo nativo le distribuzioni ibride con Exchange Online. Per ulteriori informazioni sulla compatibilità dei server Exchange nelle distribuzioni ibride, vedere l'articolo relativo ai [prerequisiti per la distribuzione ibrida](https://go.microsoft.com/fwlink/p/?LinkId=243541)> Le organizzazioni Exchange locali devono configurare la propria organizzazione per la distribuzione ibrida. Per configurare la distribuzione ibrida, si consiglia agli amministratori di utilizzare l'Assistente per la distribuzione di Exchange Server e la procedura guida di configurazione ibrida. Ulteriori informazioni relative [all'assistente per la distribuzione di Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036)

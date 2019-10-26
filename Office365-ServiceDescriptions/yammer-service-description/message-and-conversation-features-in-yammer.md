@@ -1,5 +1,5 @@
 ---
-title: Funzionalità messaggio e conversazione in Yammer
+title: Funzionalità relative a messaggi e conversazioni in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,60 +12,50 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: In Yammer sono disponibili le seguenti funzionalità messaggio e conversazione.
-ms.openlocfilehash: 23bef908e50cf68cfb9866e0f11031e1f808b16f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: c6f913a31250ce9291cf949f2a9098757afeaa21
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777927"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726507"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Funzionalità messaggio e conversazione in Yammer
+# <a name="message-and-conversation-features-in-yammer"></a>Funzionalità relative a messaggi e conversazioni in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità messaggio e conversazione.
   
-## <a name="publisher"></a>Publisher
-<a name="bkmk_Publisher"> </a>
-
-Utilizzare il server Editore per condividere, aggiornare, aggiungere un documento, pubblicare un sondaggio o un evento e fare i complimenti a qualcuno.
-  
 ## <a name="mention"></a>@Mention
-<a name="bkmk_AtMention"> </a>
 
 Inviare notifiche ad altri colleghi e inserirli nella conversazione @menzionando il loro nome.
-  
-## <a name="online-now"></a>Online Now
-<a name="bkmk_OnlineNow"> </a>
 
-Scopri chi è in linea e avvia immediatamente una discussione privata con uno o più colleghi. L'elenco dei contatti viene ordinato automaticamente dalla persone con cui l'utente interagisce più spesso.
-  
-## <a name="private-messages"></a>Private Messages
-<a name="bkmk_PrivateMessages"> </a>
+## <a name="events"></a>Eventi
 
-Avvia un dialogo privato con uno o più colleghi. È possibile aggiungere altri partecipanti in qualunque momento.
-  
-## <a name="share-conversations"></a>Condividi conversazioni
-<a name="bkmk_ShareConversations"> </a>
-
-Condividere conversazioni con il feed di un altro gruppo o tramite messaggio privato per inoltrare informazioni e messaggi importanti.
+Organizzare riunioni ed eventi, condividerli con i colleghi e tenere conto delle presenze. Gli eventi possono essere aggiunti ai calendari di Outlook, Google, Yahoo! e iCal.
   
 ## <a name="office-for-the-web-support"></a>Office per il supporto Web
-<a name="bkmk_ShareConversations"> </a>
 
 Con Office per il supporto Web in Yammer, i documenti caricati in Yammer possono essere visualizzati e modificati con Office per il Web, direttamente in Yammer. In questo modo, i documenti devono essere renderizzati con Office per il Web, consentendo la creazione condivisa da parte di utenti diversi contemporaneamente e visualizza le conversazioni di Yammer rilevanti, direttamente nel browser.
-  
-## <a name="events"></a>Eventi
-<a name="bkmk_Events"> </a>
 
-Organizzare riunioni ed eventi, condividerli con i colleghi e tenere traccia dei partecipanti. È possibile aggiungere gli eventi sui calendari di Outlook, Google, Yahoo! e iCal.
-  
+## <a name="online-now"></a>Ora online
+
+Scopri chi è in linea e avvia immediatamente una discussione privata con uno o più colleghi. L'elenco dei contatti viene ordinato automaticamente dalla persone con cui l'utente interagisce più spesso.
+
 ## <a name="polls"></a>Sondaggi
-<a name="bkmk_Polls"> </a>
 
 È possibile creare un sondaggio in modo facile così da fornire dei questionari ai colleghi e raccogliere commenti per mantenere tutti informati del processo decisionale in corso.
   
-## <a name="feature-availability"></a>Disponibilità delle funzionalità
-<a name="bkmk_Polls"> </a>
+## <a name="private-messages"></a>Messaggi privati
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).
+Avvia un dialogo privato con uno o più colleghi. È possibile aggiungere altri partecipanti in qualunque momento.
+
+## <a name="publisher"></a>Publisher
+
+Utilizzare il server di pubblicazione per condividere un aggiornamento, aggiungere un documento, pubblicare un sondaggio, lodare un utente o inviare un evento.
+    
+## <a name="share-conversations"></a>Condividere le conversazioni
+
+Condividere le conversazioni nel feed di un altro gruppo o tramite un messaggio privato per inoltrare informazioni e messaggi importanti.
   
+## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
+  

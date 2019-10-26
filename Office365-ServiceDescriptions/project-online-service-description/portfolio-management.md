@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: In Project online sono disponibili le seguenti funzionalità di gestione del portfolio.
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633743"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733877"
 ---
 # <a name="portfolio-management"></a>Gestione portfolio
 
@@ -25,11 +25,11 @@ Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analisi dei progetti e ottimizzazione del portfolio
 
-Analizzare i progetti per determinare quali di essi consentiranno di ottenere il miglior rendimento sull'investimento sia del budget che delle risorse. Questo processo viene definito analisi del portfolio. Per ulteriori informazioni, vedere [Usare il grafico a dispersione di analisi del portfolio](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
+Analizzare i progetti per determinare quali di essi consentiranno di ottenere il miglior rendimento sull'investimento sia del budget che delle risorse. Questo processo viene definito analisi del portfolio. Per ulteriori informazioni, vedere [Usare il grafico a dispersione di analisi del portfolio](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
   
 ## <a name="create-and-edit-projects"></a>Creazione e modifica dei progetti
 
-Creazione di progetti in modi diversi. Per ulteriori informazioni, vedere [Creare un progetto in Project Web App](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
+Creazione di progetti in modi diversi. Per ulteriori informazioni, vedere [Creare un progetto in Project Web App](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
   
 ## <a name="enterprise-resource-management"></a>Gestione risorse aziendali
 

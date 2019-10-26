@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Per informazioni sulle funzionalità di confronto tra le sottoscrizioni di Office 365 che includono Exchange Online, vedere In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581942"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701364"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -201,7 +201,7 @@ Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Busine
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilità delle funzionalità tra i piani autonomi di Exchange Online
 
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
+|**Funzionalità**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Pianificazione e distribuzione](planning-and-deployment.md)**||||||
 |Distribuzione ibrida supportata|Sì|Sì|Sì|Sì|Sì<sup>23</sup>|
@@ -245,7 +245,7 @@ Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Busine
 |Messaggi secondari|No|No|Sì|Sì|Sì|
 |Suggerimenti messaggio|Sì|Sì|Sì|Sì|Sì|
 |Accesso delegato|Sì|Sì|Sì\|Sì|No|
-|Regole di Posta in arrivo|Sì|Sì|Sì|Sì|No|
+|Regole di Posta in arrivo|Sì|Sì|Sì|Sì|Sì|
 |Account connessi|Sì|Sì|Sì<sup>19</sup>|Sì<sup>19</sup>|Sì<sup>19</sup>|
 |Cassette postali inattive|No|No|No <sup>6</sup>|Sì|No<sup>6</sup>|
 |Rubrica offline|Sì|Sì|Sì|Sì|Sì|

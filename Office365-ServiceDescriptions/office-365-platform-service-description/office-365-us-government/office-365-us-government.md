@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595243"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734234"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -124,15 +124,15 @@ I clienti che scelgono il beneficio per la migrazione di [FastTrack](https://fas
 
 Office 365 i clienti del governo degli Stati Uniti possono utilizzare i servizi di Azure Government ExpressRoute per connettersi privatamente ai servizi di Office 365 supportati anziché connettersi tramite Internet pubblico.
   
-Per informazioni dettagliate come i provider supportati, i modelli di prezzi e molto altro, consultare le [informazioni su Azure ExpressRoute](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
+Per informazioni dettagliate come i provider supportati, i modelli di prezzi e molto altro, consultare le [informazioni su Azure ExpressRoute](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
   
-Per informazioni dettagliate sul supporto di Office 365 per Azure ExpressRoute, vedere [Azure ExpressRoute per Office 365](http://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409).
+Per informazioni dettagliate sul supporto di Office 365 per Azure ExpressRoute, vedere [Azure ExpressRoute per Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409).
   
 [Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="system-requirements"></a>Requisiti di sistema
 
-Per i requisiti di sistema per i piani di Office 365 US Government, vedere [Requisiti di sistema di Office](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) sul sito di prodotti [office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
+Per i requisiti di sistema per i piani di Office 365 US Government, vedere [Requisiti di sistema di Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) sul sito di prodotti [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
   
 [Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -244,7 +244,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Browser utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Sistema operativo utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|**[Aggiornamenti del servizio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
+|**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |

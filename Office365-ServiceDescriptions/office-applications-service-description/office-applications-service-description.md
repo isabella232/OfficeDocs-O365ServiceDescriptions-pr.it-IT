@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595235"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734023"
 ---
 # <a name="office-applications-service-description"></a>Descrizione servizio applicazioni Office
 
@@ -29,7 +29,7 @@ Sebbene Office 365 sia un servizio basato su cloud, tali applicazioni di Office 
   
 Le applicazioni Office sono disponibili in edizioni a 32 e 64 bit.
   
-Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilità della funzionalità tra i piani Office 365
 <a name="bkmk_Officefeaturesolutions"> </a>
@@ -96,7 +96,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 ><sup>1</sup> Con la presente versione di Office sono supportate le funzionalità di archiviazione e conformità ma i piani Exchange Online e SharePoint Online non sono inclusi e devono essere acquistati separatamente o utilizzati con un server equivalente supportato in locale.<br/>
 <sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità Protezione delle informazioni di Azure richiedono una sottoscrizione a Office 365 ProPlus che non è inclusa in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F1.<br/>
 <sup>3</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate.<br/>
-<sup>4</sup> Se si è in possesso di Office Professional Plus 2013 o di una versione autonoma di Excel 2013, è possibile scaricare e usare la [versione di anteprima di Power Map per Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) come componente aggiuntivo non supportato.<br/> 
+<sup>4</sup> Se si è in possesso di Office Professional Plus 2013 o di una versione autonoma di Excel 2013, è possibile scaricare e usare la [versione di anteprima di Power Map per Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) come componente aggiuntivo non supportato.<br/> 
 <sup>5</sup> Skype for Business Basic è disponibile per tutti i clienti. Il client desktop Skype for Business è un'applicazione installata localmente che fornisce funzionalità di presenza, messaggistica istantanea e conferenza per i piani di Office 365 contenenti Skype for Business online. Office 365 ProPlus e Office 365 Enterprise E3 includono l'applicazione Skype completa, che comprende ulteriori funzionalità tra cui un supporto avanzato alla telefonia, funzionalità di conformità e archiviazione. È necessario assegnare una licenza di Skype for Business online a ciascun utente. Per un confronto tra caratteristiche e funzionalità, vedere [tabelle di confronto client desktop per Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> Alcuni istituti scolastici sono idonei per Education Plus, che include Office 365 ProPlus e consente agli studenti, ai docenti e al personale di installare la versione più recente di Office su un massimo di 5 PC o computer Mac e su altri dispositivi mobili, tra cui tablet Windows e iPad. Gli istituti scolastici si qualificano per Office 365 Education Plus quando richiedono una licenza di Office per tutti i docenti e i membri del personale tramite Enrollment for Education Solutions, Open Value Subscription Education Solutions o un contratto scolastico. Access e Publisher sono disponibili solo su PC. OneNote per Mac è disponibile come download separato dal Mac App Store. <br/>
 <sup>7</sup> Office per Mac 2011 può essere installato, ma non attivato. <br/>

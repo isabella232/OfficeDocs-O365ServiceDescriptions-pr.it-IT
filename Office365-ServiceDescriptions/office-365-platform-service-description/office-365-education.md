@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi&mdash;di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online&mdash;per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595274"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701398"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -65,7 +65,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Funzionalità di amministrazione di Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -140,7 +140,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Aggiornamenti del servizio](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -198,7 +198,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione avanzata della sicurezza](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione delle minacce](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), ad esempio il filtro della posta e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -232,7 +232,7 @@ Utilizzare la tabella seguente per confrontare la disponibilità delle funzional
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**Applicazioni di Office** <br/> ||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |No<sup>3, 4</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |No<sup>3, 4</sup> <br/> |Sì  <br/> |Sì  <br/> |
@@ -312,7 +312,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Pianificazione e distribuzione](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |Distribuzione ibrida supportata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Migrazione IMAP supportata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -500,7 +500,7 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Cassette postali utente  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |Archiviazione delle cassette postali<sup>6, 7</sup> <br/> |Numero illimitato<sup>1</sup> <br/> |Numero illimitato<sup>1</sup> <br/> |Numero illimitato<sup>1</sup> <br/> |
 |Cassette postali condivise  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
@@ -563,7 +563,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Numero massimo di messaggi per cartella di cassette postali  <br/> |1 milione  <br/> |1 milione  <br/> |1 milione  <br/> |
 |Avviso per numero di messaggi per cartella di cassette postali  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |Numero massimo di messaggi per cartella nella cartella Elementi ripristinabili  <br/> |3 milioni  <br/> |3 milioni  <br/> |3 milioni  <br/> |
@@ -605,7 +605,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Limite per la dimensione del messaggio - Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |Limite per la dimensione del messaggio - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
 |Limite per la dimensione del messaggio - Outlook per Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
@@ -637,7 +637,7 @@ I limiti di ricezione si applicano al numero di messaggi che un utente, un grupp
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Messaggi ricevuti  <br/> |3.600 messaggi all'ora  <br/> |3.600 messaggi all'ora  <br/> |3.600 messaggi all'ora  <br/> |
    
 #### <a name="sending-limits"></a>Limiti di invio
@@ -661,7 +661,7 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Limite numero di destinatari  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |10.000 destinatari al giorno  <br/> |
 |Limite destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |500 destinatari  <br/> |
 |Limite di indirizzi proxy del destinatario  <br/> |400  <br/> |400  <br/> |400  <br/> |
@@ -683,7 +683,7 @@ Questi limiti controllano il periodo di tempo durante il quale è possibile acce
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Periodo di mantenimento per la cartella Posta eliminata  <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |Nessun limite<sup>1</sup> <br/> |
 |Periodo di conservazione per gli elementi rimossi dalla cartella Posta eliminata  <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>1</sup> <br/> |14 giorni<sup>1</sup> <br/> |
 |Periodo di conservazione per la cartella Posta indesiderata  <br/> |30 giorni  <br/> |30 giorni  <br/> |30 giorni  <br/> |
@@ -736,7 +736,7 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Numero massimo di regole di journal  <br/> |50 regole  <br/> |50 regole  <br/> |50 regole  <br/> |
 |Numero massimo di regole di trasporto  <br/> |300 regole  <br/> |300 regole  <br/> |300 regole  <br/> |
 |Dimensione massima di una singola regola di trasporto  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
@@ -762,7 +762,7 @@ Questi limiti controllano le impostazioni di moderazione utilizzate per l'approv
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Dimensione massima della cassetta postale di arbitraggio  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |Numero massimo di moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |10 moderatori  <br/> |
 |Scadenza per i messaggi in attesa di moderazione  <br/> |2 giorni  <br/> |2 giorni  <br/> |2 giorni  <br/> |
@@ -829,7 +829,7 @@ Nella tabella seguente vengono descritte le funzionalità di SharePoint disponib
 |[Catalogo app (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Distribuzione di applicazioni: app ospitate nel cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Distribuzione di applicazioni: app ospitate da SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Servizi di gestione delle app](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Servizio di gestione app](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |BCS: avvisi per gli elenchi esterni <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[BCS: tipi di contenuto esterno con ambito app (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[BCS: Web part dati business](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -951,7 +951,7 @@ Nella tabella seguente vengono descritte le funzionalità di SharePoint disponib
 |WCM: rendering per dispositivi mobili <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |WCM: più domini <br/> |No  <br/> |No  <br/> |No  <br/> |
 |WCM: Recommendations <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[WCM: Ottimizzazioni motori di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[WCM: ottimizzazione del motore di ricerca (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizi di automazione di Word](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**Funzionalità Insights** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Centro business intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
@@ -1011,7 +1011,7 @@ Nella tabella seguente vengono descritte le funzionalità di SharePoint disponib
 |OneDrive ibrido per le aziende e i siti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Scalabilità e gestione di elenchi di grandi dimensioni](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Connettività per dispositivi mobili](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |
-|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |
+|[Interfaccia utente multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |
 |My Tasks <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Web part di OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione delle autorizzazioni](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -1079,7 +1079,7 @@ Nella tabella seguente vengono illustrati i limiti di SharePoint per ogni piano 
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Spazio di archiviazione<sup>1, 2</sup> <br/> |1 TB per ogni organizzazione più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB per ogni organizzazione più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB per ogni organizzazione più 10 GB per licenza acquistata<sup>3</sup> <br/> |
 |Condizioni nell'archivio  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |Spazio di archiviazione per raccolte siti  <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |Fino a 25 TB per raccolta siti o gruppo<sup>4</sup> <br/> |
@@ -1103,7 +1103,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for business onli
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype for business completo  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Skype for Business Basic  <br/> |Sì<sup>1</sup> <br/> |No  <br/> |No  <br/> |
@@ -1257,7 +1257,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |Nessun limite  <br/> |
    
@@ -1277,7 +1277,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Limite caricamento file  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |
 |Partecipanti a una riunione in Skype for Business<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Relatori di una riunione in Skype for Business  <br/> |250  <br/> |250  <br/> |250  <br/> |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le funzionalità di SharePoint elencate di seguito supportano i professionisti IT nelle attività di protezione e gestione dell'ambiente SharePoint all'interno dell'organizzazione.
-ms.openlocfilehash: f3a5823454f40abe2d371e2e9c27ccfb2ab411bd
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928451"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726219"
 ---
 # <a name="it-professional"></a>Professionista IT
 
@@ -29,13 +29,13 @@ Se nell'azienda sono presenti utenti che operano in un ambiente Active Directory
   
 ## <a name="alternate-access-mapping-aam"></a>Alternate Access Mapping (AAM)
 
-Non disponibile per i clienti di SharePoint Online. I clienti di SharePoint Server 2013 possono configurare il mapping di accesso alternativo per eseguire il mapping delle richieste in cui l'URL di una richiesta Web ricevuta da Internet Information Services (IIS) è diverso dall'URL digitato dall'utente.
+Non disponibile per i clienti SharePoint Online. SharePoint Server 2013 i clienti possono configurare il mapping di accesso alternativo per le richieste di mapping in cui l'URL di una richiesta Web ricevuta da Internet Information Services (IIS) è diverso dall'URL digitato da un utente.
   
 ## <a name="anti-malware-protection"></a>Protezione anti-malware
 
 SharePoint Online fornisce protezione antimalware per file caricati e salvati su librerie di documenti. Tale protezione viene fornita dal motore antimalware Microsoft, anch'esso integrato in Exchange. Questo servizio antimalware viene eseguito su tutti gli SharePoint Online Content Front Ends (CFE).
   
-## <a name="claims-based-authentication-support"></a>Claims-Based Authentication Support
+## <a name="claims-based-authentication-support"></a>Supporto dell'autenticazione basata sulle attestazioni
 
 Non disponibile per i clienti di SharePoint Online. I clienti di SharePoint Server 2013 configurano l'autenticazione basata sulle attestazioni per le applicazioni Web che supportano l'autenticazione delle app e da server a server di SharePoint Server 2013. Per ulteriori informazioni, vedere [Autenticazione basata sulle attestazioni](https://go.microsoft.com/fwlink/p/?LinkId=270982).
   
@@ -47,9 +47,9 @@ Prevenzione della perdita di dati (DLP) identifica dati sensibili archiviati in 
 
 Esistono due livelli di crittografia dei dati inattivi per SharePoint Online. La crittografia dei dati inattivi di SharePoint Online fornisce crittografia BitLocker per impostazione predefinita per tutte le raccolte di documenti del cliente, per i dati di OneDrive for Business degli utenti e per i dati del sito che si trovano nei centri dati di Office 365. La crittografia di ciascun file crittograferà ogni singolo file archiviato in SharePoint Online e OneDrive for Business con la propria chiave univoca. SharePoint Online e OneDrive for Business forniscono sempre crittografia in transito. Per ulteriori informazioni sulla crittografia dei dati inattivi, vedere le [innovazioni in materia di sicurezza e conformità](https://www.microsoft.com/en-us/microsoft-365/blog/2014/10/28/office-365-latest-innovations-security-compliance/).
   
-## <a name="host-header-site-collections"></a>Host Header Site Collections
+## <a name="host-header-site-collections"></a>Raccolte siti di intestazione host
 
-Non disponibile per i clienti di SharePoint Online. Le raccolte di siti di SharePoint Server 2013 possono avere intestazioni host univoche. La creazione di una raccolta di siti con denominazione host consente alle organizzazioni di personalizzare più raccolte di siti con URL di reindirizzamento a microsito in modo che gli utenti possano ricordarli più facilmente.
+Non disponibile per i clienti SharePoint Online. Le raccolte di siti di SharePoint Server 2013 possono avere intestazioni host univoche. La creazione di una raccolta siti con nome basato sull'host consente a un'organizzazione di ospitare più raccolte siti con URL di vanità, che sono più facili da ricordare per gli utenti.
   
 ## <a name="mobile-device-management-for-office-365"></a>Gestione dispositivi mobili in Office 365
 
@@ -57,17 +57,17 @@ Puoi utilizzare Gestione dispositivi mobili (MDM) per Office 365 per impostare r
   
 ## <a name="oauth"></a>OAuth
 
-OAuth è un protocollo di Internet per la creazione e la gestione delle identità delle app. OAuth consente di riconoscere l'identità dell'app indipendentemente dall'identità dell'utente. Questo meccanismo multipiattaforma fa sì che alle app possano essere concesse più autorizzazioni di quelle disponibili per l'utente corrente. Per ulteriori informazioni, vedere [Autenticazione da server a server](https://go.microsoft.com/fwlink/p/?LinkId=270988).
+OAuth è un protocollo Internet per la creazione e la gestione dell'identità delle app. OAuth consente di riconoscere l'identità dell'app oltre all'identità dell'utente. Questo meccanismo multipiattaforma fa sì che alle app possano essere concesse più autorizzazioni di quelle disponibili per l'utente corrente. Per ulteriori informazioni, vedere [Autenticazione da server a server](https://docs.microsoft.com/SharePoint/security-for-sharepoint-server/plan-server-to-server-authentication).
   
-## <a name="patch-management"></a>Patch Management
+## <a name="patch-management"></a>Gestione patch
 
 Non disponibile per i clienti di SharePoint Online. Gli aggiornamenti di SharePoint Server 2013 verranno rilasciati tramite un processo composto da due fasi: applicazione delle patch e aggiornamento. Durante l'applicazione delle patch, i nuovi file binari vengono copiati sul server Amministrazione centrale. Tutti i servizi che utilizzano i file da sostituire vengono temporaneamente arrestati. In alcune circostanze, è necessario riavviare un server.
   
-## <a name="quota-templates"></a>Quota Templates
+## <a name="quota-templates"></a>Modelli quote
 
 Non disponibile per i clienti di SharePoint Online. Un modello quote è costituito dai valori che indicano la quantità massima di dati che è possibile archiviare in una raccolta di siti. Quando si raggiunge questo limite di archiviazione, il modello può inviare tramite posta elettronica un avviso all'amministratore del sito. Gli amministratori di SharePoint Online e gli amministratori farm di SharePoint Server 2013 possono creare un modello quote applicabile a qualsiasi raccolta di siti.
   
-## <a name="read-only-database-support"></a>Read-Only Database Support
+## <a name="read-only-database-support"></a>Supporto del database di sola lettura
 
 Non disponibile per i clienti di SharePoint Online. Gli amministratori di SharePoint Server 2013 possono impostare il contenuto dei database in modo che sia di sola lettura.
   
@@ -75,17 +75,17 @@ Non disponibile per i clienti di SharePoint Online. Gli amministratori di ShareP
 
 Non disponibile per i clienti di SharePoint Online. Archiviazione BLOB remoti è un Feature Pack di componenti aggiuntivi per Microsoft SQL Server. Archiviazione BLOB remoti è stato progettato per trasferire l'archiviazione degli oggetti binari di grandi dimensioni (BLOB) dai server di database a soluzioni di archiviazione commodity. Se la dimensione dei database dei contenuti in Microsoft SharePoint Server 2013 è maggiore o uguale a 4 GB, può essere opportuno utilizzare Archiviazione BLOB remoti nell'ambito della soluzione di archiviazione corrente.
   
-## <a name="request-management"></a>Gestione richieste
+## <a name="request-management"></a>Gestione delle richieste
 
 Non disponibile per i clienti di SharePoint Online. Gli amministratori di SharePoint Server 2013 possono migliorare le prestazioni utilizzando Gestione richieste per definire le regole per l'instradamento e la limitazione delle richieste.
   
 ## <a name="resource-throttling"></a>Resource throttling
 
-Non disponibile per i clienti di SharePoint Online. Limitazione risorse fornisce agli amministratori di SharePoint Server 2013 una serie di opzioni per monitorare e limitare le risorse dei server e gli elenchi di grandi dimensioni per le applicazioni Web. Limitazione risorse può monitorare le risorse, quali CPU, memoria, tempo di attesa, verificandole ogni 5 secondi. 
+Non disponibile per i clienti SharePoint Online. La limitazione delle risorse fornisce agli amministratori di SharePoint Server 2013 le opzioni per il monitoraggio e la limitazione delle risorse del server e degli elenchi di grandi dimensioni per le applicazioni Web. Limitazione risorse può monitorare le risorse, quali CPU, memoria, tempo di attesa, verificandole ogni 5 secondi. 
   
-## <a name="service-application-platform"></a>Piattaforma per le applicazioni di servizio
+## <a name="service-application-platform"></a>Piattaforma dell'applicazione di servizio
 
-I servizi SharePoint possono essere utilizzati individualmente da qualsiasi applicazione Web. Questa piattaforma offre la flessibilità necessaria per utilizzare i servizi in base alle esigenze di ciascuna applicazione. Web Analytics non è più un'applicazione di servizio. Analizzare e segnalare i processi inclusi nell'applicazione del servizio di Ricerca. Office per il Web non è più un'applicazione di servizio. Server Office Web Apps è ora un prodotto server separato. A seconda di quale Office 365 pianifica la propria organizzazione, Office per il Web potrebbe essere disponibile per i clienti di SharePoint Online. Per ulteriori informazioni, vedere [Applicazioni di servizio SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=270989).
+SharePoint Services può essere utilizzato singolarmente da qualsiasi applicazione Web. Questa piattaforma offre la flessibilità necessaria per utilizzare i servizi in base alle esigenze di ciascuna applicazione. Web Analytics non è più un'applicazione di servizio. Analizzare e segnalare i processi inclusi nell'applicazione del servizio di Ricerca. Office per il Web non è più un'applicazione di servizio. Server Office Web Apps è ora un prodotto server separato. A seconda di quale Office 365 pianifica la propria organizzazione, Office per il Web potrebbe essere disponibile per i clienti di SharePoint Online. Per ulteriori informazioni, vedere [Applicazioni di servizio SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=270989).
   
 ## <a name="sharepoint-health-analyzer"></a>Analizzatore dell'integrità di SharePoint
 
@@ -93,7 +93,7 @@ Non disponibile per i clienti di SharePoint Online. Nuovo in SharePoint Server 2
   
 ## <a name="sharepoint-admin-center-office-365"></a>Interfaccia di amministrazione di SharePoint (Office 365)
 
-L'interfaccia di amministrazione di SharePoint, disponibile solo per alcuni clienti di SharePoint Online, permette agli amministratori di gestire funzionalità quali:
+L'interfaccia di amministrazione di SharePoint, disponibile solo per alcuni clienti di SharePoint Online, consente agli amministratori di gestire le funzionalità seguenti:
   
 - Raccolte siti
     
@@ -121,15 +121,15 @@ L'interfaccia di amministrazione di SharePoint, disponibile solo per alcuni clie
     
 Per ulteriori informazioni, vedere l'articolo relativo all'[interfaccia di amministrazione di SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=270990).
   
-## <a name="site-collection-compliance-policies"></a>Criteri di conformità per le raccolte di siti
+## <a name="site-collection-compliance-policies"></a>Criteri di conformità delle raccolte siti
 
-Nell'elenco Criteri raccolta siti è possibile creare un criterio per il sito di livello superiore all'interno di una raccolta. Una volta creato, il criterio può essere esportato in modo che gli amministratori di altre raccolte di siti possano importarlo nei loro elenchi Criteri raccolta siti. La creazione di un criterio esportabile permette agli amministratori di standardizzare i criteri di gestione delle informazioni tra i siti di un'organizzazione.
+Nell'elenco Criteri raccolta siti è possibile creare un criterio per il sito di livello superiore all'interno di una raccolta. Una volta creato, il criterio può essere esportato in modo che gli amministratori di altre raccolte di siti possano importarlo nei loro elenchi Criteri raccolta siti. La creazione di un criterio di raccolta siti esportabile consente agli amministratori di SharePoint di standardizzare i criteri di gestione delle informazioni tra i siti di un'organizzazione.
   
-## <a name="usage-reporting-and-logging"></a>Usage Reporting and Logging
+## <a name="usage-reporting-and-logging"></a>Report di utilizzo e registrazione
 
 Non disponibile per i clienti di SharePoint Online. Gli amministratori di SharePoint Server 2013 utilizzano i rapporti di controllo per visualizzare i dati presenti nei registri di controllo relativi a una raccolta di siti. Per ulteriori informazioni, vedere [Registri di controllo delle raccolte di siti](https://go.microsoft.com/fwlink/p/?LinkId=270992).
   
-## <a name="windows-powershell-support"></a>Windows PowerShell Support
+## <a name="windows-powershell-support"></a>Supporto di Windows PowerShell
 
 Gli amministratori di SharePoint Online possono utilizzare i cmdlet di SharePoint Online Windows PowerShell per creare degli script e automatizzare le attività di amministrazione per la sottoscrizione, quali:
   
@@ -151,4 +151,3 @@ Per ulteriori informazioni, vedere [SharePoint Online Management Shell](https://
 
 Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio SharePoint Online](sharepoint-online-service-description.md).
   
-

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per i servizi a livello di tenant di Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582032"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734194"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Guida alla gestione delle licenze di servizi a livello di Microsoft 365
 
@@ -123,7 +123,7 @@ Per confrontare le funzionalità, vedere [differenze tra Microsoft cloud app Sec
 
 Gli utenti con licenza di Office 365 E5/A5/G5 possono trarre vantaggio da OCAS.
 
-Per ulteriori informazioni, vedere il [foglio dati di Microsoft cloud app Security Licensing](http://www.aka.ms/mcaslicensing).
+Per ulteriori informazioni, vedere il [foglio dati di Microsoft cloud app Security Licensing](https://www.aka.ms/mcaslicensing).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -153,7 +153,7 @@ Per usufruire delle funzionalità di [controllo delle app con accesso condiziona
 
 Per usufruire dell' [etichettatura automatica](https://docs.microsoft.com/cloud-app-security/data-protection-policies), gli utenti devono essere concessi in licenza per Azure Information Protection P2, incluso in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Compliance.
 
-Per ulteriori informazioni, vedere il [foglio dati di Microsoft cloud app Security Licensing](http://www.aka.ms/mcaslicensing).
+Per ulteriori informazioni, vedere il [foglio dati di Microsoft cloud app Security Licensing](https://www.aka.ms/mcaslicensing).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: "Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate."
-ms.openlocfilehash: f4a99204cdd078a79bdf2ed4ff760dfe74e975a6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 262f6d17c1fc537244091de8746c7e307463a6d0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582162"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734013"
 ---
 # <a name="office-applications"></a>Applicazioni di Office
 
@@ -59,7 +59,7 @@ Skype for Business è un client per la messaggistica istantanea e un'applicazion
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath è un programma che consente di progettare, distribuire, completare e inviare formati elettronici. È possibile scegliere di aggiungere Web part Modulo di InfoPath a un sito SharePoint Online. Ulteriori informazioni su [Utilizzare la web part Modulo di InfoPath](http://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath è un programma che consente di progettare, distribuire, completare e inviare formati elettronici. È possibile scegliere di aggiungere Web part Modulo di InfoPath a un sito SharePoint Online. Ulteriori informazioni su [Utilizzare la web part Modulo di InfoPath](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Per informazioni su come PowerApps, il successore di InfoPath, può migliorare la produttività aziendale in SharePoint senza scrivere codice, vedere [Customize SharePoint with PowerApps](https://powerapps.microsoft.com/infopath/).
   

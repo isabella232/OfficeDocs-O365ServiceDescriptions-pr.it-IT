@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633437"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734053"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
 Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
   
 > [!NOTE]
-> Se si utilizza Office 365 gestito da 21Vianet, alcune delle informazioni seguenti potrebbero non essere valide. In alternativa, consultare il [contratto di servizio di 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
+> Se si utilizza Office 365 gestito da 21Vianet, alcune delle informazioni seguenti potrebbero non essere valide. In alternativa, consultare il [contratto di servizio di 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="view-status-of-services"></a>Visualizzazione dello stato dei servizi
 
@@ -75,7 +75,7 @@ Quando si verifica un incidente di servizio, Microsoft riconosce che per i clien
 
 ### <a name="office-365-admin-app"></a>Applicazione Office 365 Admin
 
-L'app di amministrazione per gli amministratori di Office 365 tenant offre la possibilità di connettersi con lo stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori tenant di Office 365 avranno la possibilità di visualizzare le informazioni sull'integrità dei servizi e gli aggiornamenti dello stato di manutenzione dai propri dispositivi mobili. Per ulteriori informazioni, visitare le [domande frequenti sull'app di amministrazione](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+L'app di amministrazione per gli amministratori di Office 365 tenant offre la possibilità di connettersi con lo stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori tenant di Office 365 avranno la possibilità di visualizzare le informazioni sull'integrità dei servizi e gli aggiornamenti dello stato di manutenzione dai propri dispositivi mobili. Per ulteriori informazioni, visitare le [domande frequenti sull'app di amministrazione](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Management Pack di Office 365 per Microsoft System Center 2012 R2
 
@@ -115,7 +115,7 @@ Per tutti gli altri incidenti del servizio, il dashboard dell'integrità del ser
 
 Le offerte di Microsoft Office 365 vengono rese disponibili tramite sistemi altamente resilienti utili per mantenere le prestazioni del servizio a un livello ottimale. Le disposizioni di continuità del servizio fanno parte della progettazione di Office 365. Tali disposizioni consentono a Office 365 di riprendere tempestivamente a funzionare in seguito a eventi imprevisti, quali guasti hardware o errori di applicazione, danneggiamento dei dati o altri incidenti che colpiscono gli utenti. Queste soluzioni per la continuità del servizio vengono applicate anche in caso di interruzioni estremamente gravi, ad esempio in seguito a disastri naturali o a un incidente in un data center Microsoft che compromette il funzionamento dell'intero data center.
   
-Notare che dopo il recupero da interruzioni estremamente gravi, può essere necessario prevedere un intervallo di tempo prima che per il servizio venga ripristinata la ridondanza completa del data center. Ad esempio, in caso di errore del Data Center 1, i servizi vengono ripristinati utilizzando le risorse nel Data Center 2. Tuttavia, ci potrebbe essere un intervallo di tempo prima che il Data Center 2 riprenda la continuità del servizio a causa delle risorse ripristinate nel Data Center 1 o delle nuove risorse nel Data Center 3. In questa fase si applica il [Contratto di servizio](service-level-agreement.md) per Office 365. Office 365 gestito da 21Vianet è caratterizzato da un contratto di servizio differente. Per ulteriori informazioni, consultare il [sito di 21Vianet site](http://www.21vbluecloud.com/office365/O365-SLA/). 
+Notare che dopo il recupero da interruzioni estremamente gravi, può essere necessario prevedere un intervallo di tempo prima che per il servizio venga ripristinata la ridondanza completa del data center. Ad esempio, in caso di errore del Data Center 1, i servizi vengono ripristinati utilizzando le risorse nel Data Center 2. Tuttavia, ci potrebbe essere un intervallo di tempo prima che il Data Center 2 riprenda la continuità del servizio a causa delle risorse ripristinate nel Data Center 1 o delle nuove risorse nel Data Center 3. In questa fase si applica il [Contratto di servizio](service-level-agreement.md) per Office 365. Office 365 gestito da 21Vianet è caratterizzato da un contratto di servizio differente. Per ulteriori informazioni, consultare il [sito di 21Vianet site](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Garantire la disponibilità dei dati
 

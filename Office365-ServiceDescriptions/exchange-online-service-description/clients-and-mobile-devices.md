@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581922"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734224"
 ---
 # <a name="clients-and-mobile-devices"></a>Client e dispositivi mobili
 
@@ -47,7 +47,7 @@ Outlook sul Web è disponibile in due versioni client, entrambe utilizzabili con
 
 - **Versione Light di Outlook sul Web** La versione Light di Outlook sul Web permette agli utenti di Exchange Online di accedere alla cassetta postale praticamente con qualsiasi Web browser. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni degli utenti all'interno dell'applicazione Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, la versione light di OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
 
-Outlook sul Web è disponibile anche in versioni per dispositivi mobili. Per ulteriori informazioni, vedere [questa pagina](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
+Outlook sul Web è disponibile anche in versioni per dispositivi mobili. Per ulteriori informazioni, vedere [questa pagina](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
 ## <a name="outlook-for-mac"></a>Outlook per Mac
 

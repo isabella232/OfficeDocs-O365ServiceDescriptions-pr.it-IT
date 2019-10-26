@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777477"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734033"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
 Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti. 
   
-Gli argomenti presenti in questa libreria forniscono descrizioni dettagliate su servizi e funzionalità disponibili in Office 365. Per confrontare le funzionalità tra piani, vedere [Confronto tra piani di Office 365 for Business ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oppure la relativa descrizione del servizio nell'elenco riportato di seguito. 
+Gli argomenti presenti in questa libreria forniscono descrizioni dettagliate su servizi e funzionalità disponibili in Office 365. Per confrontare le funzionalità tra piani, vedere [Confronto tra piani di Office 365 for Business ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oppure la relativa descrizione del servizio nell'elenco riportato di seguito. 
   
 Per cercare articoli di supporto e informazioni, vedere [Supporto Office](https://support.office.com/).
   
@@ -40,7 +40,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione servizio applicazioni Office](office-applications-service-description/office-applications-service-description.md)
     
-- [Office per la descrizione del servizio Web](office-online-service-description/office-online-service-description.md)
+- [Descrizione del servizio Office per il Web](office-online-service-description/office-online-service-description.md)
     
 - [Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -64,18 +64,18 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
     
 - [Descrizione del servizio Project Online](project-online-service-description/project-online-service-description.md)
     
-- [Visio per la descrizione del servizio Web](visio-online-service-description/visio-online-service-description.md)
+- [Descrizione del servizio Visio per il Web](visio-online-service-description/visio-online-service-description.md)
     
 - [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
 
 - [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Guida alla gestione delle licenze di servizi a livello di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> Include la disponibilità delle [funzionalità della famiglia di prodotti](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx), ad esempio Office Delve, Microsoft MyAnalytics, Microsoft Sway e Microsoft Teams. 
+> <sup>1</sup> Include la disponibilità delle [funzionalità della famiglia di prodotti](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), ad esempio Office Delve, Microsoft MyAnalytics, Microsoft Sway e Microsoft Teams.
   
 ## <a name="disclaimer"></a>Dichiarazione di non responsabilità
 

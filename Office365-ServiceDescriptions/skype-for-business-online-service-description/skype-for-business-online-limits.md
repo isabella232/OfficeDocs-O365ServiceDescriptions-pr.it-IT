@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'I limiti di Skype for business online rientrano nelle categorie seguenti:'
-ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: I limiti di Skype for business online rientrano nelle categorie seguenti.
+ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777807"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726065"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti in Skype for Business Online
 
@@ -68,7 +68,6 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 > <sup>1</sup> un client può avviare una chat con un massimo di 99 utenti aggiungendoli manualmente o inviando un messaggio istantaneo dal menu di scelta rapida di un gruppo o di una lista di distribuzione. Per ulteriori informazioni sulla messaggistica istantanea in Skype for business online, vedere [inviare un messaggio istantaneo in Skype for business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Limiti delle riunioni
-<a name="bkmk_Meeting_LyncOnlineLimits"> </a>
 
 - **Limite caricamento file** La dimensione massima relativa ai file che possono essere caricati durante una riunione in Skype for Business, inclusi gli stampati e le presentazioni PowerPoint. 
     
@@ -112,7 +111,6 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 |Singoli utenti in un gruppo autorizzato alla risposta  <br/> |25  <br/> |Non applicabile  <br/> |25  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Limiti di conservazione delle riunioni
-<a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
 
 - **Periodo di conservazione dei contenuti delle riunioni** La quantità di tempo dopo che l'ultima persona ha lasciato una riunione durante la quale i contenuti caricati durante la riunione vengono conservati in Skype for Business prima di essere eliminati in modo permanente. 
     
@@ -131,10 +129,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 |Riunione ricorrente senza data di fine| La riunione sarà sempre accessibile, purché siano presenti nuovi join di conferenza (attivazioni) o la pianificazione degli aggiornamenti almeno una volta all'anno
 |Incontra ora|La riunione sarà accessibile per almeno 8 ore.
 
-
-  
 ## <a name="minute-limits"></a>Limiti di minuti
-<a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-Per informazioni sui limiti di minuti previsti nel piano delle chiamate nazionali di Office 365 o nel piano delle chiamate internazionali di Office 365, fare clic [qui](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
+Per informazioni sulle limitazioni dei minuti nel piano per le chiamate nazionali di Office 365 o nel piano per le chiamate internazionali di Office 365, accedere alla disponibilità per i servizi di [audioconferenza e le chiamate in un paese e](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)in una regione.
   

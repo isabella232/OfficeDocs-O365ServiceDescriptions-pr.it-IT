@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: In quanto partner autorizzato di Microsoft, Microsoft Office 365 offre l'opportunità di incrementare la base di clienti e creare con essi relazioni durature. A fronte di un canone mensile o annuale, i clienti possono utilizzare i servizi basati su cloud, evitando in tal modo di dover gestire backup dei dati, hardware per i server e relativi aggiornamenti. I servizi effettivamente disponibili dipendono dal tipo di servizi che si è autorizzati a fornire.
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582112"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734083"
 ---
 # <a name="partners"></a>Partner
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582112"
 In quanto partner autorizzato di Microsoft, Microsoft Office 365 offre l'opportunità di incrementare la base di clienti e creare con essi relazioni durature. A fronte di un canone mensile o annuale, i clienti possono utilizzare i servizi basati su cloud, evitando in tal modo di dover gestire backup dei dati, hardware per i server e relativi aggiornamenti. I servizi effettivamente disponibili dipendono dal tipo di servizi che si è autorizzati a fornire.
   
 > [!NOTE]
-> Per ulteriori informazioni su come utilizzare le funzionalità per i partner, vedere [Sviluppo dell'attività e amministrazione della sottoscrizione dei partner di Office 365](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) ed esaminare la presentazione delle funzionalità per i partner. Per poter accedere alle funzionalità per i partner, è possibile partecipare al programma Cloud Essentials accettando l' [accordo per i partner Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
+> Per ulteriori informazioni su come utilizzare le funzionalità per i partner, vedere [Sviluppo dell'attività e amministrazione della sottoscrizione dei partner di Office 365](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) ed esaminare la presentazione delle funzionalità per i partner. Per poter accedere alle funzionalità per i partner, è possibile partecipare al programma Cloud Essentials accettando l' [accordo per i partner Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>Creazione di inviti e ordini di acquisto di prova
 
@@ -47,9 +47,9 @@ Anche quando un cliente ha autorizzato un partner per lo svolgimento delle attiv
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Connessione con i clienti e altri partner in Office 365Marketplace
 
-Office 365 Marketplace offre ai clienti l'opportunità di avvalersi dei servizi e dell'esperienza di un partner. Per ulteriori informazioni, vedere [Essere inseriti nell'Office 365 Marketplace](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
+Office 365 Marketplace offre ai clienti l'opportunità di avvalersi dei servizi e dell'esperienza di un partner. Per ulteriori informazioni, vedere [Essere inseriti nell'Office 365 Marketplace](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
   
-Microsoft Partner Network è impegnata a rispondere a tutte le esigenze dei partner di Microsoft. Per unirsi alla rete per scoprire come Microsoft si occupa dei propri partner, vere [Microsoft Partner Network](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
+Microsoft Partner Network è impegnata a rispondere a tutte le esigenze dei partner di Microsoft. Per unirsi alla rete per scoprire come Microsoft si occupa dei propri partner, vere [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

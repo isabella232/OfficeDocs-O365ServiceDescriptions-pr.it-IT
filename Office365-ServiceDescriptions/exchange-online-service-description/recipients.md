@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
-ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582132"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734204"
 ---
 # <a name="recipients"></a>Destinatari
 
@@ -50,7 +50,7 @@ Per i delegati sono disponibili due tipi di accesso:
     
 - **Autorizzazioni Invia come** Il delegato può inviare i messaggi dalla cassetta postale dell'altra persona come se fosse il proprietario della cassetta postale. È uno scenario frequente in caso di cassetta postale condivisa da cui alcuni dipendenti inviano messaggi di posta elettronica anziché inviarli con i propri account Exchange Online. 
     
-Per ulteriori informazioni su come concedere la delega di accesso, vedere [Gestire le autorizzazioni per i destinatari](https://technet.microsoft.com/en-us/library/jj919240%28v=exchg.160%29.aspx).
+Per ulteriori informazioni su come concedere la delega di accesso, vedere [Gestire le autorizzazioni per i destinatari](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx).
   
 ### <a name="inbox-rules"></a>Regole di Posta in arrivo
 
@@ -62,7 +62,7 @@ Messaggi secondari consente di concentrarsi sui messaggi più importanti nella p
   
 ### <a name="connected-accounts"></a>Account connessi
 
-La funzionalità account connessi consente agli utenti di Exchange Online di connettere gli account di posta elettronica esterni (ad esempio gli account personali) ai propri account di posta elettronica interni in Exchange Online e quindi di utilizzare Outlook sul Web per interagire con tutti i messaggi in un'unica posizione. Gli account connessi vengono sincronizzati automaticamente al momento dell'accesso a Outlook sul Web. Gli utenti possono anche sincronizzare manualmente gli account da Outlook sul Web. Gli amministratori possono abilitare e disabilitare questa funzionalità per determinati utenti o per tutti gli utenti nell'[Interfaccia di amministrazione di Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
+La funzionalità account connessi consente agli utenti di Exchange Online di connettere gli account di posta elettronica esterni (ad esempio gli account personali) ai propri account di posta elettronica interni in Exchange Online e quindi di utilizzare Outlook sul Web per interagire con tutti i messaggi in un'unica posizione. Gli account connessi vengono sincronizzati automaticamente al momento dell'accesso a Outlook sul Web. Gli utenti possono anche sincronizzare manualmente gli account da Outlook sul Web. Gli amministratori possono abilitare e disabilitare questa funzionalità per determinati utenti o per tutti gli utenti nell'[Interfaccia di amministrazione di Exchange](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
   
 ### <a name="inactive-mailboxes"></a>Cassette postali inattive
 
@@ -79,7 +79,7 @@ Per ulteriori informazioni, vedere:
     
 - [Conservazione in locale e per controversia legale](https://go.microsoft.com/fwlink/p/?LinkId=271746)
     
-- l'articolo relativo a [eDiscovery sul posto](http://go.microsoft.com/fwlink/p/?LinkId=271747)
+- l'articolo relativo a [eDiscovery sul posto](https://go.microsoft.com/fwlink/p/?LinkId=271747)
     
 ## <a name="contacts-and-distribution-groups"></a>Contatti e gruppi di distribuzione
 
@@ -103,14 +103,14 @@ Exchange Online supporta la personalizzazione di elenchi indirizzi e GAL. Un ele
 
 Un gruppo di distribuzione (o elenco di distribuzione) è una raccolta di utenti, contatti e altri gruppi di distribuzione disponibili in una società. Per inviare messaggi a tutti i componenti di un gruppo di distribuzione, gli utenti indirizzano la posta elettronica all'alias del gruppo. I gruppi di distribuzione sono simili ai gruppi di distribuzione personali creati dai singoli utenti in Outlook, con la differenza che gli elenchi dei membri sono disponibili per la società a livello globale. I gruppi di distribuzione vengono creati dagli amministratori nell'interfaccia di amministrazione di Exchange. I gruppi possono inoltre essere sincronizzati con Exchange Online da Active Directory locale. Vengono visualizzati nell'elenco indirizzi globale in Outlook. Exchange Online supporta le funzionalità dei gruppi di distribuzione avanzate, tra cui quelle descritte qui di seguito:
   
-- **Gruppi di distribuzione con restrizioni** Per impostazione predefinita, tutti possono inviare messaggi di posta elettronica a qualsiasi gruppo di distribuzione. Gli amministratori hanno la possibilità di modificare le autorizzazioni per consentire solo a utenti specifici di inviare messaggi di posta elettronica a un determinato gruppo, ad esempio per scoraggiare l'uso non appropriato di elenchi di distribuzione di grandi dimensioni. Possono anche impedire a origini esterne di inviare posta elettronica ai gruppi di distribuzione per evitare la posta indesiderata. Per i gruppi di distribuzione sincronizzati da Active Directory locale utilizzando lo strumento di sincronizzazione della directory, gli attributi della restrizione sono sincronizzati automaticamente con il cloud. Per ulteriori informazioni, vedere [Gestire i gruppi di distribuzione](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx).
+- **Gruppi di distribuzione con restrizioni** Per impostazione predefinita, tutti possono inviare messaggi di posta elettronica a qualsiasi gruppo di distribuzione. Gli amministratori hanno la possibilità di modificare le autorizzazioni per consentire solo a utenti specifici di inviare messaggi di posta elettronica a un determinato gruppo, ad esempio per scoraggiare l'uso non appropriato di elenchi di distribuzione di grandi dimensioni. Possono anche impedire a origini esterne di inviare posta elettronica ai gruppi di distribuzione per evitare la posta indesiderata. Per i gruppi di distribuzione sincronizzati da Active Directory locale utilizzando lo strumento di sincronizzazione della directory, gli attributi della restrizione sono sincronizzati automaticamente con il cloud. Per ulteriori informazioni, vedere [Gestire i gruppi di distribuzione](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **Gruppi di distribuzione dinamici** L'elenco dei membri di un gruppo di distribuzione dinamico (noto anche come elenco di distribuzione dinamico o elenco di distribuzione basato su query) viene calcolato ogni volta che un messaggio viene inviato a un gruppo. Il calcolo si basa sui filtri e sulle condizioni definiti dall'amministratore. Sono gestiti in Exchange Online tramite Windows PowerShell remoto. Per ulteriori informazioni sui gruppi di distribuzione dinamici, vedere [Gestire i gruppi di distribuzione dinamici](https://technet.microsoft.com/EN-US/library/bb123722%28v=exchg.160%29.aspx).
+- **Gruppi di distribuzione dinamici** L'elenco dei membri di un gruppo di distribuzione dinamico (noto anche come elenco di distribuzione dinamico o elenco di distribuzione basato su query) viene calcolato ogni volta che un messaggio viene inviato a un gruppo. Il calcolo si basa sui filtri e sulle condizioni definiti dall'amministratore. Sono gestiti in Exchange Online tramite Windows PowerShell remoto. Per ulteriori informazioni sui gruppi di distribuzione dinamici, vedere [Gestire i gruppi di distribuzione dinamici](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
     
     > [!IMPORTANT]
     > Lo strumento di sincronizzazione della directory di Office 365 ignora i gruppi di distribuzione dinamici in Active Directory locale e non li sincronizza con Exchange Online. Per le organizzazioni che utilizzano lo strumento di sincronizzazione della direcory, è consigliabile utilizzare una convenzione di denominazione in grado di prevenire i conflitti tra i gruppi di distribuzione regolari gestiti in locale e i gruppi di distribuzione dinamici gestiti in Exchange Online. 
   
-- **Gruppi di distribuzione moderati** Gli amministratori possono selezionare un moderatore per regolare il flusso dei messaggi a un gruppo di distribuzione. Con i gruppi di distribuzione moderati, tutti possono inviare messaggi di posta elettronica all'alias del gruppo di distribuzione, ma prima che il messaggio venga recapitato ai membri del gruppo deve essere esaminato e approvato da un moderatore. Per ulteriori informazioni sulla moderazione, vedere la sezione Approvazione del messaggio in [Gestire i gruppi di distribuzione](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx).
+- **Gruppi di distribuzione moderati** Gli amministratori possono selezionare un moderatore per regolare il flusso dei messaggi a un gruppo di distribuzione. Con i gruppi di distribuzione moderati, tutti possono inviare messaggi di posta elettronica all'alias del gruppo di distribuzione, ma prima che il messaggio venga recapitato ai membri del gruppo deve essere esaminato e approvato da un moderatore. Per ulteriori informazioni sulla moderazione, vedere la sezione Approvazione del messaggio in [Gestire i gruppi di distribuzione](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
 - **Gruppi di distribuzione self-service** Gli amministratori possono consentire agli utenti di gestire la propria appartenenza ai gruppi di distribuzione da un'interfaccia basata sul Web. Gli utenti possono essere autorizzati a creare, eliminare, partecipare o abbandonare i gruppi di distribuzione. Queste funzionalità sono abilitate per impostazione predefinita per tutti gli utenti di Exchange Online. Possono essere disabilitate dagli amministratori e sarà quindi prerogativa del reparto IT gestire i gruppi di distribuzione. Gli amministratori possono anche creare criteri di denominazione per standardizzare e gestire i nomi dei gruppi di distribuzione creati dagli utenti. Ad esempio, è possibile aggiungere un prefisso o suffisso specifico al nome del gruppo di distribuzione al momento della creazione o non consentire che vengano utilizzate determinate parole nel nome del gruppo. 
     
@@ -121,7 +121,7 @@ Un gruppo di distribuzione (o elenco di distribuzione) è una raccolta di utenti
 
 Per contatto esterno si intende un record con informazioni su una persona che lavora esternamente all'organizzazione specificata. I contatti esterni sono simili ai contatti personali creati dai singoli utenti in Outlook, con la differenza che i contatti esterni sono disponibili per la società a livello globale. I contatti esterni vengono creati dagli amministratori nell'interfaccia di amministrazione di Exchange o in Windows PowerShell Remote. I contatti possono inoltre essere sincronizzati con Exchange Online da Active Directory locale. Vengono visualizzati nell'elenco indirizzi globale in Outlook.
   
-Per ulteriori informazioni sui contatti esterni, vedere [Creazione di una relazione dell'organizzazione in Exchange Online.](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx).
+Per ulteriori informazioni sui contatti esterni, vedere [Creazione di una relazione dell'organizzazione in Exchange Online.](https://technet.microsoft.com/library/jj916671%28v=exchg.150%29.aspx).
   
 ## <a name="calendar-and-scheduling"></a>Calendario e pianificazione
 
@@ -133,7 +133,7 @@ Gli amministratori creano cassette postali delle risorse utilizzando l'interfacc
   
 Per ulteriori informazioni sulle cassette postali per le risorse, vedere:
   
-- [Creazione e gestione delle cassette sala](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [Creazione e gestione delle cassette sala](https://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
 - [Gestire le cassette postali dell’attrezzatura](https://go.microsoft.com/fwlink/?LinkId=717534)
     

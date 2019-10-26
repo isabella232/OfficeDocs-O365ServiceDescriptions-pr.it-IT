@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, oltre a un confronto tra le caratteristiche di tali piani.
-ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581912"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700228"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
@@ -25,9 +25,9 @@ Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange O
 
 Microsoft Exchange Online Protection (EOP) è un servizio di filtro della posta elettronica che aiuta l'organizzazione a proteggersi da spam e malware e include funzionalità in grado di tutelare l'organizzazione dalle violazioni dei criteri di messaggistica. EOP è in grado di semplificare la gestione dell'ambiente di messaggistica e ridurre molte delle responsabilità associate alla gestione di componenti hardware e software locali.
 
-Di seguito sono riportati i modi principali in cui è possibile utilizzare EOP per la protezione dei messaggi:
+Nell'elenco seguente vengono illustrati i modi principali in cui è possibile utilizzare EOP per la protezione della messaggistica:
 
-- **In uno scenario autonomo**: EOP fornisce la protezione della posta elettronica basata sul cloud per l'ambiente exchange Server 2013 o versioni successive locale, le versioni legacy di Exchange Server o per qualsiasi altra soluzione di posta elettronica SMTP locale.
+- **In uno scenario autonomo**: EOP fornisce la protezione della posta elettronica basata sul cloud per l'ambiente di posta elettronica locale (Exchange Server o altre soluzioni di posta elettronica SMTP locali).
 
 - **Come parte di Microsoft Exchange Online**: per impostazione predefinita, EOP protegge le cassette postali ospitate sul cloud di Exchange Online. Per ulteriori informazioni su Exchange Online, vedere [Descrizione del servizio Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
 
@@ -50,21 +50,21 @@ EOP è disponibile attraverso i seguenti piani di sottoscrizione:
 
 |**Piano**|**Descrizione**|
 |:-----|:-----|
-|[EOP autonomo](https://products.office.com/exchange/exchange-email-security-spam-protection)|EOP protegge le cassette postali locali.|
-|[Funzionalità di EOP in Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|EOP protegge le cassette postali ospitate sul cloud di Exchange Online.|
-|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|EOP protegge le cassette postali locali, come nello scenario autonomo EOP e include funzionalità di prevenzione della perdita dei dati (DLP, Data Loss Prevention) e di creazione di report tramite servizi Web.|
+|[EOP autonomo](https://products.office.com/exchange/exchange-email-security-spam-protection)|Servizio separato basato sul cloud che protegge l'organizzazione di posta elettronica locale.|
+|[Funzionalità di EOP in Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Protezione integrata per le cassette postali ospitate sul cloud di Exchange Online.|
+|[Exchange Enterprise CAL con servizi](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Licenze per i componenti aggiuntivi acquistati per l'organizzazione di Exchange locale che includono EOP e altre funzionalità basate su cloud (vedere la sezione successiva per i dettagli).|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Funzionalità di Exchange Enterprise CAL with Services
 
-Microsoft Exchange Enterprise CAL with Services fornisce le funzionalità di protezione della posta elettronica di EOP per l'ambiente di messaggistica locale con in aggiunta le seguenti caratteristiche:
+Microsoft Exchange Enterprise CAL with Services fornisce le funzionalità di protezione della posta elettronica di EOP e le seguenti funzionalità aggiuntive basate su cloud:
 
 - [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
 - [Creazione di report tramite i servizi Web](reporting-and-message-trace.md#reporting-using-web-services)
 
-Per ulteriori informazioni sulla gestione delle licenze di Exchange Enterprise CAL con servizi, vedere [licenze di Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
+Per ulteriori informazioni sulle licenze di Exchange Enterprise CAL con servizi, vedere [licenze di Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
-Se si dispone di licenze di Exchange Enterprise CAL con servizi e si desidera eseguire il provisioning del servizio, seguire le istruzioni riportate in [set up your EOP Service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). I passaggi di configurazione sono gli stessi dello scenario autonomo di EOP.
+Se si dispone di licenze di Exchange Enterprise CAL con servizi e si desidera eseguire il provisioning di EOP, seguire le istruzioni riportate in [set up your EOP Service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). I passaggi di configurazione sono gli stessi dello scenario autonomo di EOP.
 
 > [!NOTE]
 > Nuove funzionalità per Exchange Enterprise CAL con servizi sono distribuite contemporaneamente come Exchange Online, non come EOP autonomo. Considerare che le pianificazioni di distribuzione per EOP autonomo e Exchange Online/Exchange Enterprise CAL con servizi possono essere leggermente differenti.
