@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se si è un amministratore, è possibile trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for business online in Configurare Skype for business online.
-ms.openlocfilehash: b149dff807a32beced9bc5358435075229acda57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726082"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733797"
 ---
 # <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business Online
 
@@ -113,11 +113,11 @@ Per visualizzare gli argomenti della guida sull'amministratore di Skype for busi
 
 Un’audioconferenza è una qualsiasi conferenza in cui almeno un partecipante accede alla parte audio mediante un telefono. La possibilità di utilizzare un telefono per accedere a una riunione è utile per chi si trova in viaggio o non ha modo di presenziare alla riunione mediante un dispositivo mobile o un PC. L'uso di un telefono, inoltre, può rappresentare un'opzione migliore in altre situazioni, ad esempio se la connessione Internet è limitata o in caso di un'audioconferenza.
   
-Grazie ai servizi di audioconferenza, gli utenti dell'organizzazione possono ospitare o creare riunioni che contengono numeri di telefono con accesso esterno. I chiamanti possono utilizzare tali numeri di telefono per partecipare a una riunione con il proprio telefono; potranno ascoltare soltanto l'audio, ma non avranno accesso alla messaggistica istantanea, ai desktop condivisi oppure ai file condivisi. È necessario soltanto configurare le conferenza con accesso esterno per gli utenti che intendono programmare o condurre riunioni. Se l'organizzatore non ha bloccato la riunione, chiunque disponga del numero di accesso esterno e dell'ID di conferenza può partecipare alla riunione. Per ulteriori informazioni, vedere [Guida introduttiva a](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) servizi di audioconferenza e [numeri di accesso esterno disponibili per](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)audioconferenza.
+Grazie ai servizi di audioconferenza, gli utenti dell'organizzazione possono ospitare o creare riunioni che contengono numeri di telefono con accesso esterno. I chiamanti possono utilizzare tali numeri di telefono per partecipare a una riunione con il proprio telefono; potranno ascoltare soltanto l'audio, ma non avranno accesso alla messaggistica istantanea, ai desktop condivisi oppure ai file condivisi. È necessario soltanto configurare le conferenza con accesso esterno per gli utenti che intendono programmare o condurre riunioni. Se l'organizzatore non ha bloccato la riunione, chiunque disponga del numero di accesso esterno e dell'ID di conferenza può partecipare alla riunione. Per ulteriori informazioni, vedere [Guida introduttiva a](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) servizi di audioconferenza e [numeri di accesso esterno disponibili per](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)audioconferenza.
   
 In Office 365, è possibile abilitare le conferenze telefoniche con accesso esterno con un provider di servizi di conferenza telefonica con accesso esterno, o un provider di terze parti (denominato anche ACP, Audio Conferencing Provider).
   
-I servizi di audio conferenza sono disponibili in tutti i paesi. Per consultare un elenco di paesi nei quali è possibile acquistare i servizi di audioconferenza, vedere [Dove sono disponibili i servizi di audioconferenza?](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+I servizi di audio conferenza sono disponibili in tutti i paesi. Per consultare un elenco di paesi nei quali è possibile acquistare i servizi di audioconferenza, vedere [Dove sono disponibili i servizi di audioconferenza?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans-in-office-365"></a>Piani di chiamata di Office 365
 

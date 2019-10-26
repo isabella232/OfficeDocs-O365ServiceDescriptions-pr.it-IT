@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online è una raccolta di tecnologie e strumenti basati sul Web che consentono all'organizzazione di archiviare, condividere e gestire le informazioni digitali. Basato su Microsoft SharePoint Server 2013, questo servizio ospitato è perfetto per lavorare sui progetti, archiviare dati e documenti in un unico luogo e condividere le informazioni con altri. Le seguenti funzionalità di contenuto semplificano la gestione dei contenuti aziendali (ECM, Enterprise Content Management) per tutti. È la combinazione tra la gestione del contenuto tradizionale, le funzionalità di social networking e la ricerca avanzata.
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726263"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733957"
 ---
 # <a name="content"></a>Contenuto
 
@@ -172,7 +172,7 @@ Gli utenti di SharePoint dispongono di un Cestino dove viene archiviato il conte
     
 Le personalizzazioni dei siti effettuate attraverso SharePoint Designer non vengono acquisite dal cestino. 
   
-Per ulteriori informazioni, vedere [Gestire il Cestino di una raccolta siti di SharePoint Online](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
+Per ulteriori informazioni, vedere [Gestire il Cestino di una raccolta siti di SharePoint Online](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
   
 ## <a name="search-web-parts"></a>Web part di ricerca
 

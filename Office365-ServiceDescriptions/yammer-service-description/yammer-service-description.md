@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer è un social network aziendale efficace, sicuro e privato. Yammer consente ai dipendenti di rafforzare e migliorare la loro produttività consentendo di collaborare facilmente, prendere decisioni più velocemente e organizzarsi autonomamente in team per affrontare qualunque tipo di sfida aziendale. Si tratta di un nuovo modo di lavorare che guida in maniera naturale l'allineamento e l'agibilità aziendale, riduce la durata dei cicli, coinvolge i dipendenti e migliora le relazioni tra clienti e partner.
-ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726453"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733577"
 ---
 # <a name="yammer-service-description"></a>Descrizione servizio Yammer
 
@@ -25,7 +25,7 @@ Yammer è un social network aziendale efficace, sicuro e privato. Yammer consent
   
 Per un elenco dei piani di Office 365 che includono Yammer, vedere [Famiglie e piani di servizi di Office 365](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
-Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
 > È possibile esportare, salvare e stampare le pagine della descrizione del servizio Office 365. Ulteriori informazioni su come [esportare più pagine](https://go.microsoft.com/fwlink/?LinkId=403349). 
@@ -114,7 +114,7 @@ Serve aiuto per capire quale piano Yammer meglio si adatta alle esigenze dell'or
 |[Gestione delle sessioni](administration-and-security-features-in-yammer.md#session-management) <br/> |No  <br/> |Sì  <br/> |
 |[Firewall logico](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |No  <br/> |Sì  <br/> |
 |[Criteri di utilizzo](administration-and-security-features-in-yammer.md#usage-policy) <br/> |No  <br/> |Sì  <br/> |
-|[FastTrack Center](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |No  <br/> |Sì  <br/> |
+|[FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |No  <br/> |Sì  <br/> |
 |[Assistenza clienti](support-features-in-yammer.md#customer-support) <br/> |Sì  <br/> |Sì  <br/> |
 |[Supporto per amministratori](support-features-in-yammer.md#administrator-support) <br/> |No  <br/> |Sì  <br/> |
 |[Modalità di contenuto privato dell'amministratore](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |No  <br/> |Sì  <br/> |
