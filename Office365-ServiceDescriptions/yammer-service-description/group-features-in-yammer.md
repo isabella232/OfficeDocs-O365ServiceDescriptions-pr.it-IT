@@ -1,5 +1,5 @@
 ---
-title: Funzionalità del gruppo in Yammer
+title: Caratteristiche del gruppo in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,35 +12,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: In Yammer sono disponibili le seguenti funzionalità del gruppo.
-ms.openlocfilehash: a036e1ad8f491b915c78171226c3a2bbe1db4952
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f8b7d31dfee3b56f5bbf3edf3eda64f01fe7c2a6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777977"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726349"
 ---
-# <a name="group-features-in-yammer"></a><span data-ttu-id="3659d-103">Funzionalità del gruppo in Yammer</span><span class="sxs-lookup"><span data-stu-id="3659d-103">Group Features in Yammer</span></span>
+# <a name="group-features-in-yammer"></a><span data-ttu-id="84acb-103">Caratteristiche del gruppo in Yammer</span><span class="sxs-lookup"><span data-stu-id="84acb-103">Group features in Yammer</span></span>
 
-<span data-ttu-id="3659d-104">In Yammer sono disponibili le seguenti funzionalità del gruppo.</span><span class="sxs-lookup"><span data-stu-id="3659d-104">The following group features are available in Yammer.</span></span>
+<span data-ttu-id="84acb-104">In Yammer sono disponibili le seguenti funzionalità del gruppo.</span><span class="sxs-lookup"><span data-stu-id="84acb-104">The following group features are available in Yammer.</span></span>
   
-## <a name="groups"></a><span data-ttu-id="3659d-105">Gruppi</span><span class="sxs-lookup"><span data-stu-id="3659d-105">Groups</span></span>
-<span data-ttu-id="3659d-106"><a name="bkmk_Groups"> </a></span><span class="sxs-lookup"><span data-stu-id="3659d-106"></span></span>
+## <a name="announcements"></a><span data-ttu-id="84acb-105">Announcements</span><span class="sxs-lookup"><span data-stu-id="84acb-105">Announcements</span></span>
 
-<span data-ttu-id="3659d-107">Dalle comunicazioni di reparto alla prossima campagna o evento aziendale oltre alla possibilità di impostare, in pochi secondi, un gruppo per ogni team, progetto o attività interessante.</span><span class="sxs-lookup"><span data-stu-id="3659d-107">From departmental communications to your next campaign launch or company event, set up a Group in seconds for any team, project or interest.</span></span>
+<span data-ttu-id="84acb-106">Condividere un annuncio con un gruppo per inviare immediatamente ai membri una notifica di aggiornamenti importanti.</span><span class="sxs-lookup"><span data-stu-id="84acb-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="84acb-107">Gli amministratori possono aggiungere annunci a un gruppo per semplificare l'individuazione.</span><span class="sxs-lookup"><span data-stu-id="84acb-107">Administrators can pin announcements to a group for easy discovery.</span></span>
   
-## <a name="related-groups"></a><span data-ttu-id="3659d-108">Gruppi correlati</span><span class="sxs-lookup"><span data-stu-id="3659d-108">Related Groups</span></span>
-<span data-ttu-id="3659d-109"><a name="bkmk_RelatedGroups"> </a></span><span class="sxs-lookup"><span data-stu-id="3659d-109"></span></span>
+## <a name="groups"></a><span data-ttu-id="84acb-108">Gruppi</span><span class="sxs-lookup"><span data-stu-id="84acb-108">Groups</span></span>
 
-<span data-ttu-id="3659d-110">È possibile aggiungere e dare priorità a gruppi correlati a quello a cui appartiene l'utente in modo che i colleghi possano sapere sempre più cose su persone, contenuti e conversazioni interessanti.</span><span class="sxs-lookup"><span data-stu-id="3659d-110">You can add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
+<span data-ttu-id="84acb-109">Dalle comunicazioni dipartimentali al prossimo evento di avvio o organizzazione della campagna, impostare un gruppo in secondi per qualsiasi team, progetto o interesse.</span><span class="sxs-lookup"><span data-stu-id="84acb-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
   
-## <a name="announcements"></a><span data-ttu-id="3659d-111">Announcements</span><span class="sxs-lookup"><span data-stu-id="3659d-111">Announcements</span></span>
-<span data-ttu-id="3659d-112"><a name="bkmk_Announcements"> </a></span><span class="sxs-lookup"><span data-stu-id="3659d-112"></span></span>
+## <a name="related-groups"></a><span data-ttu-id="84acb-110">Gruppi correlati</span><span class="sxs-lookup"><span data-stu-id="84acb-110">Related groups</span></span>
 
-<span data-ttu-id="3659d-p101">Condividere un annuncio con un gruppo per inviare immediatamente ai membri una notifica di aggiornamenti importanti. Per dare maggiore visibilità agli annunci, gli amministratori possono inviarli ai gruppi.</span><span class="sxs-lookup"><span data-stu-id="3659d-p101">Share an announcement with a group to instantly notify members of important updates. Administrators can pin Announcements to a group for easy discovery.</span></span>
+<span data-ttu-id="84acb-111">Aggiungere e assegnare la priorità ai gruppi correlati a quelli che sono già stati aggiunti in modo che i colleghi possano scoprire persone, contenuti e conversazioni ancora più rilevanti.</span><span class="sxs-lookup"><span data-stu-id="84acb-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="3659d-115">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="3659d-115">Feature Availability</span></span>
-<span data-ttu-id="3659d-116"><a name="bkmk_Announcements"> </a></span><span class="sxs-lookup"><span data-stu-id="3659d-116"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="84acb-112">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="84acb-112">Feature availability</span></span>
 
-<span data-ttu-id="3659d-117">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="3659d-117">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="84acb-113">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="84acb-113">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
   
-

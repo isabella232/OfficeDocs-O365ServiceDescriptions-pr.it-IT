@@ -1,5 +1,5 @@
 ---
-title: Funzionalità della Posta in arrivo in Yammer
+title: Funzionalità di posta in arrivo in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,30 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.
-ms.openlocfilehash: 8e259ece1629b536b3782df5b523acf5bb747eea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777947"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726339"
 ---
-# <a name="inbox-features-in-yammer"></a><span data-ttu-id="fd0be-103">Funzionalità della Posta in arrivo in Yammer</span><span class="sxs-lookup"><span data-stu-id="fd0be-103">Inbox Features in Yammer</span></span>
+# <a name="inbox-features-in-yammer"></a><span data-ttu-id="d418e-103">Funzionalità di posta in arrivo in Yammer</span><span class="sxs-lookup"><span data-stu-id="d418e-103">Inbox features in Yammer</span></span>
 
-<span data-ttu-id="fd0be-104">In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.</span><span class="sxs-lookup"><span data-stu-id="fd0be-104">The following inbox features are available in Yammer.</span></span>
+<span data-ttu-id="d418e-104">In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.</span><span class="sxs-lookup"><span data-stu-id="d418e-104">The following inbox features are available in Yammer.</span></span>
   
-## <a name="inbox"></a><span data-ttu-id="fd0be-105">Posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="fd0be-105">Inbox</span></span>
-<span data-ttu-id="fd0be-106"><a name="bkmk_Inbox"> </a></span><span class="sxs-lookup"><span data-stu-id="fd0be-106"></span></span>
+## <a name="inbox"></a><span data-ttu-id="d418e-105">Posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="d418e-105">Inbox</span></span>
 
-<span data-ttu-id="fd0be-107">La Posta in arrivo aggrega automaticamente le @menzioni, gli annunci dei gruppi, le conversazioni e i messaggi privati dell'utente in modo che sia facilmente possibile definire la priorità delle risposte.</span><span class="sxs-lookup"><span data-stu-id="fd0be-107">Inbox automatically aggregates your @mentions, group announcements, conversations and private messages so you can easily prioritize responses.</span></span>
+<span data-ttu-id="d418e-106">La posta in arrivo aggrega automaticamente le @mentions, gli annunci di gruppo, le conversazioni e i messaggi privati in modo da poter assegnare una priorità semplice alle risposte.</span><span class="sxs-lookup"><span data-stu-id="d418e-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
   
-## <a name="inbox-search"></a><span data-ttu-id="fd0be-108">Ricerca Posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="fd0be-108">Inbox Search</span></span>
-<span data-ttu-id="fd0be-109"><a name="bkmk_InboxSearch"> </a></span><span class="sxs-lookup"><span data-stu-id="fd0be-109"></span></span>
+## <a name="inbox-search"></a><span data-ttu-id="d418e-107">Ricerca posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="d418e-107">Inbox search</span></span>
 
-<span data-ttu-id="fd0be-110">Ricercare all'interno di tutta la Posta in arrivo per trovare rapidamente conversazioni, messaggi privati e annunci.</span><span class="sxs-lookup"><span data-stu-id="fd0be-110">Search across your entire Inbox to quickly find conversations, private messages and announcements.</span></span>
+<span data-ttu-id="d418e-108">Eseguire una ricerca in tutta la posta in arrivo per trovare rapidamente conversazioni, messaggi privati e annunci.</span><span class="sxs-lookup"><span data-stu-id="d418e-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="fd0be-111">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="fd0be-111">Feature Availability</span></span>
-<span data-ttu-id="fd0be-112"><a name="bkmk_InboxSearch"> </a></span><span class="sxs-lookup"><span data-stu-id="fd0be-112"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="d418e-109">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="d418e-109">Feature availability</span></span>
 
-<span data-ttu-id="fd0be-113">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="fd0be-113">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="d418e-110">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="d418e-110">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: Funzionalità profilo in Yammer
+title: Caratteristiche del profilo in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,50 +12,43 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: In Yammer sono disponibili le seguenti funzionalità del profilo.
-ms.openlocfilehash: e1462d97725dd2485021fbd7dc8d1b378b0c51fc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5c6acde9c620eb0f51263b121574266d67740b57
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777937"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726497"
 ---
-# <a name="profile-features-in-yammer"></a><span data-ttu-id="6249f-103">Funzionalità profilo in Yammer</span><span class="sxs-lookup"><span data-stu-id="6249f-103">Profile Features in Yammer</span></span>
+# <a name="profile-features-in-yammer"></a><span data-ttu-id="8a2f8-103">Caratteristiche del profilo in Yammer</span><span class="sxs-lookup"><span data-stu-id="8a2f8-103">Profile features in Yammer</span></span>
 
-<span data-ttu-id="6249f-104">In Yammer sono disponibili le seguenti funzionalità del profilo.</span><span class="sxs-lookup"><span data-stu-id="6249f-104">The following profile features are available in Yammer.</span></span>
+<span data-ttu-id="8a2f8-104">In Yammer sono disponibili le seguenti funzionalità del profilo.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-104">The following profile features are available in Yammer.</span></span>
+ 
+## <a name="expertise"></a><span data-ttu-id="8a2f8-105">Expertise</span><span class="sxs-lookup"><span data-stu-id="8a2f8-105">Expertise</span></span>
+
+<span data-ttu-id="8a2f8-106">Accedere all'intera organizzazione per trovare gli esperti necessari.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-106">Reach across the organization to find the experts you need.</span></span> <span data-ttu-id="8a2f8-107">Poiché l'esperienza è immediatamente ricercabile, è possibile trovare informazioni utili su richiesta.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-107">Because expertise is instantly searchable, useful information can be found on demand.</span></span>
+
+## <a name="leaderboards"></a><span data-ttu-id="8a2f8-108">Classifica ufficiale</span><span class="sxs-lookup"><span data-stu-id="8a2f8-108">Leaderboards</span></span>
+
+<span data-ttu-id="8a2f8-p102">Identifica i colleghi influenti della rete. Nelle classifiche ufficiali vengono visualizzate le persone con più messaggi, più messaggi con risposta e con Mi piace.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-p102">Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.</span></span>
+
+## <a name="member-directory"></a><span data-ttu-id="8a2f8-111">Directory Membri</span><span class="sxs-lookup"><span data-stu-id="8a2f8-111">Member directory</span></span>
+
+<span data-ttu-id="8a2f8-112">Passare alla Directory Membri per trovare persone del team e i colleghi provenienti dall'intera organizzazione.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-112">Browse the member directory to find people on your team and coworkers from across the organization.</span></span>
   
-## <a name="user-profiles"></a><span data-ttu-id="6249f-105">Profili utente</span><span class="sxs-lookup"><span data-stu-id="6249f-105">User Profiles</span></span>
-<span data-ttu-id="6249f-106"><a name="bkmk_UserProfiles"> </a></span><span class="sxs-lookup"><span data-stu-id="6249f-106"></span></span>
+## <a name="org-chart"></a><span data-ttu-id="8a2f8-113">Organigramma</span><span class="sxs-lookup"><span data-stu-id="8a2f8-113">Org chart</span></span>
 
-<span data-ttu-id="6249f-p101">Caricare un'immagine, immettere dettagli di contatto ed elencare le proprie competenze. I profili aggregano tutte le informazioni personali, tra cui le conversazioni e i file.</span><span class="sxs-lookup"><span data-stu-id="6249f-p101">Upload a picture, fill in contact details and list your expertise. Profiles aggregate all your information, including conversations and files.</span></span>
+<span data-ttu-id="8a2f8-114">Aggiungere Manager e report per creare un organigramma insieme ai colleghi.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-114">Add managers and reports to create a org chart together with your coworkers.</span></span> <span data-ttu-id="8a2f8-115">Le informazioni sull'organigramma vengono visualizzate automaticamente nei profili.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-115">Org chart information automatically appears in profiles.</span></span>
   
-## <a name="expertise"></a><span data-ttu-id="6249f-109">Expertise</span><span class="sxs-lookup"><span data-stu-id="6249f-109">Expertise</span></span>
-<span data-ttu-id="6249f-110"><a name="bkmk_Expertise"> </a></span><span class="sxs-lookup"><span data-stu-id="6249f-110"></span></span>
+## <a name="praise"></a><span data-ttu-id="8a2f8-116">Complimenti</span><span class="sxs-lookup"><span data-stu-id="8a2f8-116">Praise</span></span>
 
-<span data-ttu-id="6249f-p102">Cerca in tutta la società le competenze di cui hai bisogno. Siccome Expertise è ricercabile istantaneamente, su richiesta è possibile trovare utili informazioni.</span><span class="sxs-lookup"><span data-stu-id="6249f-p102">Reach across the company to find the experts you need. Because Expertise is instantly searchable, useful information can be found on demand.</span></span>
+<span data-ttu-id="8a2f8-117">Dai e ricevi riconoscimenti per lavori ben fatti.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-117">Give and receive recognition for a job well done.</span></span> <span data-ttu-id="8a2f8-118">I conseguimenti e i badge vengono visualizzati nei profili della scheda **lode** .</span><span class="sxs-lookup"><span data-stu-id="8a2f8-118">Accomplishments and badges appear on profiles in the **Praise** tab.</span></span>
+ 
+## <a name="user-profiles"></a><span data-ttu-id="8a2f8-119">Profili utente</span><span class="sxs-lookup"><span data-stu-id="8a2f8-119">User profiles</span></span>
+
+<span data-ttu-id="8a2f8-120">Caricare un'immagine, immettere informazioni di contatto e elencare le proprie competenze.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-120">Upload a picture, fill in contact details, and list your expertise.</span></span> <span data-ttu-id="8a2f8-121">I profili aggregano tutte le informazioni personali, tra cui le conversazioni e i file.</span><span class="sxs-lookup"><span data-stu-id="8a2f8-121">Profiles aggregate all your information, including conversations and files.</span></span>
   
-## <a name="member-directory"></a><span data-ttu-id="6249f-113">Elenco iscritti</span><span class="sxs-lookup"><span data-stu-id="6249f-113">Member Directory</span></span>
-<span data-ttu-id="6249f-114"><a name="bkmk_MemberDirectory"> </a></span><span class="sxs-lookup"><span data-stu-id="6249f-114"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="8a2f8-122">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="8a2f8-122">Feature availability</span></span>
 
-<span data-ttu-id="6249f-115">Sfoglia l'elenco iscritti per trovare persone all'interno del proprio team e altri colleghi in tutta la società.</span><span class="sxs-lookup"><span data-stu-id="6249f-115">Browse the Member Directory to find people on your team and coworkers from across the company.</span></span>
-  
-## <a name="org-chart"></a><span data-ttu-id="6249f-116">Organigramma</span><span class="sxs-lookup"><span data-stu-id="6249f-116">Org Chart</span></span>
-<span data-ttu-id="6249f-117"><a name="bkmk_OrgChart"> </a></span><span class="sxs-lookup"><span data-stu-id="6249f-117"></span></span>
-
-<span data-ttu-id="6249f-p103">Aggiungi manager e report per creare un'organigramma della società insieme ai colleghi. Le informazioni dell'organigramma vengono automaticamente visualizzate nel profilo.</span><span class="sxs-lookup"><span data-stu-id="6249f-p103">Add managers and reports to create a company org chart together with your coworkers. Org Chart information automatically appears on profiles.</span></span>
-  
-## <a name="praise"></a><span data-ttu-id="6249f-120">Complimenti</span><span class="sxs-lookup"><span data-stu-id="6249f-120">Praise</span></span>
-<span data-ttu-id="6249f-121"><a name="bkmk_Praise"> </a></span><span class="sxs-lookup"><span data-stu-id="6249f-121"></span></span>
-
-<span data-ttu-id="6249f-p104">Dai e ricevi riconoscimenti per lavori ben fatti. Risultati e badge sono visualizzabili nei profili della scheda Complimenti.</span><span class="sxs-lookup"><span data-stu-id="6249f-p104">Give and receive recognition for a job well done. Accomplishments and badges appear on profiles in the Praise tab.</span></span>
-  
-## <a name="leaderboards"></a><span data-ttu-id="6249f-124">Classifica ufficiale</span><span class="sxs-lookup"><span data-stu-id="6249f-124">Leaderboards</span></span>
-<span data-ttu-id="6249f-125"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="6249f-125"></span></span>
-
-<span data-ttu-id="6249f-p105">Identifica i colleghi influenti della rete. Nelle classifiche ufficiali vengono visualizzate le persone con più messaggi, più messaggi con risposta e con Mi piace.</span><span class="sxs-lookup"><span data-stu-id="6249f-p105">Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.</span></span>
-  
-## <a name="feature-availability"></a><span data-ttu-id="6249f-128">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="6249f-128">Feature Availability</span></span>
-<span data-ttu-id="6249f-129"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="6249f-129"></span></span>
-
-<span data-ttu-id="6249f-130">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="6249f-130">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="8a2f8-123">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="8a2f8-123">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
   
 

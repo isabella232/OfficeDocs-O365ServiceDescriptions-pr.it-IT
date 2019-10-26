@@ -1,5 +1,5 @@
 ---
-title: Funzionalità della rete esterna in Yammer
+title: Funzionalità di rete esterna in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,28 +12,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: In Yammer sono disponibili le seguenti funzionalità della rete esterna.
-ms.openlocfilehash: 1d73561103ecb7e94e57307d47db3f31ac9e607a
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25a8bace73fdd1d8fddb5c0d16d846845eb687ba
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777957"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726359"
 ---
-# <a name="external-network-features-in-yammer"></a><span data-ttu-id="00b0b-103">Funzionalità della rete esterna in Yammer</span><span class="sxs-lookup"><span data-stu-id="00b0b-103">External Network Features in Yammer</span></span>
+# <a name="external-network-features-in-yammer"></a><span data-ttu-id="5d90a-103">Funzionalità di rete esterna in Yammer</span><span class="sxs-lookup"><span data-stu-id="5d90a-103">External network features in Yammer</span></span>
 
-<span data-ttu-id="00b0b-104">In Yammer sono disponibili le seguenti funzionalità della rete esterna.</span><span class="sxs-lookup"><span data-stu-id="00b0b-104">The following external network features are available in Yammer.</span></span>
+<span data-ttu-id="5d90a-104">In Yammer sono disponibili le seguenti funzionalità della rete esterna.</span><span class="sxs-lookup"><span data-stu-id="5d90a-104">The following external network features are available in Yammer.</span></span>
   
-## <a name="external-networks"></a><span data-ttu-id="00b0b-105">Reti esterne</span><span class="sxs-lookup"><span data-stu-id="00b0b-105">External Networks</span></span>
-<span data-ttu-id="00b0b-106"><a name="bkmk_ExternalNetworks"> </a></span><span class="sxs-lookup"><span data-stu-id="00b0b-106"></span></span>
+## <a name="external-networks"></a><span data-ttu-id="5d90a-105">Reti esterne</span><span class="sxs-lookup"><span data-stu-id="5d90a-105">External networks</span></span>
 
-<span data-ttu-id="00b0b-107">Creare uno spazio di lavoro online dedicato per collaborare con i contatti aziendali esterni alla rete Yammer della propria società società.</span><span class="sxs-lookup"><span data-stu-id="00b0b-107">Create a dedicated online workspace to collaborate with business contacts outside of your company's Yammer network.</span></span>
+<span data-ttu-id="5d90a-106">Creare uno spazio di lavoro online dedicato per collaborare con i contatti aziendali al di fuori della rete Yammer dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="5d90a-106">Create a dedicated online workspace to collaborate with business contacts outside of your organization's Yammer network.</span></span>
   
-## <a name="fast-network-switching"></a><span data-ttu-id="00b0b-108">Commutazione rete veloce</span><span class="sxs-lookup"><span data-stu-id="00b0b-108">Fast Network Switching</span></span>
-<span data-ttu-id="00b0b-109"><a name="bkmk_FastNetworkSwitching"> </a></span><span class="sxs-lookup"><span data-stu-id="00b0b-109"></span></span>
+## <a name="fast-network-switching"></a><span data-ttu-id="5d90a-107">Commutazione veloce della rete</span><span class="sxs-lookup"><span data-stu-id="5d90a-107">Fast network switching</span></span>
 
-<span data-ttu-id="00b0b-p101">Commutazione continua tra reti interne ed esterne. È possibile monitorare facilmente le conversazioni delle reti esterne e condividere immediatamente le proprie idee con i colleghi della rete interna.</span><span class="sxs-lookup"><span data-stu-id="00b0b-p101">Seamlessly switch between internal and external networks. Easily monitor conversations within external networks and immediately share insights with your company's internal network.</span></span>
+<span data-ttu-id="5d90a-108">Commutazione continua tra reti interne ed esterne.</span><span class="sxs-lookup"><span data-stu-id="5d90a-108">Seamlessly switch between internal and external networks.</span></span> <span data-ttu-id="5d90a-109">Consente di monitorare facilmente le conversazioni all'interno di reti esterne e di condividere immediatamente informazioni sulla rete interna dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="5d90a-109">Easily monitor conversations within external networks and immediately share insights with your organization's internal network.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="00b0b-112">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="00b0b-112">Feature Availability</span></span>
-<span data-ttu-id="00b0b-113"><a name="bkmk_FastNetworkSwitching"> </a></span><span class="sxs-lookup"><span data-stu-id="00b0b-113"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="5d90a-110">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="5d90a-110">Feature availability</span></span>
 
-<span data-ttu-id="00b0b-114">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="00b0b-114">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="5d90a-111">Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="5d90a-111">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
