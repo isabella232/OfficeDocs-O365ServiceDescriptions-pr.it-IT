@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Informazioni sullo spazio di archiviazione di OneDrive fornito per ogni piano di abbonamento.
-ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582202"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734003"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descrizione del servizio OneDrive for Business
 
-OneDrive è uno spazio di archiviazione online nel cloud disponibile per singoli utenti con licenza di un'organizzazione. Usarlo per proteggere i file di lavoro a cui poter accedere da più dispositivi. OneDrive consente di condividere file e collaborare ai documenti, sincronizzando i file con il computer. [Altre informazioni su caratteristiche, funzionalità e prezzi di OneDrive](https://go.microsoft.com/fwlink/?linkid=850345) 
+OneDrive è uno spazio di archiviazione online nel cloud disponibile per singoli utenti con licenza di un'organizzazione. Usarlo per proteggere i file di lavoro a cui poter accedere da più dispositivi. OneDrive consente di condividere file e collaborare ai documenti, sincronizzando i file con il computer. [Altre informazioni su caratteristiche, funzionalità e prezzi di OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).
   
 OneDrive è incluso nei piani di Microsoft 365, Office 365 e SharePoint Online, ma può essere anche acquistato come piano autonomo. 
     
@@ -108,4 +108,3 @@ Per informazioni sui limiti di file e di sincronizzazione, consultare [Limiti di
   
 Per i piani che includono spazio di archiviazione illimitato sul cloud per singoli utenti, tenere presente che potrebbero essere applicate limitazioni sulle caratteristiche non relative all'archiviazione. 
   
-
