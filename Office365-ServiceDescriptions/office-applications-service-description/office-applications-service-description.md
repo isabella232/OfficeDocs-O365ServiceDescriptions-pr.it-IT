@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734023"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765627"
 ---
 # <a name="office-applications-service-description"></a>Descrizione servizio applicazioni Office
 
@@ -32,11 +32,10 @@ Le applicazioni Office sono disponibili in edizioni a 32 e 64 bit.
 Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilità della funzionalità tra i piani Office 365
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 Utilizzare la tabella seguente per confrontare la disponibilità di funzionalità nei vari piani di Office 365 e nelle edizioni con contratti multilicenza di Microsoft Office 2013 e Office 2016.
   
-Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che è possibile acquistare per il proprio abbonamento. Un componente aggiuntivo fornisce ulteriori funzionalità all'abbonamento. Per ulteriori informazioni, vedere [Acquistare o modificare un componente aggiuntivo per Office 365 per le aziende](https://support.office.com/en-us/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che è possibile acquistare per il proprio abbonamento. Un componente aggiuntivo fornisce ulteriori funzionalità all'abbonamento. Per ulteriori informazioni, vedere [Acquistare o modificare un componente aggiuntivo per Office 365 per le aziende](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -80,7 +79,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Supporto non in linea per le applicazioni client  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/>  |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
 |Power Map per Excel  <br/> |N.<sup>4</sup> <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |PowerPivot per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
-|Power Query per Excel  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
+|Power Query per Excel  <br/> |N.<sup>15</sup>  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |Power View per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |Impostazioni roaming  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |Attivazione di computer condivisi  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
@@ -90,7 +89,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Volume activation (KMS/MAK)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|N.<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br> |
    
 > [!NOTE]
-><sup>+</sup>Quando si installa Office 365 o Office 2019, è possibile ottenere OneNote per Windows 10 per impostazione predefinita. Per ulteriori informazioni, vedere [domande frequenti su OneNote in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>Quando si installa Office 365 o Office 2019, è possibile ottenere OneNote per Windows 10 per impostazione predefinita. Per ulteriori informazioni, vedere [domande frequenti su OneNote in Office 2019](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>OneNote app accesso ai blocchi appunti su SharePoint Server, SharePoint Online, OneDrive for business e Office 365. <br/>
 ><sup>+++</sup>Il supporto di BHO è una tecnologia di estensione per Internet Explorer. <br/>
 ><sup>1</sup> Con la presente versione di Office sono supportate le funzionalità di archiviazione e conformità ma i piani Exchange Online e SharePoint Online non sono inclusi e devono essere acquistati separatamente o utilizzati con un server equivalente supportato in locale.<br/>
@@ -107,8 +106,9 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 <sup>12</sup> InfoPath 2013 è ancora supportato ed è disponibile nell'installazione di Office Professional Plus 2016, ma non è disponibile una nuova versione per Office 2016.<br/> 
 <sup>13</sup> supporto solo per le funzionalità di modifica di base.<br/> 
 <sup>14</sup> limitato ai dispositivi con schermi integrati che misurano 10,1 pollici o meno in diagonale.<br/> 
+<sup>15</sup> Power query è un componente aggiuntivo gratuito che può essere scaricato qui: [scaricare il componente aggiuntivo di Power query](https://www.microsoft.com/download/details.aspx?id=39379). Una volta abilitata, la funzionalità Power query è disponibile dalla scheda Power query sulla barra multifunzione.
+
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Disponibilità delle applicazioni Office di Office per Mac nei piani di Office 365
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -123,6 +123,6 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |Sì  <br/> |Sì  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |No  <br/> |No  <br/> |
    
-> <sup>1</sup> Office 2016 per Mac richiede Mac OS X 10,10 o versione successiva. Per i clienti che si connettono a Exchange tramite Outlook per Mac, è necessaria una connessione a Microsoft Exchange Server 2010 Service Pack 2 o versioni successive. Per ulteriori informazioni, vedere [requisiti di sistema per Office](https://products.office.com/en-US/office-system-requirements).<br/> 
-<sup>2</sup> Disponibile come download separato dall'App Store. Per ulteriori informazioni, vedere [OneNote per Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
-<sup>3</sup> Office per Mac 2011 può essere installato, ma non attivato. 
+> <sup>1</sup> Office 2016 per Mac richiede Mac OS X 10,10 o versione successiva. Per i clienti che si connettono a Exchange tramite Outlook per Mac, è necessaria una connessione a Microsoft Exchange Server 2010 Service Pack 2 o versioni successive. Per ulteriori informazioni, vedere [requisiti di sistema per Office](https://products.office.com/en-US/office-system-requirements).<br/>
+<sup>2</sup> Disponibile come download separato dall'App Store. Per ulteriori informazioni, vedere [OneNote per Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
+<sup>3</sup> Office per Mac 2011 può essere installato, ma non attivato.

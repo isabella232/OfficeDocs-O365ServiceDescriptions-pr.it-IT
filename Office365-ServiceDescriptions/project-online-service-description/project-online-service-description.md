@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700248"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765637"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -33,16 +33,13 @@ Microsoft Project offre le seguenti applicazioni che consentono di soddisfare le
 
 In questo articolo vengono fornite informazioni utili per comprendere quali applicazioni sono disponibili in ogni sottoscrizione di progetto e quali funzionalità offrono ogni applicazione.
 
-> [!NOTE]
-> Il 29 ottobre 2019 le sottoscrizioni di Project Online Professional e Project Online Premium verranno rinominate rispettivamente in Project Plan 3 e Project Plan 5.
-
 ### <a name="project-for-the-web"></a>Progetto per il Web
 
 Project per il Web è l'offerta più recente di Microsoft per il lavoro basato sul cloud e la gestione dei progetti. Project per il Web offre funzionalità di gestione del lavoro semplici e potenti per soddisfare la maggior parte delle esigenze e dei ruoli. I Project Manager e i membri del team possono utilizzare Project per il Web per pianificare e gestire il lavoro di qualsiasi dimensione.
 
 Il progetto per il Web è basato sulla piattaforma Microsoft Power. La piattaforma di alimentazione è costituita da PowerApps, Microsoft Flow, Power BI e Common Data Service (CDS). Il progetto per i dati Web è memorizzato nei CD. 
 
-Il progetto per il Web è disponibile in due abbonamenti: Project Online Professional e Project Online Premium. Le funzionalità elencate nel [progetto per la sezione funzionalità Web](#project-for-the-web-features) interagiscono solo con i dati del progetto per l'archivio dati Web.
+Project per il Web è disponibile tramite tre abbonamenti: Project Plan 1, Project Plan 3 e Project Plan 5. Le funzionalità elencate nel [progetto per la sezione funzionalità Web](#project-for-the-web-features) interagiscono solo con i dati del progetto per l'archivio dati Web.
 
 ### <a name="project-online"></a>Project Online
  
@@ -50,9 +47,9 @@ Project online è una soluzione flessibile online per la gestione dei portfolio 
 
 Project online è basato sulla piattaforma SharePoint e archivia i dati nell'archivio dati di SharePoint.
 
-Project online è disponibile tramite due abbonamenti: Project Online Professional e Project Online Premium. Le funzionalità elencate nella sezione [Project Online features](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
+Project online è disponibile tramite due abbonamenti: Project Plan 3 e Project Plan 5. Le funzionalità elencate nella sezione [Project Online features](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
 
-La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Project Online Essentials è un abbonamento *componente aggiuntivo* per i membri del team per i clienti che dispongono di abbonamenti Premium Project Online Professional o Project online. Fornisce ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online. 
+La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di Project Online Essentials. Project Online Essentials è un abbonamento *componente aggiuntivo*per i membri del team per i clienti che dispongono di sottoscrizioni di Project Plan 3 o Project Plan 5. Fornisce ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online.
 
 I membri del team con Project Online Essentials sono in grado di eseguire le seguenti funzioni di Project online:
 
@@ -65,7 +62,7 @@ Project Online Essentials non include il progetto per il Web.
 
 ### <a name="project-online-desktop-client"></a>Client desktop di Project online
 
-Il client desktop Microsoft Project online è un programma di gestione dei progetti che include la pianificazione automatizzata, la gestione delle risorse di Project e la creazione di report incorporati. Il client desktop di Project online può essere utilizzato come applicazione autonoma oppure può connettersi a Project online. Il client desktop di Project online è la versione di sottoscrizione del client desktop di Project online ed è disponibile nelle sottoscrizioni di Project Online Professional e Project Online Premium.
+Il client desktop Microsoft Project online è un programma di gestione dei progetti che include la pianificazione automatizzata, la gestione delle risorse di Project e la creazione di report incorporati. Il client desktop di Project online può essere utilizzato come applicazione autonoma oppure può connettersi a Project online. Project online desktop client è la versione di sottoscrizione del client desktop di Project online ed è disponibile in Project Plan 3 e Project Plan 5 abbonamenti.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Utilizzo di Project per il Web e Project online insieme
 
@@ -79,23 +76,23 @@ In futuro, Microsoft si concentrerà sul progetto per le innovazioni Web. Tuttav
 
 ## <a name="microsoft-project-subscriptions"></a>Abbonamenti a Microsoft Project
 
-Microsoft Project è disponibile attraverso due diverse sottoscrizioni per soddisfare al meglio le esigenze dell'organizzazione. Per confrontare le funzionalità tra le sottoscrizioni, vedere [disponibilità delle funzionalità tra le applicazioni e le sottoscrizioni](#feature-availability-across-applications-and-subscriptions).
+Microsoft Project è disponibile attraverso tre diversi abbonamenti per soddisfare al meglio le esigenze dell'organizzazione. Tali abbonamenti sono il piano di progetto 1, il piano di progetto 3 e il piano di progetto 5. Per confrontare le funzionalità tra le sottoscrizioni, vedere [disponibilità delle funzionalità tra le applicazioni e le sottoscrizioni](#feature-availability-across-applications-and-subscriptions).
 
-|Prodotto | Project Online Professional | Project Online Premium |
-|--------|-----------------------------|------------------------|
-|Progetto per il Web |**x x** |**x x**|
-|Project Online |**x x**|**x x x**|
-|Client desktop di Project online |**x**|**x**|
+|Prodotto | Piano 1 | Piano 3 | Piano 5 |
+|--------|-----------------------------|------------------------|------------------------|
+|Progetto per il Web |**x**  | **x x** | **x x** |
+|Project Online | |**x x**| **x x x** |
+|Client desktop di Project online | |**x**|**x**|
 
-Nella tabella precedente, il numero di controlli (**x**) indica il livello generale di funzionalità fornite da un piano. Ad esempio, per Project online, Project Online Premium fornisce più funzionalità di Project Online Professional.
+Nella tabella precedente, il numero di controlli (**x**) indica il livello generale di funzionalità fornite da un piano. Ad esempio, per Project online, il piano 5 fornisce più funzionalità, quindi piano 3.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilità delle funzionalità tra le applicazioni e le sottoscrizioni
 
 ### <a name="project-for-the-web-features"></a>Project per le funzionalità Web
 
-Le funzionalità elencate in questa sezione interagiscono solo con i dati del progetto per l'archivio dati Web. Tutte queste funzionalità sono disponibili in Project Online Professional e Project Online Premium.
+Le funzionalità elencate in questa sezione interagiscono solo con i dati del progetto per l'archivio dati Web. Tutte queste funzionalità sono disponibili in tutte le sottoscrizioni di Microsoft Project: Project Plan 1, Project Plan 3 e Project Plan 5.
 
-|Funzionalità | Descrizione |
+|Funzionalità | Description |
 |--------|-------------|
 |**Gestione di progetti, attività e tempi**||
 |Visualizzazione scheda | Monitorare le attività del progetto visivamente per migliorare il flusso di lavoro e il monitoraggio dello stato con le schede attività fuori sede e personalizzate.|
@@ -110,7 +107,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 |Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <sup>1</sup>|
 |**Gestione delle risorse e dei programmi**||
 |Configurazione del team di progetto | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro.|
-|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup>|
+|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup> con il piano di progetto 1 si ottiene l'accesso in sola lettura alle roadmap. Con il piano di progetto 3 o il piano di progetto 5 è anche possibile creare roadmap. |
 |**Reporting**<sup>3</sup>||
 |Report out-of-box | Utilizzare i report predefiniti per comprendere i dati relativi a progetti, programmi, portfolio e risorse.|
 |Report personalizzati | Informazioni sui dati importanti per la propria organizzazione tramite la creazione di report personalizzati basati su report fuori scatola o da zero.|
@@ -122,7 +119,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 |Applicazioni per dispositivi mobili | Creare applicazioni mobili personalizzate con PowerApps. <sup>4</sup> |
 |**Personalizzazione e integrazione**||
 |PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili con PowerApps. <sup>4</sup> |
-|Flussi di lavoro | Automatizzare e integrare i processi aziendali con Microsoft Flow. <sup>5</sup> |
+|Workflows | Automatizzare e integrare i processi aziendali con Microsoft Flow. <sup>5</sup> |
 |Integrazione di Microsoft Office 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni di Office 365. <sup>1</sup> |
 |**Sicurezza e gestione degli utenti**||
 |Gruppi moderni di Office | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse per i membri del team da condividere.|
@@ -131,7 +128,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 
 Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'archivio dati di Project Online SharePoint.
 
-|Funzionalità | Descrizione | Project Online Professional | Project Online Premium |
+|Funzionalità | Description | Piano di progetto 3 | Piano di progetto 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**Gestione di progetti, attività e tempi**||||
 |Avvisi e promemoria | Rimanere in programmazione per importanti attività imminenti e eventi di progetto con promemoria in Outlook e Microsoft teams. <sup>1</sup>| Sì | Sì |
@@ -183,7 +180,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Custom fields | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. | Sì | Sì |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. | Sì | Sì |
 |PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili (tramite OData) con PowerApps. <sup>4</sup> | Sì | Sì |
-|Flussi di lavoro | Automatizzare e integrare i processi aziendali (tramite OData) con Microsoft Flow. <sup>5</sup> | Sì | Sì |
+|Workflows | Automatizzare e integrare i processi aziendali (tramite OData) con Microsoft Flow. <sup>5</sup> | Sì | Sì |
 |Integrazione di Microsoft Office 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni di Office 365. <sup>1</sup> | Sì | Sì |
 |Integrazione di Microsoft Planner | Connettere le attività del progetto a un piano di pianificazione e monitorare il lavoro dettagliato in Planner. <sup>1</sup> | Sì | Sì |
 |**Gestione della sicurezza, degli utenti e dei servizi**||||
@@ -196,16 +193,16 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 <sup>1</sup> richiede un abbonamento commerciale a Office o Microsoft 365.</br>
 <sup>2</sup> schede di Azure acquisite separatamente.</br>
 <sup>3</sup> la creazione di report per Project per il Web e Project online è disponibile con Power bi. La visualizzazione, la modifica e la creazione di report richiedono un abbonamento a Power BI Pro. Microsoft fornisce un set predefinito di report di Power BI. Gli utenti possono personalizzare questi rapporti o creare rapporti aggiuntivi utilizzando Power BI.</br> 
-<sup>4</sup> la creazione di applicazioni mobili di PowerApps personalizzate che accedono al progetto per i dati Web richiede una sottoscrizione di PowerApps e un abbonamento a Project Online Professional o Project Online Premium.</br>
-<sup>5</sup> l'automazione e l'integrazione dei processi aziendali con Microsoft Flow con Project per i dati Web richiede una sottoscrizione a Microsoft Flow e un abbonamento a Project Online Professional o Project Online Premium.</br>
-<sup>6</sup> la gestione delle licenze di Project online per gli utenti esterni segue gli stessi criteri di quelli per gli utenti interni. Qualsiasi interazione in un sito di Project online richiede una sottoscrizione di Project online.</br>
-<sup>7</sup> gli utenti che dispongono di un abbonamento a Project Online Professional possono inviare richieste di impegno delle risorse. Non è possibile esaminare, soddisfare o approvare le richieste di impegno delle risorse.</br>
-<sup>8</sup> gli utenti che dispongono di un abbonamento Premium di Project online possono esaminare, soddisfare e approvare le richieste di impegno delle risorse.</br>
+<sup>4</sup> la creazione di applicazioni mobili di PowerApps personalizzate che accedono al progetto per i dati Web richiede una sottoscrizione di PowerApps e un abbonamento al piano di progetto 3 o al piano di progetto 5.</br>
+<sup>5</sup> l'automazione e l'integrazione dei processi aziendali con Microsoft Flow con Project per i dati Web richiede una sottoscrizione a Microsoft Flow e un abbonamento a un piano di progetto 3 o a un piano di progetto 5.</br>
+<sup>6</sup> la gestione delle licenze di Project online per gli utenti esterni segue gli stessi criteri di quelli per gli utenti interni. Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
+<sup>7</sup> gli utenti che dispongono di un abbonamento al piano di progetto 3 o al piano di progetto 5 possono inviare richieste di impegno delle risorse. Non è possibile esaminare, soddisfare o approvare le richieste di impegno delle risorse.</br>
+<sup>8</sup> gli utenti che dispongono di un abbonamento al piano di progetto 5 possono esaminare, soddisfare e approvare le richieste di impegno delle risorse.</br>
 <sup>9</sup> Active Directory richiede una sottoscrizione separata. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Caratteristiche del client desktop di Project online
 
-|Funzionalità | Descrizione |
+|Funzionalità | Description |
 |--------|-------------|
 |**Gestione di progetti e attività**||
 |Linee | Impostare le linee di base del progetto per monitorare le prestazioni correnti rispetto alle prestazioni precedenti. |
@@ -230,7 +227,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Risorse lavoro, generiche e materiale | Aggiungere risorse a un progetto, ad esempio risorse di lavoro come persone, risorse generiche come falegnami e risorse materiali come computer e cemento. |
 |Costo del progetto e budgeting | Confrontare lo stato e il budget pianificati in termini di tempo e costi effettivi. |
 |Costo delle risorse | Monitorare e gestire i costi delle risorse del progetto.|
-|**Report** ||
+|**Reporting** ||
 |Report personalizzati | Creare report personalizzati per progetti, programmi, portfolio e risorse. |
 |Report out-of-box | Utilizzare i report predefiniti per comprendere i dati relativi a progetti, programmi, portfolio e risorse. |
 |Output PDF e XPS | Salvare un file di progetto come file PDF o XPS. |
@@ -242,7 +239,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Ordinamento e raggruppamento | Utilizzare l'ordinamento personalizzato e il raggruppamento per ottenere una visualizzazione mirata del progetto, delle attività e delle risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. |
-|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi i piani di progetto, i team e le assegnazioni. |
 |importazione/esportazione di file con estensione MPP | Creare nuovi progetti da file con estensione MPP esistenti o creare un file con estensione MPP di un progetto esistente. |
@@ -252,13 +249,14 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 
 ### <a name="licensing-considerations"></a>Considerazioni sulle licenze
 
-- Qualsiasi interazione in un sito di Project online richiede una sottoscrizione di Project online.
-- Quando l'ultima sottoscrizione di Project Online Professional o Project Online Premium scade, il progetto per il Web e le istanze di Project online verranno eliminati dopo 120 giorni.
+- Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.
+- Quando l'ultimo piano del progetto 1, il piano di progetto 3 o il piano di progetto 5 scade, il progetto per le istanze Web verrà eliminato dopo 120 giorni.
+- Dopo la scadenza dell'ultimo piano di progetto 3 o della sottoscrizione al piano di progetto 5, le istanze di Project online verranno eliminate dopo 120 giorni.
 - Per le sottoscrizioni di valutazione del progetto Web e di Project online, le istanze di valutazione verranno eliminate 30 giorni dopo la fine del periodo di prova.
 
 ### <a name="use-of-sharepoint-online"></a>Utilizzo di SharePoint Online
 
-Project online richiede l'utilizzo di SharePoint Online, che viene provisioning come parte di Project online. I diritti per la funzionalità di SharePoint Online fornita con Project Online Professional o Premium sono limitati all'archiviazione e all'accesso ai dati per il supporto di Project online.
+Project online richiede l'utilizzo di SharePoint Online, che viene provisioning come parte di Project online. I diritti per la funzionalità di SharePoint Online fornita con gli abbonamenti al piano di progetto 3 o al piano di progetto 5 sono limitati all'archiviazione e all'accesso ai dati per il supporto di Project online.
 
 ### <a name="project-roadmap-and-microsoft-flow"></a>Roadmap del progetto e Microsoft Flow
 
