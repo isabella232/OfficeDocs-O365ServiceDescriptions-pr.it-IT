@@ -107,7 +107,7 @@
 ### [Funzionalità di amministrazione e sicurezza in Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Funzionalità supporto in Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Descrizioni del servizio Microsoft 365
-### [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
-### [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+### [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md) 
+### [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
 ## [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
 
