@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi&mdash;di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online&mdash;per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701398"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890442"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -191,7 +191,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Caratteristiche del centro &amp; sicurezza e conformità di Office 365
 
-Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.com/office365/securitycompliance/?redirectSourcePath=%252fen-us%252farticle%252fSecurity-and-Compliance-in-Office-365-for-business-Admin-Help-7fe448f7-49bd-4d3e-919d-0a6d1cf675bb) è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -199,14 +199,14 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 |||||
 |:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione avanzata della sicurezza](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione delle minacce](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), ad esempio il filtro della posta e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Gestione avanzata delle minacce](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512), ad esempio Esplora minacce per le campagne di phishing <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|[Gestione avanzata delle minacce](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti), ad esempio Esplora minacce per le campagne di phishing <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |No  <br/> |No  <br/> |Sì  <br/> |
 |[Gestione dei dispositivi mobili](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Prevenzione della perdita di dati](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Governance dei dati](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Governance dei dati](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati avanzata](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Ricerca contenuto](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[casi di eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -585,7 +585,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
   
 #### <a name="message-limits"></a>Limiti dei messaggi
 
-- **Limite dimensione messaggio** I limiti di dimensione dei messaggi sono indispensabili per impedire ai messaggi di grandi dimensioni di bloccare il recapito di altri messaggi e compromettere le prestazioni del servizio a discapito di tutti gli utenti. I limiti includono gli allegati e sono validi a livello di organizzazione per tutti i messaggi (in ingresso, in uscita e interni). I messaggi che superano questo limite non verranno recapitati e il mittente riceverà un rapporto di mancato recapito (NDR). Sebbene limiti di dimensione dei messaggi possano essere configurati su valori più o meno alti o in base ai singoli utenti, gli amministratori possono creare regole di trasporto per limitare le dimensioni massime di ogni singolo allegato. Per ulteriori informazioni, vedere [Office 365 now supports larger email messages (Office 365 ora supporta messaggi di posta elettronica più grandi)](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite dimensione messaggio** I limiti di dimensione dei messaggi sono indispensabili per impedire ai messaggi di grandi dimensioni di bloccare il recapito di altri messaggi e compromettere le prestazioni del servizio a discapito di tutti gli utenti. I limiti includono gli allegati e sono validi a livello di organizzazione per tutti i messaggi (in ingresso, in uscita e interni). I messaggi che superano questo limite non verranno recapitati e il mittente riceverà un rapporto di mancato recapito (NDR). Sebbene limiti di dimensione dei messaggi possano essere configurati su valori più o meno alti o in base ai singoli utenti, gli amministratori possono creare regole di trasporto per limitare le dimensioni massime di ogni singolo allegato. Per ulteriori informazioni, vedere [Office 365 now supports larger email messages (Office 365 ora supporta messaggi di posta elettronica più grandi)](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
    > [!NOTE]
     > Alcuni client di posta elettronica possono contenere limiti per la dimensione dei messaggi o limitare le dimensioni di un singolo file allegato a un valore inferiore al limite delle dimensioni del messaggio di Exchange Online. 
@@ -621,7 +621,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Limite di profondità del messaggio incorporato  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Gli amministratori di Office 365 possono specificare un limite personalizzato compreso tra 150 MB e 1 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione delle dimensioni massime consentite per i messaggi dell'organizzazione, vedere [Office 365 now supports larger email messages (Office ora supporta messaggi di posta elettronica di dimensioni maggiori)](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).<br/> 
+> <sup>1</sup> Gli amministratori di Office 365 possono specificare un limite personalizzato compreso tra 150 MB e 1 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione delle dimensioni massime consentite per i messaggi dell'organizzazione, vedere [Office 365 now supports larger email messages (Office ora supporta messaggi di posta elettronica di dimensioni maggiori)](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).<br/> 
 <sup>2</sup> È possibile inviare e ricevere messaggi di dimensioni fino a 150 MB tra utenti di Office 365 (dove il messaggio non lascia mai i datacenter di Office 365). I messaggi indirizzati al di fuori dei datacenter di Office 365 sono soggetti a un ulteriore aumento del 33% della codifica di traduzione, nel caso in cui le dimensioni massime dei messaggi siano di 112 MB. <br/> 
 <sup>3</sup> In OWA i messaggi possono essere soggetti a un aumento del 33% della codifica e le dimensioni dei messaggi che è possibile inviare vengono ridotte del 25% rispetto all'impostazione configurata. Ad esempio, se si personalizzano le impostazioni per una dimensione massima dei messaggi di 100 MB, è possibile inviare messaggi di dimensioni non superiori a 75 MB. <br/> 
 <sup>4</sup> Le dimensioni dei messaggi da spostare in Exchange Online vengono calcolate da Exchange Online. Versioni di Exchange precedenti a Exchange Server 2013 possono riportare dimensioni più piccole dell'elemento. Questo limite si applica per spostare le migrazioni di base utilizzando uno dei servizi replica delle cassette postali supportati di Exchange. Gli altri metodi di migrazione (completa, Staged, IMAP, PST) e altri strumenti di terze parti sono limitati dal limite delle dimensioni del messaggio generale. <br/> 
@@ -1046,7 +1046,7 @@ Nella tabella seguente vengono descritte le funzionalità di SharePoint disponib
 |Sito personale <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Foto e presenza <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Profilo <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Valutazioni <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Ratings <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Condivisi con me <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Feed del sito (sito del team classico con SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |OneDrive for Business <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |

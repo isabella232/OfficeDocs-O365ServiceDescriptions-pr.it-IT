@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint online in Office 365 consente agli utenti di condividere e collaborare, di informare e coinvolgere gli altri all'interno dell'azienda, di trasformare i processi aziendali e di sfruttare le conoscenze collettive. Inoltre, SharePoint fornisce le funzionalità per le organizzazioni per la protezione e la gestione dei dati e per la creazione di soluzioni personalizzate.
-ms.openlocfilehash: ec12aa14160415cc2de93742d05e7b80bcb3fa01
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726168"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890412"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrizione del servizio SharePoint Online
 
@@ -254,5 +254,5 @@ Utilizzare la tabella seguente per determinare se una funzionalità di SharePoin
 <sup>16</sup> i moduli di InfoPath che contengono codice utente (sandbox) possono essere utilizzati solo in InfoPath rich client. <br/>
 <sup>17</sup> Visio per il consumo Web (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio per il Web richiedono una licenza. Per ulteriori informazioni su Visio per il Web, vedere la [Descrizione di Visio per il servizio Web](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> gli utenti F1 possono accedere a SharePoint Server in una configurazione ibrida, ma Office 365 F1 non include i diritti CAL per accedere al server; tali diritti devono essere acquistati separatamente. <br/>
-<sup>19</sup> la chiave del cliente è disponibile in Office 365 Enterprise E5. La chiave del cliente consente di controllare le chiavi di crittografia dell'organizzazione e quindi di configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file archiviati in SharePoint Online e OneDrive for business. La chiave del cliente consente di soddisfare gli obblighi di conformità perché si controllano le chiavi di crittografia utilizzate da Office 365 per decrittografare i dati. Per ulteriori informazioni, vedere [controllo dei dati in Office 365 tramite Customer Key](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
+<sup>19</sup> la chiave del cliente è disponibile in Office 365 Enterprise E5. La chiave del cliente consente di controllare le chiavi di crittografia dell'organizzazione e quindi di configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file archiviati in SharePoint Online e OneDrive for business. La chiave del cliente consente di soddisfare gli obblighi di conformità perché si controllano le chiavi di crittografia utilizzate da Office 365 per decrittografare i dati. Per ulteriori informazioni, vedere [controllo dei dati in Office 365 tramite Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>20</sup> prossimamente. 

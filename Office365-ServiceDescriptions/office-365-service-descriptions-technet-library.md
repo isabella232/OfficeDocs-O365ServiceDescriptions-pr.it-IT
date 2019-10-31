@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 0c7c14e53014af4bde6ba058b06f88e68cb97d73
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734033"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890452"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
@@ -70,7 +70,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
 
 - [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     
