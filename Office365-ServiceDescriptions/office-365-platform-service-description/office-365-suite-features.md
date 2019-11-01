@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734114"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911709"
 ---
 # <a name="office-365-suite-features"></a>Funzionalità della famiglia di prodotti Office 365
 
@@ -55,7 +55,7 @@ Microsoft PowerApps è un servizio aziendale che consente di compilare, integrar
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub è un'applicazione basata su cloud che consente ai colleghi e ai rispettivi responsabili di usare i propri dispositivi mobili per gestire le pianificazioni e tenersi in contatto. I dipendenti possono utilizzare StaffHub per richiedere ferie o cambi turno e comunicare con altri dipendenti. I dipendenti possono anche inviare messaggi direttamente gli uni agli altri oppure all'intero team. I responsabili possono utilizzare StaffHub per inviare messaggi, creare pianificazioni e inviare notizie o annunci ai team. Per ulteriori informazioni su StaffHub, accedere al [sito Web di Microsoft StaffHub](https://staffhub.office.com/) e al [blog sui team di Office 365](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/).
+Microsoft StaffHub è un'applicazione basata su cloud che consente ai colleghi e ai rispettivi responsabili di usare i propri dispositivi mobili per gestire le pianificazioni e tenersi in contatto. I dipendenti possono utilizzare StaffHub per richiedere ferie o cambi turno e comunicare con altri dipendenti. I dipendenti possono anche inviare messaggi direttamente gli uni agli altri oppure all'intero team. I responsabili possono utilizzare StaffHub per inviare messaggi, creare pianificazioni e inviare notizie o annunci ai team. Per ulteriori informazioni su StaffHub, accedere al [sito Web di Microsoft StaffHub](https://staffhub.office.com/) e al [blog sui team di Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Gruppi di Office 365 connette gli utenti ai colleghi, alle informazioni e alle a
   
 ## <a name="office-365-video"></a>Video di Office 365
 
-Office 365 Video è una destinazione protetta, a livello di società, dove è possibile caricare, condividere e individuare video su più dispositivi, con tecnologia Servizi multimediali Microsoft Azure. Office che 365 Video consente di mantenere i visualizzatori impegnati e informati per comunicare idee su vasta scala e per la conformità tra organizzazioni. Per ulteriori informazioni, vedere [Introduzione a Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
+Office 365 Video è una destinazione protetta, a livello di società, dove è possibile caricare, condividere e individuare video su più dispositivi, con tecnologia Servizi multimediali Microsoft Azure. Office che 365 Video consente di mantenere i visualizzatori impegnati e informati per comunicare idee su vasta scala e per la conformità tra organizzazioni. Per ulteriori informazioni, vedere [Introduzione a Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Blocco appunti di OneNote per la classe
 

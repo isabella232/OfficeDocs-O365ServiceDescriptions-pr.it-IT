@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
-ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734204"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911719"
 ---
 # <a name="recipients"></a>Destinatari
 
@@ -58,7 +58,7 @@ Exchange Online consente agli utenti di creare regole di posta in arrivo che ese
   
 ### <a name="clutter"></a>Messaggi secondari
 
-Messaggi secondari consente di concentrarsi sui messaggi più importanti nella posta in arrivo. Utilizza la tecnologia di apprendimento elettronico per eliminare gli elementi superflui dalla posta in arrivo, spostando i messaggi con priorità inferiore in una nuova cartella Messaggi secondari. Messaggi secondari rispetta le regole di posta elettronica esistenti di modo che, se sono state create regole per organizzare la posta elettronica, tali regole continuano a essere applicate e Messaggi secondari non agirà su tali messaggi. Messaggi secondari è disabilitata per impostazione predefinita. Per ulteriori informazioni, vedere il post su [come eliminare gli elementi superflui dalla posta in arrivo in Office 365]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/).
+Messaggi secondari consente di concentrarsi sui messaggi più importanti nella posta in arrivo. Utilizza la tecnologia di apprendimento elettronico per eliminare gli elementi superflui dalla posta in arrivo, spostando i messaggi con priorità inferiore in una nuova cartella Messaggi secondari. Messaggi secondari rispetta le regole di posta elettronica esistenti di modo che, se sono state create regole per organizzare la posta elettronica, tali regole continuano a essere applicate e Messaggi secondari non agirà su tali messaggi. Messaggi secondari è disabilitata per impostazione predefinita. Per ulteriori informazioni, vedere il post su [come eliminare gli elementi superflui dalla posta in arrivo in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
   
 ### <a name="connected-accounts"></a>Account connessi
 
