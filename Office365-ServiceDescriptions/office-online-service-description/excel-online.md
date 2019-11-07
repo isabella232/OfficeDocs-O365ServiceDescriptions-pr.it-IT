@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
-ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
+ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
+ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637253"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38020263"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -150,7 +150,7 @@ Trascinare il quadratino di riempimento che compare nell'angolo in basso a destr
   
 ## <a name="find"></a>Trova
 
-Consente di cercare il contenuto delle celle nel foglio di lavoro attivo. Una finestra di dialogo estremamente intuitiva consente di eseguire ricerche verso l'alto o verso il basso nella selezione corrente all'interno del foglio di lavoro.
+Consente di cercare il contenuto delle celle nel foglio di lavoro attivo. Una finestra di dialogo di facile utilizzo fornisce la possibilità di eseguire ricerche verso l'alto o verso il basso dalla selezione corrente del foglio di lavoro. **Tutte le informazioni** consentono di evidenziare tutte le istanze del termine di ricerca.
   
 ## <a name="font-and-cell-formatting"></a>Formattazione di caratteri e celle
 
