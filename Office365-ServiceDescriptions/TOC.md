@@ -108,7 +108,9 @@
 ### [Funzionalità supporto in Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Descrizioni del servizio Microsoft 365
 ### [Descrizione del servizio Microsoft 365 Business Voice](microsoft-365-business-voice-service-description.md)
-### [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md) 
+### [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+
+### [Assegnazione di licenze di Microsoft 365 per piccole e medie imprese](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
 ### [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
 ## [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
 
