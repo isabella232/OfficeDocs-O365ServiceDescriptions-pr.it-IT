@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
-ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581468"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289776"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti di Exchange Online Protection
 
@@ -54,7 +54,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
 |Limite dei mittenti attendibili  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
 |Limite del mittente bloccato per ogni criterio  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
 |Limiti elenco IP consentito o IP non consentito  <br/> |1273 voci  <br/> |1273 voci  <br/> |1273 voci  <br/> |
-|Limiti ritardo messaggio  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |2 giorni, un nuovo tentativo ogni 15 minuti  <br/> |
+|Limiti ritardo messaggio  <br/> |1 giorno, riprovato ogni 15 minuti  <br/> |1 giorno, riprovato ogni 15 minuti  <br/> |1 giorno, riprovato ogni 15 minuti  <br/> |
 |Periodo di mantenimento in quarantena della posta indesiderata  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |30 giorni per impostazione predefinita, ma può essere abbassato  <br/> |
 |Notifiche di quarantena della posta indesiderata dell'utente finale  <br/> |3 giorni per impostazione predefinita, configurabile in un intervallo da 1 a 15 giorni  <br/> |3 giorni per impostazione predefinita, configurabile in un intervallo da 1 a 15 giorni  <br/> |3 giorni per impostazione predefinita, configurabile in un intervallo da 1 a 15 giorni  <br/> |
    

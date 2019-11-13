@@ -1,5 +1,5 @@
 ---
-title: Licensing Microsoft 365 per le piccole e medie imprese
+title: Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 business è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 business è una soluzione integrata che unisce la produttività di Office 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: 0c7d91293b65604183d67e24ab2490ca8032da3a
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020452"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289786"
 ---
-# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licensing Microsoft 365 per le piccole e medie imprese
+# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
 Microsoft 365 business è l'offerta Microsoft Best-in-class per i clienti di piccole e medie imprese (SMB). Microsoft 365 business è una soluzione integrata che unisce la **produttività** di Office 365 con **sicurezza avanzata** e **gestione dei dispositivi**.
 
@@ -202,7 +202,7 @@ Microsoft 365 business include il client Office 365 business, che presenta alcun
 
 <sup>1</sup> consente all'organizzazione di eseguire la registrazione di determinate impostazioni di configurazione (impostazioni di sicurezza, impostazioni delle app, roaming di Active Directory e così via) per l'accesso di Office ai computer alla rete aziendale.
 
-<sup>2</sup> con office standard 2016 e Office Professional Plus 2016, ha il controllo completo degli aggiornamenti utilizzando il modello MSI. Con Office 365 ProPlus, l'installazione e gli aggiornamenti vengono gestiti tramite la funzione a portata di clic.
+<sup>2</sup> con office standard 2016 e Office Professional Plus 2016, ha il controllo completo degli aggiornamenti utilizzando il modello MSI. Con Office 365 ProPlus e **office 365 business** , l'installazione e gli aggiornamenti vengono gestiti tramite la funzione a portata di clic.
 
 <sup>3</sup> le suite offrono diversi livelli di integrazione con i server per la produttività aziendale.
 
