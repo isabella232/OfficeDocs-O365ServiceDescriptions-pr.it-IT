@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 27f51c80b4d19f2ca42f0dc7f8b25c93d39dd5ca
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890500"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319484"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare le distribuzioni di Microsoft 365 Compliance-DoD
 
@@ -59,15 +58,15 @@ Dopo aver deciso che questo servizio è appropriato per la propria organizzazion
 
 **Punto decisionale**: *decidere se modificare una delle impostazioni di protezione predefinite di Microsoft 365 Government-DOD, risolvendo in primo luogo l'impatto di eventuali modifiche apportate.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dod"></a>Passaggio 4. Comprendere quali funzionalità non sono attualmente disponibili o disattivate per impostazione predefinita in Microsoft 365 Government – DoD
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Passaggio 4. Comprendere quali funzionalità non sono attualmente disponibili o disattivate per impostazione predefinita in Microsoft 365 Government – DoD<sup>1</sup>
 
 Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune differenze tra i piani di Microsoft 365 Government-DoD e Enterprise. Fare riferimento alla tabella seguente per vedere quali funzionalità sono disponibili.
 
 
 |         |Funzionalità  |Stato DoD  |
 |---------|---------|---------|
-|**Governance & di protezione delle informazioni** | Archiviazione                                      |  Disponibili             |
-|                                        |Etichette e criteri manuali                      |  Disponibili             |
+|**Governance & di protezione delle informazioni** |Archiviazione                                       |  Disponibili             |
+|                                        |Etichette manuali e criteri<sup>2</sup>          |  Disponibili             |
 |                                        |Applicazione automatica delle etichette                      | In ingegneria backlog |
 |                                        |Etichette in base ai tipi di dati riservati            | In ingegneria backlog |
 |                                        |Etichette e criteri associati basati su query | In ingegneria backlog |
@@ -80,13 +79,13 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                        |Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica  | Disponibili              |
 |                                        |DLP per la chat di team e le conversazioni dei canali    | In ingegneria backlog |
 |**Gestione dei rischi Insider**             |Crittografia avanzata dei messaggi                     | Disponibili              |
-|                                        |Conformità alla comunicazione                        | In ingegneria backlog |
+|                                        |Conformità delle comunicazioni                        | In ingegneria backlog |
 |                                        |Archivio protetto del cliente                                | Disponibili              |
 |                                        |Customer Key                                    | Disponibili              |
 |                                        |Gestione accessi con privilegi                    | In ingegneria backlog |
 |**Scoprire & rispondere**                  |Prenotazione sul posto                            | Disponibili              |
 |                                        |Gestione dei casi                                 | Disponibili              |
-|                                        |Cerca                                          | Disponibili              |
+|                                        |Ricerca                                          | Disponibili              |
 |                                        |Esportazione                                          | Disponibili              |
 |                                        |Decrittografia RMS                                  | Disponibili              |
 |                                        |Esportazione nativa                                   | Disponibili              |
@@ -106,5 +105,9 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                        |Esaminare e annotare                             | In ingegneria backlog |
 |                                        |Ingestione non Office 365                        | In ingegneria backlog |
 |                                        |Rapporto termini di ricerca                              | In ingegneria backlog |
+
+<sup>1</sup> lo stato identificato è soggetto a modifiche man mano che i piani di progetto e le priorità vengono rivalutati.<br/>
+<sup>2</sup> l'applicazione manuale delle etichette richiede la [versione 1 del client di Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Punto decisionale**: *decidere se le funzionalità di conformità soddisfano le esigenze dell'organizzazione.*

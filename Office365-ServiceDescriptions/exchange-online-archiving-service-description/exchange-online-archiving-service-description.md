@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Archiviazione Microsoft Exchange Online è una soluzione di archiviazione di livello aziendale basata su cloud di Microsoft Office 365 per le organizzazioni che hanno distribuito Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e versioni successive) oppure abbonarsi a determinati piani di Exchange Online o Office 365. Archiviazione Exchange Online agevola le attività correlate ad archiviazione, conformità, regolamentazione ed eDiscovery e al tempo stesso semplifica l'infrastruttura locale riducendo i costi e il carico per l'IT.
-ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581862"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319474"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrizione del servizio Archiviazione Exchange Online
 
@@ -42,7 +42,7 @@ Archiviazione Exchange Online è disponibile attraverso i piani di sottoscrizion
 |:-----|:-----|
 |**Archiviazione Exchange Online per Exchange Server** <br/> |Archivio basato sul cloud per utenti con cassette postali primarie in Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o versione successiva).  <br/> Per aggiungere un archivio basato sul cloud a una cassetta postale principale che si trova su un server Exchange locale, è necessario configurare la distribuzione ibrida. Per ulteriori informazioni sulle distribuzioni ibride, vedere [Distribuzioni ibride di Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Archiviazione Exchange Online per Exchange Server (tramite Enterprise CAL Suite)** <br/> |Archivio basato sul cloud per utenti con cassette postali primarie in Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o versione successiva). Per informazioni dettagliate, vedere le [indicazioni sulle licenze Core CAL Suite ed Enterprise CAL Suite](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Archiviazione Exchange Online per Exchange Online** <br/> | Archiviazione basata sul cloud e blocco sul posto come componente aggiuntivo per i seguenti piani<sup>1, 2</sup>:<br/>  Exchange Online Piano 1  <br/>  Chiosco Exchange Online  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/> Microsoft 365 Business <br/> Microsoft 365 Enterprise F1<br/> <b>Nota:</b> I piani riportati di seguito includono già l'archiviazione e non richiedono l'archiviazione Exchange Online come componente aggiuntivo:<br/> Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online, piano 2 <br/> Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Per informazioni dettagliate sulle capacità di archiviazione delle cassette postali di Exchange Online, vedere [Cassette postali di archiviazione in Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Archiviazione Exchange Online per Exchange Online** <br/> | Archiviazione basata sul cloud e blocco sul posto come componente aggiuntivo per i seguenti piani<sup>1, 2</sup>:<br/>  Exchange Online Piano 1  <br/>  Chiosco Exchange Online  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/> Microsoft 365 Enterprise F1<br/> <b>Nota:</b> I piani riportati di seguito includono già l'archiviazione e non richiedono l'archiviazione Exchange Online come componente aggiuntivo:<br/>Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online, piano 2 <br/> Microsoft 365 Business <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Per informazioni dettagliate sulle capacità di archiviazione delle cassette postali di Exchange Online, vedere [Cassette postali di archiviazione in Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> Per organizzazioni basate solo sul cloud in cui il server Exchange locale non contiene cassette postali, non è necessaria una distribuzione ibrida. Tuttavia, se sono presenti cassette postali locali, è necessaria la distribuzione ibrida.
