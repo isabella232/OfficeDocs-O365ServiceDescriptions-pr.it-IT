@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 business è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 business è una soluzione integrata che unisce la produttività di Office 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289786"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724664"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
@@ -24,7 +24,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 
 ## <a name="feature-comparison-office-365-business-premium-and-microsoft-365-business"></a>Confronto delle caratteristiche: Office 365 Business Premium e Microsoft 365 business
 
-|**Area di servizio** |**Funzionalità** | **Office 365 Business Premium** | **Microsoft 365 Business** |
+|**Area di servizio** |**Caratteristica** | **Office 365 Business Premium** | **Microsoft 365 Business** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**Licenze disponibili** | Numero massimo di utenti | 300  | 300  |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
@@ -55,7 +55,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 
 ## <a name="feature-comparison-microsoft-365-business-and-office-365-e3"></a>Confronto delle caratteristiche: Microsoft 365 business e Office 365 E3
 
-|**Area di servizio**   | **Funzionalità**  | **Office 365 E3** | **Microsoft 365 Business** |
+|**Area di servizio**   | **Caratteristica**  | **Office 365 E3** | **Microsoft 365 Business** |
 |---|---------------|-------------------|----------------------------|
 |**Licenze disponibili** | Numero massimo di utenti | Illimitata | 300 |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
@@ -88,7 +88,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 
 ## <a name="feature-comparison-office-365-business-premium-microsoft-365-business-and-office-365-e3"></a>Confronto delle caratteristiche: Office 365 Business Premium, Microsoft 365 business e Office 365 E3
 
-|**Area di servizio**   |**Funzionalità** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Office 365 E3** |
+|**Area di servizio**   |**Caratteristica** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**Licenze disponibili** | Numero massimo di utenti | 300 | 300 | Illimitata |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
@@ -121,7 +121,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 
 ## <a name="feature-comparison-office-365-business-premium-and-microsoft-365-plans"></a>Confronto delle caratteristiche: piani di Office 365 Business Premium e Microsoft 365
 
-|**Area di servizio**   |**Funzionalità** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**Area di servizio**   |**Caratteristica** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenze disponibili** | Numero massimo di utenti | 300 | 300 | Illimitata | Illimitata |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
@@ -148,6 +148,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |**Conformità** | Archiviazione di posta elettronica illimitata<sup>2</sup> | No | Sì | Sì | Sì |
 |   | Advanced eDiscovery, archivio protetto dei clienti, Advanced Data Governance | No | No | No | Sì |
 |**Analisi** | Power BI Pro, analisi | No | No | No | Sì |
+|**Assistenza** | Informazioni di posta elettronica | Sì | Sì | Sì | Sì |
 |**Voce** | Servizi di conferenza PSTN, cloud PBX | No | No | No | Sì |
 
 **Note**
