@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 business è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 business è una soluzione integrata che unisce la produttività di Office 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724664"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755474"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
@@ -148,6 +148,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |**Conformità** | Archiviazione di posta elettronica illimitata<sup>2</sup> | No | Sì | Sì | Sì |
 |   | Advanced eDiscovery, archivio protetto dei clienti, Advanced Data Governance | No | No | No | Sì |
 |**Analisi** | Power BI Pro, analisi | No | No | No | Sì |
+| | Insights by analisi analitica | Sì | Sì | Sì | Sì |
 |**Assistenza** | Informazioni di posta elettronica | Sì | Sì | Sì | Sì |
 |**Voce** | Servizi di conferenza PSTN, cloud PBX | No | No | No | Sì |
 
@@ -190,9 +191,9 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 | **Licenze**                                   | **Office 365 Business** | **Office 365 ProPlus** |
 | Modello di gestione delle licenze                                 | Per utente                | Per utente               |
 | Tipo di licenza                                    | Abbonamento            | Abbonamento           |
-| PC/Mac installa<sup>6</sup>                     | 5                       | 5                      |
-| l'installazione dello smartphone iOS/Android è<sup>6</sup>     | 5                       | 5                      |
-| La tavoletta installa<sup>6</sup>                     | 5                       | 5                      |
+| PC/Mac installa<sup>6</sup>                     | 5                        | 5                       |
+| l'installazione dello smartphone iOS/Android è<sup>6</sup>     | 5                        | 5                       |
+| La tavoletta installa<sup>6</sup>                     | 5                        | 5                       |
 | Diritti commerciali di Office RT                     | Sì                     | Sì                    |
 | Office Online/Web Apps                          | Sì                     | Sì                    |
 | Diritti di utilizzo commerciale                           | Sì                     | Sì                    |

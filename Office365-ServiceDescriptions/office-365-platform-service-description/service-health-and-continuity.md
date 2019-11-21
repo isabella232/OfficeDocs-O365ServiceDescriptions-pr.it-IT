@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft Office 365 possono visualizzare lo stato dei servizi e sapere quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo a Office 365.
-ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
+ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911797"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38752715"
 ---
 # <a name="service-health-and-continuity"></a>Continuità e integrità del servizio
 
@@ -49,7 +49,7 @@ Lo spostamento in un servizio cloud non implica la possibilità di perdere la ca
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **T1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
-| 99,97% <br/> | 99,97% <br/> |  <br/> |  <br/> |
+| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> |  <br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Quando si verifica un incidente di servizio, Microsoft riconosce che per i clien
 
 ### <a name="office-365-admin-app"></a>Applicazione Office 365 Admin
 
-L'app di amministrazione per gli amministratori di Office 365 tenant offre la possibilità di connettersi con lo stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori tenant di Office 365 avranno la possibilità di visualizzare le informazioni sull'integrità dei servizi e gli aggiornamenti dello stato di manutenzione dai propri dispositivi mobili. Per ulteriori informazioni, visitare le [domande frequenti sull'app di amministrazione](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+L'app di amministrazione per gli amministratori di Office 365 tenant offre la possibilità di connettersi con lo stato del servizio Office 365 dell'organizzazione in viaggio. Gli amministratori tenant di Office 365 avranno la possibilità di visualizzare le informazioni sull'integrità dei servizi e gli aggiornamenti dello stato di manutenzione dai propri dispositivi mobili. Per altre informazioni consultare le [Domande frequenti dell’app Amministrazione](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Management Pack di Office 365 per Microsoft System Center 2012 R2
 
