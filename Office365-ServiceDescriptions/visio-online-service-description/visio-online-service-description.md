@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio Visio per il Web
+title: Visio per la descrizione del servizio Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web.
-ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700238"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263229"
 ---
-# <a name="visio-for-the-web-service-description"></a>Descrizione del servizio Visio per il Web
+# <a name="visio-for-the-web-service-description"></a>Visio per la descrizione del servizio Web
 
 Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È semplice e facile creare diagrammi di prima classe con tipi di diagramma di uso comune e set di forme ricche. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
   

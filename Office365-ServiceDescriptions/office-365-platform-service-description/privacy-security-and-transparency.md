@@ -1,5 +1,5 @@
 ---
-title: Privacy, sicurezza e trasparenza
+title: Privacy, security, and transparency
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft apprezza il suo rapporto con i clienti e considera fondamentale proteggere la privacy e la sicurezza dei dati dei clienti. Per ulteriori informazioni, visitare il Centro protezione Microsoft.
-ms.openlocfilehash: d8eecc4a5f120832c9e55fab7a3887eced071136
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8eac5028858b7da2523031de087de92370288438
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734254"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262507"
 ---
-# <a name="privacy-security-and-transparency"></a>Privacy, sicurezza e trasparenza
+# <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
 > Le informazioni contenute in questo articolo si applicano alle versioni internazionali di Office 365. Se si usa un'istanza cloud nazionale di Office 365, ad esempio Office 365 U.S. Government, Office 365 Germany e Office 365 gestito da 21Vianet, vedere [Cloud Microsoft nazionali](https://go.microsoft.com/fwlink/?linkid=841582). 
@@ -58,5 +58,5 @@ Office 365 Advanced Threat Protection consente di proteggere l'organizzazione da
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [office 365 Platform Service Description](office-365-platform-service-description.md).
   

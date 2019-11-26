@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Gli smartphone BlackBerry® possono accedere alla posta elettronica e ai documenti in Office 365.
-ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 61f6e4cf3d28ba4acb05cac1f436f868ca5bcabb
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734164"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262879"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -53,5 +53,5 @@ Per l'accesso a Microsoft SharePoint Online, gli utenti BlackBerry possono utili
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [office 365 Platform Service Description](office-365-platform-service-description.md).
   

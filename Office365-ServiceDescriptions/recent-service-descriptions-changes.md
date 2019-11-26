@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai contenuti delle descrizioni dei servizi.
-ms.openlocfilehash: 0a4d4e6f8b44320bc78a4309ff93c2e101b98c06
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5a8acdce7c4d3a1beeb3ea38401bf5255860904e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777527"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263370"
 ---
 # <a name="recent-service-descriptions-changes"></a>Modifiche recenti delle descrizioni di servizio
 
@@ -80,7 +80,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Più aggiornamenti e ristrutturazioni.  <br/> |
 ||[Office 365 gestito da 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correzione della disponibilità di integrazione della segreteria telefonica e della segreteria telefonica.  <br/> |
 |Exchange Online  <br/> |[Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Disponibilità chiarificata dei gruppi per i piani di Exchange Online.  <br/> |
-|Skype for Business online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Aggiornamento del sistema telefonico e della disponibilità delle conferenze per i clienti di Office 365 Business Premium.  <br/> |
+|Skype for Business Online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Aggiornamento del sistema telefonico e della disponibilità delle conferenze per i clienti di Office 365 Business Premium.  <br/> |
    
 ## <a name="january-2018"></a>Gennaio 2018
 
@@ -88,7 +88,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 |:-----|:-----|:-----|
 |**Descrizione servizio** <br/> |**Argomento** <br/> |**Modifica** <br/> |
 |Piattaforma Office 365  <br/> |[Microsoft 365 Education](office-365-platform-service-description/microsoft-365-education.md) <br/> |È stata corretta la disponibilità di Microsoft Teams nei piani di istruzione.  <br/> |
-|Skype for Business online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Limitazione della conversazione in chat client chiarificata.  <br/> |
+|Skype for Business Online  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Limitazione della conversazione in chat client chiarificata.  <br/> |
 |Multiplo  <br/> |Multiplo  <br/> |Aggiunta della chiave del cliente per le descrizioni dei servizi di Skype for business online, SharePoint Online e OneDrive for business.  <br/> |
    
 ## <a name="december-2017"></a>Dicembre 2017
@@ -179,9 +179,9 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 ||[Office 365 gestito da 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Aggiunta della descrizione di Microsoft Forms.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Aggiunta di informazioni su Office 365 US Government G5.  <br/> |
 ||[Office 365 gestito da 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Aggiornamento di Information Rights Management (IRM) tramite Windows Server AD RMS.  <br/> |
-||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Aggiunta della riga "Creare password dell'app" in "Gestione account utente".  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Aggiunta della riga "creare password per l'app" in "Gestione account utente".  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Added pointer to Security &amp; Compliance Center feature description. (Security &amp; Compliance Center is available for Office 365 Germany.)  <br/> |
-|Office per il Web  <br/> |[Office per la descrizione del servizio Web](office-online-service-description/office-online-service-description.md) <br/> |Aggiunta di Visio.  <br/> |
+|Office per il Web  <br/> |[Descrizione del servizio Office per il Web](office-online-service-description/office-online-service-description.md) <br/> |Aggiunta di Visio.  <br/> |
 |Exchange Online  <br/> |[Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |"Tag di conservazione e criteri di conservazione" modificato in "Tag di conservazione e criteri di conservazione di Gestione record di messaggistica".  <br/> |
 ||[Servizi di messaggistica vocale](exchange-online-service-description/voice-message-services.md) <br/> |Aggiornato per includere un annuncio finale per la messaggistica unificata di Exchange Online tramite SBC.  <br/> |
 | Workplace Analytics  <br/> |[Descrizione del servizio Workplace Analytics](workplace-analytics-service-description.md) <br/> |Aggiunta della descrizione di un nuovo servizio  <br/> |

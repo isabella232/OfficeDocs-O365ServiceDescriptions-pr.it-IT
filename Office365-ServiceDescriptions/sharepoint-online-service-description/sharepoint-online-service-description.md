@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint online in Office 365 consente agli utenti di condividere e collaborare, di informare e coinvolgere gli altri all'interno dell'azienda, di trasformare i processi aziendali e di sfruttare le conoscenze collettive. Inoltre, SharePoint fornisce le funzionalità per le organizzazioni per la protezione e la gestione dei dati e per la creazione di soluzioni personalizzate.
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890412"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263310"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrizione del servizio SharePoint Online
 
@@ -46,7 +46,7 @@ Per ulteriori informazioni, vedere la pagina [Utilizzo di un dispositivo mobile 
   
 ## <a name="subscription-options"></a>Opzioni di sottoscrizione
 
-Sono disponibili diversi piani per Office 365, in modo da rispondere alle esigenze della propria organizzazione. Per informazioni relative ai diversi piani, ad esempio le opzioni dei piani autonomi e le informazioni su come passare da un piano a un altro, vedere [Opzioni di piani di Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Sono disponibili diversi piani per Office 365, in modo da rispondere alle esigenze della propria organizzazione. Per informazioni sui diversi piani, incluse le opzioni di piano autonomo e le informazioni sullo spostamento da un piano a un altro, vedere [Opzioni di piano di Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
 Ogni persona che accede a SharePoint Online deve essere assegnata a un piano di Office 365 o a un servizio autonomo di SharePoint Online piano 1 o SharePoint Online piano 2. Tuttavia, un piano di FIRSTLINE non viene venduto come offerta autonoma, solo come parte della sottoscrizione di Firstline, ad esempio SharePoint Online FIRSTLINE. Poiché i lavoratori di FIRSTLINE non possono essere amministratori, i tenant con lavoratori di FIRSTLINE richiedono almeno un amministratore dell'organizzazione per gestire SharePoint. Gli utenti di FIRSTLINE non vedranno i menu di spostamento di SharePoint, quindi i lavoratori di FIRSTLINE devono passare ai siti di SharePoint direttamente dall'URL.
   

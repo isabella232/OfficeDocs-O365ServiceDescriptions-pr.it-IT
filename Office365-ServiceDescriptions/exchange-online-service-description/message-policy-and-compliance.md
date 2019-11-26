@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581962"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262579"
 ---
 # <a name="message-policy-and-compliance"></a>Criteri e conformità del messaggio
 
@@ -40,7 +40,7 @@ Per ulteriori informazioni, vedere:
     
 ### <a name="archive-sizes"></a>Dimensioni degli archivi
 
-Ciascun archivio personale può contenere i dati di messaggistica di un solo utente. L'allocazione di spazio di archiviazione dipende dal piano di abbonamento. Per ulteriori informazioni sulle dimensioni delle cassette postali di archiviazione, vedere la sezione "Limiti di archiviazione delle cassette postali" in [Limiti Exchange Online Limits](exchange-online-limits.md).
+Ciascun archivio personale può contenere i dati di messaggistica di un solo utente. L'allocazione di spazio di archiviazione dipende dal piano di abbonamento. Per ulteriori informazioni sulle dimensioni delle cassette postali di archiviazione, vedere la sezione "limiti di archiviazione delle cassette postali" in [limiti di Exchange Online](exchange-online-limits.md).
   
 > [!IMPORTANT]
 > - L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Microsoft si riserva il diritto di non consentire uno spazio di archiviazione illimitato nei casi in cui una cassetta postale di archiviazione non sia utilizzata in uno scenario personale. 

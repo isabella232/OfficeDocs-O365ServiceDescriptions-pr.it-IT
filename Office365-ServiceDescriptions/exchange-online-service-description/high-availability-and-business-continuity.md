@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online offre un supporto di conservazione e ripristino estensivo per l'infrastruttura di posta elettronica di un'organizzazione. Questo supporto include la replica delle cassette postali presso i data center e la capacità di ripristinare le cassette postali e gli elementi eliminati.
-ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b52345ce9287f0f28187df8efdb89c2eb6a7d9c8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734244"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262599"
 ---
 # <a name="high-availability-and-business-continuity"></a>Disponibilità elevata e continuità aziendale
 

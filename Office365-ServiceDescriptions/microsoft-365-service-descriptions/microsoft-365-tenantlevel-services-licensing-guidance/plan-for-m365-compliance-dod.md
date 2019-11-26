@@ -1,5 +1,5 @@
 ---
-title: Pianificare le distribuzioni di Microsoft 365 Compliance-DoD
+title: Pianificare la conformità Microsoft 365 - Distribuzion DoD
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319484"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262839"
 ---
-# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare le distribuzioni di Microsoft 365 Compliance-DoD
+# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare la conformità Microsoft 365 - Distribuzion DoD
 
 Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
 
@@ -78,7 +78,12 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                        |Barriere informative                            | Disponibili              |
 |                                        |Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica  | Disponibili              |
 |                                        |DLP per la chat di team e le conversazioni dei canali    | In ingegneria backlog |
+|                                        |Corrispondenza dati esatta DLP                            | In ingegneria backlog |
+|                                        |Esplora attività con etichette                         | In ingegneria backlog |
+|                                        |Classificatori addestrabili                           | In ingegneria backlog |
+|                                        |Etichettatura unificata e etichette di riservatezza         | In ingegneria backlog |
 |**Gestione dei rischi Insider**             |Crittografia avanzata dei messaggi                     | Disponibili              |
+|                                        |Gestione dei rischi Insider                         | In ingegneria backlog |
 |                                        |Conformità delle comunicazioni                        | In ingegneria backlog |
 |                                        |Archivio protetto del cliente                                | Disponibili              |
 |                                        |Customer Key                                    | Disponibili              |

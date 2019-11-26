@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con ogni sottoscrizione Microsoft Office 365 Enterprise, Business, Education e Government, il supporto tecnico Microsoft fornisce assistenza globale per problemi tecnici e relativi a prevendita, fatturazione e sottoscrizione. Il supporto è disponibile sia online tramite il portale di Office 365 sia tramite telefono per abbonamenti a pagamento e a prova. Per ulteriori informazioni, vedere Supporto per Office 365.
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582192"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262217"
 ---
 # <a name="support"></a>Supporto
 
@@ -31,7 +31,7 @@ Il team del supporto tecnico di O365 provvede alla risoluzione dei problemi corr
   
 ## <a name="community-and-self-service-support-options"></a>Community e opzioni di supporto self-service
 
-Il supporto self-service è disponibile per tutti i piani Office 365 e include strumenti e video per la risoluzione dei problemi, articoli e video di supporto oltre a forum e wiki nella [community di Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Per ulteriori informazioni sulle risorse per il supporto self-service, vedere la descrizione del servizio [Guida e formazione](help-and-training.md).
+Il supporto self-service è disponibile per tutti i piani Office 365 e include strumenti e video per la risoluzione dei problemi, articoli e video di supporto oltre a forum e wiki nella [community di Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Per ulteriori informazioni sulle risorse di supporto self-service, vedere la [Guida e](help-and-training.md) la descrizione del servizio di formazione.
   
 ## <a name="pre-sales-support"></a>Supporto prevendita
 
@@ -201,4 +201,4 @@ Se si sono già sottoscritti contratti multilicenza con Microsoft, vedere le seg
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [office 365 Platform Service Description](office-365-platform-service-description.md).

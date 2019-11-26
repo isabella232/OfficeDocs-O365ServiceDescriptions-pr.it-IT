@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568119"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262547"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -23,9 +23,9 @@ Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa
   
 È opportuno invitare il team degli account o il proprio partner preferito a informarsi ulteriormente in merito alla procedura di convalida oppure ad avviarla. Per ulteriori informazioni su come acquistare, vedere [Microsoft 365 Government-come acquistare](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
-## <a name="how-to-use-this-service-description-section"></a>Come utilizzare la sezione Service Description
+## <a name="how-to-use-this-service-description-section"></a>Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio
 
-La descrizione servizio di Office 365 US Government è stata pensata come aggiunta a quella generale di Office 365. Il documento definisce gli impegni univoci ed evidenzia le differenze rispetto alle offerte Office 365 Enterprise.
+La descrizione del servizio Office 365 US Government è progettata per essere utilizzato come sovrapposizione alla descrizione generale del servizio Office 365. Il documento definisce gli impegni univoci ed evidenzia le differenze rispetto alle offerte Office 365 Enterprise.
   
 ## <a name="compliance"></a>Conformità
 
@@ -43,7 +43,7 @@ Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per
   
 |||
 |:-----|:-----|
-|**Controlli del background e screening del personale Microsoft** <sup>1</sup> <br/> |**Descrizione** <br/> |
+|**Controlli del background e screening del personale Microsoft**<sup>1</sup> <br/> |**Descrizione** <br/> |
 |Cittadinanza negli Stati Uniti  <br/> |Verifica della cittadinanza negli Stati Uniti  <br/> |
 |Controllo della storia professionale  <br/> |Verifica della storia professionale degli ultimi sette (7) anni  <br/> |
 |Verifica dell'istruzione  <br/> |Verifica del livello massimo raggiunto  <br/> |
@@ -96,7 +96,7 @@ Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai 
   
  **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. Tutte le soluzioni in modalità sandbox devono essere migrate nel [modello extensibility del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
-### <a name="skype-for-business-online"></a>Skype for Business online
+### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   

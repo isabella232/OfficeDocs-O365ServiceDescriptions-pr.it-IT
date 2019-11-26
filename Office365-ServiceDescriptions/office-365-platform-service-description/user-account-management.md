@@ -1,5 +1,5 @@
 ---
-title: Gestione degli account utente
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti.
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911793"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262117"
 ---
-# <a name="user-account-management"></a>Gestione degli account utente
+# <a name="user-account-management"></a>User account management
 
 Microsoft Office 365 supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti. 
   
 > [!NOTE]
-> Questo argomento non include informazioni sulle funzionalità di sicurezza che consentono o impediscono l'accesso a singole risorse di Office 365 (ad esempio, il controllo di accesso basato sui ruoli di Microsoft Exchange Online o le opzioni di configurazione della sicurezza in Microsoft SharePoint Online). Per informazioni dettagliate su tali funzionalità, vedere le descrizioni dei servizi [Descrizione del servizio Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) e [Descrizione del servizio SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
+> Questo argomento non include informazioni sulle funzionalità di sicurezza che consentono o impediscono l'accesso a singole risorse di Office 365 (ad esempio, il controllo di accesso basato sui ruoli di Microsoft Exchange Online o le opzioni di configurazione della sicurezza in Microsoft SharePoint Online). Per informazioni dettagliate su queste funzionalità, vedere la descrizione del [servizio Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) e la [Descrizione del servizio SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
 Per ulteriori informazioni sugli strumenti che consentono di eseguire attività amministrative, vedere [Strumenti per gestire gli account di Office 365](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Per scoprire come eseguire operazioni di gestione giornaliera, vedere [Attività di gestione comuni per Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
   
@@ -127,7 +127,7 @@ La modalità di eliminazione degli account varia a seconda che si utilizzi o men
     
 - Se si utilizza la sincronizzazione con Active Directory, è necessario eliminare gli utenti dalla struttura di Active Directory locale, anziché da Office 365.
     
-Gli account eliminati diventano inattivi. Dopo circa 30 giorni dall'eliminazione è possibile ripristinare l'account. Per ulteriori informazioni sull'eliminazione e il ripristino degli account, vedere [eliminare gli utenti in office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) e [ripristinare gli utenti in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) oppure, se si utilizza Office 365 gestito da 21ViaNet in Cina, vedere [creare o modificare gli account utente in Office 365 gestito da 21Vianet-guida](https://docs.microsoft.com/office365/admin/add-users/add-users)per gli amministratori.
+Gli account eliminati diventano inattivi. Dopo circa 30 giorni dall'eliminazione è possibile ripristinare l'account. Per ulteriori informazioni sull'eliminazione e il ripristino degli account, vedere [eliminare gli utenti in office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) e [ripristinare gli utenti in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) oppure, se si utilizza Office 365 gestito da 21ViaNet in Cina, vedere [creare o modificare gli account utente in Office 365 gestito da 21ViaNet-guida per gli amministratori](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Gestione delle password
 

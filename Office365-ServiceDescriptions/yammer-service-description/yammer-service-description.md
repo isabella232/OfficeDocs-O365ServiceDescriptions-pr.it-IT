@@ -1,5 +1,5 @@
 ---
-title: Descrizione servizio Yammer
+title: Descrizione del servizio Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer è un social network aziendale efficace, sicuro e privato. Yammer consente ai dipendenti di rafforzare e migliorare la loro produttività consentendo di collaborare facilmente, prendere decisioni più velocemente e organizzarsi autonomamente in team per affrontare qualunque tipo di sfida aziendale. Si tratta di un nuovo modo di lavorare che guida in maniera naturale l'allineamento e l'agibilità aziendale, riduce la durata dei cicli, coinvolge i dipendenti e migliora le relazioni tra clienti e partner.
-ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911829"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263137"
 ---
-# <a name="yammer-service-description"></a>Descrizione servizio Yammer
+# <a name="yammer-service-description"></a>Descrizione del servizio Yammer
 
 Yammer è un social network aziendale efficace, sicuro e privato. Yammer consente ai dipendenti di rafforzare e migliorare la loro produttività consentendo di collaborare facilmente, prendere decisioni più velocemente e organizzarsi autonomamente in team per affrontare qualunque tipo di sfida aziendale. Si tratta di un nuovo modo di lavorare che guida in maniera naturale l'allineamento e l'agibilità aziendale, riduce la durata dei cicli, coinvolge i dipendenti e migliora le relazioni tra clienti e partner.
   
@@ -28,7 +28,7 @@ Per un elenco dei piani di Office 365 che includono Yammer, vedere [Famiglie e p
 Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
-> È possibile esportare, salvare e stampare le pagine della descrizione del servizio Office 365. Ulteriori informazioni su come [esportare più pagine](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> È possibile esportare, salvare e stampare le pagine nelle descrizioni dei servizi di Office 365. Ulteriori informazioni su come [esportare più pagine](https://go.microsoft.com/fwlink/?LinkId=403349). 
   
 ## <a name="system-requirements"></a>Requisiti di sistema
 
@@ -44,7 +44,7 @@ Yammer è disponibile attraverso i piani di sottoscrizione elencati di seguito:
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |Social network aziendale con sistemi di sicurezza, integrazione e amministrazione migliorati.  <br/> |
    
 > [!NOTE]
-> Le funzionalità e i criteri descritti in [Descrizione dei servizi della piattaforma Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) non vengono applicati al servizio Yammer. 
+> Le caratteristiche e i criteri descritti nella [Descrizione del servizio piattaforma Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) non sono validi per il servizio Yammer. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Criteri di comunicazione del servizio Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>

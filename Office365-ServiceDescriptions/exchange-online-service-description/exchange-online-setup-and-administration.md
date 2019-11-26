@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: In questo articolo vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581982"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262609"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Installazione e amministrazione di Exchange Online
 
@@ -74,7 +74,7 @@ Exchange Online supporta gli stessi criteri ActiveSync per i dispositivi mobili 
   
 ### <a name="message-tracking-for-exchange-online"></a>Verifica messaggi per Exchange Online
 
-La verifica messaggi tramite la funzionalità Rapporti di recapito è descritta nei seguenti argomenti: [Funzionalità di reporting e risoluzione dei problemi](reporting-features-and-troubleshooting-tools.md).
+La verifica dei messaggi tramite la caratteristica rapporti di recapito è descritta nel seguente argomento: [Reporting features and Troubleshooting Tools](reporting-features-and-troubleshooting-tools.md).
   
 ### <a name="usage-reporting-for-exchange-online"></a>Report utilizzo per Exchange Online
 
@@ -92,7 +92,7 @@ Per ulteriori informazioni sui cmdlet di Windows PowerShell disponibili in Excha
   
 ### <a name="auditing-for-exchange-online"></a>Controllo per Exchange Online
 
-La funzionalità di registrazione di controllo è descritta nel seguente argomento: [Funzionalità di reporting e risoluzione dei problemi](reporting-features-and-troubleshooting-tools.md).
+La funzionalità di registrazione di controllo è descritta nel seguente argomento: [funzionalità di Reporting e strumenti di risoluzione dei problemi](reporting-features-and-troubleshooting-tools.md).
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Aggiornamenti dei servizi e dei prodotti per Exchange Online
 

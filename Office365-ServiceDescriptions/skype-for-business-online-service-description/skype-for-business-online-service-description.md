@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio Skype for Business Online
+title: Descrizione del servizio Skype for business online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Si desidera conoscere quali licenze è necessario acquistare per ottenere determinate funzionalità di Skype for Business? Vedere la panoramica sulle licenze di Skype for business.
-ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733747"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263270"
 ---
-# <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
+# <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for business online
 
 > [!NOTE]
 > Microsoft teams è ora il client principale per i messaggi, le riunioni e le chiamate in Office 365. I nuovi clienti di Office 365 con 500 seggi o meno saranno onboarded to Microsoft teams e non avranno accesso a Skype for business online. I tenant che già utilizzano Skype for business online potranno continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completeranno la transizione a Microsoft teams.
@@ -40,13 +40,13 @@ Skype for Business è ospitato su server multi-tenant che supportano più utenti
 Per informazioni sulle nuove funzionalità di Skype for Business online, vedere [Esplorare Skype for Business](https://go.microsoft.com/fwlink/?linkid=529224) e [Novità di Skype for Business](https://go.microsoft.com/fwlink/?linkid=846973).
   
 > [!TIP]
-> È possibile esportare, salvare e stampare le pagine della descrizione del servizio Office 365. Ulteriori informazioni su come [esportare più pagine](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> È possibile esportare, salvare e stampare le pagine nelle descrizioni dei servizi di Office 365. Ulteriori informazioni su come [esportare più pagine](https://go.microsoft.com/fwlink/?LinkId=403349). 
   
 ## <a name="compare-skype-for-business-online-features-across-office-365-plans"></a>Confronto fra le funzionalità di Skype for Business online nei piani di Office 365
 
 È consigliabile utilizzare la pagina di confronto semplice per scegliere la versione di Skype for business online. Vedere [Confronta i piani di Riunini Skype](https://go.microsoft.com/fwlink/?linkid=798291). Per un confronto più approfondito, vedere le tabelle seguenti sulle funzionalità. Se si necessita di maggiore assistenza, contattare il [supporto](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support). È possibile selezionare le impostazioni locali dall'elenco a discesa per ottenere un numero locale.
   
-Per visualizzare tutti i piani di Office 365, vedere [Confrontare i piani di Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Per un confronto più dettagliato, vedere [Opzioni di piani di Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
+Per visualizzare tutti i piani di Office 365, vedere [Confrontare i piani di Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Per un confronto più dettagliato, vedere [Opzioni di piano di Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
   
  Per confrontare singole funzionalità dei client Web e desktop di Skype for Business, vedere le [tabelle di confronto dei client per Skype for Business Server 2015](https://go.microsoft.com/fwlink/?linkid=829754). Per un confronto dettagliato dei client mobili di Skype for Business, vedere le [tabelle di confronto dei client mobili](https://go.microsoft.com/fwlink/?linkid=846932)
   

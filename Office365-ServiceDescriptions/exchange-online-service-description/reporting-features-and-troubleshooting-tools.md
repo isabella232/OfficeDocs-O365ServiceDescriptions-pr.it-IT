@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre una vasta gamma di funzionalità di Reporting sia all'interno che all'esterno dell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581992"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262709"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di Reporting e strumenti di risoluzione dei problemi
 
@@ -33,7 +33,7 @@ Sono presenti report nella pagina report nell'interfaccia di amministrazione di 
   
 Inoltre, la pagina report nell'interfaccia di amministrazione di Microsoft 365 contiene rapporti sui dati di messaggistica, che forniscono informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e antimalware e sui messaggi interessati dalle regole di trasporto di Exchange o dalla prevenzione della perdita di dati (DLP) generali. I report migliorati per la protezione, le regole e DLP offrono un'esperienza di report interattiva agli amministratori di Exchange Online. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
   
-Per ulteriori informazioni sui report disponibili con ciascuna sottoscrizione Office 365, vedere [Report](../office-365-platform-service-description/reports.md). Per informazioni più dettagliate sulla pagina report nell'interfaccia di amministrazione di Microsoft 365, vedere [visualizzare e scaricare report sull'uso dei servizi in office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) e [utilizzare i rapporti di protezione della posta elettronica in Office 365 per visualizzare i dati relativi a malware, posta indesiderata e rilevamenti di regole. ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Per ulteriori informazioni sui report disponibili con ciascuna sottoscrizione Office 365, vedere [Report](../office-365-platform-service-description/reports.md). Per informazioni più dettagliate sulla pagina report nell'interfaccia di amministrazione di Microsoft 365, vedere [visualizzare e scaricare report sull'uso dei servizi in office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) e [utilizzare i rapporti di protezione della posta elettronica in Office 365 per visualizzare i dati relativi a malware, posta indesiderata e rilevamenti di regole](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Reporting con la relativa cartella di lavoro Excel
 

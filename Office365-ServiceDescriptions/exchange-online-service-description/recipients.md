@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911719"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262729"
 ---
 # <a name="recipients"></a>Destinatari
 
@@ -34,7 +34,7 @@ Ogni sottoscrittore di Microsoft Exchange Online riceve una cassetta postale e c
 
 La quantità di spazio di archiviazione nella cassetta postale disponibile per un utente e le dimensioni predefinite della cassetta postale sono determinate dal tipo di cassetta postale e dalla licenza di sottoscrizione dell'utente. Gli amministratori possono ridurre le dimensioni massime della cassetta postale per ogni utente o a livello globale. Exchange Online fornisce inoltre tre tipi di notifiche quando la cassetta postale di un utente si avvicina o raggiunge la capacità massima.
   
-Per ulteriori informazioni, vedere le sezioni relative ai limiti di archiviazione della cassetta postale e agli avvisi di capacità in questo argomento, [Limiti Exchange Online Limits](exchange-online-limits.md).
+Per ulteriori informazioni, vedere la sezione "limiti di archiviazione delle cassette postali" e "avvisi di capacità" nell'argomento [Exchange Online limits](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>Suggerimenti messaggio
 

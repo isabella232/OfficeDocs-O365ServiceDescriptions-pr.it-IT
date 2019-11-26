@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020263"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261917"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -102,7 +102,7 @@ Dopo aver creato una tabella di Excel, è possibile che si desideri solo lo stil
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-È possibile tagliare, copiare e incollare testo, numeri, equazioni, forme, grafici e immagini. Se si dispone di dati nelle colonne che è necessario ruotare per riorganizzarlo in righe, utilizzare la caratteristica **TRANSPOSE** del menu **Incolla** .
+È possibile tagliare, copiare e incollare testo, collegamenti ipertestuali, numeri, formule, forme, grafici e immagini. Se si dispone di dati nelle colonne che è necessario ruotare per riorganizzarlo in righe, utilizzare la caratteristica **TRANSPOSE** del menu **Incolla** . Per ulteriori informazioni [, vedere copia e incolla in Excel per il Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 

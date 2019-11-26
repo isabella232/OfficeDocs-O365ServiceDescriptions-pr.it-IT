@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765637"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263420"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -92,7 +92,7 @@ Nella tabella precedente, il numero di controlli (**x**) indica il livello gener
 
 Le funzionalità elencate in questa sezione interagiscono solo con i dati del progetto per l'archivio dati Web. Tutte queste funzionalità sono disponibili in tutte le sottoscrizioni di Microsoft Project: Project Plan 1, Project Plan 3 e Project Plan 5.
 
-|Funzionalità | Description |
+|Funzionalità | Descrizione |
 |--------|-------------|
 |**Gestione di progetti, attività e tempi**||
 |Visualizzazione scheda | Monitorare le attività del progetto visivamente per migliorare il flusso di lavoro e il monitoraggio dello stato con le schede attività fuori sede e personalizzate.|
@@ -119,7 +119,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 |Applicazioni per dispositivi mobili | Creare applicazioni mobili personalizzate con PowerApps. <sup>4</sup> |
 |**Personalizzazione e integrazione**||
 |PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili con PowerApps. <sup>4</sup> |
-|Workflows | Automatizzare e integrare i processi aziendali con Microsoft Flow. <sup>5</sup> |
+|Flussi di lavoro | Automatizzare e integrare i processi aziendali con Microsoft Flow. <sup>5</sup> |
 |Integrazione di Microsoft Office 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni di Office 365. <sup>1</sup> |
 |**Sicurezza e gestione degli utenti**||
 |Gruppi moderni di Office | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse per i membri del team da condividere.|
@@ -128,7 +128,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 
 Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'archivio dati di Project Online SharePoint.
 
-|Funzionalità | Description | Piano di progetto 3 | Piano di progetto 5 |
+|Funzionalità | Descrizione | Piano di progetto 3 | Piano di progetto 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**Gestione di progetti, attività e tempi**||||
 |Avvisi e promemoria | Rimanere in programmazione per importanti attività imminenti e eventi di progetto con promemoria in Outlook e Microsoft teams. <sup>1</sup>| Sì | Sì |
@@ -148,7 +148,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'a
 |Pianificazione delle attività | Utilizzare le date di inizio e di fine dell'attività, i tempi di sforzo, di lavoro, di lead e di ritardo e le dipendenze per ottenere una pianificazione accurata delle date del progetto tramite Project Web App. | Sì | Sì |
 |Aggiornamenti delle attività | Acquisizione di tempo e stato con i commenti sulle attività del progetto, il lavoro non di progetto e l'orario non lavorativo. | Sì | Sì |
 |Timeline | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale tramite Project Web App. | Sì | Sì |
-|Timesheets | I membri del team possono immettere il tempo e lo stato rispetto a attività, lavoro non di progetto e tempo non lavorativo. | Sì | Sì |
+|Schede attività | I membri del team possono immettere il tempo e lo stato rispetto a attività, lavoro non di progetto e tempo non lavorativo. | Sì | Sì |
 |Approvazioni delle schede attività | I membri del team possono inviare schede attività per l'approvazione. I responsabili delle risorse e le autorità di vigilanza possono rivedere, approvare e rifiutare le schede attività inviate. | Sì | Sì |
 |Configurazione del tempo non lavorativo | Consente di aggiungere festività, giorni di ferie, permessi per malattia e altri giorni non lavorativi nella pianificazione del progetto. | No | Sì |
 |**Collaborazione** ||||
@@ -180,7 +180,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Custom fields | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. | Sì | Sì |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. | Sì | Sì |
 |PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili (tramite OData) con PowerApps. <sup>4</sup> | Sì | Sì |
-|Workflows | Automatizzare e integrare i processi aziendali (tramite OData) con Microsoft Flow. <sup>5</sup> | Sì | Sì |
+|Flussi di lavoro | Automatizzare e integrare i processi aziendali (tramite OData) con Microsoft Flow. <sup>5</sup> | Sì | Sì |
 |Integrazione di Microsoft Office 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni di Office 365. <sup>1</sup> | Sì | Sì |
 |Integrazione di Microsoft Planner | Connettere le attività del progetto a un piano di pianificazione e monitorare il lavoro dettagliato in Planner. <sup>1</sup> | Sì | Sì |
 |**Gestione della sicurezza, degli utenti e dei servizi**||||
@@ -202,7 +202,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 
 ### <a name="project-online-desktop-client-features"></a>Caratteristiche del client desktop di Project online
 
-|Funzionalità | Description |
+|Funzionalità | Descrizione |
 |--------|-------------|
 |**Gestione di progetti e attività**||
 |Linee | Impostare le linee di base del progetto per monitorare le prestazioni correnti rispetto alle prestazioni precedenti. |
@@ -227,7 +227,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Risorse lavoro, generiche e materiale | Aggiungere risorse a un progetto, ad esempio risorse di lavoro come persone, risorse generiche come falegnami e risorse materiali come computer e cemento. |
 |Costo del progetto e budgeting | Confrontare lo stato e il budget pianificati in termini di tempo e costi effettivi. |
 |Costo delle risorse | Monitorare e gestire i costi delle risorse del progetto.|
-|**Reporting** ||
+|**Creazione di report** ||
 |Report personalizzati | Creare report personalizzati per progetti, programmi, portfolio e risorse. |
 |Report out-of-box | Utilizzare i report predefiniti per comprendere i dati relativi a progetti, programmi, portfolio e risorse. |
 |Output PDF e XPS | Salvare un file di progetto come file PDF o XPS. |

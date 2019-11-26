@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio Microsoft 365 Business
+title: Descrizione servizio Microsoft 365 business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 05f1aada1626d55c76aac73c9c49d3585e385dea
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765617"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262849"
 ---
-# <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
+# <a name="microsoft-365-business-service-description"></a>Descrizione servizio Microsoft 365 business
 
 Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con sicurezza avanzata e gestione dei dispositivi per proteggere la propria azienda dalle minacce avanzate. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le [descrizioni dei servizi di office 365](../office-365-service-descriptions-technet-library.md).
   
@@ -60,7 +60,7 @@ Microsoft 365 business include essenzialmente tutte le funzionalità disponibili
 |Office 365 Advanced Threat Protection piano 1 <br/> |No  <br/> |Sì<sup>7</sup> <br/> |
 |Secure Score<sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |Office 365 Advanced Threat Protection (Piano 2) <br/> |No  <br/> |No <br/> |
-|[Gestione delle identità e degli accessi](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 business include le funzionalità di Azure AD Premium P1 (AADP P1). Non include la totalità di AADP1. <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Gestione di identità e accesso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 business include le funzionalità di Azure AD Premium P1 (AADP P1). Non include la totalità di AADP1. <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Autenticazione a più fattori di Azure (AMF)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Unità amministrative  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Individuazione di app per cloud  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
@@ -114,6 +114,6 @@ Microsoft 365 business include essenzialmente tutte le funzionalità disponibili
 <sup>5</sup> semplificare la gestione dei dispositivi Windows 10 incorporati nell'interfaccia di amministrazione di Microsoft 365. Capacità di gestione di Intune di iOS, Android, macOS e di altre funzionalità di gestione dei dispositivi su più piattaforme incorporate nell'interfaccia di amministrazione di gestione dispositivi, anche con licenza per l'utilizzo con Microsoft 365 business. Le app di terze parti e la configurazione di elementi come i profili Wi-Fi e i certificati VPN possono essere gestite anche nell'interfaccia di amministrazione di gestione dei dispositivi. <br/>
 <sup>6</sup> questo piano viene fornito con Microsoft Stream piano 2, che include il portale video, la trascrizione dei messaggi vocali, la ricerca profonda e il rilevamento del volto.<br/>
 <sup>7</sup> Microsoft 365 viene fornito con Office 365 Advanced Threat Protection Plan 1. Per ulteriori informazioni, vedere [Microsoft 365 Business Security and Compliance features](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
-<sup>8</sup> Microsoft 365 business include le funzionalità di Azure ad Premium P1, come la reimpostazione della password in modalità self-service, l'autenticazione a più fattori di Azure e l'accesso condizionale. Non include la totalità di Azure AD Premium P1.</br>
+<sup>8</sup> Microsoft 365 business include le seguenti funzionalità di Azure ad Premium P1: reimpostazione della password in modalità self-service con Write-back di Active Directory, autenticazione a più fattori di Azure e accesso condizionale. Non include la totalità di Azure AD Premium P1.</br>
 <sup>9</sup> i Sottoscrittori Microsoft 365 business sono concessi in licenza per l'utilizzo di funzionalità di Intune complete per iOS, Android, MacOS e altre gestione dei dispositivi Cross-Platform. Le funzionalità non disponibili nell'interfaccia di amministrazione di Microsoft 365 business, come la gestione delle app di terze parti e la configurazione dei profili Wi-Fi, i certificati VPN e così via, possono essere gestite nella console Full Intune.</br>
-<sup>10</sup> se si dispone di dispositivi concessi in licenza per Windows 7 e 8,1 Professional, Microsoft 365 business fornisce un aggiornamento a Windows 10 Pro. Con Microsoft 365 business non si ottengono solo le [funzionalità di sicurezza di Microsoft Defender che vengono abilitate in Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), si ottiene anche l'accesso alle funzionalità Premium come la protezione della rete per le minacce basate sul Web e le regole di prevenzione delle intrusioni host per attenuare il ransomware. Quando si configura il tenant aziendale di Microsoft 365, si seleziona la protezione delle app e le impostazioni di configurazione dei dispositivi. Tali impostazioni definiscono i criteri che vengono applicati automaticamente ai dispositivi che accedono ad Azure Active Directory.
+<sup>10</sup> se si dispone di dispositivi concessi in licenza per Windows 7 e 8,1 Professional, Microsoft 365 business fornisce un aggiornamento a Windows 10 Pro. Con Microsoft 365 business non si ottengono solo le [funzionalità di sicurezza di Microsoft Defender che vengono abilitate in Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), si ottiene anche l'accesso alle funzionalità Premium come la protezione di rete per le minacce basate sul Web e le regole Host Intrusion Prevention per attenuare il ransomware. Quando si configura il tenant aziendale di Microsoft 365, si seleziona la protezione delle app e le impostazioni di configurazione dei dispositivi. Tali impostazioni definiscono i criteri che vengono applicati automaticamente ai dispositivi che accedono ad Azure Active Directory.

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
-ms.openlocfilehash: 14081671a3539e9fa73f049eae0ced9f80568c21
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633868"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263450"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 
@@ -53,7 +53,7 @@ Microsoft garantisce ai clienti Office 365 tempi di attività del 99,9% grazie a
   
 ## <a name="service-updates"></a>Aggiornamenti dei servizi
 
-Vengono aggiornati regolarmente i servizi Office 365 con nuove caratteristiche e funzionalità. Vedere [Aggiornamenti dei servizi](../office-365-platform-service-description/service-updates.md).
+Vengono aggiornati regolarmente i servizi Office 365 con nuove caratteristiche e funzionalità. Vedere [Service Updates](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Collaborazione tra membri del team
 

@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582012"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262719"
 ---
 # <a name="sharing-and-collaboration"></a>Condivisione e collaborazione
 
 ## <a name="federated-sharing"></a>Condivisione federata
 
-La Federazione si riferisce all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo per gli utenti di Microsoft Exchange Online per condividere dati del calendario di disponibilità e informazioni di contatto con i destinatari in altre organizzazioni esterne federate o con utenti che dispongono dell'accesso a Internet. Sono incluse anche le organizzazione che sono ospitate da Exchange Online oppure le organizzazioni Microsoft Exchange Server 2010 o Exchange Server 2013. Utilizzando le relazioni tra organizzazioni e i criteri di condivisione, gli amministratori di Exchange Online possono consentire agli utenti di inviare inviti di condivisione del calendario da Microsoft Outlook sul Web o Microsoft Outlook 2010 o versione successiva.
+La Federazione si riferisce all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo per gli utenti di Microsoft Exchange Online per condividere dati del calendario di disponibilità e informazioni di contatto con i destinatari in altre organizzazioni esterne federate o con utenti che dispongono di accesso a Internet. Sono incluse anche le organizzazione che sono ospitate da Exchange Online oppure le organizzazioni Microsoft Exchange Server 2010 o Exchange Server 2013. Utilizzando le relazioni tra organizzazioni e i criteri di condivisione, gli amministratori di Exchange Online possono consentire agli utenti di inviare inviti di condivisione del calendario da Microsoft Outlook sul Web o Microsoft Outlook 2010 o versione successiva.
   
 > [!IMPORTANT]
 >  Le organizzazione Exchange 2010 e Exchange 2013 esterne devono configurare una relazione di trust federativa con Microsoft Federation Gateway come parte della condivisione federata. Per le organizzazioni Exchange Online non occorre configurare una relazione di trust federativa; la relazione di trust federativa con Microsoft Federation Gateway viene creata automaticamente quando viene creato il tenant di Office 365. 
@@ -46,7 +46,7 @@ Per ulteriori informazioni sulle cassette postali dei siti, vedere [Cassette pos
   
 ## <a name="public-folders"></a>Cartelle pubbliche
 
-Le cartelle pubbliche in Exchange Online sono state modernizzate per sfruttare l'elevata disponibilità esistente e le tecnologie di archiviazione del database delle cassette postali. L'architettura delle cartelle pubbliche utilizza cassette postali speciali per archiviare sia la gerarchia sia il contenuto della cartella pubblica. Ciò significa che non è più disponibile un database delle cartelle pubbliche separato. La replica delle cartelle pubbliche ora utilizza il modello di replica continua. L'elevata disponibilità della gerarchia e delle cassette postali del contenuto è fornita dal gruppo di disponibilità del database (DAG) che si trova nel data center. In Exchange Online, l'utente ha un limite di 1000 cassette postali delle cartelle pubbliche. Anche ciascuna cassetta postale di cartelle pubbliche possiede dimensioni di archiviazione massime. Per ulteriori informazioni, vedere la sezione "Limiti cartella delle cassette postali" su [Limiti Exchange Online Limits](exchange-online-limits.md). Le cassette postali di cartelle pubbliche hanno i medesimi avvisi per limiti di spazio di archiviazione, messaggi, destinatari e avvisi di capacità delle cassette postali normali. Per ulteriori informazioni, vedere [Destinatari](recipients.md). 
+Le cartelle pubbliche in Exchange Online sono state modernizzate per sfruttare l'elevata disponibilità esistente e le tecnologie di archiviazione del database delle cassette postali. L'architettura delle cartelle pubbliche utilizza cassette postali speciali per archiviare sia la gerarchia sia il contenuto della cartella pubblica. Ciò significa che non è più disponibile un database delle cartelle pubbliche separato. La replica delle cartelle pubbliche ora utilizza il modello di replica continua. L'elevata disponibilità della gerarchia e delle cassette postali del contenuto è fornita dal gruppo di disponibilità del database (DAG) che si trova nel data center. In Exchange Online, l'utente ha un limite di 1000 cassette postali delle cartelle pubbliche. Anche ciascuna cassetta postale di cartelle pubbliche possiede dimensioni di archiviazione massime. Per ulteriori informazioni, vedere la sezione "limiti della cartella delle cassette postali" in [limiti Exchange Online limits](exchange-online-limits.md). Le cassette postali di cartelle pubbliche hanno i medesimi avvisi per limiti di spazio di archiviazione, messaggi, destinatari e avvisi di capacità delle cassette postali normali. Per ulteriori informazioni, vedere [Destinatari](recipients.md). 
   
 Per ulteriori informazioni sulle cartelle pubbliche, vedere [Cartelle pubbliche](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

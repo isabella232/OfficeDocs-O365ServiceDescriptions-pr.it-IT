@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio Archiviazione Exchange Online
+title: Descrizione del servizio archiviazione Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Archiviazione Microsoft Exchange Online è una soluzione di archiviazione di livello aziendale basata su cloud di Microsoft Office 365 per le organizzazioni che hanno distribuito Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e versioni successive) oppure abbonarsi a determinati piani di Exchange Online o Office 365. Archiviazione Exchange Online agevola le attività correlate ad archiviazione, conformità, regolamentazione ed eDiscovery e al tempo stesso semplifica l'infrastruttura locale riducendo i costi e il carico per l'IT.
-ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319474"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260521"
 ---
-# <a name="exchange-online-archiving-service-description"></a>Descrizione del servizio Archiviazione Exchange Online
+# <a name="exchange-online-archiving-service-description"></a>Descrizione del servizio archiviazione Exchange Online
 
 Archiviazione Microsoft Exchange Online è una soluzione di archiviazione di livello aziendale basata su cloud di Microsoft Office 365 per le organizzazioni che hanno distribuito Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e versioni successive) oppure abbonarsi a determinati piani di Exchange Online o Office 365. Archiviazione Exchange Online agevola le attività correlate ad archiviazione, conformità, regolamentazione ed eDiscovery e al tempo stesso semplifica l'infrastruttura locale riducendo i costi e il carico per l'IT.
   
-Quale servizio online di Microsoft Office 365, Archiviazione Exchange Online è stato progettato in modo da rispondere a elevati requisiti di sicurezza, affidabilità e produttività degli utenti. Per ulteriori informazioni su Office 365, incluse funzionalità comuni a tutti i servizi online di Office 365, vedere [Descrizione dei servizi della piattaforma Office 365](../office-365-platform-service-description/office-365-platform-service-description.md).
+Quale servizio online di Microsoft Office 365, Archiviazione Exchange Online è stato progettato in modo da rispondere a elevati requisiti di sicurezza, affidabilità e produttività degli utenti. Per ulteriori informazioni su Office 365, incluse le funzionalità comuni a tutti i servizi di Office 365 online, vedere la [Descrizione del servizio piattaforma office 365](../office-365-platform-service-description/office-365-platform-service-description.md).
   
 Per acquistare l'Archiviazione Exchange Online, vedere [Archiviazione Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email).
   
 Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 > [!TIP]
-> È possibile esportare, salvare e stampare le pagine della descrizione del servizio Office 365. Ulteriori informazioni su come [esportare più pagine](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> È possibile esportare, salvare e stampare le pagine nelle descrizioni dei servizi di Office 365. Ulteriori informazioni su come [esportare più pagine](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="exchange-online-archiving-plans"></a>Piani di sottoscrizione di Archiviazione Exchange Online
 
@@ -49,7 +49,7 @@ Archiviazione Exchange Online è disponibile attraverso i piani di sottoscrizion
 <br/>
 <sup>2</sup> I piani Exchange Online, piano 1 e Office 365 Business prevedono un [limite di dimensioni per la cassetta postale e l'archivio](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits). Archiviazione Exchange Online per Exchange Online aggiunge un archivio illimitato basato sul cloud e il [Archiviazione sul posto e conservazione per controversia legale](compliance-and-security-features.md#in-place-hold-and-litigation-hold).
   
-Informazioni su tutti i piani di Office 365Sono disponibili diversi piani per Office 365, in modo da rispondere alle esigenze della propria organizzazione. Per informazioni relative ai diversi piani, ad esempio le opzioni dei piani autonomi e le informazioni su come passare da un piano a un altro, vedere [Opzioni di piani di Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Per informazioni su tutti i piani di Office 365? Sono disponibili diversi piani per Office 365, in modo da rispondere alle esigenze della propria organizzazione. Per informazioni sui diversi piani, incluse le opzioni di piano autonomo e le informazioni sullo spostamento da un piano a un altro, vedere [Opzioni di piano di Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
 ## <a name="requirements"></a>Requisiti
 
@@ -65,7 +65,7 @@ Ogni utente che accede al servizio Archiviazione Exchange Online deve disporre d
   
 ## <a name="unlimited-archive-storage-quota"></a>Quota di spazio di archiviazione illimitata
 
- La funzionalità di archiviazione illimitata in Office 365 (chiamata *archiviazione in espansione automatica*) fornisce fino a 1 TB di spazio di archiviazione nelle cassette postali di archivio in Exchange Online. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando l'archiviazione in espansione automatica è attivata, lo spazio di archiviazione aggiuntivo viene aggiunto automaticamente quando viene raggiunta la capacità di archiviazione di 100 GB. Nelle distribuzioni ibride di Exchange, l'archiviazione in espansione automatica è supportata solo per le cassette postali di archiviazione basate sul cloud quando la cassetta postale dell'utente locale risiede su Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o versione successiva). Per ulteriori informazioni, vedere [Panoramica dell'archiviazione illimitata Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
+ La funzionalità di archiviazione illimitata in Office 365 (chiamata *archiviazione in espansione automatica*) fornisce fino a 1 TB di spazio di archiviazione nelle cassette postali di archivio in Exchange Online. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando l'archiviazione in espansione automatica è attivata, lo spazio di archiviazione aggiuntivo viene aggiunto automaticamente quando viene raggiunta la capacità di archiviazione di 100 GB. Nelle distribuzioni ibride di Exchange, l'archiviazione in espansione automatica è supportata solo per le cassette postali di archiviazione basate sul cloud quando la cassetta postale dell'utente locale risiede su Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o versione successiva). Per altre informazioni, vedere [Panoramica dell'archiviazione illimitata Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Gli amministratori non possono modificare la quota di archiviazione.<br/>

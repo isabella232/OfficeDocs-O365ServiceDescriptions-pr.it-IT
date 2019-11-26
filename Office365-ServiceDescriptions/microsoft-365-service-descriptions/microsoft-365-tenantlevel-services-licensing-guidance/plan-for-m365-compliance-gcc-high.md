@@ -1,5 +1,5 @@
 ---
-title: Pianificare la conformità a Microsoft 365-GCC High
+title: Pianificare la conformità Microsoft 365 - GCC High
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o di altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 72819a1a2b62df681f8b08dd3049ab6d704b256e
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319504"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262829"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Pianificare la conformità a Microsoft 365-GCC High
 
@@ -75,7 +75,12 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Barriere informative                            | Disponibili              |
 |                                         | Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica  | Disponibili              |
 |                                         | DLP per la chat di team e le conversazioni dei canali    | In ingegneria backlog |
+|                                         | Corrispondenza dati esatta DLP                            | In ingegneria backlog |
+|                                         | Esplora attività con etichette                         | In ingegneria backlog |
+|                                         | Classificatori addestrabili                           | In ingegneria backlog |
+|                                         | Etichettatura unificata e etichette di riservatezza         | In ingegneria backlog |
 | **Gestione dei rischi Insider**             | Crittografia avanzata dei messaggi                     | Disponibili              |
+|                                         | Gestione dei rischi Insider                         | In ingegneria backlog |
 |                                         | Conformità delle comunicazioni                        | In ingegneria backlog |
 |                                         | Archivio protetto del cliente                                | Disponibili              |
 |                                         | Customer Key                                    | Disponibili              |

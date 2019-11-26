@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio Office 365 Advanced Threat Protection
+title: Descrizione del servizio Advanced Threat Protection di Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734174"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262799"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
+# <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Advanced Threat Protection di Office 365
 
 Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale. ATP dispone di funzionalità di creazione report e traccia URL avanzate che consentono agli amministratori di analizzare i tipi di attacchi che si verificano nell'organizzazione.
 
@@ -27,7 +27,7 @@ Di seguito sono riportati i modi principali in cui è possibile utilizzare ATP p
 
 - In uno scenario di solo filtro ATP di Office 365, ATP fornisce la protezione della posta elettronica basata sul cloud per l'ambiente Exchange Server locale o per qualsiasi altra soluzione di posta elettronica SMTP locale.
 
-- Office 365 ATP può essere abilitato per proteggere le cassette postali ospitate nel cloud di Exchange Online. Per ulteriori informazioni su Exchange Online, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
+- Office 365 ATP può essere abilitato per proteggere le cassette postali ospitate nel cloud di Exchange Online. Per ulteriori informazioni su Exchange Online, vedere la [Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
 
 - In una distribuzione ibrida, ATP può essere configurato per proteggere l'ambiente di messaggistica e controllare il routing della posta quando si utilizza una combinazione di cassette postali locali e cloud in Exchange Online Protection per il filtro di posta elettronica in ingresso.
 
@@ -119,7 +119,7 @@ I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 > [!NOTE]
 > Gli utenti devono essere concessi in<sup>\*</sup>licenza per ATP, devono essere inclusi nei criteri dei collegamenti sicuri di ATP e devono essere firmati nei propri dispositivi affinché la protezione sia sul posto.
 
-<sup>\*</sup>Per le licenze ATP a livello dell'organizzazione (ad esempio, ATP_ENTERPRISE_FACULTY), non è necessario assegnare licenze ATP ai singoli utenti.
+<sup>\*</sup>Per le licenze ATP a livello di organizzazione, ad esempio ATP_ENTERPRISE_FACULTY, non è necessario assegnare licenze ATP ai singoli utenti.
 
 ### <a name="anti-phishing-policies"></a>Criteri di anti-phishing
 
@@ -131,7 +131,7 @@ Il [anti-phishing ATP](https://docs.microsoft.com/office365/securitycompliance/a
 
 ### <a name="real-time-reports"></a>Rapporti in tempo reale
 
-Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità di Office 365 includono [rapporti in tempo reale e](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) informazioni che consentono agli amministratori di sicurezza e conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi di sicurezza o l'aumento attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
+Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità di Office 365 includono [rapporti in tempo reale e](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) informazioni che consentono agli amministratori di sicurezza e conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi di sicurezza o l'aumento di attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
 
 ### <a name="threat-trackers"></a>Tracker delle minacce
 
