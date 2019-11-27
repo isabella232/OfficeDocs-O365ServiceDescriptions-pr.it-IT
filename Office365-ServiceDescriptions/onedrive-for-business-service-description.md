@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Informazioni sullo spazio di archiviazione di OneDrive fornito per ogni piano di abbonamento.
-ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 63ab72221fa009384baad0fd7367c676d84798b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734003"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263480"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descrizione del servizio OneDrive for Business
 
@@ -42,7 +42,7 @@ Chiunque il cui piano include OneDrive può usare il client di sincronizzazione 
   
 ## <a name="storage-space-per-user"></a>Spazio di archiviazione per utente
 
-**5 GB**
+**2 GB**
 
 - Office 365 Enterprise F1
 
