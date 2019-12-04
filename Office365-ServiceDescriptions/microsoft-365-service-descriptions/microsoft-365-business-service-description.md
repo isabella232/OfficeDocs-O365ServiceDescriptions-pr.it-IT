@@ -1,5 +1,5 @@
 ---
-title: Descrizione servizio Microsoft 365 business
+title: Descrizione del servizio Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262849"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810805"
 ---
-# <a name="microsoft-365-business-service-description"></a>Descrizione servizio Microsoft 365 business
+# <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
 Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con sicurezza avanzata e gestione dei dispositivi per proteggere la propria azienda dalle minacce avanzate. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni su Office 365, vedere le [descrizioni dei servizi di office 365](../office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Disponibilità delle funzionalità nei piani di Office 365 Business Premium e Microsoft 365 Business.
 
 Microsoft 365 business include essenzialmente tutte le funzionalità disponibili in Office 365 Business Premium insieme a altre funzionalità di sicurezza di Office 365.
+
+Microsoft 365 business include le seguenti funzionalità di Azure AD Premium P1: reimpostazione della password in modalità self-service con Write-back di Active Directory, autenticazione a più fattori di Azure e accesso condizionale. Non include la totalità di Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
@@ -46,7 +48,7 @@ Microsoft 365 business include essenzialmente tutte le funzionalità disponibili
 |[Amministrazione di Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Strumento di sincronizzazione di Azure AD Connect<br/> |Sì  <br/> |Sì  <br/> |
 |Shared computer activation <br/> |No <br/> |Sì  <br/> |
-|[Criteri e conformità del messaggio](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Conformità e criteri dei messaggi](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Archiviazione a lungo termine delle cassette postali basate su Exchange Online  <br/> |No  <br/> |Sì<sup>3</sup> <br/> |
 |Protezione delle informazioni di Azure Piano 1 |No <br/>|Sì<sup>2</sup> </br>|
 |Crittografia dei messaggi di Office 365  <br/> |No  <br/> |Sì<sup>2</sup> <br/> |
@@ -76,9 +78,9 @@ Microsoft 365 business include essenzialmente tutte le funzionalità disponibili
 |Contratto di servizio del 99,9%  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Advanced Threat Analytics  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Gestione di dispositivi e applicazioni](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 business include funzionalità di Intune complete per iOS, Android, Mac OS e altre gestione dei dispositivi Cross-Platform. <sup>9</sup> <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Gestione dei dispositivi mobili di Intune (MDM) per PC, Mac e dispositivi mobili<sup>5</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Gestione dei dispositivi mobili di Intune (MDM) per PC, Mac e dispositivi mobili<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Registrazione automatica di Gestione di dispositivi mobili (MDM)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Gestione delle applicazioni mobili di Intune per le app di Office e le app LOB<sup>17</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
+|Gestione delle applicazioni mobili di Intune per le app di Office e le app LOB<sup>9</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Gestione di Windows Update, protezione, criteri firewall<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione dei dati: cancellazione selettiva  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Targeting del gruppo di sicurezza (SG) per i criteri  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
@@ -87,7 +89,7 @@ Microsoft 365 business include essenzialmente tutte le funzionalità disponibili
 |Distribuzione dei profili dispositivo e della configurazione di sicurezza<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Enterprise State Roaming per Windows 10 con aggiunta ad Azure AD  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |Ripristino di BitLocker in modalità self-service  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Desktop virtuale di Windows <br/> |No <br/> |Sì <br/> |Sì <br/> |
+|Desktop virtuale Windows <br/> |No <br/> |Sì <br/> |Sì <br/> |
 
 |||
 |:-----|:-----|

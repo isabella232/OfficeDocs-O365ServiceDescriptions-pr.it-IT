@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261917"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810825"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
 Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
   
 > [!NOTE]
-> Le cartelle di lavoro che superano i 30 megabyte (MB) non possono essere visualizzate in Excel per il Web da Microsoft SharePoint Online. Per visualizzare i file di maggiori dimensioni, è necessario che sul computer sia installata l'app desktop Excel. 
+> Le cartelle di lavoro superiori a 50 megabyte (MB) non possono essere visualizzate in Excel per il Web dall'interno di Microsoft SharePoint Online. Per visualizzare i file di maggiori dimensioni, è necessario che sul computer sia installata l'app desktop Excel. 
 
 > [!NOTE]
 > Per consentire un confronto tra le diverse offerte, le funzionalità avanzate illustrate nell'articolo includono quelle dell'app desktop Excel disponibile solo nella famiglia di prodotti Office (quale Office Professional Plus, Office Standard oppure Office 365 ProPlus). Per un elenco di tutte le funzionalità di Office per il Web, ad esempio Word per il Web e PowerPoint per il Web, vedere [disponibilità delle funzionalità tra Office per i piani web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
