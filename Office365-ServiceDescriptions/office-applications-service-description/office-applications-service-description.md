@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio applicazioni di Office
+title: Descrizione del servizio applicazioni Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261957"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969953"
 ---
-# <a name="office-applications-service-description"></a>Descrizione del servizio applicazioni di Office
+# <a name="office-applications-service-description"></a>Descrizione del servizio applicazioni Office
 
 Microsoft Office 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già esistenti, ad esempio Word, Excel e PowerPoint.
   
@@ -71,7 +71,7 @@ Diversi piani di Office 365 per le aziende includono componenti aggiuntivi che �
 |Archiviazione e conformità Exchange Online e SharePoint Online  <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/>|Sì<sup>1</sup> <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
 |Supporto di Criteri di gruppo  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
 |Supporto per i criteri cloud di Office  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No <br/> |
-|Information Rights Management tramite Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |
+|Information Rights Management tramite Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |Sì <br/> |
 |Information Rights Management tramite Windows Server AD RMS  <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |Sì <br/>| Sì<sup>3</sup> <br/>|Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |
 |Supporto dei componenti aggiuntivi di Office, ActiveX e oggetto browser helper (BHO)  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>+++<sup> <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì <br/> |
 |Accesso client di OneNote ai blocchi appunti in SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì <sup>++</sup> <br/> |Sì <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |Sì <br/> |
@@ -169,7 +169,7 @@ Le applicazioni di Office seguenti sono disponibili nelle cloud del governo. Tut
 |Ricerca intelligente | No | No | No |
 |Suoni di Office (alcuni) | No | No | No |
 |modelli 3D e animazioni 3D incorporate | No | No | No |
-Grafici: mappe | No | No | No |
+|Grafici: mappe | No | No | No |
 |Inchiostro digitale intelligente | No | No | No |
 |Didascalie Live & sottotitoli in PowerPoint | No | No | No |
 |Coach relatore | No | No | No |
@@ -179,6 +179,7 @@ Grafici: mappe | No | No | No |
 |Gruppi di Office 365 | No | No | No |
 |Collaborazione in tempo reale (presenza, CoAuthoring normale, chat in-Document) | No | No | No |
 |Dettatura | N<sup>° 1</sup> | N<sup>° 1</sup> | N<sup>° 1</sup> |
+|Riutilizzo delle diapositive | No | No | No |
 |La **lavagna Microsoft** in cloud governativi è attualmente disponibile solo sui client Hub e non sul desktop. | Sì<sup>2</sup> | Sì<sup>2</sup> | Sì<sup>2</sup> |
 |Inserire note, testo e immagini adesive |Sì<sup>2</sup> |Sì<sup>2</sup> |Sì<sup>2</sup> |
 |Input penna per la forma e l'input penna nella tabella |Sì<sup>2</sup> |Sì<sup>2</sup> |Sì<sup>2</sup> |
