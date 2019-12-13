@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262547"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003961"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -98,8 +98,15 @@ Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai 
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
-  
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**Sistema telefonico e audioconferenza (tramite routing diretto)**: sistema telefonico e audioconferenza per ambienti GCC High e DOD vengono recapitati tramite routing diretto. Per ulteriori informazioni, vedere la documentazione relativa al livello di servizio:
+
+- [Sistema telefonico tramite routing diretto](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [Servizi di audioconferenza con routing diretto per GCC High e DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>Identità
 
 L'autenticazione a più fattori che utilizza un modello di identità federata consente di utilizzare le schede PIV e CAC.
