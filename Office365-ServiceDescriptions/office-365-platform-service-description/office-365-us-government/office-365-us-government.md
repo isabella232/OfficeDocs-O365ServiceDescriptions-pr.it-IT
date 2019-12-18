@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 5676680e5285b7b825388e8140480a07bef047b6
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ca251b876b2cc69d1f35524471e089003e71c4de
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262527"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614835"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -216,7 +216,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Aggiunta di domini di terzo livello personalizzati, come marketing.fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Aggiunta di un massimo di 900 domini personalizzati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Verifica della proprietà obbligatoria per i domini personalizzati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Integrità e continuità del servizio](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
+|**[Continuità e integrità del servizio](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**  <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |
 |Stato dei singoli avvisi disponibili nel dashboard dell'interfaccia di amministrazione di Microsoft 365  <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |
 |Feed RSS per l' **integrità dei servizi**  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -245,7 +245,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Browser utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Sistema operativo utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|**[Aggiornamenti del servizio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
+|**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |
@@ -260,9 +260,9 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |**Attendibilità** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |**[Privacy, sicurezza e trasparenza](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Governance dei dati avanzata  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì <br/> |N.<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |N<sup>. 11, 12</sup> <br/> |N<sup>. 11, 12</sup> <br/> |Sì<sup>11</sup> <br/> |N<sup>. 11, 12</sup> <br/> |
+|Cloud App Security  <br/> |N.<sup>12, 15, 19</sup> <br/> |N.<sup>12, 15, 19</sup> <br/> |Sì<sup>15, 19</sup> <br/> |N.<sup>12, 15, 19</sup> <br/> |
 |Protezione avanzata dalle minacce  <br/> |N<sup>. 12, 18</sup> <br/> |N<sup>. 12, 18</sup> <br/> |Sì<sup>18</sup>  <br/> |N<sup>. 12, 18</sup> <br/> |
-|Archivio protetto del cliente  <br/> |N.<sup>9, 12, 15</sup> <br/> |N.<sup>9, 12, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |N.<sup>9, 12, 15</sup> <br/> |
+|Archivio protetto del cliente  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì <br/> |N.<sup>12</sup> <br/> |
 |Office 365 Advanced eDiscovery  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì  <br/> |N.<sup>12</sup> <br/> |
 |Punteggio sicuro<sup>14</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |
 |Crittografia dei messaggi di Office  <br/> |No  <br/> |Sì <br/> |Sì <br/> |No  <br/> |
@@ -304,6 +304,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 <br/><sup>16</sup> l'interfaccia di amministrazione non include l'analisi dell'utilizzo negli ambienti DOD o GCC High.
 <br/><sup>17</sup> non supportato per gli ambienti GCC High e DOD.
 <br/><sup>18</sup> la funzionalità di anti-phishing per gli utenti e i domini e la falsificazione delle informazioni non sono ancora disponibili in GCC High e DOD.
+<br/><sup>19</sup> non ancora disponibile nell'ambiente GCC, ma lo sarà presto.
   
 [Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio](office-365-us-government.md#how-to-use-this-service-description-section)
   

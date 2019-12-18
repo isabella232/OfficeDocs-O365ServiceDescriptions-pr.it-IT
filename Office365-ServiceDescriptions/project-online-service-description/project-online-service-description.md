@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263420"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614825"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -247,6 +247,11 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 
 ## <a name="service-considerations"></a>Considerazioni sui servizi
 
+> [!NOTE]
+> - Il progetto Francia e &ndash; Corea del sud per il Web non è attualmente disponibile. Stiamo lavorando per fornire il progetto per il Web alla propria area e informarvi della sua disponibilità attraverso i canali di comunicazione riportati di seguito.
+> - Il &ndash; progetto educativo per il Web è prossima ai clienti dell'istruzione. L'intervallo di tempo esatto è in sospeso.
+> - GCC, GCC High, DoD &ndash; attualmente, Project for the Web non è disponibile per GCC, GCC High e DOD. Stiamo lavorando alla distribuzione di progetti per il Web, ma al momento non è possibile condividere un calendario stabile.
+
 ### <a name="licensing-considerations"></a>Considerazioni sulle licenze
 
 - Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.
@@ -283,7 +288,7 @@ Il progetto per il Web presenta alcune limitazioni, descritte nella tabella segu
 |Massimo. durata dell'attività di riepilogo | 3650 giorni (10 anni) |
 |Massimo. risorse che possono essere assegnate a un'attività | 20 risorse |
 |Intervallo di date supportato per l'attività | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Progetto** ||
 |Massimo. Totale attività per il progetto | 500 |
 |Massimo. durata totale del progetto | 3650 giorni (10 anni) |
 |Massimo. Totale risorse per il progetto | 150 |
