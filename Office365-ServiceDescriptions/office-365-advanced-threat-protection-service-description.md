@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 30b57b2bc0150be299861626aa17aa32fa5d3f6f
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
+ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969972"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "40824990"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -93,7 +93,7 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |[Indicatori delle minacce](#threat-trackers)|No|Sì|Sì|
 |[Explorer](#explorer) (Advanced Threat Investigation)|No|Sì|Sì|
 |[Risposta agli incidenti automatici](#automated-incident-response)|No|Sì|Sì|
-|[Simulatore di attacco](#attack-simulator)|No|Sì|Sì|
+|[Simulatore di attacchi](#attack-simulator)|No|Sì|Sì|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Funzionalità avanzate di protezione dalle minacce (ATP)
 
@@ -118,8 +118,10 @@ I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
 > [!NOTE]
 > Gli utenti devono essere concessi in<sup>\*</sup>licenza per ATP, devono essere inclusi nei criteri dei collegamenti sicuri di ATP e devono essere firmati nei propri dispositivi affinché la protezione sia sul posto.
-
-<sup>\*</sup>Per le licenze ATP a livello di organizzazione, ad esempio ATP_ENTERPRISE_FACULTY, non è necessario assegnare licenze ATP ai singoli utenti.
+>
+> <sup>\*</sup>Per le licenze ATP a livello di organizzazione, ad esempio ATP_ENTERPRISE_FACULTY, non è necessario assegnare licenze ATP ai singoli utenti.
+>
+> Per ulteriori informazioni sulla protezione dei collegamenti sicuri ATP, vedere [How ATP Safe Links funziona con gli URL nei documenti di Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP per SharePoint, OneDrive e Microsoft Teams
 
@@ -147,6 +149,6 @@ Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection
 
 Le funzionalità di [risposta agli incidenti automatici](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) disponibili in Office 365 ATP piano 2 consentono di eseguire processi di analisi automatizzati in risposta a minacce ben note che esistono oggi. Automatizzando determinate attività investigative, il team delle operazioni di sicurezza può operare in modo più efficiente ed efficace. Le azioni correttive, ad esempio l'eliminazione di messaggi di posta elettronica dannosi, vengono apportate al momento dell'approvazione da parte del team di sicurezza. Per ulteriori informazioni, vedere [How Air Works in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
 
-### <a name="attack-simulator"></a>Simulatore di attacco
+### <a name="attack-simulator"></a>Simulatore di attacchi
 
 [Attack Simulator](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) consente agli utenti autorizzati di eseguire scenari di attacco realistici nell'organizzazione. Sono disponibili diversi tipi di attacchi, tra cui un attacco per il nome visualizzato Spear-phishing, un attacco spray per la password e un attacco per la password di forza bruta.
