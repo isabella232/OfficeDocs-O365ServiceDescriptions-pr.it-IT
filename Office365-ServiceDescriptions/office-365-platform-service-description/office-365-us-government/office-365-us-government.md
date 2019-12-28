@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei servizi di Office 365.
-ms.openlocfilehash: 9328f2c56fedc9531559e7d8720f97e83dd6072b
-ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
+ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
+ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/21/2019
-ms.locfileid: "40840255"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40884331"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -166,6 +166,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 <br/><sup>4</sup> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquisito gratuitamente come offerta autonoma per ogni utente concesso in licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in contratti Enterprise e contratti di sottoscrizione Enterprise. Yammer non è disponibile in GCC High o DoD.
 <br/><sup>5</sup> il piano di chiamata è un componente aggiuntivo. 
 <br/><sup>6</sup> non incluso, ma può essere acquistato come componente aggiuntivo separato. Visio per il Web include l'app desktop di Visio come parte della sottoscrizione.
+
 ## <a name="platform-features"></a>Funzionalità della piattaforma 
 
 Nella tabella seguente sono elencati i servizi e le funzionalità della piattaforma disponibili nei piani di Office 365 US Government.
@@ -308,7 +309,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
   
 [Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio](office-365-us-government.md#how-to-use-this-service-description-section)
   
-## <a name="office-application-features"></a>Funzionalità delle applicazioni di Office  
+## <a name="office-application-availability-and-enterprise-value"></a>Disponibilità delle applicazioni di Office e valore Enterprise
 
 Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di Office disponibili nei piani di Office 365 US Government.
   
@@ -316,11 +317,13 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |:-----|:-----|:-----|:-----|:-----|
 |**Funzionalità** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |**Applicazioni di Office** <br/> |||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Microsoft Forms<sup>7</sup>| Sì <br/> | Sì <br/>| Sì <br/> | No <br/> |
+|Microsoft lavagna<sup>7</sup>| No <br/> | Sì <br/> | Sì <br/> | No <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>3</sup> <br/> |
@@ -367,5 +370,93 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 <br/><sup>3</sup>Skype for Business Basic è disponibile per tutti i clienti. Il client desktop Skype for Business è un'applicazione installata localmente che fornisce funzionalità di presenza, messaggistica istantanea e conferenza per i piani di Office 365 contenenti Skype for Business online. Office 365 ProPlus e Office 365 Enterprise E3 includono l'applicazione Skype completa, che include funzionalità aggiuntive come il supporto di telefonia avanzato, l'archiviazione e le funzionalità di conformità. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup> non è ancora disponibile negli ambienti GCC High o DOD, ma verrà presto.
 <br/><sup>5</sup> vedere [utilizzo di Outlook per iOS e Android nel cloud della community del governo](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) per ulteriori dettagli.
-  <br/><sup>6</sup> non ancora disponibile in Office 365 DOD Environment, ma verrà presto.
+<br/><sup>6</sup> non ancora disponibile in Office 365 DOD Environment, ma verrà presto.
+<br/><sup>7</sup> le applicazioni sono completamente disponibili nelle cloud di stato, ad eccezione delle caratteristiche specifiche non disponibili in questo momento. Per informazioni dettagliate, vedere [disponibilità delle funzionalità di Office Application](#office-application-and-feature-availability-in-government-plans) .
 <br/><br/>[Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio](office-365-us-government.md#how-to-use-this-service-description-section)
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>Disponibilità delle funzionalità e delle applicazioni di Office nei piani governativi
+
+Le applicazioni di Office seguenti sono disponibili nelle cloud del governo. Tuttavia, alcune funzionalità basate sul cloud potrebbero non essere attualmente disponibili, come indicato nella tabella.
+
+|||||
+|-----|-----|-----|-----|
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili in questo momento: | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|animazioni e modelli 3D incorporati 3D | No <br/> | No <br/> | No <br/> |
+|Tipi di dati | No <br/> | No <br/> | No <br/> |
+|Riempimento istantaneo | No <br/> | No <br/> | No <br/> |
+|Idee (servizi Insight) | No <br/> | No <br/> | No <br/> |
+|Integrazione migliorata con PowerBI (grafica personalizzata, creazione di grafici PBI direttamente da Excel) | No <br/> | No <br/> | No <br/> |
+|Inchiostro digitale intelligente | No <br/> | No <br/> | No <br/> |
+|Gruppi di Office 365 | No <br/> | No <br/> | No <br/> |
+|Dati di grafici pivot connessi alle tabelle pivot | No <br/> | No <br/> | No <br/> |
+|PowerPivot | No <br/> | No <br/> | No <br/> |
+|Pubblicare in PowerBI | No <br/> | No <br/> | No <br/> |
+|Collaborazione in tempo reale (presenza, CoAuthoring normale, chat in-Document) | No <br/> | No <br/> | No <br/> |
+|Shared with Me | No <br/> | No <br/> | No <br/> |
+|Ricerca intelligente | No <br/> | No <br/> | No <br/> |
+|Grafici: Sunburst TreeMap, cascata, istogramma, mappe, sequenza temporale, imbuto | No <br/> | No <br/> | No <br/> |
+|Cronologia versioni | No <br/> | No <br/> | No <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili al momento: | **GCC** <br/> | **GCC High** <br/> | **DOD**<sup>3</sup> <br/> |
+|Notifica tramite posta elettronica | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> | 
+|Inserire un'immagine | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
+|Inserire un video | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
+|Matematiche | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
+|Integrazione di Office | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
+|Moduli di gruppo più recenti | Sì <br/> | Sì <br/> | No <br/> |
+|Condivisione esterna <sup>4</sup> | Sì <br/> | No <br/> | No <br/> |
+|Moduli Pro | No | No | No |
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili in questo momento: | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|Strumento ricerche | No <br/> | No <br/> | No <br/> |
+|Inchiostro digitale intelligente | No <br/> | No <br/> | No <br/> |
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili in questo momento: | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|Suoni di Office (alcuni) | No <br/> | No <br/> | No <br/> |
+|DDE (Dynamic Data Exchange) disabilitato per impostazione predefinita | No <br/> | No <br/> | No <br/> |
+|Dettatura | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> |
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili in questo momento: | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|Ricerca intelligente | No <br/> | No <br/> | No <br/> |
+|Suoni di Office (alcuni) | No <br/> | No <br/> | No <br/> |
+|modelli 3D e animazioni 3D incorporate | No <br/> | No <br/> | No <br/> |
+|Grafici: mappe | No <br/> | No <br/> | No <br/> |
+|Inchiostro digitale intelligente | No <br/> | No <br/> | No <br/> |
+|Didascalie e sottotitoli in tempo reale in PowerPoint | No <br/> | No <br/> | No <br/> |
+|Coach relatore | No <br/> | No <br/> | No <br/> |
+|Shared with Me | No <br/> | No <br/> | No <br/> |
+|Integrazione di Skype for business con condivisione | No <br/> | No <br/> | No <br/> |
+|Cronologia versioni | No <br/> | No <br/> | No <br/> |
+|Gruppi di Office 365 | No <br/> | No <br/> | No <br/> |
+|Collaborazione in tempo reale (presenza, CoAuthoring normale, chat in-Document) | No <br/> | No <br/> | No <br/> |
+|Dettatura | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> |
+|Riutilizzo delle diapositive | No <br/> | No <br/> | No <br/> |
+|La **lavagna Microsoft** in cloud governativi è attualmente disponibile solo sui client Hub e non sul desktop. | **GCC**<sup>2</sup> <br/> | **GCC High**<sup>2</sup> <br/> | **DOD**<sup>2</sup> <br/> |
+|Inserire note, testo e immagini adesive | Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>|
+|Input penna per la forma e l'input penna nella tabella | Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>|
+|Abbellimento inchiostro | Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>|
+|Convertire l'immagine in input penna | Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>|
+|Verifica accessibilità | Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>| Sì<sup>2</sup> <br/>|
+|Modelli dinamici (KANBAN, SWOT e così via) | No <br/> | No <br/> | No <br/> |
+|Collaborazione in tempo reale | No <br/> | No <br/> | No <br/> |
+|Presenza in tempo reale | No <br/> | No <br/> | No <br/> |
+|Reazioni sul contenuto | No <br/> | No <br/> | No <br/> |
+|Raccolta schede di lavagne, inclusa la condivisione con l'utente | No <br/> | No <br/> | No <br/> |
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili in questo momento: | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|Ricerca intelligente | No <br/> | No <br/> | No <br/> |
+|Strumento ricerche | No <br/> | No <br/> | No <br/> |
+|Suoni di Office  | No <br/> | No <br/> | No <br/> |
+|modelli 3D | No <br/> | No <br/> | No <br/> |
+|animazioni 3D incorporate  | No <br/> | No <br/> | No <br/> |
+|Tocco  | No <br/> | No <br/> | No <br/> |
+|Assistente curriculum | No <br/> | No <br/> | No <br/> |
+|Grafici delle mappe | No <br/> | No <br/> | No <br/> |
+|Inchiostro digitale intelligente | No <br/> | No <br/> | No <br/> |
+|Shared with Me | No <br/> | No <br/> | No <br/> |
+|Translation | No <br/> | No <br/> | No <br/> |
+|Integrazione di Skype for business con condivisione | No <br/> | No <br/> | No <br/> |
+|Cronologia versioni | No <br/> | No <br/> | No <br/> |
+|Gruppi di Office 365 | No <br/> | No <br/> | No <br/> |
+|Chat contestuale con i coautori: chattare con i coautori all'interno del documento | No <br/> | No <br/> | No <br/> |
+|Dettatura | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> |
+
+<sup>1</sup> disponibilità imminente.<br/>
+<sup>2</sup> disponibilità su Hub superficie locale (non connesso).<br/>
+<sup>3</sup> l'applicazione non è attualmente disponibile nel cloud DOD.<br/>
+<sup>4</sup> la condivisione esterna è disponibile per l'ambiente GCC. Per ulteriori informazioni, vedere Disattivazione [o attivazione di Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) per l'organizzazione. La condivisione esterna è disattivata per gli ambienti GCC High e DOD; Gli utenti all'interno dell'organizzazione possono eseguire le operazioni seguenti: completare una maschera e inviare risposte, [duplicare e condividere un modulo come modello](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [creare un coautore o collaborare a un modulo](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [accedere ai risultati dei moduli](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).<br/>
