@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi&mdash;di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft&mdash;Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263037"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987648"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -112,7 +112,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |Utilizzo di un provider diverso per la posta elettronica e la messaggistica istantanea  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Verifica della proprietà obbligatoria per i domini personalizzati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Acquisto automatizzato di domini e verifica disponibile per domini acquistati tramite Go Daddy  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Integrità e continuità del servizio](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Continuità e integrità del servizio](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Stato dei singoli avvisi disponibili nel dashboard dell'interfaccia di amministrazione di Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Feed RSS per l' **integrità dei servizi**  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -141,7 +141,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Aggiornamenti del servizio](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -324,7 +324,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
 |Autorizzazioni basate sui ruoli  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Gruppi di ruoli  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Criteri di assegnazione dei ruoli  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Criteri e conformità del messaggio](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Conformità e criteri dei messaggi](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Archiviazione di cassette postali di Exchange Online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Archiviazione basata su cloud delle cassette postali locali  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Tag di conservazione e criteri di conservazione per la gestione dei record di messaggistica  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -338,7 +338,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
 |Regole di trasporto  <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |
 |Prevenzione della perdita di dati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Inserimento nel journal  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Protezione da posta indesiderata e anti-malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Protezione antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protezione da posta indesiderata integrata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Customize anti-spam policies  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione antimalware integrata  <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |
@@ -373,7 +373,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
 |Gestione delle sale riunioni  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Risposte Fuori sede  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Condivisione del calendario  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Funzionalità di Reporting e strumenti di risoluzione dei problemi](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Funzionalità di creazione dei report e strumenti di risoluzione problemi](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Rapporti dell'interfaccia di amministrazione di Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Cartella di lavoro di Excel Reporting  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Report sui servizi Web  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -498,7 +498,7 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
 Il volume di archiviazione delle cassette postali è determinato dal tipo di cassetta postale e dalla licenza di sottoscrizione dell'utente. Gli amministratori possono ridurre le dimensioni massime della cassetta postale per singolo utente o a livello globale.
   
 > [!NOTE]
-> L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Una cassetta postale di archiviazione di un utente è destinata esclusivamente a quell'utente. Microsoft si riserva il diritto di non consentire uno spazio di archiviazione illimitato nei casi in cui una cassetta postale di archiviazione dell'utente sia utilizzata per l'archiviazione di dati di altri utenti. 
+> L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Una cassetta postale di archiviazione di un utente è destinata esclusivamente a quell'utente. Microsoft si riserva il diritto di negare l'archiviazione illimitata nei casi in cui la cassetta postale di archiviazione di un utente viene utilizzata per archiviare i dati di archiviazione per altri utenti o in altri casi di utilizzo inappropriato.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -1236,7 +1236,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for business onli
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus e Office 365 a3 includono l'applicazione completa di Skype for business (Lync), che include funzionalità aggiuntive come il supporto di telefonia avanzato, l'archiviazione e le funzionalità di conformità. A Skype for Business Online license must be assigned for each user. Per ulteriori informazioni sulle funzionalità di Lync Basic, vedere [desktop client essi Tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
 <sup>2</sup> per gli utenti che desiderano disporre di una segreteria telefonica, è necessario assegnare un piano di Exchange Online (piano 2). An Exchange Online (Plan 1) plan can't be used for voice mail. 
   
-### <a name="skype-for-business-online-limits"></a>Limiti di Skype for business online
+### <a name="skype-for-business-online-limits"></a>Limiti di Skype for Business Online
 
 I limiti di Skype for business online rientrano nelle categorie seguenti:
   
