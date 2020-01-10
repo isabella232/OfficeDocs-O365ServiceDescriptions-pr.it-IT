@@ -1,5 +1,5 @@
 ---
-title: Guida alla gestione delle licenze di servizi a livello di Microsoft 365
+title: Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per i servizi a livello di tenant di Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890501"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000866"
 ---
-# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Guida alla gestione delle licenze di servizi a livello di Microsoft 365
+# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365
 
 Ai fini di questo articolo, un servizio a livello di tenant è un servizio online che&mdash;, quando è stato acquistato per qualsiasi utente del tenant (autonomo o come parte di Office 365 o Microsoft&mdash;365), viene attivato parzialmente o integralmente per tutti gli utenti del tenant. Sebbene alcuni utenti senza licenza possano tecnicamente essere in grado di accedere al servizio, è necessaria una licenza per qualsiasi utente che si intende trarre vantaggio dal servizio.
 
@@ -39,7 +39,7 @@ Gli analisti e i professionisti della sicurezza di secops traggono vantaggio dal
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di AADIP sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione di AADIP, vedere [Abilitazione di Azure Active Directory Identity Protection](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
+Per impostazione predefinita, le funzionalità di AADIP sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni su AADIP, vedere [che cos'è Azure Active Directory Identity Protection?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -141,7 +141,7 @@ Gli amministratori possono accedere alle distribuzioni di OCAS per applicare la 
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft cloud app Security (MCAS) è una soluzione CASB (cloud Access Security Broker) che offre alle organizzazioni visibilità nelle app e nei servizi cloud, fornisce analisi sofisticate per identificare e combattere le minacce cibernetiche e consente loro di controllare il modo in cui i dati si&mdash;sposta su qualsiasi app cloud.
+Microsoft cloud app Security (MCAS) è una soluzione CASB (cloud Access Security Broker) che offre alle organizzazioni visibilità nelle app e nei servizi cloud, fornisce analisi sofisticate per identificare e combattere le minacce cibernetiche e consente loro di&mdash;controllare il modo in cui i dati passano attraverso qualsiasi app cloud.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
@@ -149,7 +149,7 @@ Gli utenti con licenza di MCAS, Enterprise Mobility + Security E5/A5/G5, Microso
 
 Gli utenti con licenza di Azure AD P1 possono trarre vantaggio dalle funzionalità di individuazione di MCAS.
 
-Per usufruire delle funzionalità di [controllo delle app con accesso condizionale](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS, è necessario che gli utenti dispongano di una licenza per Azure Active Directory P1, incluso in Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ Sicurezza di a3/G3, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5.
+Per usufruire delle funzionalità di [controllo delle app con accesso condizionale](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS, è necessario che gli utenti dispongano di una licenza per Azure Active Directory P1, inclusa in Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/a3/G3, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Security.
 
 Per usufruire dell' [etichettatura automatica](https://docs.microsoft.com/cloud-app-security/data-protection-policies), gli utenti devono essere concessi in licenza per Azure Information Protection P2, incluso in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Compliance.
 
@@ -344,7 +344,7 @@ Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli 
 
 Crittografia messaggi di Office 365 (OME) è un servizio basato su Azure Rights Management (Azure RMS) che consente di inviare posta elettronica crittografata a destinatari interni o esterni all'organizzazione, indipendentemente dall'indirizzo di posta elettronica di destinazione (Gmail, Yahoo! Mail, Outlook.com e così via).
 
-Per visualizzare i messaggi crittografati, i destinatari possono ottenere un passcode monouso, eseguire l'accesso con un account Microsoft o accedere con un account di lavoro o scolastico associato a Office 365. I destinatari possono inoltre inviare risposte crittografate. Non è necessario un abbonamento a Office 365 per visualizzare i messaggi crittografati o inviare risposte crittografate.
+Per visualizzare messaggi crittografati, i destinatari possono ottenere un passcode monouso, accedere con un account Microsoft oppure accedere con un account aziendale o dell'istituto di istruzione associato a Office 365. I destinatari possono anche inviare risposte crittografate. Non è necessario un abbonamento a Office 365 per visualizzare i messaggi crittografati o inviare risposte crittografate.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
@@ -361,7 +361,6 @@ Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi di
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 Gli amministratori devono applicare le regole del flusso di posta per la crittografia dei messaggi di Office 365 solo agli utenti con licenza. Per ulteriori informazioni sulla definizione delle regole del flusso di posta, vedere [definire le regole del flusso di posta per crittografare i messaggi di posta elettronica in Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 Advanced Message Encryption
 
@@ -402,3 +401,23 @@ Gli amministratori creano criteri di supervisione nel centro sicurezza & conform
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 Gli amministratori scelgono utenti o gruppi specifici da includere in un criterio di supervisione. Quando si sceglie un gruppo, è possibile selezionare anche utenti specifici del gruppo da escludere dai criteri di supervisione. Per ulteriori informazioni sulle politiche di supervisione, vedere [criteri di supervisione in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
+
+## <a name="conditional-access-policies"></a>Criteri di accesso condizionale
+
+L'accesso condizionale è lo strumento utilizzato da Azure Active Directory per riunire i segnali, per prendere decisioni e applicare i criteri dell'organizzazione. L'accesso condizionale è il fulcro del piano di controllo Identity Driven. I criteri di accesso condizionale con le istruzioni più semplici sono if-then. Se un utente desidera accedere a una risorsa, è necessario completare un'azione. Esempio: un responsabile della gestione delle retribuzioni desidera accedere all'applicazione Payroll ed è necessario per eseguire l'autenticazione a più fattori per accedervi.
+
+### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
+
+Gli utenti con licenza di Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3 e Azure Active Directory Premium Plan 1 possono usufruire dei criteri di accesso condizionale. Gli utenti con licenza di Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security e Azure Active Directory Premium Plan 2 possono trarre vantaggio dalla protezione delle identità (criteri di accesso condizionale basato sui rischi).
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Gli analisti delle operazioni di sicurezza e i professionisti della sicurezza sono avvantaggiati dalla possibilità di applicare i criteri organizzativi per gli utenti, richiedendo loro di soddisfare determinati criteri prima di concedere l'accesso al contenuto aziendale. Gli utenti finali usufruiscono della possibilità di accedere al proprio lavoro ovunque e in qualsiasi momento, proteggendo gli asset dell'organizzazione.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+Per impostazione predefinita, le funzionalità di accesso condizionale sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+Per la protezione delle identità e l'accesso condizionale in particolare, un utente deve essere incluso in un gruppo o essere aggiunto a un criterio di accesso condizionale. La condizione degli utenti e dei gruppi è obbligatoria in un criterio di accesso condizionale. Nei criteri è possibile selezionare **tutti gli utenti** o gli utenti e i gruppi specifici. È necessario selezionare solo gli utenti e i gruppi con licenza appropriata. Per ulteriori informazioni, vedere [quali sono le condizioni nell'accesso condizionale di Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
