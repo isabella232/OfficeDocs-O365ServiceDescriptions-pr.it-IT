@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Government come acquistare
+title: Come acquistare Microsoft 365 Government
 ms.author: danarl
 author: danarl
 manager: mnirkhe
@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 063565b3aa2e6cd7a315ebd252bb5de327493c33
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ac13308180797039797fb087eb2509e3945368cc
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263540"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216545"
 ---
 ---
 
@@ -100,7 +100,7 @@ Per ulteriori informazioni sui servizi disponibili in Microsoft 365 Government, 
 - [Teams per le distribuzioni governative-DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [Outlook per iOS e Android nel cloud della community del governo](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow governo degli Stati Uniti](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft Power automatizzare il governo degli Stati Uniti](https://docs.microsoft.com/flow/us-govt)
 - [Pagina del prodotto governativo Microsoft 365](https://www.microsoft.com/microsoft-365/government)
 - [Roadmap di Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -167,7 +167,7 @@ Per ulteriori informazioni su Microsoft 365 Government, vedere le risorse seguen
 - [Teams per le distribuzioni governative-DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [Outlook per iOS e Android nel cloud della community del governo](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow governo degli Stati Uniti](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft Power automatizzare il governo degli Stati Uniti](https://docs.microsoft.com/flow/us-govt)
 - [Roadmap di Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 - [Pagina del prodotto governativo Microsoft 365](https://www.microsoft.com/microsoft-365/government)
 - [Pagina del settore governativo Microsoft](https://www.microsoft.com/enterprise/government)

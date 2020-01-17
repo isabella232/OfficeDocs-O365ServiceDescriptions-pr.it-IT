@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 business è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 business è una soluzione integrata che unisce la produttività di Office 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
-ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
+ms.openlocfilehash: 70e649c0aa66390e3e84da2ff517bfef9a5dbc8f
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38755474"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216465"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
@@ -31,7 +31,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |**& del calendario per la posta elettronica** | Outlook, Exchange Online| 50 GB | 50 GB |
 |**Hub per il lavoro di squadra** | Area di lavoro basata su chat, riunioni online e altro in Microsoft Teams | Sì |Sì |
 |**Archivio file** | OneDrive for Business  | 1 TB per utente | 1 TB per utente |
-|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online, PowerApps, Microsoft Flow | Sì | Sì |
+|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online, PowerApps, Power automatizzate | Sì | Sì |
 |**App aziendali** | Pianificazione delle app &ndash; bookings<sup>1</sup> | Sì | Sì |
 |   | App &ndash; aziendali MileIQ<sup>1</sup> | Sì | Sì |
 |**Protezione dalle minacce** | Office 365 Advanced Threat Protection | No | Sì |
@@ -42,7 +42,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |   | Shared computer activation | No | Sì |
 |   | Windows Autopilot, gestione Windows Pro | No | Sì |
 |   | Diritti di aggiornamento a Windows 10 Pro per le licenze Win 7/8.1 Pro | No | Sì |
-|   | Desktop virtuale di Windows | No | Sì |
+|   | Desktop virtuale Windows | No | Sì |
 |**Protezione delle informazioni** | Prevenzione della perdita dei dati di Office 365 | No | Sì |
 |   | Azure Information Protection piano 1, applicazione di BitLocker | No | Sì |
 |**Conformità** | Archiviazione di posta elettronica illimitata<sup>2</sup> | No | Sì |
@@ -62,7 +62,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |**& del calendario per la posta elettronica** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Hub per il lavoro di squadra** | Area di lavoro basata su chat, riunioni online e altro in Microsoft Teams | Sì | Sì |
 |**Archivio file** | OneDrive for Business | Illimitata | 1 TB per utente |
-|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Sì | Sì |
+|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatizzate<sup>1</sup> | Sì | Sì |
 |**App aziendali** | Pianificazione delle app &ndash; bookings<sup>2</sup> | Sì | Sì |
 |   | App &ndash; business MileIQ<sup>2</sup> | No | Sì |
 |**Protezione dalle minacce** | Office 365 Advanced Threat Protection | No | Sì |
@@ -72,7 +72,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |**Gestione delle app per dispositivi &** | Microsoft Intune, Windows Autopilot, Windows Pro Management | No | Sì |
 |   | Shared computer activation | Sì | Sì |
 |   | Diritti di aggiornamento a Windows 10 Pro per Win 7/8.1 Pro | No | Sì |
-|   | Desktop virtuale di Windows | No | Sì |
+|   | Desktop virtuale Windows | No | Sì |
 |**Protezione delle informazioni** | Prevenzione della perdita dei dati di Office 365 | Sì | Sì |
 |   | Azure Information Protection piano 1, applicazione di BitLocker | No | Sì |
 |**Diritti di licenza locale** | Suite ECAL (Exchange, SharePoint, Skype) | Sì | No |
@@ -95,7 +95,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |**& del calendario per la posta elettronica** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
 |**Hub per il lavoro di squadra** | Area di lavoro basata su chat, riunioni online e altro in Microsoft Teams | Sì | Sì | Sì |
 |**Archivio file** | OneDrive for Business | 1 TB per utente | 1 TB per utente | Illimitata |
-|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Sì | Sì | Sì |
+|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatizzate<sup>1</sup> | Sì | Sì | Sì |
 |**App aziendali** | Pianificazione delle app &ndash; bookings<sup>2</sup> | Sì | Sì | Sì |
 |   | App &ndash; business MileIQ<sup>2</sup> | Sì | Sì | No |
 |**Protezione dalle minacce** | Office 365 Advanced Threat Protection | No | Sì | No |
@@ -105,7 +105,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |**Gestione delle app per dispositivi &** | Microsoft Intune, Windows Autopilot, Windows Pro Management | No | Sì | No |
 |   | Attivazione di computer condivisi | No | Sì | Sì |
 |   | Diritti di aggiornamento a Windows 10 Pro per le licenze Win 7/8.1 Pro | No | Sì | No |
-|   | Desktop virtuale di Windows | No | Sì | No |
+|   | Desktop virtuale Windows | No | Sì | No |
 |**Protezione delle informazioni**  | Prevenzione della perdita dei dati di Office 365 | No | Sì | Sì |
 |   | Azure Information Protection piano 1, applicazione di BitLocker | No | Sì | No |
 |**Diritti di licenza locale** | Suite ECAL (Exchange, SharePoint, Skype) | No | No | Sì |
@@ -144,7 +144,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con un'enf
 |   | Microsoft Desktop Optimization Pack, VDA | No | No | Sì | Sì |
 | **Protezione delle informazioni** | Prevenzione della perdita dei dati di Office 365, piano di protezione delle informazioni di Azure 1 | No | Sì | Sì | Sì |
 |   | Azure Information Protection piano 2, Microsoft cloud app Security, Office 365 cloud app Security | No | No | No | Sì |
-|**Diritti di licenza locale** | Suite ECAL (Exchange, SharePoint, Skype, Windows, SCCM, Windows Rights Management) | No | No | Sì | Sì |
+|**Diritti di licenza locale** | Famiglia di prodotti ECAL (Exchange, SharePoint, Skype, Windows, Microsoft endpoint Configuration Manager, Windows Rights Management) | No | No | Sì | Sì |
 |**Conformità** | Archiviazione di posta elettronica illimitata<sup>2</sup> | No | Sì | Sì | Sì |
 |   | Advanced eDiscovery, archivio protetto dei clienti, Advanced Data Governance | No | No | No | Sì |
 |**Analisi** | Power BI Pro, analisi | No | No | No | Sì |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263127"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216731"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -39,9 +39,9 @@ Il messaggio di posta elettronica di briefing aiuta gli utenti a sfruttare al ma
 
 I messaggi di posta elettronica vengono forniti automaticamente a tutti gli utenti di Exchange Online. Per ulteriori informazioni, vedere la [Panoramica del messaggio di posta elettronica](https://docs.microsoft.com/Briefing/be-overview).
 
-## <a name="microsoft-flow"></a>Microsoft Flow
+## <a name="microsoft-power-automate"></a>Microsoft Power automatizzato
 
-Microsoft Flow consente di automatizzare i flussi di lavoro tra le applicazioni. Consente di connettere gli avvisi di messaggi istantanei e posta elettronica, sincronizzare i file tra le applicazioni, copiare i file da un servizio all'altro, raccogliere dati da un'app e archiviarli in un'altra e così via. Sono disponibili modelli per iniziare. Per ulteriori informazioni sulle funzionalità di Flow e sul loro utilizzo, accedere al [sito Web di Microsoft Flow](https://flow.microsoft.com/en-us/).
+Microsoft Power automatizzate consente di automatizzare i flussi di lavoro tra le applicazioni. Consente di connettere gli avvisi di messaggi istantanei e posta elettronica, sincronizzare i file tra le applicazioni, copiare i file da un servizio all'altro, raccogliere dati da un'app e archiviarli in un'altra e così via. Sono disponibili modelli per iniziare. Per ulteriori informazioni sulle funzionalità di Flow e sul loro utilizzo, accedere al [sito Web di Microsoft Flow](https://flow.microsoft.com/en-us/).
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
