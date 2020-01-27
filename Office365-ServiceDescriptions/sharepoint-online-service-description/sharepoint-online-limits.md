@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Trovare i limiti di SharePoint Online per piani di Office 365 Enterprise e per piani autonomi.
-ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b5ba34d3a1ebd80d7833e09e70a76b57882ae6fd
+ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216645"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519197"
 ---
 # <a name="sharepoint-online-limits"></a>Limiti di SharePoint Online
 
@@ -66,7 +66,7 @@ Trovare i limiti di SharePoint per i piani di Office 365 e i piani autonomi di S
 
 - **Applicazioni ospitate in SharePoint** -20.000 istanze per ogni organizzazione.
 
-- **Ambiti di sicurezza univoci per elenco o raccolta** : il limite applicato è 50.000, ma il limite generale consigliato è 5.000. Sopra 5.000, la dimensione dell'elenco di controllo di accesso (ACL) inizia a essere importante. Anche se è possibile aggiungere ambiti fino al limite forzato di 50.000, Microsoft non lo consiglia, a meno che non si disponga di uno scenario specifico. Per gli elenchi di grandi dimensioni, la progettazione deve disporre di un numero di autorizzazioni univoco possibile.
+- **Ambiti di sicurezza univoci per elenco o raccolta** : il limite supportato è 50.000, ma il limite generale consigliato è 5.000. Sopra 5.000, la dimensione dell'elenco di controllo di accesso (ACL) inizia a essere importante. Anche se è possibile aggiungere ambiti fino al limite supportato di 50.000, Microsoft non lo consiglia, a meno che non si disponga di uno scenario specifico. Per gli elenchi di grandi dimensioni, la progettazione deve disporre di un numero di autorizzazioni univoco possibile.
 
 - **Users** -2 milioni per ogni raccolta siti.
     > [!NOTE]
