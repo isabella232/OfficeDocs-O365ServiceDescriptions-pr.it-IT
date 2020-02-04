@@ -1,5 +1,5 @@
 ---
-title: Office per la descrizione del servizio Web
+title: Descrizione del servizio Office per il Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263520"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711906"
 ---
-# <a name="office-for-the-web-service-description"></a>Office per la descrizione del servizio Web
+# <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
 Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
   
@@ -192,7 +192,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 > [!NOTE] 
 > <sup>1</sup> non è possibile creare grafici pivot, solo visualizzazione.
  <br/><sup>2</sup> a seconda del modo in cui l'ambiente è configurato, sono supportati alcuni tipi di connessioni dati per le cartelle di lavoro visualizzate in Excel per il Web. Per ulteriori informazioni, vedere aggiornamento dei dati in una cartella di lavoro in una finestra del browser. 
- <br/><sup>3</sup> non è possibile creare macro con VBA in Excel per il Web, ma è possibile aprire e modificare fogli di calcolo abilitati a VBA senza rimuovere (o corrompere) il VBA contenuto nel file.
+ <br/><sup>3</sup> non è possibile creare o eseguire macro con VBA in Excel per il Web, ma è possibile aprire e modificare fogli di lavoro abilitati a VBA senza rimuovere (o corrompere) il VBA contenuto nel file.
  <br/><sup>4</sup> in Excel per il Web, l'ultimo valore di riferimento conosciuto viene visualizzato nella finestra del browser. Tuttavia, deve essere aggiornato utilizzando l'app desktop Excel. 
  <br/><sup>5</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. 
   

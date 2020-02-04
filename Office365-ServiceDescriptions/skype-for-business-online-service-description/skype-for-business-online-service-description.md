@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio Skype for business online
+title: Descrizione del servizio Skype for Business Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Si desidera conoscere quali licenze è necessario acquistare per ottenere determinate funzionalità di Skype for Business? Vedere la panoramica sulle licenze di Skype for business.
-ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263270"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711916"
 ---
-# <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for business online
+# <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
 
 > [!NOTE]
-> Microsoft teams è ora il client principale per i messaggi, le riunioni e le chiamate in Office 365. I nuovi clienti di Office 365 con 500 seggi o meno saranno onboarded to Microsoft teams e non avranno accesso a Skype for business online. I tenant che già utilizzano Skype for business online potranno continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completeranno la transizione a Microsoft teams.
+> Microsoft teams è ora il client principale per i messaggi, le riunioni e le chiamate in Office 365. A partire dal 1 ° ottobre 2018, nuovi clienti di Office 365 con 500 seggi o meno saranno onboarded to Microsoft teams e non avranno accesso a Skype for business online. Al 1 ° settembre 2019, questo vale per tutti i nuovi clienti. I tenant che già utilizzano Skype for business online possono continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completano la transizione a Microsoft teams.
 
 > [!NOTE]
 > Skype for business online piano 2 ritirato dalla vendita il 1 ° luglio 2019. Questo significa che non sarà più possibile acquisire Skype for business online piano 2 per la messaggistica istantanea, la presenza, le riunioni e la voce e il video peer-to-peer. Queste funzionalità continueranno a essere supportate in tutte le offerte di Office 365 che includono Team, tra cui Office 365 Suites. Quando il piano scade alla fine del termine corrente, per avere accesso continuato a queste funzionalità, è necessario passare a un piano diverso. Si consiglia di valutare Office 365 Business Essentials, Business Premium o qualsiasi altra famiglia di Office per gli utenti a cui è stato assegnato il piano 2 di Skype for business online. 
