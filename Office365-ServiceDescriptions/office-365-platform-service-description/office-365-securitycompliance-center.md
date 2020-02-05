@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: deda84949994d65d025df9ae781d82827cf8518d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
+ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262569"
+ms.lasthandoff: 02/05/2020
+ms.locfileid: "41773776"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -62,7 +62,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 <sup>8</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato. <br/>
 <sup>9</sup> è disponibile un componente aggiuntivo DLP che può essere aggiunto a qualsiasi SKU con Exchange o SharePoint/OneDrive.<br/>
 <sup>10</sup> le etichette di riservatezza sono incluse anche in Azure Information Protection P1 e P2.<br/>
-<sup>11</sup> per applicare un criterio di conservazione a una cassetta postale utente, è richiesta una licenza di Exchange Online piano 2. 
+<sup>11</sup> è richiesta una licenza di Exchange Online piano 2 per inserire una cassetta postale utente in attesa utilizzando un criterio di conservazione.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
@@ -87,7 +87,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Archiviazione](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>10</sup> <br/>|Sì<sup>10</sup> <br/> |No  <br/> |No  <br/> |
 |[Controllo unificato](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>10</sup> <br/>|Sì<sup>10</sup> <br/> |No  <br/> |No  <br/> |
-|[Criteri di conservazione](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>10</sup> <br/>|Sì<sup>10</sup> <br/> |Sì  <br/> |Sì  <br/> |
+|[Criteri di conservazione](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Sì<sup>11</sup>  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>10</sup> <br/>|Sì<sup>10</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |[Criteri di supervisione](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |||||||||
    
@@ -100,7 +100,8 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 <sup>7</sup> include i file archiviati nei repository di Microsoft teams.<br/>
 <sup>8</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato. <br/>
 <sup>9</sup> è disponibile un componente aggiuntivo DLP che può essere aggiunto a qualsiasi SKU con Exchange o SharePoint/OneDrive.<br/>
-<sup>10</sup> limitato ai file archiviati in OneDrive for business.
+<sup>10</sup> limitato ai file archiviati in OneDrive for business.<br/>
+<sup>11</sup> è richiesta una licenza di Exchange Online piano 2 per inserire una cassetta postale utente in attesa utilizzando un criterio di conservazione.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
