@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
+ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216535"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41839769"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -86,13 +86,13 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
 |Intelligence per le minacce  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
 |Cloud App Security  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
-|Windows Defender Advanced Threat Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Microsoft Defender Advanced Threat Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>13</sup>  <br/> |
 |**Vantaggi del server e del CAL** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Exchange<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>10</sup> <br/> |Sì  <br/> |
 |SharePoint<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>10</sup> <br/> |Sì  <br/> |
 |Skype for Business<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>10</sup> <br/> |Sì  <br/> |
 |Windows Server CAL  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Gestione configurazione Microsoft endpoint  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
+|Microsoft Endpoint Configuration Manager  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
 |System Center Endpoint Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
@@ -107,6 +107,6 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 > <sup>9</sup> Server e CAL sono inclusi per Exchange, SharePoint e Skype for Business. <br/>
 > <sup>10</sup> ECAL o Core CAL, a seconda della versione di A3 acquistata (con A5, sono inclusi i diritti ECAL). <br/>
 > <sup>11</sup> Per ulteriori informazioni su Azure Active Directory, vedere [Informazioni su Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-whatis). <br/>
-> <sup>12</sup> Office Pro Plus è obbligatorio per applicare le misure di sicurezza e inviare messaggi di posta elettronica sicuri dalla versione desktop di Outlook. 
-  
+> <sup>12</sup> Office Pro Plus è obbligatorio per applicare le misure di sicurezza e inviare messaggi di posta elettronica sicuri dalla versione desktop di Outlook. <br/> 
+> <sup>13</sup> Microsoft 365 Education a5 use benefit non include Microsoft Defender Advanced Threat Protection.  
 
