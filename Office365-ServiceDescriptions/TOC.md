@@ -1,6 +1,4 @@
 
-  
-
 # [Descrizioni del servizio Office 365](office-365-service-descriptions-technet-library.md)
 ## [Descrizione del servizio della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Opzioni dei piani di Office 365](office-365-platform-service-description/office-365-plan-options.md)
@@ -111,10 +109,10 @@
 ### [Descrizione del servizio Microsoft 365 Business Voice](microsoft-365-business-voice-service-description.md)
 ### [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-### [Assegnazione di licenze di Microsoft 365 per piccole e medie imprese](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
-### [Linee guida per le licenze dei servizi a livello di tenant di Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+### [Assegnazione di licenze di Microsoft 365 per piccole e medie imprese](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+### [Indicazioni per l'assegnazione di licenze di Microsoft 365 per sicurezza e conformità](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Pianificare la conformità Microsoft 365 - Distribuzion DoD](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Pianificare la conformità Microsoft 365 - GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Pianificare la conformità Microsoft 365 - GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
-
+ 
