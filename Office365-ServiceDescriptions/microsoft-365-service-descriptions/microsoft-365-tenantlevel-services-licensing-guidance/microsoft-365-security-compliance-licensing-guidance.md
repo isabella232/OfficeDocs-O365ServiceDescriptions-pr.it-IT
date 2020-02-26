@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite istruzioni per la gestione delle licenze per Microsoft 365 Security & Compliance per evitare potenziali interruzioni del servizio a causa di un accesso non concesso in licenza.
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787033"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279859"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -421,3 +421,23 @@ Per impostazione predefinita, le funzionalità di accesso condizionale sono abil
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 Per la protezione delle identità e l'accesso condizionale in particolare, un utente deve essere incluso in un gruppo o essere aggiunto a un criterio di accesso condizionale. La condizione degli utenti e dei gruppi è obbligatoria in un criterio di accesso condizionale. Nei criteri è possibile selezionare **tutti gli utenti** o gli utenti e i gruppi specifici. È necessario selezionare solo gli utenti e i gruppi con licenza appropriata. Per ulteriori informazioni, vedere [quali sono le condizioni nell'accesso condizionale di Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
+
+## <a name="advanced-audit"></a>Controllo avanzato
+
+Advanced audit in Microsoft 365 fornisce una conservazione annuale dei registri di controllo per le attività di utenti e amministratori e fornisce la possibilità di creare criteri di conservazione del registro di controllo personalizzati per gestire la conservazione del registro di controllo per altri servizi di Microsoft 365. Consente inoltre di accedere a eventi cruciali per le indagini e l'accesso a larghezza di banda elevata all'API di attività di gestione di Office 365. Per ulteriori informazioni, vedere [Advanced audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
+
+### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
+
+Gli utenti con licenza di Office 365 E5, Microsoft 365 E5 e Microsoft 365 E5 possono trarre vantaggio da Advanced audit.
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Un utente beneficia del controllo avanzato perché i record di controllo relativi all'attività degli utenti nei servizi Microsoft 365 possono essere conservati per un massimo di un anno. Inoltre, gli eventi di controllo di alto valore vengono registrati, ad esempio quando si accede o si leggono gli elementi della cassetta postale di un utente. Per ulteriori informazioni, vedere [eventi di controllo ad alto valore](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+Per impostazione predefinita, il controllo avanzato è abilitato a livello di tenant per tutte le organizzazioni che dispongono di un abbonamento a Office 365 o Microsoft 365 E5 e fornisce automaticamente una conservazione annuale dei registri di controllo per le attività (eseguite dagli utenti con la licenza appropriata) in Azure Active Directory, Exchange e SharePoint. Inoltre, le organizzazioni possono utilizzare i criteri di conservazione dei registri di controllo per gestire il periodo di conservazione dei record di controllo generati dall'attività in altri servizi Microsoft 365. Per altre informazioni, vedere [Gestire i criteri di conservazione dei log di controllo](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+La conservazione annuale dei registri di controllo e degli eventi di controllo di alto valore si applica solo agli utenti che dispongono della licenza appropriata. Gli amministratori possono inoltre utilizzare i criteri di conservazione dei registri di controllo per specificare una durata di conservazione più breve per i log di controllo di utenti specifici.

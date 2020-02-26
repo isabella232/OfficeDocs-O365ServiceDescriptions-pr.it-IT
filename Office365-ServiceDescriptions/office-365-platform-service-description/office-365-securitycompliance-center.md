@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931922"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279809"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -64,7 +64,7 @@ Il [Centro sicurezza &amp; e conformità di Office 365](https://docs.microsoft.c
 <sup>9</sup> è disponibile un componente aggiuntivo DLP che può essere aggiunto a qualsiasi SKU con Exchange o SharePoint/OneDrive.<br/>
 <sup>10</sup> le etichette di riservatezza sono incluse anche in Azure Information Protection P1 e P2.<br/>
 <sup>11</sup> è richiesta una licenza di Exchange Online piano 2 per conservare il contenuto di una cassetta postale utente utilizzando un criterio di conservazione.<br/>
-<sup>12</sup> Advanced audit fornisce una conservazione di un anno dei registri di controllo per le attività in Azure Active Directory, Exchange e SharePoint, nonché la possibilità di creare criteri di conservazione del registro di controllo personalizzati per gestire la conservazione del registro di controllo per altri servizi di Office 365. Fornisce inoltre il controllo degli eventi di alto valore e l'accesso a larghezza di banda elevata all'API dell'attività di gestione di Office 365.
+<sup>12</sup> Advanced audit fornisce una conservazione di un anno dei registri di controllo per le attività in Azure Active Directory, Exchange e SharePoint, nonché la possibilità di creare criteri di conservazione del registro di controllo personalizzati per gestire la conservazione del registro di controllo per altri servizi di Office 365. Consente inoltre di accedere a eventi cruciali per le indagini e l'accesso a larghezza di banda elevata all'API di attività di gestione di Office 365.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
