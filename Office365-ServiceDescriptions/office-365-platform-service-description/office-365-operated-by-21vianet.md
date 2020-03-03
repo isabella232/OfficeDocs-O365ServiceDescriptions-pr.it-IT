@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279839"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374193"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -52,11 +52,12 @@ Ogni piano di Office 365 gestito da 21Vianet include una serie di servizi indivi
 |Power BI|No|No|No|No|No|No|No|
 |Visio per il Web<sup>3</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Yammer Enterprise|No|No|No|No|No|No|No|
-|Protezione delle informazioni di Azure|No|No|No|No|No|No|No|
+|Protezione delle informazioni di Azure|No|No|No|No|No|Sì<sup>4</sup>|No|
 
 <sup>1</sup> Include funzionalità come amministrazione di Office 365, app della suite Office 365, gestione account utente, domini, integrità e continuità dei servizi, creazione di report, aggiornamento dei servizi, supporto e formazione, gestione delle reti e così via. Per maggiori informazioni, vedere la tabella [Funzionalità della piattaforma](office-365-operated-by-21vianet.md#platform-features).
 <br/><sup>2</sup> Project Online non è incluso, ma può essere acquistato come servizio aggiuntivo separato oppure aggiunto gratuitamente al piano di Office 365 A1.
 <br/><sup>3</sup> Visio per il consumo Web (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio per il Web richiedono una licenza. Per ulteriori informazioni su Visio per il Web, vedere la [Descrizione di Visio per il servizio Web](../visio-online-service-description/visio-online-service-description.md).
+<br/><sup>4</sup> Azure Information Protection (AIP) è parzialmente supportato in Office 365 gestito da 21ViaNet. Per ulteriori informazioni, vedere [parità tra Azure Information Protection per Office 365 gestito da 21ViaNet e offerte commerciali](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet).
 
 ## <a name="system-requirements"></a>Requisiti di sistema
 
@@ -337,7 +338,7 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 |Regole del flusso di posta (regole di trasporto)|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|
 |Prevenzione della perdita di dati|No|No|No|No|No|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Protezione dalla posta indesiderata e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
 |Protezione da posta indesiderata integrata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>4</sup>|
 |Protezione antimalware integrata|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|
@@ -384,7 +385,7 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 |Cartelle pubbliche|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |**[Client e dispositivi mobili](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
 |Microsoft Outlook|Sì|Sì|Sì|Sì|Sì|Sì| No<sup>6</sup>|
-|Outlook sul web|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Outlook sul Web|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Exchange ActiveSync|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |POP e IMAP|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |SMTP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -543,7 +544,7 @@ Nella tabella seguente vengono illustrate le funzionalità di Archiviazione Exch
 |Backup di cassetti postali|No|Sì|
 |**[Funzionalità client in archiviazione Exchange Online](../exchange-online-archiving-service-description/client-features.md)**|||
 |Outlook<sup>3</sup>|No|Sì|
-|Outlook sul web|No|Sì|
+|Outlook sul Web|No|Sì|
 |**[Funzionalità di conformità e sicurezza in archiviazione Exchange Online](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
 |Criteri di conservazione|No|Sì|
 |Archiviazione sul posto e conservazione per controversia legale<sup>5</sup>|No|Sì|

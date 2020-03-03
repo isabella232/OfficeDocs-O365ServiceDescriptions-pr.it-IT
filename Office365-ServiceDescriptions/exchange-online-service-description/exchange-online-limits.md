@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: a1f83239d3ac63ea8b8ef2559fe962f131c96110
-ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
+ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41000856"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374183"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -227,7 +227,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Massima profondità gerarchia cartella|Nessun limite|300|300|300|
 |Avviso per profondità gerarchia cartella|Nessun limite|250|250|250|
 |Numero massimo di cartelle pubbliche|1,000,000|100.000|100,000|Non disponibile|
-|Numero massimo di sottocartelle per cartella pubblica|N/D|1.000|1,000|Non disponibile|
+|Numero massimo di sottocartelle per cartella pubblica|N/D|1,000|1,000|Non disponibile|
 |Avviso per numero di sottocartelle per cartella pubblica|N/D|900|900|Non disponibile|
 
 > [!NOTE]
@@ -355,12 +355,12 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Caratteristica**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Limite di frequenza destinatario<sup>1</sup>|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|
-|Limite destinatari|500 destinatari|500 destinatari|500 destinatari|500 destinatari|500 destinatari|500 destinatari|
+|Limite destinatari|500 destinatari|1000 destinatari|1000 destinatari|1000 destinatari|1000 destinatari|1000 destinatari|
 |Limite di indirizzi proxy del destinatario|400|400|400|400|400|400|
 |Limite di frequenza dei messaggi|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|
 
 > [!NOTE]
-> <sup>1</sup> dopo il raggiungimento del limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5.000 destinatari alle 09:00, quindi Invia un altro messaggio a 2.500 destinatari alle 10:00 del mattino e quindi Invia un altro messaggio ai destinatari 2.500 a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
+> <sup>1</sup> dopo il raggiungimento del limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5.000 destinatari alle 09:00, quindi Invia un altro messaggio a 2, 1000 destinatari a 10:00 AM e quindi Invia un altro messaggio a 2.500 destinatari a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limiti di invio nelle opzioni autonome
 
@@ -368,7 +368,7 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 |:-----|:-----|:-----|:-----|:-----|
 |**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Limite numero di destinatari|Nessun limite<sup>1</sup>|10.000 destinatari al giorno<sup>2</sup>|10.000 destinatari al giorno<sup>2</sup>|10.000 destinatari al giorno<sup>2</sup>|
-|Limite destinatari|500 destinatari<sup>1</sup>|500 destinatari|500 destinatari|500 destinatari|
+|Limite destinatari|1000 destinatari<sup>1</sup>|1000 destinatari|1000 destinatari|1000 destinatari|
 |Limite di indirizzi proxy del destinatario|400|400|400|400|
 |Limite di frequenza dei messaggi|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|
 

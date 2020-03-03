@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite istruzioni per la gestione delle licenze per Microsoft 365 Security & Compliance per evitare potenziali interruzioni del servizio a causa di un accesso non concesso in licenza.
-ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279859"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374163"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -189,9 +189,9 @@ Per impostazione predefinita, le funzionalità di ADG sono abilitate a livello d
 
 I criteri di conservazione di ADG possono essere applicati agli utenti con licenza in posizioni specifiche (siti del team, siti di gruppo e così via) tramite classificazione automatica. Per istruzioni sull'applicazione dei criteri di conservazione di ADG, vedere [applicazione di un criterio di conservazione a un'intera organizzazione o a posizioni specifiche](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).
 
-## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
+## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-Office 365 Advanced eDiscovery fornisce soluzioni di analisi e di eDiscovery per i servizi IT e legali all'interno delle società per identificare, raccogliere, preservare, ridurre ed esaminare i contenuti relativi a un'indagine o a una controversia preliminare prima dell'esportazione Sistema Office 365.
+Advanced eDiscovery fornisce soluzioni di ricerca e eDiscovery per i servizi IT e legali all'interno delle aziende per identificare, raccogliere, preservare, ridurre ed esaminare i contenuti relativi a un'indagine o a una controversia preliminare all'esportazione all'esterno di Office 365 sistema.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
@@ -440,4 +440,4 @@ Per impostazione predefinita, il controllo avanzato è abilitato a livello di te
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-La conservazione annuale dei registri di controllo e degli eventi di controllo di alto valore si applica solo agli utenti che dispongono della licenza appropriata. Gli amministratori possono inoltre utilizzare i criteri di conservazione dei registri di controllo per specificare una durata di conservazione più breve per i log di controllo di utenti specifici.
+La conservazione di un anno dei registri di controllo e il controllo degli eventi cruciali si applicano solo agli utenti con la licenza appropriata. Gli amministratori possono inoltre utilizzare i criteri di conservazione dei registri di controllo per specificare una durata di conservazione più breve per i log di controllo di utenti specifici.
