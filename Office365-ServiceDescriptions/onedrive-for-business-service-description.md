@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172088"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374173"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
@@ -88,7 +88,7 @@ Quando è necessario uno spazio di archiviazione per singoli utenti sul cloud su
   
 - Quando un utente ha riempito i suoi 5 TB di spazio di archiviazione in OneDrive per almeno il 90% della capacità, Microsoft aumenta lo spazio di archiviazione predefinito in OneDrive fino a 25 TB per ogni utente (gli amministratori possono impostare una quantità inferiore per ogni utente se lo desiderano). 
     
-- Per ogni utente che raggiunge almeno il 90% della capacità dei suoi 25 TB di spazio di archiviazione in OneDrive, vengono forniti ulteriori 25 TB di spazio di archiviazione sul cloud come siti del team di SharePoint ai singoli utenti. Questo ulteriore spazio di archiviazione viene fornito nell’organizzazione tramite carta di credito.
+- Per ogni utente che raggiunge almeno il 90% della capacità dei suoi 25 TB di spazio di archiviazione in OneDrive, vengono forniti ulteriori 25 TB di spazio di archiviazione sul cloud come siti del team di SharePoint ai singoli utenti.
     
 Per visualizzare lo spazio di archiviazione e l'utilizzo per un singolo utente, passare a [Gestisci spazio di archiviazione](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) nell'app di sincronizzazione di OneDrive. Per vedere la quantità di spazio di archiviazione utilizzato in tutta l’organizzazione, andare al [Report sull'utilizzo di OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) nell'interfaccia di amministrazione di Microsoft 365. 
    
