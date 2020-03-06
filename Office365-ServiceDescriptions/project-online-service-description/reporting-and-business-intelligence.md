@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: Le seguenti funzionalità di Reporting e business intelligence sono disponibili in Project online.
 ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733857"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546079"
 ---
 # <a name="reporting-and-business-intelligence"></a>Reporting e business intelligence
 

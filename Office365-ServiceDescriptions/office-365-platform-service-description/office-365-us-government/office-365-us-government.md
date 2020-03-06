@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
-ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
+ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/18/2020
-ms.locfileid: "41233359"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545719"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -167,14 +167,14 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |**[Funzionalità della famiglia di prodotti Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Microsoft Bookings  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Messaggi di posta elettronica Microsoft Briefing  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Microsoft Power automatizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
+|Microsoft Power Automate  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Sì <br/> |Sì <br/> |Sì<br/> |Sì</sup> <br/> |
 |API di Microsoft Graph  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft MyAnalytics  <br/> |No <br/> |No <br/> |Sì<sup>17</sup> <br/> |No <br/> |
 |Microsoft Planner  <br/> |Sì <br/> |Sì <br/> |Sì <br/> |Sì <br/> |
 |App di Microsoft Power  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |No <br/> |No <br/> |No <br/> |No<br/> |
-|Microsoft Stream  <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |No  <br/> |
+|Microsoft Stream  <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15, 20</sup>  <br/> |
 |Microsoft Sway  <br/> |No <br/> |No <br/> |No <br/> |No <br/> |
 |Microsoft Teams  <br/> |Sì <br/> |Sì <br/> |Sì <br/> |Sì <br/> |
 |Office Delve  <br/> |Sì<sup>17</sup> <br/> |Sì<sup>17</sup> <br/> |Sì  <br/> |Sì<sup>17</sup> <br/> |
@@ -219,10 +219,10 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Malware principali nella posta  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Corrispondenze alle regole nella posta  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Corrispondenze alle regole principali per la posta  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|Corrispondenze di criteri DLP principali nella posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|Corrispondenze di criteri DLP per livello di gravità per la posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|Corrispondenza, sostituzioni e falsi positivi dei criteri DLP per la posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|Corrispondenze alle regole DLP principali nella posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
+|Corrispondenze di criteri DLP principali nella posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |No <br/> |
+|Corrispondenze di criteri DLP per livello di gravità per la posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |No <br/> |
+|Corrispondenza, sostituzioni e falsi positivi dei criteri DLP per la posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |No <br/> |
+|Corrispondenze alle regole DLP principali nella posta  <br/> |No  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |No <br/> |
 |Sessioni di messaggistica immediata e audio  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Conferenze di condivisione applicazioni, Web e telefoniche con accesso esterno  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Sessioni video, di condivisione applicazioni e di trasferimento file  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
@@ -231,7 +231,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Browser utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Sistema operativo utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
+|**[Aggiornamenti del servizio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |
@@ -285,12 +285,14 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 <br/><sup>11</sup> non ancora disponibile nelle offerte governative di Office 365, ma verrà presto. 
 <br/><sup>12</sup> non incluso, ma può essere acquistato come componente aggiuntivo separato in GCC. 
 <br/><sup>13</sup> non supportato per le offerte governative di Office 365. 
-<br/><sup>14</sup> disponibile all' [https://securescore.office.com](https://securescore.office.com)indirizzo. Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894). 
+<br/><sup>14</sup> disponibile all' [https://securescore.office.com](https://securescore.office.com)indirizzo. Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+). 
 <br/><sup>15</sup> non ancora disponibile in DOD Environment, ma lo sarà presto. 
 <br/><sup>16</sup> l'interfaccia di amministrazione non include l'analisi dell'utilizzo negli ambienti DOD o GCC High.
 <br/><sup>17</sup> non supportato per gli ambienti GCC High e DOD.
 <br/><sup>18</sup> la funzionalità di anti-phishing per gli utenti e i domini e la falsificazione delle informazioni non sono ancora disponibili in GCC High e DOD.
 <br/><sup>19</sup> non ancora disponibile nell'ambiente GCC, ma lo sarà presto.
+<br/><sup>20</sup> consumi solo per Microsoft Stream: nessuna pubblicazione o condivisione. 
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Disponibilità delle applicazioni di Office e valore Enterprise
 
@@ -378,14 +380,14 @@ Le applicazioni di Office seguenti sono disponibili nelle cloud del governo. Tut
 |Ricerca intelligente | No <br/> | No <br/> | No <br/> |
 |Grafici: Sunburst TreeMap, cascata, istogramma, mappe, sequenza temporale, imbuto | No <br/> | No <br/> | No <br/> |
 |Cronologia versioni | No <br/> | No <br/> | No <br/> |
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili al momento: | **GCC** <br/> | **GCC High** <br/> | **DOD**<sup>3</sup> <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili al momento: | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Notifica tramite posta elettronica | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> | 
 |Inserire un'immagine | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
 |Inserire un video | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
 |Matematiche | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
 |Integrazione di Office | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | No <br/> |
-|Moduli di gruppo più recenti | Sì <br/> | Sì <br/> | No <br/> |
-|Condivisione esterna <sup>4</sup> | Sì <br/> | No <br/> | No <br/> |
+|Moduli di gruppo più recenti | N.<sup>4</sup> <br/> | Sì <br/> | Sì <br/> |
+|Condivisione esterna <sup>3</sup> | Sì <br/> | No <br/> | No <br/> |
 |Moduli Pro | No | No | No |
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) è completamente disponibile nei cloud governativi, ad eccezione delle caratteristiche seguenti, che non sono disponibili in questo momento: | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Strumento ricerche | No <br/> | No <br/> | No <br/> |
@@ -438,7 +440,7 @@ Le applicazioni di Office seguenti sono disponibili nelle cloud del governo. Tut
 |Chat contestuale con i coautori: chattare con i coautori all'interno del documento | No <br/> | No <br/> | No <br/> |
 |Dettatura | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> | N<sup>° 1</sup> <br/> |
 
-> <sup>1</sup> disponibilità imminente.<br/>
-<sup>2</sup> disponibilità su Hub superficie locale (non connesso).<br/>
-<sup>3</sup> l'applicazione non è attualmente disponibile nel cloud DOD.<br/>
-<sup>4</sup> la condivisione esterna è disponibile per l'ambiente GCC. Per ulteriori informazioni, vedere Disattivazione [o attivazione di Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) per l'organizzazione. La condivisione esterna è disattivata per gli ambienti GCC High e DOD; Gli utenti all'interno dell'organizzazione possono eseguire le operazioni seguenti: completare una maschera e inviare risposte, [duplicare e condividere un modulo come modello](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [creare un coautore o collaborare a un modulo](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [accedere ai risultati dei moduli](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+><sup>1</sup> disponibilità imminente.
+<br/><sup>2</sup> disponibilità su Hub superficie locale (non connesso).
+<br/><sup>3</sup> la condivisione esterna è disponibile per l'ambiente GCC. Per ulteriori informazioni, vedere Disattivazione [o attivazione di Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) per l'organizzazione. La condivisione esterna è disattivata per gli ambienti GCC High e DOD; Gli utenti all'interno dell'organizzazione possono eseguire le operazioni seguenti: completare una maschera e inviare risposte, [duplicare e condividere un modulo come modello](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [creare un coautore o collaborare a un modulo](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [accedere ai risultati dei moduli](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+<br/><sup>4</sup> la caratteristica dei moduli di gruppo recente è disattivata per l'ambiente GCC. Tuttavia, gli utenti possono comunque accedere ai moduli di gruppo selezionando un gruppo specifico nella scheda moduli di gruppo.

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 0e07a9958800c56c6c6ccfc3e3e3bf964b7c74a8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374193"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545999"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -234,9 +234,11 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|No|No|No|No|No|No|N.<sup>5</sup>|No|No|No|
 |[App di Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |[Office per Mac per Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|No|Sì|No|No|No|Sì|N.<sup>5</sup>|No|Sì|No|
+|App di Microsoft Office per Android|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|App di Microsoft Office per iOS|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Office Mobile per iPhone/iPad](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Sì|Sì|Sì|Sì|Sì|Sì|Sì<sup>5</sup>|Sì|Sì|Sì|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|[Office Mobile per Android] <sup>15</sup>(.. /Office-Applications-Service-Description/Office-Applications.MD # Office-Mobile per Android|Sì|Sì|Sì|Sì|Sì|Sì|Sì<sup>5</sup>|Sì|Sì|Sì|
+|[Office Mobile per Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)<sup>15</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì<sup>5</sup>|Sì|Sì|Sì|
 |[Office Mobile per Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|No|Sì|No|No|No|Sì|N.<sup>5</sup>|No|Sì|No|
 |[Office Mobile per Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|No|Sì|No|No|No|Sì|N.<sup>5</sup>|No|Sì|No|
 |Outlook per Android|No|Sì|Sì|Sì|No|Sì|N.<sup>5</sup>|No|Sì|No|
@@ -746,9 +748,9 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Result sources|Sì|Sì|Sì|No|No|No|No|
 |Search connector framework|No|No|No|No|No|No|No|
 |Search results sorting|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Search vertical: “Conversations”|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Search vertical: “People”|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Search vertical: “Video”|No|No|No|No|No|Sì|No|
+|Verticale di ricerca: "Conversazioni"|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Verticale di ricerca: "Contatti"|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Verticale di ricerca: "Video"|No|No|No|No|No|Sì|No|
 |Ricerche "Questo elenco"|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**Funzionalità per i siti**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
 |Change the look|Sì|No|Sì|Sì|Sì|Sì|Sì|

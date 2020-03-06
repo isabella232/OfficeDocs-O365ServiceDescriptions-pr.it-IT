@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilizzare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
 ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263510"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545769"
 ---
 # <a name="onenote-for-the-web"></a>OneNote per il Web
 
@@ -97,7 +97,7 @@ Non disponibile in OneNote per il Web. Con l'app desktop OneNote, è possibile d
 
 La possibilità di collegare gli appunti ai file non è disponibile in OneNote per il Web e i collegamenti ai file sono nascosti. Tuttavia, vengono conservati nelle note in modo che sia possibile aprirli con l'app desktop OneNote. 
   
-## <a name="navigation"></a>Navigazione
+## <a name="navigation"></a>Navigation
 
 Con OneNote per il Web, è possibile utilizzare i pulsanti avanti e indietro in stile browser sulla barra di accesso rapido per passare rapidamente da una pagina all'altra.
   
@@ -142,7 +142,7 @@ Con OneNote per il Web, è possibile utilizzare la ricerca immediata per richiam
 
 Non disponibile in OneNote per il Web. Le funzionalità di ricerca avanzata, ad esempio la ricerca per tag, titolo, autore/data e file audio, sono disponibili solo nell'app desktop OneNote.
   
-## <a name="share"></a>Condividere
+## <a name="share"></a>Condividi
 
 Se il blocco appunti di OneNote è stato salvato in una raccolta documenti di SharePoint, il blocco appunti di OneNote è online. Ciò significa che può essere condiviso semplicemente inviando un collegamento invece di un allegato di posta elettronica. Selezionando il collegamento, gli utenti possono leggere le note nel proprio Web browser. Ulteriori informazioni sulla [condivisione online delle note OneNote](https://go.microsoft.com/fwlink/p/?LinkID=272945).
   

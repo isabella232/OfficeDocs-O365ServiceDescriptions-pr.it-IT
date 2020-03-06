@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint per il Web (in precedenza PowerPoint Web App) estende l'esperienza di Microsoft PowerPoint al Web browser, in cui è possibile lavorare con le presentazioni direttamente sul sito Web in cui è archiviata la presentazione. Microsoft Office 365 i clienti con Office per il Web possono visualizzare, creare e modificare file in viaggio.
 ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263500"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545749"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint per il Web
 
@@ -171,7 +171,7 @@ PowerPoint per il Web consente di salvare il lavoro ogni volta che si apportano 
 
 Non è possibile inserire Word Art and Charts in PowerPoint per il Web, ma PowerPoint per il Web li Visualizza come previsto. Nella visualizzazione di modifica, modificare e formattare il testo. Se si desidera applicare effetti di testo a Word Art, è necessaria l'app desktop Microsoft PowerPoint.
   
-## <a name="share"></a>Condividere
+## <a name="share"></a>Condividi
 
 Se viene salvata in una raccolta di documenti di SharePoint, la presentazione è online ed è possibile condividerla inviando un collegamento invece di un allegato di posta elettronica. Gli utenti che dispongono delle autorizzazioni appropriate possono visualizzarla nel browser o su un dispositivo mobile. Ulteriori informazioni sulla [condivisione di una presentazione](https://go.microsoft.com/fwlink/?LinkId=272776).
   

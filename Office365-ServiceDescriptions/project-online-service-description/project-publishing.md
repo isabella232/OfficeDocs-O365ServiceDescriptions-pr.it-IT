@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Le seguenti funzionalità di interoperabilità di SharePoint e Skype for business sono disponibili in Project online.
 ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263400"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546049"
 ---
 # <a name="project-publishing"></a>Pubblicazione del progetto
 

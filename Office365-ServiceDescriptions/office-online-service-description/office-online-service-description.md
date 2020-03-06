@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft Office 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
 ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711906"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545789"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
@@ -87,7 +87,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Creazione condivisa in tempo reale](word-online.md#real-time-co-authoring) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti di riferimento](word-online.md#reference-tools) <br/> |No  <br/> |Sì  <br/> |
 |[Rendering di caselle di testo/forme](word-online.md#rendering-of-text-boxesshapes) <br/> |Sì  <br/> |Sì  <br/> |
-|[Strumento ricerche](word-online.md#researcher) <br/> |No  <br/> |Sì  <br/> |
+|[Ricercatore](word-online.md#researcher) <br/> |No  <br/> |Sì  <br/> |
 |[Contenuti multimediali](word-online.md#rich-media) <br/> |No  <br/> |Sì  <br/> |
 |[Formattazione avanzata delle tabelle](word-online.md#rich-table-formatting) <br/> |Sì  <br/> |Sì  <br/> |
 |[Salvataggio e download di una copia](word-online.md#save-as-and-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
