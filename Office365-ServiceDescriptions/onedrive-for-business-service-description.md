@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374173"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609877"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
@@ -40,7 +40,7 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 
 **2 GB**
 
-- Office 365 Enterprise F1
+- Office 365 Enterprise F3
 
 **1 TB**
 
@@ -88,7 +88,7 @@ Quando è necessario uno spazio di archiviazione per singoli utenti sul cloud su
   
 - Quando un utente ha riempito i suoi 5 TB di spazio di archiviazione in OneDrive per almeno il 90% della capacità, Microsoft aumenta lo spazio di archiviazione predefinito in OneDrive fino a 25 TB per ogni utente (gli amministratori possono impostare una quantità inferiore per ogni utente se lo desiderano). 
     
-- Per ogni utente che raggiunge almeno il 90% della capacità dei suoi 25 TB di spazio di archiviazione in OneDrive, vengono forniti ulteriori 25 TB di spazio di archiviazione sul cloud come siti del team di SharePoint ai singoli utenti.
+- Per ogni utente che raggiunge almeno il 90% della capacità dei suoi 25 TB di spazio di archiviazione in OneDrive, vengono forniti ulteriori 25 TB di spazio di archiviazione sul cloud come siti del team di SharePoint ai singoli utenti. Contattare il supporto tecnico Microsoft per informazioni e assistenza.
     
 Per visualizzare lo spazio di archiviazione e l'utilizzo per un singolo utente, passare a [Gestisci spazio di archiviazione](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) nell'app di sincronizzazione di OneDrive. Per vedere la quantità di spazio di archiviazione utilizzato in tutta l’organizzazione, andare al [Report sull'utilizzo di OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) nell'interfaccia di amministrazione di Microsoft 365. 
    
@@ -184,5 +184,5 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 
 ## <a name="it-admin-security-and-compliance-features"></a>Funzionalità per la sicurezza, la conformità e l'amministratore IT
 
-Per informazioni su queste funzionalità, consultare la [Descrizione del servizio SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features).
-  
+Per informazioni su queste funzionalità, consultare la [Descrizione del servizio SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
+
