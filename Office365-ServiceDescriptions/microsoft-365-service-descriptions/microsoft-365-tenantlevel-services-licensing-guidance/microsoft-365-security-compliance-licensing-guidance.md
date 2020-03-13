@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite istruzioni per la gestione delle licenze per Microsoft 365 Security & Compliance per evitare potenziali interruzioni del servizio a causa di un accesso non concesso in licenza.
-ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374163"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609917"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -71,7 +71,7 @@ Azure Information Protection (AIP) consente alle organizzazioni di individuare, 
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
-Gli utenti con licenza di Microsoft 365 F1, Microsoft 365 business, Microsoft 365 E3/a3/G3 e AIP Plan 1 possono trarre vantaggio da AIP piano 1. Gli utenti con licenza di Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 compliance e AIP piano 2 possono trarre vantaggio da AIP piano 2.
+Gli utenti con licenza di Microsoft 365 F3, Microsoft 365 business, Microsoft 365 E3/a3/G3 e AIP Plan 1 possono trarre vantaggio da AIP piano 1. Gli utenti con licenza di Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 compliance e AIP piano 2 possono trarre vantaggio da AIP piano 2.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -408,7 +408,7 @@ L'accesso condizionale è lo strumento utilizzato da Azure Active Directory per 
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
-Gli utenti con licenza di Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3 e Azure Active Directory Premium Plan 1 possono usufruire dei criteri di accesso condizionale. Gli utenti con licenza di Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security e Azure Active Directory Premium Plan 2 possono trarre vantaggio dalla protezione delle identità (criteri di accesso condizionale basato sui rischi).
+Gli utenti con licenza di Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F3/E3/a3/G3 e Azure Active Directory Premium Plan 1 possono usufruire dei criteri di accesso condizionale. Gli utenti con licenza di Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security e Azure Active Directory Premium Plan 2 possono trarre vantaggio dalla protezione delle identità (criteri di accesso condizionale basato sui rischi).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 

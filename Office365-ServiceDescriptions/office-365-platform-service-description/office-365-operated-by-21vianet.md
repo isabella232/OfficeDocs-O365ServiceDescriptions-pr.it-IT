@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 0e07a9958800c56c6c6ccfc3e3e3bf964b7c74a8
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545999"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609937"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -40,7 +40,7 @@ Ogni piano di Office 365 gestito da 21Vianet include una serie di servizi indivi
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Servizio**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Servizio**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Piattaforma Office 365<sup>1</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Exchange Online|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |SharePoint Online|Sì|No|Sì|Sì|Sì|Sì|Sì|
@@ -76,12 +76,12 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**[Funzionalità di amministrazione di Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**||||||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure|No|No|No|No|No|No|No|
 |Traduzione manuale dei post del centro messaggi tramite la traduzione automatica|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Funzionalità della famiglia di prodotti Office 365](office-365-suite-features.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Funzionalità della famiglia di prodotti Office 365](office-365-suite-features.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Microsoft Bookings|No|No|Sì|No|No|No|No|
 |Messaggi di posta elettronica Microsoft Briefing|No|No|Sì|No|No|No|No|
 |Microsoft Power Automate|No|No|No|No|No|No|No|
@@ -97,7 +97,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Gruppi di Office 365|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Video di Office 365|No|No|No|Sì|Sì|Sì|Sì<sup>2</sup>|
 |Blocco appunti di OneNote per la classe|No|No|No|Sì<sup>15<sup>|No|No|No|
-|**[MManagement dell'account utente](user-account-management.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[MManagement dell'account utente](user-account-management.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Identità del cloud, identità federata o autenticazione a più fattori<sup>14</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Strumento di configurazione desktop Office 365|No|No|No|No|No|No|No|
 |Caricamento in massa tramite file csv|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -110,7 +110,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Disponibilità di più ruoli amministratore|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Possibilità di permettere a un partner di gestire Office 365|No|No|No|No|No|No|No|
 |Servizi di Azure Active Directory|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Domini](domains.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Domini](domains.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Aggiunta di domini di secondo livello personalizzati, come fourthcoffee.com|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Aggiunta di domini di terzo livello personalizzati, come marketing.fourthcoffee.com|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Aggiunta di un massimo di 900 domini personalizzati|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -125,11 +125,11 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Hosting di più siti Web pubblici di SharePoint Online con nomi di dominio personalizzati<sup>5</sup>|No|No|No|No|No|No|No|
 |Verifica della proprietà obbligatoria per i domini personalizzati|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Acquisto automatizzato di domini e verifica disponibile per domini acquistati tramite Go Daddy|No|No|No|No|No|No|No|
-|**[Continuità e integrità del servizio](service-health-and-continuity.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Continuità e integrità del servizio](service-health-and-continuity.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Stato dei singoli avvisi disponibili nel dashboard dell'interfaccia di amministrazione di Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Feed RSS per l' **integrità dei servizi**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Report](reports.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Report](reports.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Cassette postali attive e inattive|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Cassette postali nuove ed eliminate|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Gruppi nuovi ed eliminati|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -154,20 +154,20 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Aggiornamenti dei servizi](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate al centro messaggi quando l'azione è obbligatoria, viene risolto un problema, vengono distribuite le funzionalità o le modifiche del servizio|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) per alcuni aggiornamenti del servizio|Sì|--|Sì|Sì|Sì|Sì|Sì|
 |Opzione per attivare Rilascio assegnato|No|--|No|No|Sì|Sì|Sì|
-|**[Guida e formazione](help-and-training.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Guida e formazione](help-and-training.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Guida online|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Community|No|No|No|No|No|No|No|
 |Altre risorse di supporto Self-help<sup>12</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Formazione autonoma|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Rete](networking.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Rete](networking.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Protocollo IPv4|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Protocollo IPv6|No|No|No|No|No|No|No|
-|**Attendibilità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Attendibilità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**[Privacy, sicurezza e trasparenza](privacy-security-and-transparency.md)**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Governance dei dati avanzata|No|No|No|No|No|No|No|
 |Gestione avanzata della sicurezza|No|No|No|No|No|No|No|
@@ -186,7 +186,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Contratto sull'elaborazione dati di Microsoft|No|No|No|No|No|No|No|
 |Dati PAN conformi allo standard PCI|No|No|No|No|No|No|No|
 |**[Continuità del servizio](service-health-and-continuity.md)**||||||||
-|**[BlackBerry](blackberry.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[BlackBerry](blackberry.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Utilizzo di BlackBerry Internet Service (BIS)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**[Partner](partners.md)**||||||||
 |Creazione di inviti e ordini di acquisto di prova per un cliente che utilizza uno specifico piano|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -195,7 +195,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |**[Diritti di utilizzo del prodotto](product-use-rights.md)**<sup>10</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 
 <sup>1</sup> Office 365 e Office 365 gestiti da 21ViaNet non forniscono supporto per nessun sistema operativo non supportato dal relativo produttore.<br/>
-<sup>2</sup> In Office 365 Enterprise F1 gestito da 21ViaNet, Office 365 video è limitato alla sola visualizzazione (nessuna pubblicazione o condivisione). <br/>
+<sup>2</sup> In Office 365 Enterprise F3 gestito da 21ViaNet, Office 365 video è limitato alla sola visualizzazione (nessuna pubblicazione o condivisione). <br/>
 <sup>3</sup> se si utilizza la sincronizzazione della directory con un Active Directory locale, è necessario eliminare gli account o cambiare le password utilizzando Active Directory locale, anziché il portale di Office 365 o utilizzando il modulo di Azure Active Directory per Windows PowerShell. <br/>
 <sup>4</sup> non ancora disponibile in Office 365 gestito da 21ViaNet, ma lo sarà presto. <br/>
 <sup>5</sup> è possibile disporre di un solo sito Web pubblico con Office 365, a meno che non sia stato eseguito l'aggiornamento da una versione precedente di Office 365. In tal caso, sono presenti due siti Web pubblici, dei quali solo uno può essere ospitato con un nome di dominio personalizzato. Per ulteriori informazioni sull'utilizzo dei due siti Web per le sottoscrizioni di business, vedere [lavorare con i due siti Web pubblici di Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5). Se si dispone di un abbonamento diverso, per ulteriori informazioni sui siti Web pubblici, vedere la [Guida del sito Web pubblico per Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
@@ -220,7 +220,7 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 
 ||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office Professional Plus 2013 gestito da 21Vianet**|**Office Professional Plus 2016 gestito da 21Vianet**|**Office 365 ProPlus gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità**|**Office Professional Plus 2013 gestito da 21Vianet**|**Office Professional Plus 2016 gestito da 21Vianet**|**Office 365 ProPlus gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**Applicazioni di Office**|||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sì|Sì|Sì|Sì|No|Sì|N.<sup>5</sup>|No|Sì|No|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sì|Sì|Sì|Sì|No|Sì|N.<sup>5</sup>|No|Sì|No|
@@ -242,7 +242,7 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |[Office Mobile per Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|No|Sì|No|No|No|Sì|N.<sup>5</sup>|No|Sì|No|
 |[Office Mobile per Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|No|Sì|No|No|No|Sì|N.<sup>5</sup>|No|Sì|No|
 |Outlook per Android|No|Sì|Sì|Sì|No|Sì|N.<sup>5</sup>|No|Sì|No|
-|**Valore Enterprise**|**Office Professional Plus 2013 gestito da 21Vianet**|**Office Professional Plus 2016 gestito da 21Vianet**|**Office 365 ProPlus gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Valore Enterprise**|**Office Professional Plus 2013 gestito da 21Vianet**|**Office Professional Plus 2016 gestito da 21Vianet**|**Office 365 ProPlus gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |5 installazioni per ogni utente su PC o Mac|No|Sì|Sì<sup>6</sup>|Sì<sup>6</sup>|No|Sì|N.<sup>5</sup>|No|Sì|No|
 |Provisioning dell'account utente automatizzato|N/D|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Interfaccia utente multilingue|Sì|Sì|Sì|No|No|Sì|No|No|Sì|No|
@@ -316,17 +316,17 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**[Pianificazione e distribuzione](../exchange-online-service-description/planning-and-deployment.md)**||||||||
 |Distribuzione ibrida supportata|Sì<sup>9, 10</sup>|Sì<sup>10</sup>|Sì<sup>9, 10</sup>|Sì<sup>10</sup>|Sì<sup>10</sup>|Sì<sup>10</sup>|Sì<sup>10</sup>|
 |Migrazione IMAP supportata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Migrazione cutover supportata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Migrazione in fasi supportata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Autorizzazioni](../exchange-online-service-description/permissions.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Autorizzazioni](../exchange-online-service-description/permissions.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Autorizzazioni basate sui ruoli|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Gruppi di ruoli|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Criteri di assegnazione dei ruoli|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|**[Conformità e criteri dei messaggi](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Conformità e criteri dei messaggi](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Archiviazione di cassette postali di Exchange Online|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Archiviazione basata su cloud delle cassette postali locali|No|No|No|Sì|No|No|No|
 |Tag di conservazione e criteri di conservazione|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -340,7 +340,7 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 |Regole del flusso di posta (regole di trasporto)|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|
 |Prevenzione della perdita di dati|No|No|No|No|No|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione dalla posta indesiderata e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Protezione dalla posta indesiderata e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Protezione da posta indesiderata integrata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>4</sup>|
 |Protezione antimalware integrata|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|
@@ -348,13 +348,13 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 |Quarantena - gestione da parte dell'amministrazione|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>4</sup>|
 |Quarantena - autogestione dell'utente finale|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Protezione avanzata dalle minacce|No|--|No|No|No|No|No|
-|**[Flusso di posta](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Flusso di posta](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Routing personalizzato della posta in uscita|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Secure messaging with a trusted partner|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Conditional mail routing|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Aggiunta di un partner a un elenco di indirizzi attendibili in ingresso|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Routing posta ibrida|Sì<sup>9</sup>|--|Sì<sup>9</sup>|Sì|Sì|Sì|Sì|
-|**[Destinatari](../exchange-online-service-description/recipients.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Destinatari](../exchange-online-service-description/recipients.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Avvisi di capacità|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Messaggi secondari|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Suggerimenti messaggio|Sì|Sì|Sì|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|
@@ -375,17 +375,17 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 |Gestione delle sale riunioni|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Risposte Fuori sede|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Condivisione del calendario|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|
-|**[Funzionalità di creazione dei report e strumenti di risoluzione problemi](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Funzionalità di creazione dei report e strumenti di risoluzione problemi](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Rapporti dell'interfaccia di amministrazione di Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Cartella di lavoro di Excel Reporting|No|Sì|No|No|Sì|Sì|Sì|
 |Report sui servizi Web|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Message trace|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Report di controllo|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>2</sup>|
 |Rapporti di messaggistica unificata|No|No|No|No|No|No|No|
-|**[Condivisione e collaborazione](../exchange-online-service-description/sharing-and-collaboration.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Condivisione e collaborazione](../exchange-online-service-description/sharing-and-collaboration.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Condivisione federata (inclusa la pubblicazione del calendario)|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|
 |Cartelle pubbliche|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|**[Client e dispositivi mobili](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Client e dispositivi mobili](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Microsoft Outlook|Sì|Sì|Sì|Sì|Sì|Sì| No<sup>6</sup>|
 |Outlook sul Web|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Exchange ActiveSync|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -393,29 +393,29 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 |SMTP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Supporto dell'applicazione EWS|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Outlook per Mac|Sì|Sì|Sì|Sì|Sì|Sì| No|
-|**[Servizi di messaggistica vocale](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Servizi di messaggistica vocale](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Posta vocale|No|No|No|No|No|No|No|
 |Integrazione tra segreteria telefonica e FAX di terze parti|No|No|No|No|No|No|No|
 |Interoperabilità posta vocale di terze parti|No|Sì|No|No|No|No|No|
 |Integrazione di Skype for business|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Disponibilità elevata e continuità aziendale](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Disponibilità elevata e continuità aziendale](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Replica delle cassette postali presso i data center|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Recupero di cassette postali eliminate|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Recupero di elementi eliminati|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Ripristino di un unico elemento|Sì|Sì|Sì|Sì|Sì|Sì|No||
-|**[Interoperabilità, connettività e compatibilità](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Interoperabilità, connettività e compatibilità](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Presenza di Skype for business in OWA e Outlook|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Interoperabilità di SharePoint|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Supporto per la connettività EWS|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Supporto per l'inoltro SMTP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Installazione e amministrazione di Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Installazione e amministrazione di Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Accesso al portale di Microsoft Office 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Accesso all'interfaccia di amministrazione di Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Accesso all'interfaccia di amministrazione di Exchange|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Accesso a Windows PowerShell remoto|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Criteri di ActiveSync per i dispositivi mobili|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Report di utilizzo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Estensione del servizio: personalizzazione, componenti aggiuntivi e risorse](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Estensione del servizio: personalizzazione, componenti aggiuntivi e risorse](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Componenti aggiuntivi di Outlook e MAPI di Outlook|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|No|
 
 <sup>1</sup> alcune web part di terze parti e alcuni componenti aggiuntivi potrebbero non essere disponibili.
@@ -575,7 +575,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità per sviluppatori**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità per sviluppatori**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Catalogo app (SharePoint)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Distribuzione di applicazioni: app ospitate nel cloud|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Distribuzione di applicazioni: app ospitate da SharePoint|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -611,7 +611,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Workload API: ECM APIs|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Workload API: Search APIs|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Workload API: Social APIs|Sì|No|Sì|Sì|Sì|Sì|Sì|
-|**Funzionalità per professionisti IT**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità per professionisti IT**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Sincronizzazione con Active Directory|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Mapping di accesso alternativo (AAM)|No|No|No|No|No|No|No|
 |Piattaforma di analisi|No|No|No|No|No|No|No|
@@ -648,7 +648,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Upgrade evaluation site collections|No|No|No|Sì|Sì|Sì|Sì|
 |Report di utilizzo e registrazione|No|No|No|No|No|No|No|
 |Supporto di Windows PowerShell|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**Funzionalità per il contenuto**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità per il contenuto**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Supporto degli standard di accessibilità|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Miglioramenti della raccolta di risorse/supporto video|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Controllo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -702,7 +702,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |WCM: Recommendations|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |WCM: ottimizzazione del motore di ricerca (SEO)|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Word Automation Services|No|No|No|No|No|No|No|
-|**Funzionalità Insights**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità Insights**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Business Intelligence Center|No|No|No|No|No|No|No|
 |Misure e membri calcolati|No|No|No|Sì|No|Sì|No|
 |Raccolta connessioni dati|No|No|No|No|No|Sì|No|
@@ -723,7 +723,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Uso e interazione con cartelle di lavoro Excel contenenti modelli di dati|No|No|No|No|No|No|No|
 |Visio per il Web<sup>14, 15</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Servizi Visio<sup>14</sup>|No|No|No|No|No|No|No|
-|**Funzionalità di ricerca**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità di ricerca**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Elaborazione di contenuti avanzata|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Continuous crawls|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Custom entity extraction|No|No|No|No|No|No|No|
@@ -752,7 +752,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Verticale di ricerca: "Contatti"|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Verticale di ricerca: "Video"|No|No|No|No|No|Sì|No|
 |Ricerche "Questo elenco"|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**Funzionalità per i siti**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità per i siti**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Change the look|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Connessioni ai client di Microsoft Office|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Supporto di più browser|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -782,7 +782,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Pagina di utilizzo del sito|No|No|No|No|No|No|No|
 |Variazioni|Sì|No|Sì|Sì|Sì|Sì|No|
 |Work Management Service|Sì|No|Sì|Sì|Sì|Sì|Sì|
-|**Funzionalità sociali**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità sociali**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Ask Me About|No|No|No|No|No|No|No|
 |Blog personale|No|No|No|No|No|No|No|
 |Reputazione, badging e moderazione delle community|No|No|No|No|No|No|No|
@@ -806,7 +806,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Tag di tendenza|No|No|No|No|No|No|No|
 |Wiki|No|No|No|No|No|No|No|
 |Yammer|No|No|No|No|No|No|No|
-|**Componenti aggiuntivi**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Componenti aggiuntivi**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Archiviazione aggiuntiva|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |App di cui è stato effettuato il provisioning di Azure: Access Services<sup>3</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |App di cui è stato effettuato il provisioning di Azure: codice personalizzato nel ruolo Web lightweight di Azure (LWR)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -837,7 +837,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1, 4</sup>|Sì<sup>1, 4</sup>|Sì|No|
 |Lync 2013 Basic|Sì|Sì|Sì|Sì|Sì|Sì|No|
@@ -845,7 +845,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Lync per Mac 2011|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Client Skype for Business per dispositivi mobili|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Web App Skype for Business|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|**[Messaggistica istantanea, presenza e contatti](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Messaggistica istantanea, presenza e contatti](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Messaggistica istantanea da PC a PC e presenza|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Messaggistica istantanea e presenza a più parti|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Configurazione della scheda contatto|Sì|Sì|Sì|Sì|Sì|Sì|No|
@@ -857,18 +857,18 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Espansione della lista di distribuzione|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Chat persistente|No|No|No|No|No|No|No|
 |Foto del mittente/destinatario|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|**[Elementi audio, video e multimediali Skype su Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Elementi audio, video e multimediali Skype su Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Condivisione desktop tramite condivisione dello schermo basata su video (VbSS)|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Condivisione di desktop e applicazioni tramite Remote Desktop Protocol (RDP)|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Trasferimenti di file|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Video|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Qualità del servizio di rete - Differentiated Services Code Point (DSCP)|No|No|No|No|No|No|No|
-|**[Federazione e connettività per la messaggistica istantanea pubblica](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Federazione e connettività per la messaggistica istantanea pubblica](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Office Communications Server 2007 R2 e Lync Server 2010 (messaggistica istantanea, presenza, audio, video, conferenza)|Sì|No|Sì|Sì|Sì|Sì|No|
 |XMPP (usato, ad esempio da Google Talk) e federazione Sametime|No|No|No|No|No|No|No|
 | Federazione Skype|No|No|No|No|No|No|No|
 |Federazione AOL e Yahoo!|No|No|No|No|No|No|No|
-|**[Riunioni in Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Riunioni in Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Servizi di audioconferenza ad hoc e pianificazione|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Video conferenza ad hoc e pianificazione|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Video altoparlante attivo|Sì|Sì|Sì|Sì|Sì|Sì|No|
@@ -897,7 +897,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Pianificare riunioni online in Outlook sul Web|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Delega di Outlook per la pianificazione delle riunioni|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Crea riunioni pubbliche con ID riunione statica da Outlook|No|No|No|No|No|No|No|
-|**Chiamate vocali**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**Chiamate vocali**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Opzioni disponibilità|No|No|No|No|No|No|No|
 |Branch office survivability|No|No|No|No|No|No|No|
 |Servizio Controllo di ammissione di chiamata|No|No|No|No|No|No|No|
@@ -936,7 +936,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |[Piani di chiamata di Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (piano di chiamata internazionale con acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
 |[Crediti di comunicazione](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|No|No|No|No|No|No|No|
 |Funzionalità vocali di Skype for Business|No|No|No|No|No|No|No|
-|**[Sicurezza e archiviazione](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Sicurezza e archiviazione](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Messaggistica istantanea e crittografia multimediale|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Filtro per messaggistica istantanea e file|No|No|No|No|No|No|No|
 |Controllo della versione client|Sì|Sì|Sì|Sì|Sì|Sì|No|
@@ -945,7 +945,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Condivisione di applicazioni e archiviazione di condivisione desktop|No|No|No|No|No|No|No|
 |Configurazione di archiviazione a livello di utente|N.<sup>2</sup>|N.<sup>2</sup>|N.<sup>2</sup>|N.<sup>2</sup>|N.<sup>2</sup>|No|No|
 |File di traccia login|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|**[Interoperabilità tra Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Interoperabilità tra Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Interoperabilità della presenza con Exchange Server|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Interoperabilità della presenza con Exchange Online|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Interoperabilità della messaggistica unificata con Exchange Server|No|No|No|No|No|No|No|
@@ -955,7 +955,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Interoperabilità dell'archiviazione con Exchange Online|No|No|No|No|No|No|No|
 |Ricerca di competenze con SharePoint Server|No|No|No|No|No|No|No|
 |Ricerca di competenze con SharePoint Online|No|No|No|No|No|No|No|
-|**[Amministrazione e gestione di Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F1 gestito da 21Vianet**|
+|**[Amministrazione e gestione di Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Il portale di Microsoft Office 365|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Interfaccia di amministrazione di Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Interfaccia di amministrazione di Skype for Business|Sì|Sì<sup>3</sup>|Sì|Sì|Sì|Sì|No|
@@ -1069,6 +1069,42 @@ Nella tabella riportata di seguito sono elencati i piani di Office 365 che inclu
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
+
+## <a name="outlook-mobile-features"></a>Funzionalità di Outlook Mobile
+
+Nelle tabelle seguenti sono elencate le funzionalità e le piattaforme mobili di Outlook disponibili in tutti i servizi di Office 365 gestiti da 21Vianet.
+
+### <a name="mobile-platforms-supported"></a>Piattaforme mobili supportate
+
+|||
+|:-----|:-----|:-----|
+| |**Outlook per iOS (iPhone & iPad)**|**Outlook per Android**|
+|Office 365 gestito da 21Vianet|Sì|No|
+
+### <a name="mobile-features-supported"></a>Funzionalità per dispositivi mobili supportate
+
+|||
+|:-----|:-----|:-----|
+|**Caratteristica**|**Outlook per iOS (iPhone & iPad)**|**Outlook per Android**|
+|OneDrive for Business|No|ND|
+|Ricerca di utenti & calendario|No|ND|
+|& prenotazione in sala riunioni|No|ND|
+|Scheda luoghi|No|ND|
+|"LinkedIn" & "rapporti a" dati sulla scheda persone|No|ND|
+|Preferiti|No|ND|
+|Riprodurre i messaggi di posta elettronica|No|ND|
+|Componenti aggiuntivi|No|ND|
+|Gruppi|No|ND|
+|Risposta intelligente|No|ND|
+|Feed di Office|No|ND|
+|Tempo di uscita|No|ND|
+|CLP/MIL|No|ND|
+|Archiviazione Dropbox|No|ND|
+|Archiviazione di Google Drive|No|ND|
+|Archiviazione box|No|ND|
+|Calendario Facebook|No|ND|
+|Helpshift|No|ND|
+|UserVoice|No|ND|
 
 ## <a name="project-online-features"></a>Funzionalità di Project Online
 

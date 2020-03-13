@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali funzionalità di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172853"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609867"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -43,7 +43,7 @@ Per informazioni sulle funzionalità più recenti rilasciate, vedere [What ' s N
 
 Sono disponibili diversi piani per Office 365, in modo da rispondere alle esigenze della propria organizzazione. Per informazioni relative ai diversi piani, ad esempio le opzioni dei piani autonomi e le informazioni su come passare da un piano a un altro, vedere [Opzioni di piani di Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Per accedere a SharePoint, agli utenti dell'organizzazione deve essere assegnata una licenza che include SharePoint. Un piano di FIRSTLINE non viene venduto come offerta autonoma, solo come parte della sottoscrizione di FIRSTLINE. Gli utenti di FIRSTLINE non vedranno i menu di spostamento di SharePoint, quindi i lavoratori di FIRSTLINE devono passare ai siti di SharePoint direttamente dall'URL.
+Per accedere a SharePoint, agli utenti dell'organizzazione deve essere assegnata una licenza che include SharePoint. Un piano di FIRSTLINE non viene venduto come offerta autonoma, solo come parte della [sottoscrizione di FIRSTLINE](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Diritti degli ospiti
 
@@ -152,7 +152,7 @@ Per informazioni sulla disponibilità della chiave del cliente, vedere [come è 
 Se non diversamente specificato, le seguenti funzionalità sono disponibili in tutti i piani che includono SharePoint e tutti i piani autonomi di SharePoint:
 
 - [Accessibilità](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Aggiungere Microsoft teams ai siti](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Richiede un abbonamento che include Office 365 e richiede che l'utente venga concesso in licenza per i team.
+- [Aggiungere Microsoft teams ai siti](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Richiede un abbonamento che includa Office 365 e che l'utente disponga di una licenza di Teams.
 - [Gruppi di destinatari](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [Connettere i siti del team classico ai nuovi gruppi di Office 365](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Richiede un abbonamento che include Office 365.
 - [Creare un piano (Integration Planner)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Richiede un abbonamento che include Office 365 e richiede che l'utente venga concesso in licenza per Planner.
@@ -185,11 +185,11 @@ Se non diversamente specificato, le seguenti funzionalità sono disponibili in t
 - [Blocco appunti del team OneNote](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Temi (cambiare l'aspetto)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Web part](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Collaborare con il contenuto di SharePoint in Microsoft teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Richiede un abbonamento che include Office 365 e richiede che l'utente venga concesso in licenza per i team.
+- [Collaborare con il contenuto di SharePoint in Microsoft teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Richiede un abbonamento che includa Office 365 e che l'utente disponga di una licenza di Teams.
 
 Per ulteriori informazioni sulla disponibilità di Microsoft Power Apps e Power automatizzate, vedere le [domande frequenti sulle licenze di Power Apps e Power automatizzate](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Per informazioni sulle caratteristiche relative alla condivisione, vedere la [Descrizione del servizio OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+Per informazioni sulle caratteristiche relative alla condivisione, vedere la [Descrizione del servizio OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features).
 
 ## <a name="search-features"></a>Caratteristiche per la ricerca
 
