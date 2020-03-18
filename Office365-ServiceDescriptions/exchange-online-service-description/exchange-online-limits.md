@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 243e43803c7b9932491da75e64173433fb831309
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
+ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609927"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707067"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -479,7 +479,7 @@ L'elenco seguente include limiti che si applicano alle regole del Journal, alle 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Caratteristica**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Numero massimo di regole di journal|50 regole|50 regole|50 regole|50 regole|50 regole|50 regole|
+|Numero massimo di regole di journal|300 regole|300 regole|300 regole|300 regole|300 regole|300 regole|
 |Numero massimo di regole di trasporto|300 regole|300 regole|300 regole|300 regole|300 regole|300 regole|
 |Dimensione massima di una singola regola di trasporto|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Il limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
