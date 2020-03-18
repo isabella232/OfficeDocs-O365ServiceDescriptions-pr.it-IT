@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: In Yammer sono disponibili le seguenti funzionalità di amministrazione e sicurezza.
 ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263198"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688223"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Funzionalità di amministrazione e sicurezza in Yammer
 

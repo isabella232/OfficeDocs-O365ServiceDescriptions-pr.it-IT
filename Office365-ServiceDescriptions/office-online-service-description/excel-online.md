@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
 ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545799"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688027"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -90,7 +90,7 @@ I grafici e le tabelle Excel facilitano le operazioni di formattazione dei dati 
 
 ## <a name="check-spelling"></a>Controllo ortografico
 
-Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionare **Controlla** > **** > **ortografia**correzione. Per ulteriori informazioni, vedere [controllo ortografico](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionare **Controlla** > **Proofing** > **ortografia**correzione. Per ulteriori informazioni, vedere [controllo ortografico](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -284,7 +284,7 @@ Non disponibile in Excel per il Web. Se sul computer è installata l'app desktop
 
 Se si desidera una copia della cartella di lavoro, utilizzare il comando Salva con nome nella scheda File oppure fare clic con il pulsante destro del mouse sul nome della cartella che la contiene e utilizzare il comando Download per salvare una copia sul proprio computer.
   
-## <a name="share"></a>Condividi
+## <a name="share"></a>Condividere
 
 Con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni sull' [utilizzo di Office per il Web per collaborare in office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

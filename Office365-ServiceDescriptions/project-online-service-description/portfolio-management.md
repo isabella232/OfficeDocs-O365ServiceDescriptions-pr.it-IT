@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: In Project online sono disponibili le seguenti funzionalità di gestione del portfolio.
 ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546069"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688193"
 ---
 # <a name="portfolio-management"></a>Gestione portfolio
 

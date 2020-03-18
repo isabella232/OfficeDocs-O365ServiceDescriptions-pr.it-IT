@@ -1,5 +1,5 @@
 ---
-title: Funzionalità di collaborazione documenti in Yammer
+title: Funzionalità collaborazione documento in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: In Yammer sono disponibili le seguenti funzionalità di collaborazione documento.
 ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726369"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688015"
 ---
-# <a name="document-collaboration-features-in-yammer"></a>Funzionalità di collaborazione documenti in Yammer
+# <a name="document-collaboration-features-in-yammer"></a>Funzionalità collaborazione documento in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità di collaborazione documento.
   

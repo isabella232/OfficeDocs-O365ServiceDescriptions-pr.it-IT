@@ -1,5 +1,5 @@
 ---
-title: Funzionalità di supporto in Yammer
+title: Funzionalità supporto in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: In Yammer sono disponibili le seguenti funzionalità di supporto.
 ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726480"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688009"
 ---
-# <a name="support-features-in-yammer"></a>Funzionalità di supporto in Yammer
+# <a name="support-features-in-yammer"></a>Funzionalità supporto in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità di supporto.
   

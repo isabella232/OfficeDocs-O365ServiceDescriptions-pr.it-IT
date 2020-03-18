@@ -1,5 +1,5 @@
 ---
-title: Funzionalità di posta in arrivo in Yammer
+title: Funzionalità posta in arrivo in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.
 ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263167"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688012"
 ---
-# <a name="inbox-features-in-yammer"></a>Funzionalità di posta in arrivo in Yammer
+# <a name="inbox-features-in-yammer"></a>Funzionalità posta in arrivo in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.
   

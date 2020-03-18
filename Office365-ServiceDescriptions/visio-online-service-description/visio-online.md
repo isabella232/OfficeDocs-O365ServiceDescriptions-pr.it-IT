@@ -14,11 +14,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio per il Web estende l'esperienza di Microsoft Visio al browser, in cui è possibile creare e modificare i diagrammi salvati nel cloud. Microsoft Office 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio.
 ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700218"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688024"
 ---
 # <a name="visio-for-the-web"></a>Visio per il Web
 
@@ -64,7 +64,7 @@ In Visio per il Web, è possibile cercare ogni occorrenza di una parola, un nume
 
 In Visio per il Web, è possibile accedere direttamente ai collegamenti ipertestuali selezionando la forma.
   
-## <a name="navigation"></a>Navigazione
+## <a name="navigation"></a>Navigation
 
 In Visio per il Web, è possibile accedere ad altre pagine selezionando le schede nell'angolo in basso a sinistra.
   
