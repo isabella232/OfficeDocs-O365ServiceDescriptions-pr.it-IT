@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite istruzioni per la gestione delle licenze per Microsoft 365 Security & Compliance per evitare potenziali interruzioni del servizio a causa di un accesso non concesso in licenza.
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609917"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926339"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -168,6 +168,29 @@ Per informazioni sulla configurazione dei criteri di protezione delle app di Mic
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 Gli amministratori possono applicare le distribuzioni di MCAS agli utenti con licenza utilizzando le funzionalità di distribuzione con ambito disponibili nel servizio. Per ulteriori informazioni, vedere [distribuzione con ambito](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
+
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+Microsoft Defender ATP è una soluzione di sicurezza per endpoint che include la valutazione e la gestione delle vulnerabilità basate sui rischi; funzionalità di riduzione della superficie di attacco; protezione comportamentale e basata su cloud di prossima generazione; rilevamento e risposta dell'endpoint (EDR); analisi e correzione automatica; e servizi di caccia gestiti. Per ulteriori informazioni, vedere pagina [Microsoft Defender ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1) . 
+
+
+### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
+
+Gli utenti con licenza di Windows 10 Enterprise E5, Windows 10 Education a5, Microsoft 365 E5 (M365 E5), che include Windows 10 Enterprise E5, Microsoft 365 E5 Security, Microsoft 365 a5 (M365 a5) possono trarre vantaggio da Microsoft Defender ATP.
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Gli analisti di secops e i professionisti della sicurezza traggono vantaggio dalle funzionalità di sicurezza di endpoint di Microsoft Defender ATP per la protezione preventiva, il rilevamento post-violazione, l'analisi automatizzata e la risposta alle minacce avanzate. Gli utenti finali possono usufruire di eventi dannosi monitorati da Microsoft Defender ATP.
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+Per impostazione predefinita, le caratteristiche di Microsoft Defender ATP sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla distribuzione, vedere [Guida alla distribuzione](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+Gli amministratori ATP di Microsoft Defender possono utilizzare il [controllo di accesso basato sui ruoli (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) per creare ruoli e gruppi all'interno del team delle operazioni di sicurezza per concedere l'accesso appropriato al centro sicurezza Microsoft Defender.
+
 
 ## <a name="office-365-advanced-data-governance"></a>Office 365 Advanced Data Governance
 
