@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint per il Web (in precedenza PowerPoint Web App) estende l'esperienza di Microsoft PowerPoint al Web browser, in cui è possibile lavorare con le presentazioni direttamente sul sito Web in cui è archiviata la presentazione. Microsoft Office 365 i clienti con Office per il Web possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688083"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959324"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint per il Web
 
@@ -117,7 +117,7 @@ Non disponibile in PowerPoint per il Web. Con PowerPoint per il Web, è possibil
   
 ## <a name="navigation---slide-sorter"></a>Navigation-sequenza diapositive
 
-Non disponibile in PowerPoint per il Web. Visualizzazione sequenza diapositive, che consente di visualizzare le diapositive in formato di anteprima, semplificando l'ordinamento e l'organizzazione delle diapositive, non è disponibile in PowerPoint per il Web. Utilizzando l'app desktop PowerPoint, è possibile utilizzare la visualizzazione sequenza diapositive per organizzare le diapositive, aggiungere sezioni e ordinare diapositive in categorie diverse.
+La visualizzazione sequenza diapositive, che consente di visualizzare le diapositive in formato anteprima, rende più semplice ordinare e organizzare le diapositive. È possibile utilizzare la visualizzazione sequenza diapositive per organizzare le diapositive, aggiungere sezioni e ordinare diapositive in categorie diverse.
   
 ## <a name="offline-viewing-and-authoring"></a>Creazione e visualizzazione offline
 

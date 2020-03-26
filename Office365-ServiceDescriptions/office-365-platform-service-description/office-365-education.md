@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi&mdash;di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft&mdash;Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609967"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959294"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -39,13 +39,13 @@ Ogni piano di istruzione di Office 365 include una serie di servizi individuali,
 |Skype for Business online  <br/> |Sì<sup>7</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |
 |Office per il Web  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Applicazioni di Office  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Project Online  <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |
+|Project  <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |N<sup>° 1</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Yammer Academic  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Azure Information Protection<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project online non è incluso, ma può essere aggiunto gratuitamente al piano di istruzione di Office 365. <br/> 
+> <sup>1</sup> Microsoft Project non è incluso in Office 365 ma può essere acquisito separatamente. Project Online Essentials è gratuito. Se si è uno studente o un Istituto di istruzione, potrebbe essere possibile acquistare il piano di progetto 3 e il piano 5 a prezzi didattici.   <br/> 
 <sup>2</sup> per ulteriori informazioni sulle caratteristiche di Azure Information Protection incluse nei piani di Office 365, vedere [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/> 
 <sup>3</sup> Office 365 a5 contiene funzionalità di sistema telefonico, audioconferenza e piano di chiamata. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (Piano di chiamata nazionale o Piano di chiamata internazionale). <br/> <sup>4</sup> include Exchange Online piano 2. <br/> 
 <sup>5</sup> include Exchange Online piano 1 e caratteristiche aggiuntive. <br/> 
@@ -141,7 +141,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Aggiornamenti del servizio](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -639,7 +639,7 @@ I limiti di ricezione si applicano al numero di messaggi che un utente, un grupp
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Messaggi ricevuti  <br/> |3.600 messaggi all'ora  <br/> |3.600 messaggi all'ora  <br/> |3.600 messaggi all'ora  <br/> |
    
 #### <a name="sending-limits"></a>Limiti di invio
@@ -782,7 +782,7 @@ I seguenti limiti sono validi per Microsoft Exchange ActiveSync, un protocollo c
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Caratteristica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Limite di dispositivi Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Limite di eliminazione di dispositivi Exchange ActiveSync  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Limite del file allegato di Exchange ActiveSync  <br/> |25 MB  <br/> |25 MB   <br/> |25 MB   <br/> |

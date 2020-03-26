@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609897"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954813"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
+
+> [!IMPORTANT]
+> Microsoft teams sta vivendo un picco tremendo delle chiamate online e delle conferenze audio/video a causa della pandemia di coronavirus (COVID-19).<br/>
+> 
+>In risposta all'aumento senza precedenti delle chiamate e al fine di garantire la continuità e la disponibilità, Microsoft consente ai server audio/video di Microsoft teams GCC di sfruttare la capacità di elaborazione nei datacenter commerciali, nonché nei datacenter del governo.<br/>
+> 
+>Questi server audio/video risiedono all'interno dei server perimetrali di certificazione di Microsoft Azure FedRAMP High Accreditation negli Stati Uniti e non memorizzano alcun contenuto del cliente. Tuttavia, questi server stanno elaborando audio e video per le chiamate e le conferenze e operano sotto il nostro staff commerciale durante questo periodo intermedio.<br/>
+> 
+>Il personale qualificato e schermato sta monitorando questi server per poter accedere ai dati dei clienti tramite la revisione di eventuali log-ons interattivi su questi server. Personale qualificato soddisfare i requisiti di GCC per accedere al contenuto del cliente. Per informazioni dettagliate sulla schermatura dei requisiti, vedere la [Descrizione del servizio GCC](gcc.md).<br/>
+> 
+>La ringrazio per il supporto dato che è necessario eseguire le operazioni necessarie per garantire che i servizi rimangano disponibili e affidabili in questi periodi straordinari.<br/> 
 
 In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questa sezione viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365. Si consiglia di leggere questa sezione supplementare insieme alle descrizioni dei [servizi di Office 365 ](../../office-365-service-descriptions-technet-library.md).
   
@@ -231,7 +242,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Browser utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Sistema operativo utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
+|**[Aggiornamenti del servizio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |
