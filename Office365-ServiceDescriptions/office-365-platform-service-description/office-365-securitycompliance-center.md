@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza &amp; e conformità di Office 365 è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per la propria organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101125"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109436"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 
 <sup>8</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato.
 
-<sup>9</sup> è disponibile un componente aggiuntivo DLP che può essere aggiunto a qualsiasi SKU con Exchange o SharePoint/OneDrive.
+<sup>9</sup> richiede un componente aggiuntivo di prevenzione della perdita di dati di Office 365.
 
 <sup>10</sup> le etichette di riservatezza sono incluse anche in Azure Information Protection P1 e P2.
 
-<sup>11</sup> è richiesta una licenza di Exchange Online piano 2 per conservare il contenuto di una cassetta postale utente utilizzando un criterio di conservazione.
+<sup>11</sup> è richiesta una licenza di archiviazione di Exchange Online piano 2 o Exchange Online per conservare il contenuto di una cassetta postale utente utilizzando un criterio di conservazione.
 
 <sup>12</sup> Advanced audit fornisce una conservazione di un anno dei registri di controllo per le attività in Azure Active Directory, Exchange e SharePoint, nonché la possibilità di creare criteri di conservazione del registro di controllo personalizzati per gestire la conservazione del registro di controllo per altri servizi di Office 365. Consente inoltre di accedere a eventi cruciali per le indagini e l'accesso a larghezza di banda elevata all'API di attività di gestione di Office 365.
 
@@ -131,7 +131,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 
 <sup>8</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato.
 
-<sup>9</sup> è disponibile un componente aggiuntivo DLP che può essere aggiunto a qualsiasi SKU con Exchange o SharePoint/OneDrive.
+<sup>9</sup> richiede un componente aggiuntivo di prevenzione della perdita di dati di Office 365.
 
 <sup>10</sup> limitato ai file archiviati in OneDrive for business.
 
