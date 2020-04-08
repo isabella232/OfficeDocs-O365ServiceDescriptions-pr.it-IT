@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite istruzioni per la gestione delle licenze per Microsoft 365 Security & Compliance per evitare potenziali interruzioni del servizio a causa di un accesso non concesso in licenza.
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101115"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171142"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -323,7 +323,7 @@ L'abilitazione di PAM consente alle organizzazioni di operare con zero privilegi
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio? 
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/A5/G5 e Office 365 Advanced Compliance forniscono i diritti per un utente di trarre vantaggio da PAM.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 compliance e Microsoft 365 E5/A5 Insider Risk Management offrono i diritti per un utente di trarre vantaggio da PAM.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -444,23 +444,23 @@ Gli amministratori devono applicare le regole del flusso di posta per la crittog
 
 ## <a name="communication-compliance"></a>Conformità alla comunicazione
 
-La conformità alla comunicazione in Office 365 consente di creare criteri di supervisione per acquisire le comunicazioni dei dipendenti per l'esame da revisori designati. È possibile definire criteri specifici che consentono di acquisire messaggi di posta elettronica interni ed esterni, Microsoft teams o comunicazioni di terze parti nell'organizzazione. I revisori possono quindi esaminare i messaggi per assicurarsi che siano conformi agli standard dei messaggi dell'organizzazione e risolverli con il tipo di classificazione.
+La conformità alla comunicazione in Microsoft 365 consente di ridurre al minimo i rischi di comunicazione contribuendo a rilevare, acquisire e intraprendere azioni correttive per i messaggi inopportuni nell'organizzazione. È possibile definire criteri specifici che consentono di acquisire messaggi di posta elettronica interni ed esterni, Microsoft teams o comunicazioni di terze parti nell'organizzazione. I revisori possono eseguire azioni correttive appropriate per assicurarsi che siano conformi agli standard dei messaggi dell'organizzazione.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Gli utenti usufruiscono del servizio tramite le comunicazioni monitorate dai criteri di supervisione.
+Gli specialisti di conformità usufruiscono del servizio tramite le comunicazioni dell'organizzazione monitorate dai criteri di conformità della comunicazione.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance e Office 365 Advanced Compliance forniscono i diritti per un utente di trarre vantaggio dalla conformità della comunicazione.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 compliance e Microsoft 365 E5/A5 Insider Risk Management offrono i diritti per un utente di trarre vantaggio dalla conformità della comunicazione.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Gli amministratori creano criteri di supervisione nel centro sicurezza & conformità. Questi criteri definiscono le comunicazioni e gli utenti soggetti a revisione nell'organizzazione, definiscono le condizioni personalizzate che devono soddisfare le comunicazioni e specificano chi deve eseguire le revisioni.
+Gli amministratori e gli specialisti della conformità creano criteri di conformità della comunicazione nel centro conformità di Microsoft 365. Questi criteri definiscono le comunicazioni e gli utenti soggetti a revisione nell'organizzazione, definiscono le condizioni personalizzate che devono soddisfare le comunicazioni e specificano chi deve eseguire le revisioni.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori scelgono utenti o gruppi specifici da includere in un criterio di supervisione. Quando si sceglie un gruppo, è possibile selezionare anche utenti specifici del gruppo da escludere dai criteri di supervisione. Per ulteriori informazioni sulle politiche di supervisione, vedere [criteri di supervisione in Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies).
+Gli amministratori scelgono utenti o gruppi specifici da includere in un criterio di conformità della comunicazione. Quando si sceglie un gruppo, è possibile selezionare anche utenti specifici del gruppo da escludere dal criterio di conformità della comunicazione. Per ulteriori informazioni sui criteri di conformità della comunicazione, vedere [Communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Gestione dei rischi Insider
 
