@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
+ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609837"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43197962"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -85,13 +85,13 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |[Allegati sicuri](#safe-attachments)|Sì|Sì|Sì|
 |Allegati sicuri nei team|Sì|Sì|Sì|
 |[Collegamenti sicuri](#safe-links)|Sì|Sì|Sì|
-|Collegamenti sicuri nei team|No|No|No|
+|Collegamenti sicuri in Teams|Sì|Sì|Sì|
 |[ATP per SharePoint, OneDrive e Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sì|Sì|Sì|
 |[Criteri di anti-phishing](#anti-phishing-policies)|Sì|Sì|Sì|
 |[Rapporti in tempo reale](#real-time-reports)|Sì|Sì|Sì|
 |*Automazione, analisi, correzione e formazione*|
 |[Indicatori delle minacce](#threat-trackers)|No|Sì|Sì|
-|[Explorer](#explorer) (Advanced Threat Investigation)|No|Sì|Sì|
+|Indagine sulle minacce (Advanced Threat Investigation)|[Rilevamenti in tempo reale](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Risposta agli incidenti automatici](#automated-incident-response)|No|Sì|Sì|
 |[Simulatore di attacchi](#attack-simulator)|No|Sì|Sì|
 
@@ -116,6 +116,8 @@ I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
 - Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android
 
+- Canali e chat di Microsoft Teams
+
 > [!NOTE]
 > Gli utenti devono essere concessi in<sup>\*</sup>licenza per ATP, devono essere inclusi nei criteri dei collegamenti sicuri di ATP e devono essere firmati nei propri dispositivi affinché la protezione sia sul posto.
 >
@@ -125,7 +127,7 @@ I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP per SharePoint, OneDrive e Microsoft Teams
 
-[ATP per SharePoint, OneDrive e Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) aiuta a rilevare e bloccare i file identificati come dannosi nei siti e nelle raccolte documenti del team.
+[ATP per SharePoint, OneDrive e Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) aiuta a rilevare e bloccare i file identificati come dannosi nei siti e nelle raccolte documenti del team. Inoltre, la protezione per i collegamenti sicuri di ATP è ora disponibile nei canali e nelle chat di Microsoft teams.
 
 ### <a name="anti-phishing-policies"></a>Criteri di anti-phishing
 
@@ -135,15 +137,25 @@ Il [anti-phishing ATP](https://docs.microsoft.com/microsoft-365/security/office-
 
 Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità di Office 365 includono [rapporti in tempo reale e](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) informazioni che consentono agli amministratori di sicurezza e conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi di sicurezza o l'aumento di attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
 
-### <a name="threat-trackers"></a>Tracker delle minacce
-
-I [Tracker di minacce](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) sono widget e visualizzazioni informativi che forniscono agli utenti autorizzati informazioni sui problemi di Cybersecurity che possono influire sull'organizzazione.
-
 ### <a name="explorer"></a>Explorer
 
 Explorer (noto anche come Threat Explorer) è un report in tempo reale che consente agli utenti autorizzati di identificare e analizzare le minacce recenti. Per impostazione predefinita, questo report Visualizza i dati negli ultimi 7 giorni. Tuttavia, è possibile modificare le visualizzazioni per visualizzare i dati negli ultimi 30 giorni.
 
+Explorer contiene visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii, phishing e tutti i messaggi di posta elettronica.
+
 Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection Plan 2) e sui rilevamenti in tempo reale (in Office 365 Advanced Threat Protection Plan 1), vedere [Threat Explorer (e Real-Time detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="real-time-detections"></a>Rilevamenti in tempo reale
+
+Il rilevamento in tempo reale è un report in tempo reale che consente agli utenti autorizzati di identificare e analizzare le minacce recenti. Analogamente a Esplora risorse, per impostazione predefinita, questo report Visualizza i dati negli ultimi 7 giorni.
+
+I rilevamenti in tempo reale contengono visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii e phishing.
+
+Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection Plan 2) e sui rilevamenti in tempo reale (in Office 365 Advanced Threat Protection Plan 1), vedere [Threat Explorer (e Real-Time detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="threat-trackers"></a>Tracker delle minacce
+
+I [Tracker di minacce](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) sono widget e visualizzazioni informativi che forniscono agli utenti autorizzati informazioni sui problemi di Cybersecurity che possono influire sull'organizzazione.
 
 ### <a name="automated-incident-response"></a>Risposta agli incidenti automatici
 
