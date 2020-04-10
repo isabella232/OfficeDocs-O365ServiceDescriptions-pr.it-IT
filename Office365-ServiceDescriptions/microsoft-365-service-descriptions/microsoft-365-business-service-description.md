@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business è una soluzione integrata che unisce la produttività Best-in-Class di Office 365 con funzionalità avanzate di gestione dei dispositivi e sicurezza per salvaguardare la propria azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109446"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206623"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrizione del servizio Microsoft 365 Business
 
@@ -25,7 +25,6 @@ Microsoft 365 business è una soluzione integrata che unisce la produttività Be
 
 Microsoft 365 business include essenzialmente tutte le funzionalità disponibili in Office 365 Business Premium insieme a altre funzionalità di sicurezza di Office 365.
 
-Microsoft 365 business include le seguenti funzionalità di Azure AD Premium P1: reimpostazione della password in modalità self-service con Write-back di Active Directory, autenticazione a più fattori di Azure e accesso condizionale. Non include la totalità di Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
