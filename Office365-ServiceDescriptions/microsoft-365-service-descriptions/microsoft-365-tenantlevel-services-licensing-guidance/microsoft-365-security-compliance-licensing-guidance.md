@@ -5,18 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
+ms.date: 4/10/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite istruzioni per la gestione delle licenze per Microsoft 365 Security & Compliance per evitare potenziali interruzioni del servizio a causa di un accesso non concesso in licenza.
-ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
-ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
+ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215115"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230796"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -37,7 +38,7 @@ Gli analisti e i professionisti della sicurezza di secops traggono vantaggio dal
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security e Azure Active Directory Premium Plan 2 forniscono i diritti per un utente di trarre vantaggio da Azure Active Directory Identity Protection.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security e Azure Active Directory Premium Plan 2 forniscono i diritti per un utente di trarre vantaggio dalla protezione delle identità di Azure Active Directory.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -57,7 +58,7 @@ Gli analisti di SecOp e i professionisti della sicurezza traggono vantaggio dall
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security e la protezione avanzata dalle minacce di Azure per gli utenti forniscono i diritti per trarre vantaggio da Azure ATP.
+La sicurezza di Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 e la protezione avanzata dalle minacce di Azure per gli utenti offrono i diritti per trarre vantaggio da Azure ATP.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -77,7 +78,7 @@ ATP protegge gli utenti da attacchi sofisticati, come il phishing e il malware z
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 business e Office 365 ATP piani 1 e 2 forniscono i diritti per un utente di trarre vantaggio da Office 365 Advanced Threat Protection.
+Office 365 Advanced Threat Protection, Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security, Microsoft 365 business e Office 365 ATP piani 1 e 2 forniscono i diritti per un utente di trarre vantaggio da Office 365 Advanced Threat Protection.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -313,7 +314,7 @@ Gli amministratori possono abilitare i controlli archivio clienti all'interno de
 
 Microsoft fornisce richieste di approvazione per gli utenti dell'organizzazione del controllo di accesso ai clienti all'interno di Office 365.
 
-## <a name="privileged-access-management-in-office-365"></a>Gestione degli accessi con privilegi in Office 365
+## <a name="privileged-access-management-in-office-365"></a>Gestione degli accessi privilegiati in Office 365
 
 [Gestione accessi con privilegi (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) fornisce il controllo di accesso granulare sulle attività di amministratore privilegiate in Office 365. Dopo aver abilitato PAM, gli utenti dovranno richiedere l'accesso just-in-time tramite un flusso di lavoro di approvazione estremamente ambito e con un limite di tempo per completare le attività elevate e con privilegi.
 
