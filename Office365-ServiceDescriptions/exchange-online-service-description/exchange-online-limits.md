@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: High
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
-ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
+ms.openlocfilehash: cc3abf1d5b2efa529a40851b1b8e536dcc3bc944
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707067"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285532"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -355,12 +355,13 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Caratteristica**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite di frequenza destinatario<sup>1</sup>|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|
-|Limite destinatari|500 destinatari|1000 destinatari|1000 destinatari|1000 destinatari|1000 destinatari|1000 destinatari|
+|Limite destinatario<sup>2</sup>|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|
 |Limite di indirizzi proxy del destinatario|400|400|400|400|400|400|
 |Limite di frequenza dei messaggi|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|
 
 > [!NOTE]
 > <sup>1</sup> dopo il raggiungimento del limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5.000 destinatari alle 09:00, quindi Invia un altro messaggio a 2, 1000 destinatari a 10:00 AM e quindi Invia un altro messaggio a 2.500 destinatari a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
+> <sup>2</sup> è possibile personalizzare i limiti dei destinatari tra 1 e 1000 per le cassette postali esistenti e per nuove cassette postali che verranno create in futuro. Modificare il limite dei destinatari per le cassette postali esistenti singolarmente o in blocco utilizzando l'interfaccia di amministrazione di Exchange e personalizzare l'impostazione predefinita per le nuove cassette postali tramite Remote PowerShell. Per ulteriori informazioni, vedere [limiti per i destinatari personalizzabili in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
 
 #### <a name="sending-limits-across-standalone-options"></a>Limiti di invio nelle opzioni autonome
 
