@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
-ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
+ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
+ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43285552"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529219"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -96,7 +96,7 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |[Simulatore di attacchi](#attack-simulator)|No|Sì|Sì|
 
 > [!TIP]
-> Si desidera un elenco scaricabile delle differenze tra Office 365 ATP piano 1 e piano 2? [Ottenere il file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
+> Si desidera un elenco scaricabile delle differenze tra Office 365 ATP piano 1 e piano 2? [Ottenere il file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Funzionalità avanzate di protezione dalle minacce (ATP)
 
@@ -144,7 +144,7 @@ Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità 
 
 Explorer (noto anche come Threat Explorer) è un report in tempo reale che consente agli utenti autorizzati di identificare e analizzare le minacce recenti. Per impostazione predefinita, questo report Visualizza i dati negli ultimi 7 giorni. Tuttavia, è possibile modificare le visualizzazioni per visualizzare i dati negli ultimi 30 giorni.
 
-Explorer contiene visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii, phishing e tutti i messaggi di posta elettronica. Per visualizzare il confronto tra Explorer e i rilevamenti in tempo reale, [scaricare questo file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
+Explorer contiene visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii, phishing e tutti i messaggi di posta elettronica. Per visualizzare il confronto tra Explorer e i rilevamenti in tempo reale, [scaricare questo file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
 Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection Plan 2) e sui rilevamenti in tempo reale (in Office 365 Advanced Threat Protection Plan 1), vedere [Threat Explorer (e Real-Time detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
@@ -152,7 +152,7 @@ Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection
 
 Il rilevamento in tempo reale è un report in tempo reale che consente agli utenti autorizzati di identificare e analizzare le minacce recenti. Analogamente a Esplora risorse, per impostazione predefinita, questo report Visualizza i dati negli ultimi 7 giorni.
 
-I rilevamenti in tempo reale contengono visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii e phishing. Per vedere come i rilevamenti in tempo reale si confrontano con Explorer, [scaricare questo file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
+I rilevamenti in tempo reale contengono visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii e phishing. Per vedere come i rilevamenti in tempo reale si confrontano con Explorer, [scaricare questo file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
 Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection Plan 2) e sui rilevamenti in tempo reale (in Office 365 Advanced Threat Protection Plan 1), vedere [Threat Explorer (e Real-Time detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
