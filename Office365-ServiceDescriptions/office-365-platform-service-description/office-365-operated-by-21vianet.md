@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609937"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581978"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -154,7 +154,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Aggiornamenti dei servizi](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
+|**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate al centro messaggi quando l'azione è obbligatoria, viene risolto un problema, vengono distribuite le funzionalità o le modifiche del servizio|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) per alcuni aggiornamenti del servizio|Sì|--|Sì|Sì|Sì|Sì|Sì|
@@ -481,7 +481,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Gestione del dominio](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|Sì<sup>3</sup>|Sì<sup>3</sup>|
 |[Corrispondenza sottodomini](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|Sì|Sì|
 |[DBEB (Directory Based Edge Blocking)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|No|Sì|
-|[Regole dei flussi di posta](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Sì<sup>3, 4, 11</sup>|Sì<sup>3, 4, 11</sup>|
+|[Regole del flusso di posta](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Sì<sup>3, 4, 11</sup>|Sì<sup>3, 4, 11</sup>|
 |[Registrazione di controllo](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|Sì<sup>5</sup>|Sì|
 |[Prevenzione della perdita di dati (DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|No|No|
 |[Crittografia dei messaggi di Office 365](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Sì<sup>13</sup>|Sì<sup>13</sup>|
@@ -1070,41 +1070,31 @@ Nella tabella riportata di seguito sono elencati i piani di Office 365 che inclu
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Funzionalità di Outlook Mobile
+## <a name="outlook-features-for-ios-and-android"></a>Funzionalità di Outlook per iOS e Android
 
-Nelle tabelle seguenti sono elencate le funzionalità e le piattaforme mobili di Outlook disponibili in tutti i servizi di Office 365 gestiti da 21Vianet.
+Office 365 gestito da 21Vianet supporta sia Outlook per iOS che Outlook per Android.
 
-### <a name="mobile-platforms-supported"></a>Piattaforme mobili supportate
+Le seguenti funzionalità per dispositivi mobili non sono supportate:
 
-|||
-|:-----|:-----|:-----|
-| |**Outlook per iOS (iPhone & iPad)**|**Outlook per Android**|
-|Office 365 gestito da 21Vianet|Sì|No|
-
-### <a name="mobile-features-supported"></a>Funzionalità per dispositivi mobili supportate
-
-|||
-|:-----|:-----|:-----|
-|**Caratteristica**|**Outlook per iOS (iPhone & iPad)**|**Outlook per Android**|
-|OneDrive for Business|No|ND|
-|Ricerca di utenti & calendario|No|ND|
-|& prenotazione in sala riunioni|No|ND|
-|Scheda luoghi|No|ND|
-|"LinkedIn" & "rapporti a" dati sulla scheda persone|No|ND|
-|Preferiti|No|ND|
-|Riprodurre i messaggi di posta elettronica|No|ND|
-|Componenti aggiuntivi|No|ND|
-|Gruppi|No|ND|
-|Risposta intelligente|No|ND|
-|Feed di Office|No|ND|
-|Tempo di uscita|No|ND|
-|CLP/MIL|No|ND|
-|Archiviazione Dropbox|No|ND|
-|Archiviazione di Google Drive|No|ND|
-|Archiviazione box|No|ND|
-|Calendario Facebook|No|ND|
-|Helpshift|No|ND|
-|UserVoice|No|ND|
+- OneDrive for business (supportato solo su Android)
+- Ricerca di utenti & calendario
+- & prenotazione in sala riunioni
+- Scheda luoghi
+- "LinkedIn" & "rapporti a" dati sulla scheda persone
+- Preferiti
+- Riprodurre i messaggi di posta elettronica
+- Componenti aggiuntivi
+- Gruppi
+- Risposta intelligente
+- Feed di Office
+- Tempo di uscita
+- Etichettatura della sensibilità per la protezione delle informazioni di Microsoft
+- Archiviazione Dropbox
+- Archiviazione di Google Drive
+- Archiviazione box
+- Calendario Facebook
+- Helpshift
+- UserVoice
 
 ## <a name="project-online-features"></a>Funzionalità di Project Online
 
