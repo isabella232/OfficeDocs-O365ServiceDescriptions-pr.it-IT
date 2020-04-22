@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio della piattaforma Office 365
+title: Descrizione del servizio piattaforma Microsoft 365 e Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: 2e706ea6dcb85b03a40fb6790b058ceb2c23be20
+ms.sourcegitcommit: 5a76557af16611192b978d84c0b01f23edaab746
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093573"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43725135"
 ---
 # <a name="office-365-platform-service-description"></a>Descrizione del servizio della piattaforma Office 365
 
-Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Office 365, compresi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
+Microsoft 365 e Office 365 sono disponibili in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
   
-Microsoft Office 365 mette la potenza del cloud a disposizione delle aziende di tutte le dimensioni per aiutarle a risparmiare tempo e denaro e a liberare preziose risorse. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
+Microsoft 365 e Office 365 offrono la potenza della produttività cloud alle aziende di tutte le dimensioni, contribuendo a risparmiare tempo, denaro e liberare risorse valutate. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
   
-Per confrontare le funzionalità tra i piani, vedere [confrontare i piani di Office 365 per le aziende](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o, per un elenco più dettagliato delle caratteristiche, vedere la descrizione del servizio pertinente nelle descrizioni dei servizi di [Office 365 ](../office-365-service-descriptions-technet-library.md).
+Per confrontare le funzionalità tra i piani, vedere [confrontare i piani](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o, per un elenco più dettagliato delle caratteristiche, vedere la descrizione del servizio pertinente nelle descrizioni dei [servizi di Office 365 ](../office-365-service-descriptions-technet-library.md).
   
 - Per informazioni sui piani di Office 365 Education, visitare innanzitutto la pagina [Office 365 Education](office-365-education.md). 
     
@@ -65,7 +65,7 @@ Per informazioni su dove sono archiviati i dati, vedere la [mappa di archiviazio
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Funzionalità multi-Geo in Office 365
 
-Multi-Geo consente a un singolo tenant di Office 365 di suddividere più aree geografiche di Office 365 datacenter e consente di archiviare i dati di Office 365 per Exchange Online e OneDrive for business, a riposo, in base ai singoli utenti, nella geografia scelta. 
+Multi-Geo consente a una singola organizzazione di suddividere più aree geografiche di Office 365 datacenter e consente di archiviare i dati di Office 365 per Exchange Online e OneDrive for business, a riposo, in base ai singoli utenti, nella propria area geografica prescelta. 
   
 Disponibile GEOS: Asia-Pacifico, Australia, Canada, Unione europea, India, Giappone, Corea, Regno Unito, Stati Uniti. 
   
@@ -77,7 +77,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma O
   
 Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani per diversi tipi di aziende, vedere le pagine seguenti:
   
-- Business: [Piani e prezzi di Office 365 Business](https://go.microsoft.com/fwlink/?LinkID=827896)
+- Business: [Microsoft 365 per piani aziendali e prezzi](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - Istruzione: [Piani e prezzi di Office 365 Education](https://go.microsoft.com/fwlink/?LinkID=827897)
     
