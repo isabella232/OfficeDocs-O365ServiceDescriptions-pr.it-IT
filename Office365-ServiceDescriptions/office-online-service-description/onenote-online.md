@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Utilizzare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Utilizzare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
+ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545769"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640224"
 ---
 # <a name="onenote-for-the-web"></a>OneNote per il Web
 
-Utilizzare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web. 
+Utilizzare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Collaborazione avanzata: i nuovi contenuti vengono mostrati come non letti, presenza
 
@@ -97,7 +97,7 @@ Non disponibile in OneNote per il Web. Con l'app desktop OneNote, è possibile d
 
 La possibilità di collegare gli appunti ai file non è disponibile in OneNote per il Web e i collegamenti ai file sono nascosti. Tuttavia, vengono conservati nelle note in modo che sia possibile aprirli con l'app desktop OneNote. 
   
-## <a name="navigation"></a>Navigation
+## <a name="navigation"></a>Navigazione
 
 Con OneNote per il Web, è possibile utilizzare i pulsanti avanti e indietro in stile browser sulla barra di accesso rapido per passare rapidamente da una pagina all'altra.
   
@@ -176,6 +176,6 @@ Con OneNote per il Web, è possibile visualizzare e ripristinare le versioni pre
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Office per la descrizione del servizio Web](office-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Office per la descrizione del servizio Web](office-online-service-description.md).
   
 

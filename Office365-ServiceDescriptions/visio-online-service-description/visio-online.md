@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio per il Web estende l'esperienza di Microsoft Visio al browser, in cui è possibile creare e modificare i diagrammi salvati nel cloud. Microsoft Office 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio.
-ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Visio per il Web estende l'esperienza di Microsoft Visio al browser, in cui è possibile creare e modificare i diagrammi salvati nel cloud. Microsoft 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio.
+ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688024"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640094"
 ---
 # <a name="visio-for-the-web"></a>Visio per il Web
 
-Visio per il Web estende l'esperienza di Microsoft Visio al browser, in cui è possibile creare e modificare i diagrammi salvati nel cloud. Microsoft Office 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio. Se si dispone di un abbonamento a Visio, è possibile utilizzare funzionalità aggiuntive, ad esempio quelle descritte nelle sezioni seguenti.
+Visio per il Web estende l'esperienza di Microsoft Visio al browser, in cui è possibile creare e modificare i diagrammi salvati nel cloud. Microsoft 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio. Se si dispone di un abbonamento a Visio, è possibile utilizzare funzionalità aggiuntive, ad esempio quelle descritte nelle sezioni seguenti.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Applicazione della formattazione avanzata a testo e forme
 
@@ -64,7 +64,7 @@ In Visio per il Web, è possibile cercare ogni occorrenza di una parola, un nume
 
 In Visio per il Web, è possibile accedere direttamente ai collegamenti ipertestuali selezionando la forma.
   
-## <a name="navigation"></a>Navigation
+## <a name="navigation"></a>Navigazione
 
 In Visio per il Web, è possibile accedere ad altre pagine selezionando le schede nell'angolo in basso a sinistra.
   

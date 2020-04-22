@@ -1,5 +1,5 @@
 ---
-title: Funzionalità di individuazione in Yammer
+title: Funzionalità individuazione in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: In Yammer sono disponibili le seguenti funzionalità di rilevazione.
-ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 44f959480415dc1d4eba7b3159fb46e38d153da0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263097"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640074"
 ---
-# <a name="discovery-features-in-yammer"></a>Funzionalità di individuazione in Yammer
+# <a name="discovery-features-in-yammer"></a>Funzionalità individuazione in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità di rilevazione.
   
@@ -45,6 +45,6 @@ La ricerca full-text consente di trovare rapidamente file, note, conversazioni, 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
   
   

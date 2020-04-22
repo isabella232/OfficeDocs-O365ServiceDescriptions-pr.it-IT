@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione di Microsoft Exchange Online Archiving.
-ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987578"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639835"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione in Exchange Online Archiving
 
@@ -68,7 +68,7 @@ Se un utente ha rimosso manualmente un elemento dalla cartella Elementi recupera
   
 ## <a name="deleted-mailbox-recovery"></a>Recupero di cassette postali eliminate
 
-Quando gli amministratori eliminano gli utenti da un server di Exchange locale, vengono eliminati anche gli archivi degli utenti. Nel caso in cui sia necessario recuperare le cassette postali di archiviazione eliminate, il team di supporto per Office 365 può effettuare tale operazione. Un archivio recuperato contiene tutti i dati in esso memorizzati nel momento in cui è stato eliminato.
+Quando gli amministratori eliminano gli utenti da un server di Exchange locale, vengono eliminati anche gli archivi degli utenti. Se le cassette postali di archiviazione eliminate devono essere recuperate, il team del supporto tecnico Microsoft può eseguire questo ripristino. Un archivio recuperato contiene tutti i dati in esso memorizzati nel momento in cui è stato eliminato.
   
 > [!IMPORTANT]
 > Per richiedere il recupero della cassetta postale di archiviazione, gli amministratori hanno a disposizione 30 giorni dal momento in cui la cassetta postale dell'utente è stata eliminata. Dopo 30 giorni, la cassetta postale di archiviazione non è più recuperabile. 
@@ -79,5 +79,5 @@ Le cassette postali di archiviazione in Archiviazione Exchange Online vengono re
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Exchange Online Archiving Service Description](exchange-online-archiving-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Exchange Online Archiving Service Description](exchange-online-archiving-service-description.md).
   

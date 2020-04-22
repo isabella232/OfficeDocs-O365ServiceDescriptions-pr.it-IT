@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529209"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639804"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -78,7 +78,7 @@ ATP protegge gli utenti da attacchi sofisticati, come il phishing e il malware z
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security, Microsoft 365 business e Office 365 ATP piani 1 e 2 forniscono i diritti per un utente di trarre vantaggio da Office 365 Advanced Threat Protection.
+Office 365 Advanced Threat Protection, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 Business Premium e Office 365 ATP piani 1 e 2 forniscono i diritti per un utente di trarre vantaggio dalla protezione avanzata dalle minacce.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -102,7 +102,7 @@ Per confrontare le funzionalità, vedere [differenze tra Microsoft cloud app Sec
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-OCAS rileva Shadow IT, fornisce una protezione dalle minacce in Office 365 e può controllare quali app dispongono dell'autorizzazione per accedere ai dati di Office 365.
+OCAS rileva Shadow IT, fornisce protezione dalle minacce in Office 365 e può controllare quali app dispongono dell'autorizzazione per l'accesso ai dati.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
@@ -288,7 +288,7 @@ Le chiavi di crittografia per i clienti di Office 365 possono essere abilitate p
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Per assegnare le chiavi di crittografia ai dati all'interno di un tenant di Office 365 e/o Microsoft 365 per gli utenti con licenza, seguire le istruzioni per la distribuzione delle chiavi di crittografia del cliente.
+Per assegnare le chiavi di crittografia ai dati all'interno di un'organizzazione di Office 365 e/o Microsoft 365 per gli utenti con licenza, seguire le istruzioni per la distribuzione delle chiavi di crittografia del cliente.
 
 - Per i file di SharePoint Online, OneDrive for business e teams, i file in uno o più siti possono essere crittografati utilizzando la chiave del cliente.
 
@@ -312,7 +312,7 @@ Gli amministratori possono abilitare i controlli archivio clienti all'interno de
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Microsoft fornisce richieste di approvazione per gli utenti dell'organizzazione del controllo di accesso ai clienti all'interno di Office 365.
+Microsoft fornisce le richieste di approvazione per gli utenti dell'organizzazione nell'archivio di controllo di accesso ai clienti.
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestione degli accessi privilegiati in Office 365
 
@@ -352,7 +352,7 @@ Per impostazione predefinita, i messaggi di posta elettronica di Exchange Online
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità di Office 365, in**posizioni**di **prevenzione** > della perdita di dati.
+Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità, in**posizioni**di **prevenzione** > della perdita di dati.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevenzione della perdita dei dati di comunicazione per i team
 
@@ -372,7 +372,7 @@ Per impostazione predefinita, i messaggi chat e il canale dei team sono un *perc
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità di Office 365, in**posizioni**di **prevenzione** > della perdita di dati.
+Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità, in**posizioni**di **prevenzione** > della perdita di dati.
 
 ## <a name="information-barriers"></a>Barriere informative
 
@@ -399,13 +399,13 @@ Gli amministratori creano e gestiscono i criteri di barriera delle informazioni 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità di Office 365. Ad esempio, se tutti gli utenti sono concessi in licenza per Office 365 E3 e nessuno viene concesso in licenza per Office 365 Advanced Compliance/E5, non è necessario creare criteri di barriera delle informazioni per l'organizzazione. Per ulteriori informazioni, vedere [barriere informative in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & Compliance. Ad esempio, se tutti gli utenti sono concessi in licenza per Office 365 E3 e nessuno viene concesso in licenza per Office 365 Advanced Compliance/E5, non è necessario creare criteri di barriera delle informazioni per l'organizzazione. Per ulteriori informazioni, vedere [barriere informative in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 
 Crittografia messaggi di Office 365 (OME) è un servizio basato su Azure Rights Management (Azure RMS) che consente di inviare posta elettronica crittografata a destinatari interni o esterni all'organizzazione, indipendentemente dall'indirizzo di posta elettronica di destinazione (Gmail, Yahoo! Mail, Outlook.com e così via).
 
-Per visualizzare messaggi crittografati, i destinatari possono ottenere un passcode monouso, accedere con un account Microsoft oppure accedere con un account aziendale o dell'istituto di istruzione associato a Office 365. I destinatari possono anche inviare risposte crittografate. Non è necessario un abbonamento a Office 365 per visualizzare i messaggi crittografati o inviare risposte crittografate.
+Per visualizzare messaggi crittografati, i destinatari possono ottenere un passcode monouso, accedere con un account Microsoft oppure accedere con un account aziendale o dell'istituto di istruzione associato a Office 365. I destinatari possono anche inviare risposte crittografate. Non è necessario un abbonamento per visualizzare i messaggi crittografati o inviare risposte crittografate.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -504,7 +504,7 @@ Per impostazione predefinita, le funzionalità di accesso condizionale sono abil
 
 Per la protezione delle identità e l'accesso condizionale in particolare, un utente deve essere incluso in un gruppo o essere aggiunto a un criterio di accesso condizionale. La condizione degli utenti e dei gruppi è obbligatoria in un criterio di accesso condizionale. Nei criteri è possibile selezionare **tutti gli utenti** o gli utenti e i gruppi specifici. È necessario selezionare solo gli utenti e i gruppi con licenza appropriata. Per ulteriori informazioni, vedere [quali sono le condizioni nell'accesso condizionale di Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
 
-## <a name="advanced-audit"></a>Controllo avanzato
+## <a name="advanced-audit"></a>Audit avanzato
 
 Advanced audit in Microsoft 365 fornisce una conservazione annuale dei registri di controllo per le attività di utenti e amministratori e fornisce la possibilità di creare criteri di conservazione del registro di controllo personalizzati per gestire la conservazione del registro di controllo per altri servizi di Microsoft 365. Consente inoltre di accedere a eventi cruciali per le indagini e l'accesso a larghezza di banda elevata all'API di attività di gestione di Office 365. Per ulteriori informazioni, vedere [Advanced audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 

@@ -1,5 +1,5 @@
 ---
-title: Caratteristiche del gruppo in Yammer
+title: Funzionalità gruppo in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: In Yammer sono disponibili le seguenti funzionalità del gruppo.
-ms.openlocfilehash: d362905170141d3bd838b342971816168821106e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 873698fbe21f1be210fb89271bce0365ea4e69a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263178"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640054"
 ---
-# <a name="group-features-in-yammer"></a>Caratteristiche del gruppo in Yammer
+# <a name="group-features-in-yammer"></a>Funzionalità gruppo in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità del gruppo.
   
-## <a name="announcements"></a>Announcements
+## <a name="announcements"></a>Annunci
 
 Condividere un annuncio con un gruppo per inviare immediatamente ai membri una notifica di aggiornamenti importanti. Gli amministratori possono aggiungere annunci a un gruppo per semplificare l'individuazione.
   
@@ -37,5 +37,5 @@ Aggiungere e assegnare la priorità ai gruppi correlati a quelli che sono già s
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
   

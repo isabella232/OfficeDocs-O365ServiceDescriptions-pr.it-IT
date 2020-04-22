@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529219"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640144"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -33,9 +33,9 @@ Di seguito sono riportati i modi principali in cui è possibile utilizzare ATP p
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilità di Office 365 Advanced Threat Protection (ATP)
 
-ATP è incluso in Office 365 Enterprise E5, Office 365 Education a5 e Microsoft 365 business.
+ATP è incluso in Office 365 Enterprise E5, Office 365 Education a5 e Microsoft 365 Business Premium.
 
-È possibile aggiungere ATP ai seguenti piani di abbonamento di Exchange e Office 365:
+È possibile aggiungere ATP ai piani di sottoscrizione di Exchange e Microsoft 365 seguenti:
 
 - Exchange Online Piano 1
 
@@ -45,9 +45,9 @@ ATP è incluso in Office 365 Enterprise E5, Office 365 Education a5 e Microsoft 
 
 - Exchange Online Protection
 
-- Office 365 Business Essentials
+- Microsoft 365 Business Basic
 
-- Office 365 Business Premium
+- Microsoft 365 business standard
 
 - Office 365 Enterprise E1
 
@@ -61,7 +61,7 @@ ATP è incluso in Office 365 Enterprise E5, Office 365 Education a5 e Microsoft 
 
 Per acquistare Office 365 Advanced Threat Protection, vedere [Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Per confrontare le funzionalità tra i piani, vedere [confrontare i piani di Office 365 per le aziende](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) e [individuare la soluzione Microsoft 365 Enterprise adatta all'utente](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Per confrontare le funzionalità tra i piani, vedere [confrontare i piani di microsoft 365 Apps for business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) e [individuare la soluzione Microsoft 365 Enterprise più adatta a te](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Novità in Office 365 Advanced Threat Protection (ATP)
 
@@ -87,7 +87,7 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |[Collegamenti sicuri](#safe-links)|Sì|Sì|Sì|
 |Collegamenti sicuri in Teams|Sì|Sì|Sì|
 |[ATP per SharePoint, OneDrive e Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sì|Sì|Sì|
-|[Criteri di anti-phishing](#anti-phishing-policies)|Sì|Sì|Sì|
+|[Criteri anti-phishing](#anti-phishing-policies)|Sì|Sì|Sì|
 |[Rapporti in tempo reale](#real-time-reports)|Sì|Sì|Sì|
 |*Automazione, analisi, correzione e formazione*|
 |[Indicatori delle minacce](#threat-trackers)|No|Sì|Sì|
@@ -113,7 +113,7 @@ La funzionalità [ATP Safe Links](https://docs.microsoft.com/microsoft-365/secur
 
 I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
-- Office 365 ProPlus in Windows o Mac
+- Microsoft 365 Apps for Enterprise su Windows o Mac
 
 - Office per il Web (Word per il Web, Excel per il Web, PowerPoint per il Web e OneNote per il Web)
 
@@ -132,13 +132,13 @@ I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
 [ATP per SharePoint, OneDrive e Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) aiuta a rilevare e bloccare i file identificati come dannosi nei siti e nelle raccolte documenti del team. Inoltre, la protezione per i collegamenti sicuri di ATP è ora disponibile nei canali e nelle chat di Microsoft teams.
 
-### <a name="anti-phishing-policies"></a>Criteri di anti-phishing
+### <a name="anti-phishing-policies"></a>Criteri anti-phishing
 
 Il [anti-phishing ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) verifica i messaggi in arrivo per gli indicatori che un messaggio potrebbe essere un tentativo di phishing. Quando gli utenti sono coperti da criteri ATP (allegati sicuri, collegamenti sicuri o anti-phishing), i messaggi in arrivo vengono valutati da più modelli di apprendimento automatico che analizzano i messaggi e viene eseguita l'azione appropriata, in base ai criteri configurati.
 
 ### <a name="real-time-reports"></a>Rapporti in tempo reale
 
-Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità di Office 365 includono [rapporti in tempo reale e](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) informazioni che consentono agli amministratori di sicurezza e conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi di sicurezza o l'aumento di attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
+Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità includono [report in tempo reale e informazioni dettagliate](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) che consentono agli amministratori di sicurezza e conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi di sicurezza o l'aumento di attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
 
 ### <a name="explorer"></a>Explorer
 

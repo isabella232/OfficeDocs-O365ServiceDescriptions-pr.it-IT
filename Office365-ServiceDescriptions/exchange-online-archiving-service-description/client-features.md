@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Archiviazione Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di dispositivi e piattaforme. Tutta la connettività di rete all'archivio dell'utente si verifica su Internet e le connessioni VPN (Virtual Private Network) non sono necessarie. Le organizzazioni possono pubblicare un server Client Access in locale per consentire agli utenti di accedere alla cassetta postale principale tramite Outlook Anywhere, senza richiedere una connessione VPN. Se viene richiesto l'accesso VPN per accedere alla cassetta postale principale dell'utente situata su un server in locale, tale requisito non viene modificato.
-ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260711"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639724"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Funzionalità client in archiviazione Exchange Online
 
@@ -38,7 +38,7 @@ Outlook 2010 e versioni successive e Outlook sul Web offrono agli utenti le funz
 Outlook 2007 offre funzionalità di supporto di base per l'archivio, ma non include tutte le funzionalità di archiviazione e conformità. In Outlook 2007, ad esempio, gli utenti non possono applicare criteri di conservazione o di archiviazione agli elementi nelle loro cassette postali, ma devono basarsi su criteri configurati dall'amministratore. Gli utenti di Outlook 2007 devono disporre dell'aggiornamento cumulativo di Office 2007 del febbraio 2011 per poter accedere all'archivio.
   
 > [!NOTE]
-> Outlook non viene fornito con Archiviazione Exchange Online. Alcuni piani di Office 365 includono Microsoft Office 365 ProPlus, che contiene Microsoft Outlook, e può essere acquistato tramite una sottoscrizione separata. Per ulteriori informazioni, vedere [Opzioni di piano di Office 365](../office-365-platform-service-description/office-365-plan-options.md). Per ulteriori informazioni su Office 365 ProPlus, vedere la [Descrizione del servizio applicazioni di Office](../office-applications-service-description/office-applications-service-description.md). 
+> Outlook non viene fornito con Archiviazione Exchange Online. Microsoft 365 Apps for Enterprise (che include Microsoft Outlook) è incluso in alcuni piani e può essere acquistato come sottoscrizione separata. Per ulteriori informazioni, vedere [Opzioni di piano di Microsoft 365](../office-365-platform-service-description/office-365-plan-options.md). Per ulteriori informazioni sulle app di Microsoft 365 per Enterprise, vedere la [Descrizione del servizio applicazioni di Office](../office-applications-service-description/office-applications-service-description.md). 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Client supportati da Archiviazione Exchange Online
 
@@ -68,4 +68,4 @@ Gli utenti possono accedere al proprio archivio accedendo a Outlook sul Web loca
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Exchange Online Archiving Service Description](exchange-online-archiving-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Exchange Online Archiving Service Description](exchange-online-archiving-service-description.md).

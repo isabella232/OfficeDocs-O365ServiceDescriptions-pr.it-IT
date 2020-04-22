@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688027"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639884"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
-Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti di Office 365 possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
+Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
   
 > [!NOTE]
 > Le cartelle di lavoro superiori a 50 megabyte (MB) non possono essere visualizzate in Excel per il Web dall'interno di Microsoft SharePoint Online. Per visualizzare i file di maggiori dimensioni, è necessario che sul computer sia installata l'app desktop Excel. 
 
 > [!NOTE]
-> Per consentire un confronto tra le diverse offerte, le funzionalità avanzate illustrate nell'articolo includono quelle dell'app desktop Excel disponibile solo nella famiglia di prodotti Office (quale Office Professional Plus, Office Standard oppure Office 365 ProPlus). Per un elenco di tutte le funzionalità di Office per il Web, ad esempio Word per il Web e PowerPoint per il Web, vedere [disponibilità delle funzionalità tra Office per i piani web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Per facilitare il confronto delle offerte, le funzionalità avanzate elencate in questo articolo includono le funzionalità di Excel desktop app disponibili solo nella famiglia di prodotti Office, ad esempio Office Professional Plus, Office standard o Microsoft 365 Apps for Enterprise. Per un elenco di tutte le funzionalità di Office per il Web, ad esempio Word per il Web e PowerPoint per il Web, vedere [disponibilità delle funzionalità tra Office per i piani web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
 Per sapere quale tipo di file è supportato da Excel per il Web, vedere [tipi di file supportati per Office per il Web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Per ulteriori informazioni sulle differenze tra Excel per il Web e l'app desktop Excel, vedere [differenze tra l'utilizzo di una cartella di lavoro nel browser e in Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
@@ -284,7 +284,7 @@ Non disponibile in Excel per il Web. Se sul computer è installata l'app desktop
 
 Se si desidera una copia della cartella di lavoro, utilizzare il comando Salva con nome nella scheda File oppure fare clic con il pulsante destro del mouse sul nome della cartella che la contiene e utilizzare il comando Download per salvare una copia sul proprio computer.
   
-## <a name="share"></a>Condividere
+## <a name="share"></a>Condividi
 
 Con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni sull' [utilizzo di Office per il Web per collaborare in office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
@@ -342,4 +342,4 @@ Non disponibile in Excel per il Web. È possibile visualizzare i risultati dell'
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Office per la descrizione del servizio Web](office-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Office per la descrizione del servizio Web](office-online-service-description.md).

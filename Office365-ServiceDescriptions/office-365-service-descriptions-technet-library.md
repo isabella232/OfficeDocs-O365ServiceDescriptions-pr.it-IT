@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787018"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638724"
 ---
 # <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
 
@@ -70,7 +70,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
 
 - [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Descrizione del servizio Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Descrizione del servizio Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Microsoft 365 Security & Compliance Licensing Guidance](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
@@ -81,5 +81,5 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
   
 ## <a name="disclaimer"></a>Dichiarazione di non responsabilità
 
-© 2018 Microsoft Corporation. Tutti i diritti riservati. Microsoft, Office 365 e altri nomi di prodotti e servizi sono o potrebbero essere marchi o marchi registrati negli Stati Uniti e/o in altri paesi. Le informazioni contenute nel presente documento hanno intento puramente informativo e rappresentano il punto di vista di Microsoft Corporation al momento della più recente pubblicazione ovvero revisione del documento stesso. Esso non intende in alcun modo costituire contratto di servizio e non impegna Microsoft o il cliente in relazione ad alcuna funzionalità, capacità o responsabilità qui menzionata. MICROSOFT NON GARANTISCE IN ALCUN MODO, ESPRESSO, IMPLICITO O A TERMINI DI LEGGE, LE INFORMAZIONI CONTENUTE NEL PRESENTE DOCUMENTO.
+&copy;2018 Microsoft Corporation. Tutti i diritti riservati. Microsoft, Office 365 e altri nomi di prodotti e servizi sono o potrebbero essere marchi o marchi registrati negli Stati Uniti e/o in altri paesi. Le informazioni contenute nel presente documento hanno intento puramente informativo e rappresentano il punto di vista di Microsoft Corporation al momento della più recente pubblicazione ovvero revisione del documento stesso. Esso non intende in alcun modo costituire contratto di servizio e non impegna Microsoft o il cliente in relazione ad alcuna funzionalità, capacità o responsabilità qui menzionata. MICROSOFT NON GARANTISCE IN ALCUN MODO, ESPRESSO, IMPLICITO O A TERMINI DI LEGGE, LE INFORMAZIONI CONTENUTE NEL PRESENTE DOCUMENTO.
  

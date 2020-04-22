@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: 64c73c3f14e4afb57a459592eba18b2fd6a38870
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: f90bbfa85d0b3c800725a2e51c5da1ea73415434
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42614531"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640254"
 ---
 # <a name="office-365-plan-options"></a>Opzioni dei piani di Office 365
 
@@ -33,7 +33,7 @@ Nella seguente tabella sono elencate le diverse famiglie e i diversi piani di se
   
 |**Famiglia di servizi di Office 365**|**Piani**|
 |:-----|:-----|
-|**Business (massimo 300 utenti)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (massimo 300 utenti)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 Apps for business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 business standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (numero illimitato di utenti)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Education (numero illimitato di utenti)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Government (numero illimitato di utenti)** <br/> |[Consultare tutti i piani aziendali disponibili](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -49,7 +49,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Servizio** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Servizio** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 business standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Piattaforma di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Exchange Online  <br/> |Sì<sup>6</sup> <br/> |No  <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |Sì<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -64,7 +64,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 |Microsoft Kaizala<sup>17</sup> <br/> |Sì <br/> |No  <br/> |Sì <br/> |Sì <br/> |Sì  <br/> |Sì  <br/> |Sì <br/> |
    
 <sup>1</sup> Project Online non è incluso, ma può essere acquistato come servizio aggiuntivo separato oppure aggiunto gratuitamente al piano di Office 365 Education.<br/>
-<sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Office 365 ProPlus, che non è incluso in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F3.<br/>
+<sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Microsoft 365 Apps for Enterprise, che non è incluso in Microsoft 365 Business Basic, Microsoft 365 business standard, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F3.<br/>
 <sup>3</sup> Per ulteriori informazioni sulle funzionalità di Protezione delle informazioni di Azure incluse nei piani di Office 365, vedere [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> Office 365 Enterprise E5 contiene funzionalità di sistema telefonico, audioconferenza e piano di chiamata. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (nazionale o internazionale).<br/>
 <sup>5</sup> Include 2 GB di archiviazione. <br/>
@@ -77,7 +77,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
 <sup>12</sup> Include Skype for Business Online Piano 1 e caratteristiche aggiuntive. <br/>
 <sup>13</sup> Include Skype for Business Online Piano 2 con supporto vocale e senza limitazioni relative al client.  <br/>
 <sup>14</sup> Include Skype for Business Online Piano 1.<br>
-<sup>15</sup> Microsoft teams è ora il client principale per i messaggi, le riunioni e le chiamate in Office 365. A partire da Oct. 1, 2018, nuovi clienti di Office 365 con 500 seggi o meno verranno onboarded to Microsoft teams e non avranno accesso a Skype for business online. I tenant che già utilizzano Skype for business online potranno continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completeranno la transizione a Microsoft teams.<br>
+<sup>15</sup> Microsoft teams è ora il client principale per i messaggi, le riunioni e le chiamate in Microsoft 365. A partire da Oct. 1, 2018, nuovi clienti con 500 seggi o meno saranno onboarded to Microsoft teams e non avranno accesso a Skype for business online. I tenant che già utilizzano Skype for business online potranno continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completeranno la transizione a Microsoft teams.<br>
 <sup>16</sup> include la conformità avanzata, in cui sono disponibili le funzionalità avanzate di governance dei dati, Advanced eDiscovery, archivio clienti, chiave del cliente, gestione degli accessi con privilegi e di conservazione a lungo termine.<br>
 <sup>17</sup> a partire dal maggio 2019, gli SKU idonei esistenti di Office 365 e Microsoft 365 verranno riempiti con Kaizala Pro. A partire dal 1 ° giugno 2019, Kaizala Pro verrà incluso in tutte le SKU di Office 365 e Microsoft 365 idonee. 
   
@@ -96,14 +96,14 @@ Le funzionalità seguenti sono disponibili nel client completo, ma non nel clien
     
 ### <a name="changing-or-mixing-plans"></a>Modifica o combinazione di piani
 
-Con il variare delle esigenze aziendali, potrebbe essere necessario cambiare il piano di Office 365. È possibile passare dalla sottoscrizione a Office 365 corrente a un'altra: 
+Quando si modificano le esigenze dell'organizzazione, potrebbe essere necessario modificare il piano Microsoft 365. È possibile passare dalla sottoscrizione corrente a un altro abbonamento: 
   
-- **Nella stessa famiglia di servizi:** È possibile ad esempio passare da Office 365 Business Essentials a Office 365 Business Premium o da Office 365 Enterprise E1 a Office 365 Enterprise E3.
+- **Nella stessa famiglia di servizi:** Ad esempio, è possibile passare da Microsoft 365 Business Basic a Microsoft 365 business standard o da Office 365 Enterprise E1 a Office 365 Enterprise E3.
 - **Da un piano autonomo:** Ad esempio, è possibile passare da Exchange Online, piano 1 a Office 365 Enterprise E1.     
-- **Per una famiglia di servizi differente:** È possibile ad esempio passare da Office 365 Business Essentials a Office 365 Enterprise E3.     
+- **A un'altra famiglia di servizi:** Ad esempio, è possibile passare da Microsoft 365 Business Basic a Office 365 Enterprise E3.     
 Per informazioni su come cambiare le sottoscrizioni nonché su come passare da una sottoscrizione di prova a una a pagamento, vedere [Modificare il piano o la sottoscrizione di Office 365](https://support.office.com/article/HA104031833)
   
-È possibile combinare i piani Enterprise, Business e autonomi (ad esempio Exchange Online, piano 1) in un singolo account. Tuttavia, le limitazioni esistenti relative al numero di postazioni per ciascun piano rimangono invariate. Per esempio, è possibile disporre di 300 postazioni per ciascun piano in Office 365 Business Essentials e Office 365 Business Premium, ma di un numero illimitato di utenti in Exchange Online, piano 1.
+È possibile combinare i piani Enterprise, Business e autonomi (ad esempio Exchange Online, piano 1) in un singolo account. Tuttavia, le limitazioni esistenti relative al numero di postazioni per ciascun piano rimangono invariate. Ad esempio, è possibile disporre di un massimo di 300 seggi per piano sia su Microsoft 365 Business Basic sia su Microsoft 365 business standard, ma su un numero illimitato di utenti in Exchange Online piano 1.
   
 ## <a name="standalone-services"></a>Servizi autonomi
 
@@ -115,7 +115,7 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
 |SharePoint Online  <br/> |[SharePoint Online Piano 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online piano 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business piano 1](https://onedrive.live.com/about/business/) <br/> [OneDrive for Business piano 2](https://onedrive.live.com/about/business/) <br/> |
 |Skype for Business online  <br/> |[Skype for Business Online piano 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [Skype for Business Online piano 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Applicazioni di Office  <br/> |[Office 365 ProPlus](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Office 365 Business](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Applicazioni di Office  <br/> |[Microsoft 365 Apps for Enterprise](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps for business](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 business standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |Gestione dei portfolio di progetti  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |Informazioni organizzative  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |

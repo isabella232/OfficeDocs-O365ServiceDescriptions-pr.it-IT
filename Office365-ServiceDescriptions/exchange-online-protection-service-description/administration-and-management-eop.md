@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: In questa sezione vengono descritte le interfacce di gestione disponibili per gli amministratori di Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 8b3f6cfceb015bc1730fe4c4d61c2fcda3f94259
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688021"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640024"
 ---
 # <a name="administration-and-managementeop"></a>Amministrazione e gestione [EOP]
 
@@ -27,11 +27,11 @@ Per informazioni su tutte le funzionalità di EOP? Vedere la [Descrizione del se
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Accesso all'interfaccia di amministrazione di Microsoft 365
 
-L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni azienda può gestire gli account utente e le impostazioni per ognuno dei servizi di Office 365 a cui sono sottoscritti. All'interno dell'interfaccia di amministrazione di Microsoft 365 gli amministratori possono seguire i collegamenti a EAC, in cui possono gestire le impostazioni specifiche di EOP.
+L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni azienda può gestire gli account utente e le impostazioni per ognuno dei servizi Microsoft a cui sono sottoscritti. All'interno dell'interfaccia di amministrazione di Microsoft 365 gli amministratori possono seguire i collegamenti a EAC, in cui possono gestire le impostazioni specifiche di EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Accesso all'interfaccia di amministrazione di Exchange
 
-L'interfaccia di amministrazione di Exchange (EAC, Exchange Admin Center) è una singola console di gestione unificata e ottimizzata per ogni tipo di distribuzione. La nuova e migliorata interfaccia di amministrazione di Exchange sostituisce l'interfaccia di amministrazione di Forefront Online Protection for Exchange. L'interfaccia di amministrazione di Exchange fornisce una più stretta integrazione con Office 365 e un'esperienza di utilizzo dell'interfaccia utente coerente e trasparente tra tutti i prodotti di Exchange (Microsoft Exchange Online e Microsoft Exchange Server 2013). Per ulteriori informazioni su EAC, vedere [Exchange Admin Center in Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
+L'interfaccia di amministrazione di Exchange (EAC, Exchange Admin Center) è una singola console di gestione unificata e ottimizzata per ogni tipo di distribuzione. La nuova e migliorata interfaccia di amministrazione di Exchange sostituisce l'interfaccia di amministrazione di Forefront Online Protection for Exchange. L'interfaccia di amministrazione di Exchange offre un'integrazione più stretta con Microsoft 365 e un'esperienza coerente e senza problemi tra i vari prodotti (Microsoft Exchange Online e Microsoft Exchange Server 2013). Per ulteriori informazioni su EAC, vedere [Exchange Admin Center in Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
   
 ## <a name="remote-windows-powershell-access"></a>Accesso a Windows PowerShell remoto
 
@@ -39,5 +39,5 @@ L'interfaccia di amministrazione di Exchange (EAC, Exchange Admin Center) è una
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description.md).
   

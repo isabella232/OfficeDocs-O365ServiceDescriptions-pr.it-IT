@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, oltre a un confronto tra le caratteristiche di tali piani.
-ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260921"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640174"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
@@ -33,7 +33,7 @@ Nell'elenco seguente vengono illustrati i modi principali in cui è possibile ut
 
 - **In una distribuzione ibrida**: EOP può essere configurato per proteggere l'ambiente di messaggistica e controllare il routing della posta quando si dispone di una combinazione di cassette postali locali e cloud.
 
-Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Per confrontare le funzionalità tra i piani, vedere [confrontare i piani Microsoft 365 for business](https://products.office.com/business/compare-more-office-365-for-business-plans).
 
 Per acquistare Exchange Online Protection, vedere [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -42,7 +42,7 @@ Per acquistare Exchange Online Protection, vedere [Exchange Online Protection](h
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Novità di Exchange Online Protection (EOP)
 
-La [roadmap di Office 365 for business ](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) è una buona risorsa in cui trovare informazioni sulle nuove funzionalità.
+La [Roadmap di Microsoft 365 for business](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) è una buona risorsa per trovare informazioni sulle nuove funzionalità imminenti.
 
 ## <a name="exchange-online-protection-eop-plans"></a>Piani di Exchange Online Protection (EOP)
 
@@ -89,7 +89,7 @@ Di seguito sono elencate tutte le funzionalità. Per informazioni più dettaglia
 |[Gestione del dominio](recipient-domain-and-company-management.md#domain-management)|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|
 |[Corrispondenza sottodomini](recipient-domain-and-company-management.md#match-subdomains)|Sì|Sì|No|
 |[DBEB (Directory Based Edge Blocking)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Sì|Sì|Sì|
-|[Regole dei flussi di posta](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|Sì<sup>4</sup>|Sì<sup>4, 6</sup>|Sì|
+|[Regole del flusso di posta](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|Sì<sup>4</sup>|Sì<sup>4, 6</sup>|Sì|
 |[Registrazione di controllo](messaging-policy-and-compliance-servicedesc.md#audit-logging)|Sì<sup>5</sup>|Sì|Sì|
 |[Prevenzione della perdita di dati (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|No|Sì|Sì<sup>6</sup>|
 |[Crittografia dei messaggi di Office 365](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Sì<sup>12</sup>|Sì|Sì<sup>12</sup>|
@@ -101,7 +101,7 @@ Di seguito sono elencate tutte le funzionalità. Per informazioni più dettaglia
 |[Quarantena](anti-spam-and-anti-malware-protection-eop.md#quarantine): autogestione dell'utente finale|Sì|Sì|Sì|
 |[Componente aggiuntivo per i messaggi di report per Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Sì|Sì|Sì|
 |[Report di posta indesiderata in Outlook sul Web](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Sì|Sì|Sì|
-|[Instradare la posta tra Office 365 e i server di posta elettronica della propria organizzazione](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Sì|Sì|Sì|
+|[Routing della posta elettronica tra Microsoft e i server di posta elettronica personali](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sì|Sì|Sì|
 |[Messaggistica sicura presso un partner di fiducia](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sì|Sì|Sì|
 |[Elenco sicuro indirizzi IP del partner](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sì|Sì|Sì|
 |[Routing condizionale della posta](mail-flow-eop.md#conditional-mail-routing)|Sì|Sì|Sì|

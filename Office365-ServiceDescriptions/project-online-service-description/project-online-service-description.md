@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931942"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638734"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -120,7 +120,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 |**Personalizzazione e integrazione**||
 |PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili con PowerApps. <sup>4</sup> |
 |Flussi di lavoro | Automatizzare e integrare i processi aziendali con Power automatizzate. <sup>5</sup> |
-|Integrazione di Microsoft Office 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni di Office 365. <sup>1</sup> |
+|Integrazione di Microsoft | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni Microsoft familiari. <sup>1</sup> |
 |**Sicurezza e gestione degli utenti**||
 |Gruppi moderni di Office | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse per i membri del team da condividere.|
 
@@ -147,7 +147,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'a
 |Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi utilizzando attività di riepilogo in Project Web App. | Sì | Sì |
 |Pianificazione delle attività | Utilizzare le date di inizio e di fine dell'attività, i tempi di sforzo, di lavoro, di lead e di ritardo e le dipendenze per ottenere una pianificazione accurata delle date del progetto tramite Project Web App. | Sì | Sì |
 |Aggiornamenti delle attività | Acquisizione di tempo e stato con i commenti sulle attività del progetto, il lavoro non di progetto e l'orario non lavorativo. | Sì | Sì |
-|Timeline | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale tramite Project Web App. | Sì | Sì |
+|Tempistiche | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale tramite Project Web App. | Sì | Sì |
 |Schede attività | I membri del team possono immettere il tempo e lo stato rispetto a attività, lavoro non di progetto e tempo non lavorativo. | Sì | Sì |
 |Approvazioni delle schede attività | I membri del team possono inviare schede attività per l'approvazione. I responsabili delle risorse e le autorità di vigilanza possono rivedere, approvare e rifiutare le schede attività inviate. | Sì | Sì |
 |Configurazione del tempo non lavorativo | Consente di aggiungere festività, giorni di ferie, permessi per malattia e altri giorni non lavorativi nella pianificazione del progetto. | No | Sì |
@@ -181,7 +181,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. | Sì | Sì |
 |PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili (tramite OData) con PowerApps. <sup>4</sup> | Sì | Sì |
 |Flussi di lavoro | Automatizzare e integrare processi aziendali (tramite OData) con Power automatizzate. <sup>5</sup> | Sì | Sì |
-|Integrazione di Microsoft Office 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni di Office 365. <sup>1</sup> | Sì | Sì |
+|Integrazione di Microsoft 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni Microsoft familiari. <sup>1</sup> | Sì | Sì |
 |Integrazione di Microsoft Planner | Connettere le attività del progetto a un piano di pianificazione e monitorare il lavoro dettagliato in Planner. <sup>1</sup> | Sì | Sì |
 |**Gestione della sicurezza, degli utenti e dei servizi**||||
 |Integrazione con Active Directory | Creare team da qualsiasi membro dell'organizzazione di Active Directory. <sup>9</sup> | Sì | Sì |
@@ -217,7 +217,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Diagramma reticolare | Visualizzare le attività, le dipendenze e il percorso critico del progetto in una visualizzazione Diagramma reticolare. |
 |Pianificazione delle attività | Utilizzare le date di inizio e fine dell'attività, lo sforzo, il lavoro, il lead e il ritardo e le dipendenze per ottenere una pianificazione accurata delle date del progetto |
 |Pianificazione team | Verificare l'allocazione e la capacità di tutti i membri del team di progetto, inclusi i giorni lavorativi e non lavorativi del progetto.|
-|Timeline | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale. |
+|Tempistiche | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale. |
 |Attività inattive | Utilizzare attività inattive per monitorare il lavoro senza influire sulla disponibilità o sull'allocazione delle risorse e senza influire sulla pianificazione del progetto. |
 |Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi di utilizzo delle attività di riepilogo. |
 |Controllo attività | Consente di visualizzare i fattori che possono influenzare la pianificazione di un'attività, quali la scelta di una diversa data di inizio o i messaggi di errore. |
@@ -279,7 +279,7 @@ Project per il Web e Project Online entrambi dispongono dello stesso criterio di
 
 Il progetto per il Web presenta alcune limitazioni, descritte nella tabella seguente.
 
-|Entità/campo | Limite |
+|Entità/campo | Tipo di limite |
 |-------------|-------|
 |**Attività** ||
 |Massimo. livello di gerarchia per l'attività | 10 livelli |

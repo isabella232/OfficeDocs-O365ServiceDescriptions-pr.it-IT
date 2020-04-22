@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262719"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638894"
 ---
 # <a name="sharing-and-collaboration"></a>Condivisione e collaborazione
 
@@ -25,11 +25,11 @@ ms.locfileid: "39262719"
 La Federazione si riferisce all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo per gli utenti di Microsoft Exchange Online per condividere dati del calendario di disponibilità e informazioni di contatto con i destinatari in altre organizzazioni esterne federate o con utenti che dispongono di accesso a Internet. Sono incluse anche le organizzazione che sono ospitate da Exchange Online oppure le organizzazioni Microsoft Exchange Server 2010 o Exchange Server 2013. Utilizzando le relazioni tra organizzazioni e i criteri di condivisione, gli amministratori di Exchange Online possono consentire agli utenti di inviare inviti di condivisione del calendario da Microsoft Outlook sul Web o Microsoft Outlook 2010 o versione successiva.
   
 > [!IMPORTANT]
->  Le organizzazione Exchange 2010 e Exchange 2013 esterne devono configurare una relazione di trust federativa con Microsoft Federation Gateway come parte della condivisione federata. Per le organizzazioni Exchange Online non occorre configurare una relazione di trust federativa; la relazione di trust federativa con Microsoft Federation Gateway viene creata automaticamente quando viene creato il tenant di Office 365. 
+>  Le organizzazione Exchange 2010 e Exchange 2013 esterne devono configurare una relazione di trust federativa con Microsoft Federation Gateway come parte della condivisione federata. Le organizzazioni di Exchange Online non devono configurare una relazione di trust federativa: la relazione di trust federativa con Microsoft Federation Gateway viene creata automaticamente quando si crea l'organizzazione Microsoft 365. 
 >
 >  Le organizzazioni Exchange Online devono configurare una relazione tra organizzazioni o i criteri di condivisione per abilitare la condivisione federata. 
 >
->  La condivisione degli elenchi di accesso globale o lo spostamento delle cassette postali degli utenti tra le organizzazioni di Exchange online in diversi tenant di Office 365 non è supportato nella condivisione federata. 
+>  La condivisione degli elenchi di accesso globale (GAL) o lo spostamento delle cassette postali degli utenti tra organizzazioni Exchange online in piani Microsoft diversi non è supportata nella condivisione federata. 
   
 Per ulteriori informazioni sulla condivisione federata, vedere [Condivisione in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -40,7 +40,7 @@ Generalmente i messaggi di posta elettronica e i documenti sono conservati in du
 La cassetta postale del sito è un nuovo concetto in Exchange 2013 che tenta di risolvere questo problema. Le cassette postali dei siti migliorano la collaborazione e la produttività degli utenti in quanto consentono l'utilizzo delle stessa interfaccia client per accedere ai documenti di Microsoft SharePoint 2013 e alla posta elettronica di Exchange. Una cassetta postale del sito è costituita dall'appartenenza a un sito SharePoint 2013 (proprietari e membri), dall'archiviazione condivisa tramite una cassetta postale di Exchange 2013 per i messaggi di posta elettronica, da un sito SharePoint 2013 per i documenti e da un'interfaccia di gestione per il provisioning e il ciclo di vita.
   
 > [!IMPORTANT]
-> Il piano di Office 365 deve includere SharePoint. Le cassette postali dei siti richiedono che gli utenti abbiano le licenze sia di SharePoint sia di Exchange. 
+> Il piano deve includere SharePoint. Le cassette postali dei siti richiedono che gli utenti abbiano le licenze sia di SharePoint sia di Exchange. 
   
 Per ulteriori informazioni sulle cassette postali dei siti, vedere [Cassette postali dei siti](https://go.microsoft.com/fwlink/p/?LinkId=271789).
   
@@ -60,6 +60,6 @@ Archivio sul posto può essere utilizzato solo per archiviare messaggi per un si
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   
 

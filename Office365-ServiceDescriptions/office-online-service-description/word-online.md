@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word per il Web (in precedenza Word Web App) estende la propria esperienza di Microsoft Word al Web browser, in cui è possibile utilizzare i documenti direttamente nel sito Web in cui è archiviato il documento.
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688150"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640214"
 ---
 # <a name="word-for-the-web"></a>Word per il Web
 
@@ -47,7 +47,7 @@ La parola per il Web Salva automaticamente il documento quando si apportano modi
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
-Non disponibile in Word per il Web. Le funzionalità di progettazione avanzate, quale la creazione di documenti da una vasta gamma di modelli professionali disponibili su Office.com, sono disponibili solo nell'app desktop Word. Tuttavia, i clienti Office 365 possono configurare una raccolta documenti per lanciare un modello personalizzato quando un utente crea un nuovo documento. Per ulteriori informazioni, vedere [Aggiungere un tipo di contenuto a un elenco o libreria](https://go.microsoft.com/fwlink/p/?LinkId=391446).
+Non disponibile in Word per il Web. Le funzionalità di progettazione avanzate, quale la creazione di documenti da una vasta gamma di modelli professionali disponibili su Office.com, sono disponibili solo nell'app desktop Word. Tuttavia, i clienti possono configurare una raccolta documenti per avviare un modello personalizzato quando un utente crea un nuovo documento. Per ulteriori informazioni, vedere [Aggiungere un tipo di contenuto a un elenco o libreria](https://go.microsoft.com/fwlink/p/?LinkId=391446).
   
 ## <a name="bullets-and-numbering"></a>Elenchi puntati e numerati
 
@@ -239,7 +239,7 @@ Con Word per il Web, è possibile salvare una copia del documento localmente.
 
 È possibile utilizzare Word affinché il Web salvi o converta i file in PDF in modo che sia possibile condividerli o stamparli utilizzando stampanti commerciali. E non occorre usare altri software o componenti aggiuntivi.
   
-## <a name="share"></a>Condividere
+## <a name="share"></a>Condividi
 
 Con Word per il Web, si tratta di un processo con un solo clic per l'invio di un collegamento che può essere utilizzato da altri utenti per visualizzare o modificare il documento. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
@@ -297,5 +297,5 @@ La funzionalità di zoom è disponibile in modalità di visualizzazione. Con Wor
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Office per la descrizione del servizio Web](office-online-service-description.md). 
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Office per la descrizione del servizio Web](office-online-service-description.md). 
   

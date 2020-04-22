@@ -9,29 +9,29 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+ms.openlocfilehash: bd4204538838b448c1cdb33dfa2903af113b098d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959314"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639784"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi. 
   
-Microsoft 365 fornisce un sistema completo, tra cui Office 365, Windows 10 e Enterprise Mobility and Security. Nella tabella seguente sono elencate le funzionalità di Office 365 per l'istruzione a1, a3 e a5 insieme alle caratteristiche di Microsoft 365 per Education a3 e a5. Per confrontare le funzionalità di Office 365 tra i piani business e Enterprise, vedere [confrontare i piani di office 365 for business](https://go.microsoft.com/fwlink/?linkid=799177)o, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente nelle [descrizioni dei servizi di Office 365](../office-365-service-descriptions-technet-library.md). Per cercare articoli e informazioni sul supporto tecnico, vedere [Office &amp; Help Training](https://support.office.com/).
+Microsoft 365 fornisce un sistema completo, tra cui Office 365, Windows 10 e Enterprise Mobility and Security. Nella tabella seguente sono elencate le funzionalità di Office 365 per l'istruzione a1, a3 e a5 insieme alle caratteristiche di Microsoft 365 per Education a3 e a5. Per confrontare le funzionalità tra i piani business e Enterprise, vedere [confrontare i piani Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=799177)o, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente nelle [descrizioni dei servizi di Microsoft 365](../office-365-service-descriptions-technet-library.md). Per cercare articoli e informazioni sul supporto tecnico, vedere [Office &amp; Help Training](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Servizi e caratteristiche
 
-Ogni piano di Microsoft 365 Education include una serie di servizi individuali, come Exchange Online e SharePoint Online. Nella tabella seguente vengono illustrati i servizi disponibili in ogni piano di Office 365 e Microsoft 365 per agevolare gli utenti nella scelta della soluzione più adatta alle loro esigenze. Per informazioni più dettagliate sui servizi e sulle caratteristiche di Office 365, vedere la descrizione del servizio [Office 365 Education](office-365-education.md).
+Ogni piano di Microsoft 365 Education include una serie di servizi individuali, come Exchange Online e SharePoint Online. Nella tabella seguente vengono illustrati i servizi disponibili in ogni piano di Office 365 e Microsoft 365 per agevolare gli utenti nella scelta della soluzione più adatta alle loro esigenze. Per esaminare i servizi e le funzionalità in modo più dettagliato, vedere la descrizione del servizio [Office 365 Education](office-365-education.md) .
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Servizi** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Piattaforma di Office 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Office per il Web  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Office 365 ProPlus  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Microsoft 365 Apps for Enterprise  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Exchange Online  <br/> |Sì<sup>1</sup> <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Sì<sup>3</sup> <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |Sì<sup>4</sup> <br/> |
 |OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -102,7 +102,7 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 > <sup>4</sup> Include SharePoint Online Piano 2. <br/>
 > <sup>5</sup> Microsoft Project non è incluso in Office 365 ma può essere acquisito separatamente. Project Online Essentials è gratuito. Se si è uno studente o un Istituto di istruzione, potrebbe essere possibile acquistare il piano di progetto 3 e il piano 5 a prezzi didattici.   <br/>
 > <sup>6</sup> Microsoft 365 Education A5 include funzionalità di Sistema telefonico, Audioconferenza e Piano di chiamata. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (Piano di chiamata nazionale o Piano di chiamata internazionale). <br/>
-> <sup>7</sup> Per ulteriori informazioni sulle funzionalità di Azure Information Protection incluse nei piani di Office 365, vedere [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
+> <sup>7</sup> per ulteriori informazioni sulle funzionalità di protezione delle informazioni di Azure incluse nei piani di Microsoft, vedere [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
 > <sup>8</sup> Include Intune. <br/>
 > <sup>9</sup> Server e CAL sono inclusi per Exchange, SharePoint e Skype for Business. <br/>
 > <sup>10</sup> ECAL o Core CAL, a seconda della versione di A3 acquistata (con A5, sono inclusi i diritti ECAL). <br/>

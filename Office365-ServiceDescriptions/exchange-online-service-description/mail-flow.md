@@ -13,30 +13,30 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: 'Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e il filtro vengono gestiti da Office 365. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione. '
-ms.openlocfilehash: 48e989c0aa0a84bea7f3f18fb80f225e5f645981
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Per la maggior parte delle organizzazioni, è necessario ospitare le cassette postali e prendersi cura del flusso di posta. È la configurazione più semplice e significa che Microsoft gestisce tutte le cassette postali e il filtro. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione.
+ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262589"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640324"
 ---
 # <a name="mail-flow"></a>Flusso di posta
 
-Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e indica che tutte le cassette postali e il filtro vengono gestiti da Office 365. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione.  
+Per la maggior parte delle organizzazioni, è necessario ospitare le cassette postali e prendersi cura del flusso di posta. È la configurazione più semplice e significa che Microsoft gestisce tutte le cassette postali e il filtro. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione. 
   
 ## <a name="custom-routing-of-outbound-email"></a>Routing personalizzato della posta in uscita
 
 Microsoft Exchange Online può effettuare il routing del flusso di posta dall'organizzazione tramite un server locale o un servizio ospitato (talvolta denominato "smart hosting"). In questo modo l'organizzazione utilizzerà gli strumenti di prevenzione della perdita di dati (DLP), eseguirà l'elaborazione personalizzata del messaggio di posta elettronica in uscita e recapiterà la posta elettronica ai partner commerciali tramite reti private. Exchange Online supporta anche la funzionalità di riscrittura degli indirizzi, nella quale la posta in uscita viene inviata attraverso un gateway locale che ne modifica gli indirizzi. Questa funzionalità consente di nascondere i sottodomini, di rendere la posta elettronica da un'organizzazione multi-dominio come un singolo dominio oppure di rendere i messaggi di posta elettronica inoltrati dal partner come se fossero stati inviati dall'interno dell'organizzazione. Gli amministratori possono personalizzare il routing della posta dall'interfaccia di amministrazione di Exchange.
   
-Per ulteriori informazioni, vedere [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
+Per ulteriori informazioni, vedere [set up Connectors to route mail between Microsoft and your own email Servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 > [!IMPORTANT]
 > Exchange Online può recapitare il flusso di posta all'interno e all'esterno dell'organizzazione. Se il dominio del destinatario è ospitato in Exchange Online con i record MX DNS che puntano a Exchange Online Protection, il flusso di posta dal tenant al destinatario non si recherà su Internet.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Messaggistica sicura presso un partner di fiducia
 
-Come cliente Exchange Online, è possibile configurare il flusso di posta sicura con un partner di fiducia utilizzando i connettori di Office 365. Office 365 supporta la comunicazione sicura attraverso il protocollo Transport Layer Security (TLS) ed è possibile creare un connettore per forzare la crittografia tramite TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) è un protocollo crittografico che fornisce sicurezza per le comunicazioni via Internet. Utilizzando i connettori, è possibile forzare il protocollo TSL sia per la posta in entrata che per quella in uscita utilizzando certificati autofirmati o convalidati da un'autorità di certificazione. È inoltre possibile applicare altre restrizioni, ad esempio specificando nomi di dominio o intervalli di indirizzi IP dai quali l'organizzazione partner invia messaggi di posta. 
+Come clienti di Exchange Online, è possibile configurare il flusso di posta sicura con un partner attendibile tramite i connettori Microsoft. Microsoft supporta la comunicazione sicura tramite TLS (Transport Layer Security) ed è possibile creare un connettore per applicare la crittografia tramite TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) è un protocollo crittografico che fornisce sicurezza per le comunicazioni via Internet. Utilizzando i connettori, è possibile forzare il protocollo TSL sia per la posta in entrata che per quella in uscita utilizzando certificati autofirmati o convalidati da un'autorità di certificazione. È inoltre possibile applicare altre restrizioni, ad esempio specificando nomi di dominio o intervalli di indirizzi IP dai quali l'organizzazione partner invia messaggi di posta. 
   
 Per ulteriori informazioni, vedere [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -65,13 +65,13 @@ Informazioni dettagliate sul provisioning della distribuzione ibrida e sul trasp
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Spazio indirizzo condiviso con controllo routing locale (il record MX punta a Exchange locale)
 
-Lo spazio di indirizzi condiviso con il controllo di routing locale (MX punta a locale) è uno scenario di routing della posta di distribuzione ibrida in cui le cassette postali sono ospitate parzialmente in Exchange Online e parzialmente in locale e nel flusso di posta Internet in ingresso e in uscita viene instradata attraverso l'organizzazione di Exchange locale. Questo scenario viene anche detto trasporto posta centralizzato. In questo scenario, viene effettuato il provisioning di Exchange Online con EOP e la posta Internet in arrivo viene instradata al server di posta locale prima di essere instradata a EOP e infine alle cassette postali ospitate in Exchange Online. Inoltre, la posta in uscita dalle cassette postali di Exchange Online passa attraverso l'organizzazione Exchange locale relativamente ai messaggi inviati a destinatari esterni. Con questa configurazione, è possibile utilizzare un singolo spazio dei nomi di dominio SMTP per tutte le cassette postali sia dell'organizzazione Exchange locale sia dell'organizzazione Exchange Online. 
+Lo spazio di indirizzi condiviso con il controllo di routing locale (MX punta a locale) è uno scenario di routing della posta di distribuzione ibrida in cui le cassette postali sono ospitate parzialmente in Exchange Online e parzialmente in locale e il flusso di posta Internet in ingresso e in uscita viene instradato attraverso l'organizzazione di Exchange locale. Questo scenario viene anche detto trasporto posta centralizzato. In questo scenario, viene effettuato il provisioning di Exchange Online con EOP e la posta Internet in arrivo viene instradata al server di posta locale prima di essere instradata a EOP e infine alle cassette postali ospitate in Exchange Online. Inoltre, la posta in uscita dalle cassette postali di Exchange Online passa attraverso l'organizzazione Exchange locale relativamente ai messaggi inviati a destinatari esterni. Con questa configurazione, è possibile utilizzare un singolo spazio dei nomi di dominio SMTP per tutte le cassette postali sia dell'organizzazione Exchange locale sia dell'organizzazione Exchange Online. 
   
 Per ulteriori informazioni sulle opzioni di trasporto in una distribuzione ibrida, vedere [Opzioni di trasporto nelle distribuzioni ibride di Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>Spazio indirizzo condiviso con controllo routing locale (il record MX punta a EOP)
 
-Lo spazio di indirizzi condiviso senza controllo routing locale (il record MX punta a EOP) è uno scenario di routing della posta ibrida, in cui le cassette postali sono ospitate in parte sul cloud tramite Exchange Online e in parte localmente mentre il record MX punta a Exchange Online Protection (EOP). Questo scenario è appropriato quando viene utilizzato il servizio Office 365 per ospitare alcune cassette postali dell'organizzazione e si desidera avere EOP per proteggere sia le cassette postali locali sia quelle sul cloud. In questo scenario la posta inviata a destinatari interni all'organizzazione viene inizialmente instradata attraverso l'EOP, dove avviene il filtraggio anti-spam e in base ai criteri, prima di essere recapitata alle cassette postali locali e sul cloud. 
+Lo spazio di indirizzi condiviso senza controllo routing locale (il record MX punta a EOP) è uno scenario di routing della posta ibrida, in cui le cassette postali sono ospitate in parte sul cloud tramite Exchange Online e in parte localmente mentre il record MX punta a Exchange Online Protection (EOP). Questo scenario è appropriato quando si utilizza Microsoft per ospitare alcune delle cassette postali dell'organizzazione e si desidera che EOP protegga sia le cassette postali locali che quelle cloud. In questo scenario la posta inviata a destinatari interni all'organizzazione viene inizialmente instradata attraverso l'EOP, dove avviene il filtraggio anti-spam e in base ai criteri, prima di essere recapitata alle cassette postali locali e sul cloud. 
   
 Per ulteriori informazioni sulle opzioni di trasporto in una distribuzione ibrida, vedere [Opzioni di trasporto nelle distribuzioni ibride di Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   
@@ -96,5 +96,5 @@ Per ulteriori informazioni sui requisiti di una distribuzione ibrida, vedere [Pr
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere la [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere la [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   

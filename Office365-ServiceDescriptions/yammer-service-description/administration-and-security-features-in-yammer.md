@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: In Yammer sono disponibili le seguenti funzionalità di amministrazione e sicurezza.
-ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688223"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640084"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Funzionalità di amministrazione e sicurezza in Yammer
 
@@ -58,7 +58,7 @@ Limitare la rete Yammer a una gamma IP specifica in modo che Yammer sia accessib
 consolidare più reti Yammer in una. Per ulteriori informazioni, vedere [Migrazione di rete: consolidare più reti Yammer](https://go.microsoft.com/fwlink/?LinkID=617488).
   
 > [!NOTE]
-> La migrazione delle reti Yammer tra i tenant Office 365 non è supportata. 
+> La migrazione delle reti di Yammer tra i piani non è supportata. 
 
 ## <a name="organization-resources"></a>Risorse dell'organizzazione
 
@@ -74,7 +74,7 @@ Vedere su quali dispositivi i dipendenti hanno effettuato l'accesso e, se necess
 
 ## <a name="single-identity"></a>Identità singola
 
-Quando si sceglie Yammer come esperienza social predefinita in Office 365 per la propria organizzazione, i dipendenti vengono mappati ai propri account Yammer esistenti. Ciò significa che non dovranno effettuare un nuovo accesso quando accedono a Yammer in Office 365. Quando gli utenti accedono a Yammer&mdash;se sono presenti in Office 365, tramite un'app per dispositivi mobili&mdash;Yammer oppure esplorando Yammer.com, vengono automaticamente connessi in base alle credenziali dell'organizzazione esistenti.
+Quando si sceglie Yammer come esperienza di social networking predefinita per la propria organizzazione, i dipendenti vengono mappati ai propri account Yammer esistenti. Ciò significa che non dovranno effettuare un nuovo accesso quando accedono a Yammer in Office 365. Quando gli utenti accedono a Yammer&mdash;se sono presenti in Office 365, tramite un'app per dispositivi mobili&mdash;Yammer oppure esplorando Yammer.com, vengono automaticamente connessi in base alle credenziali dell'organizzazione esistenti.
 
 ## <a name="usage-policy"></a>Criteri di utilizzo
 
@@ -86,6 +86,6 @@ Consente di gestire facilmente l'accesso alla rete dell'organizzazione. Yammer c
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
   
 

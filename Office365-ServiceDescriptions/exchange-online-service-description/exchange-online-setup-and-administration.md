@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: In questo articolo vengono descritti i controlli e il supporto di amministrazione disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione in alto, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
-ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 53179b3526a53333583c8265a501c743658348cd
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262609"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640334"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Installazione e amministrazione di Exchange Online
 
@@ -27,7 +27,7 @@ In questo articolo vengono descritti i controlli e il supporto di amministrazion
   
 ## <a name="self-service-administration-tools"></a>Strumenti di amministrazione self-service
 
-Sebbene Microsoft controlli direttamente tutti i data center Exchange Online e sia responsabile delle prestazioni globali del sistema, è in grado di controllare solo una parte degli elementi che interagiscono per determinare l'esperienza complessiva degli utenti di Office 365. Le organizzazioni stesse sono responsabili delle connessioni di rete verso i data center, della rete WAN (Wide Area Network) del cliente e delle reti LAN (Local Area Network) del cliente. Le organizzazioni sono altresì responsabili dei dispositivi degli utenti e della loro configurazione.  Sono inoltre responsabili del mantenimento delle licenze necessarie a ciascun utente per la funzionalità desiderata, tra cui la capacità di gestione di tali funzionalità, finché l'utente necessiti di accedere alla funzionalità.
+Anche se Microsoft controlla direttamente tutti i Data Center di Exchange Online ed è responsabile delle prestazioni complessive del sistema, è in grado di controllare solo una parte degli elementi che si combinano per fornire la totale esperienza per gli utenti. Le organizzazioni stesse sono responsabili delle connessioni di rete verso i data center, della rete WAN (Wide Area Network) del cliente e delle reti LAN (Local Area Network) del cliente. Le organizzazioni sono altresì responsabili dei dispositivi degli utenti e della loro configurazione.  Sono inoltre responsabili del mantenimento delle licenze necessarie a ciascun utente per la funzionalità desiderata, tra cui la capacità di gestione di tali funzionalità, finché l'utente necessiti di accedere alla funzionalità.
   
 Pertanto, Exchange Online fornisce agli amministratori dei clienti i seguenti strumenti per gestire un'ampia gamma di attività relative alla messaggistica:
   
@@ -45,7 +45,7 @@ Il portale Microsoft Office 365, disponibile all'indirizzo [https://portal.offic
   
 ### <a name="microsoft-365-admin-center"></a>Interfaccia di amministrazione di Microsoft 365
 
-L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni azienda può gestire gli account utente e le impostazioni per ognuno dei servizi di Office 365 a cui sono sottoscritti. Dall'interfaccia di amministrazione di Microsoft 365 gli amministratori possono seguire i collegamenti all'interfaccia di amministrazione di Exchange (EAC), in cui è possibile gestire le impostazioni specifiche di Exchange Online. Per ulteriori informazioni sull'utilizzo dell'interfaccia di amministrazione di Microsoft 365, vedere il video seguente: [Introducing Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni azienda può gestire gli account utente e le impostazioni per ognuno dei servizi Microsoft a cui sono sottoscritti. Dall'interfaccia di amministrazione di Microsoft 365 gli amministratori possono seguire i collegamenti all'interfaccia di amministrazione di Exchange (EAC), in cui è possibile gestire le impostazioni specifiche di Exchange Online. Per ulteriori informazioni sull'utilizzo dell'interfaccia di amministrazione di Microsoft 365, vedere il video seguente: [Introducing Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Interfaccia di amministrazione di Exchange
 
@@ -102,5 +102,5 @@ Quando Microsoft rilascia una nuova versione di Exchange, i clienti hanno tempo 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   

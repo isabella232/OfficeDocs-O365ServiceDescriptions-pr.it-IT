@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
-ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262729"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639984"
 ---
 # <a name="recipients"></a>Destinatari
 
@@ -28,7 +28,7 @@ In questo argomento sono descritte le funzionalità correlate ai destinatari inc
 Ogni sottoscrittore di Microsoft Exchange Online riceve una cassetta postale e cassette postali speciali sono disponibili per la pianificazione delle risorse delle strutture (ad esempio, sale riunioni) e per l'accesso multiutente a indirizzi di posta elettronica condivisi. I limiti massimi di archiviazione sono validi per la maggior parte delle cassette postali e gli amministratori possono controllare le dimensioni massime consentite per le cassette postali. Notifiche e restrizioni automatiche possono segnalare all'utente quando la capacità della cassetta postale è quasi esaurita o esaurita. In Exchange Online sono inoltre disponibili diversi tipi di limitazioni per i messaggi: dimensioni e frequenza dei messaggi e limiti all'elenco dei destinatari. I dettagli di tutte le caratteristiche e di tutti i limiti sono forniti qui di seguito.
   
 > [!NOTE]
-> Gli indirizzi generali non sono più supportati in Exchange Online. A causa dei filtri destinatario contro potenziali messaggi di posta indesiderata, gli indirizzi di posta elettronica che non esistono nel proprio tenant di Office 365 verranno rifiutati. 
+> Gli indirizzi generali non sono più supportati in Exchange Online. A causa del filtro dei destinatari sul posto per proteggersi da potenziali messaggi di posta indesiderata, gli indirizzi di posta elettronica che non esistono nell'organizzazione verranno rifiutati. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>Tipi di cassetta postale, limiti di archiviazione e avvisi di capacità
 
@@ -153,7 +153,7 @@ I messaggi Fuori sede sono risposte automatiche ai messaggi in arrivo inviati da
 
 Gli utenti possono condividere il calendario personale in uno dei due modi seguenti:
   
-- **Condivisione calendario federata** La federazione fa riferimento all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo semplice per gli utenti di Exchange per condividere le informazioni relative al calendario e ai contatti con i destinatari in altre organizzazioni esterne federate. Sono incluse le organizzazioni di Exchange Online oppure organizzazioni di Exchange Server 2010 o Exchange Server 2013 locali. Gli amministratori di Exchange Online non dovranno impostare una relazione di trust con Microsoft Federation Gateway, in quanto la relazione viene preconfigurata per tutti gli utenti di Exchange Online al momento della creazione del servizio tenant Office 365. Un criterio di condivisione predefinito consente agli utenti di inviare inviti alla condivisione del calendario da Outlook sul Web o Outlook 2010. In Windows PowerShell remoto, gli amministratori possono disabilitare il criterio o configurare il livello dei dati del calendario relativi alla disponibilità che gli utenti possono condividere. Possono inoltre creare una relazione tra organizzazioni con un'altra organizzazione federata, che consente la visibilità tra le organizzazioni del livello desiderato di informazioni sulla disponibilità per ogni utente senza alcun invito alla condivisione da parte dei singoli utenti. Nell'ambito dei criteri di condivisione definiti dagli amministratori e/o delle relazioni tra organizzazioni, gli utenti possono definire individualmente i dettagli delle future condivisioni. 
+- **Condivisione calendario federata** La federazione fa riferimento all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo semplice per gli utenti di Exchange per condividere le informazioni relative al calendario e ai contatti con i destinatari in altre organizzazioni esterne federate. Sono incluse le organizzazioni di Exchange Online oppure organizzazioni di Exchange Server 2010 o Exchange Server 2013 locali. Gli amministratori di Exchange Online non devono configurare una relazione di trust con Microsoft Federation Gateway perché questa relazione di trust è preconfigurata per tutti i clienti di Exchange Online quando viene creato il servizio Microsoft. Un criterio di condivisione predefinito consente agli utenti di inviare inviti alla condivisione del calendario da Outlook sul Web o Outlook 2010. In Windows PowerShell remoto, gli amministratori possono disabilitare il criterio o configurare il livello dei dati del calendario relativi alla disponibilità che gli utenti possono condividere. Possono inoltre creare una relazione tra organizzazioni con un'altra organizzazione federata, che consente la visibilità tra le organizzazioni del livello desiderato di informazioni sulla disponibilità per ogni utente senza alcun invito alla condivisione da parte dei singoli utenti. Nell'ambito dei criteri di condivisione definiti dagli amministratori e/o delle relazioni tra organizzazioni, gli utenti possono definire individualmente i dettagli delle future condivisioni. 
     
 - **Condivisione calendario su Internet** In Exchange Online gli utenti possono pubblicare i propri calendari utilizzando il formato iCal per l'accesso anonimo di tutti gli utenti, internamente o esternamente all'organizzazione. I destinatari possono utilizzare Exchange, una piattaforma diversa o semplicemente un browser Web. Gli utenti di Exchange Online possono anche abbonarsi ai calendari pubblicati da altre persone in posizioni Internet tramite iCal. La condivisione dei calendari personali è diversa dalla condivisione dei calendari federata, che viene configurata da un amministratore e offre condivisione della disponibilità tra organizazioni. Nessun utente può pubblicare dati del calendario in formato iCal finché l'amministratore non ha impostato e applicato un criterio di condivisione che lo consenta. Gli amministratori possono disabilitare la pubblicazione e le sottoscrizioni iCal per gli utenti di un'organizzazione utilizzando Windows PowerShell remoto.
     
@@ -169,5 +169,5 @@ Exchange Online supporta la funzionalità Ricerca sala di Outlook 2010, che cons
     
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   

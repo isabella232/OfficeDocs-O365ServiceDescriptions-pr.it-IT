@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: "Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate."
-ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688078"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639674"
 ---
 # <a name="office-applications"></a>Applicazioni di Office
 
 Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate.
   
-Per i requisiti di sistema per Office 365, il servizio basato su abbonamento mensile per aziende, istituti scolastici e organizzazioni governative, vedere [requisiti di sistema di office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
+Per i requisiti di sistema, il servizio basato su abbonamento mensile per aziende, istituti scolastici ed enti pubblici, vedere [requisiti di sistema di Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,15 +69,15 @@ Per impostazione predefinita, alcune applicazioni di Office, ad esempio Excel e 
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile per iPad e iPhone include le app di Office preferite, come Word per iPad/iPhone, Excel per iPad/iPhone e PowerPoint per iPad/iPhone. Le app sono disponibili per il download gratuitamente e con i piani applicabili di Office 365 è possibile creare e modificare documenti sul proprio iPad o iPhone. Per ulteriori informazioni, vedere [configurare le app di Office e la posta elettronica nei dispositivi iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
+Office Mobile per iPad e iPhone include le app di Office preferite, come Word per iPad/iPhone, Excel per iPad/iPhone e PowerPoint per iPad/iPhone. Le app sono disponibili per il download gratuitamente e con i piani applicabili è possibile creare e modificare documenti sul iPad o iPhone. Per ulteriori informazioni, vedere [configurare le app di Office e la posta elettronica nei dispositivi iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Office Mobile per Android include le app di Office preferite, come Word per Android, Excel per Android e PowerPoint per Android. Le app sono disponibili per il download gratuitamente e con i piani applicabili di Office 365 è possibile creare e modificare documenti sui propri dispositivi Android. Per ulteriori informazioni, vedere [configurare le app di Office e la posta elettronica su Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
+Office Mobile per Android include le app di Office preferite, come Word per Android, Excel per Android e PowerPoint per Android. Le app sono disponibili per il download gratuitamente e con i piani applicabili è possibile creare e modificare documenti sui dispositivi Android. Per ulteriori informazioni, vedere [configurare le app di Office e la posta elettronica su Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile per Windows Phone include le app di Office preferite, come Word per Windows Phone, Excel per Windows Phone e PowerPoint per Windows Phone. Le app sono disponibili per il download gratuitamente e con i piani applicabili di Office 365 è possibile creare e modificare documenti sul proprio Windows Phone. Per ulteriori informazioni, vedere [configurare le app di Office e la posta elettronica su Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
+Office Mobile per Windows Phone include le app di Office preferite, come Word per Windows Phone, Excel per Windows Phone e PowerPoint per Windows Phone. Le app sono disponibili per il download gratuitamente e con i piani applicabili è possibile creare e modificare documenti sul proprio Windows Phone. Per ulteriori informazioni, vedere [configurare le app di Office e la posta elettronica su Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-for-windows-10-mobile"></a>Office per Windows 10 Mobile
 
@@ -85,5 +85,5 @@ Le app per dispositivi mobili di Office per Windows 10 sono ottimizzate per sche
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio applicazioni di Office](office-applications-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio applicazioni di Office](office-applications-service-description.md).
   

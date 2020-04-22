@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
-ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
+ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43581978"
+ms.locfileid: "43639854"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -153,7 +153,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Rapporti sulla protezione della posta scaricabile|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Creare i propri rapporti utilizzando il sito Web dei servizi di reporting di Office 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate al centro messaggi quando l'azione è obbligatoria, viene risolto un problema, vengono distribuite le funzionalità o le modifiche del servizio|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -173,7 +173,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Gestione avanzata della sicurezza|No|No|No|No|No|No|No|
 |Protezione avanzata dalle minacce|No|No|No|No|No|No|No|
 |Archivio protetto del cliente|No|No|No|No|No|No|No|
-|Office 365 Advanced eDiscovery|No|No|No|No|No|No|No|
+|Advanced eDiscovery|No|No|No|No|No|No|No|
 |Secure Score<sup>4</sup>|No|No|No|No|No|No|No|
 |Intelligence per le minacce|No|No|No|No|No|No|No|
 |**[Conformità](compliance-servicedesc.md)**||||||||
@@ -461,7 +461,7 @@ Per informazioni sulle limitazioni di Exchange Online, vedere i seguenti argomen
 - [Limiti di Exchange ActiveSync](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - I limiti applicati a un'organizzazione di Microsoft Office 365 potrebbero variare in base al tempo di registrazione dell'organizzazione nel servizio. Quando un limite viene modificato nei datacenter Microsoft, la modifica può richiedere un certo tempo per essere applicata a tutti i clienti esistenti.
+> - I limiti applicati a un'organizzazione di Microsoft 365 possono variare in base al tempo di registrazione dell'organizzazione nel servizio. Quando un limite viene modificato nei datacenter Microsoft, la modifica può richiedere un certo tempo per essere applicata a tutti i clienti esistenti.
 > - La maggioranza di questi limiti non è modificabile, tuttavia è opportuno conoscerli.
 > - Questi limiti si applicano ai destinatari sia interni sia esterni.
 > - Per impostazione predefinita, Exchange Online Protection (EOP) protegge le cassette postali di Exchange Online. Per i limiti che si applicano alle funzionalità di EOP in Exchange Online, vedere [limiti di Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
@@ -493,7 +493,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Quarantena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): autogestione dell'utente finale|Sì|Sì|
 |[Componente aggiuntivo per i messaggi di report per Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Sì|Sì|
 |[Report di posta indesiderata in Outlook sul Web](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|N.<sup>7</sup>|N.<sup>7</sup>|
-|[Instradare la posta tra Office 365 e i server di posta elettronica della propria organizzazione](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Sì|Sì|
+|[Routing della posta elettronica tra Microsoft e i server di posta elettronica personali](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sì|Sì|
 |[Messaggistica sicura presso un partner di fiducia](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sì|Sì|
 |[Elenco sicuro indirizzi IP del partner](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sì|Sì|
 |[Routing condizionale della posta](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|Sì|Sì|
@@ -811,7 +811,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |App di cui è stato effettuato il provisioning di Azure: Access Services<sup>3</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |App di cui è stato effettuato il provisioning di Azure: codice personalizzato nel ruolo Web lightweight di Azure (LWR)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 
-<sup>1</sup> Per utilizzare la sincronizzazione della cartella, è necessario disporre di Office 2013 o una versione successiva (edizione Standard o Professional) o avere una sottoscrizione di Office 365 che includa le applicazioni di Office. I piani di Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Educationnon includono sottoscrizioni alle applicazioni desktop di Office. È tuttavia possibile utilizzare la sincronizzazione cartella se Office 2013 o una versione successiva è installato e si è sottoscritto uno di questi piani.
+<sup>1</sup> per utilizzare la sincronizzazione della cartella, è necessario disporre di Office 2013 o versione successiva (standard o Professional Edition) oppure di un abbonamento che include le applicazioni di Office. I piani di Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Educationnon includono sottoscrizioni alle applicazioni desktop di Office. È tuttavia possibile utilizzare la sincronizzazione cartella se Office 2013 o una versione successiva è installato e si è sottoscritto uno di questi piani.
 <br/><sup>2</sup> Gli account kiosk dispongono di limitata funzionalità OneDrive for Business. I clienti con account Kiosk possono utilizzare l'applicazione client di sincronizzazione cartelle OneDrive for Business per sincronizzare le raccolte documenti del sito del team con un computer condiviso e per accedere ai documenti offline. Gli account Kiosk, tuttavia, non includono un sito personale OneDrive for Business e quindi non dispongono di una raccolta personale su OneDrive for Business con 1 TB di spazio di archiviazione online.
 <br/><sup>3</sup> Access 2010 non è supportato.
 <br/><sup>4</sup> Poiché gli utenti con account Kiosk non possono essere amministratori, i tenant che includono utenti con account Kiosk devono disporre di almeno un utente Enterprise per l'accesso all'interfaccia di amministrazione.
@@ -932,8 +932,8 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Chiamate per il team|No|No|No|No|No|No|No|
 |Monitor per videochiamate|No|No|No|No|No|No|No|
 |Segreteria telefonica|No|No|No|No|No|No|No|
-|[Piani di chiamata di Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (piano di chiamata nazionale con acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
-|[Piani di chiamata di Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (piano di chiamata internazionale con acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
+|[Piani di chiamata](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (piano per le chiamate nazionali, con acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
+|[Piani di chiamata](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (piano di chiamata internazionale con acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
 |[Crediti di comunicazione](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|No|No|No|No|No|No|No|
 |Funzionalità vocali di Skype for Business|No|No|No|No|No|No|No|
 |**[Sicurezza e archiviazione](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|

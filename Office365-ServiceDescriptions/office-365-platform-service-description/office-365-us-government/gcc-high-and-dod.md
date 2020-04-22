@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione.
-ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
-ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
+description: Informazioni sugli impegni e le differenze univoci degli ambienti Office 365 GCC High e DoD rispetto all'ambiente commerciale Office 365.
+ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40003961"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639054"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
-Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre Ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. 
+Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa degli Stati Uniti, così come i contraenti che detengono o elaborano le informazioni non classificate gestite dal DoD o soggette alle normative internazionali sul traffico di armi (ITAR), Microsoft offre ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. 
   
 È opportuno invitare il team degli account o il proprio partner preferito a informarsi ulteriormente in merito alla procedura di convalida oppure ad avviarla. Per ulteriori informazioni su come acquistare, vedere [Microsoft 365 Government-come acquistare](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
@@ -58,44 +58,21 @@ Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per
 <sup>1</sup> si applica solo al personale con accesso temporaneo o permanente ai contenuti dei clienti ospitati in Office 365 US GCC-High o DOD Clouds.
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Dettagli sulle caratteristiche basate sull'architettura cloud conforme
 
-Le sottoscrizioni Office 365 negli ambienti GCC High e DoD includono le caratteristiche principali di Exchange Online, SharePoint Online e Skype for Business. Considerando l'aumento di certificazione e accredito dell'infrastruttura, sono presenti alcune differenze tra le offerte Office 365 commerciali e quelle disponibili in GCC High e DoD.
+Le sottoscrizioni negli ambienti GCC High e DoD includono le funzionalità di base di Exchange Online, SharePoint e Skype for business. Considerando l'aumento di certificazione e accredito dell'infrastruttura, sono presenti alcune differenze tra le offerte Office 365 commerciali e quelle disponibili in GCC High e DoD.
   
 ### <a name="exchange-online"></a>Exchange Online
 
  **Supporto della Messaggistica unificata di Exchange Online per IP-PBX locale** - Il supporto per l'integrazione di sistemi IP-PBX locali con la Messaggistica unificata di Exchange Online non è incluso nelle sottoscrizioni di GCC High e DoD. 
   
-### <a name="sharepoint-online"></a>SharePoint Online
+### <a name="file-sharing"></a>Condivisione di file
 
- **Condivisione di documenti** - SharePoint Online e OneDrive for Business consentono la condivisione delle informazioni e la collaborazione tra utenti e team. I proprietari dei documenti possono fornire ad altri utenti l'accesso ai documenti tramite l'interfaccia Web o gli allegati moderni in Outlook. Quando si condivide un documento, sono disponibili diverse opzioni per la gestione delle autorizzazioni: 
-  
-1. Solo utente corrente
-    
-2. Tutti gli utenti all'interno dell'azienda
-    
-3. Chiunque abbia questo collegamento
-    
-4. Persone specifiche
-    
-I clienti che utilizzano SharePoint Online e OneDrive for business negli ambienti GCC High o DoD possono mantenere i documenti privati (prima opzione), condividerli con tutti gli utenti dell'organizzazione (seconda opzione), condividerli con tutti gli utenti che dispongono del collegamento al documento (terza opzione) e condivisione con utenti specifici (quarta opzione). È possibile limitare queste opzioni in base ai controlli di accesso a livello di tenant.
+Gli utenti dispongono di più opzioni per la condivisione di file e cartelle in SharePoint e OneDrive. Tutte le opzioni sono disponibili negli ambienti GCC High e DoD. Per ulteriori informazioni sulla gestione di queste opzioni, vedere [Manage Sharing Settings](/sharepoint/turn-external-sharing-on-or-off). Quando gli utenti condividono utilizzando l'opzione "persone specifiche" e selezionando persone esterne all'organizzazione, in genere SharePoint invia un codice di verifica nella posta elettronica. I destinatari dovranno immettere il codice per accedere all'elemento condiviso. Questo è vero quando gli utenti delle organizzazioni GCC High condividono con persone in organizzazioni non-GCC elevate e viceversa. Per ulteriori informazioni sull'esperienza di condivisione esterna, vedere [che cosa accade quando gli utenti condividono](/sharepoint/external-sharing-overview#what-happens-when-users-share). Tuttavia, quando un utente in un'organizzazione di GCC-High condivide le persone in un'altra organizzazione di GCC-High, verrà creato un account Guest per il destinatario in Azure AD e si accederà con il nome utente e la password. 
 
-Quando si condivide con persone specifiche, SharePoint verificherà che gli utenti siano destinatari di un collegamento tramite l'invio di un codice di accesso una tantum all'indirizzo di posta elettronica condiviso. Tuttavia, quando un tenant di GCC-High condivide un altro tenant di GCC-High, verrà creato un account Guest per il destinatario in Azure AD, che eseguirà l'accesso con il nome utente e la password.
+[Le richieste di file](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) non sono disponibili per il governo di Office 365.
+
+Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai profili utente non sono supportati e non consentiranno di inviare messaggi di posta elettronica di avviso. Ad esempio, all'utente locale A viene assegnato un indirizzo di posta elettronica di Gmail e quindi sincronizzato con un'organizzazione di Azure GCC High. L'utente A si sposta in una raccolta e crea un avviso per eventuali modifiche. L'avviso non verrà inviato all'indirizzo Gmail.
   
-Altri esempi:
-  
-- GCC High tenant A è in grado di condividere con il tenant elevato B GCC, mentre gli utenti B eseguono l'accesso utilizzando il nome utente e la password di Azure AD.
-    
-- Il tenant alto C non GCC può condividere con il tenant A o B di GCC High, mentre gli utenti A o B eseguono l'accesso utilizzando codici di codice una tantum.
-    
-- L'alto tenant A o B di GCC può condividere con il tenant alto C non GCC e gli utenti C si configurano utilizzando codici di accesso una tantum.
-    
-Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai profili utente non sono supportati e non consentiranno di inviare messaggi di posta elettronica di avviso. Ad esempio, per l'utente locale A viene assegnato un indirizzo di posta elettronica di Gmail e quindi sincronizzato con Azure GCC High tenant. L'utente A si sposta in una raccolta e crea un avviso per eventuali modifiche. L'avviso non verrà inviato all'indirizzo Gmail.
-  
- **Accesso alle applicazioni esterne** - I collegamenti alle applicazioni esterne, ad esempio, l'origine dati per i componenti aggiuntivi, sono limitati alle origini comprese nei limiti di sicurezza del sistema supportati da GCC High e DoD. 
-  
- **Servizi di integrazione applicativa** -la funzionalità BCS è supportata per gli scenari di connettività in cui le origini dati rimangono raggiungibili entro il limite di sicurezza per il servizio cloud. 
-  
- **Soluzioni sandbox** - Questa funzionalità è stata rimossa e non è disponibile. Tutte le soluzioni in modalità sandbox devono essere migrate nel [modello extensibility del componente aggiuntivo di SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
-  
+
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
@@ -105,7 +82,7 @@ Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai 
 **Sistema telefonico e audioconferenza (tramite routing diretto)**: sistema telefonico e audioconferenza per ambienti GCC High e DOD vengono recapitati tramite routing diretto. Per ulteriori informazioni, vedere la documentazione relativa al livello di servizio:
 
 - [Sistema telefonico tramite routing diretto](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
-- [Servizi di audioconferenza con routing diretto per GCC High e DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+- [Audioconferenza con Instradamento diretto per GCC High e DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
 ### <a name="identity"></a>Identità
 

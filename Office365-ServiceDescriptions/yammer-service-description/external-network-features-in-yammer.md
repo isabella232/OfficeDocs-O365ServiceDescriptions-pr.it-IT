@@ -1,5 +1,5 @@
 ---
-title: Funzionalità di rete esterna in Yammer
+title: Funzionalità rete esterna in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: In Yammer sono disponibili le seguenti funzionalità della rete esterna.
-ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 4c929b6194c7ec4dbad94db644c656ebdd5c5ba0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263188"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640064"
 ---
-# <a name="external-network-features-in-yammer"></a>Funzionalità di rete esterna in Yammer
+# <a name="external-network-features-in-yammer"></a>Funzionalità rete esterna in Yammer
 
 In Yammer sono disponibili le seguenti funzionalità della rete esterna.
   
@@ -33,4 +33,4 @@ Commutazione continua tra reti interne ed esterne. Consente di monitorare facilm
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262739"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639964"
 ---
 # <a name="planning-and-deployment"></a>Pianificazione e distribuzione
 
@@ -86,7 +86,7 @@ Exchange Online fornisce uno strumento basato sul Web per la migrazione dei dati
     
 4. Una volta completata la migrazione iniziale, le eventuali modifiche apportate vengono sincronizzate con il cloud ogni 24 ore, fino a quando l'amministratore non interrompe o elimina il batch di migrazione.
     
-Per il passaggio degli utenti alle cassette postali cloud, gli amministratori ne configurano il record MX in modo che punti a Office 365 e riconfigurano i profili degli utenti in Outlook. Quando gli utenti passano alle cassette postali cloud, le cartelle offline locali (file OST) saranno risincronizzate, con conseguente download della posta migrata nella workstation client. Gli utenti possono rispondere ai messaggi meno recenti nelle cassette postali dopo la migrazione.
+Per passare gli utenti alle cassette postali cloud, gli amministratori configurano il record MX in modo che punti a Microsoft e configurino i profili degli utenti in Outlook. Quando gli utenti passano alle cassette postali cloud, le cartelle offline locali (file OST) saranno risincronizzate, con conseguente download della posta migrata nella workstation client. Gli utenti possono rispondere ai messaggi meno recenti nelle cassette postali dopo la migrazione.
   
 Per ulteriori informazioni sulla migrazione completa di Exchange, vedere [Informazioni utili su una migrazione completa della posta elettronica a Office 365](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da).
   
@@ -136,6 +136,6 @@ Microsoft offre una varietà di strumenti per consentire la migrazione di un amb
     
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   
 

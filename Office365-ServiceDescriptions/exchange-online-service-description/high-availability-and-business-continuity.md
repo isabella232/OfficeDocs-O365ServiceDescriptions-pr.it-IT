@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online offre un supporto di conservazione e ripristino estensivo per l'infrastruttura di posta elettronica di un'organizzazione. Questo supporto include la replica delle cassette postali presso i data center e la capacità di ripristinare le cassette postali e gli elementi eliminati.
-ms.openlocfilehash: b52345ce9287f0f28187df8efdb89c2eb6a7d9c8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262599"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639794"
 ---
 # <a name="high-availability-and-business-continuity"></a>Disponibilità elevata e continuità aziendale
 
@@ -31,7 +31,7 @@ Per ulteriori informazioni su come Microsoft protegge i dati dei clienti, visita
   
 ## <a name="deleted-mailbox-recovery"></a>Recupero di cassette postali eliminate
 
-Gli amministratori possono eliminare le cassette postali di Exchange Online utilizzando l'interfaccia di amministrazione di Microsoft 365 per eliminare l'account utente corrispondente oppure rimuovere la licenza di Exchange Online o utilizzando il cmdlet **Remove-Mailbox** in Windows PowerShell remoto. Quando una cassetta postale viene eliminata, Exchange Online conserva la cassetta postale e il contenuto per un periodo predefinito di 30 giorni. Dopo 30 giorni, la cassetta postale non è più recuperabile. Una cassetta postale recuperata contiene tutti i dati in essa archiviati nel momento in cui è stata eliminata. Gli amministratori possono recuperare una cassetta postale eliminata all'interno del periodo di conservazione tramite l'interfaccia di amministrazione di Microsoft 365. Per recuperare una cassetta postale eliminata, gli amministratori devono ripristinare l'account utente di Office 365 corrispondente oppure riassegnare una licenza di Exchange Online all'account utente. Per ulteriori informazioni, vedere la sezione sull' [eliminazione o il ripristino delle cassette postali degli utenti di Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+Gli amministratori possono eliminare le cassette postali di Exchange Online utilizzando l'interfaccia di amministrazione di Microsoft 365 per eliminare l'account utente corrispondente oppure rimuovere la licenza di Exchange Online o utilizzando il cmdlet **Remove-Mailbox** in Windows PowerShell remoto. Quando una cassetta postale viene eliminata, Exchange Online conserva la cassetta postale e il contenuto per un periodo predefinito di 30 giorni. Dopo 30 giorni, la cassetta postale non è più recuperabile. Una cassetta postale recuperata contiene tutti i dati in essa archiviati nel momento in cui è stata eliminata. Gli amministratori possono recuperare una cassetta postale eliminata all'interno del periodo di conservazione tramite l'interfaccia di amministrazione di Microsoft 365. Per recuperare una cassetta postale eliminata, gli amministratori devono ripristinare l'account utente corrispondente o riassegnare una licenza di Exchange Online all'account utente. Per ulteriori informazioni, vedere la sezione sull' [eliminazione o il ripristino delle cassette postali degli utenti di Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
   
 ## <a name="deleted-item-recovery"></a>Recupero di elementi eliminati
 
@@ -45,5 +45,5 @@ Per conservare i messaggi per più di 30 giorni nella cartella Elementi recupera
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
   

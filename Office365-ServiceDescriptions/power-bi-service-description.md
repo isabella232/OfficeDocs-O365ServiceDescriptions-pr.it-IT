@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI è una famiglia di strumenti di analisi business basata su cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con una maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
-ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 896ee5a2cb9f43698d35d1744e6810f72c12a0be
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263470"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638974"
 ---
 # <a name="power-bi-service-description"></a>Descrizione del servizio Power BI
 
@@ -25,7 +25,7 @@ Power BI è una famiglia di strumenti di analisi business basata su cloud che co
   
 Power BI è attualmente disponibile come parte della versione Office 365 Enterprise E5. Per ulteriori informazioni, visitare [Power BI](https://powerbi.microsoft.com/).
   
-Per un confronto tra le funzionalità offerte dai vari piani, vedere la pagina relativa al [confronto tra i piani di Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Per confrontare le funzionalità tra i piani, vedere [confrontare i piani Microsoft 365 for business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="power-bi-plans"></a>Piani Power BI
 
