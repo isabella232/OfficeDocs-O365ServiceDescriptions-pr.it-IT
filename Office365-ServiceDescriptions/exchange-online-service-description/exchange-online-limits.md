@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
+ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640004"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43790457"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -360,7 +360,7 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 |Limite di frequenza dei messaggi|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|
 
 > [!NOTE]
-> <sup>1</sup> dopo il raggiungimento del limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5.000 destinatari alle 09:00, quindi Invia un altro messaggio a 2, 1000 destinatari a 10:00 AM e quindi Invia un altro messaggio a 2.500 destinatari a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
+> <sup>1</sup> dopo il raggiungimento del limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5000 destinatari alle 09:00, quindi Invia un altro messaggio a 2500 destinatari alle 10:00 del mattino e quindi Invia un altro messaggio ai destinatari 2500 a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
 > <sup>2</sup> è possibile personalizzare i limiti dei destinatari tra 1 e 1000 per le cassette postali esistenti e per nuove cassette postali che verranno create in futuro. Modificare il limite dei destinatari per le cassette postali esistenti singolarmente o in blocco utilizzando l'interfaccia di amministrazione di Exchange e personalizzare l'impostazione predefinita per le nuove cassette postali tramite Remote PowerShell. Per ulteriori informazioni, vedere [limiti per i destinatari personalizzabili in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
 
 #### <a name="sending-limits-across-standalone-options"></a>Limiti di invio nelle opzioni autonome
@@ -375,7 +375,7 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 
 > [!NOTE]
 > <sup>1</sup> Questo è il limite predefinito per le organizzazioni Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione.<br/>
-<sup>2</sup> dopo che è stato raggiunto il limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5.000 destinatari alle 09:00, quindi Invia un altro messaggio a 2.500 destinatari alle 10:00 del mattino e quindi Invia un altro messaggio ai destinatari 2.500 a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
+<sup>2</sup> dopo che è stato raggiunto il limite di frequenza dei destinatari, i messaggi non possono essere inviati dalla cassetta postale fino a quando il numero di destinatari inviati nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5000 destinatari alle 09:00, quindi Invia un altro messaggio a 2500 destinatari alle 10:00 del mattino e quindi Invia un altro messaggio ai destinatari 2500 a 11:00 AM, colpendo il limite dei messaggi 10.000. L'utente non sarà in grado di inviare nuovamente i messaggi fino a quando 09:00 il giorno successivo.
 
 ## <a name="reporting-and-message-trace-limits"></a>Limiti relativi alla creazione di rapporti e traccia dei messaggi
 
@@ -434,7 +434,7 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|
 |Dimensione massima dei messaggi per i gruppi di distribuzione con 5.000 a 99.999 membri|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Dimensione massima dei messaggi per i gruppi di distribuzione con 100.000 membri|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Numero massimo di proprietari del gruppo di distribuzione|10 |10 |10 |10 |10 |10 |
+|Numero massimo di proprietari del gruppo di distribuzione|10  |10  |10  |10  |10  |10  |
 |Numero massimo di gruppi che è possibile creare|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -447,7 +447,7 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 |**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Numero massimo di membri del gruppo di distribuzione|100.000 membri<sup>1</sup>|100.000 membri|100.000 membri|100.000 membri|
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.|5.000 membri o più<sup>1</sup>|5.000 membri o più|5.000 membri o più|5.000 membri o più|
-|Numero massimo di proprietari del gruppo di distribuzione|10 |10 |10 |10 |
+|Numero massimo di proprietari del gruppo di distribuzione|10  |10  |10  |10  |
 |Numero massimo di gruppi che è possibile creare|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
