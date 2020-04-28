@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Informazioni sugli impegni e le differenze univoci degli ambienti Office 365 GCC High e DoD rispetto all'ambiente commerciale Office 365.
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639054"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914782"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -31,7 +31,7 @@ La descrizione del servizio Office 365 US Government è progettata per essere ut
 
 GCC High e DoD rispettano i requisiti di conformità previsti per le certificazioni e gli accrediti seguenti: 
   
-- Il programma Federal Risk and Authorization Management Program con baseline Moderate (FedRAMP Moderate), che include i controlli di sicurezza e i miglioramenti di controllo descritti nel documento National Institute of Standards and Technology (NIST) Special Publication 800-53.
+- Il programma di gestione federale dei rischi e delle autorizzazioni di FedRAMP High, compresi i controlli di sicurezza e i miglioramenti del controllo, come indicato nella pubblicazione speciale 800-53 del National Institute of Standards and Technology (NIST).
     
 - I controlli di sicurezza e i miglioramenti del controllo per la United States Department of Defense Cloud Computing Security Requirements Guide (SRG) in merito alle informazioni con livello di impatto massimo pari a 5 (L5).
     
@@ -73,7 +73,7 @@ Gli utenti dispongono di più opzioni per la condivisione di file e cartelle in 
 Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai profili utente non sono supportati e non consentiranno di inviare messaggi di posta elettronica di avviso. Ad esempio, all'utente locale A viene assegnato un indirizzo di posta elettronica di Gmail e quindi sincronizzato con un'organizzazione di Azure GCC High. L'utente A si sposta in una raccolta e crea un avviso per eventuali modifiche. L'avviso non verrà inviato all'indirizzo Gmail.
   
 
-### <a name="skype-for-business-online"></a>Skype for Business Online
+### <a name="skype-for-business-online"></a>Skype for Business online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
 
