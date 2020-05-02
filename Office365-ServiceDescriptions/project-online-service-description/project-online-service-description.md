@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638734"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002333"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -147,7 +147,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'a
 |Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi utilizzando attività di riepilogo in Project Web App. | Sì | Sì |
 |Pianificazione delle attività | Utilizzare le date di inizio e di fine dell'attività, i tempi di sforzo, di lavoro, di lead e di ritardo e le dipendenze per ottenere una pianificazione accurata delle date del progetto tramite Project Web App. | Sì | Sì |
 |Aggiornamenti delle attività | Acquisizione di tempo e stato con i commenti sulle attività del progetto, il lavoro non di progetto e l'orario non lavorativo. | Sì | Sì |
-|Tempistiche | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale tramite Project Web App. | Sì | Sì |
+|Sequenze temporali | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale tramite Project Web App. | Sì | Sì |
 |Schede attività | I membri del team possono immettere il tempo e lo stato rispetto a attività, lavoro non di progetto e tempo non lavorativo. | Sì | Sì |
 |Approvazioni delle schede attività | I membri del team possono inviare schede attività per l'approvazione. I responsabili delle risorse e le autorità di vigilanza possono rivedere, approvare e rifiutare le schede attività inviate. | Sì | Sì |
 |Configurazione del tempo non lavorativo | Consente di aggiungere festività, giorni di ferie, permessi per malattia e altri giorni non lavorativi nella pianificazione del progetto. | No | Sì |
@@ -193,7 +193,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 <sup>1</sup> richiede un abbonamento commerciale a Office o Microsoft 365.</br>
 <sup>2</sup> schede di Azure acquisite separatamente.</br>
 <sup>3</sup> la creazione di report per Project per il Web e Project online è disponibile con Power bi. La visualizzazione, la modifica e la creazione di report richiedono un abbonamento a Power BI Pro. Microsoft fornisce un set predefinito di report di Power BI. Gli utenti possono personalizzare questi rapporti o creare rapporti aggiuntivi utilizzando Power BI.</br> 
-<sup>4</sup> la creazione di applicazioni mobili di PowerApps personalizzate che accedono al progetto per i dati Web richiede una sottoscrizione di PowerApps e un abbonamento al piano di progetto 3 o al piano di progetto 5.</br>
+<sup>4</sup> la creazione e l'utilizzo di applicazioni mobili di PowerApps personalizzate che accedono al progetto per i dati Web richiedono una sottoscrizione di PowerApps e un abbonamento al piano di progetto 3 o al piano di progetto 5.</br>
 <sup>5</sup> l'automazione e l'integrazione dei processi aziendali con Power automatizzate con Project per i dati Web richiede una sottoscrizione Power automatizzate e un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
 <sup>6</sup> la gestione delle licenze di Project online per gli utenti esterni segue gli stessi criteri di quelli per gli utenti interni. Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
 <sup>7</sup> gli utenti che dispongono di un abbonamento al piano di progetto 3 o al piano di progetto 5 possono inviare richieste di impegno delle risorse. Non è possibile esaminare, soddisfare o approvare le richieste di impegno delle risorse.</br>
@@ -217,7 +217,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Diagramma reticolare | Visualizzare le attività, le dipendenze e il percorso critico del progetto in una visualizzazione Diagramma reticolare. |
 |Pianificazione delle attività | Utilizzare le date di inizio e fine dell'attività, lo sforzo, il lavoro, il lead e il ritardo e le dipendenze per ottenere una pianificazione accurata delle date del progetto |
 |Pianificazione team | Verificare l'allocazione e la capacità di tutti i membri del team di progetto, inclusi i giorni lavorativi e non lavorativi del progetto.|
-|Tempistiche | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale. |
+|Sequenze temporali | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale. |
 |Attività inattive | Utilizzare attività inattive per monitorare il lavoro senza influire sulla disponibilità o sull'allocazione delle risorse e senza influire sulla pianificazione del progetto. |
 |Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi di utilizzo delle attività di riepilogo. |
 |Controllo attività | Consente di visualizzare i fattori che possono influenzare la pianificazione di un'attività, quali la scelta di una diversa data di inizio o i messaggi di errore. |
@@ -239,7 +239,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Ordinamento e raggruppamento | Utilizzare l'ordinamento personalizzato e il raggruppamento per ottenere una visualizzazione mirata del progetto, delle attività e delle risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. |
-|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi i piani di progetto, i team e le assegnazioni. |
 |importazione/esportazione di file con estensione MPP | Creare nuovi progetti da file con estensione MPP esistenti o creare un file con estensione MPP di un progetto esistente. |

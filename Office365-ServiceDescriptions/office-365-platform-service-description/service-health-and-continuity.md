@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft possono visualizzare lo stato dei servizi e scoprire quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo.
-ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
-ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
+ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796717"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001952"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -86,19 +86,17 @@ L'app di amministrazione per gli amministratori dell'organizzazione offre la pos
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Management Pack di Office 365 per Microsoft System Center 2012 R2
 
-Microsoft System Center è una piattaforma di gestione integrata che consente di gestire data center, dispositivi client e ambienti IT cloud ibridi. Gli amministratori di Microsoft che utilizzano System Center ora hanno la possibilità di importare il Management Pack di Office 365, che consente di visualizzare tutte le comunicazioni di servizio all'interno di Operations Manager in System Center. Utilizzando questo strumento è possibile accedere allo stato dei servizi sottoscritti, agli incidenti di servizio attivi e risolti e alle comunicazioni del Centro messaggi. Per ulteriori informazioni, leggere il post del blog [Nuovi strumenti di amministrazione di Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
+Microsoft System Center è una piattaforma di gestione integrata che consente di gestire data center, dispositivi client e ambienti IT cloud ibridi. Gli amministratori di Microsoft che utilizzano System Center ora hanno la possibilità di importare il Management Pack di Office 365, che consente di visualizzare tutte le comunicazioni di servizio all'interno di Operations Manager in System Center. Utilizzando questo strumento è possibile accedere allo stato dei servizi sottoscritti, agli incidenti di servizio attivi e risolti e alle comunicazioni del Centro messaggi. Per ulteriori informazioni, ottenere [Microsoft System Center Management Pack per Office 365](https://www.microsoft.com/download/details.aspx?id=43708) nell'area download Microsoft. 
   
 ### <a name="office-365-service-communications-api"></a>API delle comunicazioni del servizio di Office 365
 
-L'API di Communications Service 365 di Office consente di accedere alle comunicazioni del servizio nel modo desiderato. Con questo nuovo strumento di amministrazione, è ora possibile creare o connettere gli strumenti per le comunicazioni di servizio, in modo da semplificare la modalità di monitoraggio dell'ambiente. L'API di Communications Service consente di monitorare quanto segue nell'ambiente in uso:
+L'API di Communications Service 365 di Office consente di accedere alle comunicazioni del servizio nel modo desiderato. Con questa API, si ha la possibilità di creare o connettere gli strumenti per le comunicazioni di servizio, in modo da semplificare la modalità di monitoraggio dell'ambiente. L'API di Communications Service consente di monitorare quanto segue nell'ambiente in uso:
   
 - Integrità del servizio in tempo reale
     
 - Comunicazioni del Centro messaggi
     
-- Notifiche di manutenzione pianificata
-    
-Per ulteriori informazioni, visitare il nuovo post di Blog [degli strumenti di amministrazione](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) . 
+Per ulteriori informazioni, vedere la Guida di [riferimento all'API di Communications Service di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference). 
   
 ## <a name="post-incident-reviews"></a>Analisi a posteriori degli incidenti
 
