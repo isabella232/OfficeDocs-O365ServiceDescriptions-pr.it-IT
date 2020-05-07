@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi&mdash;di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft&mdash;Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: 5c8df6d3faaba680046b6b2f808fe1aa74bffa73
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639944"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044998"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi&mdash;di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft&mdash;Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
   
-In questo articolo vengono elencate le caratteristiche per i piani di formazione di Office 365 (a1, a3 e a5). Per confrontare le funzionalità tra i piani business e Enterprise, vedere [confrontare i piani di Office 365 per le aziende](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) o, per un elenco più dettagliato delle caratteristiche, vedere la descrizione del servizio pertinente nelle descrizioni dei servizi di [Office 365](../office-365-service-descriptions-technet-library.md).
+In questo articolo vengono elencate le caratteristiche per i piani di formazione di Office 365 (a1, a3 e a5). Per confrontare le funzionalità tra i piani business e Enterprise, vedere [confrontare i piani di Office 365 per le aziende](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) o, per un elenco più dettagliato delle caratteristiche, vedere la descrizione del servizio pertinente in [Microsoft 365 e le descrizioni dei servizi di Office 365](../office-365-service-descriptions-technet-library.md).
   
 Per cercare articoli e informazioni sul supporto tecnico, vedere [Office &amp; Help Training](https://support.office.com/).
   
@@ -709,7 +709,7 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 |Numero massimo di membri del gruppo di distribuzione<sup>1</sup> <br/> |100.000 membri  <br/> |100.000 membri  <br/> |100.000 membri  <br/> |
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |
 |Dimensione massima dei messaggi per gruppi di distribuzione di grandi dimensioni  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |Numero massimo di gruppi che è possibile creare  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -869,7 +869,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for business onli
 |Configurazione dell'immagine personale  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Immagine personale: URL Photo Experience  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Configurazione elenco contatti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Archivio contatti unificato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Archivio unico dei contatti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Ricerca rubrica  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Espansione della lista di distribuzione  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Chat persistente  <br/> |No  <br/> |No  <br/> |No  <br/> |

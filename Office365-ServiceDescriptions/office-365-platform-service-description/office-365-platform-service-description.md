@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio piattaforma Microsoft 365 e Office 365
+title: Descrizione dei servizi delle piattaforme Office 365 e Microsoft 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 e Office 365 sono disponibili in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: d6ec64226e4a61c2e5e5063d7f89d7e33bdb6688
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: be73f1d01d166697377f9670759810b7d738f2cd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002056"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044978"
 ---
-# <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrizione del servizio piattaforma Microsoft 365 e Office 365
+# <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrizione dei servizi delle piattaforme Office 365 e Microsoft 365
 
 Microsoft 365 e Office 365 sono disponibili in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
   
 Microsoft 365 e Office 365 offrono la potenza della produttività cloud alle aziende di tutte le dimensioni, contribuendo a risparmiare tempo, denaro e liberare risorse valutate. I piani Microsoft 365 e Office 365 uniscono la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi di comunicazione e collaborazione di Microsoft di prossima generazione, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online, per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
   
-Per confrontare le funzionalità tra i piani, vedere [confrontare i piani](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o, per un elenco più dettagliato delle caratteristiche, vedere la descrizione del servizio pertinente nelle descrizioni dei [servizi di Office 365 ](../office-365-service-descriptions-technet-library.md).
+Per confrontare le funzionalità tra piani, vedere [confronto di piani](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o, per un elenco più dettagliato delle caratteristiche, vedere la descrizione del servizio pertinente in [Microsoft 365 e Office 365 Service](../office-365-service-descriptions-technet-library.md)descriptions.
   
 - Per informazioni sui piani di Office 365 Education, visitare innanzitutto la pagina [Office 365 Education](office-365-education.md). 
     
@@ -43,17 +43,17 @@ Sono disponibili diversi piani per Office 365, in modo da rispondere alle esigen
   
 Per informazioni sulle licenze per contratti multilicenza, vedere [termini di licenza e documentazione](https://go.microsoft.com/fwlink/?linkid=848696).
   
-## <a name="office-365-nonprofit-plans-and-pricing"></a>Piani e prezzi di Office 365 Nonprofit
+## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Piani e prezzi di Microsoft 365 e Office 365 nonprofit
 
-Per le organizzazioni che si qualificano per i piani di Office 365 Nonprofit, tali piani includono esattamente le stesse caratteristiche previste dai piani aziendali corrispondenti (ad esempio, Office 365 Nonprofit Enterprise E5 include le stesse caratteristiche di Office 365 Enterprise E5). L'unica differenza tra i piani equivalenti è il prezzo che si paga. Per ulteriori informazioni sui piani di Office 365 Nonprofit, vedere i [piani e prezzi di Office 365 Nonprofit](https://go.microsoft.com/fwlink/?LinkID=627221) e queste [domande frequenti](https://go.microsoft.com/fwlink/?LinkID=786641).
+Per le organizzazioni che si qualificano per i piani no profit di Microsoft 365 o Office 365, questi piani includono esattamente le stesse caratteristiche dei piani aziendali corrispondenti (ad esempio, Office 365 nonprofit E5 include le stesse funzionalità di Office 365 E5). L'unica differenza tra i piani equivalenti è il prezzo che si paga. Per ulteriori informazioni sui piani di Microsoft 365 e Office 365 nonprofit, vedere [compare microsoft 365 and office 365 nonprofit offers](https://go.microsoft.com/fwlink/?LinkID=627221)e this [FAQ](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Requisiti di sistema
 
-Per i requisiti di sistema per Office 365, il servizio a sottoscrizione mensile per aziende, centri di istruzione ed enti pubblici, vedere [Requisiti di sistema di Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
+Per i requisiti di sistema per Microsoft 365 e Office 365, i servizi basati su sottoscrizione mensili disponibili per le aziende, l'istruzione e le organizzazioni governative, vedere [requisiti di sistema per microsoft 365 e Office](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="service-level-agreement"></a>Contratto di servizio
 
-Per informazioni sui contratti di servizio, vedere [Contratto di servizio](https://go.microsoft.com/fwlink/?linkid=843153). Per informazioni sui tempi di attività recenti per Office 365, vedere [Trasparenza nelle operazioni di Office 365](https://go.microsoft.com/fwlink/?linkid=848695).
+Per informazioni sui contratti di servizio, vedere [Contratto di servizio](https://go.microsoft.com/fwlink/?linkid=843153). Per informazioni sui tempi di attività recenti per Office 365, vedere [Service Health and Continuity](https://go.microsoft.com/fwlink/?linkid=848695).
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -61,7 +61,7 @@ Per informazioni sul centro conformità &amp; di sicurezza e sui collegamenti a 
   
 ## <a name="data-storage-location"></a>Posizione di archiviazione dei dati
 
-Per informazioni su dove sono archiviati i dati, vedere la [mappa di archiviazione dei dati](https://products.office.com/where-is-your-data-located). 
+Per informazioni su dove sono archiviati i dati, vedere la [posizione in cui sono archiviati i dati del cliente](https://docs.microsoft.com/office365/enterprise/o365-data-locations). 
   
 ## <a name="multi-geo-capabilities"></a>Funzionalità multi-Geo 
 
@@ -69,7 +69,7 @@ Multi-Geo consente a una singola organizzazione di suddividere più aree geograf
   
 Disponibile GEOS: Asia-Pacifico, Australia, Canada, Unione europea, India, Giappone, Corea, Regno Unito, Stati Uniti. 
   
-Per ulteriori informazioni, vedere [Introducing multi-Geo](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
+Per ulteriori informazioni, vedere [Introducing multi-Geo in Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
   
 ## <a name="feature-availability-across-plans"></a>Disponibilità delle funzionalità tra piani
 
@@ -83,8 +83,8 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
     
 - U.S. Government: [Piani di Office 365 U.S. Government](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- Nonprofit: [Piani e prezzi di Office 365 Nonprofit](https://go.microsoft.com/fwlink/?LinkID=733237)
-    
+- Nonprofit: [confrontare le offerte no profit di Microsoft 365 e Office 365](https://go.microsoft.com/fwlink/?LinkID=733237)
+
 - Office 365 Germany: [Piani di Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
 Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiuntivi che è possibile acquistare per l'abbonamento. Un componente aggiuntivo fornisce ulteriori funzionalità all'abbonamento. Per ulteriori informazioni, vedere "componenti aggiuntivi disponibili per le diverse versioni di Microsoft 365 for business" in [acquistare o modificare un componente aggiuntivo](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
@@ -95,7 +95,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |**[Amministrazione Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
-|**[Funzionalità della famiglia di prodotti Office 365](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Funzionalità della famiglia di prodotti Microsoft 365](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft Bookings  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |N.<sup>19</sup>  <br/> |N.<sup>19</sup>  <br/> |No  <br/> |
 |Microsoft Briefing e-mail<sup>22</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Power Automate  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup> <br/> |
@@ -197,7 +197,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |FISMA Authority to Operate  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Contratto sull'elaborazione dati di Microsoft  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Dati PAN conformi allo standard PCI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[Continuità del servizio](service-health-and-continuity.md)** <br/> ||||||||
+|**[Continuità e integrità del servizio](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Utilizzo di BlackBerry Internet Service (BIS)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Partner](partners.md)** <br/> ||||||||

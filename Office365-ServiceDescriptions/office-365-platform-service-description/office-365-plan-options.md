@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: f90bbfa85d0b3c800725a2e51c5da1ea73415434
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640254"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044988"
 ---
 # <a name="office-365-plan-options"></a>Opzioni dei piani di Office 365
 
@@ -33,7 +33,7 @@ Nella seguente tabella sono elencate le diverse famiglie e i diversi piani di se
   
 |**Famiglia di servizi di Office 365**|**Piani**|
 |:-----|:-----|
-|**Business (massimo 300 utenti)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 Apps for business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 business standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (massimo 300 utenti)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [App Microsoft 365 per le aziende](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (numero illimitato di utenti)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Education (numero illimitato di utenti)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Government (numero illimitato di utenti)** <br/> |[Consultare tutti i piani aziendali disponibili](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -49,7 +49,7 @@ Ogni piano di Office 365 include una serie di servizi individuali, come Exchange
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Servizio** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 business standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Servizio** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Piattaforma di Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Exchange Online  <br/> |Sì<sup>6</sup> <br/> |No  <br/> |Sì<sup>6</sup> <br/> |Sì<sup>6</sup> <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |Sì<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -115,7 +115,7 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
 |SharePoint Online  <br/> |[SharePoint Online Piano 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online piano 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business piano 1](https://onedrive.live.com/about/business/) <br/> [OneDrive for Business piano 2](https://onedrive.live.com/about/business/) <br/> |
 |Skype for Business online  <br/> |[Skype for Business Online piano 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [Skype for Business Online piano 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Applicazioni di Office  <br/> |[Microsoft 365 Apps for Enterprise](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps for business](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 business standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Applicazioni di Office  <br/> |[App Microsoft 365 per grandi imprese](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [App Microsoft 365 per le aziende](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |Gestione dei portfolio di progetti  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |Informazioni organizzative  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |
@@ -126,4 +126,4 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
    
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Office 365, vedere [office 365 Platform Service Description](office-365-platform-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Microsoft 365 e Office 365, vedere [microsoft 365 and office 365 Platform Service Description](office-365-platform-service-description.md).

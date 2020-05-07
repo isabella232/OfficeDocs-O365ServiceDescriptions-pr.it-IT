@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172258"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045048"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-come acquistare
 
-In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato ambienti governativi Microsoft 365 specifici per i clienti del settore pubblico degli Stati Uniti. In questa sezione viene fornita una panoramica degli ambienti e ulteriori informazioni su come acquistare. Si consiglia di leggere questa sezione supplementare insieme alle [descrizioni dei servizi di Office 365 ](../../office-365-service-descriptions-technet-library.md).
+In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato ambienti governativi Microsoft 365 specifici per i clienti del settore pubblico degli Stati Uniti. In questa sezione viene fornita una panoramica degli ambienti e ulteriori informazioni su come acquistare. Si consiglia di leggere questa sezione supplementare accanto alle descrizioni dei [Servizi Microsoft 365 e Office 365](../../office-365-service-descriptions-technet-library.md).
   
 ## <a name="whats-microsoft-365-government"></a>Che cos'è Microsoft 365 Government?
 
-Microsoft 365 Government è un insieme di funzionalità software cloud per la produttività, la sicurezza e la mobilità specifiche appositamente studiate per gli enti governativi e gli appaltatori degli Stati Uniti sponsorizzati per mantenere le informazioni controllate e non classificate. Recapitato tramite ambienti univoci che soddisfano i requisiti di conformità più rigorosi, Microsoft 365 Government è un'offerta cloud per i clienti del governo degli Stati Uniti, che corrisponde il più fedelmente possibile alle caratteristiche e alle funzionalità di Microsoft Commercial cloud. Offerte Enterprise. 
+Microsoft 365 Government è un insieme di funzionalità software cloud per la produttività, la sicurezza e la mobilità specifiche appositamente studiate per gli enti governativi e gli appaltatori degli Stati Uniti sponsorizzati per mantenere le informazioni controllate e non classificate. Recapitato tramite ambienti univoci che soddisfano i requisiti di conformità più rigorosi, Microsoft 365 Government è un'offerta cloud per i clienti del governo degli Stati Uniti, che corrisponde il più fedelmente possibile alle caratteristiche e alle funzionalità delle offerte di Microsoft Commercial cloud Enterprise. 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Qual è il valore del governo Microsoft 365?
 
-Microsoft 365 Government aiuta i leader del governo americano e i lavoratori a essere produttivi virtualmente ovunque, in qualsiasi momento, consentendo la produttività mobile e la collaborazione sicura con la conformità aiutando le agenzie a gestire efficacemente i dati normativi requisiti. Nella tabella seguente vengono forniti esempi per i ruoli governativi chiave.
+Microsoft 365 Government aiuta i leader del governo statunitense e i lavoratori a essere produttivi virtualmente ovunque, in qualsiasi momento, consentendo la produttività mobile e la collaborazione sicura con la conformità aiutando le agenzie a gestire in modo efficace i requisiti normativi relativi Nella tabella seguente vengono forniti esempi per i ruoli governativi chiave.
 
  
 ||||||
@@ -69,7 +69,7 @@ Un cliente governativo idoneo è definito da uno dei seguenti:
 - Un ente federale, definito come Bureau, Office, Agency, Department o altre entità del governo degli Stati Uniti
 - Entità statale/locale, definita come una delle seguenti operazioni:
     1. Qualsiasi agenzia di stato o amministrazioni locali negli Stati Uniti.
-    2. Qualsiasi Contea degli Stati Uniti, Borough, Commonwealth, City, municipale, Town, Township, distretto speciale o altro tipo analogo di strumenti governativi stabilito dalle leggi dello stato di un cliente e che si trova all'interno della giurisdizione state's del cliente e confini geografici
+    2. Qualsiasi Contea degli Stati Uniti, Borough, Commonwealth, City, municipale, Town, Township, distretto speciale o altro tipo analogo di strumenti governativi stabilito dalle leggi dello stato di un cliente e che si trova all'interno della giurisdizione state's del cliente e dei confini geografici
     3. Distretto di Columbia, Commonwealth de Puerto Rico, Guam, Samoa americane, Isole Vergini degli Stati Uniti e Isole Marianne settentrionali
 - Un'entità tribale, definita come entità tribale federalmente riconosciuta idonea ai finanziamenti e ai servizi del dipartimento di interni degli Stati Uniti in virtù del suo status di tribù indiana, o, in Alaska, in un villaggio nativo o in Alaska Regional Native Corporation
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali funzionalità di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639844"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044788"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -82,7 +82,7 @@ Per una panoramica delle opzioni di personalizzazione, vedere [Customizing Share
 
 Per ulteriori informazioni sulla disponibilità di Microsoft Power Apps e Power automatizzate, vedere le [domande frequenti sulle licenze di Power Apps e Power automatizzate](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere la [Descrizione del servizio piattaforma Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere [microsoft 365 e Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans).
 
 ## <a name="it-admin-features"></a>Funzionalità di amministrazione IT
 
@@ -203,6 +203,6 @@ Se non diversamente specificato, le seguenti funzionalità sono disponibili in t
 - [Centro ricerche (ricerca classica)](/sharepoint/manage-search-center)
 - [Schema di ricerca (ricerca classica e moderna)](/sharepoint/manage-search-schema)
 
-Per informazioni su approfondire, vedere la [Descrizione del servizio Office 365 Platform](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
+Per informazioni su approfondire, vedere [Descrizione del servizio piattaforma Microsoft 365 e Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
 
 
