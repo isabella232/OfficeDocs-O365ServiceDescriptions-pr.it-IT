@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640134"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213988"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
 Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
   
-Per confrontare le funzionalità tra i piani, vedere [confrontare i piani Microsoft 365 for business](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Per confrontare le funzionalità tra i piani, vedere [strumenti potenti per supportare l'organizzazione](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilità delle funzionalità tra Office per i piani Web
 

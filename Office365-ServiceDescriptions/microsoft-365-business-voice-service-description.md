@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice è un servizio del componente aggiuntivo che consente di utilizzare Microsoft teams per le chiamate telefoniche. Questo combina sistema telefonico, piano per le chiamate nazionali, SMS e audioconferenza.
-ms.openlocfilehash: f1a5c61d1517e8c08f8972567d6f5054b0dd1cfe
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640154"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213968"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descrizione del servizio Microsoft 365 Business Voice
 
@@ -28,17 +28,17 @@ Microsoft 365 Business Voice è una soluzione di telefonia basata su cloud che o
 Microsoft 365 Business Voice è disponibile con i seguenti abbonamenti di piccole e medie dimensioni con un massimo di 300 licenze:
 
 - [Microsoft 365 Business Basic](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 business standard](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 Business Standard](office-365-platform-service-description/office-365-platform-service-description.md)
 - [Microsoft 365 Business Premium](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
+- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
 - [Microsoft 365 a1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 - [Microsoft 365 a3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 
 ## <a name="microsoft-365-business-voice-features"></a>Funzionalità vocali di Microsoft 365 business
 
-| **Caratteristica**                                            | **Microsoft 365 Business Voice** | **Microsoft 365 Business Voice senza il piano di chiamata** |
+| **Funzionalità**                                            | **Microsoft 365 Business Voice** | **Microsoft 365 Business Voice senza il piano di chiamata** |
 |--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Numeri locali                                          | Sì                              | Sì                                                   |
 | Chiamate VoIP                                           | Sì                              | Sì                                                   |
@@ -63,4 +63,4 @@ Microsoft 365 Business Voice è disponibile con i seguenti abbonamenti di piccol
 | Piani per le chiamate internazionali\*                           | Sì                              | No                                                    |
 | Audioconferenza                                     | Sì                              | Sì                                                   |
  
-\*Il numero di chiamate gratuite e il piano per le chiamate internazionali sono disponibili a costi aggiuntivi utilizzando i [crediti comunicazioni](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Per ulteriori informazioni, vedere [numero verde](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) e [Tariffe chiamate internazionali](https://products.office.com/microsoft-teams/online-meeting-solutions#Rates).
+\*Il numero di chiamate gratuite e il piano per le chiamate internazionali sono disponibili a costi aggiuntivi utilizzando i [crediti comunicazioni](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Per ulteriori informazioni, vedere [numero verde](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) e [Tariffe chiamate internazionali](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).

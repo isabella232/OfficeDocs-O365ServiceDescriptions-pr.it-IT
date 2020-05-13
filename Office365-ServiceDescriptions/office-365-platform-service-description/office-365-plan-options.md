@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044988"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213908"
 ---
 # <a name="office-365-plan-options"></a>Opzioni dei piani di Office 365
 
@@ -38,7 +38,7 @@ Nella seguente tabella sono elencate le diverse famiglie e i diversi piani di se
 |**Education (numero illimitato di utenti)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Government (numero illimitato di utenti)** <br/> |[Consultare tutti i piani aziendali disponibili](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Office 365 gestito da 21Vianet in Cina** <br/> |[Consultare tutti i piani aziendali disponibili](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Consultare tutti i piani aziendali disponibili](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
+|**Office 365 Germany** <br/> |[Vedere informazioni su Office 365 Germany](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilità dei servizi in ogni piano di Office 365
 

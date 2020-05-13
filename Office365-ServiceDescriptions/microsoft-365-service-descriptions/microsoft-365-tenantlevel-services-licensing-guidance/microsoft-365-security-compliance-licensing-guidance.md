@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090139"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214018"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
-Ai fini di questo articolo, un servizio a livello di tenant è un servizio online che&mdash;, quando è stato acquistato per qualsiasi utente del tenant (autonomo o come parte di Office 365 o Microsoft&mdash;365), viene attivato parzialmente o integralmente per tutti gli utenti del tenant. Sebbene alcuni utenti senza licenza possano tecnicamente essere in grado di accedere al servizio, è necessaria una licenza per qualsiasi utente che si intende trarre vantaggio dal servizio.
+Ai fini di questo articolo, un servizio a livello di tenant è un servizio online che, &mdash; quando è stato acquistato per qualsiasi utente del tenant (autonomo o come parte di Office 365 o Microsoft 365), &mdash; viene attivato parzialmente o integralmente per tutti gli utenti del tenant. Sebbene alcuni utenti senza licenza possano tecnicamente essere in grado di accedere al servizio, è necessaria una licenza per qualsiasi utente che si intende trarre vantaggio dal servizio.
 
 > [!NOTE]
 > Alcuni servizi tenant non sono attualmente in grado di limitare i vantaggi per utenti specifici. È necessario compiere sforzi per limitare i vantaggi del servizio agli utenti con licenza. In questo modo si eviterà possibili interruzioni del servizio nell'organizzazione una volta che sono disponibili le funzionalità di assegnazione.
@@ -96,7 +96,7 @@ Per l'ambito ATP, seguire i collegamenti sicuri e i criteri di distribuzione deg
 
 Office 365 cloud app Security (OCAS) è un sottoinsieme di Microsoft cloud app Security, con funzionalità limitate a Office 365 e senza ulteriore sicurezza per le app cloud di terze parti e i servizi di IaaS.
 
-OCAS offre alle organizzazioni visibilità nelle app e nei servizi cloud per la produttività, fornisce analisi sofisticate per identificare e combattere le minacce cibernetiche e consente&mdash;loro di controllare il modo in cui i dati viaggiano tra Office 365.
+OCAS offre alle organizzazioni visibilità nelle app e nei servizi cloud per la produttività, fornisce analisi sofisticate per identificare e combattere le minacce cibernetiche e consente loro di controllare il modo in cui i dati viaggiano &mdash; tra Office 365.
 
 Per confrontare le funzionalità, vedere [differenze tra Microsoft cloud app Security e Office 365 cloud app Security](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365).
 
@@ -121,7 +121,7 @@ Gli amministratori possono accedere alle distribuzioni di OCAS per applicare la 
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft cloud app Security (MCAS) è una soluzione CASB (cloud Access Security Broker) che offre alle organizzazioni visibilità nelle app e nei servizi cloud, fornisce analisi sofisticate per identificare e combattere le minacce cibernetiche e consente loro di&mdash;controllare il modo in cui i dati passano attraverso qualsiasi app cloud.
+Microsoft cloud app Security (MCAS) è una soluzione CASB (cloud Access Security Broker) che offre alle organizzazioni visibilità nelle app e nei servizi cloud, fornisce analisi sofisticate per identificare e combattere le minacce cibernetiche e consente loro di controllare il modo in cui i dati passano &mdash; attraverso qualsiasi app cloud.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -352,7 +352,7 @@ Per impostazione predefinita, i messaggi di posta elettronica di Exchange Online
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità, in**posizioni**di **prevenzione** > della perdita di dati.
+Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità, in posizioni di **prevenzione della perdita di dati**  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevenzione della perdita dei dati di comunicazione per i team
 
@@ -372,7 +372,7 @@ Per impostazione predefinita, i messaggi chat e il canale dei team sono un *perc
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità, in**posizioni**di **prevenzione** > della perdita di dati.
+Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli utenti inclusi e gli utenti esclusi nel centro sicurezza & conformità, in posizioni di **prevenzione della perdita di dati**  >  **Locations**.
 
 ## <a name="information-barriers"></a>Barriere informative
 
@@ -417,7 +417,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 e Azure Information Protection Plan 1 offr
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi di Office 365 nell'interfaccia di amministrazione di Exchange in**regole**del **flusso** > di posta. Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione delle nuove funzionalità di crittografia dei messaggi di Office 365, vedere [configurare le nuove funzionalità di crittografia dei messaggi di office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi di Office 365 nell'interfaccia di amministrazione di Exchange in regole del **flusso di posta**  >  **Rules**. Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione delle nuove funzionalità di crittografia dei messaggi di Office 365, vedere [configurare le nuove funzionalità di crittografia dei messaggi di office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -514,7 +514,7 @@ Gli utenti con licenza di Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 comp
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Un utente beneficia del controllo avanzato perché i record di controllo relativi all'attività degli utenti nei servizi Microsoft 365 possono essere conservati per un massimo di un anno. Inoltre, gli eventi di controllo di alto valore vengono registrati, ad esempio quando si accede o si leggono gli elementi della cassetta postale di un utente. Per ulteriori informazioni, vedere [eventi di controllo ad alto valore](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+Un utente beneficia del controllo avanzato perché i record di controllo relativi all'attività degli utenti nei servizi Microsoft 365 possono essere conservati per un massimo di un anno. Inoltre, gli eventi di controllo di alto valore vengono registrati, ad esempio quando si accede o si leggono gli elementi della cassetta postale di un utente. Per ulteriori informazioni, vedere [Advanced audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 

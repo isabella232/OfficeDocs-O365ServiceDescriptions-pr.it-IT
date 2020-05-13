@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002333"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213878"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -43,13 +43,13 @@ Project per il Web è disponibile tramite tre abbonamenti: Project Plan 1, Proje
 
 ### <a name="project-online"></a>Project Online
  
-Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione&mdash;di Projects e investimenti di portfolio da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
+Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione di Projects e investimenti &mdash; di portfolio da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
 
 Project online è basato sulla piattaforma SharePoint e archivia i dati nell'archivio dati di SharePoint.
 
 Project online è disponibile tramite due abbonamenti: Project Plan 3 e Project Plan 5. Le funzionalità elencate nella sezione [Project Online features](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
 
-La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di Project Online Essentials. Project Online Essentials è un abbonamento *componente aggiuntivo*per i membri del team per i clienti che dispongono di sottoscrizioni di Project Plan 3 o Project Plan 5. Fornisce ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online.
+La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di Project Online Essentials. Project Online Essentials è un abbonamento *componente aggiuntivo*   per i membri del team per i clienti che dispongono di sottoscrizioni di Project Plan 3 o Project Plan 5. Fornisce ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online.
 
 I membri del team con Project Online Essentials sono in grado di eseguire le seguenti funzioni di Project online:
 
@@ -239,7 +239,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Ordinamento e raggruppamento | Utilizzare l'ordinamento personalizzato e il raggruppamento per ottenere una visualizzazione mirata del progetto, delle attività e delle risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. |
-|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi i piani di progetto, i team e le assegnazioni. |
 |importazione/esportazione di file con estensione MPP | Creare nuovi progetti da file con estensione MPP esistenti o creare un file con estensione MPP di un progetto esistente. |
@@ -248,9 +248,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 ## <a name="service-considerations"></a>Considerazioni sui servizi
 
 > [!NOTE]
-> - Il progetto Francia e &ndash; Corea del sud per il Web non è attualmente disponibile. Stiamo lavorando per fornire il progetto per il Web alla propria area e informarvi della sua disponibilità attraverso i canali di comunicazione riportati di seguito.
-> - Il &ndash; progetto educativo per il Web è prossima ai clienti dell'istruzione. L'intervallo di tempo esatto è in sospeso.
-> - GCC, GCC High, DoD &ndash; attualmente, Project for the Web non è disponibile per GCC, GCC High e DOD. Stiamo lavorando alla distribuzione di progetti per il Web, ma al momento non è possibile condividere un calendario stabile.
+> Project per il Web non è attualmente disponibile per GCC, GCC High e DoD. È in fase di elaborazione il progetto per il Web, ma non è possibile condividerlo in questo momento.
 
 ### <a name="licensing-considerations"></a>Considerazioni sulle licenze
 
@@ -279,7 +277,7 @@ Project per il Web e Project Online entrambi dispongono dello stesso criterio di
 
 Il progetto per il Web presenta alcune limitazioni, descritte nella tabella seguente.
 
-|Entità/campo | Tipo di limite |
+|Entità/campo | Limite |
 |-------------|-------|
 |**Attività** ||
 |Massimo. livello di gerarchia per l'attività | 10 livelli |

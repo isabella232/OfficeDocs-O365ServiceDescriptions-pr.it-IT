@@ -1,5 +1,5 @@
 ---
-title: Visio per la descrizione del servizio Web
+title: Descrizione del servizio Visio per il Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web.
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263229"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213653"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio per la descrizione del servizio Web
+# <a name="visio-for-the-web-service-description"></a>Descrizione del servizio Visio per il Web
 
 Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È semplice e facile creare diagrammi di prima classe con tipi di diagramma di uso comune e set di forme ricche. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
   
-Per ulteriori informazioni e per iniziare, vedere [Visio per il Web](https://products.office.com/en-US/visio/visio-online).
+Per ulteriori informazioni e per iniziare, vedere [Visio Plan 1](https://products.office.com/en-US/visio/visio-online).
   
-Per informazioni sull'utilizzo di Visio per il Web, vedere [centro assistenza di Visio](https://support.office.com/visio).
+Per informazioni sull'utilizzo di Visio per il Web, vedere la [Guida di visio & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Confronto e disponibilità delle funzionalità
 
