@@ -1,5 +1,5 @@
 ---
-title: 'Descrizioni del servizio Office 365 '
+title: Descrizione dei servizi di Office 365 e Microsoft 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti.
-ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: Microsoft 365 e Office 365 sono servizi basati su cloud che consentono di soddisfare le esigenze dell'organizzazione per una robusta sicurezza, affidabilità e produttività degli utenti.
+ms.openlocfilehash: 8f52de49564c07a41153b0935c27aef1277c4bb8
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002066"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044798"
 ---
-# <a name="office-365-service-descriptions"></a>Descrizioni del servizio Office 365 
+# <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrizione dei servizi di Office 365 e Microsoft 365 
 
-Microsoft Office 365 è un servizio basato su cloud che consente di soddisfare le esigenze dell'organizzazione per una sicurezza robusta, l'affidabilità e la produttività degli utenti. 
+Microsoft 365 e Office 365 sono servizi basati su cloud che consentono di soddisfare le esigenze dell'organizzazione per una robusta sicurezza, affidabilità e produttività degli utenti. 
   
-Gli argomenti presenti in questa libreria forniscono descrizioni dettagliate su servizi e funzionalità disponibili in Office 365. Per confrontare le funzionalità tra piani, vedere [Confronto tra piani di Office 365 for Business ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oppure la relativa descrizione del servizio nell'elenco riportato di seguito. 
+Negli argomenti di questa raccolta vengono fornite descrizioni dettagliate dei servizi e delle funzionalità disponibili con Microsoft 365 e Office 365. Per confrontare le funzionalità tra i piani, vedere [strumenti potenti per supportare l'organizzazione](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descrizione del servizio pertinente nell'elenco seguente. 
   
-Per cercare articoli di supporto e informazioni, vedere [Supporto Office](https://support.office.com/).
+Per informazioni e articoli sul supporto, vedere [Office help & Training](https://support.office.com/), [documentazione di Office per amministratori e professionisti it](https://docs.microsoft.com/office/)e [Microsoft 365 Help Center per gli amministratori e i professionisti IT](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide).
   
 > [!NOTE]
 > Se si sta cercando il foglio di calcolo del confronto di descrizione del servizio, è stato ritirato. Le tabelle di disponibilità delle funzionalità del prodotto in ogni pagina di descrizione del servizio sono state aggiornate in modo da facilitare la scelta della versione di Office 365 adatta alle proprie esigenze. 
@@ -46,13 +46,15 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
 
 - [Descrizione del servizio Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
 
-- [Descrizione del servizio Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
-
 - [Descrizione del servizio Archiviazione Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Descrizione del servizio OneDrive for Business](onedrive-for-business-service-description.md)
+- [Descrizione del servizio Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
 
-- [Descrizione del servizio SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Descrizione del servizio Microsoft Teams](teams-service-description.md)
+
+- [Descrizione del servizio OneDrive](onedrive-for-business-service-description.md)
+
+- [Descrizione del servizio SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 
@@ -64,15 +66,19 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
 
 - [Descrizione del servizio Power BI](power-bi-service-description.md)
 
-- [Descrizione del servizio Project online](project-online-service-description/project-online-service-description.md)
+- [Descrizione del servizio Microsoft Project](project-online-service-description/project-online-service-description.md)
 
 - [Descrizione del servizio Visio per il Web](visio-online-service-description/visio-online-service-description.md)
 
 - [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
 
+- [Descrizione del servizio Microsoft 365 Business Voice](microsoft-365-business-voice-service-description.md)
+
 - [Descrizione del servizio Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 Security & Compliance Licensing Guidance](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Assegnazione di licenze di Microsoft 365 per piccole e medie imprese](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+
+- [Indicazioni per l'assegnazione di licenze di Microsoft 365 per sicurezza e conformità](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 - [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
 

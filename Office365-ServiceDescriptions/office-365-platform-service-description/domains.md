@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica e altri servizi nel nome dell'azienda. Al termine della procedura guidata, il messaggio di posta elettronica aziendale inizia a venire a Microsoft invece di passare al provider di posta elettronica corrente. Per ulteriori informazioni, vedere Aggiungere utenti e domini a Microsoft. Se si utilizza Office 365 gestito da 21Vianet, vedere Verificare il dominio.
-ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638864"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044828"
 ---
 # <a name="domains"></a>Domini
 
@@ -57,6 +57,6 @@ Per ulteriori informazioni, vedere in [che modo Microsoft gestisce i record DNS]
     
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Microsoft 365 per le aziende, opzioni autonome e soluzioni locali, vedere [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra i piani di Microsoft 365 per le aziende, opzioni autonome e soluzioni locali, vedere [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 
