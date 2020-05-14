@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800622"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226255"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -96,7 +96,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Office Delve|No|No|No|No|No|No|No|
 |Gruppi di Office 365|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Video di Office 365|No|No|No|Sì|Sì|Sì|Sì<sup>2</sup>|
-|Blocco appunti di OneNote per la classe|No|No|No|Sì<sup>15<sup>|No|No|No|
+|Blocco appunti di OneNote per la classe|No|No|No|Sì <sup> 15<sup>|No|No|No|
 |**[MManagement dell'account utente](user-account-management.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Identità del cloud, identità federata o autenticazione a più fattori<sup>14</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Strumento di configurazione desktop Office 365|No|No|No|No|No|No|No|
@@ -154,7 +154,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
+|**[Aggiornamenti dei servizi](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate al centro messaggi quando l'azione è obbligatoria, viene risolto un problema, vengono distribuite le funzionalità o le modifiche del servizio|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) per alcuni aggiornamenti del servizio|Sì|--|Sì|Sì|Sì|Sì|Sì|
@@ -430,7 +430,7 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 <br/><sup>10</sup> la procedura guidata di configurazione ibrida è disponibile per le distribuzioni locali di Exchange 2013 CU5 e versioni successive. Tuttavia, alcune funzionalità ibride presentano limitazioni, vedere l'argomento della guida. Per informazioni dettagliate, vedere [Office 365 gestito da 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
 <br/><sup>11</sup> per Office 365 gestito da 21ViaNet, LinkedIn è disponibile, ma non Facebook.
 <br/><sup>12</sup> l'installazione della distribuzione ibrida è disponibile tramite la procedura guidata di configurazione ibrida per Exchange 2013 CU5 oppure può essere configurata manualmente se si dispone di Exchange 2013 SP1. Vedere l'argomento della Guida per informazioni dettagliate, vedere [Office 365 gestito da 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
-<br/><sup>13</sup> gli account connessi sono supportati per &amp; gli account IMAP POP, ma sono disattivati per Outlook.com (Hotmail).
+<br/><sup>13</sup> gli account connessi sono supportati per gli &amp; account IMAP POP, ma sono disattivati per Outlook.com (Hotmail).
 <br/><sup>14</sup> se si utilizza un cmdlet per l'utilizzo con l'elenco indirizzi e l'elenco indirizzi globale non è supportato.
 <br/><sup>15</sup> le attuali funzionalità di crittografia dei messaggi di Office 365 (OME) sono un'evoluzione delle soluzioni di Information Rights Management (IRM) correnti e precedenti. Per ulteriori informazioni su OME, vedere [domande frequenti sulla crittografia dei messaggi di Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-faq).
 
@@ -491,8 +491,8 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Personalizzare i criteri antimalware](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Sì|Sì|
 |[Quarantena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): gestione dell'amministratore|Sì|Sì|
 |[Quarantena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): autogestione dell'utente finale|Sì|Sì|
-|[Componente aggiuntivo per i messaggi di report per Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Sì|Sì|
-|[Report di posta indesiderata in Outlook sul Web](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|N.<sup>7</sup>|N.<sup>7</sup>|
+|[Componente aggiuntivo per i messaggi di report per Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Sì|Sì|
+|[Report di posta indesiderata in Outlook sul Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|N.<sup>7</sup>|N.<sup>7</sup>|
 |[Routing della posta elettronica tra Microsoft e i server di posta elettronica personali](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sì|Sì|
 |[Messaggistica sicura presso un partner di fiducia](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sì|Sì|
 |[Elenco sicuro indirizzi IP del partner](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sì|Sì|
@@ -652,7 +652,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Supporto degli standard di accessibilità|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Miglioramenti della raccolta di risorse/supporto video|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Controllo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|&amp; Report di controllo (ad esempio, modifiche del documento, modifiche ai criteri, eliminazioni)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Report di controllo &amp; (ad esempio, modifiche del documento, modifiche ai criteri, eliminazioni)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Content Organizer|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Design Manager|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |Set di documenti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -852,7 +852,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Configurazione dell'immagine personale|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Immagine personale: URL Photo Experience|No|No|No|No|No|No|No|
 |Configurazione elenco contatti|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|Archivio contatti unificato|No|No|No|No|No|No|No|
+|Archivio unico dei contatti|No|No|No|No|No|No|No|
 |Ricerca rubrica|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Espansione della lista di distribuzione|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Chat persistente|No|No|No|No|No|No|No|
@@ -993,7 +993,7 @@ Nella tabella riportata di seguito sono elencati i piani di Office 365 che inclu
 |Configurazione dell'immagine personale|Sì|Sì|
 |Immagine personale: URL Photo Experience|No|No|
 |Configurazione elenco contatti|Sì|Sì|
-|Archivio contatti unificato|No|No|
+|Archivio unico dei contatti|No|No|
 |Ricerca rubrica|Sì|Sì|
 |Espansione della lista di distribuzione|Sì|Sì|
 |Chat persistente|No|No|

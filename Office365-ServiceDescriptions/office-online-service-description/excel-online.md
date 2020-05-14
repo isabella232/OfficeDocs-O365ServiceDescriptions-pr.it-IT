@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639884"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226225"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -90,7 +90,7 @@ I grafici e le tabelle Excel facilitano le operazioni di formattazione dei dati 
 
 ## <a name="check-spelling"></a>Controllo ortografico
 
-Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionare **Controlla** > **Proofing** > **ortografia**correzione. Per ulteriori informazioni, vedere [controllo ortografico](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionare **Controlla**  >  **Proofing**  >  **ortografia**correzione. Per ulteriori informazioni, vedere [controllo ortografico](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -102,7 +102,7 @@ Dopo aver creato una tabella di Excel, è possibile che si desideri solo lo stil
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-È possibile tagliare, copiare e incollare testo, collegamenti ipertestuali, numeri, formule, forme, grafici e immagini. Se si dispone di dati nelle colonne che è necessario ruotare per riorganizzarlo in righe, utilizzare la caratteristica **TRANSPOSE** del menu **Incolla** . Per ulteriori informazioni [, vedere copia e incolla in Excel per il Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
+È possibile tagliare, copiare e incollare testo, collegamenti ipertestuali, numeri, formule, forme, grafici e immagini. Se si dispone di dati nelle colonne che è necessario ruotare per riordinare le righe, utilizzare la caratteristica **TRANSPOSE** del menu **Incolla** . Per ulteriori informazioni [, vedere copia e incolla in Excel per il Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline). Usando Edge o Chrome come browser, è possibile copiare collegamenti ipertestuali da altre app e incollarli in Excel per il Web. I collegamenti ipertestuali incollati funzioneranno normalmente.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -110,7 +110,7 @@ Dopo aver creato una tabella di Excel, è possibile che si desideri solo lo stil
   
 ## <a name="create-tables"></a>Creazione di tabelle
 
-Creare una tabella per organizzare e analizzare i dati correlati. Le tabelle facilitano le operazioni di ordinamento, filtraggio e formattazione dei dati. 
+Creare una tabella per organizzare e analizzare i dati correlati. Le tabelle facilitano le operazioni di ordinamento, filtraggio e formattazione dei dati. Aggiungere alcuni lucidi con [Opzioni di formattazione della tabella](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370), inclusa una raccolta di stili.
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Creazione di visualizzazioni di analisi avanzate (Power View, Power Pivot, Filtri dei dati)
 
@@ -162,7 +162,7 @@ Nella barra delle formule, è possibile visualizzare le formule che hanno prodot
   
 ## <a name="formula-tools-advanced"></a>Strumenti per le formule, avanzate
 
-L'app desktop Microsoft Excel supporta gli strumenti per le formule più avanzate, quali formule in forma di matrice e con stile di riferimento 3D. Excel per il Web supporta solo le formule di Excel di base. Ulteriori informazioni sulle [formule](https://go.microsoft.com/fwlink/p/?LinkId=271665).
+L'app desktop Microsoft Excel fornisce gli strumenti avanzati per le formule, ad esempio lo stile di riferimento 3D. Excel per il Web supporta un numero crescente di formule avanzate di Excel, ad esempio [formule di matrici dinamiche](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Ulteriori informazioni sulle [formule](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -174,7 +174,7 @@ Tutti gli elementi visibili in una cartella di lavoro nel browser in modalità d
   
 ## <a name="functions"></a>Funzioni
 
-È possibile utilizzare la maggior parte delle funzioni del foglio di lavoro di Excel più di 400 nelle formule in Excel per il Web.
+È possibile utilizzare la maggior parte delle funzioni del foglio di lavoro di Excel più di 400 nelle formule di Excel per il Web, incluse le funzioni utilizzate nelle [formule di matrici dinamiche](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531), ad esempio la [funzione di filtro](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
   
 ## <a name="goto"></a>GoTo
 
@@ -207,6 +207,10 @@ Aggiungere alcuni interessi visivi inserendo immagini nel foglio di calcolo. Per
 ## <a name="insert-shapes"></a>Inserire forme
 
 Aggiungere e formattare forme quali caselle, cerchi, linee, connettori o frecce in Excel per il foglio di calcolo Web. Per ulteriori informazioni, vedere [aggiunta di forme](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+
+## <a name="keyboard-shortcuts"></a>Tasti di scelta rapida
+
+È possibile controllare i tasti di scelta rapida in modo che funzionino lo stesso nelle versioni desktop e Web di Excel modificando l'impostazione dei tasti di scelta rapida &mdash; è possibile persino ignorare i tasti di scelta rapida del browser. Basta selezionare **Guida**tasti di  >  **scelta rapida**.
   
 ## <a name="merge-cells"></a>Merge cells
 
@@ -283,22 +287,30 @@ Non disponibile in Excel per il Web. Se sul computer è installata l'app desktop
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
 Se si desidera una copia della cartella di lavoro, utilizzare il comando Salva con nome nella scheda File oppure fare clic con il pulsante destro del mouse sul nome della cartella che la contiene e utilizzare il comando Download per salvare una copia sul proprio computer.
+
+## <a name="sensitivity-labels"></a>Etichette di riservatezza
+
+Mantenere il controllo dell'accesso e della sensibilità dei documenti applicando manualmente un'etichetta o utilizzando le etichette consigliate automaticamente da Microsoft.
   
-## <a name="share"></a>Condividi
+## <a name="share"></a>Condividere
 
 Con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni sull' [utilizzo di Office per il Web per collaborare in office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
 ## <a name="sheet-protection"></a>Protezione dei fogli
 
 Quando si condivide un file Excel con altri utenti, è possibile proteggere un foglio di lavoro per impedire che venga modificato ed è possibile scegliere le operazioni che gli utenti possono effettuare su tale foglio di lavoro.
-  
-## <a name="slicer-viewing"></a>Visualizzazione dei filtri dei dati
 
-Visualizzare i filtri dei dati nel foglio di lavoro e filtrarli selezionando i pulsanti di sezionamento. Non è possibile creare o modificare i filtri dei dati in Excel per il Web.
+## <a name="sheet-views"></a>Visualizzazioni foglio
+
+Le [visualizzazioni foglio](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6) consentono di creare visualizzazioni personalizzate di un foglio di lavoro di Excel senza interruzioni da parte di altri utenti. Ad esempio, è possibile configurare un filtro per visualizzare solo i record importanti per l'utente, senza che altri utenti possano eseguire l'ordinamento e il filtro nel documento. È anche possibile configurare più visualizzazioni foglio nello stesso foglio di lavoro.
+  
+## <a name="slicers"></a>Filtro dei dati
+
+Visualizzare i filtri dei dati nel foglio di lavoro e filtrarli selezionando i pulsanti di sezionamento. Non è possibile creare o modificare i filtri dei dati in Excel per il Web, ma è possibile eliminare i filtri dei dati esistenti.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel per il Web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati (dall'alto verso il basso o da sinistra a destra, più livelli) ed eseguire il drill-through nei dettagli delle tabelle pivot. Per ulteriori informazioni [, vedere ordinamento e filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
+In Excel per il Web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati (dall'alto verso il basso o da sinistra a destra, più livelli) ed eseguire il drill-through nei dettagli delle tabelle pivot. Ordinare i dati in formato condizionale che utilizzano i set di icone o le scale di colore utilizzando le relative icona o valori di colore. Per ulteriori informazioni [, vedere ordinamento e filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Conformità e verifica dei fogli di calcolo
 
@@ -339,6 +351,10 @@ L'app desktop Microsoft Excel è uno strumento estremamente potente per modifica
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
 Non disponibile in Excel per il Web. È possibile visualizzare i risultati dell'analisi "What if" in Excel per il Web, come previsto. Se si desidera utilizzare gli strumenti di analisi quali Ricerca obiettivo, Tabelle dati, Risolutore e Serie, sarà necessaria l'app desktop Excel. Ulteriori informazioni sulle [differenze tra l'utilizzo di una cartella di lavoro nel browser e nell'app desktop Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+
+## <a name="workbook-statistics"></a>Statistiche sulle cartelle di lavoro
+
+La funzionalità statistiche della cartella di lavoro conta e identifica gli elementi di una cartella di lavoro, contribuendo a individuare tutto il contenuto. La troverai nella scheda **Revisione** .
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con la residenza dei dati in Germania e le misure di controllo e di accesso ai dati rigorose tramite un modello di fiducia dei dati univoco disciplinato dal diritto tedesco
-ms.openlocfilehash: cdac821da552186f6ac2c82740b0acd0c7819311
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639814"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226265"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -57,7 +57,7 @@ Per i requisiti di sistema di Office 365, vedere [Requisiti di sistema di Office
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Il centro &amp; sicurezza e conformità è disponibile per Office 365 Germany. Per ulteriori informazioni e per un elenco di funzionalità, vedere [Centro sicurezza &amp; e conformità di Office 365](office-365-securitycompliance-center.md).
+Il Centro sicurezza e &amp; conformità è disponibile per Office 365 Germany. Per ulteriori informazioni e per un elenco di funzionalità, vedere [ &amp; Centro sicurezza e conformità di Office 365](office-365-securitycompliance-center.md).
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Quali certificati di conformità sono forniti per Office 365 Germany?
 
@@ -144,7 +144,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Aggiornamenti dei servizi](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Roadmap.office.com per alcuni aggiornamenti del servizio|Sì|--|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -200,7 +200,7 @@ Utilizzare le tabelle seguenti per confrontare la disponibilità delle funzional
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germania Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**Funzionalità**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germania Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**Applicazioni di Office**<sup>1, 2</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sì|No|Sì|N.<sup>7</sup>|No|Sì|Sì|No|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sì|No|Sì|N.<sup>7</sup>|No|Sì|Sì|No|
@@ -462,7 +462,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
 <sup>6</sup> per eDiscovery, è necessaria una query separata per il cloud locale.<br/>
 <sup>7</sup> le regole del flusso di posta (note anche come regole di trasporto) sono costituite da criteri flessibili, che consentono di definire le condizioni, le eccezioni e le azioni da intraprendere in base ai criteri. Le condizioni, le eccezioni e le azioni disponibili differiscono tra Exchange Online e Microsoft Exchange Server. Per ulteriori informazioni, vedere gli argomenti corrispondenti per ogni prodotto.<br/>
 <sup>8</sup> accessibile solo tramite accesso diretto all'interfaccia di gestione di Exchange Admin Center (EAC). <br/>
-<sup>9</sup> Exchange Server 2013 utilizza solo il motore antimalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/> <sup>10</sup> gli account connessi sono supportati per &amp; gli account IMAP POP, ma sono disattivati per Outlook.com (Hotmail). <br/>
+<sup>9</sup> Exchange Server 2013 utilizza solo il motore antimalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/> <sup>10</sup> gli account connessi sono supportati per gli &amp; account IMAP POP, ma sono disattivati per Outlook.com (Hotmail). <br/>
 <sup>11</sup> è possibile acquistare una sottoscrizione EOA per ciascuna cassetta postale che necessita della funzionalità di cassette postali inattive. <br/>
 <sup>12</sup> l'utilizzo di un cmdlet per l'uso con l'elenco indirizzi e l'elenco indirizzi globale non è supportato. <br/>
 <sup>13</sup> richiede l'utilizzo dello spazio degli indirizzi di disponibilità per supportare la condivisione con altri tenant. Per ulteriori informazioni su come creare uno spazio degli indirizzi di disponibilità, vedere [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace?view=exchange-ps). <br/> <sup>14</sup> Table indica se il client è compatibile con i piani associati. Ciò non vuol dire che i client sono necessariamente inclusi nell'acquisto di tali piani.<br/>
@@ -481,7 +481,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Gestione del dominio](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|Sì<sup>3</sup>|Sì|Sì<sup>3</sup>|
 |[Corrispondenza sottodomini](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|Sì|Sì|No|
 |[DBEB (Directory Based Edge Blocking)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Sì|Sì|Sì|
-|[Regole del flusso di posta](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Sì<sup>3, 4, 14</sup>|Sì<sup>3, 4, 14</sup>|Sì|
+|[Regole dei flussi di posta](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Sì<sup>3, 4, 14</sup>|Sì<sup>3, 4, 14</sup>|Sì|
 |[Registrazione di controllo](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|Sì<sup>5</sup>|Sì|Sì|
 |[Ricerca dei log di controllo](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)
 <sup>16</sup>|No|Sì|Sì|
@@ -495,7 +495,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Quarantena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): autogestione dell'utente finale|Sì|Sì|Sì|
 |[Advanced Data Governance](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|No|Sì|Sì|
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|No|Sì|Sì|
-|[Report di posta indesiderata in Outlook sul Web](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Sì<sup>8</sup>|N.<sup>8</sup>|N.<sup>8</sup>|
+|[Report di posta indesiderata in Outlook sul Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sì<sup>8</sup>|N.<sup>8</sup>|N.<sup>8</sup>|
 |[Routing della posta elettronica tra Microsoft e i server di posta elettronica personali](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sì|Sì|Sì|
 |[Messaggistica sicura presso un partner di fiducia](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sì|Sì|Sì|
 |[Elenco sicuro indirizzi IP del partner](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sì|Sì|Sì|
@@ -633,7 +633,7 @@ Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti 
 |Supporto degli standard di accessibilità|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Miglioramenti della raccolta di risorse/supporto video|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Controllo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|&amp; Report di controllo (ad esempio, modifiche del documento, modifiche ai criteri, eliminazioni|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Report di controllo &amp; (ad esempio, modifiche del documento, modifiche ai criteri, eliminazioni|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Content Organizer|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Design Manager|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Set di documenti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -820,7 +820,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**Funzionalità**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì|Sì|No|
 |Lync 2013 Basic|Sì|Sì|Sì|Sì|Sì|Sì|No|
@@ -835,7 +835,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Configurazione dell'immagine personale|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Immagine personale: URL Photo Experience|No|No|No|No|No|No|No|
 |Configurazione elenco contatti|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|Archivio contatti unificato|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|No|
+|Archivio unico dei contatti|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|No|
 |Ricerca rubrica|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Espansione della lista di distribuzione|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Chat persistente|No|No|No|No|No|No|No|

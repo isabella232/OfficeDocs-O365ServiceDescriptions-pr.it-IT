@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213988"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226215"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
@@ -176,7 +176,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Salvataggio o download di una copia](excel-online.md#save-or-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
 |[Condivisione](excel-online.md#share) <br/> |Sì  <br/> |Sì  <br/> |
 |[Protezione dei fogli](excel-online.md#sheet-protection) <br/> |Sì  <br/> |Sì  <br/> |
-|[Visualizzazione dei filtri dei dati](excel-online.md#slicer-viewing) <br/> |Sì  <br/> |Sì  <br/> |
+|[Filtro dei dati](excel-online.md#slicers) <br/> |Sì  <br/> |Sì  <br/> |
 |[Ordinamento e filtro dei dati](excel-online.md#sort-and-filter-data) <br/> |Sì  <br/> |Sì  <br/> |
 |[Conformità e verifica dei fogli di calcolo](excel-online.md#spreadsheet-audit-and-compliance) <br/> |No  <br/> |Sì  <br/> |
 |[Aggregazione della barra di stato](excel-online.md#status-bar-aggregates) <br/> |Sì  <br/> |Sì  <br/> |

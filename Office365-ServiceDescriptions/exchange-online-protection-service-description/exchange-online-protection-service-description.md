@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, oltre a un confronto tra le caratteristiche di tali piani.
-ms.openlocfilehash: 3a52d682c4aa181c549e3e2d96ea8645ccae6260
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 661d2359d53fe740c5217aaecaf2f86e5f741d5c
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213978"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226205"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
@@ -99,8 +99,9 @@ Di seguito sono elencate tutte le funzionalità. Per informazioni più dettaglia
 |[Personalizzare i criteri antimalware](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Sì|Sì|Sì|
 |[Quarantena](anti-spam-and-anti-malware-protection-eop.md#quarantine): gestione dell'amministratore|Sì|Sì|Sì|
 |[Quarantena](anti-spam-and-anti-malware-protection-eop.md#quarantine): autogestione dell'utente finale|Sì|Sì|Sì|
-|[Componente aggiuntivo per i messaggi di report per Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Sì|Sì|Sì|
-|[Report di posta indesiderata in Outlook sul Web](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Sì|Sì|Sì|
+|[Invio](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|No|Sì|No|
+|[Componente aggiuntivo per i messaggi di report per Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Sì|Sì|Sì|
+|[Report di posta indesiderata in Outlook sul Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sì|Sì|Sì|
 |[Routing della posta elettronica tra Microsoft e i server di posta elettronica personali](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sì|Sì|Sì|
 |[Messaggistica sicura presso un partner di fiducia](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sì|Sì|Sì|
 |[Elenco sicuro indirizzi IP del partner](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sì|Sì|Sì|
