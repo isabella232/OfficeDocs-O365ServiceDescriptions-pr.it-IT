@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214018"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267335"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -66,7 +66,7 @@ Per impostazione predefinita, le funzionalità di Azure ATP sono abilitate a liv
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Microsoft fornisce funzionalità di rilevamento delle minacce per gli utenti con licenza.
+I servizi ATP di Azure attualmente non sono in grado di limitare le funzionalità a utenti specifici. È necessario concedere una licenza per ogni utente che si intende trarre vantaggio.
 
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 

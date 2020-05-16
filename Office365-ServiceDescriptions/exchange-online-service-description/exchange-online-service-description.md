@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213788"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267345"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -119,7 +119,7 @@ Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Busine
 |Criteri delle rubriche|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Rubrica gerarchica|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Elenchi di indirizzi e elenco indirizzi globale|Sì|Sì|Sì|Sì|Sì<sup>18</sup>|Sì<sup>18</sup>|Sì<sup>18</sup>|Sì<sup>18</sup>|
-|Gruppi di Office 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
+|Gruppi di Microsoft 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Gruppi di distribuzione|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Contatti esterni (globali)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Scheda contatto universale|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
