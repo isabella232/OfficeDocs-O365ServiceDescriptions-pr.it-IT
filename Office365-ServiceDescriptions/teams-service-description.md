@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre la messaggistica istantanea, la collaborazione di file e dati, le chiamate audio e video, riunioni online ricche, esperienze mobili e ampie funzionalità di Web Conferencing.
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213654"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356894"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -60,7 +60,7 @@ In questa tabella viene elencata la disponibilità delle funzionalità di Micros
 |Voce  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Audioconferenza  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |App, bot, connettori di &  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>4</sup>  <br/> |Sì<sup>4</sup>  <br/> |Sì<sup>4</sup>  <br/> |Sì  <br/> |
-|Eventi Live  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |N.<sup>5</sup>  <br/> |N.<sup>5</sup>  <br/> |Sì  <br/> |
+|Eventi Live  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |N.<sup>5</sup>  <br/> |N.<sup>5</sup>  <br/> |Sì  <br/> |
 
 <sup>1</sup> Microsoft teams in GCC-High e DOD supportano 2500 membri in un singolo team.<br/>
 <sup>2</sup> Microsoft Planner non è attualmente disponibile per l'accesso nei canali privati.<br/>

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e piani autonomi.
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638934"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356884"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -24,7 +24,7 @@ Informazioni sui limiti di servizio in SharePoint per Microsoft 365.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 oppure SharePoint piano 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**Funzionalità** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 oppure SharePoint piano 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |Spazio di archiviazione totale per ogni organizzazione<sup>1, 2, 6</sup> <br/> |1 TB più 10 GB per licenza acquistata  <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Spazio di archiviazione massimo per sito (raccolta siti)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Siti (raccolte siti) per ogni organizzazione  <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<br/> |
@@ -85,6 +85,10 @@ Un utente può appartenere a gruppi di 5.000 e ogni gruppo può avere fino a 5.0
 ### <a name="managed-metadata"></a>Metadati gestiti
 
 200.000 termini in archivio terminologico, set di termini globali 1.000, gruppi 1.000.
+
+### <a name="overall-site-metadata"></a>Metadati del sito complessivi
+
+1000 GB per sito (i metadati raggiungono raramente queste dimensioni).
 
 ### <a name="subsites"></a>Siti secondari 
 
