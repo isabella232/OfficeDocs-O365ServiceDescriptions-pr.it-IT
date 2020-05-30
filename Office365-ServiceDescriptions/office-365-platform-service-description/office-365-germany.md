@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con la residenza dei dati in Germania e le misure di controllo e di accesso ai dati rigorose tramite un modello di fiducia dei dati univoco disciplinato dal diritto tedesco
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226265"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429121"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -162,7 +162,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
 |Archivio protetto del cliente|No|No|No|No|No|No|Sì|No|
 |Advanced eDiscovery|No|No|No|No|No|No|No|No|
 |Secure Score|No|No|No|No|No|No|No|No|
-|**[Conformità](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[Conformità](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |Valutazioni SAS 70 / SSAE16|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Certificato ISO 27001|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Clausole modello UE|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -200,7 +200,7 @@ Utilizzare le tabelle seguenti per confrontare la disponibilità delle funzional
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germania Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**Caratteristica**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germania Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**Applicazioni di Office**<sup>1, 2</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sì|No|Sì|N.<sup>7</sup>|No|Sì|Sì|No|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sì|No|Sì|N.<sup>7</sup>|No|Sì|Sì|No|
@@ -820,7 +820,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**Caratteristica**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì|Sì|No|
 |Lync 2013 Basic|Sì|Sì|Sì|Sì|Sì|Sì|No|

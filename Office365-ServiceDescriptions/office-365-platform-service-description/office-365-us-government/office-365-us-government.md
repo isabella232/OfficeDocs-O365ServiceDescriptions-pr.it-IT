@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045038"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429061"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -134,7 +134,7 @@ Per i requisiti di sistema per i piani di Office 365 US Government, vedere [Requ
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Per informazioni sul centro conformità &amp; di sicurezza e sui collegamenti a ulteriori informazioni e disponibilità, vedere [Centro sicurezza &amp; e conformità](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
+Per informazioni sul &amp; centro conformità di sicurezza e sui collegamenti a ulteriori informazioni e disponibilità, [vedere &amp; Centro sicurezza e conformità](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilità del servizio per ogni piano
 
@@ -242,7 +242,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Browser utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Sistema operativo utilizzato  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
-|**[Aggiornamenti del servizio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
+|**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |Sì<sup>15</sup> <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |N<sup>. 10, 13</sup> <br/> |
@@ -264,7 +264,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Punteggio sicuro<sup>14</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9</sup> <br/> |Sì<sup>9, 15</sup> <br/> |Sì<sup>9, 15</sup> <br/> |
 |Crittografia dei messaggi di Office  <br/> |No  <br/> |Sì <br/> |Sì <br/> |No  <br/> |
 |Intelligence per le minacce  <br/> |N.<sup>12</sup> <br/> |N.<sup>12</sup> <br/> |Sì <br/> |N.<sup>12</sup> <br/> |
-|**[Conformità](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[Conformità](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> |||||
 |Valutazioni SAS 70 / SSAE16  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Certificato ISO 27001  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Clausole modello UE  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -296,7 +296,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 <br/><sup>11</sup> non ancora disponibile nelle offerte governative di Office 365, ma verrà presto. 
 <br/><sup>12</sup> non incluso, ma può essere acquistato come componente aggiuntivo separato in GCC. 
 <br/><sup>13</sup> non supportato per le offerte governative di Office 365. 
-<br/><sup>14</sup> disponibile all' [https://securescore.office.com](https://securescore.office.com)indirizzo. Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+<br/><sup>14</sup> disponibile all'indirizzo [https://securescore.office.com](https://securescore.office.com) . Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Introducing the Office 365 Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
 ). 
 <br/><sup>15</sup> non ancora disponibile in DOD Environment, ma lo sarà presto. 
 <br/><sup>16</sup> l'interfaccia di amministrazione non include l'analisi dell'utilizzo negli ambienti DOD o GCC High.
