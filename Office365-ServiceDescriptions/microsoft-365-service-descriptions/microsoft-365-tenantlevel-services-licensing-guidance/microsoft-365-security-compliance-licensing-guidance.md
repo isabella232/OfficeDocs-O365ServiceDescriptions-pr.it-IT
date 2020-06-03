@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
-ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
+ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
+ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44412695"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44524179"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -180,6 +180,11 @@ Gli utenti usufruiscono della possibilità di applicare manualmente le etichette
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
 Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/a3/F3, AIP Plan 1 e AIP Plan 2 forniscono i diritti per un utente di trarre vantaggio dall'etichetta di riservatezza manuale.
+
+Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 e AIP Plan 2 forniscono i diritti per un utente di trarre vantaggio dall'applicazione e visualizzazione di etichette di riservatezza in Power BI e proteggere i dati quando viene esportato da Power BI a Excel, PowerPoint o PDF. 
+
+> [!NOTE]
+> Power BI è incluso in Microsoft 365 E5/A5/G5; in tutti gli altri piani, Power BI deve essere concesso in licenza separatamente.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 e AIP Plan 2 forniscono i diritti per un utente di trarre vantaggio dall'etichettatura di sensitivity automatico.
 
