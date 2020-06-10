@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 e Office 365 sono disponibili in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429071"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679573"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrizione dei servizi delle piattaforme Office 365 e Microsoft 365
 
@@ -43,9 +43,9 @@ Sono disponibili diversi piani per Office 365, in modo da rispondere alle esigen
   
 Per informazioni sulle licenze per contratti multilicenza, vedere [termini di licenza e documentazione](https://go.microsoft.com/fwlink/?linkid=848696).
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Piani e prezzi di Microsoft 365 e Office 365 nonprofit
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Microsoft 365 e Office 365 piani e prezzi per organizzazioni no profit
 
-Per le organizzazioni che si qualificano per i piani no profit di Microsoft 365 o Office 365, questi piani includono esattamente le stesse caratteristiche dei piani aziendali corrispondenti (ad esempio, Office 365 nonprofit E5 include le stesse funzionalità di Office 365 E5). L'unica differenza tra i piani equivalenti è il prezzo che si paga. Per ulteriori informazioni sui piani di Microsoft 365 e Office 365 nonprofit, vedere [compare microsoft 365 and office 365 nonprofit offers](https://go.microsoft.com/fwlink/?LinkID=627221), and [Productivity Solutions for nonprofits](https://go.microsoft.com/fwlink/?LinkID=786641).
+Per le organizzazioni che si qualificano per i piani per i nonprofit di Microsoft 365 e Office 365, questi piani includono esattamente le stesse caratteristiche dei piani aziendali corrispondenti (ad esempio, Office 365 E5 per i nonprofit include le stesse funzionalità di Office 365 E5). L'unica differenza tra i piani equivalenti è il prezzo che si paga. Per ulteriori informazioni sui piani di Microsoft 365 e Office 365 per gli organizzazioni non profit, vedere [confronto tra microsoft 365 e office 365 offerte per](https://go.microsoft.com/fwlink/?LinkID=627221)organizzazioni non profit e [soluzioni per la produttività per organizzazioni non profit](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Requisiti di sistema
 
@@ -83,7 +83,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
     
 - U.S. Government: [Piani di Office 365 U.S. Government](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- Nonprofit: [confrontare le offerte no profit di Microsoft 365 e Office 365](https://go.microsoft.com/fwlink/?LinkID=733237)
+- Nonprofit: [confronto tra Microsoft 365 e Office 365 offerte per organizzazioni no profit](https://go.microsoft.com/fwlink/?LinkID=733237)
 
 - Office 365 Germany: [Piani di Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
@@ -91,11 +91,11 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Caratteristica** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[Amministrazione Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
-|**[Funzionalità della famiglia di prodotti Microsoft 365](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Funzionalità della famiglia di prodotti Microsoft 365](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft Bookings  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |N.<sup>19</sup>  <br/> |N.<sup>19</sup>  <br/> |No  <br/> |
 |Microsoft Briefing e-mail<sup>22</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Power Automate  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup> <br/> |
@@ -113,7 +113,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Video di Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>11</sup> <br/> |
 |Blocco appunti di OneNote per la classe  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>14</sup> <br/> |No  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì <br/> |
-|**[Gestione degli account utente](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Gestione degli account utente](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Identità cloud, identità federata oppure autenticazione a più fattori  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Strumento di configurazione desktop Office 365  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Caricamento di massa con i file csv  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -126,7 +126,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Disponibilità di più ruoli amministratore  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Consentire a un partner di amministrare Microsoft 365 per l'utente  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Servizi di Azure Active Directory<sup>21</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Domini](domains.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Domini](domains.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Aggiunta di domini di secondo livello personalizzati, come fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Aggiunta di domini di terzo livello personalizzati, come marketing.fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Aggiunta di un massimo di 900 domini personalizzati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -139,10 +139,10 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Utilizzo di un provider diverso per la posta elettronica e la messaggistica istantanea  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Verifica della proprietà obbligatoria per i domini personalizzati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Acquisto automatizzato di domini e verifica disponibile per domini acquistati tramite Go Daddy  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Continuità e integrità del servizio](service-health-and-continuity.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Continuità e integrità del servizio](service-health-and-continuity.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Stato dei singoli avvisi disponibili nel dashboard dell'interfaccia di amministrazione di Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Report](reports.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Report](reports.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Cassette postali attive e inattive  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Cassette postali nuove ed eliminate  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Gruppi nuovi ed eliminati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -167,19 +167,19 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Opzione per attivare Rilascio assegnato  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Guida e formazione](help-and-training.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Guida e formazione](help-and-training.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Guida online  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Community  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Altre risorse di supporto in autonomia  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Formazione autonoma  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Rete](networking.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Rete](networking.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Protocolli IPv4 e IPv6  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**Attendibilità** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Attendibilità** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[Privacy, sicurezza e trasparenza](privacy-security-and-transparency.md)** <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Office 365 Cloud App Security  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
@@ -197,7 +197,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |FISMA Authority to Operate  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Contratto sull'elaborazione dati di Microsoft  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Dati PAN conformi allo standard PCI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Utilizzo di BlackBerry Internet Service (BIS)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Partner](partners.md)** <br/> ||||||||
 |Creazione di inviti e ordini di acquisto di prova per un cliente che utilizza uno specifico piano  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
