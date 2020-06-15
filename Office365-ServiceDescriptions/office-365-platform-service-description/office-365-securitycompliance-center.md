@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il &amp; Centro sicurezza e conformità è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267325"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711116"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -30,7 +30,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
+|**Caratteristica**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No|No   |No   |Sì   |
 |[Gestione delle minacce](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), ad esempio, filtro delle e-mail e antimalware |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
@@ -59,7 +59,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 |[Customer Key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |No   |No   |No   |No   |No   |Sì   |No   |
 |||||||||
 
-<sup>1</sup> la governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete.
+<sup>1</sup> la governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere il confronto delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Advanced Information Governance consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni basate su un criterio di conservazione o eliminazione o entrambe. Include azioni intelligenti/automatiche come la raccomandazione di criteri, l'applicazione automatica di etichette ai dati, l'applicazione di etichette basate su query o tipi di dati sensibili, la revisione della disposizione e l'utilizzo di filtri di importazione intelligenti. Include inoltre la funzionalità di supervisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità.
 
@@ -115,7 +115,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 |[Gestione degli accessi con privilegi](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
 |||||||||
 
-<sup>1</sup> la governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete.
+<sup>1</sup> la governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere il confronto delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Richiede l'acquisto del componente aggiuntivo Archiviazione Exchange Online.
 

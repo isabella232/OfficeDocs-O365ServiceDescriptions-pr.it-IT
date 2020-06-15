@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
-ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
+ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44524179"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711136"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -188,9 +188,7 @@ Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 e AIP Plan 2 forniscono i diritti per un utente di trarre vantaggio dall'etichettatura di sensitivity automatico.
 
-Per i diritti specifici per licenza, vedere la [Descrizione dettagliata del confronto delle licenze di conformità di Microsoft 365 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
-
-Non include i diritti sulla classificazione automatica basata sull'apprendimento automatico (classificatori addestrabili).
+Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Non include i diritti sulla classificazione automatica basata sull'apprendimento automatico (classificatori addestrabili).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -218,7 +216,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information P
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance forniscono i diritti per un utente di trarre vantaggio dall'applicazione automatica delle etichette di conservazione in base ai classificatori addestrabili.
 
-Per i diritti specifici per licenza, vedere la [Descrizione dettagliata del confronto delle licenze di conformità di Microsoft 365 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 Non include i diritti per la conservazione automatica basata sull'apprendimento automatico (classificatori addestrabili).
 
@@ -240,7 +238,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information P
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance forniscono i diritti per un utente di trarre vantaggio dall'applicazione automatica di etichette di conservazione o di record in base ai classificatori addestrabili.
 
-Per i diritti specifici per licenza, vedere la [Descrizione dettagliata del confronto delle licenze di conformità di Microsoft 365 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 

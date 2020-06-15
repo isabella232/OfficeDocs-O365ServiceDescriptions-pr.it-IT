@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre la messaggistica istantanea, la collaborazione di file e dati, le chiamate audio e video, riunioni online ricche, esperienze mobili e ampie funzionalità di Web Conferencing.
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679583"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711146"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -25,14 +25,17 @@ Microsoft resta impegnato per la sicurezza dei dati e per l' [accessibilità](ht
 
 Per il riferimento, è stata inclusa questa tabella master delle sottoscrizioni che consentono agli utenti di Microsoft teams. Per informazioni dettagliate sulla pianificazione, vedere [Find the right Microsoft teams for your business](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Per ulteriori informazioni su Office 365 nei piani governativi, vedere [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 through G5 include l'accesso alle funzionalità del team.
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**Piani per le piccole imprese** <br/> |**Piani aziendali** <br/> |**Piani di formazione** <br/> |**Piani per sviluppatori** <br/> |
-|Microsoft 365 Business Basic  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Sviluppatore di Office 365  <br/> |
-|Microsoft 365 Business Standard  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
-|Microsoft 365 for business  <br/> |Office 365 Enterprise E4 (ritirato)  <br/> |Office 365 Education E3 (ritirato)  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise E5  <br/> |Office 365 Education E5  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Sviluppatore di Office 365 <br/> |
+|Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 Per informazioni dettagliate sull'implementazione delle funzionalità del prodotto, vedere la [documentazione relativa all'amministratore di Microsoft teams](https://docs.microsoft.com/MicrosoftTeams). Questa descrizione del servizio descrive le differenze principali tra i servizi forniti nelle diverse installazioni cloud. Le funzionalità di base di Microsoft teams non differiscono tra le sottoscrizioni. La disponibilità delle funzionalità di conformità dipende dal livello di sottoscrizione. Per ulteriori informazioni, vedere [sicurezza e conformità in Microsoft teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Per un elenco dettagliato delle funzionalità disponibili in ogni sottoscrizione, vedere [Microsoft 365 e Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
