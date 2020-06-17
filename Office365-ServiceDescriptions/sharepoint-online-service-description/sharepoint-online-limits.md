@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e piani autonomi.
-ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356884"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768112"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -24,8 +24,8 @@ Informazioni sui limiti di servizio in SharePoint per Microsoft 365.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 oppure SharePoint piano 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|Spazio di archiviazione totale per ogni organizzazione<sup>1, 2, 6</sup> <br/> |1 TB più 10 GB per licenza acquistata  <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|**Caratteristica** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5 oppure SharePoint piano 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|Spazio di archiviazione totale per ogni organizzazione<sup>1, 2, 6</sup> <br/> |1 TB più 10 GB per licenza acquistata  <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup> <br/> |10 GB più 2 GB per licenza acquistata<sup>3</sup> <br/> |
 |Spazio di archiviazione massimo per sito (raccolta siti)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Siti (raccolte siti) per ogni organizzazione  <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<br/> |
 |Numero di utenti  <br/> |Fino a 300  <br/> |1- 500.000<sup>7</sup> <br/> |1- 500.000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ Il limite supportato è 50.000, ma il limite generale consigliato è 5.000. L'es
 
 ### <a name="file-size-and-file-path-length"></a>Dimensione del file e lunghezza del percorso del file
 
-15 GB. La dimensione massima per i file allegati alle voci di elenco è di 250 MB. Per ulteriori informazioni sulle restrizioni e sui limiti quando si utilizza la nuova app di sincronizzazione di OneDrive (OneDrive. exe), vedere nomi di file [e tipi di file non validi](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+15 GB. La dimensione massima per i file allegati alle voci di elenco è di 250 MB. Per ulteriori informazioni sulle restrizioni e sui limiti quando si utilizza la nuova app di sincronizzazione di OneDrive (OneDrive.exe), vedere [nomi di file e tipi di file non validi](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 ### <a name="moving-and-copying-across-sites"></a>Spostamento e copia tra siti
 
@@ -63,7 +63,7 @@ Il limite supportato è 50.000, ma il limite generale consigliato è 5.000. L'es
 
 **Nuova app di sincronizzazione di OneDrive** -per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.000 file in tutte le raccolte documenti sincronizzate, anche se si utilizzano file su richiesta o si sceglie solo alcune cartelle all'interno delle raccolte da sincronizzare.
 
-**App di sincronizzazione di OneDrive for business (Groove. exe) precedente** : è possibile sincronizzare fino a 20.000 elementi totali in tutte le raccolte sincronizzate. Sono incluse le raccolte di OneDrive, le raccolte siti del team o entrambe. Indipendentemente dal limite di sincronizzazione globale, esistono limiti al numero di elementi che possono essere sincronizzati per ogni tipo di raccolta:
+**App di sincronizzazione di OneDrive for business precedente (Groove.exe)** : è possibile sincronizzare fino a 20.000 elementi totali in tutte le raccolte sincronizzate. Sono incluse le raccolte di OneDrive, le raccolte siti del team o entrambe. Indipendentemente dal limite di sincronizzazione globale, esistono limiti al numero di elementi che possono essere sincronizzati per ogni tipo di raccolta:
 
    - È possibile sincronizzare fino a 20.000 elementi in una raccolta di OneDrive. Sono inclusi i file e le cartelle. 
    - È possibile sincronizzare fino a 5.000 elementi in una raccolta di SharePoint. Sono inclusi i file e le cartelle. Si tratta di raccolte che si trovano in vari siti di SharePoint, ad esempio siti del team e siti community, raccolte create da altre persone o create dalla pagina siti. È possibile sincronizzare più raccolte di SharePoint. Tutti i siti del team sincronizzati conteranno anche rispetto al limite totale di 20.000 elementi in tutte le raccolte sincronizzate.
