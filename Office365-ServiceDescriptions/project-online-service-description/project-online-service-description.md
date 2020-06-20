@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213878"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820614"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -92,37 +92,37 @@ Nella tabella precedente, il numero di controlli (**x**) indica il livello gener
 
 Le funzionalità elencate in questa sezione interagiscono solo con i dati del progetto per l'archivio dati Web. Tutte queste funzionalità sono disponibili in tutte le sottoscrizioni di Microsoft Project: Project Plan 1, Project Plan 3 e Project Plan 5.
 
-|Funzionalità | Descrizione |
-|--------|-------------|
-|**Gestione di progetti, attività e tempi**||
-|Visualizzazione scheda | Monitorare le attività del progetto visivamente per migliorare il flusso di lavoro e il monitoraggio dello stato con le schede attività fuori sede e personalizzate.|
-|Dipendenze | Impostare e monitorare visivamente le dipendenze tra le attività.|
-|Visualizzazione griglia | Pianificare e gestire i progetti utilizzando una visualizzazione griglia gerarchica delle attività.|
-|Tappe | Stabilire e tenere conto delle importanti attività cardine del progetto e della Task.|
-|Home Project | Ottenere una visualizzazione a occhi aperti dei progetti a cui è stato applicato di recente, nonché progetti importanti che è necessario monitorare da vicino.|
-|Pianificazione delle attività | Utilizzare le date di inizio e fine dell'attività, lo sforzo, il lavoro e le dipendenze per ottenere una pianificazione accurata delle date del progetto.|
-|Visualizzazione sequenza temporale (diagramma di Gantt) | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale gerarchica.|
-|Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi di utilizzo delle attività di riepilogo.|
-|**Collaborazione**||
-|Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <sup>1</sup>|
-|**Gestione delle risorse e dei programmi**||
-|Configurazione del team di progetto | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro.|
-|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup> con il piano di progetto 1 si ottiene l'accesso in sola lettura alle roadmap. Con il piano di progetto 3 o il piano di progetto 5 è anche possibile creare roadmap. |
-|**Reporting**<sup>3</sup>||
-|Report out-of-box | Utilizzare i report predefiniti per comprendere i dati relativi a progetti, programmi, portfolio e risorse.|
-|Report personalizzati | Informazioni sui dati importanti per la propria organizzazione tramite la creazione di report personalizzati basati su report fuori scatola o da zero.|
-|Dashboard e portali | Creare dashboard e portali personalizzati per soddisfare esigenze specifiche dell'organizzazione.|
-|**Usabilità**||
-|CoAuthoring | Collaborare con le parti interessate e i membri del team per creare, modificare e aggiornare contemporaneamente elenchi di attività, pianificazioni di progetti e altro ancora.|
-|Indicatori grafici | Informazioni sullo stato dell'attività, sulle assegnazioni e altro ancora con indicatori grafici. |
-|**Mobilità**||
-|Applicazioni per dispositivi mobili | Creare applicazioni mobili personalizzate con PowerApps. <sup>4</sup> |
-|**Personalizzazione e integrazione**||
-|PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili con PowerApps. <sup>4</sup> |
-|Flussi di lavoro | Automatizzare e integrare i processi aziendali con Power automatizzate. <sup>5</sup> |
-|Integrazione di Microsoft | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni Microsoft familiari. <sup>1</sup> |
-|**Sicurezza e gestione degli utenti**||
-|Gruppi moderni di Office | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse per i membri del team da condividere.|
+|Funzionalità | Descrizione | Licenze di Office 365 | Piano 1 | Piano 3 | Piano 5|
+|--------|-----------------------------|--------------|------------|------------|------------|
+|**Gestione di progetti, attività e tempi**||||||
+|Visualizzazione scheda | Monitorare le attività del progetto visivamente per migliorare il flusso di lavoro e il monitoraggio dello stato mediante l'utilizzo di schede attività fuori sede e personalizzate.| Sola visualizzazione | Sì | Sì| Sì|
+|Dipendenze | Impostare e monitorare visivamente le dipendenze tra le attività.| Sola visualizzazione | Sì | Sì| Sì|
+|Visualizzazione griglia | Pianificare e gestire i progetti utilizzando una visualizzazione griglia gerarchica delle attività. | Sola visualizzazione | Sì | Sì | Sì |
+|Tappe | Stabilire e tenere conto delle importanti attività cardine del progetto e della Task.|Sola visualizzazione | Sì | Sì | Sì |
+|Home Project | Monitorare e gestire i risultati finali utilizzando le date di inizio e di fine e la pianificazione automatica.| Sì | Sì | Sì | Sì |
+|Pianificazione delle attività | Ottenere una visualizzazione a occhi aperti dei progetti a cui è stato applicato di recente, nonché progetti importanti che è necessario monitorare da vicino.| Sola visualizzazione | Sì | Sì | Sì |
+|Visualizzazione sequenza temporale (diagramma di Gantt) | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale gerarchica.|Sola visualizzazione | Sì | Sì | Sì |
+|Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi mediante attività di riepilogo.| Sola visualizzazione | Sì | Sì | Sì |
+|**Collaborazione** ||||||
+|Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <sup>1</sup> | Sì | Sì | Sì | Sì |
+|**Gestione delle risorse e dei programmi** ||||||
+|Configurazione del team di progetto | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro. | No | Sì | Sì | Sì |
+|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup>   Con il piano di progetto 1 si ottiene l'accesso in sola lettura alle roadmap. Con il piano di progetto 3 o il piano di progetto 5 è anche possibile creare roadmap. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
+|**Reporting**<sup>3</sup> ||||||
+|Creazione di report out-of-the-box | Utilizzare i report predefiniti per comprendere i dati relativi a progetti, programmi, portfolio e risorse. | No | Sì | Sì | Sì |
+|Report personalizzati | Informazioni sui dati importanti per la propria organizzazione tramite la creazione di report personalizzati basati su report non in box o da zero. | No | Sì | Sì | Sì |
+|Dashboard e portali | Creare dashboard e portali personalizzati per soddisfare esigenze specifiche dell'organizzazione.| No | Sì | Sì | Sì |
+|**Usabilità** ||||||
+|CoAuthoring | Collaborare con le parti interessate e i membri del team per creare, modificare e aggiornare contemporaneamente elenchi di attività, pianificazioni di progetti e altro ancora.| Sola visualizzazione | Sì | Sì | Sì |
+|Indicatori grafici | Informazioni sullo stato dell'attività, sulle assegnazioni e altro ancora con indicatori grafici.| Sola visualizzazione | Sì | Sì | Sì |
+|**Mobilità** ||||||
+|Applicazioni per dispositivi mobili | Creare applicazioni mobili personalizzate con PowerApps. <sup>4</sup> |No | No | Sì | Sì |
+|**Personalizzazione e integrazione**||||||
+|PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili con PowerApps. <sup>4</sup> | No | No | Sì | Sì |
+|Flussi di lavoro | Automatizzare e integrare i processi aziendali con Power automatizzate. <sup>5</sup> | No | No | Sì | Sì |
+|Integrazione di Microsoft | Collaborare, gestire documenti e altro ancora utilizzando gli strumenti e le applicazioni Microsoft familiari. <sup>1</sup> | Sì | Sì | Sì | Sì |
+|**Sicurezza e gestione degli utenti**||||||
+|Gruppi moderni di Office | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse per i membri del team da condividere. | Sì | Sì | Sì | Sì |
 
 ### <a name="project-online-features"></a>Funzionalità di Project Online
 
@@ -192,7 +192,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 
 <sup>1</sup> richiede un abbonamento commerciale a Office o Microsoft 365.</br>
 <sup>2</sup> schede di Azure acquisite separatamente.</br>
-<sup>3</sup> la creazione di report per Project per il Web e Project online è disponibile con Power bi. La visualizzazione, la modifica e la creazione di report richiedono un abbonamento a Power BI Pro. Microsoft fornisce un set predefinito di report di Power BI. Gli utenti possono personalizzare questi rapporti o creare rapporti aggiuntivi utilizzando Power BI.</br> 
+<sup>3</sup> la creazione di report per Project per il Web e Project online è disponibile mediante Power bi. La visualizzazione, la modifica e la creazione di report richiedono un abbonamento a Power BI. Microsoft fornisce un set predefinito di report di Power BI. Gli utenti possono personalizzare questi rapporti o creare rapporti aggiuntivi utilizzando Power BI.</br> 
 <sup>4</sup> la creazione e l'utilizzo di applicazioni mobili di PowerApps personalizzate che accedono al progetto per i dati Web richiedono una sottoscrizione di PowerApps e un abbonamento al piano di progetto 3 o al piano di progetto 5.</br>
 <sup>5</sup> l'automazione e l'integrazione dei processi aziendali con Power automatizzate con Project per i dati Web richiede una sottoscrizione Power automatizzate e un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
 <sup>6</sup> la gestione delle licenze di Project online per gli utenti esterni segue gli stessi criteri di quelli per gli utenti interni. Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
