@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711136"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845010"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -210,6 +210,8 @@ Gli utenti possono trarre vantaggio dalla possibilità di classificare i dati a 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
+Office 365 E5/A5/E3/A3/E1/a1 fornisce le funzionalità di base per la governance delle informazioni per applicare manualmente etichette di conservazione non registrate, importare file PST e archiviare la posta elettronica.
+
 Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 forniscono i diritti per un utente di trarre vantaggio da un singolo criterio di conservazione a livello di organizzazione o a livello di posizione e/o dall'etichettatura manuale di conservazione.
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5 e Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio dall'applicazione automatica di etichette o criteri di conservazione, iniziando il periodo di conservazione di un'etichetta di conservazione basata su un evento personalizzato, attivando una revisione di disposizione manuale alla fine del periodo di conservazione dell'etichetta, importando i dati di terze parti tramite connettori di dati nativi, scoprendo il contenuto
@@ -218,7 +220,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information P
 
 Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-Non include i diritti per la conservazione automatica basata sull'apprendimento automatico (classificatori addestrabili).
+Office 365 Advanced Compliance non include i diritti per la conservazione automatica basata sull'apprendimento automatico (classificatori addestrabili).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -406,7 +408,7 @@ Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli 
 
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 
-Crittografia messaggi di Office 365 (OME) è un servizio basato su Azure Rights Management (Azure RMS) che consente di inviare posta elettronica crittografata a destinatari interni o esterni all'organizzazione, indipendentemente dall'indirizzo di posta elettronica di destinazione (Gmail, Yahoo! Mail, Outlook.com e così via).
+Office 365 Message Encryption (OME) is a service built on Azure Rights Management (Azure RMS) that lets you send encrypted email to people inside or outside your organization, regardless of the destination email address (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
 Per visualizzare messaggi crittografati, i destinatari possono ottenere un passcode monouso, accedere con un account Microsoft oppure accedere con un account aziendale o dell'istituto di istruzione associato a Office 365. I destinatari possono anche inviare risposte crittografate. Non è necessario un abbonamento per visualizzare i messaggi crittografati o inviare risposte crittografate.
 

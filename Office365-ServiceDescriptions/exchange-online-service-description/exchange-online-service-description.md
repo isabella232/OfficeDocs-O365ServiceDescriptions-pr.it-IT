@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267345"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845020"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -33,7 +33,7 @@ Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includ
 [Rapporti di mancato recapito della posta elettronica in Exchange Online](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Guida di Exchange Online](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online è una soluzione di messaggistica ospitata che offre le funzionalità di Microsoft Exchange Server sotto forma di servizio basato sul cloud. Questo servizio fornisce agli utenti un accesso alla posta elettronica, al calendario, ai contatti e alle attività dai PC, dal Web e dai dispositivi mobili. Si integra perfettamente con Active Directory, permettendo agli amministratori di utilizzare i criteri di gruppo, insieme ad altri strumenti di amministrazione, per gestire le funzionalità di Exchange Online nel proprio ambiente.
+Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
   
 Le organizzazioni che sottoscrivono il servizio Exchange Online mantengono il controllo sui servizi di messaggistica che offrono agli utenti, ma senza il fardello operativo del software di server locale. Con i piani ospitati di Exchange Online descritti in questo documento, la posta elettronica è ospitata su server che supportano più clienti simultaneamente. Questi server sono ospitati nei data center di Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o su Internet.
   
@@ -50,9 +50,9 @@ Per informazioni sulle nuove funzionalità nell'interfaccia di amministrazione d
 
 Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sui diversi piani, incluse le opzioni di piano autonomo e le informazioni sullo spostamento da un piano a un altro, vedere [Opzioni di piano di Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Ogni utente che accede al servizio Exchange Online deve essere assegnato a un piano di sottoscrizione e ogni sottoscrizione deve avere la propria cassetta postale. Le cartelle e i messaggi in queste cassette postali risiedono su un computer con Exchange Server presso un data center di Microsoft.
+Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
   
-Le sottoscrizioni degli utenti non sono obbligatorie per le sale conferenza e le cassette postali condivise. Questi particolari tipi di cassette postali non hanno credenziali di accesso. Sono degli utenti muniti di apposita licenza e con le autorizzazioni appropriate alla gestione e all'accesso a queste cassette postali per delega.
+User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisiti di sistema per Exchange Online
 
@@ -66,7 +66,7 @@ Per informazioni sui limiti di archiviazione e destinatari disponibili nei piani
 
 Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Business, Office 365 Small Business Premium o Office 365 medie imprese, visitare il centro messaggi nell'interfaccia di amministrazione di Microsoft 365 o contattare il provider per ulteriori informazioni su come il nuovo piano delle app di Microsoft 365 ha un impatto sull'utente. Per ulteriori informazioni sulla nuova famiglia di piani di Microsoft 365 Apps, vedere [nuovi progetti per le piccole e medie imprese](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
   
-|**Funzionalità**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Caratteristica**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Pianificazione e distribuzione](planning-and-deployment.md)**|||||||||
 |Distribuzione ibrida supportata|Sì|Sì|Sì<sup>16</sup>|Sì<sup>16</sup>|Sì|Sì|Sì|Sì<sup>16</sup>|
@@ -201,7 +201,7 @@ Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Busine
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilità delle funzionalità tra i piani autonomi di Exchange Online
 
-|**Funzionalità**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
+|**Caratteristica**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Pianificazione e distribuzione](planning-and-deployment.md)**||||||
 |Distribuzione ibrida supportata|Sì|Sì|Sì|Sì|Sì<sup>23</sup>|
@@ -244,7 +244,7 @@ Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Busine
 |Avvisi di capacità|Sì|Sì|Sì|Sì|Sì|
 |Messaggi secondari|No|No|Sì|Sì|Sì|
 |Suggerimenti messaggio|Sì|Sì|Sì|Sì|Sì|
-|Accesso delegato|Sì|Sì|Sì \| Sì|No|
+|Accesso delegato|Sì|Sì|Sì|Sì|No|
 |Regole di Posta in arrivo|Sì|Sì|Sì|Sì|Sì|
 |Account connessi|Sì|Sì|Sì<sup>19</sup>|Sì<sup>19</sup>|Sì<sup>19</sup>|
 |Cassette postali inattive|No|No|No <sup>6</sup>|Sì|No<sup>6</sup>|
