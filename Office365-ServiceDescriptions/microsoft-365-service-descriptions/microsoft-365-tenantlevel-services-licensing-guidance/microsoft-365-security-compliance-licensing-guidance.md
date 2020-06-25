@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845010"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873626"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -210,17 +210,21 @@ Gli utenti possono trarre vantaggio dalla possibilità di classificare i dati a 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-Office 365 E5/A5/E3/A3/E1/a1 fornisce le funzionalità di base per la governance delle informazioni per applicare manualmente etichette di conservazione non registrate, importare file PST e archiviare la posta elettronica.
+Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 e i piani di Exchange autonomo offrono i diritti per un utente di trarre vantaggio dall'applicazione manuale di etichette di conservazione non registrate ai dati delle cassette postali.
 
-Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 forniscono i diritti per un utente di trarre vantaggio da un singolo criterio di conservazione a livello di organizzazione o a livello di posizione e/o dall'etichettatura manuale di conservazione.
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 e i piani di SharePoint autonomo offrono i diritti per un utente di trarre vantaggio dall'applicazione manuale di etichette di conservazione non registrate ai file in SharePoint o OneDrive. 
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5 e Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio dall'applicazione automatica di etichette o criteri di conservazione, iniziando il periodo di conservazione di un'etichetta di conservazione basata su un evento personalizzato, attivando una revisione di disposizione manuale alla fine del periodo di conservazione dell'etichetta, importando i dati di terze parti tramite connettori di dati nativi, scoprendo il contenuto
+Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3, Exchange piano 2 ed Exchange Online Archiving forniscono i diritti per un utente di trarre vantaggio da un singolo criterio di conservazione delle cassette postali di base a livello di organizzazione o a livello di posizione e/o di applicare manualmente un'etichetta di conservazione non record ai dati delle cassette postali.
+
+Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 e SharePoint piano 2 forniscono i diritti per un utente di trarre vantaggio da un criterio di conservazione di base di SharePoint o OneDrive e/o di applicare manualmente un'etichetta di conservazione non record ai file in SharePoint o OneDrive.
+
+Microsoft 365 E5/A5/E3/a3 e Office 365 E5/A5/E3/a3 forniscono i diritti per un utente di trarre vantaggio da un criterio di conservazione dei team.
+
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5 e Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio dall'applicazione automatica di etichette o criteri di conservazione, applicazione di etichette o criteri di conservazione predefiniti, avvio del periodo di conservazione di un'etichetta di conservazione basata su un evento personalizzato, attivazione di una revisione di disposizione manuale alla fine del periodo di conservazione dell'etichetta, importazione di dati di terze parti mediante connettori di dati nativi, dichiarazione di un record, individuazione del contenuto contrassegnato e monitoraggio dell'attività di etichettatura.
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance forniscono i diritti per un utente di trarre vantaggio dall'applicazione automatica delle etichette di conservazione in base ai classificatori addestrabili.
 
 Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 Advanced Compliance non include i diritti per la conservazione automatica basata sull'apprendimento automatico (classificatori addestrabili).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -390,9 +394,7 @@ Gli utenti traggono vantaggio dalle funzionalità di conformità avanzate delle 
 | Scenario | Chi ha bisogno di una licenza? |
 |:-------|:------|
 | Due gruppi (gruppo 1 e gruppo 2) non sono in grado di comunicare tra loro, ovvero gli utenti del gruppo 1 sono limitati dalla comunicazione con gli utenti del gruppo 2 e gli utenti del gruppo 2 sono limitati dalla comunicazione con gli utenti del gruppo 1. | Utenti sia del gruppo 1 che del gruppo 2 |
-| Gli utenti del gruppo 1 sono limitati dalla comunicazione con il resto della società. | Solo gli utenti del gruppo 1 |
-| La parte restante della società è limitata dalla comunicazione con il gruppo 1. | Tutti gli utenti ad eccezione di quelli del gruppo 1 |
-| Gli utenti del gruppo 1 sono limitati dalla comunicazione con gli utenti del gruppo 2, ma gli utenti del gruppo 2 possono comunicare con gli utenti del gruppo 1. | Solo gli utenti del gruppo 1 ||
+| Gli utenti del gruppo 1 sono limitati dalla comunicazione con il resto della società. | Solo gli utenti del gruppo 1 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
