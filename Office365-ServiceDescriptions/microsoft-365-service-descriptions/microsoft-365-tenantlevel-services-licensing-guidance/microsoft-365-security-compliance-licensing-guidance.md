@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873626"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909449"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -129,7 +129,7 @@ MCAS rileva e valuta Shadow IT, fornisce una protezione dalle minacce tra le app
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security e Microsoft 365 Information Protection and Governance offrono i diritti per un utente di trarre vantaggio da MCAS.
+MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 E5/A5/G5 compliance e Microsoft 365 Information Protection and Governance offrono i diritti per un utente di trarre vantaggio da MCAS.
 
 Azure AD P1 fornisce i diritti per un utente di trarre vantaggio dalle funzionalità di individuazione in MCAS.
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 e i piani di Exchange aut
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 e i piani di SharePoint autonomo offrono i diritti per un utente di trarre vantaggio dall'applicazione manuale di etichette di conservazione non registrate ai file in SharePoint o OneDrive. 
 
-Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3, Exchange piano 2 ed Exchange Online Archiving forniscono i diritti per un utente di trarre vantaggio da un singolo criterio di conservazione delle cassette postali di base a livello di organizzazione o a livello di posizione e/o di applicare manualmente un'etichetta di conservazione non record ai dati delle cassette postali.
+Microsoft 365 E5/A5/E3/a3/Business Premium, Office 365 E5/A5/E3/a3, Exchange piano 2 ed Exchange Online Archiving forniscono i diritti per un utente di trarre vantaggio da un criterio di conservazione delle cassette postali di base a livello di organizzazione o a livello di posizione e/o per applicare manualmente un'etichetta di conservazione non record ai dati delle cassette postali.
 
 Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 e SharePoint piano 2 forniscono i diritti per un utente di trarre vantaggio da un criterio di conservazione di base di SharePoint o OneDrive e/o di applicare manualmente un'etichetta di conservazione non record ai file in SharePoint o OneDrive.
 
