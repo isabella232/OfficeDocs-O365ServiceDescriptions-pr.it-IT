@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 Business Premium è una soluzione integrata che unisce la produttività di Microsoft 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213958"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988860"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
@@ -24,7 +24,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Confronto delle caratteristiche: Microsoft 365 business standard e Microsoft 365 Business Premium
 
-|**Area di servizio** |**Funzionalità** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** |
+|**Area di servizio** |**Caratteristica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**Licenze disponibili** | Numero massimo di utenti | 300  | 300  |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
@@ -55,7 +55,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle caratteristiche: Microsoft 365 Business Premium e Office 365 E3
 
-|**Area di servizio**   | **Funzionalità**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
+|**Area di servizio**   | **Caratteristica**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
 |---|---------------|-------------------|----------------------------|
 |**Licenze disponibili** | Numero massimo di utenti | Illimitati | 300 |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
@@ -88,7 +88,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle caratteristiche: Microsoft 365 business standard, Microsoft 365 Business Premium e Office 365 E3
 
-|**Area di servizio**   |**Funzionalità** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
+|**Area di servizio**   |**Caratteristica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**Licenze disponibili** | Numero massimo di utenti | 300 | 300 | Illimitati |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
@@ -121,7 +121,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Confronto delle caratteristiche: Microsoft 365 business standard e Microsoft 365 for business plans
 
-|**Area di servizio**   |**Funzionalità** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**Area di servizio**   |**Caratteristica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenze disponibili** | Numero massimo di utenti | 300 | 300 | Illimitati | Illimitati |
 |**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
@@ -137,7 +137,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 |   | Windows Defender Advanced Threat Protection | No | No | No | Sì |
 |   | Office 365 Threat Intelligence | No | No  | No | Sì |
 |**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibrido, AMF Azure, accesso condizionale   | No | Sì | Sì | Sì |
-|   | Azure AD: app Cloud Discovery, Azure AD Connect Health, SSO per più di 10 app | No | No | Sì | Sì |
+|   | Azure AD: app Cloud Discovery, Azure AD Connect Health, SSO per più di 10 app | Sì | Sì | Sì | Sì |
 |   | Azure Active Directory Piano 2 | No | No | No | Sì |
 |**Gestione delle app per dispositivi &** | Microsoft Intune, Windows Autopilot | No | Sì | Sì | Sì |
 |   | Attivazione di computer condivisi, desktop virtuale di Windows | No | Sì | Sì | Sì |

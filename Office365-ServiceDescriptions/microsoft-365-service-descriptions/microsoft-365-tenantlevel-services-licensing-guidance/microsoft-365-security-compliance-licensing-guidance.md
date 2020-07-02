@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909449"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988870"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -497,7 +497,7 @@ L'accesso condizionale è lo strumento utilizzato da Azure Active Directory per 
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
-Gli utenti con licenza di Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3 e Azure Active Directory Premium Plan 1 possono usufruire dei criteri di accesso condizionale. Gli utenti con licenza di Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security e Azure Active Directory Premium piano 2 possono trarre vantaggio dalla protezione delle identità (criteri di accesso condizionale basato sul rischio).
+Gli utenti con licenza di Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3/Business Premium e Azure Active Directory Premium Plan 1 possono usufruire dei criteri di accesso condizionale. Gli utenti con licenza di Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security e Azure Active Directory Premium piano 2 possono trarre vantaggio dalla protezione delle identità (criteri di accesso condizionale basato sul rischio).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
