@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il &amp; Centro sicurezza e conformità è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711116"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043038"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -50,6 +49,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 |[Esportazione eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |No   |No   |No   |Sì   |Sì   |No   |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |No   |No   |No   |No   |No   |Sì   |No   |
 |[Archiviazione](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |Sì<sup>3</sup>  |Sì<sup>3</sup>  |Sì<sup>3</sup>   |Sì<sup>3</sup>  |Sì<sup>4</sup>  |Sì<sup>4</sup>  |No   |
+|[Criteri di avviso](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |Sì   |Sì   |Sì|Sì   |Sì   |Sì   |Sì   |
 |[Audit di base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sì   |Sì   |Sì|Sì   |Sì   |Sì   |Sì   |
 |[Controllo avanzato](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |No   |No   |No   |No   |No   |Sì   |No   |
 |[Conformità alla comunicazione (criteri di supervisione)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |No   |No   |No   |No   |No   |Sì   |No   |
