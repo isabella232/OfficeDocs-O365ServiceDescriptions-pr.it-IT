@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988870"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089657"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -393,8 +393,7 @@ Gli utenti traggono vantaggio dalle funzionalità di conformità avanzate delle 
 
 | Scenario | Chi ha bisogno di una licenza? |
 |:-------|:------|
-| Due gruppi (gruppo 1 e gruppo 2) non sono in grado di comunicare tra loro, ovvero gli utenti del gruppo 1 sono limitati dalla comunicazione con gli utenti del gruppo 2 e gli utenti del gruppo 2 sono limitati dalla comunicazione con gli utenti del gruppo 1. | Utenti sia del gruppo 1 che del gruppo 2 |
-| Gli utenti del gruppo 1 sono limitati dalla comunicazione con il resto della società. | Solo gli utenti del gruppo 1 ||
+| Due gruppi (gruppo 1 e gruppo 2) non sono in grado di comunicare tra loro, ovvero gli utenti del gruppo 1 sono limitati dalla comunicazione con gli utenti del gruppo 2 e gli utenti del gruppo 2 sono limitati dalla comunicazione con gli utenti del gruppo 1. | Utenti sia del gruppo 1 che del gruppo 2 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 

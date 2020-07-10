@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o di altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
+ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262829"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089637"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Pianificare la conformità a Microsoft 365-GCC High
 
-Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o di altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
+Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
 
 > [!NOTE]
 >Se nell'organizzazione sono già stati soddisfatti i requisiti di eleggibilità di Microsoft 365 Government (GCC High eleggibility) e sono stati accettati nel programma, è possibile ignorare i passaggi 1 e 2 e passare direttamente al passaggio 3.
@@ -37,7 +37,7 @@ Per ulteriori informazioni sull'offerta Microsoft 365 Government-GCC High per i 
 La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descrive i vantaggi della piattaforma, che sono incentrati sui requisiti di conformità conformi all'interno degli Stati Uniti.
 
 > [!TIP]
-> Potrebbe essere necessario trasferire le tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: **rilevanti per l'organizzazione y/n** e **soddisfano le esigenze dell'organizzazione y/n**. È quindi possibile esaminare questo elenco con i colleghi per confermare che questo servizio soddisfi le esigenze dell'organizzazione.
+> Potrebbe essere necessario trasferire le tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: **rilevanti per l'organizzazione y/n**   e **soddisfano le esigenze dell'organizzazione y/n**. È quindi possibile esaminare questo elenco con i colleghi per confermare che questo servizio soddisfi le esigenze dell'organizzazione.
 
 **Punti decisionali**:<br/>
 - *Decidere se Microsoft 365 Government – GCC-High è appropriato per la propria organizzazione.*
@@ -50,7 +50,7 @@ La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.co
 
 Dopo aver deciso che questo servizio è appropriato per la propria organizzazione, avviare il processo di [applicazione per questo servizio](https://products.office.com/government/eligibility-validation).
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>Passaggio 3: Informazioni su Microsoft 365 Government-GCC-impostazioni di protezione predefinite elevate
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>Passaggio 3. Informazioni su Microsoft 365 Government-GCC-impostazioni di protezione predefinite elevate
 
 È consigliabile richiedere tempo per esaminare attentamente le impostazioni di protezione e di amministratore prima di modificarle e considerare l'impatto sulla conformità prima di apportare modifiche alle impostazioni di protezione predefinite.
 
@@ -70,7 +70,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Piano di archiviazione                                       | In ingegneria backlog |
 |                                         | Criteri consigliati                            | In ingegneria backlog |
 |                                         | Filtri di importazione intelligenti                            | In ingegneria backlog |
-|                                         | Criteri di conservazione basati su eventi                           | In ingegneria backlog |
+|                                         | Conservazione basata su eventi                           | In ingegneria backlog |
 |                                         | Revisione della disposizione                              | In ingegneria backlog |
 |                                         | Barriere informative                            | Disponibili              |
 |                                         | Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica  | Disponibili              |
@@ -82,7 +82,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 | **Gestione dei rischi Insider**             | Crittografia avanzata dei messaggi                     | Disponibili              |
 |                                         | Gestione dei rischi Insider                         | In ingegneria backlog |
 |                                         | Conformità delle comunicazioni                        | In ingegneria backlog |
-|                                         | Archivio protetto del cliente                                | Disponibili              |
+|                                         | Customer Lockbox                                | Disponibili              |
 |                                         | Customer Key                                    | Disponibili              |
 |                                         | Gestione accessi con privilegi                    | In ingegneria backlog |
 | **Scoprire & rispondere**                  | Prenotazione sul posto                            | Disponibili              |
@@ -98,7 +98,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Codifica predittiva                               | In ingegneria backlog |
 |                                         | Esportazione elaborata con il file di carico                 | In ingegneria backlog |
 |                                         | Aggiunta di tag                                         | In ingegneria backlog |
-|                                         | Spettatori                                         | In ingegneria backlog |
+|                                         | Visualizzatori                                         | In ingegneria backlog |
 |                                         | Redazioni                                      | In ingegneria backlog |
 |                                         | Filtro                                       | In ingegneria backlog |
 |                                         | Mapping del custode al carico di lavoro                   | In ingegneria backlog |
@@ -107,6 +107,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Esaminare e annotare                             | In ingegneria backlog |
 |                                         | Ingestione non Office 365                        | In ingegneria backlog |
 |                                         | Rapporto termini di ricerca                              | In ingegneria backlog |
+| **Gestione della conformità**               | Punteggio di conformità                                | In ingegneria backlog |
 
 <sup>1</sup> lo stato identificato è soggetto a modifiche man mano che i piani di progetto e le priorità vengono rivalutati.<br/>
 <sup>2</sup> l'applicazione manuale delle etichette richiede la [versione 1 del client di Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 
