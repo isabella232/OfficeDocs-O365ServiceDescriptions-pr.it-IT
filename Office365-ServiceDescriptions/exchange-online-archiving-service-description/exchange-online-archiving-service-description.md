@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Archiviazione Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Archiviazione Microsoft Exchange Online è una soluzione di archiviazione di livello aziendale basata su cloud di Microsoft 365 per le organizzazioni che hanno distribuito Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e versioni successive) oppure sottoscrivono alcuni piani di Exchange Online o di Microsoft 365. Archiviazione Exchange Online agevola le attività correlate ad archiviazione, conformità, regolamentazione ed eDiscovery e al tempo stesso semplifica l'infrastruttura locale riducendo i costi e il carico per l'IT.
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213728"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131520"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrizione del servizio Archiviazione Exchange Online
 
@@ -61,7 +60,7 @@ Gli amministratori possono utilizzare un approccio Single Sign-on per l'autentic
   
 ### <a name="user-subscriptions"></a>Sottoscrizioni degli utenti
 
-Ogni utente che accede al servizio Archiviazione Exchange Online deve disporre di una sottoscrizione di Archiviazione Exchange Online. Ogni sottoscrizione dell'archivio di posta elettronica può essere utilizzata per l'archiviazione dei dati di messaggistica di un solo utente.
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>Quota di spazio di archiviazione illimitata
 

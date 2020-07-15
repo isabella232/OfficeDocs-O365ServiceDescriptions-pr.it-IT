@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Office per il Web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226215"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131330"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
@@ -87,7 +86,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Creazione condivisa in tempo reale](word-online.md#real-time-co-authoring) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti di riferimento](word-online.md#reference-tools) <br/> |No  <br/> |Sì  <br/> |
 |[Rendering di caselle di testo/forme](word-online.md#rendering-of-text-boxesshapes) <br/> |Sì  <br/> |Sì  <br/> |
-|[Ricercatore](word-online.md#researcher) <br/> |No  <br/> |Sì  <br/> |
+|[Strumento ricerche](word-online.md#researcher) <br/> |No  <br/> |Sì  <br/> |
 |[Contenuti multimediali](word-online.md#rich-media) <br/> |No  <br/> |Sì  <br/> |
 |[Formattazione avanzata delle tabelle](word-online.md#rich-table-formatting) <br/> |Sì  <br/> |Sì  <br/> |
 |[Salvataggio e download di una copia](word-online.md#save-as-and-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |

@@ -1,8 +1,7 @@
 ---
 title: Domini
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica e altri servizi nel nome dell'azienda. Al termine della procedura guidata, il messaggio di posta elettronica aziendale inizia a venire a Microsoft invece di passare al provider di posta elettronica corrente. Per ulteriori informazioni, vedere Aggiungere utenti e domini a Microsoft. Se si utilizza Office 365 gestito da 21Vianet, vedere Verificare il dominio.
-ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044828"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132400"
 ---
 # <a name="domains"></a>Domini
 

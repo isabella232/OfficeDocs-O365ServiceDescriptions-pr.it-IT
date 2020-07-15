@@ -1,8 +1,7 @@
 ---
 title: Pianificazione e distribuzione
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e722bec332e67e93647b10bbbf4916e7e059c1b7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639964"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132660"
 ---
 # <a name="planning-and-deployment"></a>Pianificazione e distribuzione
 
@@ -32,20 +31,20 @@ Per le organizzazioni, è preferibile scegliere le opzioni di migrazione basate 
     
 ### <a name="cloud-only"></a>Solo cloud
 
-Per distribuzione "solo cloud" si intende una soluzione in cui nel servizio Exchange Online l'organizzazione non è connessa all'organizzazione Exchange locale. Tutti gli utenti e le cassette postali sono ospitate e gestite in Exchange Online e Office 365.
+A cloud-only deployment is one where your organization in the Exchange Online service isn't connected with an on-premises Exchange organization. All users and mailboxes are hosted and managed in Exchange Online and Office 365.
   
-### <a name="hybrid"></a>Ibrido
+### <a name="hybrid"></a>Configurazione ibrida
 
-Disponibile per le organizzazioni Microsoft Exchange 2003, Exchange 2007, Exchange 2010 ed Exchange 2013 locali, la distribuzione ibrida offre una configurazione di coesistenza a lungo termine con alcune cassette postali ospitate in Exchange Online o un percorso di migrazione verso l'hosting di tutte le cassette postali utente in Exchange Online. La distribuzione ibrida offre alle organizzazioni la possibilità di estendere al cloud le numerose funzionalità e il controllo amministrativo che hanno nell'organizzazione Microsoft Exchange locale. Le funzionalità di configurazione ibrida includono trasporto della posta sicuro, informazioni sulla disponibilità del calendario condiviso e verifica dei messaggi tra le organizzazioni locali ed Exchange Online.
+Available for Microsoft Exchange 2003, Exchange 2007, Exchange 2010 and Exchange 2013 on-premises organizations, a hybrid deployment offers either a long-term coexistence configuration with some mailboxes hosted on-premises and some mailboxes hosted in Exchange Online or a migration path to hosting all user mailboxes in Exchange Online. A hybrid deployment offers organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. Hybrid deployment features include secure mail transport, shared calendar free/busy information, and message tracking between the on-premises and Exchange Online organizations.
   
-Per ulteriori informazioni sulle distribuzioni ibride, vedere l'articolo relativo alle [distribuzioni ibride di Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Se si utilizza Office 365 gestito da 21Vianet, vedere [Configurazione delle funzionalità ibride di Exchange con Office 365 gestito da 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+For more information about hybrid deployments, see [Exchange Server 2013 Hybrid Deployments](https://go.microsoft.com/fwlink/p/?LinkId=287035). If you are using Office 365 operated by 21Vianet, see [Configuring Exchange hybrid deployment features with Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
   
 > [!IMPORTANT]
-> Le organizzazioni Exchange 2003 locali devono installare almeno un server Accesso client/Cassette postali di Exchange 2010 per configurare la distribuzione ibrida con Exchange Online. Le organizzazioni Exchange 2007 locali devono installare almeno un server Accesso client/Cassette postali di Exchange 2010 o Exchange 2013 per configurare una distribuzione ibrida con Exchange Online. Le organizzazioni Exchange 2010 ed Exchange 2013 locali supportano in modo nativo le distribuzioni ibride con Exchange Online. Per ulteriori informazioni sulla compatibilità dei server Exchange nelle distribuzioni ibride, vedere l'articolo relativo ai [prerequisiti per la distribuzione ibrida](https://go.microsoft.com/fwlink/p/?LinkId=243541)> Le organizzazioni Exchange locali devono configurare la propria organizzazione per la distribuzione ibrida. Per configurare la distribuzione ibrida, si consiglia agli amministratori di utilizzare l'Assistente per la distribuzione di Exchange Server e la procedura guida di configurazione ibrida. Ulteriori informazioni relative [all'assistente per la distribuzione di Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036)
+> On-premises Exchange 2003 organizations must install at least one Exchange 2010 Client Access/Mailbox server to configure a hybrid deployment with Exchange Online. On-premises Exchange 2007 organizations must install at least one Exchange 2010 or Exchange 2013 Client Access and Mailbox server to configure a hybrid deployment with Exchange Online. On-premises Exchange 2010 and Exchange 2013 organizations natively support hybrid deployments with Exchange Online. For more information about Exchange server compatibility in hybrid deployments, see [Hybrid Deployment Prerequisites](https://go.microsoft.com/fwlink/p/?LinkId=243541)> On-premises Exchange organizations must configure their organization for a hybrid deployment. We strongly recommend that administrators use the Exchange Server Deployment Assistant and the Hybrid Configuration Wizard to configure the hybrid deployment. Learn more at [Exchange Server Deployment Assistant](https://go.microsoft.com/fwlink/p/?LinkId=287036)
   
 ## <a name="migration-options"></a>Opzioni di migrazione
 
-Per le organizzazioni, è preferibile scegliere le opzioni di migrazione basate sui sistemi di posta elettronica di origine, lo stato finale desiderato (completamente o parzialmente ospitato), il numero di utenti di cui eseguire la migrazione e i tempi in cui raggiungere lo stato finale. Di seguito vengono riportate le opzioni di migrazione possibili:
+Organizations should choose migration options based on their source email systems, the desired end state (fully hosted or partially hosted), the number of users to migrate, and how quickly the end state needs to be reached. Possible migration options are:
   
 - **Migrazione IMAP** Migrazione dei dati delle cassette postali da sistemi di posta elettronica basati su IMAP a Exchange Online. 
     
@@ -53,13 +52,13 @@ Per le organizzazioni, è preferibile scegliere le opzioni di migrazione basate 
     
 - **Migrazione di Exchange in fasi** Migrazione in fasi delle cassette postali da Exchange Server 2003 o Exchange Server 2007 con strumenti di migrazione basati sul Web e modifiche minimali dell'infrastruttura locale. 
     
-- **Migrazione con spostamento remoto** Migrazione delle cassette postali locali di Exchange su Exchange Online in una distribuzione ibrida di Exchange. Per utilizzare la migrazione di spostamento remoto è necessario disporre di una distribuzione ibrida di Exchange. 
+- **Remote move migration** Migrate on-premises Exchange mailboxes to Exchange Online in an Exchange hybrid deployment. You must have an Exchange hybrid deployment to use a remote move migration. 
     
 Per ulteriori informazioni sulla migrazione della posta elettronica e delle cassette postali a Exchange Online, vedere [Eseguire la migrazione della posta elettronica a Office 365 - Guida dell'amministratore](https://support.office.com/en-us/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
   
 ### <a name="imap-migration"></a>Migrazione IMAP
 
-Exchange Online fornisce un strumento basato sul Web per la migrazione dei dati delle cassette postali dai sistemi di posta elettronica che supportano IMAP. Gli amministratori potranno contare su un'assistenza adeguata in tutti i passaggi della migrazione, descritti qui di seguito: 
+Exchange Online offers a web-based tool for migrating mailbox data from email systems that support IMAP. It guides administrators through the following migration steps: 
   
 1. Creazione di cassette postali vuote nel cloud per gli utenti nell'organizzazione (in genere, l'operazione viene effettuata caricando un file CSV o utilizzando Windows PowerShell).
     
@@ -76,13 +75,13 @@ Per ulteriori informazioni sulla migrazione IMAP, vedere [Eseguire la migrazione
   
 ### <a name="cutover-exchange-migration"></a>Migrazione del cutover di Exchange
 
-Exchange Online fornisce uno strumento basato sul Web per la migrazione dei dati da ambienti Exchange Server 2003, Exchange Server 2007 o Exchange Server 2010 locali. L'amministratore potrà contare su un'assistenza adeguata in tutti i passaggi della migrazione, descritti qui di seguito:
+Exchange Online offers a web-based tool for migrating data from on-premises Exchange Server 2003, Exchange Server 2007, or Exchange Server 2010 environments. It guides an administrator through the following migration steps:
   
 1. Utilizzando l'indirizzo di posta elettronica e le credenziali di un account amministratore locale, Exchange Online stabilisce una connessione all'organizzazione di posta elettronica locale utilizzando il servizio di individuazione automatica.
     
 2. Exchange Online utilizza una connessione RPC/HTTP per leggere direttamente le informazioni provenienti dal server remoto e creare cassette postali in Exchange Online.
     
-3. Exchange Online sincronizza il contenuto delle cassette postali con le cassette postali cloud. Durante la migrazione dei dati verso Exchange Online, gli utenti mantengono la connessione alle cassette postali originarie.
+3. Exchange Online synchronizes the mailbox content to the cloud mailboxes. Users remain connected to their original mailboxes while their data is being migrated to Exchange Online.
     
 4. Una volta completata la migrazione iniziale, le eventuali modifiche apportate vengono sincronizzate con il cloud ogni 24 ore, fino a quando l'amministratore non interrompe o elimina il batch di migrazione.
     
@@ -91,28 +90,28 @@ Per passare gli utenti alle cassette postali cloud, gli amministratori configura
 Per ulteriori informazioni sulla migrazione completa di Exchange, vedere [Informazioni utili su una migrazione completa della posta elettronica a Office 365](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da).
   
 > [!IMPORTANT]
-> Un'organizzazione può eseguire la migrazione sul cloud di massimo 2.000 cassette postali di Exchange 2003, Exchange 2007, Exchange 2010 o Exchange 2013 utilizzando una migrazione completa. > Exchange Online deve stabilire una connessione a un server Exchange locale, quindi il server locale deve disporre di un certificato rilasciato da un'autorità di certificazione attendibile e di un indirizzo IP pubblico. 
+> An organization can migrate a maximum of 2,000 Exchange 2003, Exchange 2007, Exchange 2010, or Exchange 2013 mailboxes to the cloud using a cutover Exchange migration. > Exchange Online must connect to an on-premises Exchange Server, so the on-premises server must have a certificate issued by a trusted certificate authority and a public IP address. 
   
 ### <a name="staged-exchange-migration"></a>Migrazione di Exchange in fasi
 
-Con la migrazione in fasi, la migrazione degli utenti nel cloud può essere eseguita utilizzando lo strumento di migrazione di Exchange basato sul Web e lo strumento di sincronizzazione della directory. Anziché eseguire la migrazione di tutti gli utenti contemporaneamente, come nella migrazione "cutover" di Exchange, gli amministratori procedono in batch. A tale scopo, viene caricato un file CSV con un elenco parziale degli utenti interessati dalla migrazione. Nella migrazione in fasi, tutti gli utenti dell'organizzazione condividono lo stesso nome del dominio di posta elettronica.
+With a staged migration, users can be migrated to the cloud using the web-based Exchange migration tool and the Directory Synchronization tool. Instead of migrating all users at once, like a cutover Exchange migration, administrators migrate users in batches. This is accomplished by uploading a .csv file to specify a partial list of users to migrate. In a staged migration, all of the users in an organization can share the same email domain name.
   
-Nella migrazione in fasi di Exchange, gli amministratori utilizzano lo Strumento di sincronizzazione della directory dei Microsoft Online Services. In questo modo, agli utenti viene fornito un Elenco indirizzi globale (GAL, Global Address List) unificato in cui l'ambiente online viene costantemente sincronizzato con l'ambiente locale.
+Staged Exchange migration requires administrators to use the Online Services Directory Synchronization tool. This provides users with a unified Global Address List (GAL) where the online environment is continuously synchronized with the on-premises environment.
   
 Per ulteriori informazioni sulle migrazioni di Exchange a fasi, vedere [Informazioni utili su una migrazione a fasi della posta elettronica a Office 365](https://support.office.com/en-ie/article/What-you-need-to-know-about-a-staged-email-migration-to-Office-365-7e2c82be-5f3d-4e36-bc6b-e5b4d411e207).
   
 > [!IMPORTANT]
-> Le organizzazioni non possono utilizzare una migrazione di Exchange in fasi per spostare cassette postali di Exchange 2010 ed Exchange 2013. Se nell'organizzazione sono presenti meno di 2.000 cassette postali di Exchange 2010 o Exchange 2013, è possibile utilizzare una migrazione completa di Exchange. Se, invece, il loro numero è superiore a 2.000 è possibile implementare una distribuzione ibrida. > Durante la migrazione, gli amministratori devono utilizzare lo strumento di sincronizzazione della directory dei Microsoft Online Services per fornire agli utenti un elenco indirizzi globale unificato in cui l'ambiente online viene costantemente sincronizzato con l'ambiente locale. 
+> Organizations can't use a staged Exchange migration to migrate Exchange 2010 and Exchange 2013 mailboxes. If you have fewer than 2,000 Exchange 2010 or Exchange 2013 mailboxes in your organization, you can use a cutover Exchange migration. If you have more than 2,000 Exchange 2010 or Exchange 2013 mailboxes, you can implement a hybrid deployment. > During migration, administrators must use the Online Services Directory Synchronization tool to provide users with a unified Global Address List where the online environment is continuously synchronized with the on-premises environment. 
   
 ## <a name="migration-tools"></a>Strumenti di migrazione
 
-Microsoft offre una varietà di strumenti per consentire la migrazione di un ambiente di posta elettronica esistente in Exchange Online. La scelta degli strumenti più appropriati dipende dall'ambiente corrente dell'organizzazione e dalle finalità della distribuzione:
+Microsoft provides several tools to help migrate an existing email environment to Exchange Online. Which ones are appropriate depends on the organization's current environment and deployment goals:
   
-- **Dashboard di migrazione** Gli amministratori possono utilizzare il dashboard di migrazione nell'interfaccia di amministrazione di Exchange per gestire la migrazione delle cassette postali verso Exchange Online in una migrazione completa o in fasi di Exchange. Possono anche utilizzare il dashboard per la migrazione del contenuto delle cassette postali degli utenti da un server IMAP locale alle cassette postali di Exchange Online esistenti. Il dashboard offre agli amministratori le seguenti funzionalità: 
+- **Migration dashboard** Administrators can use the Migration dashboard in the Exchange admin center to manage mailbox migration to Exchange Online in a cutover or staged Exchange migration. Administrators can also use the dashboard to migrate the contents of users' mailboxes from an on-premises IMAP server to existing Exchange Online mailboxes. The dashboard gives administrators the following capabilities: 
     
-  - **Creazione e avvio di più batch di migrazione** Gli amministratori possono creare e accodare fino a 100 batch di migrazione. Viene eseguito un solo batch di migrazione alla volta, tuttavia gli amministratori possono mettere in coda più batch e, quando un batch di migrazione è terminato, viene elaborato il batch successivo in coda. 
+  - **Create and start multiple migration batches** Administrators can create and queue up to 100 migration batches. Only one migration batch runs at a time, but administrators can queue up multiple batches, so when a migration batch is finished running the next batch in the queue starts. 
     
-  - **Riavvio di un batch di migrazione con errori** Dopo la sincronizzazione iniziale di un batch di migrazione, in cui gli elementi vengono copiati dalle cassette postali locali al cloud per ogni utente nel batch di migrazione, la sincronizzazione di alcune cassette postali potrebbe non essere stata completata. Gli amministratori possono riavviare il batch di migrazione per tentare di sincronizzare le cassette postali interessate. 
+  - **Restart a migration batch with failures** After the initial synchronization for a migration batch, where items are copied from on-premises mailboxes to the cloud mailboxes for each user in the migration batch, some mailboxes may fail synchronization. Administrators can restart that migration batch to try to synchronize the failed mailboxes. 
     
   - **Informazioni dettagliate sugli elementi ignorati** Per le migrazioni IMAP, complete e in fasi, nel dashboard di migrazione vengono visualizzate le informazioni sugli elementi che sono stati ignorati, incluso il motivo e la posizione dell'elemento nella cassetta postale dell'utente. 
     
@@ -120,11 +119,11 @@ Microsoft offre una varietà di strumenti per consentire la migrazione di un amb
     
   - **Modifica di un batch di migrazione** Se un batch di migrazione per una migrazione di Exchange in fasi o IMAP si trova nella coda di migrazione ma non in esecuzione al momento, gli amministratori possono modificare il batch. 
     
-- **Strumento di sincronizzazione di Azure Active Directory**Strumento di sincronizzazione di Azure Active Directory ha un un ruolo determinante nella migrazione verso scenari di posta elettronica ibridi in cui vengono utilizzati sia Exchange Online che Exchange Server locale. Lo strumento esegue una sincronizzazione unidirezionale da Active Directory locale a Exchange Online. Dopo aver completato la migrazione, gli amministratori non rimane che utilizzare Exchange Online per gestire gli utenti e i gruppi di Active Directory. Inoltre, lo strumento offre agli utenti un Elenco indirizzi globale unificato in cui l'ambiente online viene costantemente sincronizzato con l'ambiente locale. 
+- **Azure Active Directory Sync tool** The Azure Active Directory Sync tool plays an important role in migration to hybrid email scenarios that utilize both Exchange Online and an on-premises Exchange Server. The tool performs a one-way synchronization from on-premises Active Directory to Exchange Online. After migration is complete, administrators only need to use Exchange Online to manage Active Directory users and groups. The tool also provides users with a unified Global Address List where the online environment is continuously synchronized with the on-premises environment. 
     
     Per ulteriori informazioni su strumento di sincronizzazione di Azure Active Directory, vedere [Sincronizzazione della directory: roadmap](https://go.microsoft.com/fwlink/p/?LinkId=287034).
     
-- **Procedura guidata di configurazione** La procedura guidata di configurazione agevola il processo di distribuzione ibrida semplificando la configurazione delle funzionalità e dei servizi in locale e in Exchange Online. Presentata come parte integrante di Exchange Server 2010 Service Pack 2, la procedura guidata di configurazione viene eseguita solo in organizzazioni locali e dispone dei seguenti componenti: 
+- **Hybrid Configuration Wizard** The Hybrid Configuration Wizard streamlines the hybrid deployment process by simplifying the on-premises and Exchange Online configuration of features and services. Introduced as part of Exchange Server 2010 Service Pack 2, the Hybrid Configuration Wizard is run only in on-premises organizations and has the following components: 
     
   - Procedura guidata nell'interfaccia di amministrazione di Exchange che assiste gli amministratori nel processo end-to-end per la configurazione di una distribuzione ibrida.
     
@@ -132,7 +131,7 @@ Microsoft offre una varietà di strumenti per consentire la migrazione di un amb
     
     Per ulteriori informazioni sulla procedura guidata di configurazione ibrida, vedere l'articolo relativo alla [procedura guidata di configurazione ibrida](https://go.microsoft.com/fwlink/p/?LinkId=271734).
     
-- **Windows PowerShell remoto** Parte integrante dell'aggiornamento del servizio Exchange Online del dicembre 2011, Windows PowerShell remoto può essere utilizzato per risolvere gli errori della migrazione. Ad esempio, gli amministratori possono visualizzare informazioni diagnostiche per i batch di migrazione, oltre a statistiche sulla migrazione e informazioni diagnostiche per gli utenti in base agli indirizzi SMTP primari. 
+- **Remote Windows PowerShell** As part of the Exchange Online December 2011 Service Update, remote Windows PowerShell can be used to help troubleshoot migration errors. For instance, administrators can display diagnostic information for migration batches, as well as migration statistics and diagnostic information for users based on their primary SMTP addresses. 
     
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

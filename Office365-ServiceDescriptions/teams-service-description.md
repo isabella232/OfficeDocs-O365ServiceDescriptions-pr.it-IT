@@ -1,19 +1,18 @@
 ---
 title: Descrizione del servizio Microsoft Teams
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre la messaggistica istantanea, la collaborazione di file e dati, le chiamate audio e video, riunioni online ricche, esperienze mobili e ampie funzionalità di Web Conferencing.
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711146"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131990"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 

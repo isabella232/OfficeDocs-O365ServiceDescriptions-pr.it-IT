@@ -1,8 +1,7 @@
 ---
 title: Funzionalità collaborazione documento in Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: In Yammer sono disponibili le seguenti funzionalità di collaborazione documento.
-ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688015"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132090"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Funzionalità collaborazione documento in Yammer
 
@@ -25,7 +24,7 @@ In Yammer sono disponibili le seguenti funzionalità di collaborazione documento
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Funzionalità collaborazione documento tra piani Yammer
 
-Se si ha bisogno di assistenza per capire quale piano Yammer meglio si adatta alle esigenze della propria organizzazione, utilizzare la seguente tabella per vedere le funzionalità collaborazione documento disponibili in ogni piano.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
   
 |**Funzionalità**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

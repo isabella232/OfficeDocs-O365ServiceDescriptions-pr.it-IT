@@ -1,8 +1,7 @@
 ---
 title: Applicazioni di Office
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
-description: "Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate."
-ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+description: Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639674"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131430"
 ---
 # <a name="office-applications"></a>Applicazioni di Office
 
-Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate.
+Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
   
 Per i requisiti di sistema, il servizio basato su abbonamento mensile per aziende, istituti scolastici ed enti pubblici, vedere [requisiti di sistema di Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
@@ -59,7 +58,7 @@ Skype for Business è un client per la messaggistica istantanea e un'applicazion
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath è un programma che consente di progettare, distribuire, completare e inviare formati elettronici. È possibile scegliere di aggiungere Web part Modulo di InfoPath a un sito SharePoint Online. Ulteriori informazioni su [Utilizzare la web part Modulo di InfoPath](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Per informazioni su come PowerApps, il successore di InfoPath, può migliorare la produttività aziendale in SharePoint senza scrivere codice, vedere [Customize SharePoint with PowerApps](https://powerapps.microsoft.com/infopath/).
   

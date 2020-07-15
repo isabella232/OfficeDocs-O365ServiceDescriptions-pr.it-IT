@@ -1,8 +1,7 @@
 ---
 title: OneNote per il Web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilizzare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividerlo facilmente con altri utenti. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a85dcebbba52a14c0041f0cc514e557c8691161f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640224"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131310"
 ---
 # <a name="onenote-for-the-web"></a>OneNote per il Web
 
@@ -97,7 +96,7 @@ Non disponibile in OneNote per il Web. Con l'app desktop OneNote, è possibile d
 
 La possibilità di collegare gli appunti ai file non è disponibile in OneNote per il Web e i collegamenti ai file sono nascosti. Tuttavia, vengono conservati nelle note in modo che sia possibile aprirli con l'app desktop OneNote. 
   
-## <a name="navigation"></a>Navigazione
+## <a name="navigation"></a>Spostamento
 
 Con OneNote per il Web, è possibile utilizzare i pulsanti avanti e indietro in stile browser sulla barra di accesso rapido per passare rapidamente da una pagina all'altra.
   

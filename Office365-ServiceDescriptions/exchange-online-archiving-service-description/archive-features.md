@@ -1,8 +1,7 @@
 ---
 title: Funzionalità di archiviazione in Exchange Online Archiving
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione di Microsoft Exchange Online Archiving.
-ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7f6b5863d94862644fb90d1d0d85c3765ad05e9b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639835"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131530"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione in Exchange Online Archiving
 
@@ -29,7 +28,7 @@ Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione di Mi
 
 Archiviazione Exchange Online offre agli utenti funzionalità di archiviazione avanzate tramite la funzionalità della cassetta postale di archiviazione. Una cassetta postale di archiviazione è una cassetta postale specializzata che viene visualizzata accanto alle cartelle principali delle cassette postali degli utenti in Outlook o Outlook sul Web. Gli utenti possono accedere all'archivio esattamente come fanno per le cassette postali principali. Inoltre, possono ricercare sia gli archivi che le cassette postali principali.
   
-Gli amministratori possono utilizzare l'interfaccia di amministrazione di Exchange (EAC, Exchange Admin Center) o Windows PowerShell remoto per abilitare la funzionalità di archiviazione per specifici utenti. Per ulteriori informazioni, vedere [Abilitare o disabilitare una cassetta postale di archiviazione in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Administrators can use the Exchange admin center (EAC) or remote Windows PowerShell to enable the archive feature for specific users. For more information, see [Enable or disable archive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
   
 > [!IMPORTANT]
 >  L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a Archiviazione Exchange Online a scopo di archiviazione non è consentito. <br/>
@@ -49,18 +48,18 @@ Gli utenti possono importare i dati nell'archivio nei modi riportati di seguito:
     
 - Trascinare i messaggi di posta elettronica dalla cassetta postale principale all'archivio.
     
-- Utilizzare i criteri di archiviazione per lo spostamento automatico dei messaggi di posta elettronica dalla cassetta postale principale in base all'età dei messaggi. Per ulteriori informazioni, vedere [Tag di conservazione e criteri di conservazione](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
+- Let archive policies automatically move email messages from the primary mailbox, based on the age of the messages. For more information, see [Retention Tags and Retention Policies](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
     
 > [!NOTE]
-> Gli amministratori possono anche utilizzare il servizio d'importazione di Office 365 per importare i file pst nelle cassette postali di archiviazione basate sul cloud dell'utente. Per ulteriori informazioni, vedere [Usare il caricamento di rete per importare i file PST in Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files). 
+> Administrators can also use Office 365 Import service to import .pst files to users' cloud-based archive mailboxes. For more information, see [Use network upload to import PST files to Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files). 
   
 ## <a name="deleted-item-recovery"></a>Recupero di elementi eliminati
 
-Gli utenti possono recuperare elementi eliminati da qualsiasi cartella di posta elettronica presente nei loro archivi. Quando un elemento viene eliminato, va a finire nella cartella Posta eliminata dell'archivio. L'elemento rimane in quella cartella fino a quando non viene eliminato manualmente dall'utente o automaticamente a seguito dei criteri di conservazione impostati.
+Users can restore items they have deleted from any email folder in their archive. When an item is deleted, it is kept in the archive's Deleted Items folder. It remains there until it is manually removed by the user, or automatically removed by retention policies.
   
 Dopo che un elemento è stato rimosso dalla cartella Posta eliminata dell'archivio, viene conservato in una cartella Elementi ripristinabili dell'archivio per altri 14 giorni prima di essere rimosso definitivamente. Gli utenti possono recuperare questi elementi utilizzando la funzionalità **Recupera elementi eliminati** in Microsoft Outlook o Outlook sul Web. 
   
-Se un utente ha rimosso manualmente un elemento dalla cartella Elementi recuperabili, un amministratore è in grado di recuperare quell'elemento entro lo stesso periodo di 14 giorni tramite la funzionalità di recupero di un singolo elemento. Questa funzionalità consente agli amministratori di effettuare una ricerca su più cassette postali per trovare gli elementi eliminati e utilizzare il cmdlet  `Search-Mailbox` di Windows PowerShell per spostare gli elementi dalla cassetta postale di individuazione a quella degli utenti. Per ulteriori informazioni, vedere [Abilitare o disabilitare il ripristino di un singolo elemento per una cassetta postale](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same 14 day window, through a feature called Single Item Recovery. This feature allows administrators to conduct a multi-mailbox search to find purged items and then use the  `Search-Mailbox` Windows PowerShell cmdlet to move the items from the discovery mailbox to users' mailboxes. For more information, see [Enable or disable single item recovery for a mailbox](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
 > [!NOTE]
 >  Per impostazione predefinita, il periodo di Ripristino di un singolo elemento è pari a 14 giorni, ma in alcuni casi può essere personalizzato. <br/>
@@ -71,7 +70,7 @@ Se un utente ha rimosso manualmente un elemento dalla cartella Elementi recupera
 Quando gli amministratori eliminano gli utenti da un server di Exchange locale, vengono eliminati anche gli archivi degli utenti. Se le cassette postali di archiviazione eliminate devono essere recuperate, il team del supporto tecnico Microsoft può eseguire questo ripristino. Un archivio recuperato contiene tutti i dati in esso memorizzati nel momento in cui è stato eliminato.
   
 > [!IMPORTANT]
-> Per richiedere il recupero della cassetta postale di archiviazione, gli amministratori hanno a disposizione 30 giorni dal momento in cui la cassetta postale dell'utente è stata eliminata. Dopo 30 giorni, la cassetta postale di archiviazione non è più recuperabile. 
+> Administrators have 30 days from the time a user's mailbox is deleted to request an archive mailbox recovery. After 30 days, the archive mailbox is not recoverable. 
   
 ## <a name="mailbox-service-redundancy"></a>Ridondanza servizio Cassetta postale
 

@@ -1,8 +1,7 @@
 ---
 title: Limiti di Skype for Business Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: I limiti di Skype for business online rientrano nelle categorie seguenti.
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639704"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131020"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti di Skype for Business Online
 
@@ -39,7 +38,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 ## <a name="peer-to-peer-limits"></a>Limiti peer-to-peer
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **Limite di trasferimento file** La dimensione massima relativa a un file che può essere trasferito in una conversazione di messaggistica istantanea di Skype for Business online. Per informazioni sui tipi di file per i quali è stato bloccato il trasferimento file, vedere l'articolo del supporto Microsoft relativo all' [invio e ricezione di file o allegati in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **Limiti relativi alle conversazioni a schede aperte** Il numero massimo di schede di conversazione che gli utenti di Skype for Business possono aprire in contemporanea. 
     
@@ -47,7 +46,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 business standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Non applicabile  <br/> |
 |Limite di conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicabile  <br/> |
@@ -85,7 +84,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 business standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Limite caricamento file  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Non applicabile  <br/> |
 |Partecipanti a una riunione in Skype for Business<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicabile  <br/> |
 |Relatori di una riunione in Skype for Business  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicabile  <br/> |
@@ -95,7 +94,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 |Singoli utenti in un gruppo autorizzato alla risposta  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |Non applicabile  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Se i partecipanti a una riunione su Skype for Business sono più di 75, l'elenco dei partecipanti (relatore e partecipanti) verrà troncato in modo che un singolo utente vede soltanto i relatori e il nome del singolo partecipante. L'elenco completo dei partecipanti è comunque disponibile per i relatori della riunione. Inoltre, gli errori di visualizzazione della galleria e di messaggistica istantanea sono nascosti ai partecipanti. 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>Limiti delle riunioni nelle opzioni autonome
 

@@ -1,20 +1,19 @@
 ---
 title: Pianificare la conformità Microsoft 365 - GCC High
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089637"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132500"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Pianificare la conformità a Microsoft 365-GCC High
 

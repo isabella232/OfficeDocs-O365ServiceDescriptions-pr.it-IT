@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Power BI
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -12,12 +11,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI è una famiglia di strumenti di analisi business basata su cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con una maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
-ms.openlocfilehash: 0e73585454ad28c79253c2ccd860969313c7790d
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 298cb650fb27c50c82d270b3362e645ada1ef2a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213938"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131260"
 ---
 # <a name="power-bi-service-description"></a>Descrizione del servizio Power BI
 

@@ -1,8 +1,7 @@
 ---
 title: Funzionalità dei servizi di base
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
-ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638964"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131240"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 
@@ -25,11 +24,11 @@ Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [
   
 ## <a name="active-directory-integration"></a>Integrazione con Active Directory
 
-Active Directory fornisce una posizione centrale agli amministratori per gestire le autorizzazioni e le credenziali dell'utente. L'integrazione di Active Directory con Project determina che gli utenti e i gruppi nell'Active Directory siano sincronizzati in Project Online o in Project Server 2013. Vedere [Gestire sincronizzazione di gruppi di sicurezza con Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
+Active Directory provides a central location for administrators to manage user credentials and permissions. Active Directory integration with Project means that users and groups in Active Directory are synchronized in Project Online or Project Server 2013. See [Manage security group synchronization with Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
   
 ## <a name="administration-deployment-and-extensibility"></a>Amministrazione, distribuzione ed estensibilità
 
-Project Online e Project Server 2013 forniscono funzionalità agli amministratori per pianificare, installare, configurare, mantenere ed espandere Project. Per ulteriori informazioni, vedere [Novità di Project Server 2013 per i professionisti IT](https://go.microsoft.com/fwlink/p/?LinkId=272017).
+Project Online and Project Server 2013 provide features for administrators to plan, install and configure, maintain and extend Project. See [What's new for IT pros in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
 ## <a name="getting-started"></a>Introduzione
 
@@ -37,7 +36,7 @@ Per Project online è possibile ottenere contenuto introduttivo. Vedere [Introdu
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gestione dei problemi e dei rischi (per i membri dei team)
 
-Project Online e Project Server 2013 include funzionalità per prevenire, identificare e mitigare potenziali problemi o rischi relativi all'azienda o a un determinato progetto. Per ulteriori informazioni, vedere [Gestione problematiche, rischi e documenti in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="office-365-trust-center"></a>Centro protezione di Office 365
 
@@ -45,7 +44,7 @@ I dati sono vostri. La salvaguardiamo e proteggiamo la privacy. Vedere [il Centr
   
 ## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 
-La soluzione PPM (gestione portfolio progetti) di Microsoft è sostenuta da centinaia di Partner Microsoft che hanno conseguito la certificazione di Competenza PPM, sostenuto esami specifici ed eseguito numerose distribuzioni in oltre 80 paesi in tutto il mondo. Quando occorre assistenza per attività di valutazione, previsione, distribuzione o formazione e si è pronti a impegnarsi con dei professionisti del settore, rivolgersi con fiducia a un partner PPM [nel paese di appartenenza](https://go.microsoft.com/fwlink/p/?LinkId=272646).
+Microsoft PPM solutions are backed by hundreds of Microsoft partners who have earned their PPM competency, and undergone relevant exams and numerous deployments in over 80 countries and regions worldwide. When you want help with assessment, envisioning, deployment, or training, and you're ready to engage with professional services organizations, [contact a PPM partner in your region](https://go.microsoft.com/fwlink/p/?LinkId=272646).
   
 ## <a name="service-reliability"></a>Service reliability
 
@@ -61,5 +60,5 @@ La collaborazione di team supporta e guida la riuscita generale del progetto e l
   
 ## <a name="time-and-task-management-for-team-members"></a>Gestione delle tempistiche e delle attività (per i membri dei team)
 
-È opportuno utilizzare un approccio centralizzato e comune per la gestione dei tempi e delle attività. Intercettare i tempi di lavoro e di inattività per il calcolo degli stipendi, l'emissione delle fatture e altri scopi aziendali. Comunica con precisione lo stato dei progetti, il lavoro giornaliero e le richieste ad hoc per misurare i periodi di maggior e minor utilizzo o i progressi delle attività. Questo aiuta ad anticipare l'effetto sullo sforzo, costo e tempistiche pianificate. Per ulteriori informazioni, vedere [Tenere traccia del tempo dedicato alle attività e dell'avanzamento delle attività](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
   

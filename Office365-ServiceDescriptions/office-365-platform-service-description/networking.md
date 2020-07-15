@@ -1,8 +1,7 @@
 ---
 title: Rete
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft supporta le funzionalità di rete seguenti.
-ms.openlocfilehash: 2f0daecb96564043a6bd734f158fad272dc1812b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 0f0554bdd907a6f0a37299dc3e38e5f778e7187e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045008"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132330"
 ---
 # <a name="networking"></a>Rete
 
@@ -30,7 +29,7 @@ Microsoft utilizza gli indirizzi IPv4 e IPv6. L'utilizzo degli indirizzi IPv6 è
 Microsoft gestisce un elenco di indirizzi IP consentiti nella Guida di Microsoft. Per ulteriori informazioni, vedere [URL e intervalli di indirizzi IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges). Per Office 365 gestito da 21Vianet, vedere [URL e indirizzi IP per Office 365 gestito da 21Vianet](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints). Per Office 365 Germany, vedere [Endpoint di Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
 > [!IMPORTANT]
-> Si consiglia di abilitare il reindirizzamento a nomi di dominio radice elencati negli articoli preedenti (quali \*.Outlook.com, \*.MicrosoftOnline.com e \*.SharePoint.com) anzichè a subnet con specifichi indirizzi IP. L'utilizzo di indirizzi IP di subnet potrebbe comportare il rischio di interruzioni per gli utenti in caso di modifiche. 
+> We strongly recommend that you enable routing to the root domain names listed in the articles above (such as \*.Outlook.com, \*.MicrosoftOnline.com and \*.SharePoint.com) instead of routing to specific IP address subnets. Relying on IP address subnets runs the risk of outages for your users as changes are made. 
   
 ## <a name="bandwidth-requirements"></a>Requisiti di larghezza di banda
 
@@ -44,7 +43,7 @@ Per ulteriori informazioni su Azure ExpressRoute, vedere [Azure ExpressRoute per
   
 ### <a name="wan-accelerators"></a>Acceleratori WAN
 
-Microsoft non fornisce il supporto per i dispositivi di memorizzazione nella cache e accelerazione WAN di proprietà del cliente con Office 365. Se si sceglie di utilizzare un controller di ottimizzazione WAN per migliorare le prestazioni in caso di alta latenza o larghezza di banda ridotta, è necessario disabilitarlo in caso di richieste di assistenza a Microsoft e rivolgersi al fornitore per il supporto del dispositivo. Per ulteriori informazioni, vedere [Dispositivi di memorizzazione nella cache e accelerazione WAN con Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
+Microsoft does not provide support for customer-owned WAN acceleration and caching devices with Office 365. If you decide to use a WAN optimization controller to improve performance under conditions of high latency or low bandwidth, you'll need to disable it while troubleshooting service requests with Microsoft, and work with your device vendor for device support. For more information, see [WAN Acceleration and caching devices with Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
   
 ## <a name="the-global-microsoft-network"></a>Rete globale di Microsoft
 
@@ -52,9 +51,9 @@ L'infrastruttura di rete Microsoft è costituita da un vasto portafoglio globale
   
 Per mantenere la riservatezza e l'integrità dei dati del cliente, Microsoft mantiene le reti dei servizi consumer separate dalle reti Microsoft. Per controllare il flusso delle informazioni sono applicate diverse tecniche, tra cui:
   
-- Separazione fisica. I segmenti di rete sono separati fisicamente da router configurati per evitare determinati modelli di comunicazioni.
+- Physical separation. Network segments are physically separated by routers that are configured to prevent specific communication patterns.
     
-- Separazione logica. La tecnologia VLAN (LAN virtuale) viene utilizzata per separare ulteriormente le comunicazioni.
+- Logical separation. Virtual LAN (VLAN) technology is used to further separate communications.
     
 - Firewall. I firewall e altri punti di applicazione della sicurezza della rete vengono utilizzati per limitare gli scambi di dati con i sistemi esposti a Internet e per isolare i sistemi dai sistemi back-end gestiti da Microsoft. 
     

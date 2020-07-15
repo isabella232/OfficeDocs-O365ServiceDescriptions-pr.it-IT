@@ -1,7 +1,7 @@
 ---
-title: Descrizione del servizio di posta elettronica
-ms.author: sharik
-author: skjerland
+title: Descrizione del servizio di invio di un messaggio di briefing via posta elettronica
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Il messaggio di posta elettronica di briefing aiuta gli utenti a sfruttare al meglio ogni giorno. Identifica le opportunità tra vari elementi e fornisce promemoria tempestive.
-ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260661"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132010"
 ---
-# <a name="briefing-email-service-description"></a>Descrizione del servizio di posta elettronica
+# <a name="briefing-email-service-description"></a>Descrizione del servizio di invio di un messaggio di briefing via posta elettronica
 
 Il messaggio di posta elettronica di briefing aiuta gli utenti a rimanere in controllo del calendario e a essere intenzionali riguardo alla propria giornata. Nelle prime due ore della giornata lavorativa (come stabilito in Outlook), riceverà un messaggio di posta elettronica su tutti gli elementi rilevanti per migliorare la preparazione per il giorno a venire, tra cui:
 

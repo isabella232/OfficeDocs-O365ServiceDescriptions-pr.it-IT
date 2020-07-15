@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Microsoft 365 Business Premium
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium è una soluzione integrata che unisce la produttività ottimale con funzionalità avanzate di sicurezza e gestione dei dispositivi per proteggere la propria azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 8760788fe6fd0b8a66f9379f56b569239b18c142
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: fbeae5678143d78138b71fe842c40a9969951531
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214028"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132560"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrizione del servizio Microsoft 365 Business Premium
 
@@ -60,7 +59,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Office 365 Advanced Threat Protection piano 1 <br/> |No  <br/> |Sì<sup>7</sup> <br/> |
 |Secure Score<sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |Office 365 Advanced Threat Protection (Piano 2) <br/> |No  <br/> |No <br/> |
-|[Gestione di identità e accesso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> La versione completa di Azure AD Premium P1 è prossima ai clienti Microsoft 365 Business Premium. Per ulteriori informazioni, vedere [questo post di Blog](https://aka.ms/aadp1smbblog). <sup>8</sup> <br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Gestione delle identità e degli accessi](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> La versione completa di Azure AD Premium P1 è prossima ai clienti Microsoft 365 Business Premium. Per ulteriori informazioni, vedere [questo post di Blog](https://aka.ms/aadp1smbblog). <sup>8</sup> <br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |No  <br/> |Sì<sup>11</sup>  <br/> |Sì  <br/> |
 |Unità amministrative  <br/> |No  <br/> |Sì<sup>11</sup>  <br/> |Sì  <br/> |
 |Individuazione di app per cloud  <br/> |No  <br/> |Sì<sup>11</sup>  <br/> |Sì  <br/> |
@@ -105,7 +104,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Protegge le cartelle da minacce come il ransomware <br/> |Sì  <br/> |
 |Protezione dei file e delle cartelle nei PC da accessi non autorizzati con BitLocker <br/> |Sì  <br/> |
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>Note
 <sup>1</sup> include Exchange Online piano 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. AIP piano 1 è incluso in Microsoft 365 Business Premium. <br/>
 <sup>3</sup> Microsoft 365 Business Premium include la sottoscrizione di archiviazione Exchange Online. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Per ulteriori informazioni, vedere [Overview of Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>

@@ -1,8 +1,7 @@
 ---
 title: Word per il Web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word per il Web (in precedenza Word Web App) estende la propria esperienza di Microsoft Word al Web browser, in cui è possibile utilizzare i documenti direttamente nel sito Web in cui è archiviato il documento.
-ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640214"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131300"
 ---
 # <a name="word-for-the-web"></a>Word per il Web
 
@@ -43,7 +42,7 @@ La parola per il Web Salva automaticamente il documento quando si apportano modi
   
 ## <a name="autotext"></a>Glossario
 
-È possibile inserire blocchi di testo preformattato utilizzando Glossario dalla raccolta voci di glossario. Questa operazione è utile, ad esempio, quando è necessario immettere ripetutamente lo stesso grande blocco di testo e il testo contiene molti elementi di formattazione. L'utente crea voci di glossario aggiungendo il testo selezionato alla raccolta voci di glossario. Per ulteriori informazioni, vedere [Inserire automaticamente il testo](https://go.microsoft.com/fwlink/?linkid=846739).
+You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
@@ -71,11 +70,11 @@ Non disponibile in Word per il Web. Le funzionalità di collaborazione avanzata,
   
 ## <a name="content-controls"></a>Controlli contenuto
 
-I controlli contenuto sono singoli controlli che è possibile aggiungere e personalizzare per l'uso nei modelli, moduli e documenti. Per ulteriori informazioni sui controlli contenuto, vedere [Controlli contenuto](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
   
 ## <a name="cover-pages"></a>Frontespizi
 
-Microsoft Word offre una pratica raccolta di frontespizi predefiniti. Basta scegliere un frontespizio e sostituire il testo di esempio con quello dell’utente.
+Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
   
 ## <a name="creation-of-advanced-document-elements"></a>Creazione di elementi di documenti avanzati
 
@@ -87,7 +86,7 @@ Non disponibile in Word per il Web. Parti e temi del documento, quali controlli 
   
 ## <a name="document-translation"></a>Traduzione di documenti
 
-Tradurre i documenti direttamente nel browser. Persino i commenti dei documenti vengono tradotti.
+Translate documents directly in the browser. Even document comments are translated.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -103,7 +102,7 @@ Trovare e sostituire il testo nel documento utilizzando lo strumento trova e Sos
   
 ## <a name="font-formatting"></a>Font formatting
 
-Con Word per il Web, è possibile applicare il tipo di carattere, la dimensione del carattere e&mdash;diversi attributi di formattazione dei tipi di carattere, tra cui grassetto, corsivo, sottolineato e apice. Evidenziare il testo, cambiare il colore del carattere e cancellare la formattazione del testo selezionato. La formattazione del tema del documento è disponibile per formattare il testo in Word per il Web. È possibile individuare i caratteri del tema attivo in cima alla raccolta Caratteri e i colori del tema nella raccolta Colore carattere. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, è possibile applicare il tipo di carattere, la dimensione del carattere e diversi attributi di formattazione dei tipi di carattere, &mdash; tra cui grassetto, corsivo, sottolineato e apice. Evidenziare il testo, cambiare il colore del carattere e cancellare la formattazione del testo selezionato. La formattazione del tema del documento è disponibile per formattare il testo in Word per il Web. È possibile individuare i caratteri del tema attivo in cima alla raccolta Caratteri e i colori del tema nella raccolta Colore carattere. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="footnotes-and-endnotes"></a>Footnotes and endnotes
 
@@ -127,7 +126,7 @@ Con Word per il Web, è possibile creare facilmente collegamenti ai segnalibri a
   
 ## <a name="index"></a>Indice
 
-Un indice elenca i termini e gli argomenti trattati in un documento, insieme alle pagine in cui sono visualizzati. Per creare un indice, contrassegnare le voci di indice fornendo il nome della voce principale e il riferimento incrociato nel documento, quindi procedere alla generazione dell'indice.
+An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
   
 ## <a name="ink-editor"></a>Editor input penna
 
@@ -185,7 +184,7 @@ Con Word per il Web, è possibile ridimensionare le immagini e aggiungere testo 
   
 ## <a name="preformatted-font-and-color-schemes"></a>Schemi di carattere e colore preformattati
 
-È possibile utilizzare i temi per semplificare il processo di creazione di documenti corrispondenti e dall'aspetto professionale. I temi possono essere applicati a tabelle, grafici, forme e diagrammi per fornire tipi di carattere, effetti e combinazioni di colori coerenti.
+You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
   
 ## <a name="present-online"></a>Presentazione online
 
@@ -213,7 +212,7 @@ Non disponibile in Word per il Web. Gli strumenti di correzione avanzati, quali 
   
 ## <a name="reference-tools"></a>Strumenti di riferimento
 
-Bibliografia, sommari e indici vengono visualizzati come previsto nella modalità di visualizzazione. Nella modalità di modifica, vengono visualizzati come segnaposto che è possibile eliminare, ma non modificare o aggiornare. Gli strumenti di riferimento avanzati, quali quelli per creare bibliografie, sommari, indici o indice delle fonti sono disponibili solo nell'app desktop Word.
+Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
   
 ## <a name="rendering-of-text-boxesshapes"></a>Rendering di caselle di testo/forme
 
@@ -261,7 +260,7 @@ Non disponibile in Word per il Web. È possibile visualizzare una tabella di aut
   
 ## <a name="tap"></a>Tocco
 
-Utilizzare la funzionalità di tocco per individuare e riutilizzare il contenuto. La funzionalità di tocco rende visibili i file rilevanti usati più di frequente, consentendo di concentrarsi sulla creazione di documenti, anziché cercare file e informazioni. Per ulteriori informazioni, vedere come [trovare e usare i contenuti necessari](https://go.microsoft.com/fwlink/?linkid=825878).
+Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
   
 ## <a name="tell-me"></a>Dimmi
 
@@ -285,7 +284,7 @@ Con Word per il Web, è possibile inserire, modificare o eliminare i commenti in
   
 ## <a name="watermarks"></a>Filigrane
 
-Le filigrane sono testo o immagini dietro il testo del documento. Ad esempio, è possibile aggiungere filigrane di testo come Bozza o Riservato. In Word è possibile scegliere tra una raccolta di filigrane oppure creare una filigrana personalizzata, ad esempio un logo aziendale per il documento.  
+Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
   
 ## <a name="word-count"></a>Conteggio parole
 

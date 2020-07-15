@@ -1,20 +1,19 @@
 ---
 title: Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 Business Premium è una soluzione integrata che unisce la produttività di Microsoft 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988860"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132540"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
@@ -160,7 +159,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 
 ## <a name="office-client-commercial-plans"></a>Piani commerciali del client di Office
 
-| **Applicazioni** | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
+| **Applicazioni** | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
 |------------------|-------------------------|------------------------|
 | Word             | Sì                     | Sì                    |
 | Excel            | Sì                     | Sì                    |
@@ -170,7 +169,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 | Publisher        | Sì                     | Sì                    |
 | Access           | Sì                     | Sì                    |
 | Microsoft Teams  | Sì                     | Sì                    |
-| **Valore Premium**                             | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
+| **Valore Premium**                             | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
 | Attivazione dei contratti multilicenza                             | No                      | No                     |
 | Criteri di gruppo<sup>1</sup>                      | No                      | Sì                    |
 | Shared computer activation                    | Sì<sup>7</sup>        | Sì                    |
@@ -183,12 +182,12 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 | Business intelligence                         | No                      | Sì<sup>5</sup>        |
 | Creare IRM<sup>3</sup>                        | Sì<sup>7</sup>        | Sì                    |
 | Prevenzione della perdita di dati<sup>3</sup>              | Sì<sup>7</sup>        | Sì<sup>5</sup>        |
-| **Valore cloud**                  | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
+| **Valore cloud**                  | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
 | Gruppi                           | Sì                     | Sì                    |
 | Strumento di distribuzione di Office           | Sì                     | Sì                    |
 | Impostazioni & dei documenti di roaming     | Sì                     | Sì                    |
 | 1 TB OneDrive for business       | Sì                     | Sì                    |
-| **Licenze**                                   | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
+| **Licenze**                                   | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
 | Modello di gestione delle licenze                                 | Per utente                | Per utente               |
 | Tipo di licenza                                    | Abbonamento            | Abbonamento           |
 | PC/Mac installa<sup>6</sup>                     | 5                        | 5                       |

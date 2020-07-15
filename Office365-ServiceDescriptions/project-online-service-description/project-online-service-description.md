@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Microsoft Project
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820614"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131160"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -188,7 +187,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Gestione degli utenti | Gestire i ruoli e le autorizzazioni di utenti e gruppi a livello di progetto, team e organizzazione. | No | Sì |
 |Amministrazione del servizio | Pianificare, installare e configurare, gestire ed estendere l'ambiente di Microsoft Project come parte dell'ambiente Office 365<sup>1</sup> .  | No | Sì |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>Note
 
 <sup>1</sup> richiede un abbonamento commerciale a Office o Microsoft 365.</br>
 <sup>2</sup> schede di Azure acquisite separatamente.</br>

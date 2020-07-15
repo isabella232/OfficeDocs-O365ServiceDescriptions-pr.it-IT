@@ -1,8 +1,7 @@
 ---
 title: Office 365 US Government
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429061"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131730"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -66,7 +65,7 @@ Al rinnovo del contratto di un cliente per Office 365 US Government, è richiest
   
 ## <a name="customer-content-located-within-the-united-states"></a>Il contenuto del cliente si trova all'interno del territorio degli Stati Uniti
 
-I servizi Office 365 US Government sono offerti da centri dati che si trovano negli Stati Uniti. Il seguente contenuto del cliente viene archiviato da centri dati che si trovano fisicamente negli Stati Uniti: 
+Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
   
 - Contenuto delle cassette postali di Exchange Online (corpo di posta elettronica, voci del calendario e contenuto degli allegati di posta elettronica)
     
@@ -138,7 +137,7 @@ Per informazioni sul &amp; centro conformità di sicurezza e sui collegamenti a 
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilità del servizio per ogni piano
 
-Ogni piano di Office 365 include una serie di servizi individuali, come Exchange Online e SharePoint Online. Nella seguente tabella sono indicati i servizi disponibili in ogni piano di Office 365 US Government.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

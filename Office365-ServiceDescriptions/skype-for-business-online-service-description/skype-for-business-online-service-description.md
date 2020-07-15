@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Skype for Business Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Si desidera conoscere quali licenze è necessario acquistare per ottenere determinate funzionalità di Skype for Business? Vedere la panoramica sulle licenze di Skype for business.
-ms.openlocfilehash: f98546f6b229d1573fb3b170e9da5d04763a4db2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 283f0ee8aa60728a0ddd91665a0b68933216260d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213708"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133070"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
 
@@ -31,7 +30,7 @@ ms.locfileid: "44213708"
 
  **Si desidera sapere quali licenze è necessario acquistare per ottenere determinate funzionalità di Skype for business? Vedere [licenze per i componenti aggiuntivi di Skype for business](https://go.microsoft.com/fwlink/?LinkID=799524).**
   
-Skype for Business online è un servizio di comunicazioni che permette agli utenti di partecipare a riunioni e parlare in qualsiasi momento e da qualsiasi luogo. Offre agli utenti accesso a informazioni sulla presenza e consente di scambiare messaggi istantanei, effettuare chiamate audio e video, partecipare a riunioni online e conferenze via Web. 
+Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
   
 Skype for Business è ospitato su server multi-tenant che supportano più utenti in contemporanea. Questi server sono ospitati nei data center di Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o su Internet. 
   
@@ -82,7 +81,7 @@ Per un confronto più dettagliato, vedere la tabella seguente.
 |Office Communications Server 2007 R2 e Lync Server 2010 (messaggistica istantanea, presenza, audio, video, conferenza)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |XMPP (usato, ad esempio da Google Talk) e federazione Sametime  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 | Federazione Skype  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Federazione AOL e Yahoo!  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|AOL and Yahoo! federation  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**[Riunioni in Skype for Business Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Servizi di audioconferenza ad hoc e pianificazione  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Video conferenza ad hoc e pianificazione  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
@@ -197,7 +196,7 @@ Nella seguente tabella viene elencata la disponibilità di funzionalità di Skyp
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funzionalità** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
+|**Caratteristica** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
 |**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype for business completo  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Skype for Business Basic  <br/> |No  <br/> |Sì<sup>1</sup> <br/> |Sì<sup>1</sup> <br/> |
@@ -231,7 +230,7 @@ Nella seguente tabella viene elencata la disponibilità di funzionalità di Skyp
 |Office Communications Server 2007 R2 e Lync Server 2010 (messaggistica istantanea, presenza, audio, video, conferenza)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |XMPP (usato, ad esempio da Google Talk) e federazione Sametime  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
 | Federazione Skype  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Federazione AOL e Yahoo!  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
+|AOL and Yahoo! federation  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
 |**[Riunioni in Skype for Business Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online versione autonoma, piano 1** <br/> |**Skype for Business online versione autonoma, piano 2** <br/> |
 |Servizi di audioconferenza ad hoc e pianificazione  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
 |Video conferenza ad hoc e pianificazione  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |
@@ -303,4 +302,4 @@ Nella tabella seguente vengono illustrate le opzioni di licenza per Skype meetin
 |Office 365 Enterprise E1  <br/> |Skype for Business online Piano autonomo 2 (per informazioni sulle funzionalità incluse, vedere Skype for Business online Piano autonomo 2 sopra riportato).  <br/> |
 |Office 365 Enterprise E3  <br/> |Skype for Business online Piano autonomo 2 (per informazioni sulle funzionalità incluse, vedere Skype for Business online Piano autonomo 2 sopra riportato).  <br/> |
 |Office 365 Enterprise E5 con servizi di audioconferenza  <br/> | Skype for Business online Piano autonomo 2 incluso (per informazioni sulle funzionalità incluse, vedere Skype for Business online Piano autonomo 2 sopra riportato).  <br/>  È inclusa la funzionalità di audioconferenza.  <br/>  Sistema telefonico incluso.  <br/>**Note**  Se acquistato da solo senza piani di chiamata, il sistema telefonico Abilita solo la funzionalità di segreteria telefonica ibrida. Hybrid Voice richiede una distribuzione vocale ibrida del cliente per abilitare le chiamate PSTN utilizzando il provider di servizi PSTN esistente. Per abilitare le chiamate PSTN in ingresso e in uscita utilizzando Microsoft come provider di servizi PSTN, sono disponibili i seguenti componenti aggiuntivi del sistema telefonico: <br/> -Piano per le chiamate nazionali (disponibile solo in alcuni paesi) <br/> -Piano per le chiamate internazionali (disponibile solo in alcuni paesi)           |
-|Office 365 Enterprise E5 senza Audioconferenza  <br/> | Skype for Business online Piano autonomo 2 incluso (per informazioni sulle funzionalità incluse, vedere Skype for Business online Piano autonomo 2 sopra riportato).  <br/>  Sistema telefonico incluso. <br/>**Note**  Se acquistato da solo senza piani di chiamata, il sistema telefonico Abilita solo la funzionalità di segreteria telefonica ibrida. Hybrid Voice richiede una distribuzione vocale ibrida dei clienti locale per abilitare le chiamate PSTN utilizzando il provider di servizi PSTN esistente. Per abilitare le chiamate PSTN in ingresso e in uscita utilizzando Microsoft come provider di servizi PSTN, sono disponibili i seguenti componenti aggiuntivi del sistema telefonico: <br/> -Piano per le chiamate nazionali (disponibile solo in alcuni paesi). <br/> -Piano per le chiamate internazionali (disponibile solo in alcuni paesi).           |
+|Office 365 Enterprise E5 senza servizi di audioconferenza  <br/> | Skype for Business online Piano autonomo 2 incluso (per informazioni sulle funzionalità incluse, vedere Skype for Business online Piano autonomo 2 sopra riportato).  <br/>  Sistema telefonico incluso. <br/>**Note**  Se acquistato da solo senza piani di chiamata, il sistema telefonico Abilita solo la funzionalità di segreteria telefonica ibrida. Hybrid Voice richiede una distribuzione vocale ibrida dei clienti locale per abilitare le chiamate PSTN utilizzando il provider di servizi PSTN esistente. Per abilitare le chiamate PSTN in ingresso e in uscita utilizzando Microsoft come provider di servizi PSTN, sono disponibili i seguenti componenti aggiuntivi del sistema telefonico: <br/> -Piano per le chiamate nazionali (disponibile solo in alcuni paesi). <br/> -Piano per le chiamate internazionali (disponibile solo in alcuni paesi).           |

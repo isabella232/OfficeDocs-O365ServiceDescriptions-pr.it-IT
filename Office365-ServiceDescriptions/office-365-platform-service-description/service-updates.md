@@ -1,8 +1,7 @@
 ---
 title: Aggiornamenti dei servizi
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Per informazioni sulle funzionalità di Office 365 appena rilasciate o che stanno per essere rilasciate, vedere la Guida di orientamento di Microsoft 365.
-ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044808"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131480"
 ---
 # <a name="service-updates"></a>Aggiornamenti dei servizi
 
 > [!NOTE]
-> Questo argomento non è valido per Office 365 gestito da 21Vianet. Per ulteriori informazioni sugli aggiornamenti del servizio, vedere [Ricevere supporto tecnico per le fatturazioni e le sottoscrizioni di Office 365 gestito da 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 Per informazioni sulle funzionalità appena rilasciate o che stanno per essere rilasciate, vedere la Guida di [orientamento di Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
-> Gli aggiornamenti vengono distribuiti ai clienti in base a vari fattori, ad esempio, posizione geografica, lingua, data center e sottoscrizione. Ciò significa che non tutti gli aggiornamenti sono disponibili immediatamente per i clienti attuali. 
+> Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription. This means that not all updates are available immediately to existing customers. 
   
 ## <a name="targeted-release"></a>Rilascio assegnato
 

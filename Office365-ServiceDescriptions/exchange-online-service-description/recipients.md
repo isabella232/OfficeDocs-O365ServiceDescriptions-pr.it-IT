@@ -1,8 +1,7 @@
 ---
 title: Destinatari
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,33 +11,33 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
-ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639984"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132640"
 ---
 # <a name="recipients"></a>Destinatari
 
-In questo argomento sono descritte le funzionalità correlate ai destinatari incluse con Microsoft Exchange Online. Questo include le funzionalità di posta elettronica, contatti, gruppi di distribuzione, calendario e pianificazione.
+This topic describes recipient-related features included with Microsoft Exchange Online. This includes email, contacts, distribution groups, and calendar and scheduling capabilities.
   
 ## <a name="email"></a>Posta elettronica
 
-Ogni sottoscrittore di Microsoft Exchange Online riceve una cassetta postale e cassette postali speciali sono disponibili per la pianificazione delle risorse delle strutture (ad esempio, sale riunioni) e per l'accesso multiutente a indirizzi di posta elettronica condivisi. I limiti massimi di archiviazione sono validi per la maggior parte delle cassette postali e gli amministratori possono controllare le dimensioni massime consentite per le cassette postali. Notifiche e restrizioni automatiche possono segnalare all'utente quando la capacità della cassetta postale è quasi esaurita o esaurita. In Exchange Online sono inoltre disponibili diversi tipi di limitazioni per i messaggi: dimensioni e frequenza dei messaggi e limiti all'elenco dei destinatari. I dettagli di tutte le caratteristiche e di tutti i limiti sono forniti qui di seguito.
+Every Microsoft Exchange Online subscriber receives a mailbox, and specialty mailboxes are available for scheduling facilities resources (such as conference rooms) and for multiuser access to shared email addresses. Maximum storage limits apply to most mailboxes, and administrators can control allowable mailbox sizes. Automated notifications and restrictions can alert users when their mailboxes are nearing, or at, capacity. Exchange Online also has several types of message limitations—message size, message rate, and recipient list limits. Details of all these features and limits are provided below.
   
 > [!NOTE]
 > Gli indirizzi generali non sono più supportati in Exchange Online. A causa del filtro dei destinatari sul posto per proteggersi da potenziali messaggi di posta indesiderata, gli indirizzi di posta elettronica che non esistono nell'organizzazione verranno rifiutati. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>Tipi di cassetta postale, limiti di archiviazione e avvisi di capacità
 
-La quantità di spazio di archiviazione nella cassetta postale disponibile per un utente e le dimensioni predefinite della cassetta postale sono determinate dal tipo di cassetta postale e dalla licenza di sottoscrizione dell'utente. Gli amministratori possono ridurre le dimensioni massime della cassetta postale per ogni utente o a livello globale. Exchange Online fornisce inoltre tre tipi di notifiche quando la cassetta postale di un utente si avvicina o raggiunge la capacità massima.
+The amount of mailbox storage available to a user and the default mailbox size are determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally. Exchange Online also provides notifications when a user's mailbox is nearing, or at, capacity.
   
 Per ulteriori informazioni, vedere la sezione "limiti di archiviazione delle cassette postali" e "avvisi di capacità" nell'argomento [Exchange Online limits](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>Suggerimenti messaggio
 
-Gli avvisi messaggio sono messaggi informativi automatizzati che vengono visualizzati sulla riga A: quando gli utenti compongono o inseriscono l'indirizzo in un messaggio. Lo scopo è impedire recapiti accidentali, violazioni dei criteri o rapporti di mancato recapito (NDR) non necessari. Ad esempio, gli avvisi messaggio possono generare un avviso se i mittenti provano a inviare messaggi a gruppi troppo grandi, a gruppi che contengono destinatari esterni o a un gruppo di distribuzione moderato o con restrizioni. Per ulteriori informazioni, vedere [Avviso messaggi](https://go.microsoft.com/fwlink/p/?LinkId=401472).
+MailTips are automated, informative messages that appear above the To: line while users are composing or addressing a message. They are designed to help prevent accidental delivery, policy violations, or unnecessary non-delivery reports (NDRs). For example, MailTips can generate an alert if senders try to send messages to overly large groups, to groups that contain external recipients, or to a distribution group that is moderated or restricted. For more information, see [MailTips](https://go.microsoft.com/fwlink/p/?LinkId=401472).
   
 ### <a name="delegate-access"></a>Accesso delegato
 
@@ -48,7 +47,7 @@ Per i delegati sono disponibili due tipi di accesso:
   
 - **Autorizzazioni Invia per conto di** Il delegato può comporre messaggi di posta elettronica e immettere il nome dell'altra persona nel campo Da, in cui sarà visualizzato come "[nome delegato] per conto di [nome della persona]". 
     
-- **Autorizzazioni Invia come** Il delegato può inviare i messaggi dalla cassetta postale dell'altra persona come se fosse il proprietario della cassetta postale. È uno scenario frequente in caso di cassetta postale condivisa da cui alcuni dipendenti inviano messaggi di posta elettronica anziché inviarli con i propri account Exchange Online. 
+- **Send As permissions** The delegate can send messages from the other person's mailbox as if the delegate were the mailbox owner. This scenario is common where there is a shared mailbox and several employees send email messages from that shared mailbox instead of from their Exchange Online accounts. 
     
 Per ulteriori informazioni su come concedere la delega di accesso, vedere [Gestire le autorizzazioni per i destinatari](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx).
   
@@ -58,7 +57,7 @@ Exchange Online consente agli utenti di creare regole di posta in arrivo che ese
   
 ### <a name="clutter"></a>Messaggi secondari
 
-Messaggi secondari consente di concentrarsi sui messaggi più importanti nella posta in arrivo. Utilizza la tecnologia di apprendimento elettronico per eliminare gli elementi superflui dalla posta in arrivo, spostando i messaggi con priorità inferiore in una nuova cartella Messaggi secondari. Messaggi secondari rispetta le regole di posta elettronica esistenti di modo che, se sono state create regole per organizzare la posta elettronica, tali regole continuano a essere applicate e Messaggi secondari non agirà su tali messaggi. Messaggi secondari è disabilitata per impostazione predefinita. Per ulteriori informazioni, vedere il post su [come eliminare gli elementi superflui dalla posta in arrivo in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
+Clutter is designed to help you focus on the most important messages in your inbox. It uses machine learning to de-clutter your inbox by moving lower priority messages out of your way and into a new Clutter folder. Clutter respects your existing email rules, so if you have created rules to organize your email those rules continue to be applied and Clutter won't act on those messages. Clutter is disabled by default for your inbox. To learn more, see [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
   
 ### <a name="connected-accounts"></a>Account connessi
 
@@ -66,12 +65,12 @@ La funzionalità account connessi consente agli utenti di Exchange Online di con
   
 ### <a name="inactive-mailboxes"></a>Cassette postali inattive
 
-Exchange Online fornisce la possibilità di conservare illimitatamente i contenuti delle cassette postali eliminate. Questa funzionalità è denominata cassette postali inattive. Una cassetta postale diventa inattiva quando un'archiviazione sul posto o un blocco per controversie viene posizionato nella casetta postale prima della sua eliminazione. Di conseguenza, il contenuto della cassetta postale viene conservato illimitatamente. Gli amministratori, i responsabili della conformità e i responsabili dei record possono utilizzare la funzionalità eDiscovery in locale disponibile in Exchange Online per accedere al contenuto di una cassetta postale inattiva.
+Exchange Online provides the capability to preserve the contents of deleted mailboxes indefinitely. This feature is called inactive mailboxes. A mailbox becomes inactive when an In-Place Hold or a Litigation Hold is placed on the mailbox before it's deleted. This results in the contents of the mailbox being preserved indefinitely. Administrators, compliance officers, or record managers can use the In-Place eDiscovery feature in Exchange Online to access the contents of an inactive mailbox.
   
 L'abilitazione di una cassetta postale inattiva prevede che alla cassetta venga assegnata una licenza di Exchange Online (Piano 2) o una sottoscrizione per l'archiviazione in Exchange Online in modo che sia possibile applicare alla cassetta postale l'attributo per la conservazione o un blocco per controversie prima che venga eliminata.
   
 > [!IMPORTANT]
-> Se non si applica la conservazione alla cassetta postale prima della sua eliminazione, il contenuto non verrà conservato e non potrà essere trovato. È possibile recuperare la cassetta postale entro 30 giorni dall'eliminazione; se non viene recuperata entro 30 giorni, la cassetta postale e il suo contenuto vengono eliminati definitivamente. 
+> If a hold isn't placed on a mailbox before it's deleted, the contents of the mailbox will not be preserved or discoverable. The mailbox can be recovered within 30 days of deletion, but the mailbox and its contents will be permanently deleted after 30 days if it isn't recovered. 
   
 Per ulteriori informazioni, vedere:
   
@@ -97,25 +96,25 @@ Exchange Online supporta la personalizzazione di elenchi indirizzi e GAL. Un ele
   
 ### <a name="hierarchical-address-books"></a>Rubriche gerarchiche
 
- Le rubriche gerarchiche consentono agli utenti finali di cercare i destinatari nell'organizzazione Exchange tramite una gerarchia organizzativa. Gli amministratori possono personalizzare la rubrica in base all'anzianità e alla classifica piuttosto che all'ordine alfabetico. 
+ Hierarchical address books allow end users to browse for recipients in their Exchange organization using an organizational hierarchy. Administrators can customize the address book by seniority and rank rather than alphabetical listings. 
   
 ### <a name="distribution-groups-global"></a>Gruppi di distribuzione (globali)
 
 Un gruppo di distribuzione (o elenco di distribuzione) è una raccolta di utenti, contatti e altri gruppi di distribuzione disponibili in una società. Per inviare messaggi a tutti i componenti di un gruppo di distribuzione, gli utenti indirizzano la posta elettronica all'alias del gruppo. I gruppi di distribuzione sono simili ai gruppi di distribuzione personali creati dai singoli utenti in Outlook, con la differenza che gli elenchi dei membri sono disponibili per la società a livello globale. I gruppi di distribuzione vengono creati dagli amministratori nell'interfaccia di amministrazione di Exchange. I gruppi possono inoltre essere sincronizzati con Exchange Online da Active Directory locale. Vengono visualizzati nell'elenco indirizzi globale in Outlook. Exchange Online supporta le funzionalità dei gruppi di distribuzione avanzate, tra cui quelle descritte qui di seguito:
   
-- **Gruppi di distribuzione con restrizioni** Per impostazione predefinita, tutti possono inviare messaggi di posta elettronica a qualsiasi gruppo di distribuzione. Gli amministratori hanno la possibilità di modificare le autorizzazioni per consentire solo a utenti specifici di inviare messaggi di posta elettronica a un determinato gruppo, ad esempio per scoraggiare l'uso non appropriato di elenchi di distribuzione di grandi dimensioni. Possono anche impedire a origini esterne di inviare posta elettronica ai gruppi di distribuzione per evitare la posta indesiderata. Per i gruppi di distribuzione sincronizzati da Active Directory locale utilizzando lo strumento di sincronizzazione della directory, gli attributi della restrizione sono sincronizzati automaticamente con il cloud. Per ulteriori informazioni, vedere [Gestire i gruppi di distribuzione](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **Restricted distribution groups** By default, anyone can send emails to any distribution group. Administrators can change permissions to allow only specific individuals to send emails to a particular group—for example, to discourage inappropriate use of large distribution lists. Administrators can also block external sources from sending email to distribution groups to help prevent spam. For distribution groups that are synchronized from on-premises Active Directory using the Directory Synchronization tool, the attributes for restriction are synchronized to the cloud automatically. For more information, see [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **Gruppi di distribuzione dinamici** L'elenco dei membri di un gruppo di distribuzione dinamico (noto anche come elenco di distribuzione dinamico o elenco di distribuzione basato su query) viene calcolato ogni volta che un messaggio viene inviato a un gruppo. Il calcolo si basa sui filtri e sulle condizioni definiti dall'amministratore. Sono gestiti in Exchange Online tramite Windows PowerShell remoto. Per ulteriori informazioni sui gruppi di distribuzione dinamici, vedere [Gestire i gruppi di distribuzione dinamici](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
+- **Dynamic distribution groups** The membership list for a dynamic distribution group (also known as a dynamic distribution list, or query-based distribution list) is calculated every time a message is sent to the group. This calculation is based on filters and conditions that the administrator defines. They are managed in Exchange Online through remote Windows PowerShell. For more information about dynamic distribution groups, see [Manage Dynamic Distribution Groups](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
     
     > [!IMPORTANT]
-    > Lo strumento di sincronizzazione della directory di Office 365 ignora i gruppi di distribuzione dinamici in Active Directory locale e non li sincronizza con Exchange Online. Per le organizzazioni che utilizzano lo strumento di sincronizzazione della direcory, è consigliabile utilizzare una convenzione di denominazione in grado di prevenire i conflitti tra i gruppi di distribuzione regolari gestiti in locale e i gruppi di distribuzione dinamici gestiti in Exchange Online. 
+    > The Office 365 Directory Synchronization tool ignores dynamic distribution groups in on-premises Active Directory, and does not synchronize these to Exchange Online. Organizations that use the Directory Synchronization tool should use a naming convention that avoids conflicts between the regular distribution groups that are managed on-premises and the dynamic distribution groups that are managed in Exchange Online. 
   
-- **Gruppi di distribuzione moderati** Gli amministratori possono selezionare un moderatore per regolare il flusso dei messaggi a un gruppo di distribuzione. Con i gruppi di distribuzione moderati, tutti possono inviare messaggi di posta elettronica all'alias del gruppo di distribuzione, ma prima che il messaggio venga recapitato ai membri del gruppo deve essere esaminato e approvato da un moderatore. Per ulteriori informazioni sulla moderazione, vedere la sezione Approvazione del messaggio in [Gestire i gruppi di distribuzione](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **Moderated distribution groups** Administrators can select a moderator to regulate the flow of messages to a distribution group. With moderated distribution groups, anyone can email the distribution group alias, but before the message is delivered to the members of the group, a moderator must review and approve it. For more information about moderation, see the Message Approval section in [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **Gruppi di distribuzione self-service** Gli amministratori possono consentire agli utenti di gestire la propria appartenenza ai gruppi di distribuzione da un'interfaccia basata sul Web. Gli utenti possono essere autorizzati a creare, eliminare, partecipare o abbandonare i gruppi di distribuzione. Queste funzionalità sono abilitate per impostazione predefinita per tutti gli utenti di Exchange Online. Possono essere disabilitate dagli amministratori e sarà quindi prerogativa del reparto IT gestire i gruppi di distribuzione. Gli amministratori possono anche creare criteri di denominazione per standardizzare e gestire i nomi dei gruppi di distribuzione creati dagli utenti. Ad esempio, è possibile aggiungere un prefisso o suffisso specifico al nome del gruppo di distribuzione al momento della creazione o non consentire che vengano utilizzate determinate parole nel nome del gruppo. 
+- **Self-Service distribution groups** Administrators can give users the ability to manage their own distribution group membership from a web-based interface. Users can be given permissions to create, delete, join, or leave distribution groups. These capabilities are enabled by default for all Exchange Online users. Administrators can disable them so that only the IT department can manage distribution groups, if desired. They can also create naming policies to standardize and manage the names of distribution groups that their users create. For example, they can add a specific prefix or suffix to the distribution group name when it is created, or block specific words from being used in the group's name. 
     
     > [!IMPORTANT]
-    > Le funzionalità self-service non sono disponibili per i gruppi di distribuzione sincronizzati da Active Directory locale a Exchange Online. Per le organizzazioni che utilizzano lo strumento di sincronizzazione della directory, è consigliabile utilizzare una convenzione di denominazione in grado di prevenire i conflitti tra i gruppi di distribuzione gestiti in locale e i gruppi di distribuzione gestiti nel cloud. 
+    > Self-service capabilities are not available for distribution groups that are synchronized from on-premises Active Directory to Exchange Online. Organizations that use Directory Synchronization should use a naming convention that avoids conflicts between distribution groups that are managed on-premises and distribution groups that are managed in the cloud. 
   
 ### <a name="external-contacts-global"></a>Contatti esterni (globali)
 
@@ -129,7 +128,7 @@ Per ulteriori informazioni sui contatti esterni, vedere [Creazione di una relazi
 
 Le cassette postali per le risorse (ad esempio per sale runioni e attrezzature) rappresentano le sale riunioni oppure altre strutture o risorse di una società. Gli utenti possono prenotare sale o risorse aggiungendo l'alias di posta elettronica della risorsa alle convocazioni di riunione in Outlook o Outlook sul Web. Le sale riunioni e le risorse vengono visualizzate nell'elenco indirizzi globale in Outlook e Outlook sul Web.
   
-Gli amministratori creano cassette postali delle risorse utilizzando l'interfaccia di amministrazione di Exchange o Windows PowerShell Remote. Le cassette postali possono anche essere sincronizzate con Exchange Online da Active Directory locale.
+Administrators create resource mailboxes using the Exchange admin center or remote Windows PowerShell. The mailboxes can also be synchronized with Exchange Online from on-premises Active Directory.
   
 Per ulteriori informazioni sulle cassette postali per le risorse, vedere:
   
@@ -139,7 +138,7 @@ Per ulteriori informazioni sulle cassette postali per le risorse, vedere:
     
 ### <a name="conference-room-management"></a>Gestione delle sale riunioni
 
-In Exchange Online è disponibile l'Operatore Prenotazione risorse (RBA, Resource Booking Attendant), che automatizza la pianificazione delle sale riunioni e di altre risorse. Una cassetta postale per la risorsa configurata per Operatore Prenotazione risorse accetta, rifiuta o conferma le convocazioni di riunioni nell'organizzatore della riunione basato sulla disponibilità del calendario della risorsa. 
+Exchange Online includes the Resource Booking Attendant (RBA), which automates scheduling of conference rooms and other resources. A resource mailbox that is RBA-configured accepts, declines, or acknowledges meeting requests from a meeting organizer based on the resource's calendar availability. 
   
 Gli amministratori possono personalizzare le risposte alle sale riunioni automatizzate e configurare i criteri di prenotazione in Outlook sul Web. Nei criteri sono inclusi l'autore della programmazione, l'ora e il giorno della programmazione, le informazioni sulla riunione visibili nel calendario della risorsa e la percentuale di conflitti di programmazione consentiti. Gli amministratori possono disabilitare Operatore Prenotazione risorse e assegnare a utenti specifici la gestione manuale delle convocazioni di riunioni.
   
@@ -147,7 +146,7 @@ Gli amministratori devono definire e gestire le impostazioni RBA mediante Window
   
 ### <a name="out-of-office-replies"></a>Risposte Fuori sede
 
-I messaggi Fuori sede sono risposte automatiche ai messaggi in arrivo inviati da Exchange Online per conto dell'utente. Gli utenti possono pianificare i messaggi Fuori sede in anticipo, con date e ore di inizio e di fine specifiche, e configurare messaggi Fuori sede separati per destinatari interni ed esterni. Possono anche impostare messaggi Fuori sede da dispositivi mobili che supportano questa funzionalità di Exchange ActiveSync. Con l'attenzione particolare rivolta alla posta indesiderata e alle liste di distribuzione in Exchange Online, agli utenti non è consentito inviare messaggi di posta elettronica Fuori sede esterni a liste di distribuzione estese e potenziali spammer. Gli amministratori possono inoltre impedire agli utenti di inviare messaggi Fuori sede a utenti esterni tramite Windows PowerShell remoto.
+Out-of-office messages are automatic replies to incoming messages that Exchange Online sends on behalf of a user. Users can schedule out-of-office messages in advance, with specific start and end times, and can configure separate out-of-office messages for internal and external recipients. They can also set out-of-office messages from mobile devices that support this Exchange ActiveSync feature. Junk-email and mailing-list awareness within Exchange Online prevents users from sending external out-of-office messages to extended mailing lists and potential spammers. Administrators can also prevent users from sending out-of-office messages to external users using remote Windows PowerShell.
   
 ### <a name="calendar-sharing"></a>Condivisione del calendario
 
@@ -161,7 +160,7 @@ Per ulteriori informazioni sulla condivisione federata, vedere [Condivisione in 
   
 ### <a name="outlook-2010-room-finder"></a>Ricerca sala di Outlook 2010
 
-Exchange Online supporta la funzionalità Ricerca sala di Outlook 2010, che consente di catalogare le sale in appositi elenchi (ad esempio, un elenco denominato "Sale dell'edificio 5") per agevolare la ricerca di una sala nelle vicinanze durante la programmazione di una riunione. Per essere visualizzato nell'elenco delle sale, un gruppo di distribuzione deve essere appositamente contrassegnato utilizzando uno dei due metodi seguenti: 
+Exchange Online supports the Room Finder feature of Outlook 2010, which arranges rooms into lists (for example, a list called "Building 5 rooms") to make it easier to find a nearby room when scheduling a meeting. To appear in the room list, a distribution group must be specially marked using one of two methods: 
   
 - Per creare un nuovo elenco di sale, utilizzare Windows PowerShell remoto. 
     

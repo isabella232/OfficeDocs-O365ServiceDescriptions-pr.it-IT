@@ -1,8 +1,7 @@
 ---
 title: Criteri di messaggistica e conformità
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640164"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132790"
 ---
 # <a name="messaging-policy-and-compliance"></a>Criteri di messaggistica e conformità
 
@@ -56,7 +55,7 @@ Non disponibili per gli utenti EOP autonomi. Prevenzione della perdita di dati (
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
 
 > [!NOTE]
-> I criteri DLP vengono applicati solo alla posta che attraversa l'organizzazione. Alla posta interna non vengono applicati criteri DLP a meno che Exchange Server 2013 non venga eseguito localmente con DLP. Questo vale anche per i suggerimenti sui criteri DLP che informano gli utenti di possibili violazioni dei criteri prima che i dati sensibili vengano inviati per errore a destinatari non autorizzati.
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 Per ulteriori informazioni su DLP, vedere [prevenzione della perdita dei dati in Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
@@ -66,7 +65,7 @@ La crittografia dei messaggi di Office 365, una parte di Azure Information Prote
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Funzionalità di conformità e criteri di messaggistica tra opzioni EOP
 
-|**Funzionalità**|**EOP autonomo**|**Funzionalità di EOP <br/> in Exchange Online**|**Exchange Enterprise <br/> CAL con servizi**|
+|**Funzionalità**|**EOP autonomo**|**Funzionalità di EOP in <br/> Exchange Online**|**Exchange Enterprise <br/> CAL con servizi**|
 |:-----|:-----|:-----|:-----|
 |Regole del flusso di posta|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1, 3</sup>|
 |Registrazione di controllo|Sì<sup>2</sup>|Sì|Sì|

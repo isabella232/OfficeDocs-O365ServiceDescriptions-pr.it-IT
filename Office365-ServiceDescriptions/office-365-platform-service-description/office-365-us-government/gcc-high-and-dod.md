@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC High e DoD
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Informazioni sugli impegni e le differenze univoci degli ambienti Office 365 GCC High e DoD rispetto all'ambiente commerciale Office 365.
-ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
-ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
+ms.openlocfilehash: 388e7c3a37e88233982cf12a73e22622a61d1cb8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914782"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131980"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -35,11 +34,11 @@ GCC High e DoD rispettano i requisiti di conformità previsti per le certificazi
     
 - I controlli di sicurezza e i miglioramenti del controllo per la United States Department of Defense Cloud Computing Security Requirements Guide (SRG) in merito alle informazioni con livello di impatto massimo pari a 5 (L5).
     
-Gli abbonati a Office 365 che fanno capo al Dipartimento della Difesa potranno usare i servizi offerti dall'ambiente esclusivo del Dipartimento che rientra nel DOD SRG L5. Gli abbonati che non fanno capo al Dipartimento della Difesa potranno ricevere i servizi dall'ambiente del Dipartimento della Difesa valutati L5 ma che utilizzano la segmentazione L4.
+Department of Defense subscribers to Office 365 will receive services provided from the DOD exclusive environment that meets DOD SRG L5. Non-Department of Defense subscribers will receive services from the US Government Defense environment which is assessed at L5, but uses L4 segmentation.
   
 ## <a name="background-screening"></a>Screening del background
 
-Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per GCC High e DoD. Qualsiasi membro del personale che richiede l'elevazione dei privilegi temporanea per ottenere l'accesso ai contenuti dei clienti prima deve aver superato i controlli di background riportati di seguito.
+Office 365 staff do not have standing access to GCC High and DoD production. Any staff who request temporary permission elevation which would grant access to customer content must first have passed the following background checks.
   
 |||
 |:-----|:-----|
@@ -73,7 +72,7 @@ Gli utenti dispongono di più opzioni per la condivisione di file e cartelle in 
 Inoltre, gli indirizzi di posta elettronica non basati su GCC alti associati ai profili utente non sono supportati e non consentiranno di inviare messaggi di posta elettronica di avviso. Ad esempio, all'utente locale A viene assegnato un indirizzo di posta elettronica di Gmail e quindi sincronizzato con un'organizzazione di Azure GCC High. L'utente A si sposta in una raccolta e crea un avviso per eventuali modifiche. L'avviso non verrà inviato all'indirizzo Gmail.
   
 
-### <a name="skype-for-business-online"></a>Skype for Business online
+### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
 

@@ -1,8 +1,7 @@
 ---
 title: Gestione destinatari, dominio e società
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) offre diversi mezzi per la gestione delle informazioni relative a destinatari, dominio e società. In qualità di amministratore, è possibile eseguire alcune attività di gestione all'interno dell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'interfaccia di amministrazione di Microsoft 365.
-ms.openlocfilehash: dcd039eab77c1b9df638df5ac3a3e5f6373e852d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640264"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132770"
 ---
 # <a name="recipient-domain-and-company-management"></a>Gestione destinatari, dominio e società
 
@@ -31,7 +30,7 @@ I destinatari di posta elettronica vengono classificati come utenti o gruppi di 
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-In EOP, è possibile configurare solo ruoli amministrativi. Gli utenti possono essere aggiunti e rimossi da gruppi di regole predefinite direttamente in EAC. Non è disponibile alcuna personalizzazione RBAC. Per ulteriori informazioni, vedere [Gestione autorizzazioni gruppo di ruoli di amministratore in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
+In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
 ## <a name="domain-management"></a>Gestione del dominio
 
@@ -39,13 +38,13 @@ I domini gestiti sono quelli protetti da EOP. I domini gestiti possono essere vi
   
 ## <a name="match-subdomains"></a>Corrispondenza sottodomini
 
-In EOP, puoi abilitare il flusso di posta nei sottodomini di un dominio gestito. Per ulteriori informazioni, vedi [Abilitare il flusso di posta nei sottodomini in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
+In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>DBEB (Directory Based Edge Blocking)
 
 La funzionalità Directory Based Edge Blocking consente di rifiutare messaggi per destinatari non validi nel perimetro della rete di servizio. DBEB consente agli amministratori di aggiungere destinatari abilitati alla posta elettronica a Microsoft e di bloccare tutti i messaggi inviati a indirizzi di posta elettronica che non sono presenti in Microsoft. Se un messaggio viene inviato a un indirizzo di posta elettronica valido presente in Microsoft, il messaggio prosegue attraverso gli altri livelli del filtro del servizio (antimalware, protezione dalla posta indesiderata, regole di trasporto). Se l'indirizzo non è presente, il servizio blocca il messaggio prima che venga applicato il filtro e un rapporto di mancato recapito viene inviato al mittente per informarlo che il messaggio non è stato recapitato. 
   
-L'attivazione DBEB richiede alcuni utenti e la configurazione del dominio. Per ulteriori informazioni, vedere [Utilizzare Directory Based Edge Blocking per rifiutare i messaggi inviati ai destinatari non validi](https://go.microsoft.com/fwlink/p/?LinkId=390676).
+Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

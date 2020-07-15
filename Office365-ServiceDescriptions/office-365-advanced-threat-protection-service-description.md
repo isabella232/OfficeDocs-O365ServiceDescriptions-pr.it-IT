@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Office 365 Advanced Threat Protection
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,20 +11,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213948"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132370"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
-Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale. ATP dispone di funzionalità di creazione report e traccia URL avanzate che consentono agli amministratori di analizzare i tipi di attacchi che si verificano nell'organizzazione.
+Microsoft Office 365 Advanced Threat Protection (ATP) is a cloud-based email filtering service that helps protect your organization against unknown malware and viruses by providing robust zero-day protection, and includes features to safeguard your organization from harmful links in real time. ATP has rich reporting and URL trace capabilities that give administrators insight into the kind of attacks happening in your organization.
 
 Di seguito sono riportati i modi principali in cui è possibile utilizzare ATP per la protezione dei messaggi:
 
-- In uno scenario di solo filtro ATP di Office 365, ATP fornisce la protezione della posta elettronica basata sul cloud per l'ambiente Exchange Server locale o per qualsiasi altra soluzione di posta elettronica SMTP locale.
+- In una situazione esclusivamente di filtro ATP di Office 365, ATP fornisce la protezione della posta elettronica basata sul cloud per l'ambiente di Exchange Server locale o per qualsiasi altra soluzione di posta elettronica SMTP locale.
 
 - Office 365 ATP può essere abilitato per proteggere le cassette postali ospitate nel cloud di Exchange Online. Per ulteriori informazioni su Exchange Online, vedere la [Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
 
@@ -77,7 +76,7 @@ ATP può essere utilizzato con qualsiasi agente di trasferimento della posta SMT
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Disponibilità delle funzionalità tra i piani di Advanced Threat Protection (ATP)
 
-Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange Online, in genere si intende la famiglia di servizi di Office 365 Enterprise.
+Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |**Funzionalità**|**ATP piano 1**<br>(in precedenza ATP autonomo)|**ATP piano 2**<br>(in precedenza Threat Intelligence <br>standalone| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|
@@ -88,9 +87,9 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |Collegamenti sicuri in Teams|Sì|Sì|Sì|
 |[ATP per SharePoint, OneDrive e Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sì|Sì|Sì|
 |[Criteri anti-phishing](#anti-phishing-policies)|Sì|Sì|Sì|
-|[Rapporti in tempo reale](#real-time-reports)|Sì|Sì|Sì|
+|[Report in tempo reale](#real-time-reports)|Sì|Sì|Sì|
 |*Automazione, analisi, correzione e formazione*|
-|[Indicatori delle minacce](#threat-trackers)|No|Sì|Sì|
+|[Tracker delle minacce](#threat-trackers)|No|Sì|Sì|
 |Indagine sulle minacce (Advanced Threat Investigation)|[Rilevamenti in tempo reale](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Risposta agli incidenti automatici](#automated-incident-response)|No|Sì|Sì|
 |[Simulatore di attacchi](#attack-simulator)|No|Sì|Sì|
@@ -98,7 +97,7 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 > [!TIP]
 > Si desidera un elenco scaricabile delle differenze tra Office 365 ATP piano 1 e piano 2? [Ottenere il file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>Funzionalità avanzate di protezione dalle minacce (ATP)
+## <a name="advanced-threat-protection-atp-capabilities"></a>Funzionalità di Advanced Threat Protection (ATP)
 
 ### <a name="safe-attachments"></a>Allegati sicuri
 
@@ -109,7 +108,7 @@ Gli [allegati sicuri di ATP](https://docs.microsoft.com/microsoft-365/security/o
 
 ### <a name="safe-links"></a>Collegamenti sicuri
 
-La funzionalità [ATP Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane ogni volta che seleziona il collegamento, in quanto i collegamenti dannosi vengono bloccati dinamicamente mentre è possibile accedere a collegamenti validi.
+La funzionalità [ATP Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane attiva ogni volta che l'utente seleziona il collegamento, perché i collegamenti dannosi vengono bloccati in modo dinamico mentre i collegamenti corretti continuano ad essere accessibili.
 
 I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
@@ -134,15 +133,15 @@ I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 
 ### <a name="anti-phishing-policies"></a>Criteri anti-phishing
 
-Il [anti-phishing ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) verifica i messaggi in arrivo per gli indicatori che un messaggio potrebbe essere un tentativo di phishing. Quando gli utenti sono coperti da criteri ATP (allegati sicuri, collegamenti sicuri o anti-phishing), i messaggi in arrivo vengono valutati da più modelli di apprendimento automatico che analizzano i messaggi e viene eseguita l'azione appropriata, in base ai criteri configurati.
+Il [anti-phishing ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) verifica i messaggi in arrivo per gli indicatori che un messaggio potrebbe essere un tentativo di phishing. Se gli utenti sono interessati dai criteri ATP (allegati sicuri, collegamenti sicuri o anti-phishing), i messaggi in arrivo vengono valutati da più modelli di apprendimento automatico che analizzano i messaggi e controllano che vengano intraprese le azioni appropriate, in base ai criteri configurati.
 
-### <a name="real-time-reports"></a>Rapporti in tempo reale
+### <a name="real-time-reports"></a>Report in tempo reale
 
 Le funzionalità di monitoraggio disponibili nel centro sicurezza & conformità includono [report in tempo reale e informazioni dettagliate](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) che consentono agli amministratori di sicurezza e conformità di concentrarsi su problemi di elevata priorità, ad esempio gli attacchi di sicurezza o l'aumento di attività sospette. Oltre a evidenziare aree problematiche, Smart report e Insight includono suggerimenti e collegamenti per visualizzare ed esplorare i dati e per eseguire azioni rapide.
 
 ### <a name="explorer"></a>Explorer
 
-Explorer (noto anche come Threat Explorer) è un report in tempo reale che consente agli utenti autorizzati di identificare e analizzare le minacce recenti. Per impostazione predefinita, questo report Visualizza i dati negli ultimi 7 giorni. Tuttavia, è possibile modificare le visualizzazioni per visualizzare i dati negli ultimi 30 giorni.
+Explorer (anche noto come Esplora minacce) è un report in tempo reale che consente agli utenti autorizzati di identificare e analizzare le minacce recenti. Per impostazione predefinita, il report mostra i dati degli ultimi 7 giorni. Tuttavia, è possibile modificare l’impostazione e visualizzare i dati degli ultimi 30 giorni.
 
 Explorer contiene visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii, phishing e tutti i messaggi di posta elettronica. Per visualizzare il confronto tra Explorer e i rilevamenti in tempo reale, [scaricare questo file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
@@ -150,7 +149,7 @@ Per ulteriori informazioni su Explorer (in Office 365 Advanced Threat Protection
 
 ### <a name="real-time-detections"></a>Rilevamenti in tempo reale
 
-Il rilevamento in tempo reale è un report in tempo reale che consente agli utenti autorizzati di identificare e analizzare le minacce recenti. Analogamente a Esplora risorse, per impostazione predefinita, questo report Visualizza i dati negli ultimi 7 giorni.
+I rilevamenti in tempo reale consentono agli utenti autorizzati di identificare e analizzare le minacce recenti. Per impostazione predefinita e in modo analogo a Explorer, il report mostra i dati degli ultimi 7 giorni.
 
 I rilevamenti in tempo reale contengono visualizzazioni, ad esempio malware (per la posta elettronica e il contenuto), invii e phishing. Per vedere come i rilevamenti in tempo reale si confrontano con Explorer, [scaricare questo file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 

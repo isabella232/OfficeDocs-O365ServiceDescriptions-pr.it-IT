@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio Microsoft Dynamics 365 (online)
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partire dall’aggiornamento di dicembre 2016 per Dynamics 365 (online e locale), la funzionalità Dynamics CRM è ora inclusa come parte di 365 Dynamics, una famiglia di applicazioni di business intelligence. Dynamics 365 unisce le funzionalità di Customer Relationship Management (CRM) e Enterprise Resource Planning (ERP) offrendo nuove applicazioni che consentono di gestire specifiche funzioni aziendali.
-ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213918"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132450"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Descrizione del servizio Microsoft Dynamics 365 (online)
 

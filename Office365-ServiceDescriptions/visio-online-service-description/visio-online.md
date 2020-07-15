@@ -1,7 +1,7 @@
 ---
 title: Visio per il Web
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio per il Web estende l'esperienza di Microsoft Visio al browser, in cui è possibile creare e modificare i diagrammi salvati nel cloud. Microsoft 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio.
-ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6c0b05a7e2365ebf517048aeb008ebf098053a52
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640094"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132120"
 ---
 # <a name="visio-for-the-web"></a>Visio per il Web
 
@@ -64,7 +64,7 @@ In Visio per il Web, è possibile cercare ogni occorrenza di una parola, un nume
 
 In Visio per il Web, è possibile accedere direttamente ai collegamenti ipertestuali selezionando la forma.
   
-## <a name="navigation"></a>Navigazione
+## <a name="navigation"></a>Spostamento
 
 In Visio per il Web, è possibile accedere ad altre pagine selezionando le schede nell'angolo in basso a sinistra.
   
@@ -122,5 +122,5 @@ Poiché il diagramma di Visio viene salvato online, è possibile inviarvi un col
   
 ## <a name="zoom"></a>Zoom
 
-In Visio per il Web è incluso un dispositivo di scorrimento che consente di ingrandire e rimpicciolire. Inoltre, è possibile utilizzare la funzionalità &amp; di zoom pan per ingrandire un'area del diagramma.
+In Visio per il Web è incluso un dispositivo di scorrimento che consente di ingrandire e rimpicciolire. Inoltre, è possibile utilizzare la &amp; funzionalità di zoom pan per ingrandire un'area del diagramma.
   

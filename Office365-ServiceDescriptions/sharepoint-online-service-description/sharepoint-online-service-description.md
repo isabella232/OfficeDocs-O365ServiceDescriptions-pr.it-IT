@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio SharePoint
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali funzionalità di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214038"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131030"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 

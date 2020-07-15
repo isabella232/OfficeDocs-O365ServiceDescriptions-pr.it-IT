@@ -1,7 +1,7 @@
 ---
-title: Descrizione del servizio di analisi
-ms.author: sharik
-author: skjerland
+title: Descrizione del servizio MyAnalytics
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Caratteristiche, distribuzioni, privacy e prerequisiti di analisi dei dati
-ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262859"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132430"
 ---
-# <a name="myanalytics-service-description"></a>Descrizione del servizio di analisi
+# <a name="myanalytics-service-description"></a>Descrizione del servizio MyAnalytics
 
 In analisi viene riepilogato il modo in cui si spendono i tempi di lavoro e quindi viene suggerito di lavorare in modo più intelligente. Analytics fornisce tali informazioni attraverso [gli elementi](#elements) che è possibile accedere in Microsoft Outlook o tramite il Web browser.
 
@@ -37,13 +37,13 @@ Analytics è costituito dai seguenti elementi:
 
 Attenendosi alle linee guida seguenti, analisi protegge la privacy dei dipendenti e supporta la conformità con le normative locali:
 
-* L'analisi non è progettata per consentire la valutazione dei dipendenti, il monitoraggio, il processo decisionale automatizzato, la profilatura o il monitoraggio.
+* MyAnalytics non è stato progettato per abilitare la valutazione, la verifica, il processo decisionale automatizzato, la raccolta dei dati o il monitoraggio dei dipendenti.
 * L'analisi non consente ai dipendenti di accedere a nuove informazioni personali su altri colleghi.
-* I dati di analisi vengono elaborati e archiviati nella cassetta postale di Exchange Online del dipendente.
-* Analytics supporta la conformità alla normativa generale sulla protezione dei dati (GDPR).
-* L'analisi può essere configurata in modo da consentire agli utenti di scegliere intenzionalmente.
+* I dati di MyAnalytics sono elaborati e archiviati nella cassetta postale di Exchange Online dei dipendenti.
+* MyAnalytics supporta la conformità con il General Data Protection Regulation (GDPR).
+* È possibile configurare MyAnalytics in modo che gli utenti acconsentano esplicitamente.
 * Analisi e approfondimento sono applicazioni separate senza interdipendenze.
-* Analytics ricorda alla gente che i suoi dati sono privati e sicuri.
+* MyAnalytics ricorda alle persone che i loro dati sono privati e sicuri.
 
 Per ulteriori informazioni, vedere la [Guida alla privacy di analisi](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)dei dati personali.
 

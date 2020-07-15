@@ -1,8 +1,7 @@
 ---
 title: Gestione portfolio
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: In Project online sono disponibili le seguenti funzionalità di gestione del portfolio.
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688193"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131230"
 ---
-# <a name="portfolio-management"></a>Gestione portfolio
+# <a name="portfolio-management"></a>Gestione del portfolio
 
 In Project online sono disponibili le seguenti funzionalità di gestione del portfolio.
   
@@ -37,19 +36,19 @@ Le risorse sono le persone, i materiali o i costi necessari per ottenere il prog
   
 ## <a name="financial-management"></a>Gestione finanziaria
 
-La gestione finanziaria consente di migliorare la stima del rapporto costi/benefici. Un efficace controllo dei costi garantisce che ogni progetto sia realizzato senza sforare il budget e che il portfolio produca i risultati previsti. Per ulteriori informazioni, vedere [Guida per le soluzioni di gestione del portfolio di progetti (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Partecipazione al flusso di lavoro
 
-I flussi di lavoro forniscono un modo strutturato di sviluppare i progetti in fasi. Un flusso di lavoro include le definizioni delle fasi del ciclo di vita con cui il progetto avanza, ad esempio la creazione della proposta e l'approvazione iniziale. Il flusso di lavoro imposta le informazioni che sono necessarie o bloccate in ogni fase.
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>Selezione e dati analitici del portfolio
 
-È importante riuscire a identificare, selezionare e realizzare i portfolio di progetti che meglio rispondono alle strategie aziendali e ai requisiti di massimizzazione del ritorno sull'investimento (ROI). Per ulteriori informazioni, vedere [Guida per le soluzioni della gestione del portfolio di progetti (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Gestione programma
 
-Ciascun progetto nell'ambito di gestione di un programma si propone obiettivi specifici, i quali, in combinazione con quelli degli altri progetti, determinano il successo dell'intero programma. Per ulteriori informazioni, vedere [Guida per le soluzioni della gestione del portfolio di progetti (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>Roadmap
 

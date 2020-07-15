@@ -1,8 +1,7 @@
 ---
 title: Funzionalità di creazione dei report e strumenti di risoluzione problemi
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre una vasta gamma di funzionalità di Reporting sia all'interno che all'esterno dell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: b0545d1e0b18714fa138fa085542be90711e8da2
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f2cc51c9923be8d399fa2837e5b5fabe3117d5ba
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639954"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132600"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di creazione dei report e strumenti di risoluzione problemi
 
@@ -52,23 +51,23 @@ Nell'interfaccia di amministrazione di Exchange sono disponibili le seguenti fun
 La funzionalità di traccia dei messaggi consente, come amministratore, di seguire i messaggi di posta elettronica che passano attraverso il servizio Exchange Online. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Ciò consente all'amministratore di rispondere in modo preciso alle domande dei propri utenti e di risolvere i problemi del flusso di posta elettronica, riducendo la necessità di rivolgersi al supporto tecnico per assistenza.
   
 > [!IMPORTANT]
-> Per la risoluzione di problemi generici, utilizzare gli strumenti di reporting per ottenere i dati necessari. Per problemi più specifici, per i quali è necessario avere i dettagli relativi a un determinato messaggio, utilizzare lo strumento di traccia dei messaggi. 
+> For troubleshooting general issues and trends, use the reporting tools to obtain such data. For single point specifics where details are needed about a message, use the message trace tool. 
   
 Per ulteriori informazioni sulla funzionalità di tracciamento dei messaggi, vedere [Tracciamento di un messaggio di posta elettronica](https://go.microsoft.com/fwlink/p/?LinkId=271777).
   
 ### <a name="auditing-reports"></a>Rapporti di controllo
 
-Utilizzare la registrazione di controllo per risolvere i problemi di configurazione tenendo traccia delle modifiche specifiche apportate dagli amministratori e contribuire al rispetto dei requisiti normativi, di conformità e legali. In Exchange Online sono disponibili due tipi di registrazione di controllo:
+You can use audit logging to troubleshoot configuration issues by tracking specific changes made by administrators and to help you meet regulatory, compliance, and litigation requirements. Exchange Online provides two types of audit logging:
   
-- Registrazione di controllo dell'amministratore i registra qualsiasi azione eseguita da un amministratore. In questo modo è possibile risolvere problemi di configurazione o individuare la causa di problemi relativi alla sicurezza o alla conformità. 
+- Administrator audit logging records any action performed by an administrator. This can help you troubleshoot configuration issues or identify the cause of security-related or compliance-related problems. 
     
-- Nella registrazione di controllo della cassetta postale viene registrato ogni accesso a una cassetta postale da parte di un utente diverso dal proprietario della cassetta stessa. In questo modo è possibile stabilire chi ha effettuato l'accesso a una cassetta postale e quali operazioni ha eseguito. 
+- Mailbox audit logging records whenever a mailbox is accessed by someone other than the person who owns the mailbox. This can help you determine who has accessed a mailbox and what they've done. 
     
 Per informazioni sulla registrazione di controllo, vedere [Rapporti di controllo](https://go.microsoft.com/fwlink/p/?LinkId=271779).
   
 ### <a name="unified-messaging-reports"></a>Rapporti di messaggistica unificata
 
-È possibile utilizzare questi rapporti per monitorare e risolvere i problemi della messaggistica unificata nell'organizzazione Exchange Online. Per ulteriori informazioni, vedere [Esecuzione di report per le chiamate alla casella vocale](https://go.microsoft.com/fwlink/p/?LinkId=287042).
+You can use these reports to monitor and troubleshoot Unified Messaging (UM) in your Exchange Online organization. For more information, see [Run Reports for Voice Mail Calls](https://go.microsoft.com/fwlink/p/?LinkId=287042).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

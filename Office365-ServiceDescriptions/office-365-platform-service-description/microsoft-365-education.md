@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Education
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045058"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132410"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi. 
   
-Microsoft 365 fornisce un sistema completo, tra cui Office 365, Windows 10 e Enterprise Mobility and Security. Nella tabella seguente sono elencate le funzionalità di Office 365 per l'istruzione a1, a3 e a5 insieme alle caratteristiche di Microsoft 365 per Education a3 e a5. Per confrontare le funzionalità tra i piani business e Enterprise, vedere [confrontare i piani Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=799177)o, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente in [Microsoft 365 e le descrizioni dei servizi di Office 365](../office-365-service-descriptions-technet-library.md). Per cercare articoli e informazioni sul supporto tecnico, vedere [Office &amp; Help Training](https://support.office.com/).
+Microsoft 365 fornisce un sistema completo, tra cui Office 365, Windows 10 e Enterprise Mobility and Security. Nella tabella seguente sono elencate le funzionalità di Office 365 per l'istruzione a1, a3 e a5 insieme alle caratteristiche di Microsoft 365 per Education a3 e a5. Per confrontare le funzionalità tra i piani business e Enterprise, vedere [confrontare i piani Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=799177)o, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente in [Microsoft 365 e le descrizioni dei servizi di Office 365](../office-365-service-descriptions-technet-library.md). Per cercare articoli e informazioni sul supporto tecnico, vedere [Office Help &amp; Training](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Servizi e caratteristiche
 
@@ -96,7 +96,7 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |System Center Endpoint Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Include Exchange Online Piano 1 e caratteristiche aggiuntive.<br/>
+> <sup>1</sup> Includes Exchange Online Plan 1 plus supplemental features. <br/>
 > <sup>2</sup> Include Exchange Online Piano 2. <br/>
 > <sup>3</sup> Include SharePoint Online Piano 1 e caratteristiche aggiuntive. <br/>
 > <sup>4</sup> Include SharePoint Online Piano 2. <br/>

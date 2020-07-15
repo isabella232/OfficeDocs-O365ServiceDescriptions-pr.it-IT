@@ -1,8 +1,7 @@
 ---
 title: Office 365 Germany
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,24 +9,24 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con la residenza dei dati in Germania e le misure di controllo e di accesso ai dati rigorose tramite un modello di fiducia dei dati univoco disciplinato dal diritto tedesco
-ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 3e2cb2a1f9eeebd6a3fb106f8cac9a32a4cfb5e9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429121"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132391"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con la residenza dei dati in Germania e le misure di controllo e di accesso ai dati rigorose tramite un modello di fiducia dei dati univoco disciplinato dal diritto tedesco
 
-Il trustee dei dati, T-Systems International, una società tedesca indipendente e filiale di Deutsche Telekom, controlla l'accesso fisico e logico ai dati dei clienti. Non è possibile accedere ai dati dei clienti senza l'approvazione o la supervisione del trustee, che è disciplinato dal diritto tedesco.
+The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
 
 In base a questa evoluzione nelle esigenze dei clienti, la strategia cloud per la Germania si concentrerà sulla distribuzione delle nuove aree cloud in Germania che sono coerenti con la nostra offerta cloud globale. Con questo obiettivo, non si accetterà più nuovi clienti o si distribuiranno nuovi servizi dalla Microsoft Cloud Germany attualmente disponibile. I clienti esistenti possono continuare a utilizzare i servizi cloud correnti disponibili oggi, che verranno gestiti con gli aggiornamenti della sicurezza necessari. Informazioni [su Office 365 Germany](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="service-availability-for-each-plan"></a>Disponibilità del servizio per ogni piano
 
-Ogni piano di Office 365 Germany include una serie di servizi individuali, come Exchange Online e SharePoint Online. Nella seguente tabella sono indicati i servizi disponibili in ogni piano di Office 365.
+Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -481,7 +480,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 |[Gestione del dominio](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|Sì<sup>3</sup>|Sì|Sì<sup>3</sup>|
 |[Corrispondenza sottodomini](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|Sì|Sì|No|
 |[DBEB (Directory Based Edge Blocking)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Sì|Sì|Sì|
-|[Regole dei flussi di posta](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Sì<sup>3, 4, 14</sup>|Sì<sup>3, 4, 14</sup>|Sì|
+|[Regole del flusso di posta](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Sì<sup>3, 4, 14</sup>|Sì<sup>3, 4, 14</sup>|Sì|
 |[Registrazione di controllo](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|Sì<sup>5</sup>|Sì|Sì|
 |[Ricerca dei log di controllo](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)
 <sup>16</sup>|No|Sì|Sì|
@@ -539,7 +538,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Advance
 
 ## <a name="project-online-features"></a>Funzionalità di Project Online
 
-Nella tabella seguente sono elencate le funzionalità di Project Online disponibili nei piani di Office 365 Germany. Per ulteriori informazioni su Project Online, vedere [Introduzione a Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -550,7 +549,7 @@ Nella tabella seguente sono elencate le funzionalità di Project Online disponib
 
 ## <a name="sharepoint-online-features"></a>Funzionalità di SharePoint Online
 
-Ogni piano di Office 365 include il servizio di SharePoint Online, ma non tutti supportano tutte le funzionalità di SharePoint. Nella tabella seguente sono elencate le funzionalità disponibili nei piani di Office 365 Germany.
+All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
 
 ****
 
@@ -850,7 +849,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Office Communications Server 2007 R2 e Lync Server 2010 (messaggistica istantanea, presenza, audio, video, conferenza)|Sì|No|Sì|Sì|Sì|Sì|No|
 |XMPP (usato, ad esempio da Google Talk) e federazione Sametime|No|No|No|No|No|No|No|
 |Federazione Skype|N.<sup>6</sup>|No|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|N.<sup>6</sup>|No|
-|Federazione AOL e Yahoo!|No|No|No|No|No|No|No|
+|AOL and Yahoo! federation|No|No|No|No|No|No|No|
 |**[Riunioni in Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Servizi di audioconferenza ad hoc e pianificazione|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Video conferenza ad hoc e pianificazione|Sì|Sì|Sì|Sì|Sì|Sì|No|

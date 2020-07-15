@@ -1,8 +1,7 @@
 ---
 title: Gestione attività
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: In Project online sono disponibili le seguenti funzionalità di gestione delle attività.
-ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640274"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131070"
 ---
 # <a name="task-management"></a>Gestione attività
 
@@ -27,7 +26,7 @@ Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [
   
 ## <a name="active-and-inactive-tasks"></a>Attività attive e non attive
 
-Quando un'attività viene disattivata, resta nel piano del progetto, ma non influenza: la disponibilità delle risorse, la pianificazione del progetto e la pianificazione di altre attività. Per ulteriori informazioni, vedere [Disattivazione di un'attività](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>Completamento automatico
 
@@ -43,7 +42,7 @@ Ora le attività del progetto possono utilizzare date di calendario fino al 2149
   
 ## <a name="cross-project-critical-path"></a>Percorso critico tra progetti
 
-Un percorso critico è una serie di attività che devono essere completate in base ad una pianificazione per terminare un progetto pianificato. Consente di creare, modificare ed eliminare una relazione di dipendenza con un'attività in un altro progetto. 
+A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
   
 ## <a name="task-inspector"></a>Controllo attività
 
@@ -51,7 +50,7 @@ Consente di visualizzare i fattori che possono influenzare la pianificazione di 
   
 ## <a name="task-path-analysis"></a>Analisi percorso attività
 
-Consente di vedere in che modo un'attività si connette ad altre attività evidenziandone il percorso all'interno del progetto. Per ulteriori informazioni, vedere [Evidenziare la modalità di collegamento tra attività](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>Attività di riepilogo dall'alto verso il basso
 

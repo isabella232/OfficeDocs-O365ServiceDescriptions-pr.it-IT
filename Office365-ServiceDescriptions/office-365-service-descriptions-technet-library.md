@@ -1,8 +1,7 @@
 ---
 title: Descrizione dei servizi di Office 365 e Microsoft 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 e Office 365 sono servizi basati su cloud che consentono di soddisfare le esigenze dell'organizzazione per una robusta sicurezza, affidabilità e produttività degli utenti.
-ms.openlocfilehash: 8f52de49564c07a41153b0935c27aef1277c4bb8
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044798"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131460"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrizione dei servizi di Office 365 e Microsoft 365 
 

@@ -1,8 +1,7 @@
 ---
 title: Funzionalità della famiglia di prodotti Microsoft 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: 058acf94ae50764616a02febfac09f2a86cf66d0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820604"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131940"
 ---
 # <a name="microsoft-365-suite-features"></a>Funzionalità della famiglia di prodotti Microsoft 365
 
@@ -91,7 +90,7 @@ Office approfondire consente agli utenti di cercare e scoprire contenuti in Micr
 
 I gruppi in Microsoft 365 collegano gli utenti con i colleghi, le informazioni e le applicazioni di cui hanno bisogno per fare più insieme. I gruppi sono aperti per impostazione predefinita per migliorare la possibilità di individuazione e condivisione, ma gli utenti possono anche creare gruppi privati per contenuti sensibili. Per ulteriori informazioni sui gruppi, vedere [gruppi in Microsoft 365](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Per informazioni sui limiti del gruppo, vedere la sezione "come gestire i gruppi" in [Learn about Microsoft 365 groups](https://go.microsoft.com/fwlink/?linkid=846714).
   
-## <a name="office-365-video"></a>Video di Office 365
+## <a name="office-365-video"></a>Office 365 Video
 
 Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   

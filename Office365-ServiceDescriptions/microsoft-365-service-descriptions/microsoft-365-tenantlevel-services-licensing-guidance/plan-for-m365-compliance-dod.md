@@ -1,24 +1,23 @@
 ---
 title: Pianificare la conformità Microsoft 365 - Distribuzion DoD
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o di altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
+ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262839"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132490"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare la conformità Microsoft 365 - Distribuzion DoD
 
-Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
+Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o di altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
 
 > [!NOTE]
 > Se l'organizzazione ha già soddisfatto i requisiti di eleggibilità per il governo Microsoft 365 e viene applicato e accettato nel programma, è possibile ignorare i passaggi 1 e 2 e passare direttamente al passaggio 3.
@@ -52,7 +51,7 @@ La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.co
 
 Dopo aver deciso che questo servizio è appropriato per la propria organizzazione, avviare il processo di [applicazione per questo servizio](https://products.office.com/government/eligibility-validation).
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Passaggio 3: Informazioni sulle impostazioni di protezione predefinite di Microsoft 365 Government-DoD
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Passaggio 3. Informazioni sulle impostazioni di protezione predefinite di Microsoft 365 Government-DoD
 
 È consigliabile richiedere tempo per esaminare attentamente le impostazioni di protezione e di amministratore prima di modificarle e considerare l'impatto sulla conformità prima di apportare modifiche alle impostazioni di protezione predefinite.
 
@@ -73,7 +72,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                        |Piano di archiviazione                                       | In ingegneria backlog |
 |                                        |Criteri consigliati                            | In ingegneria backlog |
 |                                        |Filtri di importazione intelligenti                            | In ingegneria backlog |  
-|                                        |Criteri di conservazione basati su eventi                           | In ingegneria backlog |
+|                                        |Conservazione basata su eventi                           | In ingegneria backlog |
 |                                        |Revisione della disposizione                              | In ingegneria backlog |
 |                                        |Barriere informative                            | Disponibili              |
 |                                        |Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica  | Disponibili              |
@@ -85,7 +84,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |**Gestione dei rischi Insider**             |Crittografia avanzata dei messaggi                     | Disponibili              |
 |                                        |Gestione dei rischi Insider                         | In ingegneria backlog |
 |                                        |Conformità delle comunicazioni                        | In ingegneria backlog |
-|                                        |Archivio protetto del cliente                                | Disponibili              |
+|                                        |Customer Lockbox                                | Disponibili              |
 |                                        |Customer Key                                    | Disponibili              |
 |                                        |Gestione accessi con privilegi                    | In ingegneria backlog |
 |**Scoprire & rispondere**                  |Prenotazione sul posto                            | Disponibili              |
@@ -101,7 +100,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                        |Codifica predittiva                               | In ingegneria backlog |
 |                                        |Esportazione elaborata con il file di carico                 | In ingegneria backlog |
 |                                        |Aggiunta di tag                                         | In ingegneria backlog |
-|                                        |Spettatori                                         | In ingegneria backlog |
+|                                        |Visualizzatori                                         | In ingegneria backlog |
 |                                        |Redazioni                                      | In ingegneria backlog |
 |                                        |Filtro                                       | In ingegneria backlog |
 |                                        |Mapping del custode al carico di lavoro                   | In ingegneria backlog |

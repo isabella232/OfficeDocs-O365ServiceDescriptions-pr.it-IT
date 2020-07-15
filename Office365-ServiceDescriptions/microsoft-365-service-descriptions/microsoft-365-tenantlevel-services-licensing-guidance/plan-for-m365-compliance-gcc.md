@@ -1,20 +1,19 @@
 ---
 title: Pianificare la conformità Microsoft 365 - GCC
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 650a4131e7d028222d46d48a1d7304363acd6167
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262819"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132460"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità a Microsoft 365 – GCC
 
@@ -42,7 +41,7 @@ Per ulteriori informazioni sull'offerta governo-GCC di Microsoft 365 per i clien
 La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descrive i vantaggi della piattaforma, che sono incentrati sui requisiti di conformità conformi all'interno degli Stati Uniti.
 
 > [!TIP]
-> Potrebbe essere necessario trasferire le tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: **rilevanti per l'organizzazione y/n** e **soddisfano le esigenze dell'organizzazione y/n**. È quindi possibile esaminare questo elenco con i colleghi per confermare che questo servizio soddisfi le esigenze dell'organizzazione.
+> Potrebbe essere necessario trasferire le tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: **rilevanti per l'organizzazione y/n**   e **soddisfano le esigenze dell'organizzazione y/n**. È quindi possibile esaminare questo elenco con i colleghi per confermare che questo servizio soddisfi le esigenze dell'organizzazione.
 
 > [!NOTE]
 > Microsoft 365 Government-GCC è disponibile solo negli Stati Uniti. I clienti non governativi degli Stati Uniti possono scegliere tra una serie di [piani governativi di Office 365](https://products.office.com/government/compare-office-365-government-plans).
@@ -55,7 +54,7 @@ La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.co
 
 Dopo aver deciso che questo servizio è appropriato per la propria organizzazione, avviare il processo di [applicazione per questo servizio](https://products.office.com/government/eligibility-validation).
 
-## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>Passaggio 3: Informazioni sulle impostazioni di protezione predefinite di Microsoft 365 Government-GCC
+## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>Passaggio 3. Informazioni sulle impostazioni di protezione predefinite di Microsoft 365 Government-GCC
 
 È consigliabile richiedere tempo per esaminare attentamente le impostazioni di protezione e di amministratore prima di modificarle e considerare l'impatto sulla conformità prima di apportare modifiche alle impostazioni di protezione predefinite.
 
@@ -75,7 +74,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Piano di archiviazione                                       | Disponibili              |
 |                                         | Criteri consigliati                            | In ingegneria backlog |
 |                                         | Filtri di importazione intelligenti                            | In ingegneria backlog |
-|                                         | Criteri di conservazione basati su eventi                           | Disponibili              |
+|                                         | Conservazione basata su eventi                           | Disponibili              |
 |                                         | Revisione della disposizione                              | Disponibili              |
 |                                         | Barriere informative                            | Disponibili              |
 |                                         | Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica  | Disponibili              |
@@ -87,7 +86,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 | **Gestione dei rischi Insider**             | Crittografia avanzata dei messaggi                     | Disponibili              |
 |                                         | Gestione dei rischi Insider                         | In ingegneria backlog |
 |                                         | Conformità delle comunicazioni                        | In ingegneria backlog |
-|                                         | Archivio protetto del cliente                                | Disponibili              |
+|                                         | Customer Lockbox                                | Disponibili              |
 |                                         | Customer Key                                    | Disponibili              |
 |                                         | Gestione accessi con privilegi                    | In ingegneria backlog |
 | **Scoprire & rispondere**                  | Prenotazione sul posto                            | Disponibili              |
@@ -104,7 +103,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Codifica predittiva                               | In ingegneria backlog |
 |                                         | Esportazione elaborata con il file di carico                 | In ingegneria backlog |
 |                                         | Aggiunta di tag                                         | In ingegneria backlog |
-|                                         | Spettatori                                         | In ingegneria backlog |
+|                                         | Visualizzatori                                         | In ingegneria backlog |
 |                                         | Redazioni                                      | In ingegneria backlog |
 |                                         | Filtro                                       | In ingegneria backlog |
 |                                         | Mapping del custode al carico di lavoro                   | In ingegneria backlog |

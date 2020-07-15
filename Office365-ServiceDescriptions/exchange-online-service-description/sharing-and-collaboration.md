@@ -1,8 +1,7 @@
 ---
 title: Condivisione e collaborazione
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8e5ce6ce41f206c5736241340c393833ae78fea7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638894"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132590"
 ---
 # <a name="sharing-and-collaboration"></a>Condivisione e collaborazione
 
@@ -35,9 +34,9 @@ Per ulteriori informazioni sulla condivisione federata, vedere [Condivisione in 
   
 ## <a name="site-mailboxes"></a>Cassette postali del sito
 
-Generalmente i messaggi di posta elettronica e i documenti sono conservati in due repository univoci e separati. La maggior parte dei team di lavoro collaborano tramite messaggi di posta elettronica e documenti. La sfida è rappresentata dall'esigenza di accedere ai messaggi di posta elettronica e ai documenti utilizzando diversi client. Generalmente questa situazione implica una riduzione della produttività e un'interfaccia meno intuitiva.
+Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
   
-La cassetta postale del sito è un nuovo concetto in Exchange 2013 che tenta di risolvere questo problema. Le cassette postali dei siti migliorano la collaborazione e la produttività degli utenti in quanto consentono l'utilizzo delle stessa interfaccia client per accedere ai documenti di Microsoft SharePoint 2013 e alla posta elettronica di Exchange. Una cassetta postale del sito è costituita dall'appartenenza a un sito SharePoint 2013 (proprietari e membri), dall'archiviazione condivisa tramite una cassetta postale di Exchange 2013 per i messaggi di posta elettronica, da un sito SharePoint 2013 per i documenti e da un'interfaccia di gestione per il provisioning e il ciclo di vita.
+The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
   
 > [!IMPORTANT]
 > Il piano deve includere SharePoint. Le cassette postali dei siti richiedono che gli utenti abbiano le licenze sia di SharePoint sia di Exchange. 
