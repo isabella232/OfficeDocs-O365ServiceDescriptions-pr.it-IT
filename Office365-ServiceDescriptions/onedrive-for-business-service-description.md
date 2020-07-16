@@ -1,8 +1,7 @@
 ---
 title: Descrizione del servizio OneDrive
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213928"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131290"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
@@ -50,9 +49,9 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 - Microsoft 365 Apps for enterprise
 - Office 365 Enterprise E1
 - Office 365 Government G1
-- Office 365 Nonprofit Business Essentials
-- Office 365 Nonprofit Business Premium
-- Office 365 Nonprofit E1
+- Microsoft 365 Business Basic per organizzazioni no profit
+- Microsoft 365 Business Standard per organizzazioni no profit
+- Office 365 E1 per organizzazioni no profit
 - OneDrive for Business Piano 1
 - SharePoint Online Piano 1
 - Microsoft 365 Business Premium
@@ -68,8 +67,8 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 Nonprofit E3
-- Office 365 Nonprofit E5
+- Office 365 E3 per organizzazioni no profit
+- Office 365 E5 per organizzazioni no profit
 - OneDrive for Business Piano 2
 - SharePoint Online Piano 2
 - Microsoft 365 Enterprise E3
@@ -78,8 +77,8 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 - Microsoft 365 A5
 - Microsoft 365 US Government G3
 - Microsoft 365 US Government G5
-- Microsoft 365 per Nonprofit E3
-- Microsoft 365 per Nonprofit E5
+- Microsoft 365 E3 per organizzazioni no profit
+- Microsoft 365 E5 per organizzazioni no profit
 
 > [!NOTE]
 > È necessario assegnare almeno una licenza a un utente prima di poter aumentare lo spazio di archiviazione predefinito in OneDrive. 
