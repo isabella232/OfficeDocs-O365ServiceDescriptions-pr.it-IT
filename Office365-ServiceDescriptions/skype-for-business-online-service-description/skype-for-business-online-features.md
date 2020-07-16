@@ -30,7 +30,7 @@ Se si è un amministratore, è possibile trovare istruzioni dettagliate per la c
     
 - Per scoprire le opzioni di Skype for Business su un dispositivo mobile, vedere [Installare Skype for Business su un dispositivo mobile](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- For a detailed comparison of the Skype for Business desktop and web clients, see [Skype for Business Online client comparison tables](https://go.microsoft.com/fwlink/?linkid=829754). For a detailed comparison of the Skype for Business mobile clients, see the [Mobile client comparison tables](https://go.microsoft.com/fwlink/?linkid=846932).
+- Per confrontare singole funzionalità dei client Web e desktop di Skype for Business, vedere le [tabelle di confronto dei client per Skype for Business Server 2015](https://go.microsoft.com/fwlink/?linkid=829754). Per un confronto dettagliato dei client mobili di Skype for Business, vedere le [tabelle di confronto dei client mobili](https://go.microsoft.com/fwlink/?linkid=846932).
     
 Per scaricare il client per il dispositivo mobile, il PC o il Mac, andare a [scaricare Skype for business su tutti i dispositivi](https://go.microsoft.com/fwlink/?linkid=846929).
   
@@ -50,7 +50,7 @@ Per ulteriori informazioni, vedere Messaggistica istantanea, presenza e contatti
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Elementi audio, video e multimediali Skype su Skype
 
-Skype for Business Online users can make one-to-one computer-based audio and video calls to other Skype for Business users using a PC and a web camera. A Skype for Business Online user can initiate Skype-to-Skype audio and video calls with another user in the same Skype for Business Online organization (within or outside the corporate firewall), or with another Skype for Business user in a Skype for Business federated domain if the two Skype for Business domains are correctly configured, supported, and permitted for federation.
+Gli utenti di Skype for Business Online possono effettuare chiamate audio e video da computer a computer verso altri utenti Skype for Business con un PC e una webcam. Un utente Skype for Business Online può avviare chiamate video e audio Skype su Skype con un altro utente nella stessa organizzazione Skype for Business Online (all'interno o all'esterno del firewall aziendale) o con un altro utente Skype for Business in un dominio Skype for Business federato a condizione che i due domini Skype for Business siano configurati e supportati correttamente e che la federazione sia consentita.
   
 Per informazioni su come impostare le opzioni del dispositivo audio in Skype for business, vedere [impostare le opzioni del dispositivo audio in Skype for](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff) business. 
   
@@ -71,19 +71,19 @@ Oltre all'audio, Skype for business consente agli utenti di connettersi tramite 
 Per ulteriori informazioni sulle riunioni di Skype for business online, vedere [iniziare a usare Skype for business per le riunioni in chat e online](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd).
   
 > [!IMPORTANT]
-> Multiparty Skype for Business audio and video capabilities might not be available in certain countries due to regulatory restrictions. For details, see [About license restrictions](https://go.microsoft.com/fwlink/?LinkId=278963). 
+> Le funzionalità Skype for Business audio e video tra più partecipanti potrebbero non essere disponibili in alcune nazioni a causa di restrizioni normative. Per ulteriori informazioni, vedere [Informazioni sulle restrizioni di licenza](https://go.microsoft.com/fwlink/?LinkId=278963). 
   
 ## <a name="security-and-archiving"></a>Sicurezza e archiviazione
 
 Il traffico Microsoft (sia di segnale che di traffico multimediale) viene crittografato utilizzando il protocollo TLS (Transport Layer Security). Chiunque intercetti una comunicazione vede solo testo crittografato. Ad esempio, se un utente accede alle funzioni di messaggistica istantanea, chiamata e presentazione di Skype for Business Online mentre utilizza una rete Wi-Fi pubblica (ad esempio in un aeroporto), le sue comunicazioni vengono crittografate per proteggerle dalle potenziali intercettazioni tramite "sniffer" di rete.
   
-Skype for Business provides archiving of peer-to-peer instant messages, multiparty instant messages, and content upload activities in meetings. The archiving capability requires Exchange and is controlled by the user's Exchange mailbox In-Place Hold attribute, which archives both email and Skype for Business contents.
+Skype for Business fornisce le funzionalità di archiviazione dei messaggi istantanei peer-to-peer e con più partecipanti, nonché le attività di caricamento dei contenuti nelle riunioni. La capacità di archiviazione richiede Exchange ed è controllata dall'attributo di conservazione in locale della cassetta postale Exchange dell'utente, che archivia i contenuti di posta elettronica e Skype for Business.
   
-All archiving in Skype for Business is considered "user-level archiving" because you enable or disable it for one or more specific users or groups of users by creating, configuring, and applying a user-level archiving policy for those users. There is no direct control of archiving settings from within the Skype for Business admin center. 
+Tutta l'archiviazione in Skype for Business viene considerata "archiviazione a livello dell'utente" perché consente di abilitare o disabilitare l'archiviazione per uno o più utenti o gruppi di utenti specifici, creando, configurando e applicando criteri di archiviazione a livello di utente per tali utenti. Nell'interfaccia di amministrazione di Skype for Business non è disponibile un controllo diretto sulle impostazioni di archiviazione. 
   
 ## <a name="exchange-and-sharepoint-interoperability"></a>Interoperabilità tra Exchange e SharePoint
 
-Skype for Business Online includes high definition pictures, presence status updates based on Exchange calendar information, unified contact store, archiving, out-of-office messages in Skype for Business, and presence status and click-to-communicate in Outlook. This interoperability requires running the Skype for Business client on the user's desktop.
+Skype for Business Online include foto ad alta definizione, aggiornamenti sullo stato di presenza basati sulle informazioni raccolte da calendario di Exchange, un archivio unificato dei contatti, funzionalità di archiviazione, messaggi di tipo "fuori sede" in Skype for Business, stato di presenza e comunicazioni immediate in Outlook. Questa interoperabilità richiede che il client Skype for Business sia in esecuzione desktop dell'utente.
   
 In alcuni piani di sottoscrizione, Skype for Business può integrarsi con la messaggistica unificata di Exchange Online per:
   
@@ -91,7 +91,7 @@ In alcuni piani di sottoscrizione, Skype for Business può integrarsi con la mes
     
 - Abilitare Outlook sul Web per fornire la messaggistica istantanea, la presenza, gli aggiornamenti di stato in base alle informazioni del calendario di Exchange e la pianificazione delle riunioni di Skype for business.
     
-Skype for Business interoperates with on-premises Microsoft SharePoint Server for presence and click-to-communicate in SharePoint sites. This interoperability requires running the Skype for Business client on the user's desktop. 
+Skype for Business interagisce con Microsoft SharePoint Server locale per le informazioni sulla presenza e della funzionalità un-clic-per-comunicare nei siti di SharePoint. Questa interoperabilità richiede che il client Skype for Business sia in esecuzione desktop dell'utente. 
   
 ## <a name="skype-for-business-online-administration-and-management"></a>Amministrazione e gestione di Skype for Business Online
 
@@ -111,13 +111,13 @@ Per visualizzare gli argomenti della guida sull'amministratore di Skype for busi
   
 ## <a name="audio-conferencing-in-office-365"></a>Audio conferenze in Office 365
 
-Audio Conferencing is any conference in which at least one participant dials in to the audio portion by using a phone. The ability to use a phone to access a meeting is useful for individuals who are on the road or otherwise can't attend a meeting using a mobile device or PC. Using a phone also can be a better option in other scenarios, such as when internet connectivity is limited or when a meeting is audio only.
+Un’audioconferenza è una qualsiasi conferenza in cui almeno un partecipante accede alla parte audio mediante un telefono. La possibilità di utilizzare un telefono per accedere a una riunione è utile per chi si trova in viaggio o non ha modo di presenziare alla riunione mediante un dispositivo mobile o un PC. L'uso di un telefono, inoltre, può rappresentare un'opzione migliore in altre situazioni, ad esempio se la connessione Internet è limitata o in caso di un'audioconferenza.
   
 Grazie ai servizi di audioconferenza, gli utenti dell'organizzazione possono ospitare o creare riunioni che contengono numeri di telefono con accesso esterno. I chiamanti possono utilizzare tali numeri di telefono per partecipare a una riunione con il proprio telefono; potranno ascoltare soltanto l'audio, ma non avranno accesso alla messaggistica istantanea, ai desktop condivisi oppure ai file condivisi. È necessario soltanto configurare le conferenza con accesso esterno per gli utenti che intendono programmare o condurre riunioni. Se l'organizzatore non ha bloccato la riunione, chiunque disponga del numero di accesso esterno e dell'ID di conferenza può partecipare alla riunione. Per ulteriori informazioni, vedere [Guida introduttiva a](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) servizi di audioconferenza e [numeri di accesso esterno disponibili per](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)audioconferenza.
   
 È possibile abilitare le conferenze telefoniche con accesso esterno utilizzando Microsoft come provider di servizi di conferenza telefonica con accesso esterno o tramite un provider di servizi di conferenza telefonica con accesso esterno di terze parti (denominato anche provider di servizi di audioconferenza o ACP).
   
-Audio Conferencing is not available in all countries or regions. For a list of the countries or regions in which you can purchase Audio Conferencing, see [Where can you get Audio Conferencing?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+I servizi di audio conferenza sono disponibili in tutti i paesi. Per consultare un elenco di paesi nei quali è possibile acquistare i servizi di audioconferenza, vedere [Dove sono disponibili i servizi di audioconferenza?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans"></a>Piani di chiamata
 

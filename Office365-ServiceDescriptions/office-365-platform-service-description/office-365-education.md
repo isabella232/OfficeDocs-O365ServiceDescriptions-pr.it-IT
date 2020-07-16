@@ -476,7 +476,7 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
   
 #### <a name="address-book-limits"></a>Limiti della rubrica
 
-- **Address list limit** The maximum number of address lists that can be created in an Exchange Online or Exchange Server 2013 organization. This number includes the default address lists in Exchange Online, such as All Contacts and All Groups. 
+- **Limite elenchi indirizzi** Il numero massimo di elenchi indirizzi che è possibile creare in un'organizzazione di Exchange Online o Exchange Server 2013. Questo numero include gli elenchi indirizzi predefiniti in Exchange Online, quali Tutti i contatti e Tutti i gruppi. 
     
 - **Limite rubrica offline** Il numero massimo di rubriche offline (OAB) che è possibile creare in un'organizzazione di Exchange Online o Exchange Server 2013. 
     
@@ -494,7 +494,7 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
    
 #### <a name="mailbox-storage-limits"></a>Limiti di archiviazione delle cassette postali
 
-The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
+Il volume di archiviazione delle cassette postali è determinato dal tipo di cassetta postale e dalla licenza di sottoscrizione dell'utente. Gli amministratori possono ridurre le dimensioni massime della cassetta postale per singolo utente o a livello globale.
   
 > [!NOTE]
 > L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Una cassetta postale di archiviazione di un utente è destinata esclusivamente a quell'utente. Microsoft si riserva il diritto di negare l'archiviazione illimitata nei casi in cui la cassetta postale di archiviazione di un utente viene utilizzata per archiviare i dati di archiviazione per altri utenti o in altri casi di utilizzo inappropriato.
@@ -523,11 +523,11 @@ The amount of mailbox storage available is determined by the mailbox type and th
 
 Exchange Online offre tre tipi di notifiche quando la capacità della cassetta postale di un utente è quasi o del tutto esaurita:
   
-- **Warning** The user receives an email warning that the mailbox is approaching the maximum size limit. This warning is intended to encourage users to delete unwanted mail. 
+- **Avviso** L'utente riceve un avviso mediante posta elettronica con la segnalazione che la cassetta postale sta raggiungendo il limite massimo di dimensioni. Questo avviso ha lo scopo di spingere gli utenti a eliminare la posta indesiderata. 
     
-- **Prohibit Send** The user receives a prohibit-send notification email when the mailbox size limit is reached. The user cannot send new messages until enough email is deleted to bring the mailbox below the size limit. 
+- **Invio non consentito** L'utente riceve la notifica di invio non consentito quando la cassetta postale ha raggiunto il limite massimo di dimensione. L'utente non potrà più inviare nuovi messaggi fino a quando non viene eliminata una quantità di posta sufficiente a riportare la cassetta postale al di sotto dei limiti di dimensione consentiti. 
     
-- **Prohibit Send/Receive** Exchange Online rejects any incoming mail when the mailbox size limit is reached, and sends a non-delivery report (NDR) to the sender. The sender has the option to try resending the mail later. To receive messages again, the user must delete email until the mailbox is below the size limit. 
+- **Invio e ricezione non consentiti** Exchange Online rifiuta la posta elettronica in arrivo quando la cassetta postale ha raggiunto il limite massimo di dimensioni e invia un rapporto di mancato recapito (NDR) al mittente. Il mittente ha la possibilità di provare a inviare di nuovo il messaggio in seguito. Per poter continuare a ricevere messaggi, l'utente deve eliminare i messaggi fino a riportare la cassetta postale al di sotto dei limiti di dimensione consentiti. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -538,29 +538,29 @@ Exchange Online offre tre tipi di notifiche quando la capacità della cassetta p
    
 #### <a name="mailbox-folder-limits"></a>Limiti cartella delle cassette postali
 
-These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
+Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che possono essere supportate in Exchange Online. L'obiettivo di tali limiti è di prevenire un numero infinito di elementi nella cassetta postale per cartella, un numero infinito di cartelle per cassetta postale o un numero infinito di cartelle pubbliche per organizzazione Exchange Online. Per scopi pratici, i limiti della cartella delle cassette postali non sono realmente limitati e sono sufficienti per supportare la maggior parte delle cassette postali di Exchange Online e in locale migrate su Exchange Online.
   
-- **Maximum number of messages per mailbox folder** Specifies the maximum number of messages for a mailbox folder. New messages can't be delivered or saved in a folder when this limit is reached. 
+- **Numero massimo di messaggi per cartella delle cassette postali** Specifica il numero massimo di messaggi per una cartella cassetta postale. Una volta raggiunto tale limite i nuovi messaggi non possono essere recapitati o salvati in una cartella. 
     
-- **Warning for number of messages per mailbox folder** Specifies the number of messages that a mailbox folder can hold before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **Avviso numero di messaggi per cartella delle cassette postali** Specifica il numero di messaggi che una cartella cassetta postale può contenere prima che Exchange Online invii un messaggio di avviso al proprietario della casetta postale. Quando viene raggiunta tale quota, viene inviato un messaggio di avviso al giorno. 
     
-- **Maximum number of messages per folder in the Recoverable Items folder** Specifies the maximum number of messages that can be contained in each folder in the Recoverable Items folder. When a folder exceeds this limit, it can't store new messages. For example, if the Deletions folder in the Recoverable Items folder has exceeded the message count limit and the mailbox owner attempts to permanently delete items from their mailbox, the deletion will fail. 
+- **Numero massimo di messaggi per cartella nella cartella Elementi recuperabili** Specifica il numero massimo di messaggi che possono essere contenuti in ciascuna cartella nella cartella Elementi recuperabili. Quando una cartella supera il limite, non può archiviare nuovi messaggi. Ad esempio, se la cartella eliminazioni, presente nella cartella elementi ripristinabili, ha superato il numero massimo di messaggi e il proprietario della cassetta postale tenta di eliminare definitivamente degli elementi dalle loro cassette postali, l'eliminazione non riesce. 
     
 - **Avviso per numero di messaggi per cartella nella cartella Elementi recuperabili** Specifica il numero di messaggi che ciascuna cartella, nella cartella Elementi recuperabili, può mantenere prima che Exchange Online registri un evento nel registro evento dell'applicazione. 
     
-- **Maximum number of subfolders per mailbox folder** Specifies the maximum number of subfolders that can be created in a mailbox folder. The mailbox owner won't be able to create a new subfolder when this limit is reached. 
+- **Numero massimo di sottocartelle per cartella delle cassette postali** Specifica il numero di sottocartelle che possono essere create nella cartella cassetta postale. Una volta raggiunto il limite, il proprietario della cassetta postale non potrà creare una nuova sottocartella. 
     
-- **Warning for number of subfolders per mailbox folder** Specifies the number of subfolders that can be created in a mailbox folder before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **Avviso numero di sottocartelle per cartella delle cassette postali** Specifica il numero di sottocartelle che possono essere create in una cartella cassetta postale prima che Exchange Online invii un messaggio di avviso al proprietario della casetta postale. Quando viene raggiunta tale quota, viene inviato un messaggio di avviso al giorno. 
     
-- **Maximum folder hierarchy depth** Specifies the maximum number of levels in the folder hierarchy of a mailbox. The mailbox owner won't be able to create another level in the folder hierarchy of the mailbox folder when this limit is reached. 
+- **Massima profondità gerarchia cartella** Specifica il numero massimo di livelli nella gerarchia della cartella di una cassetta postale. Una volta raggiunto il limite, il proprietario della cassetta postale non potrà creare un altro livello nella gerarchia di cartelle della cartella delle cassette postali. 
     
-- **Warning for folder hierarchy depth** Specifies the number of levels in the folder hierarchy of a mailbox folder that can be created before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **Avviso profondità gerarchia cartella** Specifica il numero di livelli nella gerarchia della cartella delle cassette postali che può essere creata prima che Exchange Online invii un messaggio di avviso al proprietario della cassetta postale. Quando viene raggiunta tale quota, viene inviato un messaggio di avviso al giorno. 
     
-- **Maximum number of public folders** Specifies the maximum number of public folders in the complete public folder hierarchy. When this limit is reached, existing public folders must be deleted before new public folders can be created. 
+- **Numero massimo di cartelle pubbliche** Indica il numero massimo di cartelle pubbliche nella gerarchia completa di cartelle pubbliche. Quando viene raggiunto questo limite, le cartelle pubbliche esistenti devono essere eliminate per poterne creare di nuove. 
     
-- **Maximum number of subfolders per public folder** Specifies the maximum number of subfolders that can be created in a public folder. New subfolders can't be created in a public folder when this limit is reached. 
+- **Numero massimo di sottocartelle per cartella pubblica** Specifica il numero di sottocartelle che possono essere create in una cartella pubblica. È impossibile creare nuove sottocartelle in una cartella pubblica quando viene raggiunto questo limite. 
     
-- **Warning for number of subfolders per public folder** Specifies the number of subfolders that can be created in a public folder before Exchange Online sends a warning message to the folder owner. If no owner exists, warning messages are sent to users with Owner permissions. When this quota is reached, warning messages are sent once a day. 
+- **Avviso numero di sottocartelle per cartella pubblica** Specifica il numero di sottocartelle che possono essere create in una cartella pubblica prima che Exchange Online invii un messaggio di avviso al proprietario della cartella. Qualora quest'ultimo non esistesse, i messaggi di avviso vengono inviati agli utenti con le autorizzazioni di proprietario. Quando viene raggiunta tale quota, viene inviato un messaggio di avviso al giorno. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -593,14 +593,14 @@ These limits are intended to limit mailboxes to known dimensions that can be sup
   
 - **Lunghezza massima dell'oggetto** Il numero massimo di caratteri di testo consentito nella riga dell'oggetto di un messaggio di posta elettronica. 
     
-- **File attachments limit** The maximum number of file attachments allowed in an email message. Even if the total size of all the file attachments doesn't violate the message size limit, there is still a limit on how many attachments are allowed in the message. This limit is controlled by the multipart message limit. 
+- **Limite massimo di file allegati** Numero massimo di allegati consentito in un messaggio di posta elettronica. Anche se la dimensione totale di tutti i file allegati non supera la dimensione massima del messaggio, esiste comunque un limite sul numero di allegati consentiti nel messaggio. Tale limite viene contrallato dal limite dei messaggi a più parti. 
     
 - **Limite di dimensione massima dei file allegati** Dimensione massima di un singolo allegato. 
     
     > [!NOTE] 
     > Dimensione massima di un singolo file allegato. I singoli programmi client, tra cui Outlook sul Web, possono limitare la dimensione degli allegati al di sotto di questo valore massimo. Exchange ActiveSync non applica limiti per la dimensione degli allegati a ogni singolo allegato. È la dimensione totale di tutti gli allegati a un messaggio Exchange ActiveSync che deve essere minore del limite di dimensione dei messaggi consentita. 
   
-- **Multipart message limit** The maximum number of message body parts that are allowed in a MIME multipart message. This limit also controls the maximum number of file attachments that are allowed in a message. 
+- **Limite dei messaggi a più parti** Numero massimo di parti del corpo del messaggio consentito in un messaggio a più parti MIME. Tale limite consente anche di controllare il numero massimo di file che è possibile allegare a un messaggio. 
     
 - **Limite di profondità dei messaggi incorporati** Numero massimo di messaggi di posta elettronica inoltrati consentito in un messaggio di posta elettronica. 
     
@@ -630,11 +630,11 @@ These limits are intended to limit mailboxes to known dimensions that can be sup
   
 #### <a name="receiving-and-sending-limits"></a>Limiti di invio e ricezione
 
-Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
+I limiti di invio e ricezione sono applicati come protezione dalla posta indesiderata e dall'invio in massa di messaggi contenenti worm o virus. Questi limiti consentono di proteggere l'integrità dei sistemi e di mantenere gli utenti sicuri.
   
 #### <a name="receiving-limits"></a>Limiti di ricezione
 
-Receiving limits apply to the number of messages that a user, group, or public folder can receive per hour. This applies for both messages received from the Internet and from on-premises servers. When the receiving limit has been exceeded, any emails sent to that mailbox will receive a non-delivery report stating that the mailbox has exceeded the maximum delivery threshold. After one hour, the limit will refresh and the mailbox will once again be able to receive messages.
+I limiti di ricezione si applicano al numero di messaggi che un utente, un gruppo o una cartella pubblica possono ricevere ogni ora. Ciò vale sia per i messaggi ricevuti da Internet sia per quelli provenienti da server locali. Quando si supera il limite di ricezione, tutte le e-mail inviate a quella cassetta postale riceveranno un rapporto di mancato recapito in cui è indicato che la cassetta postale ha superato la soglia minima di recapito. Dopo un'ora, il limite viene azzerato e la cassetta postale sarà di nuovo in grado di ricevere messaggi.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -646,9 +646,9 @@ Receiving limits apply to the number of messages that a user, group, or public f
 I limiti di invio si applicano al numero di destinatari, di messaggi e di destinatari per messaggio che un utente può inviare dal proprio account Exchange Online.
   
 > [!NOTE]
-> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually. 
+> Per i gruppi di distribuzione archiviati nella rubrica dell'organizzazione, il gruppo viene conteggiato come un unico destinatario. Per i gruppi di distribuzione archiviati nella cartella Contatti di una cassetta postale, i membri del gruppo vengono conteggiati singolarmente. 
   
-- **Recipient rate limit** To discourage the delivery of unsolicited bulk messages, Exchange Online has recipient limits that prevent users and applications from sending large volumes of email. These limits are applied per-user to all outbound and internal messages. 
+- **Limite numero di destinatari** Per ridurre il recapito di messaggi in blocco non desiderati, in Exchange Online sono presenti dei limiti per il numero di destinatari che impediscono a utenti e applicazioni di inviare un gran numero di messaggi di posta elettronica. Questi limiti vengono applicati per singolo utente a tutti i messaggi in uscita e interni. 
     
     > [!NOTE]
     > Per gli utenti di Exchange Online con l'esigenza di inviare messaggi di posta commerciale in blocco legittima (ad esempio, le newsletter ai clienti) è consigliabile continuare a utilizzare provider di terze parti specializzati in tali servizi. 
@@ -656,9 +656,9 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 - **Limite destinatari** Numero massimo di destinatari del messaggio che possono essere inseriti nei campi A:, Cc: e Bcc: di ciascun messaggio. 
     
     > [!NOTE]
-    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately. 
+    > Per quanto riguarda i limiti sul numero di destinatari, un gruppo di distribuzione memorizzato nella rubrica condivisa dell'organizzazione viene contato come un singolo destinatario. In un gruppo di distribuzione personale, ciascun destinatario viene conteggiato separatamente. 
   
-- **Message rate limit** Message rate limits determine how many messages a user can send from their Exchange Online account within a specified period of time. This limit helps prevent overconsumption of system resources by a single sender. If a user submits messages at a rate that exceeds the limit via SMTP client submission, the messages will be rejected and the client will need to retry. 
+- **Limite di frequenza dei messaggi** I limiti alla frequenza dei messaggi determinano il numero massimo di messaggi che un utente può inviare dal proprio account Exchange Online in un determinato periodo di tempo. Questo limite consente di evitare il consumo di risorse di sistema da un mittente singolo. Se un utente invia messaggi a una velocità che supera il limite tramite invio client SMTP, verranno rifiutati i messaggi e il client dovrà riprovare. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -690,7 +690,7 @@ Questi limiti controllano il periodo di tempo durante il quale è possibile acce
 |Periodo di conservazione per la cartella Posta indesiderata  <br/> |30 giorni  <br/> |30 giorni  <br/> |30 giorni  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. 
+> <sup>1</sup> Questo è il limite predefinito. Gli amministratori possono modificare questo valore per l'organizzazione. 
   
 #### <a name="distribution-group-limits"></a>Limiti dei gruppi di distribuzione
 
@@ -698,9 +698,9 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
   
 - **Maximum number of distribution group members** The total recipient count is determined after distribution group expansion. 
     
-- **Limit sending messages to large distribution groups** Distribution groups that contain the number of members specified by this limit must have delivery management or message approval options configured. Delivery management specifies a list of senders who are allowed to send messages to the distribution group. Message approval specifies one or more moderators who must approve all messages sent to the distribution group. 
+- **Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni** Per i gruppi di distribuzione che contengono il numero di membri specificato da questo limite è necessario che siano configurate le opzioni di gestione recapito o di approvazione messaggi. La gestione recapito specifica un elenco di mittenti a cui è consentito inviare messaggi al gruppo di distribuzione. L'approvazione messaggi specifica uno o più moderatori che devono approvare tutti i messaggi inviati al gruppo di distribuzione. 
     
-- **Maximum message size for large distribution groups** If a message is sent to 5,000 or more recipients, the message size can't exceed this limit. If the message size exceeds the limit, the message isn't delivered, and the sender receives a non-delivery report (NDR). The total recipient count is determined after distribution group expansion. 
+- **Dimensione massima dei messaggi per gruppi di distribuzione di grandi dimensioni** Se un messaggio viene inviato a oltre 5.000 destinatari, la dimensione del messaggio non può superare questo limite. Se supera questo limite, il messaggio non verrà recapitato e il mittente riceverà un rapporto di mancato recapito. Il numero totale di destinatari viene determinato dopo l'espansione del gruppo di distribuzione. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -717,23 +717,23 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>Limiti delle regole di journal, trasporto e posta in arrivo
 
-The following list includes limits that apply to journal rules, transport rules (also known as organization-wide rules), and limits that apply to Inbox rules. Inbox rules are set up by individual users and applied to messages sent and received by the individual user's mailbox.
+Il seguente elenco include i limiti validi per le regole del journal, quelle di trasporto (note anche come regole all'interno dell'organizzazione) e i limiti validi per le regole di Posta in arrivo. Le regole di Posta in arrivo vengono configurate da utenti singoli e applicate ai messaggi inviati e ricevuti dalla cassetta postale del singolo utente.
   
 - **Numero massimo di regole di journal** Numero massimo di regole di journal che possono esistere nell'organizzazione. 
     
 - **Numero massimo di regole di trasporto** Numero massimo di regole che possono esistere nell'organizzazione. 
     
-- **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions. 
+- **Dimensione massima di una singola regola di trasporto** Numero massimo di caratteri che possono essere utilizzati in una singola regola di trasporto. I caratteri vengono utilizzati nelle condizioni, nelle eccezioni e nelle azioni. 
     
-- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions. 
+- **Limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto** Numero totale di caratteri utilizzati da tutte le espressioni regolari in tutte le condizioni e le eccezioni delle regole di trasporto nell'organizzazione. È possibile avere poche regole che utilizzano espressioni regolari lunghe e complesse o molte regole che utilizzano espressioni regolari semplici. 
     
 - **Limiti di analisi per il contenuto degli allegati** Le condizioni delle regole di trasporto consentono di esaminare il contenuto degli allegati dei messaggi, ma vengono controllati solo i primi 1 MB del testo Estratto da un allegato. Questo limite di 1 MB si riferisce al testo estratto dall'allegato, non alle dimensioni dei file dell'allegato. Ad esempio, un file di 2 MB può contenere meno di 1 MB di testo, in modo che venga controllato tutto il testo. 
     
-- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule. 
+- **Numero massimo di destinatari aggiunti a un messaggio da tutte le regole di trasporto** Quando un messaggio è interessato da diverse regole di trasporto, è possibile aggiungere solo un numero limitato di destinatari al messaggio. Una volta raggiunto tale limite, i destinatari rimanenti non verranno aggiunti al messaggio. Non è inoltre possibile aggiungere i gruppi di distribuzione a un messaggio mediante una regola di trasporto. 
     
-- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule. 
+- **Limiti di inoltro** Numero massimo di destinatari configurabili per una regola di Posta in arrivo o di trasporto con un'azione di reindirizzamento. Se una regola viene configurata per reindirizzare un messaggio a un numero maggiore di destinatari, la regola non verrà applicata e tutti i messaggi che soddisfano la condizione della regola non verranno reindirizzati a nessuno dei destinatari elencati nella regola. 
     
-- **Number of times a message is redirected** The number of times a message will be redirected, forwarded, or replied to automatically based on Inbox rules. For example, User A has an Inbox rule that redirects messages to User B, based on the sender. User B has an Inbox rule that forwards messages to User C based on keywords in the subject line. If a message satisfies both of these conditions, the message is only sent to User B; it's not forwarded to User C because only one redirection is allowed. In this case, the message is dropped without sending a non-delivery report (NDR) to User B indicating that the message wasn't delivered to User C. 
+- **Numero di reindirizzamenti di un messaggio** Numero di volte in cui un messaggio verrà reindirizzato, inoltrato o a cui verrà risposto automaticamente sulla base delle regole di Posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene interrotto senza inviare un rapporto di mancato recapito all'utente B che lo informa che il messaggio non è stato recapitato all'utente C. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -753,13 +753,13 @@ Questi limiti controllano le impostazioni di moderazione utilizzate per l'approv
   
 - **Dimensione massima della cassetta postale di arbitraggio** Se la cassetta postale di arbitraggio supera questo limite, i messaggi che richiedono moderazione vengono restituiti al mittente in un rapporto di mancato recapito. 
     
-- **Maximum number of moderators** The maximum number of moderators that you can assign to a single moderated distribution group or that can be added to a message using a single transport rule. Note that you can't specify a distribution group as a moderator. 
+- **Numero massimo di moderatori** Numero massimo di moderatori che è possibile assegnare a un singolo gruppo di distribuzione con moderatore o che è possibile aggiungere a un messaggio utilizzando una singola regola di trasporto. Si noti che non è possibile specificare un gruppo di distribuzione come moderatore. 
     
-- **Expiration for messages waiting for moderation** By default, a message waiting for moderation expires after two days. However, the processing of expired moderated messages runs every seven days. This means that a moderated message can expire at any time between two and nine days. 
+- **Scadenza dei messaggi in attesa di moderazione** Per impostazione predefinita, un messaggio in attesa di moderazione scade dopo due giorni. Tuttavia, l'elaborazione dei messaggi moderati scaduti viene eseguita ogni sette giorni. Ciò significa che un messaggio moderato può scadere in qualsiasi momento compreso tra due e nove giorni. 
     
-- **Maximum rate for expired moderation notification messages** This limit sets the maximum number of notification messages for expired moderated messages in a one-hour period. This limit is placed on each mailbox database in the datacenter. 
+- **Frequenza massima per i messaggi di notifica di moderazione scaduta** Questo limite imposta il numero massimo di messaggi di notifica per i messaggi moderati scaduti in un'ora. Questo limite viene specificato per ogni database delle cassette postali nel centro dati. 
     
-    During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
+    Durante i periodi di intenso utilizzo è possibile che alcuni mittenti non ricevano messaggi di notifica per i messaggi moderati scaduti. Tuttavia, tali notifiche saranno sempre disponibili mediante i rapporti di recapito.
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -883,7 +883,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for business onli
 |Office Communications Server 2007 R2 e Lync Server 2010 (messaggistica istantanea, presenza, audio, video, conferenza)  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |XMPP (usato, ad esempio da Google Talk) e federazione Sametime  <br/> |No  <br/> |No  <br/> |No  <br/> |
 | Federazione Skype  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|AOL and Yahoo! federation  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Federazione AOL e Yahoo!  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**[Riunioni in Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Servizi di audioconferenza ad hoc e pianificazione  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Video conferenza ad hoc e pianificazione  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -1000,7 +1000,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
   
 #### <a name="peer-to-peer-limits"></a>Limiti peer-to-peer
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
+- **Limite di trasferimento file** La dimensione massima relativa a un file che può essere trasferito in una conversazione di messaggistica istantanea di Skype for Business online. Per informazioni sui tipi di file per i quali è stato bloccato il trasferimento file, vedere l'articolo del supporto Microsoft relativo all' [invio e ricezione di file o allegati in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **Limiti relativi alle conversazioni a schede aperte** Il numero massimo di schede di conversazione che gli utenti di Skype for Business possono aprire in contemporanea. 
     
@@ -1036,7 +1036,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 |Singoli utenti in un gruppo autorizzato alla risposta  <br/> |25  <br/> |25  <br/> |25  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
+> <sup>1</sup> Se i partecipanti a una riunione su Skype for Business sono più di 75, l'elenco dei partecipanti (relatore e partecipanti) verrà troncato in modo che un singolo utente vede soltanto i relatori e il nome del singolo partecipante. L'elenco completo dei partecipanti è comunque disponibile per i relatori della riunione. Inoltre, gli errori di visualizzazione della galleria e di messaggistica istantanea sono nascosti ai partecipanti. 
   
 #### <a name="meeting-retention-limits"></a>Limiti di conservazione delle riunioni
 

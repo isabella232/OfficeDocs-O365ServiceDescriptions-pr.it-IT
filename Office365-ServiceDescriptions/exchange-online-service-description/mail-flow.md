@@ -44,19 +44,19 @@ Per ulteriori informazioni, vedere [Set up connectors for secure mail flow with 
   
 ## <a name="conditional-mail-routing"></a>Routing condizionale della posta
 
-You can direct mail to specific sites by using connectors and transport rules. With criteria-based routing, you can choose a connector based on specific conditions.
+È possibile indirizzare la posta diretta a siti specifici utilizzando i connettori e le regole di trasporto. Con il routing basato su criteri, è possibile scegliere un connettore in base a specifiche condizioni.
   
 Per ulteriori informazioni, vedere [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Elenco indirizzi attendibili della posta in arrivo:
 
-You can add a trusted partner's IP address to a safe list to ensure that messages the partner sends to you are not subject to anti-spam filtering. To do this, you can use the connection filter's IP Allow list.
+È possibile aggiungere l'indirizzo IP di un partner attendibile a un elenco di indirizzi attendibili al fine di assicurarsi che i messaggi inviati dal partner non siano soggetti al filtro posta indesiderata. A tale scopo, è possibile utilizzare l'elenco di indirizzi IP consentiti del filtro connessioni.
   
 Per ulteriori informazioni, vedere [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Routing posta ibrida
 
-A hybrid deployment gives organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. With hybrid transport, messages sent between recipients in either organization are authenticated, encrypted, and transferred using Transport Layer Security (TLS), and appear as "internal" to Exchange components such as transport rules, journaling, and anti-spam policies. You configure hybrid transport by using the Hybrid Configuration Wizard in Exchange Server.
+La distribuzione ibrida offre alle organizzazioni la possibilità di estendere al cloud le numerose funzionalità e il controllo amministrativo che hanno nell'organizzazione Microsoft Exchange locale. Con il trasporto ibrido i messaggi scambiati dagli utenti di qualsiasi organizzazione vengono autenticati, crittografati e trasferiti usando Transport Layer Security (TLS) e appaiono come interni a componenti di Exchange quali i ruoli di trasporto, journal e criteri antispam. Il trasporto ibrido viene configurato dalla procedura guidata di configurazione ibrida in Exchange Server.
   
 Per ulteriori informazioni sul routing della posta in una distribuzione ibrida, vedere [Routing del trasporto nelle distribuzioni ibride di Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271757).
   
@@ -76,13 +76,13 @@ Per ulteriori informazioni sulle opzioni di trasporto in una distribuzione ibrid
   
 ### <a name="troubleshooting-a-deployment-with-the-hybrid-configuration-wizard"></a>Risoluzione dei problemi di una distribuzione con la procedura guidata di configurazione ibrida
 
-Using the Hybrid Configuration Wizard to configure a hybrid deployment in Microsoft Exchange Server greatly minimizes the potential that the hybrid deployment will experience problems. However, there are some typical areas outside the scope of the Hybrid Configuration Wizard that, if misconfigured, may present problems in a hybrid deployment. These include proper Client Access server configuration and proper certificate installation and configuration.
+L'utilizzo della procedura guidata di configurazione ibrida per configurare una distribuzione ibrida in Microsoft Exchange Server riduce al minimo il rischio di avere problemi durante la distribuzione ibrida. Tuttavia, ci sono alcune aree tipiche fuori dall'ambito della configurazione guidata ibrida che, se configurate male, possono dare origine a parecchi problemi durante la distribuzione ibrida. Queste aree sono la configurazione del server Accesso client e l'installazione e configurazione dei certificati.
   
 Per ulteriori informazioni sulla risoluzione dei problemi di una distribuzione con la configurazione guidata per distribuzioni ibride, vedere [Risolvere i problemi di una distribuzione ibrida](https://go.microsoft.com/fwlink/p/?LinkId=271040).
   
 ### <a name="managing-a-hybrid-configuration"></a>Gestione di una configurazione ibrida
 
-You can modify an existing hybrid configuration by changing settings in the Hybrid Configuration Wizard. Scenarios include disabling centralized transport or disabling secure mail transport.
+È possibile modificare una configurazione ibrida esistente modificando le impostazione della configurazione guidata ibrida. Gli scenari possibili includono la disattivazione del trasporto centralizzato o del trasporto della posta sicura.
   
 Per ulteriori informazioni sulla gestione della configurazione di una distribuzione ibrida, vedere [Gestire una distribuzione ibrida](https://go.microsoft.com/fwlink/p/?LinkId=271044).
   

@@ -25,13 +25,13 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
 > [!TIP]
 > Per ulteriori informazioni sui limiti in Exchange Online, vedere [limiti di Exchange Online](../exchange-online-service-description/exchange-online-limits.md). I limiti delle regole di trasporto si applicano anche ai clienti EOP autonomi. I limiti relativi alla frequenza di destinatari e di messaggi validi in Exchange Online non sono invece applicabili per i clienti che utilizzano EOP in uno scenario autonomo. 
   
-- **Domain limit** You can add up to 900 domains per tenant. Subdomains can be included in this 900 limit, or if necessary, as part of a catch-all option, match subdomains. For more information, see [Manage Accepted Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **Limite dominio** È possibile aggiungere fino a 900 domini per tenant. I sottodomini possono essere inclusi nello stesso limite o, se necessario, come parte di un'opzione generale, adatta a tutti i sottodomini. Per ulteriori informazioni, vedere [Gestione domini accettati in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
     
 - **Limite dimensioni messaggio** Per i clienti che utilizzano EOP in uno scenario autonomo, la dimensione massima dei messaggi è 150 MB, inclusi gli allegati. 
     
-- **Number of outbound messages sent** The limit for the number of outbound messages sent through EOP is high enough to ensure that normal email communication is not treated as spam. If you want to send commercial bulk email messages, rather than sending outbound messages through EOP, we recommend that you either use a third-party email service provider (ESP) or send them through your on-premises email servers. 
+- **Numero di messaggi in uscita inviati** Il limite relativo al numero di messaggi in uscita inviati tramite EOP è sufficientemente alto da garantire che le comunicazioni di posta elettronica normali non vengano gestite come posta indesiderata. Se si desidera inviare messaggi di posta elettronica in blocco a scopo commerciale, anzichè tramite EOP, è consigliabile inviarli tramite un provider di servizi di posta elettronica di terze parti oppure tramite i server di posta elettronica locali. 
     
-- **Recipient limit** As long as the sending host can split the message into "chunks" of fewer than 500 recipients, no explicit limit is defined. However, each "chunk" is effectively treated as a new message. Too many messages in a short period, messages from a host with a poor reputation, or messages with questionable content could be throttled or blocked. 
+- **Limite destinatari** Finché l'host che effettua l'invio è in grado di dividere il messaggio in "blocchi" di meno di 500 destinatari, non viene definito nessun limite esplicito. Tuttavia, ogni "blocco" viene considerato come un nuovo messaggio. Un numero eccessivo di messaggi in un breve periodo di tempo, i messaggi provenienti da un host con una reputazione dubbia o i messaggi con un contenuto discutibile potrebbero essere limitati o bloccati. 
     
 - **Limite elenco IP consentiti o IP non consentiti** Quando si configura un elenco indirizzi IP consentiti o un elenco indirizzi IP non consentiti nel filtro di connessione, è possibile specificare un massimo di 1273 voci (una voce può essere un singolo indirizzo IP o un intervallo CIDR di indirizzi IP compresi tra 24 e 32). 
     
@@ -39,7 +39,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
     
 - **Periodo di conservazione della quarantena della posta indesiderata** Per impostazione predefinita, i messaggi di posta indesiderata inviati alla quarantena vengono conservati per 30 giorni. Gli amministratori possono ridurre tale valore tramite i criteri di filtro del contenuto. 
     
-- **End-user spam quarantine notifications** By default, if enabled, end-user spam quarantine notifications are sent every 3 days. They can be configured to be sent every 1 to 15 days. 
+- **Notifiche di quarantena della posta indesiderata dell'utente finale** Per impostazione predefinita, se abilitata, le notifiche di quarantena della posta indesiderata dell'utente finale vengono inviate ogni 3 giorni. Possono essere configurate per essere inviate a intervalli da 1 o 15 giorni. 
     
 - **Creazione di report e limiti di traccia dei messaggi** Per i limiti relativi alla creazione di rapporti e alla traccia dei messaggi, vedere "Reporting and Message Trace Data Availability and latence" nella sezione [Reporting and Message Trace in Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     

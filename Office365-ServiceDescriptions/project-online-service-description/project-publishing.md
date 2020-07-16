@@ -26,7 +26,7 @@ Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [
   
 ## <a name="create-a-project-site"></a>Creare un sito di progetto
 
-If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
+Se utilizzi Project Web App, puoi condividere un progetto con altri utenti creando un nuovo sito in SharePoint o eseguendo la sincronizzazione con un sito esistente. Il sito condividerà le attività del progetto come un elenco di attività di SharePoint. Per ulteriori informazioni, vedi [Sincronizzazione con SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
   
 ## <a name="master-projects-on-sharepoint"></a>Progetti principali in SharePoint
 
@@ -46,7 +46,7 @@ Salvare un progetto in una raccolta documenti di SharePoint per condividerlo con
   
 ## <a name="task-list-sync-to-sharepoint"></a>Sincronizzazione dell'elenco attività in SharePoint
 
-After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+Dopo aver associato un progetto a un elenco attività di SharePoint per la prima volta, puoi mantenere attiva la sincronizzazione con l'elenco di attività mentre aggiorni il progetto. Durante la sincronizzazione vengono conservate le relazioni stabilite in precedenza tra attività, attività cardine e mapping dei campi (incluse le note). Per accedere alle attività, non è necessario che i membri del tuo team abbiano installato Project Professional 2013. Per ulteriori informazioni, vedi [Sincronizzazione con un elenco attività di SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

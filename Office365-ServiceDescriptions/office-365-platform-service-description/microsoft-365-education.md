@@ -96,7 +96,7 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |System Center Endpoint Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Includes Exchange Online Plan 1 plus supplemental features. <br/>
+> <sup>1</sup> Include Exchange Online Piano 1 e caratteristiche aggiuntive.<br/>
 > <sup>2</sup> Include Exchange Online Piano 2. <br/>
 > <sup>3</sup> Include SharePoint Online Piano 1 e caratteristiche aggiuntive. <br/>
 > <sup>4</sup> Include SharePoint Online Piano 2. <br/>

@@ -35,7 +35,7 @@ Per ulteriori informazioni, vedere [Configurare la posta elettronica su un Black
 
 È possibile utilizzare BlackBerry® Internet Service (BIS) per connettere gli smartphone BlackBerry 7 e versioni precedenti a Exchange Online. BIS consente agli utenti di BlackBerry di accedere ai propri account di posta elettronica via Internet tramite IMAP o POP.
   
-Most mobile operators have BIS set up. End users will need to configure email, calendar, and contacts synchronization by using the instructions in the following Knowledge Base articles:
+La maggior parte degli operatori lo hanno configurato, gli utenti finali dovranno configurare la sincronizzazione di posta elettronica, calendario e contatti usando le istruzioni incluse nei seguenti articoli della Knowledge Base:
   
 - [KB31310 - Servizi BlackBerry Internet Service e Microsoft Office 365](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
@@ -44,7 +44,7 @@ Most mobile operators have BIS set up. End users will need to configure email, c
 - [KB22430: come attivare o disattivare la sincronizzazione dei contatti wireless con BlackBerry Internet Service](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
-> Users who connect to their accounts using IMAP or POP connections can synchronize their email only by using a wireless connection. For information about how BIS users can use a wired connection to synchronize the contacts and calendar between their BlackBerry smartphones and their accounts, contact BlackBerry support. 
+> Gli utenti che connettono i propri account tramite connessioni IMAP o POP possono sincronizzare la propria posta elettronica solo tramite una connessione wireless. Per informazioni su come gli utenti BIS possono sincronizzare i contatti e il calendario tra i propri smartphone BlackBerry e i propri account con una connessione via cavo, contattare il supporto per BlackBerry. 
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Smartphone BlackBerry con SharePoint Online
 

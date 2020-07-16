@@ -21,13 +21,13 @@ ms.locfileid: "45132700"
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archiviazione di cassette postali di Exchange Online
 
-Exchange Online mailboxes reside in the cloud, and archiving them requires unique hosting environments. In some cases, Exchange Online can also be used to archive on-premises mailboxes in the cloud. The options for archiving with Exchange Online are described in this section.
+Le cassette postali di Exchange Online risiedono nel cloud e la loro archiviazione richiede ambienti host univoci. In alcuni casi, è possibile utilizzare Exchange Online per archiviare le cassette postale locali nel cloud. In questa sezione vengono descritte le opzioni per l'archiviazione in Exchange Online.
   
 Exchange Online dispone di funzionalità di archiviazione integrate per le cassette postali basate su cloud, tra cui un Archivio in locale che consente agli utenti di archiviare comodamente i messaggi di posta elettronica meno recenti. Un archivio sul posto è un tipo speciale di cassetta postale che viene visualizzata accanto alle cartelle principali delle cassette postali di un utente in Outlook e Outlook sul Web. Gli utenti possono accedere all'archivio ed effettuarvi ricerche esattamente come fanno per le cassette postali principali. Le funzionalità disponibili dipendono dal client in uso:
   
 - **Outlook 2016, outlook 2013, outlook 2010 e Outlook sul Web** Gli utenti possono accedere alle funzionalità complete dell'archivio, nonché alle relative funzionalità di conformità, come il controllo sui criteri di conservazione e archiviazione. 
     
-- **Outlook 2007** Users have basic support for the In-Place Archive, but not all archiving and compliance features are available. For example, users cannot apply retention or archive policies to mailbox items and must rely on administrator-provisioned policies instead. 
+- **Outlook 2007** Gli utenti dispongono di un supporto base per l'Archivio in locale e non tutte le funzionalità di archiviazione e conformità sono disponibili. Ad esempio, gli utenti non possono applicare i criteri di archiviazione o conservazione agli elementi di una cassetta postale e devono avvalersi invece dei criteri stabiliti dall'amministratore. 
     
 Gli amministratori utilizzano l'interfaccia di amministrazione di Exchange o Windows PowerShell remoto per abilitare la funzionalità di archiviazione personalizzata per specifici utenti.
   
@@ -43,12 +43,12 @@ Ciascun archivio personale può contenere i dati di messaggistica di un solo ute
   
 > [!IMPORTANT]
 > - L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Microsoft si riserva il diritto di negare l'archiviazione illimitata nei casi in cui un archivio di cassette postali non viene utilizzato in uno scenario personale o in altri casi di utilizzo inappropriato.
-> - In-Place Archive has specific licensing requirements for Outlook users. Outlook 2007 users must have the Office 2007 Cumulative Update for February 2011 to access the personal archive. 
+> - L'archivio locale presenta specifici requisiti di licenza per gli utenti di Outlook. Gli utenti di Outlook 2007 devono disporre dell'aggiornamento cumulativo di Office 2007 del febbraio 2011 per poter accedere all'archivio personale. 
 > - Exchange Online non supporta il cmdlet _New-MailboxImportRequest_ di Windows PowerShell di exchange server 2010 Service Pack 1 o versioni successive per l'importazione guidata dall'amministratore dei file PST in un archivio personale. Se un utente dispone sia della cassetta postale principale sia dell'archivio in Exchange Online, un amministratore può utilizzare PST Capture, uno strumento gratuito, per importare i dati dei file pst nella cassetta postale principale o nell'archivio dell'utente.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archiviazione basata su cloud delle cassette postali locali
 
-Using Exchange Online for cloud-based archiving of on-premises Exchange Server 2010 or later mailboxes is possible with Microsoft Exchange Online Archiving, a hosted archiving solution from Microsoft. This requires that the on-premises organization be in Hybrid mode or be set up for Exchange Online Archiving.
+L'utilizzo di Exchange Online per l'archiviazione su cloud di cassette postali locali di Exchange Server 2010 o versioni successive è possibile tramite Archiviazione Microsoft Exchange Online, una soluzione di archiviazione su host fornita da Microsoft. Ciò richiede che l'organizzazione locale sia in modalità ibrida oppure sia impostata per l'archiviazione Exchange Online.
   
 > [!IMPORTANT]
 > Gli utenti che dispongono di una cassetta postale locale su un server cassette postali Exchange 2010 e per i quali sono applicati i criteri per le cartelle gestite non possono avere un Archivio in locale o su cloud abilitato. 
@@ -59,11 +59,11 @@ Exchange Online fornisce dei criteri di conservazione che consentono alle organi
   
 In Exchange Online, gli amministratori gestiscono i criteri di conservazione tramite l'interfaccia di amministrazione di Exchange o tramite Windows PowerShell remoto.
   
-Exchange Online offers two types of policies: archive policies and delete policies. Both types can be combined on the same item or folder. For example, a user can tag an email message to be automatically moved to the In-Place Archive in a specified number of days and deleted after another span of days.
+Exchange Online fornisce due tipi di criteri: i criteri di archiviazione e i criteri di eliminazione. Entrambi i tipi di criteri possono essere combinati nello stesso elemento o nella stessa cartella. Ad esempio, un utente può assegnare un tag a un messaggio di posta elettronica in modo che il messaggio venga automaticamente spostato dopo un dato numero di giorni ed eliminato dopo un ulteriore numero di giorni.
   
 Con Outlook 2010 o versioni successive e Outlook sul Web, gli utenti possono applicare i criteri di conservazione alle cartelle, alle conversazioni o ai singoli messaggi. Possono altresì visualizzare i criteri di conservazione applicati e le date di eliminazione previste per i messaggi. Gli utenti di altri client di posta elettronica possono solo eliminare o archiviare i propri messaggi di posta elettronica sulla base dei criteri di conservazione definiti dall'amministratore sul server.
   
-The retention policy capabilities offered in Exchange Online are the same as those offered in Exchange Server 2010 Service Pack 2 RU4. Administrators can use remote Windows PowerShell to migrate retention policies from on-premises Exchange Server 2010 or later environments to Exchange Online.
+I criteri di conservazione disponibili Exchange Online sono gli stessi disponibili in Exchange Server 2010 Service Pack 2 RU4. Gli amministratori possono utilizzare Windows PowerShell in remoto per migrare i criteri di conservazione dagli ambienti Exchange Server 2010 in locale o versioni successive a Exchange Online.
   
 > [!IMPORTANT]
 > Le cartelle gestite, che rappresentano il precedente metodo di gestione dei record di messaggistica introdotto in Exchange Server 2007, non sono più disponibili in Exchange Online. 
@@ -94,13 +94,13 @@ La crittografia avanzata dei messaggi di Office 365 fornisce ulteriore protezion
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 
-S/MIME allows you to help protect sensitive information by sending signed and encrypted email within your organization. Administrators can use remote Windows PowerShell to set up S/MIME after establishing and issuing PKI certificates to users. These certificates must be synchronized from an on-premises Active Directory Certificate Service.
+S/MIME consente di proteggere le informazioni riservate inviando messaggi di posta elettronica firmati e crittografati all'interno dell'organizzazione. Gli amministratori possono utilizzare Windows PowerShell in remoto per configurare S/MIME dopo aver stabilito e rilasciato i certificati PKI agli utenti. Tali certificati devono essere sincronizzati da un servizio certificati Active Directory locale.
   
 S/MIME è supportato in Microsoft Edge e Internet Explorer 11. Al momento, S/MIME non è supportato su Firefox, Opera e Chrome. Per ulteriori informazioni, vedere [S/MIME per la funzionalità di firma e crittografia dei messaggi](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Archiviazione sul posto e conservazione per controversia legale
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+In presenza di un ragionevole rischio di controversia, le organizzazioni sono tenute a conservare le informazioni in forma elettronica, inclusi i messaggi pertinenti al caso. Questa aspettativa può divenire realtà prima che siano note le specifiche del caso, richiedendo pertanto una conservazione ad ampio spettro. Le organizzazioni possono conservare tutti i messaggi di posta elettronica relativi a uno specifico argomento oppure tutti i messaggi di posta elettronica di determinati individui.
   
 In Exchange Online, è possibile utilizzare Conservazione in locale o Conservazione per controversia legale per raggiungere i seguenti obiettivi:
   
@@ -131,13 +131,13 @@ Per ulteriori informazioni, vedere [Conservazione in locale](https://docs.micros
 
 Exchange Online consente ai clienti di eseguire ricerche nei contenuti delle cassette postali in un'organizzazione tramite un'interfaccia basata sul Web. Gli amministratori o i responsabili di conformità e protezione autorizzati a eseguire ricerche eDiscovery in locale (mediante assegnazione) possono effettuare ricerche nei messaggi di posta elettronica, negli allegati, negli appuntamenti sul calendario, nelle attività, nei contatti e in altri elementi. La ricerca eDiscovery in locale può essere eseguita simultaneamente negli archivi e nelle cassette postali primarie. Tra gli efficienti filtri disponibili ci sono quelli per mittente, destinatario, tipo di messaggio, data di invio/ricezione e Cc/Bcc, oltre a quelli per la sintassi KQL. I risultati della ricerca includono anche gli elementi contenuti nella cartella Posta eliminata, se soddisfano i criteri di ricerca specificati.
   
-Results of In-Place eDiscovery searches can be previewed in the web-based interface, exported to a PST file or copied to a special type of mailbox called a Discovery mailbox. A Discovery mailbox has a 50 GB quota for storing search results. Administrators can also connect Outlook to the Discovery mailbox to access search results, and export the search results to a .pst file.
+I risultati delle ricerche eDiscovery in locale possono essere visualizzati in anteprima in un'interfaccia basata sul Web, esportati in un file PST oppure copiati in una particolare cassetta postale detta "cassetta postale di individuazione". Una cassetta postale di individuazione ha una quota di 50 GB per l'archiviazione dei risultati della ricerca. Gli amministratori possono connettere Outlook alla cassetta postale di individuazione per accedere ai risultati della ricerca ed esportarli come file .pst.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform multi-mailbox searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox.
+Gli amministratori utilizzano l'interfaccia di amministrazione di Exchange o Windows PowerShell remoto per effettuare ricerche in più cassette postali. L'interfaccia di amministrazione di Exchange è in grado di fornire un'anteprima di sola lettura dei risultati della ricerca, permettendo agli amministratori di verificarli e, se necessario, di eseguire di nuovo la ricerca con altri parametri. Una volta ottimizzata la ricerca, l'amministratore può copiare i risultati nella cassetta postale di individuazione.
   
-By default, one Discovery mailbox is created for each organization, but administrators can create additional Discovery mailboxes using remote Windows PowerShell. Discovery mailboxes cannot be used for any purpose other than storing In-Place eDiscovery search results.
+Per impostazione predefinita, viene creata una cassetta postale di individuazione per ciascuna organizzazione, ma gli amministratori possono creare altre cassette postali di individuazione utilizzando Windows PowerShell in remoto. Le cassette postali di individuazione possono essere utilizzate solo per archiviare i risultati delle ricerche eDiscovery in locale.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform In-Place eDiscovery searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox or export search results to a PST file.
+Gli amministratori utilizzano l'interfaccia di amministrazione di Exchange o Windows PowerShell remoto per effettuare ricerche eDiscovery in locale. L'interfaccia di amministrazione di Exchange è in grado di fornire un'anteprima di sola lettura dei risultati della ricerca, permettendo agli amministratori di verificarli e, se necessario, di eseguire di nuovo la ricerca con altri parametri. Una volta ottimizzata la ricerca, l'amministratore può copiare i risultati nella cassetta postale di individuazione o esportarli in un file PST.
   
 Gli amministratori possono utilizzare l'interfaccia di amministrazione di Exchange o Windows PowerShell remoto per cercare fino a 10.000 cassette postali alla volta in una ricerca eDiscovery sul posto. 
   
@@ -155,7 +155,7 @@ Per ulteriori informazioni, vedere [eDiscovery in locale](https://docs.microsoft
 
 È possibile utilizzare le regole del flusso di posta per cercare condizioni specifiche sui messaggi che passano attraverso l'organizzazione e agiscono su di essi. Le regole del flusso di posta consentono di applicare i criteri di messaggistica ai messaggi di posta elettronica, garantire messaggi, proteggere i sistemi di messaggistica e impedire la perdita di informazioni.
   
-Many organizations today are required by law, regulatory requirements, or company policies to apply messaging policies that limit the interaction between recipients and senders, both inside and outside the organization. In addition to limiting interactions among individuals, departmental groups inside the organization, and entities outside the organization, some organizations are also subject to the following messaging policy requirements:
+Molte organizzazioni sono oggi obbligate dalla legge, dai requisiti normativi e dai criteri aziendali ad applicare i criteri di messaggistica per limitare l'interazione tra destinatari e mittenti, sia all'interno sia all'esterno dell'organizzazione. Oltre a limitare le interazioni tra singoli utenti, gruppi di reparto all'interno dell'organizzazione ed entità esterne all'organizzazione, alcune organizzazioni sono soggette anche ai seguenti requisiti dei criteri di messaggistica:
   
 - Blocco di contenuto inappropriato in entrata o in uscita dall'organizzazione
     
@@ -188,7 +188,7 @@ La funzionalità di prevenzione della perdita dei dati consente di identificare,
     
 - Rilevare le informazioni riservate negli allegati dei messaggi, nel testo del corpo o nelle linee degli oggetti e modificare il livello di probabilità a cui agiscono Exchange Online.
     
-- Detect sensitive form data by using Document Fingerprinting. Document Fingerprinting helps you easily create custom sensitive information types based on text-based forms that you can use to define transport rules and DLP policies.
+- I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale del documento facilita la creazione di tipi di informazione sensibili personalizzate basate su moduli di testo utilizzabili per definire le regole di trasporto e i criteri DLP.
     
 - Aggiungere suggerimenti per i criteri, che possono contribuire a ridurre la perdita di dati visualizzando un avviso per Outlook 2016, Outlook 2013, Outlook sul Web e OWA per i dispositivi degli utenti e può anche migliorare l'efficacia dei criteri consentendo la creazione di report falsi positivi. 
     
@@ -198,9 +198,9 @@ Per ulteriori informazioni sulla prevenzione della perdita dei dati (DLP), veder
   
 ## <a name="journaling"></a>Inserimento nel journal
 
-You can configure Exchange Online to journal copies of emails to any external mailbox that can receive messages via SMTP. Journaling can help your organization respond to legal, regulatory, and organizational compliance requirements by recording inbound and outbound email communications. When planning for messaging retention and compliance, it's important to understand journaling and how it fits in with your organization's compliance policies.
+È possibile configurare Exchange Online in modo che inserisca le copie di messaggi di posta elettronica nel journal di una cassetta postale esterna in grado di ricevere i messaggi tramite SMTP. La creazione del journal consente alle organizzazioni di soddisfare i requisiti di conformità legale, normativa e organizzativa registrando le comunicazioni di posta elettronica in entrata e in uscita. Quando si pianifica un sistema per garantire la conservazione e la conformità dei messaggi, è fondamentale avere ben chiaro il concetto di inserimento in un journal ed essere in grado di adattarlo ai criteri di conformità dell'organizzazione.
   
-You can manage journal rules by using the Exchange admin center or remote Windows PowerShell. You can configure journaling on a per-user and per-distribution list basis, and choose to journal only internal messages, only external messages, or both. Journaled messages include not only the original message but also information about the sender, recipients, copies, and blind copies.
+È possibile gestire le regole del journal utilizzando l'interfaccia di amministrazione di Exchange oppure Windows PowerShell remoto. È possibile configurare l'inserimento nel journal in base all'utente e in base alla lista di distribuzione e scegliere di inserire nel journal solo i messaggi interni, solo i messaggi esterni oppure entrambi. I messaggi inseriti nel journal sono costituiti non soltanto dal messaggio originale, ma anche dalle informazioni su mittente, destinatario, CC e CC nascosti.
   
 Per garantire una soluzione di inserimento nel journal corretta e affidabile, è necessario completare le attività seguenti:
   
