@@ -22,7 +22,7 @@ Le seguenti funzionalità di Reporting e business intelligence sono disponibili 
   
 ## <a name="odata-feeds"></a>Feed OData
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+I feed OData abilitano le query REST e una serie di raccolte client OData per creare entrambe le query di segnalazione dei dati da un'istanza di Project Web App. Ad esempio, è possibile utilizzare direttamente una query REST nel Web browser oppure utilizzare JavaScript per creare app Web e client per dispositivi mobili, tablet, PC e computer Mac. Per ulteriori informazioni, vedere l'articolo [Riferimento al servizio OData di Project 2013](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Dashboard predefinita del portfolio
 
@@ -30,5 +30,5 @@ I report ricchi e fuori campo sono stati pensati per essere immediatamente utili
   
 ## <a name="project-desktop-reporting"></a>Creazione di report per Project desktop
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+La creazione di report in Project desktop consente di creare e personalizzare report visivamente accattivante di qualsiasi tipo di dati, senza dover utilizzare altri software. Per ulteriori informazioni, vedere [Creare un report sul progetto](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
   

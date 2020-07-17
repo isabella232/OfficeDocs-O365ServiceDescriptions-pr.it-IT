@@ -30,11 +30,11 @@ Consente di gestire i costi del progetto.
   
 ## <a name="manage-nonworking-time"></a>Gestire i giorni non lavorativi
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Consente di aggiungere festività, giorni di ferie, permessi per malattia e altri giorni non lavorativi nella pianificazione del progetto. Per ulteriori informazioni, vedere [Aggiunta di giorni di vacanza al progetto](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Livellamento delle risorse
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+Quando le persone coinvolte al progetto lavorano su molte assegnazioni contemporaneamente, è possibile regolarle automaticamente. Questa caratteristica è nota come livellamento delle risorse. Vedere [Livellamento assegnazioni risorse](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Visualizzazioni dell'elenco e dell'uso delle risorse
 
@@ -50,7 +50,7 @@ Aggiungere risorse al progetto del team, ad esempio risorse materiali come compu
   
 ## <a name="work-generic-and-material-resources"></a>Risorse lavoro, generiche e materiale
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+Consente di aggiungere risorse al progetto come le risorse di lavoro, ad esempio impiegati, risorse generiche come carpentieri e risorse materiali come computer e cemento. Vedere [Immettere i costi delle apparecchiature e altre risorse costo](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

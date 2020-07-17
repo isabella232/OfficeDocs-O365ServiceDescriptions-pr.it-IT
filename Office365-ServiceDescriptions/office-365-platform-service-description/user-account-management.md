@@ -140,7 +140,7 @@ Quando si utilizzano identità cloud, le password vengono generate automaticamen
     
 - Per aumentare la sicurezza, gli utenti devono modificare le password al primo accesso ai servizi Microsoft. Di conseguenza, prima che gli utenti possano accedere ai servizi Microsoft, devono eseguire l'accesso all'interfaccia di amministrazione di Microsoft 365, in cui viene richiesto di modificare la password.
     
-- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- Gli amministratori possono impostare il criterio di scadenza per le password. Per ulteriori informazioni, vedere [Impostazione di criteri di scadenza della password per l'utente](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
     
 Sono disponibili numerosi strumenti per la reimpostazione delle password per gli utenti con identità cloud:
   
@@ -172,7 +172,7 @@ SharePoint Online utilizza i gruppi di sicurezza per controllare l'accesso ai si
   
 ## <a name="administrator-roles"></a>Ruoli di amministratore
 
-Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Office 365 Enterprise e utilizza un modello di controllo dell'accesso basato su ruoli: le autorizzazioni e le funzionalità sono definite dai ruoli di gestione. La persona che si iscrive a Office 365 per la propria organizzazione diventa automaticamente un amministratore globale, o di livello superiore. Ci sono cinque ruoli di amministratore: amministratore globale, amministratore fatturazione, amministratore password, amministratore del servizio e amministratore di gestione utenti. Per ulteriori informazioni sui ruoli amministratore in Office 365 Enterprise, inclusa la modalità di registrazione per l'amministrazione di Exchange Online, SharePoint Online e Skype for Business online, vedere [Assegnazione di ruoli di amministratore](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Assegnazione di ruoli di amministratore in Office 365 per le aziende](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Amministrazione delegata e supporto per i partner
 
@@ -183,7 +183,7 @@ I partner possono essere autorizzati ad amministrare account per conto dei clien
   
 ## <a name="azure-active-directory-services"></a>Servizi di Azure Active Directory
 
-Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) offre funzionalità complete di gestione dell'identità e dell'accesso a Office 365. Unisce servizi di directory, governance d'identità avanzata, gestione degli accessi all'applicazione e una piattaforma basata su standard compositi per sviluppatori. Per ulteriori informazioni sulle funzionalità di AD in Office 365, vedere [Personalizzazione della pagina di accesso e ripristino autonomo della password](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Altre informazioni sulle [ versioni Free Basic e Premium di Azure Active Directory ](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

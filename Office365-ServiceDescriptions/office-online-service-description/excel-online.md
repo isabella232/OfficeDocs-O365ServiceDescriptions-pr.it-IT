@@ -38,7 +38,7 @@ Aggiungere un colore di riempimento di sfondo alle schede del foglio nella parte
 
 ## <a name="add-hyperlinks"></a>Aggiunta dei collegamenti ipertestuali
 
-Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
+Consente di creare un collegamento alle pagine Web o di aprire i file sul Web aggiungendo un collegamento ipertestuale in una cella. È possibile digitare l'indirizzo Web direttamente nella cella oppure utilizzare il comando Inserisci collegamento ipertestuale.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>Tipi di dati avanzati: scorte e geografia
 
@@ -46,7 +46,7 @@ Link to web pages or open files on the web by adding a hyperlink in a cell. You 
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
+Il controllo Sequenza temporale consente di filtrare i dati creati. È un sistema per visualizzare e modificare un intervallo continuo di date, nonché per filtrare gli oggetti basati su pivot, quali tabelle e grafici pivot.  
   
 ## <a name="alignment"></a>Allineamento
 
@@ -70,11 +70,11 @@ Excel per il Web può completare ciò che si sta digitando in una cella e, se es
   
 ## <a name="autosum"></a>Somma automatica
 
-Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
+È possibile ottenere la somma di una colonna o una riga di numeri selezionando le celle desiderate e facendo doppio clic su Somma automatica. Il risultato viene visualizzato nella successiva cella vuota.
   
 ## <a name="calculations"></a>Calcoli
 
-You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
+È possibile utilizzare Excel per eseguire una serie di calcoli manuali, automatici e iterativi. Excel utilizza funzionalità per eseguire questi calcoli. Per ulteriori informazioni, vedere [Funzioni di Excel (in base alla categoria)](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>Riferimenti di cella nelle formule
 
@@ -137,7 +137,7 @@ Dropbox è un servizio di hosting dei file che offre l'archiviazione sul cloud, 
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Incorporare la cartella di lavoro in una pagina Web o in un Blog (OneDrive)
 
-If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
+Se si archivia una cartella di lavoro OneDrive.com, è possibile incorporarla direttamente in un blog o in un sito Web. I lettori possono ordinare, filtrare e calcolare i dati direttamente nella pagina e, se la cartella viene aggiornata in OneDrive, potranno visualizzare le modifiche più recenti al successivo aggiornamento della pagina. Ulteriori informazioni su come [incorporare una cartella di lavoro Excel in un blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>Riferimenti esterni (collegamenti)
 
@@ -193,7 +193,7 @@ Le idee in Excel consentono di comprendere i dati tramite riassunti visivi di al
   
 ## <a name="insert-charts"></a>Insert charts
 
-Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
+Creare un grafico per rappresentare visivamente i dati. È possibile scegliere tra diversi tipi di grafici, quali istogramma, a linee, a torta o a barre. Ulteriori informazioni sui [tipi di grafici disponibili](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -221,7 +221,7 @@ Non è possibile creare intervalli denominati in Excel per il Web, ma è possibi
 
 ## <a name="number-formatting"></a>Formattazione dei numeri
 
-Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
+Modificare il formato dei numeri. Scegliere un formato (ad esempio, Valuta o Data in cifre) da un elenco di formati, cambiare il numero di decimali o inserire un separatore per le migliaia.
   
 ## <a name="office-add-ins"></a>Componenti aggiuntivi di Office
 
@@ -253,7 +253,7 @@ Utilizzare il comando Print in Excel per il Web per inviare l'intero foglio di l
   
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
-Two or more people can work in the same spreadsheet at the same time by opening it in their web browser instead of in the Excel desktop app. Real-time presence helps you see where your co-authors are working in the document so that you don't create conflicts as you edit, and you can see changes as they're being made. For more information about real-time co-authoring, see [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793).
+Due o più persone possono lavorare contemporaneamente sullo stesso foglio di calcolo aprendolo nel browser Web invece che nell'app desktop Excel. La presenza in tempo reale consente all'utente di verificare il lavoro dell'altro utente sul documento. In questo modo, non si creano conflitti quando vengono apportate modifiche ed è possibile visualizzare le modifiche man mano che vengono eseguite. Per ulteriori informazioni sulla visualizzazione in tempo reale delle modifiche al contenuto condiviso, vedere [Collaborare alle cartelle di lavoro di Excel con la creazione condivisa](https://go.microsoft.com/fwlink/?linkid=850793).
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Creazione e modifica consigliate dei grafici con i comandi di formattazione
 
@@ -285,7 +285,7 @@ Non disponibile in Excel per il Web. Se sul computer è installata l'app desktop
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
+Se si desidera una copia della cartella di lavoro, utilizzare il comando Salva con nome nella scheda File oppure fare clic con il pulsante destro del mouse sul nome della cartella che la contiene e utilizzare il comando Download per salvare una copia sul proprio computer.
 
 ## <a name="sensitivity-labels"></a>Etichette di riservatezza
 

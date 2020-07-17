@@ -30,11 +30,11 @@ Consente di riportare o riepilogare in un'unica riga i dati di previsione. Per u
   
 ## <a name="budget-planning"></a>Pianificazione del budget
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+La pianificazione del budget consente di confrontare lo stato di avanzamento del progetto rispetto a un valore di riferimento definito all'inizio del progetto. Per ulteriori informazioni, vedere [Analisi del costo realizzato](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>Confronto delle versioni di un progetto
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+Consente di confrontare due versioni di un progetto. Viene creato un report che mostra le modifiche apportate, ad esempio l'aggiunta di nuove attività.
   
 ## <a name="deadlines"></a>Scadenze
 

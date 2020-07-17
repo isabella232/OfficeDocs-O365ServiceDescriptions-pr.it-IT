@@ -24,9 +24,9 @@ Microsoft Exchange Online offre un supporto di conservazione e ripristino estens
   
 ## <a name="mailbox-replication-at-data-centers"></a>Replica delle cassette postali presso i data center
 
-Exchange Online mailboxes are continuously replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a local messaging infrastructure failure. For large-scale failures, service continuity management procedures are initiated.
+Le cassette postali di Exchange Online vengono continuamente replicate con copie inserite in diversi database, residenti in data center Microsoft geograficamente distribuiti, che ne consentono il ripristino in caso di danneggiamento di un'infrastruttura di messaggistica locale. Per problemi su vasta scala, vengono avviate le procedure di gestione della continuità del servizio.
   
-For more information about how Microsoft protects your data, see [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). If you are using Office 365 operated by 21Vianet, see the [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+Per ulteriori informazioni su come Microsoft protegge i dati dei clienti, visitare il [Centro protezione di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Se si utilizza Office 365 gestito da 21Vianet, vedere [Centro protezione di 21Vianet](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Recupero di cassette postali eliminate
 
@@ -38,9 +38,9 @@ Exchange Online consente agli utenti di ripristinare gli elementi che sono stati
   
 Dopo la rimozione di un elemento dalla cartella Posta eliminata, questa viene conservata in una cartella elementi ripristinabili per altri 14 giorni prima di essere rimossa definitivamente, ma gli amministratori possono aumentare questo valore fino a un massimo di 30 giorni utilizzando Windows PowerShell remoto. Gli utenti possono recuperare l'elemento durante questo periodo di tempo utilizzando la funzionalità Recupera elementi eliminati in Outlook sul Web o Outlook. Informazioni su come [modificare il periodo di conservazione degli elementi eliminati](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
-If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same time period by using the Single Item Recovery feature with remote Windows PowerShell. By default, Single Item Recovery is enabled when a mailbox is created. To learn more, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+Se un utente ha rimosso manualmente un elemento dalla cartella Elementi recuperabili, un amministratore è in grado di recuperare quell'elemento entro lo stesso periodo tramite la funzionalità di recupero di un singolo elemento con Windows PowerShell remoto. Per impostazione predefinita, il ripristino di un singolo elemento viene abilitato quando viene creata una cassetta postale. Per ulteriori informazioni, vedere [Abilitare o disabilitare il ripristino di un singolo elemento per una cassetta postale](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
-To preserve messages for longer than 30 days in the Recoverable Items folder, organizations can implement longer-term email preservation or time-based In-Place Holds. Learn more about [placing a mailbox on In-Place Hold](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+Per conservare i messaggi per più di 30 giorni nella cartella Elementi recuperabili, le organizzazioni possono implementare un periodo di tempo più lungo per la conservazione della posta elettronica o per l'archiviazione a tempo sul posto. Ulteriori informazioni su [sull'attivazione della conservazione in locale per una cassetta postale](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

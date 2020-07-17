@@ -124,7 +124,7 @@ PowerPoint per il Web viene avviato da un Web browser e si basa su una connessio
   
 ## <a name="picture-cropping"></a>Ritaglio immagine
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+Migliorare il frame di un oggetto in un'immagine con lo strumento ritaglio foto. È sufficiente fare clic su uno dei quadratini di ritaglio sul bordo dell'immagine e trascinarlo fino a raggiungere l'effetto desiderato.
   
 ## <a name="pictures"></a>Immagini
 
@@ -172,7 +172,7 @@ Non è possibile inserire Word Art and Charts in PowerPoint per il Web, ma Power
   
 ## <a name="share"></a>Condividi
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+Se viene salvata in una raccolta di documenti di SharePoint, la presentazione è online ed è possibile condividerla inviando un collegamento invece di un allegato di posta elettronica. Gli utenti che dispongono delle autorizzazioni appropriate possono visualizzarla nel browser o su un dispositivo mobile. Ulteriori informazioni sulla [condivisione di una presentazione](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Slide show
 

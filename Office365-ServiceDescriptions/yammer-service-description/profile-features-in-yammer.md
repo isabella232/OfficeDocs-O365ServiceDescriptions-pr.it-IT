@@ -28,7 +28,7 @@ Accedere all'intera organizzazione per trovare gli esperti necessari. Poiché l'
 
 ## <a name="leaderboards"></a>Classifica ufficiale
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+Identifica i colleghi influenti della rete. Nelle classifiche ufficiali vengono visualizzate le persone con più messaggi, più messaggi con risposta e con Mi piace.
 
 ## <a name="member-directory"></a>Directory Membri
 

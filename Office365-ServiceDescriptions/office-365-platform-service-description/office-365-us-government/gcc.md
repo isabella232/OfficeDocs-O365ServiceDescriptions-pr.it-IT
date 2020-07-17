@@ -20,7 +20,7 @@ ms.locfileid: "45131740"
 
 Per soddisfare i requisiti univoci e in evoluzione dei governi federale, statale, locale e tribale degli Stati Uniti, nonché i contraenti che detengono o elaborano dati per conto del governo statunitense, Microsoft offre servizi di Office 365 US Government community (GCC). Disponibili attraverso più canali che includono i contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, sono disponibili versioni di prova solo per gli enti governativi degli Stati Uniti. 
   
-Please engage your account team or preferred partner to learn more, or initiate the validation process. Additional information can be found on the [Compare Office 365 Government Plans](https://products.office.com/government/compare-office-365-government-plans) page. 
+È opportuno invitare il team degli account o il proprio partner preferito a informarsi ulteriormente in merito oppure ad avviare la procedura di convalida. Ulteriori informazioni sono disponibili sulla pagina [Piani di Office 365 Government](https://products.office.com/government/compare-office-365-government-plans). 
   
 ## <a name="how-to-use-this-service-description-section"></a>Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio
 
@@ -28,7 +28,7 @@ La descrizione del servizio Office 365 US Government è progettata per essere ut
   
 ## <a name="us-government-community-compliance"></a>Conformità della US Government Community
 
-Office 365 US Government supports the Federal Risk and Authorization Management Program (FedRAMP) accreditation at a Moderate Impact level. FedRAMP artifacts are available for review by federal customers who are required to comply with FedRAMP. Federal agencies can review these artifacts in support of their review to grant an Authority to Operate (ATO).
+Office 365 US Government supporta il riconoscimento Federal Risk and Authorization Management Program (FedRAMP) ad un livello di impatto moderato. Elementi FedRAMP sono disponibili per revisioni da parte dei clienti federali che devono ottemperare al FedRAMP. Agenzie federali possono revisionare questi elementi in accordo al permesso garantito da un Authority to Operate (ATO).
   
 Office 365 US Government supporta anche la SRG (Security Requirements Guide) relativa al cloud computing del Dipartimento della Difesa degli Stati Uniti d'America per i sistemi di livello 2 (informazioni non classificate controllate). 
   
@@ -56,7 +56,7 @@ Il personale Office 365 non ha un accesso diretto ai contenuti dei clienti ospit
   
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government Community e Yammer
 
-Yammer Enterprise is not a component of Office 365 US Government, but may be acquired at no cost as a standalone offer for each user licensed for Office 365 US Government Plan E1 and E3. This offer is currently limited to customers who purchase Office 365 US Government under Enterprise Agreement and Enterprise Subscription Agreements. 
+Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 US Government Piano E1 ed E3. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 US Government con i contratti Enterprise Agreement ed Enterprise Subscription. 
   
 Attualmente, Yammer fornisce la separazione logica dei dati clienti a livello di applicazione. Tuttavia, Yammer non fornisce le stesse funzionalità di allocazione dei dati e di accesso ai dati di Office 365 US Government, non supporta riconoscimenti FedRAMP ed è soggetto a differenti termini contrattuali rispetto ai servizi di Office 365. Si consiglia di esaminare la descrizione del [servizio Yammer](../../yammer-service-description/yammer-service-description.md) e i termini di privacy quando si valuta l'utilizzo appropriato di Yammer per l'organizzazione. Per informazioni sui piani per enti pubblici di Office 365 che includono Yammer, vedere [Office 365 US Government](office-365-us-government.md).
   
@@ -64,7 +64,7 @@ Se si ritiene che Yammer sia lo strumento giusto per la propria organizzazione, 
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 US Government Community e MyAnalytics
 
-MyAnalytics is designed and operated in accordance with the FedRAMP control implementation for Office 365 services, but has not yet been reviewed by a 3PAO as part of the Office 365 annual FedRAMP audit. If necessary, please consult with your compliance office before enabling MyAnalytics services for users in your organization.
+MyAnalytics è progettato e gestito secondo l'implementazione del controllo FedRAMP per i servizi Office 365, ma non è stato ancora sottoposto alla revisione di un'organizzazione 3PAO come parte del controllo FedRAMP annuale di Office 365. Se necessario, consultare l'ufficio responsabile della conformità prima di abilitare i servizi MyAnalytics per gli utenti nella propria organizzazione.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Supporto ai clienti di Office 365 US Government community Cloud (GCC)
 

@@ -34,11 +34,11 @@ GCC High e DoD rispettano i requisiti di conformità previsti per le certificazi
     
 - I controlli di sicurezza e i miglioramenti del controllo per la United States Department of Defense Cloud Computing Security Requirements Guide (SRG) in merito alle informazioni con livello di impatto massimo pari a 5 (L5).
     
-Department of Defense subscribers to Office 365 will receive services provided from the DOD exclusive environment that meets DOD SRG L5. Non-Department of Defense subscribers will receive services from the US Government Defense environment which is assessed at L5, but uses L4 segmentation.
+Gli abbonati a Office 365 che fanno capo al Dipartimento della Difesa potranno usare i servizi offerti dall'ambiente esclusivo del Dipartimento che rientra nel DOD SRG L5. Gli abbonati che non fanno capo al Dipartimento della Difesa potranno ricevere i servizi dall'ambiente del Dipartimento della Difesa valutati L5 ma che utilizzano la segmentazione L4.
   
 ## <a name="background-screening"></a>Screening del background
 
-Office 365 staff do not have standing access to GCC High and DoD production. Any staff who request temporary permission elevation which would grant access to customer content must first have passed the following background checks.
+Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per GCC High e DoD. Qualsiasi membro del personale che richiede l'elevazione dei privilegi temporanea per ottenere l'accesso ai contenuti dei clienti prima deve aver superato i controlli di background riportati di seguito.
   
 |||
 |:-----|:-----|

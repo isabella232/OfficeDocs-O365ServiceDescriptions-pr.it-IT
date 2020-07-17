@@ -70,13 +70,13 @@ Supporto tecnico per le sottoscrizioni Microsoft 365 fornisce assistenza per l'i
   
 ### <a name="technical-support-case-handling"></a>Gestione delle richieste di supporto tecnico
 
-Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+Quando una richiesta di assistenza viene aperta, Microsoft le assegna un livello di gravità basato su una valutazione del tipo di problema e dell'impatto sul cliente. Nella seguente tabella sono riportati esempi dei tipi di problemi e dei livelli di gravità.
   
 |**Livello di gravità**|**Operazioni e descrizione del supporto**|**Esempi**|
 |:-----|:-----|:-----|
-|Gravità A (critico)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Problemi diffusi con l'invio o la ricezione della posta.  <br/>  Sito di SharePoint non attivo.  <br/>  Tutti gli utenti non possono inviare messaggi istantanei, partecipare o pianificare riunioni Skype for Business oppure effettuare chiamate Skype for Business.  <br/> |
-|Gravità B (alto)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Il pulsante Invia in Outlook non viene visualizzato.  <br/>  Non è possibile configurare le impostazioni in Interfaccia di amministrazione di Exchange (EAC), ma è possibile farlo in PowerShell.  <br/> |
-|Gravità C (non critico)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | Come impostare la password utente in modo che non scada mai.  <br/>  L'utente non può eliminare le informazioni sul contatto in Exchange Online.  <br/> |
+|Gravità A (critico)  <br/> |Uno o più servizi non sono accessibili o sono inutilizzabili. La tempistica a livello di produzione, operatività o sviluppo ne risente notevolmente oppure infuisce negativamente sulla produzione o sulla redditività. Sono coinvolti più utenti o servizi.  <br/> | Problemi diffusi con l'invio o la ricezione della posta.  <br/>  Sito di SharePoint non attivo.  <br/>  Tutti gli utenti non possono inviare messaggi istantanei, partecipare o pianificare riunioni Skype for Business oppure effettuare chiamate Skype for Business.  <br/> |
+|Gravità B (alto)  <br/> |Il servizio è utilizzabile, ma presenta dei problemi. La situazione ha un impatto moderato sull'attività e può essere gestita durante l'orario di ufficio. È parzialmente coinvolto un singolo utente, un cliente o un servizio.  <br/> | Il pulsante Invia in Outlook non viene visualizzato.  <br/>  Non è possibile configurare le impostazioni in Interfaccia di amministrazione di Exchange (EAC), ma è possibile farlo in PowerShell.  <br/> |
+|Gravità C (non critico)  <br/> |La situazione ha un impatto minimo sull'attività. Il problema è importante, ma non ha un effetto significativo sul servizio o sulla produttività corrente dell'utente. Un singolo utente lamenta un'interruzione parziale del servizio, ma esiste una soluzione alternativa accettabile.  <br/> | Come impostare la password utente in modo che non scada mai.  <br/>  L'utente non può eliminare le informazioni sul contatto in Exchange Online.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>Tempo di risposta iniziale del supporto tecnico
 
@@ -105,7 +105,7 @@ A seconda del paese e della lingua, i tecnici dell'assistenza sono disponibili d
   
 ## <a name="shared-support-responsibilities"></a>Responsabilità condivisa per il supporto
 
-Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
+Microsoft sa che ricevere un supporto tecnico tempestivo da personale qualificato è un aspetto fondamentale dei servizi su cloud. Altrettanto importante è il ruolo svolto dal reparto IT del cliente per il supporto degli utenti che vi fanno riferimento.
   
 ### <a name="administrator-role-and-responsibilities"></a>Responsabilità e ruolo dell'amministratore
 
@@ -131,7 +131,7 @@ Il ruolo di amministratore consiste nel:
 
 - Utilizzare le risorse per il supporto self-service di Microsoft per risolvere i problemi di supporto.
 
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
+L'amministratore deve fornire assistenza iniziale agli utenti del cliente. Tuttavia, se l'amministratore non è in grado di risolvere i problemi con l'aiuto delle risorse per il supporto self-service, deve contattare [Supporto tecnico](support.md#technical-support).
   
 ### <a name="microsoft-support-role"></a>Ruolo di supporto di Microsoft
 
@@ -177,7 +177,7 @@ Sono disponibili diversi tipi di servizi di supporto aggiuntivi:
 
 ### <a name="partners"></a>Partner
 
-You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+È possibile selezionare un partner Microsoft a cui delegare le funzioni amministrative, inclusa la creazione di richieste di assistenza. Per ulteriori informazioni, vedere la descrizione del servizio [Partner](partners.md) e [Aggiunta, modifica o rimozione di un partner con il ruolo di consulente della sottoscrizione](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
   
 ### <a name="developers"></a>Sviluppatori
 

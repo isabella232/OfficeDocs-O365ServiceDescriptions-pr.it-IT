@@ -42,7 +42,7 @@ La parola per il Web Salva automaticamente il documento quando si apportano modi
   
 ## <a name="autotext"></a>Glossario
 
-You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
+È possibile inserire blocchi di testo preformattato utilizzando Glossario dalla raccolta voci di glossario. Questa operazione è utile, ad esempio, quando è necessario immettere ripetutamente lo stesso grande blocco di testo e il testo contiene molti elementi di formattazione. L'utente crea voci di glossario aggiungendo il testo selezionato alla raccolta voci di glossario. Per ulteriori informazioni, vedere [Inserire automaticamente il testo](https://go.microsoft.com/fwlink/?linkid=846739).
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
@@ -70,11 +70,11 @@ Non disponibile in Word per il Web. Le funzionalità di collaborazione avanzata,
   
 ## <a name="content-controls"></a>Controlli contenuto
 
-Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+I controlli contenuto sono singoli controlli che è possibile aggiungere e personalizzare per l'uso nei modelli, moduli e documenti. Per ulteriori informazioni sui controlli contenuto, vedere [Controlli contenuto](https://go.microsoft.com/fwlink/p/?LinkId=846741).
   
 ## <a name="cover-pages"></a>Frontespizi
 
-Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
+Microsoft Word offre una pratica raccolta di frontespizi predefiniti. Basta scegliere un frontespizio e sostituire il testo di esempio con quello dell’utente.
   
 ## <a name="creation-of-advanced-document-elements"></a>Creazione di elementi di documenti avanzati
 
@@ -86,7 +86,7 @@ Non disponibile in Word per il Web. Parti e temi del documento, quali controlli 
   
 ## <a name="document-translation"></a>Traduzione di documenti
 
-Translate documents directly in the browser. Even document comments are translated.
+Tradurre i documenti direttamente nel browser. Persino i commenti dei documenti vengono tradotti.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -126,7 +126,7 @@ Con Word per il Web, è possibile creare facilmente collegamenti ai segnalibri a
   
 ## <a name="index"></a>Indice
 
-An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
+Un indice elenca i termini e gli argomenti trattati in un documento, insieme alle pagine in cui sono visualizzati. Per creare un indice, contrassegnare le voci di indice fornendo il nome della voce principale e il riferimento incrociato nel documento, quindi procedere alla generazione dell'indice.
   
 ## <a name="ink-editor"></a>Editor input penna
 
@@ -184,7 +184,7 @@ Con Word per il Web, è possibile ridimensionare le immagini e aggiungere testo 
   
 ## <a name="preformatted-font-and-color-schemes"></a>Schemi di carattere e colore preformattati
 
-You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
+È possibile utilizzare i temi per semplificare il processo di creazione di documenti corrispondenti e dall'aspetto professionale. I temi possono essere applicati a tabelle, grafici, forme e diagrammi per fornire tipi di carattere, effetti e combinazioni di colori coerenti.
   
 ## <a name="present-online"></a>Presentazione online
 
@@ -212,7 +212,7 @@ Non disponibile in Word per il Web. Gli strumenti di correzione avanzati, quali 
   
 ## <a name="reference-tools"></a>Strumenti di riferimento
 
-Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
+Bibliografia, sommari e indici vengono visualizzati come previsto nella modalità di visualizzazione. Nella modalità di modifica, vengono visualizzati come segnaposto che è possibile eliminare, ma non modificare o aggiornare. Gli strumenti di riferimento avanzati, quali quelli per creare bibliografie, sommari, indici o indice delle fonti sono disponibili solo nell'app desktop Word.
   
 ## <a name="rendering-of-text-boxesshapes"></a>Rendering di caselle di testo/forme
 
@@ -260,7 +260,7 @@ Non disponibile in Word per il Web. È possibile visualizzare una tabella di aut
   
 ## <a name="tap"></a>Tocco
 
-Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
+Utilizzare la funzionalità di tocco per individuare e riutilizzare il contenuto. La funzionalità di tocco rende visibili i file rilevanti usati più di frequente, consentendo di concentrarsi sulla creazione di documenti, anziché cercare file e informazioni. Per ulteriori informazioni, vedere come [trovare e usare i contenuti necessari](https://go.microsoft.com/fwlink/?linkid=825878).
   
 ## <a name="tell-me"></a>Dimmi
 
@@ -284,7 +284,7 @@ Con Word per il Web, è possibile inserire, modificare o eliminare i commenti in
   
 ## <a name="watermarks"></a>Filigrane
 
-Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
+Le filigrane sono testo o immagini dietro il testo del documento. Ad esempio, è possibile aggiungere filigrane di testo come Bozza o Riservato. In Word è possibile scegliere tra una raccolta di filigrane oppure creare una filigrana personalizzata, ad esempio un logo aziendale per il documento.  
   
 ## <a name="word-count"></a>Conteggio parole
 

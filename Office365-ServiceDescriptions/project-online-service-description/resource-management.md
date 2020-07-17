@@ -22,15 +22,15 @@ In Project online sono disponibili le seguenti funzionalità di gestione delle r
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Approvazione/rifiuto/modifica delle richieste di impegno delle risorse in arrivo
 
-You can accept, reject, or modify incoming resource requests based on the overall resource view. For details, see [Accept or reject an engagement request](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
+È possibile accettare, rifiutare oppure modificare le richieste in arrivo dalle risorse, sulla base della vista generale delle risorse. Per maggiori dettagli, vedere [Accettare o rifiutare una richiesta di impegno](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
   
 ## <a name="manage-resource-pool"></a>Gestione del pool di risorse
 
-Manage an enterprise resource pool - both by individual and in bulk. For more information, see [Add a resource to Project web app](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) and [Add or update enterprise resources using an external data file](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
+Gestire un pool di risorse dell'organizzazione sia a livello individuale che di gruppo. Per ulteriori informazioni, vedere [Aggiungere una risorsa a Project Web App](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) e [Aggiungere o aggiornare risorse dell'organizzazione usando un file di dati esterno](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
   
 ## <a name="plan-resource-capacity"></a>Pianificazione della capacità risorse
 
-When you need to know if resources are overbooked, you can use the Capacity Planning view in the Resource Center to compare how many hours a resource is able to put in versus how many hours they're needed on projects. For details, see [Evaluate resource capacity](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
+Per sapere se le risorse sono sovraprenotate, è possibile utilizzare la vista Pianificazione della capacità all'interno del Centro risorse per confrontare il numero di ore in cui una risorsa è disponibile e il numero di ore che dovrebbe dedicare ai progetti. Per informazioni, vedere [Valutare la capacità delle risorse](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
   
 ## <a name="request-resource-agreements"></a>Richiesta contratti risorse
 

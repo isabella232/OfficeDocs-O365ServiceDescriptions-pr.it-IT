@@ -24,7 +24,7 @@ In Yammer sono disponibili le seguenti funzionalità della piattaforma Yammer.
  
 ## <a name="activity-stream-api"></a>API del flusso di attività
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+Integrare le applicazioni aziendali esistenti aggiungendo dati al grafico sociale. Scoprire le attività che avvengono tra tutte le applicazioni aziendali esistenti.
   
 ## <a name="browser-extension"></a>Estensione del browser
 
