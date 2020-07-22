@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 5586505bc7d4269fefa2d8c96d626ffc872afeea
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132990"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201570"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -103,7 +103,7 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 |**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Cassette postali utente|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |Archiviazione delle cassette postali<sup>7, 8</sup>|50 GB|50 GB|50 GB|Numero illimitato<sup>1</sup>|Numero illimitato<sup>1</sup>|Non disponibile<sup>4</sup>|
-|Cassette postali condivise<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2, 9</sup>|50 GB<sup>2, 9</sup>|50 GB<sup>2</sup>|
+|Cassette postali condivise<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50 GB<sup>2</sup>|
 |Cassette postali per le risorse|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3, 9</sup>|50 GB<sup>3, 9</sup>|50 GB<sup>3</sup>|
 |Cassette postali del sito<sup>5</sup>|50 GB|50 GB|50 GB|50 GB|50 GB|Non disponibile|
 |Cassette postali delle cartelle pubbliche|50 GB<sup>6</sup>|50 GB<sup>6</sup>|50 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|Non disponibile|

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137562"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201552"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -341,6 +341,26 @@ Per impostazione predefinita, le funzionalità PAM sono abilitate a livello di t
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 I clienti possono gestire PAM per ogni singolo utente tramite il gruppo di approvatori e i criteri di accesso, che possono essere applicati agli utenti con licenza. Per ulteriori informazioni, vedere [gestione degli accessi con privilegi in Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+
+## <a name="double-key-encryption-for-microsoft-365"></a>Crittografia a chiave doppia per Microsoft 365 
+
+La crittografia a doppio tasto per Microsoft 365 consente di proteggere i dati altamente riservati per soddisfare i requisiti specializzati e mantenere il controllo completo della chiave di crittografia. La crittografia a chiave doppia utilizza due tasti per proteggere i dati, con una chiave nel controllo e la seconda chiave archiviati in modo sicuro Microsoft Azure. Per visualizzare i dati, è necessario avere accesso a entrambe le chiavi. Poiché Microsoft può accedere a un solo tasto, la chiave e anche i dati non sono disponibili per Microsoft, garantendo di avere il controllo completo sulla privacy e la sicurezza dei dati.
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Gli utenti traggono vantaggio dalla crittografia a chiave doppia tramite la possibilità di migrare i dati crittografati nel cloud e impedire l'accesso di terze parti purché la chiave resti in controllo degli utenti. Gli utenti finali possono proteggere e utilizzare il doppio contenuto crittografato con la chiave simile a qualsiasi altro contenuto protetto da un'etichetta di riservatezza.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
+
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5 e Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio dalla crittografia a chiave doppia.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+La crittografia a chiave doppia supporta la versione desktop di Microsoft Office per Windows.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+Per assegnare le chiavi di crittografia ai dati all'interno di un'organizzazione di Office 365 e/o Microsoft 365 per gli utenti con licenza, seguire le istruzioni per la distribuzione di crittografia a chiave doppia.
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Prevenzione della perdita dei dati di Office 365 per Exchange Online, SharePoint Online e OneDrive for business
 
