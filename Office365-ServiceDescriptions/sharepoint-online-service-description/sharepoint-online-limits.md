@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e piani autonomi.
-ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154364"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229642"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -24,7 +24,7 @@ Informazioni sui limiti di servizio in SharePoint per Microsoft 365.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Caratteristica** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Microsoft 365 E3 o E5, Office 365 Enterprise E1, E3 o E5 oppure SharePoint piano 1 o 2** <br/> | **Microsoft 365 F1 o F3, Office 365 Enterprise F3** <br/> |
+|**Caratteristica** <br/> |**Microsoft 365 Business Basic, business standard o Business Premium** <br/> |**Microsoft 365 E3 o E5, Office 365 Enterprise E1, E3 o E5 oppure SharePoint piano 1 o 2** <br/> | **Microsoft 365 F1 o F3, Office 365 Enterprise F3** <br/> |
 |Spazio di archiviazione totale per ogni organizzazione<sup>1, 2, 6</sup> <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup>  <br/> |1 TB più 10 GB per licenza acquistata<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Spazio di archiviazione massimo per sito (raccolta siti)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Siti (raccolte siti) per ogni organizzazione  <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<br/> |
@@ -83,7 +83,7 @@ La copia o lo spostamento di più file in una singola operazione ha tre requisit
 
 ### <a name="sharepoint-groups"></a>Gruppi di SharePoint
 
-Un utente può appartenere a gruppi di 5.000 e ogni gruppo può avere fino a 5.000 utenti. È possibile disporre di un massimo di 10.000 gruppi per sito (raccolta siti).
+Un utente può appartenere a 5.000 gruppi per sito (raccolta siti) e ogni gruppo può avere fino a 5.000 utenti. È possibile disporre di un massimo di 10.000 gruppi per sito (raccolta siti).
 
 > [!NOTE]
 > Per i limiti dei gruppi di Azure AD, vedere [limiti e limitazioni del servizio di Azure ad](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) in quanto tali limiti possono influire sulla gestione dell'appartenenza dei siti del gruppo pubblico e privato. 
