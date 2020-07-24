@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium è una soluzione integrata che unisce la produttività ottimale con funzionalità avanzate di sicurezza e gestione dei dispositivi per proteggere la propria azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201556"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388112"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrizione del servizio Microsoft 365 Business Premium
 
@@ -73,19 +73,19 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |User CAL (Licenza di accesso da parte dell'utente) di Microsoft Identity Manager (MIM)  <br/> |No  <br/> |Sì<sup>9</sup>  <br/> |Sì  <br/> |
 |Connect Health  <br/> |No  <br/> |Sì<sup>9</sup>  <br/> |Sì  <br/> |
 |Contratto di servizio del 99,9%  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Gestione di dispositivi e applicazioni](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium include funzionalità di Intune complete per iOS, Android, Mac OS e altre gestione dei dispositivi Cross-Platform. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Gestione dei dispositivi mobili di Intune (MDM) per PC, Mac e dispositivi mobili<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Registrazione automatica di Gestione di dispositivi mobili (MDM)  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Gestione delle applicazioni mobili di Intune per le app di Office e le app LOB<br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Gestione di Windows Update, protezione, criteri firewall<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Protezione dei dati: cancellazione selettiva  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Targeting del gruppo di sicurezza (SG) per i criteri  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Installazione delle app di Office su dispositivi Windows 10 registrati  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Configurazione di Windows Defender  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Distribuzione dei profili dispositivo e della configurazione di sicurezza<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Enterprise State Roaming per Windows 10 con aggiunta ad Azure AD  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Ripristino di BitLocker in modalità self-service  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Desktop virtuale Windows <br/> |No <br/> |Sì <br/> |Sì <br/> |
+|[Gestione di dispositivi e applicazioni](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium include funzionalità di Intune complete per iOS, Android, Mac OS e altre gestione dei dispositivi Cross-Platform. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
+|Gestione dei dispositivi mobili di Intune (MDM) per PC, Mac e dispositivi mobili<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |
+|Registrazione automatica di Gestione di dispositivi mobili (MDM)  <br/> |No  <br/> |Sì  <br/> |
+|Gestione delle applicazioni mobili di Intune per le app di Office e le app LOB<br/> |No  <br/> |Sì  <br/> |
+|Gestione di Windows Update, protezione, criteri firewall<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |
+|Protezione dei dati: cancellazione selettiva  <br/> |Sì  <br/> |Sì  <br/> |
+|Targeting del gruppo di sicurezza (SG) per i criteri  <br/> |No  <br/> |Sì  <br/> |
+|Installazione delle app di Office su dispositivi Windows 10 registrati  <br/> |No  <br/> |Sì  <br/> |
+|Configurazione di Windows Defender  <br/> |No  <br/> |Sì  <br/> |
+|Distribuzione dei profili dispositivo e della configurazione di sicurezza<sup>5</sup> <br/> |No  <br/> |Sì  <br/> |
+|Enterprise State Roaming per Windows 10 con aggiunta ad Azure AD  <br/> |No  <br/> |Sì  <br/> |
+|Ripristino di BitLocker in modalità self-service  <br/> |No  <br/> |Sì  <br/> |
+|Desktop virtuale Windows <br/> |No <br/> |Sì <br/> |
 
 |||
 |:-----|:-----|

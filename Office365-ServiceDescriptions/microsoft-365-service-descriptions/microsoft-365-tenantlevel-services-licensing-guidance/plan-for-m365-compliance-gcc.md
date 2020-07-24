@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 650a4131e7d028222d46d48a1d7304363acd6167
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1e172588c21c15bd0422edb12d5024764f56ead7
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132460"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388102"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità a Microsoft 365 – GCC
 
@@ -75,7 +75,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Criteri consigliati                            | In ingegneria backlog |
 |                                         | Filtri di importazione intelligenti                            | In ingegneria backlog |
 |                                         | Conservazione basata su eventi                           | Disponibili              |
-|                                         | Revisione della disposizione                              | Disponibili              |
+|                                         | Revisione per l'eliminazione                              | Disponibili              |
 |                                         | Barriere informative                            | Disponibili              |
 |                                         | Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica  | Disponibili              |
 |                                         | DLP per la chat di team e le conversazioni dei canali    | In ingegneria backlog |
@@ -89,29 +89,29 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Customer Lockbox                                | Disponibili              |
 |                                         | Customer Key                                    | Disponibili              |
 |                                         | Gestione accessi con privilegi                    | In ingegneria backlog |
-| **Scoprire & rispondere**                  | Prenotazione sul posto                            | Disponibili              |
-|                                         | Gestione dei casi                                 | Disponibili              |
-|                                         | Ricerca                                          | Disponibili              |
-|                                         | Esportazione                                          | Disponibili              |
-|                                         | Decrittografia RMS                                  | Disponibili              |
-|                                         | Esportazione nativa                                   | Disponibili              |
-|                                         | Controllo                                        | Disponibili              |
-|                                         | Elaborazione avanzata                             | In ingegneria backlog |
-|                                         | Threading posta elettronica                                 | In ingegneria backlog |
-|                                         | Quasi identificazione duplicata                   | In ingegneria backlog |
-|                                         | Temi                                          | In ingegneria backlog |
-|                                         | Codifica predittiva                               | In ingegneria backlog |
-|                                         | Esportazione elaborata con il file di carico                 | In ingegneria backlog |
-|                                         | Aggiunta di tag                                         | In ingegneria backlog |
-|                                         | Visualizzatori                                         | In ingegneria backlog |
-|                                         | Redazioni                                      | In ingegneria backlog |
-|                                         | Filtro                                       | In ingegneria backlog |
-|                                         | Mapping del custode al carico di lavoro                   | In ingegneria backlog |
-|                                         | Comunicazioni del custode                        | In ingegneria backlog |
-|                                         | Set di Revisione                                     | In ingegneria backlog |
-|                                         | Esaminare e annotare                             | In ingegneria backlog |
-|                                         | Ingestione non Office 365                        | In ingegneria backlog |
-|                                         | Rapporto termini di ricerca                              | In ingegneria backlog |
+| **Scoprire & rispondere**                  | EDiscovery Core: conservazione sul posto                            | Disponibili              |
+|                                         | EDiscovery di base: gestione dei casi                                 | Disponibili              |
+|                                         | EDiscovery Core: ricerca                                          | Disponibili              |
+|                                         | EDiscovery Core: Export                                          | Disponibili              |
+|                                         | EDiscovery Core: decrittografia RMS                                  | Disponibili              |
+|                                         | EDiscovery di base: esportazione nativa                                   | Disponibili              |
+|                                         | EDiscovery di base: controllo                                        | Disponibili              |
+|                                         | Advanced eDiscovery: elaborazione avanzata                             | Disponibili |
+|                                         | Advanced eDiscovery: Threading della posta elettronica                                 | Disponibili |
+|                                         | Advanced eDiscovery: identificazione quasi duplicata                   | Disponibili |
+|                                         | Advanced eDiscovery: temi                                          | Disponibili |
+|                                         | Advanced eDiscovery: codifica predittiva                               | Disponibili |
+|                                         | Advanced eDiscovery: esportazione elaborata con il file di carico                 | Disponibili |
+|                                         | Advanced eDiscovery: tagging                                         | Disponibili |
+|                                         | Advanced eDiscovery: visualizzatori                                         | Disponibili |
+|                                         | Advanced eDiscovery: redazioni                                      | Disponibili |
+|                                         | Advanced eDiscovery: filtro                                       | Disponibili |
+|                                         | Advanced eDiscovery: mapping del custode al carico di lavoro                   | Disponibili |
+|                                         | Advanced eDiscovery: comunicazioni del custode                        | Disponibili |
+|                                         | Advanced eDiscovery: set di Revisione                                     | Disponibili |
+|                                         | Advanced eDiscovery: esaminare e annotare                             | Disponibili |
+|                                         | Advanced eDiscovery: ingestione non Office 365                        | Disponibili |
+|                                         | Advanced eDiscovery: rapporto termini di ricerca                              | Disponibili |
 
 <sup>1</sup> lo stato identificato è soggetto a modifiche man mano che i piani di progetto e le priorità vengono rivalutati.<br/>
 <sup>2</sup> l'applicazione manuale delle etichette richiede la [versione 1 del client di Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
