@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201570"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501715"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -491,6 +491,11 @@ L'elenco seguente include limiti che si applicano alle regole del Journal, alle 
 |Limite di inoltri|10 destinatari|10 destinatari|10 destinatari|10 destinatari|10 destinatari|10 destinatari|
 |Numero di reindirizzamenti di un messaggio|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
 |Numero di volte in cui un messaggio viene reindirizzato dalle regole di trasporto|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
+|Numero di reindirizzamenti di un messaggio|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
+|Regola di posta in arrivo|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|
+
+> [!NOTE]
+> <sup>1</sup> se una cassetta postale è stata migrata a Exchange Online, il limite della regola di posta in arrivo può essere impostato sul valore inferiore al valore Exo predefinito. In tal caso, il valore può essere aumentato seguendo questo argomento. 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limiti delle regole di Journal, trasporto e posta in arrivo nelle opzioni autonome
 
