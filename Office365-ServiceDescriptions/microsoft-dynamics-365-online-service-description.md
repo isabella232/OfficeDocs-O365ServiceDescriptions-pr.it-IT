@@ -10,104 +10,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
-description: A partire dall’aggiornamento di dicembre 2016 per Dynamics 365 (online e locale), la funzionalità Dynamics CRM è ora inclusa come parte di 365 Dynamics, una famiglia di applicazioni di business intelligence. Dynamics 365 unisce le funzionalità di Customer Relationship Management (CRM) e Enterprise Resource Planning (ERP) offrendo nuove applicazioni che consentono di gestire specifiche funzioni aziendali.
-ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Dynamics 365 unisce le funzionalità di Customer Relationship Management (CRM) e Enterprise Resource Planning (ERP) tramite una serie di applicazioni che consentono di gestire le funzioni aziendali e di ottenere risultati eccezionali.
+ms.openlocfilehash: 032d2a1d11390b1c6a3b6f8c439ad6ac956ec1e4
+ms.sourcegitcommit: 4b17f7f6c04dee202bb8b391badb6fdcba5b8dde
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132450"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46505774"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Descrizione del servizio Microsoft Dynamics 365 (online)
+# <a name="microsoft-dynamics-365-service-description"></a>Descrizione del servizio Microsoft Dynamics 365
 
-A partire dall’aggiornamento di dicembre 2016 per Dynamics 365 (online e locale), la funzionalità Dynamics CRM è ora inclusa come parte di 365 Dynamics, una famiglia di applicazioni di business intelligence. Dynamics 365 unisce le funzionalità di Customer Relationship Management (CRM) e Enterprise Resource Planning (ERP) offrendo nuove applicazioni che consentono di gestire specifiche funzioni aziendali.
-  
-Queste applicazioni includono:
-  
-- Dynamics 365 for Sales
-    
-- Dynamics 365 for Customer Service
-    
-- Dynamics 365 for Field Service
-    
-- Dynamics 365 for Project Service Automation
-    
-- Dynamics 365 for Operations
-    
-- Dynamics 365 Financials
-    
-Per ulteriori informazioni sulle caratteristiche di Dynamics 365, vedere [Microsoft Dynamics 365](https://www.microsoft.com/dynamics365/home). 
+Dynamics 365 unisce le funzionalità di Customer Relationship Management (CRM) e Enterprise Resource Planning (ERP) tramite una serie di applicazioni che consentono di gestire specifiche funzioni aziendali e di ottenere risultati ottimali attraverso intuizioni predittive e AI-driven.
+
+Per ulteriori informazioni sulle app Dynamics 365, vedere [Microsoft dynamics 365](https://dynamics.microsoft.com).
   
 ## <a name="dynamics-365-plans"></a>Piani di 365 Dynamics
 
-Dynamics 365 offre due edizioni: Enterprise e Business. All'interno di queste due edizioni, sono disponibili diversi piani appositamente progettati per soddisfare i modelli di utilizzo e le esigenze delle organizzazioni grandi e piccole. Le applicazioni sono disponibili anche singolarmente.
-  
-Per ulteriori informazioni sulle caratteristiche di Dynamics 365, vedere [Microsoft Dynamics 365](https://www.microsoft.com/dynamics365/home).
-  
-## <a name="application-availability-across-dynamics-365-plans"></a>Disponibilità delle applicazioni tra i piani di 365 Dynamics
+Dynamics 365 dispone di diversi piani disponibili appositamente per soddisfare i modelli di utilizzo e le esigenze delle organizzazioni grandi e piccole. Anche le app Dynamics 365 sono disponibili singolarmente.
 
-Nella tabella seguente sono elencate tutte le applicazioni di Dynamics 365 e la relativa disponibilità tra i piani Enterprise e Business. Per informazioni specifiche sui prezzi, le licenze, i diritti utente e altro ancora, vedere il seguente download: [Dynamics 365 Licensing Guide (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
-  
-|||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Applicazioni** <br/> |**Enterprise piano 1** <br/> |**Enterprise piano 2** <br/> |**Enterprise per uso in team<sup>1</sup>** <br/> |**Business Edition, uso completo<sup>2</sup>** <br/> |**Business Edition per membri del team<sup>3</sup>** <br/> |
-|[Dynamics 365 for Sales](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_sales) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
-|[Dynamics 365 for Customer Service ](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_customerservice) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
-|[Dynamics 365 for Field Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_fieldservice) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
-|[Dynamics 365 for Project Service Automation](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_projservautomation) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
-|[Dynamics 365 per Operations](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_operations)<sup>4</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |
-|[Microsoft PowerApps with Flow](https://ms.flow.microsoft.com/documentation/connection-dynamics365/) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|[Dynamics 365 Financials](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_financials) <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-   
-> <br/><sup>1</sup> Uso leggero: include l'accesso in lettura e in parte l'accesso in scrittura per determinate attività leggere tra tutte le app di Dynamics 365 Enterprise Edition. 
-<br/><sup>2</sup> Ogni licenza per uso completo include una licenza professionale per contabilità esterna per la connessione sicura con il proprio contabile tramite il cloud.
- <br/><sup>3</sup> Utilizzo leggero: include l'accesso in lettura e in parte l'accesso in scrittura per determinate attività in tutte le app di Dynamics 365 Business Edition. 
-<br/><sup>4</sup> Include Manufacturing and Supply Chain, Retail and Commerce e Finance. 
-  
-## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Confronto di licenza di abbonamento di Dynamics 365 per Sales, Customer Service, Field Service e Project Service Automation
-
-Di seguito viene fornito un riepilogo di alto livello dei diritti di utilizzo associati a ognuno dei cinque livelli di servizio utente. Per un confronto dettagliato, fare riferimento all' **Appendice B** del download: [Dynamics 365 Licensing Guide (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
-  
-||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-||**Membri del team** <br/> |**Sales** <br/> |**Customer Service** <br/> |**Field Service** <br/> |**Project Service Automation** <br/> |**Piano 1** <br/> |
-|**Tutti i dati di Dynamics 365 Enterprise Edition** <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |
-|**Funzionalità Dynamics 365 for Operations: registrare tempi e costi, creare richieste di acquisto, gestire preventivi, approvare tempi delle operazioni, note spese e fatture, modificare e rispondere alle richieste di informazioni, controllo qualità, ordini di assistenza** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Account e contatti, attività e note** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Knowledge Management, hub del servizio interattivo** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Registrare i tempi e costi, gestire informazioni personali, presentare domanda per progetti** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Completo  <br/> |
-|**Entità personalizzate** <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |
-|**Doppi diritti d'utilizzo per CAL Dynamics 365 equivalente (se disponibile)** <br/> |Completo  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Eseguire i flussi di lavoro e i processi su richiesta** <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |
-|**Diritti per Microsoft Project Online Essentials, Gamification Fan e Spectator** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Solo portale: inoltro casi serlf-service e avvio chat come supportee (non agente)** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |
-|**Solo portale, solo non dipendenti: aggiornare gli ordini di lavoro, creare e aggiornare le opportunità** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup>`  <br/> |
-|**Report utenti, dashboard e grafici** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Configurare report di sistema, grafici di sistema, dashboard di sistema** <br/> |Nessuno  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
-|**Lead, opportunità, obiettivi, contratti, offerte, ordini, fatture, concorrenti** <br/> |Sola lettura  <br/> |Completa  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
-|**Campagne di vendita, mini-campagne, elenchi di marketing, listini prezzi, liste prodotti** <br/> |Sola lettura  <br/> |Completa  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
-|**Unified Service Desk** <br/> |Sola lettura  <br/> |Completa  <br/> |Full  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
-|**Gestione completa dei casi, servizi, risorse (non prenotabili), ore di lavoro, strutture, attrezzature, articoli** <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |
-|**Ordini di lavoro, pianificazione e invio con bacheca di programmazione, contratti di assistenza, fatture per assistenza sul posto e ordini di acquisto, risorse del cliente, inventario, riparazioni e restituzioni** <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |Sola lettura  <br/> |Completa  <br/> |
-|**Progetto, spese e stime del progetto, visualizzazione della disponibilità delle risorse e gestione della pianificazione, listini prezzi/contratti/fatture del progetto, approvazione delle transazioni del progetto, Microsoft Project Online Premium** <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Sola lettura  <br/> |Completa  <br/> |Completo  <br/> |
-|**PowerApps** <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Full  <br/> |
-|**Social Engagement Microsoft, voce del cliente, mobile offline, giocatore e amministratore di gamification** <br/> |Nessuno  <br/> |Completo  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Creare flussi di lavoro, importazione globale di dati e personalizzazioni tra entità incluse nell'applicazione** <br/> |Nessuno  <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Sola lettura<sup>4</sup> <br/> |Completo  <br/> |
-   
- **Completo** = tutti i diritti di accesso 
-  
- **Sola lettura** = diritti di accesso limitati alla lettura 
-  
- **Nessuno** = nessun diritto di accesso 
-  
-><sup>1</sup> Entità personalizzate (basate su entità incluse in CRM oppure create da un cliente o da un partner) potrebbero richiedere una CAL (Client Access License) o USL (User Subscription License) più elevata, a seconda dell'accesso richiesto. Le personalizzazioni possono essere eseguite solo su entità incluse nei diritti di utilizzo. 
-<br/><sup>2</sup> la creazione, l'aggiornamento e l'eliminazione tramite flussi di lavoro possono essere eseguite solo con le entità incluse nei diritti di utilizzo (ad esempio, l'aggiornamento di un'opportunità richiede Sales o Plan 1). 
-<br/><sup>3</sup> nessun accesso all'interfaccia utente di Dynamics 365. La gestione dei casi e la chat possono essere inoltrate solo a nome degli utenti, come un sostenitore, non per conto di un cliente o di un altro utente. 
-<br/><sup>4</sup> La creazione di PowerApps consente di sfruttare solo i dati inclusi in una singola applicazione. 
+Per ulteriori informazioni sui piani e sui prezzi di Dynamics 365, vedere [dynamics 365 pricing](https://dynamics.microsoft.com/pricing) and [Dynamics 365 Licensing Guide (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544).
   
 ## <a name="dynamics-365-service-level-agreement"></a>Contratto di servizio di Dynamics 365
 
-Per informazioni sui termini di licenza, le condizioni e le informazioni supplementari rilevanti per l'utilizzo di prodotti e servizi concessi in licenza tramite Microsoft contratti multilicenza, vedere [Service Level Agreement for Microsoft Online Services (PDF)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
+Per informazioni sui termini di licenza, le condizioni e le informazioni supplementari rilevanti per l'utilizzo di prodotti e servizi concessi in licenza tramite Microsoft contratti multilicenza, vedere [Service Level Agreement for Microsoft Online Services (Word doc)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=17583). Per le informazioni più recenti, vedere [condizioni di licenza e documentazione](https://go.microsoft.com/fwlink/?linkid=272026).
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Intervalli dei tempi di inattività del servizio Dynamics 365
 
@@ -115,17 +40,17 @@ Gli intervalli dei tempi di inattività per il servizio 365 Dynamics sono i segu
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Categoria** <br/> |**Impatto/tempi di inattività** <br/> |**Notifica** <br/> |**Contratto operativo\*** <br/> |
+|**Categoria** <br/> |**Impatto/tempi di inattività** <br/> |**Notifica** <br/> |**Contratto di livello operativo**<sup>1</sup> <br/> |
 |Settimanale  <br/> |Nessun impatto/Nessun tempo di inattività  <br/> |Centro messaggi  <br/> |48 ore  <br/> |
 |Mensile  <br/> |Nessun impatto/Nessun tempo di inattività  <br/> |Centro messaggi  <br/> |48 ore  <br/> |
 |Aggiornamento cumulativo  <br/> |Nessun impatto/Nessun tempo di inattività  <br/> |Centro messaggi  <br/> |48 ore  <br/> |
 |Aggiornamento principale  <br/> |Programmato per il cliente e completato all'interno dell'intervallo selezionato  <br/> |Centro messaggi  <br/> |90 giorni  <br/> |
-   
-Controllare il [contratto di servizio per il download dei Microsoft Online Services (PDF)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) per le informazioni più recenti relative alle finestre di inattività del servizio. 
-  
-\* **Contratto operativo** = il tempo disponibile al team operativo per la consegna in un set di servizi definiti nel contratto di servizio. 
+
+<sup>1</sup> il tempo consentito per il team delle operazioni di recapitare in un set di servizi definito nel contratto di servizio. <br/>
+
+Controllare il [contratto di servizio per i servizi Microsoft Online (Word doc)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=17583) per informazioni relative alle finestre di inattività dei servizi. Per le informazioni più recenti, vedere [condizioni di licenza e documentazione](https://go.microsoft.com/fwlink/?linkid=272026). 
   
 ## <a name="microsoft-trust-center"></a>Centro protezione Microsoft
 
-Per informazioni sulla sicurezza, la privacy e la conformità di Dynamics 365, vedere il [Centro protezione Microsoft](https://www.microsoft.com/TrustCenter/CloudServices/Dynamics365).
+Per informazioni sulla sicurezza, la privacy e la conformità di Dynamics 365, vedere il [Centro protezione Microsoft](https://www.microsoft.com/trust-center/product-overview).
   
