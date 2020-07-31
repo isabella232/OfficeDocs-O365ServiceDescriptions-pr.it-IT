@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre la messaggistica istantanea, la collaborazione di file e dati, le chiamate audio e video, riunioni online ricche, esperienze mobili e ampie funzionalità di Web Conferencing.
-ms.openlocfilehash: 8a22154cf97031518fac99a5b7052c00e0bdb214
-ms.sourcegitcommit: 31ef23008777fe063df8c9abca75292f6991b8a2
+ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46513892"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531209"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -56,7 +56,7 @@ In questa tabella viene elencata la disponibilità delle funzionalità di Micros
 |Chat  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Teams  <br/> |Sì <br/> |Sì <br/> |Sì <br/> |Sì<sup>1</sup>  <br/> |Sì<sup>1</sup>  <br/> |Sì  <br/> |
 |Canali-standard  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Canali-privato  <br/> |Sì  <br/> |Sì<sup>2</sup>  <br/> |No  <br/> |Sì  <br/> |No <br/> |Sì  <br/> |
+|Canali-privato  <br/> |Sì  <br/> |Sì<sup>2</sup>  <br/> |Sì <br/> |No  <br/> |No <br/> |Sì  <br/> |
 |Riunioni  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Condivisione dello schermo di PowerPoint audio/video desktop <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Voce  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |

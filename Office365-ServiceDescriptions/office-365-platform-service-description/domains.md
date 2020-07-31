@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica e altri servizi nel nome dell'azienda. Al termine della procedura guidata, il messaggio di posta elettronica aziendale inizia a venire a Microsoft invece di passare al provider di posta elettronica corrente. Per ulteriori informazioni, vedere Aggiungere utenti e domini a Microsoft. Se si utilizza Office 365 gestito da 21Vianet, vedere Verificare il dominio.
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132400"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531219"
 ---
 # <a name="domains"></a>Domini
 
@@ -26,7 +26,7 @@ Quando si aggiunge un dominio, una procedura guidata dettagliata consente di agg
   
 ## <a name="custom-domains"></a>Domini personalizzati
 
-È possibile aggiungere fino a 900 domini all'abbonamento. Tuttavia, non è possibile aggiungere un dominio Office 365 che viene già utilizzato in un altro servizio cloud di Microsoft. Ciò significa che non è possibile aggiungere lo stesso dominio a più sottoscrizioni. Per ulteriori informazioni, vedere [domande frequenti sui domini](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+È possibile aggiungere fino a 900 domini all'abbonamento (inclusi i sottodomini). Non è possibile aggiungere un dominio a Microsoft 365 che si sta già utilizzando in un altro servizio cloud Microsoft. Ciò significa che non è possibile aggiungere lo stesso dominio a più sottoscrizioni. Per ulteriori informazioni, vedere [domande frequenti sui domini](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domini di secondo e terzo livello
 
