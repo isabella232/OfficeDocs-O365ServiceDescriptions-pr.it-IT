@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e piani autonomi.
-ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
-ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
+ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
+ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45229642"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560081"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -99,6 +99,9 @@ Un utente può appartenere a 5.000 gruppi per sito (raccolta siti) e ogni gruppo
 ### <a name="subsites"></a>Siti secondari 
 
 2.000 per sito (raccolta siti). Si consiglia di creare siti e di organizzarli in hub anziché in siti secondari. Se si utilizzano i siti secondari, è consigliabile limitarne il numero (in particolare in luoghi fortemente trafficati).
+
+> [!NOTE] 
+> Il limite è di 2.000 siti hub per organizzazione. Potrebbe non essere necessario un sito hub per tutte le funzioni ed è importante eseguire alcune operazioni di pianificazione prima di creare hub. Per ulteriori informazioni, vedere [Planning your SharePoint Hub sites](https://docs.microsoft.com/sharepoint/planning-hub-sites).
 
 ### <a name="sharepoint-hosted-applications"></a>Applicazioni ospitate da SharePoint
 
