@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
+ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501715"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580829"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -197,12 +197,12 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (non in attesa)|30 GB|30 GB|30 GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 GB|
 |Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (in attesa)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Avviso per numero massimo di messaggi per cartella nella cartella Elementi ripristinabili|2,75 milioni|2,75 milioni|2,75 milioni|2,75 milioni|2,75 milioni|2,75 milioni|
-|Numero massimo di sottocartelle per cartella delle cassette postali|10.000|10.000|10.000|10.000|10.000|10.000|
+|Numero massimo di sottocartelle per cartella delle cassette postali|10.000|10,000|10,000|10,000|10,000|10.000|
 |Avviso per numero di sottocartelle per cartella di cassette postali|9000|9000|9000|9000|9000|9000|
 |Massima profondità gerarchia cartella|300|300|300|300|300|300|
 |Avviso per profondità della gerarchia di cartelle|250|250|250|250|250|250|
 |Numero massimo di cartelle pubbliche| 500.000| 500.000| 500.000| 500.000| 500.000|Non disponibile|
-|Numero massimo di sottocartelle per cartella pubblica|10,000|10.000|10.000|10.000|10,000|Non disponibile|
+|Numero massimo di sottocartelle per cartella pubblica|10,000|10,000|10,000|10,000|10,000|Non disponibile|
 |Avviso per numero di sottocartelle per cartella pubblica|9000|9000|9000|9000|9000|Non disponibile|
 
 > [!NOTE]
@@ -225,8 +225,8 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Avviso per numero di sottocartelle per cartella delle cassette postali|Nessun limite|900|900|900|
 |Massima profondità gerarchia cartella|Nessun limite|300|300|300|
 |Avviso per profondità gerarchia cartella|Nessun limite|250|250|250|
-|Numero massimo di cartelle pubbliche|1,000,000|100.000|100,000|Non disponibile|
-|Numero massimo di sottocartelle per cartella pubblica|N/D|1.000|1,000|Non disponibile|
+|Numero massimo di cartelle pubbliche|1,000,000|100,000|100,000|Non disponibile|
+|Numero massimo di sottocartelle per cartella pubblica|N/D|1,000|1,000|Non disponibile|
 |Avviso per numero di sottocartelle per cartella pubblica|N/D|900|900|Non disponibile|
 
 > [!NOTE]
@@ -266,13 +266,13 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 |Limite per la dimensione del messaggio - Outlook per Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite per la dimensione del messaggio - migrazione|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |Limite per la dimensione del messaggio-Outlook per iOS e Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>5</sup>|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB |
-|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>5</sup>|25 MB|25 MB |25 MB |25 MB |25 MB |25 MB|
+|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Lunghezza massima dell'oggetto|255 caratteri|255 caratteri|255 caratteri|255 caratteri|255 caratteri|255 caratteri|
 |Limite massimo dei file allegati|250 allegati|250 allegati|250 allegati|250 allegati|250 allegati|250 allegati|
-|Limite di dimensione massima dei file allegati - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|Limite di dimensione massima dei file allegati - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |Limite di dimensione massima dei file allegati - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
-|Limite di dimensione massima dei file allegati - Outlook per Mac|150 MB|150 MB |150 MB |150 MB |150 MB |150 MB |
+|Limite di dimensione massima dei file allegati - Outlook per Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |Limite per la dimensione dei file allegati-Outlook per iOS e Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |Limite dei messaggi a più parti|250 parti|250 parti|250 parti|250 parti|250 parti|250 parti|
 |Limite di profondità del messaggio incorporato|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|
@@ -293,14 +293,14 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 |**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Limite per la dimensione del messaggio - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
 |Limite per la dimensione del messaggio - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
-|Limite per la dimensione del messaggio - Outlook per Mac|10 MB<sup>4</sup>|150 MB |150 MB ||
+|Limite per la dimensione del messaggio - Outlook per Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |Limite per la dimensione del messaggio - migrazione|Non applicabile|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
 |Limite per la dimensione del messaggio-Outlook per iOS e Android |25 MB |33 MB |33 MB |33 MB |
-|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>6</sup>|150 MB |150 MB |150 MB |150 MB |
-|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>6</sup>|25 MB|25 MB |25 MB |25 MB|
+|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>6</sup>|150 MB|150 MB|150 MB|150 MB|
+|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
 |Lunghezza massima dell'oggetto|255 caratteri|255 caratteri|255 caratteri|255 caratteri|
 |Limite massimo dei file allegati|1024 allegati<sup>4</sup>|250 allegati|250 allegati|250 allegati|
-|Limite di dimensione massima dei file allegati - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB |
+|Limite di dimensione massima dei file allegati - Outlook|35 MB<sup>4</sup>|150 MB|150 MB|150 MB|
 |Limite di dimensione massima dei file allegati - OWA|35 MB<sup>4</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|
 |Limite di dimensione massima dei file allegati - Outlook per Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
 |Limite per la dimensione dei file allegati-Outlook per iOS e Android|25 MB |33 MB|33 MB|33 MB|
@@ -495,7 +495,7 @@ L'elenco seguente include limiti che si applicano alle regole del Journal, alle 
 |Regola di posta in arrivo|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|
 
 > [!NOTE]
-> <sup>1</sup> se una cassetta postale è stata migrata a Exchange Online, il limite della regola di posta in arrivo può essere impostato sul valore inferiore al valore Exo predefinito. In tal caso, il valore può essere aumentato seguendo questo argomento. 
+> <sup>1</sup> se una cassetta postale è stata migrata a Exchange Online, il limite della regola di posta in arrivo può essere impostato sul valore inferiore al valore Exo predefinito. In caso contrario, il valore della regola di posta in arrivo può essere aumentato. Per istruzioni, vedere [modificare lo spazio utilizzato dalle regole di posta in arrivo in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules). 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limiti delle regole di Journal, trasporto e posta in arrivo nelle opzioni autonome
 
