@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131330"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616922"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
@@ -63,7 +63,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Intestazioni e piè di pagina](word-online.md#headers-and-footers) <br/> |Sì  <br/> |Sì  <br/> |
 |[Collegamenti ipertestuali](word-online.md#hyperlinks) <br/> |Sì  <br/> |Sì  <br/> |
 |[Indice](word-online.md#index) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
-|[Editor input penna](word-online.md#ink-editor) <br/> |No  <br/> |Sì  <br/> |
+|[Editor di input penna] <br/> |No  <br/> |Sì  <br/> |
 |[Inserimento di immagini online](word-online.md#insert-online-pictures) <br/> |Sì  <br/> |Sì  <br/> |
 |[IRM e protezione tramite password](word-online.md#irm-and-password-protection) <br/> |No  <br/> |Sì  <br/> |
 |[Strumenti di apprendimento](word-online.md#learning-tools) <br/> |No  <br/> |Sì  <br/> |
