@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 e Office 365 sono disponibili in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 660a716f53ad8cc1fe39c20d939656a0d627f683
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 805a05b62fa4bd354378fb2fa4c4d30f271aaf5d
+ms.sourcegitcommit: 5789fb5d6440556b7ad77ba620c6e9be97261e0f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131920"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46826719"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrizione dei servizi delle piattaforme Office 365 e Microsoft 365
 
@@ -95,15 +95,15 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure  <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |N.<sup>2</sup> <br/> |Sì  <br/> |Sì  <br/> |N.<sup>2</sup> <br/> |
 |**[Funzionalità della famiglia di prodotti Microsoft 365](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
-|Microsoft Bookings  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |N.<sup>19</sup>  <br/> |N.<sup>19</sup>  <br/> |No  <br/> |
-|Microsoft Briefing e-mail<sup>22</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Microsoft Bookings  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Microsoft Briefing e-mail<sup>21</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Power Automate  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup> <br/> |
 |Microsoft Forms  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |API di Microsoft Graph  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Microsoft Analytics<sup>20</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Microsoft Analytics<sup>19</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Microsoft Planner  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |App di Microsoft Power  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>12</sup> <br/> | 
-|Microsoft Project per il Web <sup>23</sup> <br/> |Sì <br/> |No <br/>|Sì <br/> |Sì <br/> |Sì <br/> |Sì <br/> | Sì <br/> |
+|Microsoft Project per il Web <sup>22</sup> <br/> |Sì <br/> |No <br/>|Sì <br/> |Sì <br/> |Sì <br/> |Sì <br/> | Sì <br/> |
 |Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Stream  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |Sì<sup>8</sup> <br/> |
@@ -125,7 +125,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Gestire i gruppi di sicurezza da Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Disponibilità di più ruoli amministratore  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Consentire a un partner di amministrare Microsoft 365 per l'utente  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Servizi di Azure Active Directory<sup>21</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Servizi di Azure Active Directory<sup>20</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Domini](domains.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Aggiunta di domini di secondo livello personalizzati, come fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Aggiunta di domini di terzo livello personalizzati, come marketing.fourthcoffee.com  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -167,7 +167,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Aggiornamenti del servizio](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -222,8 +222,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 <br/><sup>16</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti di Europa, Medio Oriente e Africa vengono esportati in Europa occidentale (Paesi Bassi).
 <br/><sup>17</sup> consumo solo per Microsoft Stream: nessuna pubblicazione o condivisione.
 <br/><sup>18</sup> a partire dal maggio 2019, le SKU idonee esistenti di Office 365 e Microsoft 365 verranno riempite con Kaizala Pro. A partire dal 1 ° giugno 2019, Kaizala Pro verrà incluso in tutte le SKU di Office 365 e Microsoft 365 idonee.
-<br/><sup>19</sup> disponibile come componente aggiuntivo gratuito. Per ulteriori informazioni, vedere [Get Access to Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
-<br/><sup>20</sup> per ulteriori informazioni, vedere i [piani e gli ambienti di analisi dei dati](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
-<br/><sup>21</sup> include le funzionalità di Azure Active Directory descritte nella colonna **Office 365 Apps** nella pagina dei [prezzi di Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . È necessario aggiungere Azure Active Directory piano 1 o piano 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 per ottenere le funzionalità Premium di Azure AD.<br/>
-<sup>22</sup> il messaggio di posta elettronica di briefing viene fornito automaticamente a tutti gli utenti di Exchange Online. Per ulteriori informazioni, vedere [Configure briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>23</sup> per informazioni dettagliate sulla funzionalità, vedere la [Descrizione del servizio Microsoft Project](../project-online-service-description/project-online-service-description.md). Agli utenti viene concesso l'accesso a un progetto con diritti limitati per il Web. Tali diritti sono limitati per l'utilizzo solo con il progetto per l'applicazione Web e solo per i tenant con un piano di progetto 1, un piano di progetto 3 o una licenza di Project Plan 5. Tali diritti non consentono l'accesso alle applicazioni della piattaforma di alimentazione o ad altri set di dati, client desktop di Project online o Project online.
+<br/><sup>19</sup> per ulteriori informazioni, vedere i [piani e gli ambienti di analisi dei dati](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+<br/><sup>20</sup> include le funzionalità di Azure Active Directory descritte nella colonna **Office 365 Apps** nella pagina dei [prezzi di Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . È necessario aggiungere Azure Active Directory piano 1 o piano 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 per ottenere le funzionalità Premium di Azure AD.<br/>
+<sup>21</sup> il messaggio di posta elettronica di briefing viene fornito automaticamente a tutti gli utenti di Exchange Online. Per ulteriori informazioni, vedere [Configure briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
+<sup>22</sup> per informazioni dettagliate sulla funzionalità, vedere la [Descrizione del servizio Microsoft Project](../project-online-service-description/project-online-service-description.md). Agli utenti viene concesso l'accesso a un progetto con diritti limitati per il Web. Tali diritti sono limitati per l'utilizzo solo con il progetto per l'applicazione Web e solo per i tenant con un piano di progetto 1, un piano di progetto 3 o una licenza di Project Plan 5. Tali diritti non consentono l'accesso alle applicazioni della piattaforma di alimentazione o ad altri set di dati, client desktop di Project online o Project online.
