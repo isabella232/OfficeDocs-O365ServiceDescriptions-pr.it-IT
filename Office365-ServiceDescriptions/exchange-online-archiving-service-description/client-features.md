@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Archiviazione Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di dispositivi e piattaforme. Tutta la connettività di rete all'archivio dell'utente si verifica su Internet e le connessioni VPN (Virtual Private Network) non sono necessarie. Le organizzazioni possono pubblicare un server Client Access in locale per consentire agli utenti di accedere alla cassetta postale principale tramite Outlook Anywhere, senza richiedere una connessione VPN. Se viene richiesto l'accesso VPN per accedere alla cassetta postale principale dell'utente situata su un server in locale, tale requisito non viene modificato.
-ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132060"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255903"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Funzionalità client in archiviazione Exchange Online
 
@@ -45,12 +45,13 @@ Nella tabella seguente sono elencati i client supportati da Archiviazione Exchan
   
 |**Client**|**Supporto EOA**|
 |:-----|:-----|
-|Outlook 2010 e versioni successive  <br/> |Supporta le funzionalità più recenti in Archiviazione Exchange Online.<sup>1</sup> <br/> |
-|Outlook 2007  <br/> |Supportato per l'utilizzo con Archiviazione Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |Non supportato  <br/> |
-|Outlook per Mac 2011  <br/> |Non supportato  <br/> |
+|Outlook 2013 e versioni successive  <br/> |Supporta le funzionalità più recenti in Archiviazione Exchange Online.<sup>1</sup> <br/> |
+|Outlook 2010  <br/> |Supporta le funzionalità più recenti nell'archiviazione Exchange Online solo fino al 13 ottobre 2020|
+|Outlook 2007  <br/> |Non supportato |
+|Outlook 2003  <br/> |Non supportata  <br/> |
+|Outlook per Mac 2011  <br/> |Non supportata  <br/> |
 |Outlook per Mac  <br/> |Supportato per l'utilizzo con archiviazione Exchange Online. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008, Web Services Edition  <br/> |Non supportato  <br/> |
+|Microsoft Office Entourage 2008, Web Services Edition  <br/> |Non supportata  <br/> |
 |IMAP e POP  <br/> |Non supportata  <br/> |
 |Exchange ActiveSync (dispositivi mobili)  <br/> |Non supportata  <br/> |
    
