@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali funzionalità di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131030"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300510"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -97,7 +97,7 @@ Se non diversamente specificato, le seguenti funzionalità sono disponibili in t
 - [Migrazione: strumento di migrazione di SharePoint](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Migrazione: gestione della migrazione](/sharepointmigration/mm-get-started)
 - [Migrazione: strumento di valutazione della migrazione di SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [Migrazione: Mover.io](https://mover.io/). Attualmente disponibile solo per i clienti del Nord America.
+- [Migrazione: Mover.io](https://mover.io/). Ora disponibile in tutto il mondo.
 - [Multi-Geo (data Residency)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Con un componente aggiuntivo che richiede almeno 500 licenze Microsoft. Per informazioni dettagliate, contattare il rappresentante Microsoft.
 - [Provisioning del sito programmatico](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Sostituzione sito radice](/sharepoint/modern-root-site)

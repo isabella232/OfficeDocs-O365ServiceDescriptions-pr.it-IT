@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: cde2f691a010b12c42e774db7987a32efed50e1a
-ms.sourcegitcommit: fe1417a3228a5015e65a252f559e8c357d647d46
+ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46573974"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300520"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -79,7 +79,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Gruppi di ruoli|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |Criteri di assegnazione dei ruoli|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |**[Conformità e criteri dei messaggi](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Archiviazione di cassette postali di Exchange Online| No|No|Sì|Sì|Sì|Sì|Sì|No|
+|Archiviazione di cassette postali di Exchange Online| No|No|Sì|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|No|
 |Archiviazione basata su cloud delle cassette postali locali|Sì <sup>1</sup>|Sì<sup>1</sup>|No|No|Sì|Sì|Sì|No|
 |Messaging Records Management (MRM) |Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Criteri di conservazione, etichette e tag manuali |No|No|No|No|Sì|Sì|Sì|Sì|
@@ -183,7 +183,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 <sup>6</sup> exchange Server 2013 ha la maggior parte delle stesse funzionalità di protezione da posta indesiderata incorporate come exchange server 2010. Per informazioni sui vantaggi del filtro di posta indesiderata ospitato su Exchange nelle offerte locali, vedere [vantaggi delle funzionalità di protezione da posta indesiderata in Exchange Online Protection su Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
 <sup>7</sup> accessibile solo tramite accesso diretto all'interfaccia di gestione di Exchange Admin Center (EAC). <br/>
 <sup>8</sup> Exchange Server 2013 utilizza solo il motore antimalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/>
-<sup>9</sup> è possibile acquistare una sottoscrizione EOA per ciascuna cassetta postale che necessita della funzionalità di cassette postali inattive.  <br/>
+<sup>9</sup> è possibile acquistare una sottoscrizione EOA per ciascuna cassetta postale che richiede la funzionalità di archiviazione o la cassetta postale inattiva.<br/>
 <sup>10</sup> SharePoint deve essere distribuito nell'organizzazione di Exchange locale. <br/>
 <sup>11</sup> SharePoint Online deve essere incluso nel piano di sottoscrizione. <br/>
 <sup>12</sup> pop è supportato, ma IMAP No. <br/>
