@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
+ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132370"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318943"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -32,7 +32,7 @@ Di seguito sono riportati i modi principali in cui è possibile utilizzare ATP p
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilità di Office 365 Advanced Threat Protection (ATP)
 
-ATP è incluso in Office 365 Enterprise E5, Office 365 Education a5 e Microsoft 365 Business Premium.
+Office 365 ATP Piano 2 è incluso in Office 365 E5, Office 365 A5 e Microsoft 365 E5. Office 365 ATP Piano 1 è incluso in Microsoft 365 Business Premium.
 
 È possibile aggiungere ATP ai piani di sottoscrizione di Exchange e Microsoft 365 seguenti:
 
@@ -78,12 +78,13 @@ ATP può essere utilizzato con qualsiasi agente di trasferimento della posta SMT
 
 Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange Online, in genere si intende la famiglia di servizi di Office 365 Enterprise.
 
-|**Funzionalità**|**ATP piano 1**<br>(in precedenza ATP autonomo)|**ATP piano 2**<br>(in precedenza Threat Intelligence <br>standalone| Office 365 Enterprise E5|
+|**Funzionalità**|**ATP piano 1**<br>(in precedenza ATP autonomo)|**ATP piano 2**<br>(in precedenza Threat Intelligence <br>standalone| Sicurezza di Microsoft 365 E5/E5|
 |:-----|:-----|:-----|:-----|
 |*Configurazione, protezione e rilevamento*|
 |[Allegati sicuri](#safe-attachments)|Sì|Sì|Sì|
 |Allegati sicuri nei team|Sì|Sì|Sì|
 |[Collegamenti sicuri](#safe-links)|Sì|Sì|Sì|
+|[Documenti attendibili](#safe-documents)|No|No|Sì|
 |Collegamenti sicuri in Teams|Sì|Sì|Sì|
 |[ATP per SharePoint, OneDrive e Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sì|Sì|Sì|
 |[Criteri anti-phishing](#anti-phishing-policies)|Sì|Sì|Sì|
@@ -123,13 +124,32 @@ I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
 > [!NOTE]
 > Gli utenti devono essere concessi in licenza per ATP <sup>\*</sup> , devono essere inclusi nei criteri dei collegamenti sicuri di ATP e devono essere firmati nei propri dispositivi affinché la protezione sia sul posto.
 >
-> <sup>\*</sup>Per le licenze ATP a livello di organizzazione, ad esempio ATP_ENTERPRISE_FACULTY, non è necessario assegnare licenze ATP ai singoli utenti.
+> <sup>\*</sup> Per le licenze ATP a livello di organizzazione, ad esempio ATP_ENTERPRISE_FACULTY, non è necessario assegnare licenze ATP ai singoli utenti.
 >
 > Per ulteriori informazioni sulla protezione dei collegamenti sicuri ATP, vedere [How ATP Safe Links funziona con gli URL nei documenti di Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
+### <a name="safe-documents"></a>Documenti attendibili
+
+La funzionalità [ATP Safe Documents](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) utilizza [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) per analizzare i documenti e i file aperti in [visualizzazione protetta](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
+
+Che cosa è necessario sapere prima di iniziare?
+
+- I documenti attendibili sono ora generalmente disponibili per gli utenti con Office versione 2004 (12730. x) o versioni successive. Questa funzionalità è disattivata per impostazione predefinita e dovrà essere abilitata dall'amministratore della sicurezza.
+
+- Questa funzionalità è disponibile solo per gli utenti che dispongono della licenza di sicurezza Microsoft 365 E5 o Microsoft 365 E5 (non inclusa nei piani di Office 365 ATP).
+
+- Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android
+
+- Canali e chat di Microsoft Teams
+
+> [!NOTE]
+> Gli utenti devono essere concessi in licenza per la sicurezza di Microsoft 365 E5 o Microsoft 365 E5 <sup>\*</sup> , devono essere inclusi nei criteri dei documenti sicuri di ATP e devono essere firmati nei propri dispositivi affinché la protezione sia sul posto.
+>
+> Per ulteriori informazioni sulla protezione dei documenti ATP sicuri, vedere [documenti attendibili in Microsoft 365 E5](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs).
+
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP per SharePoint, OneDrive e Microsoft Teams
 
-[ATP per SharePoint, OneDrive e Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) aiuta a rilevare e bloccare i file identificati come dannosi nei siti e nelle raccolte documenti del team. Inoltre, la protezione per i collegamenti sicuri di ATP è ora disponibile nei canali e nelle chat di Microsoft teams.
+[ATP per SharePoint, OneDrive e Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  aiuta a rilevare e bloccare i file identificati come dannosi nei siti e nelle raccolte documenti del team. Inoltre, la protezione per i collegamenti sicuri di ATP è ora disponibile nei canali e nelle chat di Microsoft teams.
 
 ### <a name="anti-phishing-policies"></a>Criteri anti-phishing
 
