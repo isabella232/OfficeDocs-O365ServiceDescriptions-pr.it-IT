@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium è una soluzione integrata che unisce la produttività ottimale con funzionalità avanzate di sicurezza e gestione dei dispositivi per proteggere la propria azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
-ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
+ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
+ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45388112"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947830"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrizione del servizio Microsoft 365 Business Premium
 
@@ -32,7 +32,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |SharePoint Online  <br/> |Sì  <br/> |Sì  <br/> |
 |OneDrive for Business  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Teams <br/> |Sì <br/> |Sì <br/> |
-|Office per il Web  <br/> |Sì  <br/> |Sì  <br/> |
+|Office per il web  <br/> |Sì  <br/> |Sì  <br/> |
 |[Applicazioni di Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Sì  <br/> |Sì  <br/> |
 |Yammer Enterprise  <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Bookings  <br/> |Sì  <br/> |Sì  <br/> |
@@ -89,7 +89,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 
 |||
 |:-----|:-----|
-|**Gestione di Windows 10 Pro** <br/>Se si dispone di dispositivi concessi in licenza per Windows 7 e 8,1 Professional, Microsoft 365 Business Premium fornisce un aggiornamento a Windows 10 Pro. <sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
+|**Gestione di Windows 10 Pro** <br/>Se si dispone di dispositivi concessi in licenza per Windows 7 e 8,1 Professional, Microsoft 365 Business Premium fornisce un aggiornamento a Windows 10 Pro.<sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Distribuzione semplificata con Windows AutoPilot  <br/> |Sì  <br/> |
 |Attivazione della sottoscrizione  <br/> |Sì  <br/> |
 |Controllo dell'organizzazione dello schermo del dispositivo sul minimo  <br/> |Sì  <br/> |
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Protegge le cartelle da minacce come il ransomware <br/> |Sì  <br/> |
 |Protezione dei file e delle cartelle nei PC da accessi non autorizzati con BitLocker <br/> |Sì  <br/> |
 
-### <a name="notes"></a>Note
+### <a name="notes"></a>Notes
 <sup>1</sup> include Exchange Online piano 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. AIP piano 1 è incluso in Microsoft 365 Business Premium. <br/>
 <sup>3</sup> Microsoft 365 Business Premium include la sottoscrizione di archiviazione Exchange Online. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Per ulteriori informazioni, vedere [Overview of Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>
@@ -113,4 +113,4 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 <sup>6</sup> questo piano viene fornito con Microsoft Stream piano 2, che include il portale video, la trascrizione dei messaggi vocali, la ricerca profonda e il rilevamento del volto.<br/>
 <sup>7</sup> Microsoft 365 viene fornito con Office 365 Advanced Threat Protection Plan 1. Per ulteriori informazioni, vedere [funzionalità di sicurezza e conformità di Microsoft 365 Business Premium](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
 <sup>8</sup> gli abbonati Microsoft 365 Business Premium sono concessi in licenza per l'utilizzo di funzionalità di Intune complete per iOS, Android, MacOS e altre gestione dei dispositivi Cross-Platform. Le funzionalità non disponibili nell'interfaccia di amministrazione di Microsoft 365 Business Premium, come la configurazione e la gestione delle app di terze parti dei profili WiFi, i certificati VPN e così via, possono essere gestite nella console Full Intune.</br>
-<sup>9</sup> se si dispone di dispositivi concessi in licenza per Windows 7 e 8,1 Professional, Microsoft 365 Business Premium fornisce un aggiornamento a Windows 10 Pro. Con Microsoft 365 Business Premium non vengono rilevate solo le [funzionalità di sicurezza di Microsoft Defender che vengono abilitate in Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), nonché l'accesso alle funzionalità Premium come la protezione della rete per le minacce basate sul Web e le regole di prevenzione delle intrusioni host per attenuare il ransomware. Quando si configura l'account Premium di Microsoft 365 business, si seleziona la protezione delle app e le impostazioni di configurazione dei dispositivi. Tali impostazioni definiscono i criteri che vengono applicati automaticamente ai dispositivi che accedono ad Azure Active Directory.</br>
+<sup>9</sup> se si dispone di dispositivi concessi in licenza per Windows 7 e 8,1 Professional, Microsoft 365 Business Premium fornisce un aggiornamento a Windows 10 Pro. Tuttavia, questa licenza non copre Windows 7,1 o 8 Home Edition con Windows 10 Pro. Con Microsoft 365 Business Premium non vengono rilevate solo le [funzionalità di sicurezza di Microsoft Defender che vengono abilitate in Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), nonché l'accesso alle funzionalità Premium come la protezione della rete per le minacce basate sul Web e le regole di prevenzione delle intrusioni host per attenuare il ransomware. Quando si configura l'account Premium di Microsoft 365 business, si seleziona la protezione delle app e le impostazioni di configurazione dei dispositivi. Tali impostazioni definiscono i criteri che vengono applicati automaticamente ai dispositivi che accedono ad Azure Active Directory.</br>
