@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Questi limiti non sono configurabili, se non diversamente specificato.
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133010"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134053"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti di Exchange Online Protection
 
@@ -26,6 +26,8 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
 > Per ulteriori informazioni sui limiti in Exchange Online, vedere [limiti di Exchange Online](../exchange-online-service-description/exchange-online-limits.md). I limiti delle regole di trasporto si applicano anche ai clienti EOP autonomi. I limiti relativi alla frequenza di destinatari e di messaggi validi in Exchange Online non sono invece applicabili per i clienti che utilizzano EOP in uno scenario autonomo. 
   
 - **Limite dominio** È possibile aggiungere fino a 900 domini per tenant. I sottodomini possono essere inclusi nello stesso limite o, se necessario, come parte di un'opzione generale, adatta a tutti i sottodomini. Per ulteriori informazioni, vedere [Gestione domini accettati in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+
+- **Limite del dominio remoto** È possibile aggiungere fino a 200 domini remoti per tenant.
     
 - **Limite dimensioni messaggio** Per i clienti che utilizzano EOP in uno scenario autonomo, la dimensione massima dei messaggi è 150 MB, inclusi gli allegati. 
     
@@ -48,7 +50,7 @@ I limiti seguenti sono attualmente disponibili per Exchange Online Protection. Q
 |**Funzionalità**|****EOP autonomo****|****Caratteristiche EOP in Exchange Online****|****Exchange Enterprise CAL con servizi****|
 |:-----|:-----|:-----|:-----|
 |Limiti dominio  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Limiti dimensioni messaggio (inclusi gli allegati)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|Limiti dimensioni messaggio (inclusi gli allegati)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Limiti destinatario  <br/> |Vedere "Limite destinatari" sopra riportato  <br/> |500 destinatari quando si invia da una cassetta postale ospitata; vedere "Limite destinatari" sopra riportato per ulteriori scenari  <br/> |Vedere "Limite destinatari" sopra riportato  <br/> |
 |Limite dei mittenti attendibili  <br/> |1024 voci  <br/> |1024 voci  <br/> ||
 |Limite del mittente bloccato per ogni criterio  <br/> |1024 voci  <br/> |1024 voci  <br/> ||

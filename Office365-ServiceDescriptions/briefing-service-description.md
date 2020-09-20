@@ -6,15 +6,14 @@ ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
-ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Il messaggio di posta elettronica di briefing aiuta gli utenti a sfruttare al meglio ogni giorno. Identifica le opportunità tra vari elementi e fornisce promemoria tempestive.
-ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 57d12fa0edd5f91184084c3c6e49e16266ff7bf4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132010"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134033"
 ---
 # <a name="briefing-email-service-description"></a>Descrizione del servizio di invio di un messaggio di briefing via posta elettronica
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318943"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134043"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -111,13 +111,13 @@ Gli [allegati sicuri di ATP](https://docs.microsoft.com/microsoft-365/security/o
 
 La funzionalità [ATP Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protegge in modo proattivo gli utenti da URL dannosi in un messaggio o in un documento di Office. La protezione rimane attiva ogni volta che l'utente seleziona il collegamento, perché i collegamenti dannosi vengono bloccati in modo dinamico mentre i collegamenti corretti continuano ad essere accessibili.
 
-I collegamenti sicuri sono disponibili per gli URL nelle app seguenti:
+I collegamenti sicuri sono disponibili per gli URL nelle seguenti app:
 
 - Microsoft 365 Apps for Enterprise su Windows o Mac
 
 - Office per il Web (Word per il Web, Excel per il Web, PowerPoint per il Web e OneNote per il Web)
 
-- Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android
+- Word, Excel e PowerPoint in Windows
 
 - Canali e chat di Microsoft Teams
 
@@ -138,7 +138,7 @@ Che cosa è necessario sapere prima di iniziare?
 
 - Questa funzionalità è disponibile solo per gli utenti che dispongono della licenza di sicurezza Microsoft 365 E5 o Microsoft 365 E5 (non inclusa nei piani di Office 365 ATP).
 
-- Word, Excel, PowerPoint e Visio su Windows, nonché le app di Office sui dispositivi iOS e Android
+- Word, Excel, PowerPoint e Visio in Windows, oltre alle app di Office su dispositivi iOS e Android
 
 - Canali e chat di Microsoft Teams
 

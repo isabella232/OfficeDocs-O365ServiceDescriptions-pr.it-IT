@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e piani autonomi.
-ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
+ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649596"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "47962095"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -49,7 +49,7 @@ Un elenco può avere fino a 30 milioni elementi e una raccolta può avere fino a
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Autorizzazioni esclusive per gli elementi di un elenco o di una raccolta
 
-Il limite supportato è di 50.000 elementi con autorizzazioni univoche, ma il limite generale consigliato è 5.000. L'esecuzione di modifiche a più di 5.000 elementi con autorizzazioni univoche alla volta richiede più tempo. Per gli elenchi di grandi dimensioni, la progettazione deve disporre di un numero di autorizzazioni univoco possibile.
+Il limite consentito è di 50.000 elementi con autorizzazioni univoche, ma il limite generale consigliato è 5.000. L'esecuzione di modifiche a più di 5.000 elementi con autorizzazioni univoche alla volta richiede più tempo. Per gli elenchi di grandi dimensioni, la progettazione deve disporre di un numero di autorizzazioni univoco possibile.
 
 Un altro limite è 5.000 assegnazioni di ruolo per elemento con autorizzazioni univoche. 
 
