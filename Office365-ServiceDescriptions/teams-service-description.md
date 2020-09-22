@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre la messaggistica istantanea, la collaborazione di file e dati, le chiamate audio e video, riunioni online ricche, esperienze mobili e ampie funzionalità di Web Conferencing.
-ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
-ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
+ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46531209"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175183"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -22,11 +22,10 @@ Skype for business online si ritirerà il 31 luglio 2021, che è stato [annuncia
 
 Microsoft resta impegnato per la sicurezza dei dati e per l' [accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei servizi. Per ulteriori informazioni, vedere [Microsoft Trust Center](https://www.microsoft.com/trust-center) e [Office Accessibility Center](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Per il riferimento, è stata inclusa questa tabella master delle sottoscrizioni che consentono agli utenti di Microsoft teams. Per informazioni dettagliate sulla pianificazione, vedere [Find the right Microsoft teams for your business](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Per ulteriori informazioni su Office 365 nei piani governativi, vedere [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 through G5 include l'accesso alle funzionalità del team.
+Per il riferimento, è stata inclusa questa tabella master delle sottoscrizioni che consentono agli utenti di Microsoft teams. Per informazioni dettagliate sulla pianificazione, vedere [Find the right Microsoft teams for your business](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Per ulteriori informazioni su Office 365 nei piani governativi, vedere [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 through G5 include l'accesso alle funzionalità del team.<br><br>
 
-|||||||||
+| Piani per le piccole imprese | Piani aziendali | Piani di formazione | Piani per sviluppatori |
 |:-----|:-----|:-----|:-----|
-|**Piani per le piccole imprese** <br/> |**Piani aziendali** <br/> |**Piani di formazione** <br/> |**Piani per sviluppatori** <br/> |
 |Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Sviluppatore di Office 365 <br/> |
 |Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
 |Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
@@ -48,11 +47,10 @@ Microsoft teams non è disponibile come servizio autonomo.
 
 ## <a name="feature-category-reference"></a>Informazioni di riferimento sulle categorie di funzionalità 
 
-In questa tabella viene elencata la disponibilità delle funzionalità di Microsoft teams tra piani di licenze o istanze cloud. Vengono applicati alcuni caveat. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella potrebbe variare senza preavviso. Fare riferimento alle notifiche del centro messaggi di Microsoft 365 per la messaggistica di modifica dei servizi di base e alla documentazione di riferimento per i [termini di licenza Microsoft](https://www.microsoft.com/licensing/product-licensing/products).
+In questa tabella viene elencata la disponibilità delle funzionalità di Microsoft teams tra piani di licenze o istanze cloud. Vengono applicati alcuni caveat. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella potrebbe variare senza preavviso. Fare riferimento alle notifiche del centro messaggi di Microsoft 365 per la messaggistica di modifica dei servizi di base e alla documentazione di riferimento per i [termini di licenza Microsoft](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
-|||||||
+| Funzionalità | Azienda di piccole dimensioni | Piani aziendali | GCC | GCC-High | DOD | Istruzione |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Azienda di piccole dimensioni** <br/> |**Piani aziendali** <br/> |**GCC** <br/> |**GCC-High** <br/> |**DOD** <br/> |**Funzionalità didattiche** <br/> |
 |Chat  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Teams  <br/> |Sì <br/> |Sì <br/> |Sì <br/> |Sì<sup>1</sup>  <br/> |Sì<sup>1</sup>  <br/> |Sì  <br/> |
 |Canali-standard  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -64,10 +62,10 @@ In questa tabella viene elencata la disponibilità delle funzionalità di Micros
 |App, bot, connettori di &  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>3</sup>  <br/> |Sì<sup>3</sup>  <br/> |Sì<sup>3</sup>  <br/> |Sì  <br/> |
 |Eventi Live  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |N.<sup>4</sup>  <br/> |N.<sup>4</sup>  <br/> |Sì  <br/> |
 
-<sup>1</sup> Microsoft teams in GCC-High e DOD supportano 2500 membri in un singolo team.<br/>
-<sup>2</sup> Microsoft Planner non è attualmente disponibile per l'accesso nei canali privati.<br/>
-<sup>3</sup> Microsoft OneNote non è disponibile in cloud DOD. Le applicazioni e la pubblicazione dell'applicazione non sono disponibili in questi cloud in questo momento.<br/>
-<sup>4</sup> gli eventi Live non sono disponibili in GCC-High o DOD in questo momento.<br/>
+> <sup>1</sup>  Microsoft teams in GCC-High e DOD supportano 2500 membri in un singolo team.<br/>
+> <sup>2</sup> Microsoft Planner non è attualmente disponibile per l'accesso nei canali privati.<br/>
+> <sup>3</sup> Microsoft OneNote non è disponibile in cloud DOD. Le applicazioni e la pubblicazione dell'applicazione non sono disponibili in questi cloud in questo momento.<br/>
+> <sup>4</sup> gli eventi Live non sono disponibili in GCC-High o DOD in questo momento.<br/>
 
 ## <a name="next-steps"></a>Passaggi successivi
 

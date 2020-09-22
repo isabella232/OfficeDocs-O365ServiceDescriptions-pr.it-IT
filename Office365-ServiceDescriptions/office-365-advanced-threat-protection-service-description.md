@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) è il servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da virus e malware sconosciuti fornendo una protezione zero-day affidabile e include funzionalità di salvaguardia dell'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134043"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170541"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrizione del servizio Office 365 Advanced Threat Protection
 
@@ -94,6 +94,7 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |Indagine sulle minacce (Advanced Threat Investigation)|[Rilevamenti in tempo reale](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Risposta agli incidenti automatici](#automated-incident-response)|No|Sì|Sì|
 |[Simulatore di attacchi](#attack-simulator)|No|Sì|Sì|
+|*Integrazione con Microsoft Threat Protection*|No|No|Sì|
 
 > [!TIP]
 > Si desidera un elenco scaricabile delle differenze tra Office 365 ATP piano 1 e piano 2? [Ottenere il file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
@@ -132,7 +133,7 @@ I collegamenti sicuri sono disponibili per gli URL nelle seguenti app:
 
 La funzionalità [ATP Safe Documents](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) utilizza [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) per analizzare i documenti e i file aperti in [visualizzazione protetta](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
 
-Che cosa è necessario sapere prima di iniziare?
+Che cosa è necessario sapere prima di iniziare
 
 - I documenti attendibili sono ora generalmente disponibili per gli utenti con Office versione 2004 (12730. x) o versioni successive. Questa funzionalità è disattivata per impostazione predefinita e dovrà essere abilitata dall'amministratore della sicurezza.
 
