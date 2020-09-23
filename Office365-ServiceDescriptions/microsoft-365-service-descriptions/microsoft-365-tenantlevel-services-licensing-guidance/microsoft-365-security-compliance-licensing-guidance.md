@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798382"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214385"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -148,6 +148,32 @@ Per informazioni sulla configurazione dei criteri di protezione delle app di Mic
 
 Gli amministratori possono applicare le distribuzioni di MCAS agli utenti con licenza utilizzando le funzionalità di distribuzione con ambito disponibili nel servizio. Per ulteriori informazioni, vedere [distribuzione con ambito](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
+## <a name="compliance-manager"></a>Compliance Manager
+
+Semplificare la conformità e ridurre i rischi con Compliance Manager. Compliance Manager consente alle organizzazioni di soddisfare i requisiti delle normative, degli standard, dei criteri aziendali o di altri Framework di controllo desiderati.
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Di seguito sono riportati i vantaggi per gli utenti dal servizio Compliance Manager:
+
+- Traduce regolamenti complicati, standard, criteri aziendali o altri Framework di controllo desiderati in un linguaggio semplice
+- Consente di accedere a una vasta raccolta di valutazioni e valutazioni personalizzate fuori dalla casella per soddisfare esigenze di conformità esclusive
+- Mapping dei controlli normativi alle azioni di miglioramento consigliate
+- Viene fornita una guida dettagliata su come implementare le soluzioni per soddisfare i requisiti normativi
+- Consente agli utenti di assegnare priorità alle azioni che avranno il massimo impatto sulla conformità organizzativa associando un punteggio a ogni azione
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
+
+I clienti con licenza di Office 365 E1/A1/E3/a3 e Microsoft 365 E3/a3 saranno in grado di accedere alla valutazione della linea di base per la protezione dei dati. I clienti con licenze Office 365 E5/A5 e Microsoft 365 E5/A5 saranno in grado di accedere alle valutazioni di protezione dei dati, GDPR, NIST 800-53 e ISO 22701. Le valutazioni dei premi saranno disponibili per l'acquisto ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+Compliance Manager è provisioning per impostazione predefinita per il tenant. Gli amministratori configurano le autorizzazioni utente e assegnano i ruoli in modo che gli utenti non amministratori dell'organizzazione possano iniziare a usare Compliance Manager. Per ulteriori informazioni, vedere [documentazione](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+L'accesso a Compliance Manager è controllato mediante l'impostazione delle autorizzazioni utente e l'assegnazione dei ruoli. Per ulteriori informazioni, vedere [documentazione](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP è una soluzione di sicurezza per endpoint che include la valutazione e la gestione delle vulnerabilità basate sui rischi; funzionalità di riduzione della superficie di attacco; protezione comportamentale e basata su cloud di prossima generazione; rilevamento e risposta dell'endpoint (EDR); analisi e correzione automatica; e servizi di caccia gestiti. Per ulteriori informazioni, vedere pagina [Microsoft Defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) .
@@ -227,15 +253,15 @@ Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 3
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di governance delle informazioni sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione della governance delle informazioni per applicare l'etichettatura automatica e i criteri per gli utenti con licenza, vedere [Manage information governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Per impostazione predefinita, le funzionalità di governance delle informazioni sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione della governance delle informazioni per applicare i criteri e le etichette AutoLabel per gli utenti con licenza, vedere [Manage information governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Le funzionalità di governance delle informazioni possono essere applicate agli utenti con licenza in determinate posizioni (siti del team, siti di gruppo e così via). Per informazioni sulla configurazione della governance delle informazioni per applicare l'etichettatura automatica e i criteri per gli utenti con licenza, vedere [Manage information governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Le funzionalità di governance delle informazioni possono essere applicate agli utenti con licenza in determinate posizioni (siti del team, siti di gruppo e così via). Per informazioni sulla configurazione della governance delle informazioni per applicare i criteri e le etichette AutoLabel per gli utenti con licenza, vedere [Manage information governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ## <a name="records-management"></a>Gestione record
 
-La gestione dei record consente alle organizzazioni di rispettare i propri obblighi di registrazione e conformità alle normative tramite la scoperta, classificazione, etichettatura, conservazione e capacità di eliminazione difendibile tra i dati di Microsoft 365 e di terze parti.
+La gestione dei record consente alle organizzazioni di rispettare i propri obblighi di registrazione per le aziende e le normative tramite la scoperta, classificazione, etichettatura, conservazione e eliminazione difendibile tra i dati di Microsoft 365 e di terze parti.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
@@ -256,6 +282,61 @@ Per impostazione predefinita, le funzionalità di gestione dei record sono abili
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 Le funzionalità di gestione dei record possono essere applicate agli utenti con licenza in determinate posizioni (siti del team, siti di gruppo e così via). Per informazioni sulla configurazione della gestione dei record da applicare per gli utenti con licenza, vedere [Records Management in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+
+## <a name="data-connectors"></a>Connettori dati 
+
+Microsoft fornisce connettori di dati di terze parti che possono essere configurati nel centro conformità di Microsoft 365. Per un elenco dei connettori di dati forniti da Microsoft, vedere la tabella [dei connettori di dati di terze parti](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) . In questa tabella vengono riepilogate anche le soluzioni di conformità che è possibile applicare ai dati di terze parti dopo l'importazione e l'archiviazione dei dati in Microsoft 365 e i collegamenti alle istruzioni dettagliate per ogni connettore.
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Il vantaggio principale dell'utilizzo dei connettori di dati per l'importazione e l'archiviazione dei dati di terze parti in Microsoft 365 è che è possibile applicare diverse soluzioni di conformità a Microsoft 365 dopo che è stato importato. In questo modo, i dati non Microsoft dell'organizzazione sono conformi alle normative e agli standard che influiscono sull'organizzazione.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
+
+Le licenze seguenti forniscono i diritti per un utente di usufruire dei connettori di dati:
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 info Protection & governance
+- Conformità Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 gestione dei rischi Insider 
+- Microsoft 365 E5/A5 eDiscovery e audit 
+- Office 365 E5/A5
+- Office 365 Advanced Compliance
+
+Per i connettori dati nel centro sicurezza & conformità di M365 forniti da uno dei partner di Microsoft, è necessario che l'organizzazione abbia una relazione commerciale con il partner prima di poter distribuire tali connettori.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+I connettori sono configurati utilizzando il Centro sicurezza & conformità e il catalogo connettore.
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+I servizi dei connettori dati sono un valore tenant Level. Tutti gli utenti destinati a usufruire di questo servizio devono essere concessi in licenza.
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>API di Microsoft Graph per Team DLP
+
+All'inizio di quest'anno è stata [annunciata l'anteprima pubblica dell'API di notifica delle modifiche di Microsoft Graph per i messaggi in teams](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages). Questa API consente agli sviluppatori di creare app in grado di ascoltare i messaggi di Microsoft teams in tempo quasi reale e di abilitare le implementazioni dello scenario DLP sia per i clienti che per gli ISV. Inoltre, Microsoft Graph patch API consente di applicare azioni DLP ai messaggi dei team.
+
+### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
+
+Le funzionalità di [prevenzione della perdita di dati (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) sono ampiamente utilizzate in Microsoft teams in particolare, in quanto le organizzazioni hanno spostato il lavoro a distanza. Se l'organizzazione ha DLP, è ora possibile definire criteri che impediscono agli utenti di condividere le informazioni riservate in un canale di Microsoft teams o in una sessione di chat.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
+
+È necessaria una delle seguenti licenze E5 per disporre del supporto per la protezione di prevenzione della perdita di dati (DLP) in teams chat:
+
+- Microsoft 365 E5/A5
+- Conformità Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 Information Protection and Governance
+- Office 365 E5/A5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
+
+L'accesso API è configurato a livello di tenant.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+
+L'API di Microsoft Graph per i team DLP è un valore a livello di tenant. Tutti gli utenti destinati a usufruire di questo servizio devono essere concessi in licenza.
 
 ## <a name="ediscovery"></a>eDiscovery
 
@@ -533,9 +614,13 @@ Per la protezione delle identità e l'accesso condizionale in particolare, un ut
 
 Advanced audit in Microsoft 365 fornisce una conservazione annuale dei registri di controllo per le attività di utenti e amministratori e fornisce la possibilità di creare criteri di conservazione del registro di controllo personalizzati per gestire la conservazione del registro di controllo per altri servizi di Microsoft 365. Consente inoltre di accedere a eventi cruciali per le indagini e l'accesso a larghezza di banda elevata all'API di attività di gestione di Office 365. Per ulteriori informazioni, vedere [Advanced audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
+È inoltre possibile abilitare un periodo di conservazione di 10 anni con un SKU del componente aggiuntivo. L'SKU del componente aggiuntivo sarà necessario a partire dall'inizio del 2021.
+
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
 Gli utenti con licenza di Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 compliance e Microsoft 365 eDiscovery and audit possono trarre vantaggio da Advanced audit.
+
+Gli utenti con licenza con controllo avanzato e il componente aggiuntivo per la conservazione dei log di controllo di 10 anni possono trarre vantaggio da una conservazione dei log di controllo di 10 anni.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -543,8 +628,10 @@ Un utente beneficia del controllo avanzato perché i record di controllo relativ
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, il controllo avanzato è abilitato a livello di tenant per tutte le organizzazioni che dispongono di un abbonamento a Office 365 o Microsoft 365 E5 e fornisce automaticamente una conservazione annuale dei registri di controllo per le attività (eseguite dagli utenti con la licenza appropriata) in Azure Active Directory, Exchange e SharePoint. Inoltre, le organizzazioni possono utilizzare i criteri di conservazione dei registri di controllo per gestire il periodo di conservazione dei record di controllo generati dall'attività in altri servizi Microsoft 365. Per altre informazioni, vedere [Gestire i criteri di conservazione dei log di controllo](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+Per impostazione predefinita, il controllo avanzato è abilitato a livello di tenant per tutte le organizzazioni che dispongono di un abbonamento a Office 365 o Microsoft 365 E5 e fornisce automaticamente una conservazione annuale dei registri di controllo per le attività (eseguite dagli utenti con la licenza appropriata) in Azure Active Directory, Exchange e SharePoint. Inoltre, le organizzazioni possono utilizzare i criteri di conservazione dei registri di controllo per gestire il periodo di conservazione dei record di controllo generati dall'attività in altri servizi Microsoft 365. La funzionalità di conservazione dei log di controllo di 10 anni è abilitata anche utilizzando gli stessi criteri di conservazione. Per altre informazioni, vedere [Gestire i criteri di conservazione dei log di controllo](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 La conservazione di un anno dei registri di controllo e il controllo degli eventi cruciali si applicano solo agli utenti con la licenza appropriata. Gli amministratori possono inoltre utilizzare i criteri di conservazione dei registri di controllo per specificare una durata di conservazione più breve per i log di controllo di utenti specifici.
+
+la conservazione di 10 anni dei registri di controllo si applica solo agli utenti che dispongono della licenza del componente aggiuntivo appropriata. L'SKU del componente aggiuntivo sarà necessario a partire dall'inizio del 2021.

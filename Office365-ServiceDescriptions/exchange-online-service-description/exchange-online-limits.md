@@ -13,19 +13,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: ac20cda83afbc261035ebd2307660a6e62c872ce
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315367"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214345"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
 Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
 
 > [!NOTE]
-> Se si necessita assistenza con questa operazione o per risolvere un problema, potrebbe essere necessario trovare utili i seguenti articoli:  <br/> *  [Posta elettronica](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (per informazioni su come creare e inviare messaggi di posta elettronica)  <br/> *  [Messaggi di posta elettronica in Microsoft 365 for Business-Guida per gli amministratori](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Risolvere i problemi di Outlook e Microsoft 365 con l'Assistente di supporto e ripristino di Microsoft](https://diagnostics.office.com/) <br/>  *  [Rapporti di mancato recapito della posta elettronica](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Guida di Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)
+> Se si necessita assistenza con questa operazione o per risolvere un problema, potrebbe essere necessario trovare utili i seguenti articoli:
+> - [Posta elettronica](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (per informazioni su come creare e inviare messaggi di posta elettronica)
+>- [Messaggi di posta elettronica in Microsoft 365 for Business-Guida per gli amministratori](https://go.microsoft.com/fwlink/?linkid=529722)
+>- [Risolvere i problemi di Outlook e Microsoft 365 con l'Assistente di supporto e ripristino di Microsoft](https://diagnostics.office.com/)
+>- [Rapporti di mancato recapito della posta elettronica](https://go.microsoft.com/fwlink/?linkid=526653)
+>- [Guida di Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)<
 
 I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
 
@@ -54,7 +59,12 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
 - [Limiti di Exchange ActiveSync](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> *  I limiti applicati a un'organizzazione di Microsoft 365 possono variare in base al tempo di registrazione dell'organizzazione nel servizio. <br/> * Quando un limite viene modificato nei Data Center Microsoft, può essere necessario un certo tempo per applicare la modifica a tutti i clienti esistenti. <br/> * Non è possibile modificare la maggior parte di questi limiti, ma gli utenti devono essere a conoscenza di essi. <br/> * Questi limiti si applicano ai destinatari sia interni che esterni. <br/> * Per impostazione predefinita, Exchange Online Protection (EOP) protegge le cassette postali di Exchange Online. Per i limiti che si applicano alle funzionalità di EOP in Exchange Online, vedere [limiti di Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). <br/> * Per informazioni sui limiti di gruppi di Office 365, vedere "come gestire i gruppi?" in informazioni [sui gruppi di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=846714).
+> - I limiti applicati a un'organizzazione di Microsoft 365 possono variare in base al tempo di registrazione dell'organizzazione nel servizio.
+> - Quando un limite viene modificato nei datacenter Microsoft, la modifica può richiedere un certo tempo per essere applicata a tutti i clienti esistenti.
+> - La maggioranza di questi limiti non è modificabile, tuttavia è opportuno conoscerli.
+> - Questi limiti si applicano ai destinatari sia interni sia esterni.
+> - Per impostazione predefinita, Exchange Online Protection (EOP) protegge le cassette postali di Exchange Online. Per i limiti che si applicano alle funzionalità di EOP in Exchange Online, vedere [limiti di Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - Per informazioni sui limiti del gruppo di Office 365, vedere "come gestire i gruppi?" in informazioni [sui gruppi di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=846714).
 
 ## <a name="address-book-limits"></a>Limiti della rubrica
 
@@ -71,9 +81,8 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
 
 ### <a name="address-book-limits"></a>Limiti della rubrica
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite elenco indirizzi|1000|1000|1000|1000|1000|1000|
 |Limite rubrica offline (OAB, offline address book)|250|250|250|250|250|250|
 |Limite criteri delle rubriche (ABP, address book policies)|250|250|250|250|250|250|
@@ -81,9 +90,8 @@ I limiti in Microsoft Exchange Online rientrano in una delle categorie seguenti:
 
 ### <a name="address-book-limits-across-standalone-plans"></a>Limiti della rubrica nei piani autonomi
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Limite elenco indirizzi|1000|1000|1000|1000|
 |Limite rubrica offline (OAB, offline address book)|250|250|250|250|
 |Limite criteri delle rubriche (ABP, address book policies)|250|250|250|250|
@@ -98,9 +106,8 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 
 ### <a name="storage-limits"></a>Limiti per lo spazio di archiviazione
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Cassette postali utente|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |Archiviazione delle cassette postali<sup>7, 8</sup>|50 GB|50 GB|50 GB|Numero illimitato<sup>1</sup>|Numero illimitato<sup>1</sup>|Non disponibile<sup>4</sup>|
 |Cassette postali condivise<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50 GB<sup>2</sup>|
@@ -114,9 +121,8 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 
 ### <a name="storage-limits-across-standalone-plans"></a>Limiti di spazio di archiviazione nei piani autonomi
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Cassette postali degli utenti|2 GB<sup>1</sup>|50 GB|100 GB|2 GB|
 |Cassette postali di archiviazione<sup>8, 9</sup>|100 GB<sup>1</sup>|50 GB|Unlimited<sup>2</sup>|Non disponibile<sup>5</sup>|
 |Cassette postali condivise<sup>11</sup>|2 GB<sup>1</sup>|50 GB<sup>3</sup>|50 GB<sup>3, 10</sup>|50 GB<sup>3</sup>|
@@ -139,18 +145,16 @@ Exchange Online offre tre tipi di notifiche quando la capacità della cassetta p
 
 ### <a name="capacity-alerts"></a>Avvisi di capacità
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Avviso|49 GB|49 GB|49 GB|98 GB|98 GB|1,96 GB|
 |Invio non consentito|49,5 GB|49,5 GB|49,5 GB|99 GB|99 GB|1,98 GB|
 |Invio e/o ricezione non consentiti|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>Avvisi di capacità nei piani autonomi
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Avviso|1,9 GB<sup>1</sup>|49 GB|98 GB|1,96 GB|
 |Invio non consentito|2 GB<sup>1</sup>|49,5 GB|99 GB|1,98 GB|
 |Invio e/o ricezione non consentiti|2,3 GB<sup>1</sup>|50 GB|100 GB|2 GB|
@@ -186,9 +190,8 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 
 ### <a name="mailbox-folder-limits"></a>Limiti cartella delle cassette postali
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Numero massimo di messaggi per cartella di cassette postali|1 milione|1 milione|1 milione|1 milione|1 milione|1 milione|
 |Avviso per numero di messaggi per cartella di cassette postali|900,000|900,000|900,000|900,000|900,000|900,000|
 |Numero massimo di messaggi per cartella nella cartella Elementi ripristinabili|3 milioni|3 milioni|3 milioni|3 milioni|3 milioni|3 milioni|
@@ -211,9 +214,8 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Limiti cartella delle cassette postali tra piani autonomi
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Numero massimo di messaggi per cartella delle cassette postali|Nessun limite<sup>1</sup>|1 milione|1 milione|1 milione|
 |Avviso per numero di messaggi per cartella delle cassette postali|Nessun limite|900,000|900,000|900,000|
 |Numero massimo di messaggi per cartella nella cartella Elementi recuperabili|Nessun limite|3 milioni|3 milioni|3 milioni|
@@ -259,9 +261,8 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 
 ### <a name="message-limits"></a>Limiti dei messaggi
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite per la dimensione del messaggio - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite per la dimensione del messaggio - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |Limite per la dimensione del messaggio - Outlook per Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
@@ -289,9 +290,8 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 
 ### <a name="message-limits-across-standalone-options"></a>Limiti dei messaggi nelle opzioni autonome
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Limite per la dimensione del messaggio - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
 |Limite per la dimensione del messaggio - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
 |Limite per la dimensione del messaggio - Outlook per Mac|10 MB<sup>4</sup>|150 MB|150 MB||
@@ -323,9 +323,8 @@ I limiti di invio e ricezione sono applicati come protezione dalla posta indesid
 
 I limiti di ricezione si applicano al numero di messaggi che un utente, un gruppo o una cartella pubblica possono ricevere ogni ora. Ciò vale sia per i messaggi ricevuti da Internet che per i server locali. Quando si supera il limite di ricezione, tutte le e-mail inviate a quella cassetta postale riceveranno un rapporto di mancato recapito in cui è indicato che la cassetta postale ha superato la soglia minima di recapito. Dopo un'ora, il limite viene azzerato e la cassetta postale sarà di nuovo in grado di ricevere messaggi.
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Office standard Microsoft 365 business | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Microsoft 365 Business Basic**|**Office standard Microsoft 365 business**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Messaggi ricevuti|3.600 messaggi all'ora|3.600 messaggi all'ora|3.600 messaggi all'ora|3.600 messaggi all'ora|3.600 messaggi all'ora|3.600 messaggi all'ora|
 
 ### <a name="sending-limits"></a>Limiti di invio
@@ -351,9 +350,8 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 
 #### <a name="sending-limits"></a>Limiti di invio
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite di frequenza destinatario<sup>1</sup>|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|
 |Limite destinatario<sup>2</sup>|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|
 |Limite di indirizzi proxy del destinatario|400|400|400|400|400|400|
@@ -365,9 +363,8 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 
 #### <a name="sending-limits-across-standalone-options"></a>Limiti di invio nelle opzioni autonome
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Limite numero di destinatari|Nessun limite<sup>1</sup>|10.000 destinatari al giorno<sup>2</sup>|10.000 destinatari al giorno<sup>2</sup>|10.000 destinatari al giorno<sup>2</sup>|
 |Limite destinatari|1000 destinatari<sup>1</sup>|1000 destinatari|1000 destinatari|1000 destinatari|
 |Limite di indirizzi proxy del destinatario|400|400|400|400|
@@ -396,9 +393,8 @@ Questi limiti controllano il periodo di tempo durante il quale è possibile acce
 
 ### <a name="retention-limits"></a>Limiti di conservazione
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Periodo di mantenimento per la cartella Posta eliminata|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|
 |Periodo di conservazione per gli elementi rimossi dalla cartella Posta eliminata|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|
 |Periodo di conservazione per la cartella Posta indesiderata|30 giorni|30 giorni|30 giorni|30 giorni|30 giorni|30 giorni|
@@ -408,9 +404,8 @@ Questi limiti controllano il periodo di tempo durante il quale è possibile acce
 
 ### <a name="retention-limits-across-standalone-options"></a>Limiti di mantenimento nelle opzioni autonome
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Periodo di mantenimento per la cartella Posta eliminata|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|
 |Periodo di conservazione per gli elementi rimossi dalla cartella Posta eliminata|14 giorni<sup>1</sup>|14 giorni<sup>2</sup>|14 giorni<sup>2</sup>|14 giorni<sup>2</sup>|
 |Periodo di mantenimento per la cartella Posta indesiderata|2 anni<sup>1</sup>|30 giorni|30 giorni|30 giorni|
@@ -430,14 +425,13 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 ### <a name="distribution-group-limits"></a>Limiti dei gruppi di distribuzione
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Numero massimo di membri del gruppo di distribuzione<sup>1</sup>|100.000 membri|100.000 membri|100.000 membri|100.000 membri|100.000 membri|100.000 membri|
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|
 |Dimensione massima dei messaggi per i gruppi di distribuzione con 5.000 a 99.999 membri|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Dimensione massima dei messaggi per i gruppi di distribuzione con 100.000 membri|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Numero massimo di proprietari del gruppo di distribuzione|10  |10  |10  |10  |10  |10  |
+|Numero massimo di proprietari del gruppo di distribuzione|10 |10 |10 |10 |10 |10 |
 |Numero massimo di gruppi che è possibile creare|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -445,12 +439,11 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 ### <a name="distribution-group-limits-across-standalone-options"></a>Limiti dei gruppi di distribuzione nelle opzioni autonome
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Numero massimo di membri del gruppo di distribuzione|100.000 membri<sup>1</sup>|100.000 membri|100.000 membri|100.000 membri|
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.|5.000 membri o più<sup>1</sup>|5.000 membri o più|5.000 membri o più|5.000 membri o più|
-|Numero massimo di proprietari del gruppo di distribuzione|10  |10  |10  |10  |
+|Numero massimo di proprietari del gruppo di distribuzione|10 |10 |10 |10 |
 |Numero massimo di gruppi che è possibile creare|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -460,29 +453,28 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 L'elenco seguente include limiti che si applicano alle regole del Journal, alle regole di trasporto (note anche come regole a livello di organizzazione) e ai limiti che si applicano alle regole della posta in arrivo. Le regole di Posta in arrivo vengono configurate da utenti singoli e applicate ai messaggi inviati e ricevuti dalla cassetta postale del singolo utente.
 
-- **Numero massimo di regole di journal** Numero massimo di regole di journal che possono esistere nell'organizzazione.
+- **Numero massimo di regole del Journal**: numero massimo di regole di Journal che possono esistere nell'organizzazione.
 
-- **Numero massimo di regole di trasporto** Numero massimo di regole che possono esistere nell'organizzazione.
+- **Numero massimo di regole di trasporto**: il numero massimo di regole che possono esistere nell'organizzazione.
 
-- **Dimensione massima di una singola regola di trasporto** Numero massimo di caratteri che possono essere utilizzati in una singola regola di trasporto. I caratteri vengono utilizzati nelle condizioni, nelle eccezioni e nelle azioni.
+- **Dimensione massima di una singola regola di trasporto**: il numero massimo di caratteri che è possibile utilizzare in una singola regola di trasporto. I caratteri vengono utilizzati nelle condizioni, nelle eccezioni e nelle azioni.
 
-- **Limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto** Il numero totale di caratteri utilizzati, incluse tutte le espressioni regolari in tutte le condizioni delle regole di trasporto e le eccezioni nell'organizzazione. È possibile avere poche regole che utilizzano espressioni regolari lunghe e complesse o molte regole che utilizzano espressioni regolari semplici.
+- **Limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto**: il numero totale di caratteri utilizzati, incluse tutte le espressioni regolari in tutte le condizioni delle regole di trasporto e le eccezioni nell'organizzazione. È possibile avere poche regole che utilizzano espressioni regolari lunghe e complesse o molte regole che utilizzano espressioni regolari semplici.
 
-- **Limiti di analisi per il contenuto degli allegati** Le condizioni delle regole di trasporto consentono di esaminare il contenuto degli allegati dei messaggi, ma vengono controllati solo i primi 1 MB del testo Estratto da un allegato. Questo limite di 1 MB si riferisce al testo estratto dall'allegato, non alle dimensioni dei file dell'allegato. Ad esempio, un file di 2 MB può contenere meno di 1 MB di testo, in modo che venga controllato tutto il testo.
+- **Limiti di analisi per il contenuto degli allegati**: le condizioni delle regole di trasporto consentono di esaminare il contenuto degli allegati dei messaggi, ma vengono controllati solo i primi 1 MB del testo Estratto da un allegato. Questo limite di 1 MB si riferisce al testo estratto dall'allegato, non alle dimensioni dei file dell'allegato. Ad esempio, un file di 2 MB può contenere meno di 1 MB di testo, in modo che venga controllato tutto il testo.
 
-- **Numero massimo di destinatari aggiunti a un messaggio da tutte le regole di trasporto** Quando un messaggio è interessato da diverse regole di trasporto, è possibile aggiungere solo un numero limitato di destinatari al messaggio. Una volta raggiunto tale limite, i destinatari rimanenti non verranno aggiunti al messaggio. Non è inoltre possibile aggiungere i gruppi di distribuzione a un messaggio mediante una regola di trasporto.
+- **Numero massimo di destinatari aggiunti a un messaggio da tutte le regole di trasporto**: quando un messaggio viene agito in base a regole di trasporto diverse, è possibile aggiungere al messaggio solo un numero finito di destinatari. Una volta raggiunto tale limite, i destinatari rimanenti non verranno aggiunti al messaggio. Non è inoltre possibile aggiungere i gruppi di distribuzione a un messaggio mediante una regola di trasporto.
 
-- **Limiti di inoltro** Numero massimo di destinatari configurabili per una regola di Posta in arrivo o di trasporto con un'azione di reindirizzamento. Se una regola viene configurata per reindirizzare un messaggio a un numero maggiore di destinatari, la regola non verrà applicata e tutti i messaggi che soddisfano la condizione della regola non verranno reindirizzati a nessuno dei destinatari elencati nella regola.
+- **Limite di inoltro**: il numero massimo di destinatari che possono essere configurati per una posta in arrivo o una regola di trasporto con un'azione di reindirizzamento. Se una regola viene configurata per reindirizzare un messaggio a un numero maggiore di destinatari, la regola non verrà applicata e tutti i messaggi che soddisfano la condizione della regola non verranno reindirizzati a nessuno dei destinatari elencati nella regola.
     
-- **Numero di reindirizzamenti di un messaggio** Numero di volte in cui un messaggio verrà reindirizzato, inoltrato o a cui verrà risposto automaticamente sulla base delle regole di Posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene eliminato senza inviare un rapporto di mancato recapito (NDR) all'utente B che indica che il messaggio non è stato recapitato all'utente C. È possibile utilizzare l'intestazione X-MS-Exchange-Inbox-rules-loop per determinare il numero di reindirizzamenti di un messaggio. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
+- **Numero di volte in cui un messaggio viene reindirizzato**: numero di volte in cui un messaggio verrà reindirizzato, inoltrato o risposto automaticamente in base alle regole della posta in arrivo. L'Utente A ha, ad esempio, una regola di Posta in arrivo basata sul mittente che reindirizza i messaggi all'Utente B. L'Utente B ha una regola di Posta in arrivo che inoltra i messaggi all'Utente C sulla base di parole chiave presenti nella riga dell'oggetto. Se un messaggio soddisfa entrambe queste condizioni, il messaggio viene inviato soltanto all'Utente B; non viene inoltrato all'Utente C in quanto è consentito solo un reindirizzamento. In questo caso, il messaggio viene eliminato senza inviare un rapporto di mancato recapito (NDR) all'utente B che indica che il messaggio non è stato recapitato all'utente C. È possibile utilizzare l'intestazione X-MS-Exchange-Inbox-rules-loop per determinare il numero di reindirizzamenti di un messaggio. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
 
-- **Numero di volte in cui un messaggio viene reindirizzato dalle regole di trasporto** Il numero di volte in cui un messaggio verrà reindirizzato in base alle regole di trasporto. Ad esempio, l'organizzazione di Exchange Tilt Toys dispone di una regola di trasporto per reindirizzare tutti i messaggi inviati dall'utente a all'utente B che si trova nell'organizzazione di Exchange Contoso. All'interno dell'organizzazione di Exchange Contoso è presente una regola di trasporto per reindirizzare tutti i messaggi inviati all'utente B all'utente C che si trova nell'organizzazione di Exchange A. Datum Corporation. In questo caso, il messaggio viene eliminato e un rapporto di mancato recapito (NDR) con codice di stato e rifiuto del messaggio *550 trasporto 5.7.128. Regole. RejectMessage Il numero di cicli delle regole di trasporto superato e il messaggio rifiutato* viene inviato all'utente a. È possibile utilizzare l'intestazione X-MS-Exchange-Transport-Rules-loop per determinare il numero di volte in cui un messaggio è stato reindirizzato dalle regole di trasporto. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
+- **Numero di volte in cui un messaggio viene reindirizzato dalle regole di trasporto**: numero di volte in cui un messaggio verrà reindirizzato in base alle regole di trasporto. Ad esempio, l'organizzazione di Exchange Tilt Toys dispone di una regola di trasporto per reindirizzare tutti i messaggi inviati dall'utente a all'utente B che si trova nell'organizzazione di Exchange Contoso. All'interno dell'organizzazione di Exchange Contoso è presente una regola di trasporto per reindirizzare tutti i messaggi inviati all'utente B all'utente C che si trova nell'organizzazione di Exchange A. Datum Corporation. In questo caso, il messaggio viene eliminato e un rapporto di mancato recapito (NDR) con codice di stato e rifiuto del messaggio *550 trasporto 5.7.128. Regole. RejectMessage Il numero di cicli delle regole di trasporto superato e il messaggio rifiutato* viene inviato all'utente a. È possibile utilizzare l'intestazione X-MS-Exchange-Transport-Rules-loop per determinare il numero di volte in cui un messaggio è stato reindirizzato dalle regole di trasporto. Questa intestazione rimane anche tra i limiti dell'organizzazione di Exchange.
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>Limiti delle regole di journal, trasporto e posta in arrivo
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Numero massimo di regole di journal|300 regole|300 regole|300 regole|300 regole|300 regole|300 regole|
 |Numero massimo di regole di trasporto|300 regole|300 regole|300 regole|300 regole|300 regole|300 regole|
 |Dimensione massima di una singola regola di trasporto|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
@@ -500,9 +492,8 @@ L'elenco seguente include limiti che si applicano alle regole del Journal, alle 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limiti delle regole di Journal, trasporto e posta in arrivo nelle opzioni autonome
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Numero massimo di regole di journal|Nessun limite|50 regole|50 regole|50 regole|
 |Numero massimo di regole di trasporto|Nessun limite|300 regole|300 regole|300 regole|
 |Dimensione massima di una singola regola di trasporto|40 KB|8 KB|8 KB|8 KB|
@@ -528,9 +519,8 @@ Durante i periodi di intenso utilizzo è possibile che alcuni mittenti non ricev
 
 ### <a name="moderation-limits"></a>Limiti di moderazione
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Dimensione massima della cassetta postale di arbitraggio|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |Numero massimo di moderatori|10 moderatori|10 moderatori|10 moderatori|10 moderatori|10 moderatori|10 moderatori|
 |Scadenza per i messaggi in attesa di moderazione|2 giorni|2 giorni|2 giorni|2 giorni|2 giorni|2 giorni|
@@ -538,9 +528,8 @@ Durante i periodi di intenso utilizzo è possibile che alcuni mittenti non ricev
 
 ### <a name="moderation-limits-across-standalone-options"></a>Limiti di moderazione nelle opzioni autonome
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Dimensione massima della cassetta postale di arbitraggio|Nessun limite<sup>1</sup>|10 GB|10 GB|10 GB|
 |Numero massimo di moderatori|Nessun limite|10 moderatori|10 moderatori|10 moderatori|
 |Scadenza per i messaggi in attesa di moderazione|5 giorni<sup>1</sup>|2 giorni|2 giorni|2 giorni|
@@ -559,16 +548,14 @@ I seguenti limiti sono validi per Microsoft Exchange ActiveSync, un protocollo c
 
 ### <a name="exchange-activesync-limits"></a>Limiti di Exchange ActiveSync
 
-||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite di dispositivi Exchange ActiveSync|100|100|100|100|100|100|
 |Limite di eliminazione di dispositivi Exchange ActiveSync|20|20|20|20|20|20|
 
-### <a name="exchange-activesync-limits-across-standalone-options"></a>Limiti di Exchange ActiveSync tra le opzioni autonome 
+### <a name="exchange-activesync-limits-across-standalone-options"></a>Limiti di Exchange ActiveSync tra le opzioni autonome
 
-||||||
+| Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**|**Exchange Server 2013**|**Exchange Online piano 1**|**Exchange Online piano 2**|**Chiosco Exchange Online**|
 |Limite di dispositivi Exchange ActiveSync|100|100|100|100|
 |Limite di eliminazione di dispositivi Exchange ActiveSync|20|20|20|20|
