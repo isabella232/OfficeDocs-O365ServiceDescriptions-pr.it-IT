@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214385"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245731"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -168,11 +168,11 @@ I clienti con licenza di Office 365 E1/A1/E3/a3 e Microsoft 365 E3/a3 saranno in
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Compliance Manager è provisioning per impostazione predefinita per il tenant. Gli amministratori configurano le autorizzazioni utente e assegnano i ruoli in modo che gli utenti non amministratori dell'organizzazione possano iniziare a usare Compliance Manager. Per ulteriori informazioni, vedere [documentazione](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles).
+Compliance Manager è provisioning per impostazione predefinita per il tenant. Gli amministratori configurano le autorizzazioni utente e assegnano i ruoli in modo che gli utenti non amministratori dell'organizzazione possano iniziare a usare Compliance Manager. Per ulteriori informazioni, vedere [Introduzione a Compliance Manager: impostare le autorizzazioni utente e assegnare i ruoli](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-L'accesso a Compliance Manager è controllato mediante l'impostazione delle autorizzazioni utente e l'assegnazione dei ruoli. Per ulteriori informazioni, vedere [documentazione](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+L'accesso a Compliance Manager è controllato mediante l'impostazione delle autorizzazioni utente e l'assegnazione dei ruoli. Per ulteriori informazioni, vedere [Introduzione a Compliance Manager: impostare le autorizzazioni utente e assegnare i ruoli](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
@@ -489,11 +489,11 @@ Le barriere informative sono criteri che un amministratore può configurare per 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Gli utenti traggono vantaggio dalle funzionalità di conformità avanzate delle barriere informative quando sono limitate dalla comunicazione con gli altri. Ad esempio:
+Gli utenti traggono vantaggio dalle funzionalità di conformità avanzate delle barriere informative quando sono limitate dalla comunicazione con gli altri. Ad esempio:<br><br>
 
 | Scenario | Chi ha bisogno di una licenza? |
-|:-------|:------|
-| Due gruppi (gruppo 1 e gruppo 2) non sono in grado di comunicare tra loro, ovvero gli utenti del gruppo 1 sono limitati dalla comunicazione con gli utenti del gruppo 2 e gli utenti del gruppo 2 sono limitati dalla comunicazione con gli utenti del gruppo 1. | Utenti sia del gruppo 1 che del gruppo 2 ||
+|:------|:------|:------|
+| Due gruppi (gruppo &nbsp; 1 e gruppo &nbsp; 2) non sono in grado di comunicare tra loro, ovvero &nbsp; gli utenti del gruppo 1 sono limitati dalla comunicazione con &nbsp; gli utenti del gruppo 2 e &nbsp; gli utenti del gruppo 2 sono limitati dalla comunicazione con &nbsp; gli utenti del gruppo 1. | Utenti sia del gruppo &nbsp; 1 che del gruppo &nbsp; 2 |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
