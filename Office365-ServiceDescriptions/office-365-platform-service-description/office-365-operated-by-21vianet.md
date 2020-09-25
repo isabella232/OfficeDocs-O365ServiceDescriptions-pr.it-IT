@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: b5980a138152f874f75e10056c98da10bd9aa9ae
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132230"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261538"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -23,7 +23,7 @@ Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi 
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-Microsoft non utilizza il servizio stesso. 21Vianet opera, fornisce e gestisce il recapito del servizio. 21Vianet è il principale provider di servizi Internet Data Center neutro per i vettori in Cina, che fornisce hosting, servizi di rete gestiti e servizi di infrastruttura cloud computing. Tramite la gestione delle licenze Microsoft Technologies, 21Vianet gestisce i datacenter di Office 365 locali per offrire la possibilità di usare i servizi di Office 365 mantenendo i dati in Cina. 21Vianet fornisce anche [servizi di sottoscrizione e fatturazione, nonché supporto](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone).
+Microsoft non utilizza il servizio stesso. 21Vianet opera, fornisce e gestisce il recapito del servizio. 21Vianet è il principale provider di servizi Internet Data Center neutro per i vettori in Cina, che fornisce hosting, servizi di rete gestiti e servizi di infrastruttura cloud computing. Tramite la gestione delle licenze Microsoft Technologies, 21Vianet gestisce i datacenter di Office 365 locali per offrire la possibilità di usare i servizi di Office 365 mantenendo i dati in Cina. 21Vianet fornisce anche [servizi di sottoscrizione e fatturazione, nonché supporto](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true).
 
 > [!NOTE]
 > Questi servizi sono soggetti alle leggi vigenti in Cina.
@@ -37,15 +37,14 @@ Ogni piano di Office 365 gestito da 21Vianet include una serie di servizi indivi
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-|||||||||
+| Servizio | Office 365 Business Essentials gestito da by 21Vianet | Office 365 Business gestito da 21Vianet | Office 365 Business Premium gestito da 21Vianet | Office 365 A1 gestito da 21Vianet | Office 365 Enterprise E1 gestito da 21Vianet | Office 365 Enterprise E3 gestito da 21Vianet | Office 365 Enterprise F3 gestito da 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Servizio**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Piattaforma Office 365<sup>1</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Exchange Online|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |SharePoint Online|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |OneDrive for Business|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Skype for Business online|Sì|No|Sì|Sì|Sì|Sì|Sì|
-|Office per il Web|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Office per il web|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Office 365 ProPlus|No|No|No|No|No|Sì|No|
 |Project Online<sup>2</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Power BI|No|No|No|No|No|No|No|
@@ -56,7 +55,7 @@ Ogni piano di Office 365 gestito da 21Vianet include una serie di servizi indivi
 <sup>1</sup> Include funzionalità come amministrazione di Office 365, app della suite Office 365, gestione account utente, domini, integrità e continuità dei servizi, creazione di report, aggiornamento dei servizi, supporto e formazione, gestione delle reti e così via. Per maggiori informazioni, vedere la tabella [Funzionalità della piattaforma](office-365-operated-by-21vianet.md#platform-features).
 <br/><sup>2</sup> Project Online non è incluso, ma può essere acquistato come servizio aggiuntivo separato oppure aggiunto gratuitamente al piano di Office 365 A1.
 <br/><sup>3</sup> Visio per il consumo Web (funzionalità di visualizzazione) è disponibile gratuitamente. Le funzionalità di creazione e modifica di Visio per il Web richiedono una licenza. Per ulteriori informazioni su Visio per il Web, vedere la [Descrizione di Visio per il servizio Web](../visio-online-service-description/visio-online-service-description.md).
-<br/><sup>4</sup> Azure Information Protection (AIP) è parzialmente supportato in Office 365 gestito da 21ViaNet. Per ulteriori informazioni, vedere [parità tra Azure Information Protection per Office 365 gestito da 21ViaNet e offerte commerciali](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet).
+<br/><sup>4</sup> Azure Information Protection (AIP) è parzialmente supportato in Office 365 gestito da 21ViaNet. Per ulteriori informazioni, vedere [parità tra Azure Information Protection per Office 365 gestito da 21ViaNet e offerte commerciali](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true).
 
 ## <a name="system-requirements"></a>Requisiti di sistema
 
@@ -73,10 +72,9 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-|||||||||
+| Funzionalità | Office 365 Business Essentials gestito da by 21Vianet | Office 365 Business gestito da 21Vianet | Office 365 Business Premium gestito da 21Vianet | Office 365 A1 gestito da 21Vianet | Office 365 Enterprise E1 gestito da 21Vianet | Office 365 Enterprise E3 gestito da 21Vianet | Office 365 Enterprise F3 gestito da 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
-|**[Funzionalità di amministrazione di Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**||||||||
+|**[Funzionalità di amministrazione di Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
 |Amministrare Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365 o Windows PowerShell|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Proteggere i contenuti utilizzando Protezione delle informazioni di Azure|No|No|No|No|No|No|No|
 |Traduzione manuale dei post del centro messaggi tramite la traduzione automatica|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -217,9 +215,8 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-||||||||||||
+| Funzionalità | Office Professional Plus 2013 gestito da 21Vianet | Office Professional Plus 2016 gestito da 21Vianet | Office 365 ProPlus gestito da 21Vianet | Office 365 Business gestito da 21Vianet | Office 365 Business Essentials gestito da by 21Vianet | Office 365 Business Premium gestito da 21Vianet | Office 365 A1 gestito da 21Vianet | Office 365 Enterprise E1 gestito da 21Vianet | Office 365 Enterprise E3 gestito da 21Vianet | Office 365 Enterprise F3 gestito da 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office Professional Plus 2013 gestito da 21Vianet**|**Office Professional Plus 2016 gestito da 21Vianet**|**Office 365 ProPlus gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**Applicazioni di Office**|||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sì|Sì|Sì|Sì|No|Sì|N.<sup>5</sup>|No|Sì|No|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sì|Sì|Sì|Sì|No|Sì|N.<sup>5</sup>|No|Sì|No|
@@ -298,9 +295,8 @@ Nella tabella seguente sono riportati i collegamenti ai confronti di Office per 
 > - Microsoft Office 365 ProPlus è una sottoscrizione mensile per la versione più recente della famiglia di prodotti desktop Office.
 > - Microsoft Office Web Apps Server 2013 i clienti locali ricevono un ufficio per la licenza di modifica Web se hanno acquistato una licenza per la famiglia di prodotti desktop Office (ad esempio Office Professional Plus, Office standard o una licenza di Office 365 ProPlus).
 
-||||
+| Applicazione | Office per il Web gestito da 21Vianet | Collegamento a un confronto dettagliato sulla funzionalità |
 |:-----|:-----|:-----|
-|**Applicazione**|**Office per il Web gestito da 21Vianet**|**Collegamento a un confronto dettagliato sulla funzionalità**|
 |Word|Word per il Web gestito da 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel per il Web gestito da 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote per il Web gestito da 21Vianet|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -313,9 +309,8 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-|||||||||
+| Funzionalità | Office 365 Business Essentials gestito da by 21Vianet | Office 365 Business gestito da 21Vianet | Office 365 Business Premium gestito da 21Vianet | Office 365 A1 gestito da 21Vianet | Office 365 Enterprise E1 gestito da 21Vianet | Office 365 Enterprise E3 gestito da 21Vianet | Office 365 Enterprise F3 gestito da 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**[Pianificazione e distribuzione](../exchange-online-service-description/planning-and-deployment.md)**||||||||
 |Distribuzione ibrida supportata|Sì<sup>9, 10</sup>|Sì<sup>10</sup>|Sì<sup>9, 10</sup>|Sì<sup>10</sup>|Sì<sup>10</sup>|Sì<sup>10</sup>|Sì<sup>10</sup>|
 |Migrazione IMAP supportata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -426,9 +421,9 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 <br/><sup>7</sup> per eDiscovery, è necessaria una query separata per il cloud locale.
 <br/><sup>8</sup> pop è supportato, ma IMAP non lo è.
 <br/><sup>9</sup> Office 365 Business Essentials and Business Premium non forniscono diritti di accesso per l'utilizzo con i server locali. Per essere compatibile, i clienti devono acquistare o aver precedentemente acquistato i CAL appropriati o eseguire l'aggiornamento a una SKU Enterprise che fornisca questi diritti di accesso.
-<br/><sup>10</sup> la procedura guidata di configurazione ibrida è disponibile per le distribuzioni locali di Exchange 2013 CU5 e versioni successive. Tuttavia, alcune funzionalità ibride presentano limitazioni, vedere l'argomento della guida. Per informazioni dettagliate, vedere [Office 365 gestito da 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
+<br/><sup>10</sup> la procedura guidata di configurazione ibrida è disponibile per le distribuzioni locali di Exchange 2013 CU5 e versioni successive. Tuttavia, alcune funzionalità ibride presentano limitazioni, vedere l'argomento della guida. Per informazioni dettagliate, vedere [Office 365 gestito da 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true).
 <br/><sup>11</sup> per Office 365 gestito da 21ViaNet, LinkedIn è disponibile, ma non Facebook.
-<br/><sup>12</sup> l'installazione della distribuzione ibrida è disponibile tramite la procedura guidata di configurazione ibrida per Exchange 2013 CU5 oppure può essere configurata manualmente se si dispone di Exchange 2013 SP1. Vedere l'argomento della Guida per informazioni dettagliate, vedere [Office 365 gestito da 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
+<br/><sup>12</sup> l'installazione della distribuzione ibrida è disponibile tramite la procedura guidata di configurazione ibrida per Exchange 2013 CU5 oppure può essere configurata manualmente se si dispone di Exchange 2013 SP1. Vedere l'argomento della Guida per informazioni dettagliate, vedere [Office 365 gestito da 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true).
 <br/><sup>13</sup> gli account connessi sono supportati per gli &amp; account IMAP POP, ma sono disattivati per Outlook.com (Hotmail).
 <br/><sup>14</sup> se si utilizza un cmdlet per l'utilizzo con l'elenco indirizzi e l'elenco indirizzi globale non è supportato.
 <br/><sup>15</sup> le attuali funzionalità di crittografia dei messaggi di Office 365 (OME) sono un'evoluzione delle soluzioni di Information Rights Management (IRM) correnti e precedenti. Per ulteriori informazioni su OME, vedere [domande frequenti sulla crittografia dei messaggi di Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-faq).
@@ -472,9 +467,8 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-||||
+| Funzionalità | EOP autonomo per Office 365 gestito da 21Vianet | Funzionalità di EOP in Exchange Online per Office 365 gestito da 21Vianet |
 |:-----|:-----|:-----|
-|**Funzionalità**|**EOP autonomo per Office 365 gestito da 21Vianet**|**Funzionalità di EOP in Exchange Online per Office 365 gestito da 21Vianet**|
 |[destinatari posta](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|Sì<sup>1</sup>|Sì<sup>1</sup>|
 |[Autorizzazioni del gruppo di ruolo Admin](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|Sì<sup>2</sup>|Sì|
 |[Gestione del dominio](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|Sì<sup>3</sup>|Sì<sup>3</sup>|
@@ -526,16 +520,15 @@ Archiviazione Exchange Online è disponibile attraverso i piani di sottoscrizion
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-|**Piano**|**Descrizione**|
+| Piano | Descrizione |
 |:-----|:-----|
 |**Archiviazione Exchange Online per Exchange Server per Office 365 gestito da 21Vianet**|Archiviazione basata sul cloud per utenti con cassette postali principali in Exchange Server 2013 o Exchange 2010 (SP2 o versione successiva).  <br/> Per aggiungere un archivio basato sul cloud a una cassetta postale principale che si trova su un server Exchange locale, è necessario configurare la distribuzione ibrida. Per ulteriori informazioni sulle distribuzioni ibride, vedere [Distribuzioni ibride di Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Archiviazione Exchange Online per Exchange Online per Office 365 gestito da 21Vianet**| I piani riportati di seguito includono già la possibilità di archiviare e non necessitano di Archiviazione Exchange Online come componente aggiuntivo:  <br/>  Office 365 A1 gestito da 21Vianet  <br/>  Office 365 Enterprise E3 gestito da 21Vianet  <br/>  Exchange Online, piano 2 per Office 365 gestito da 21Vianet  <br/>  Per informazioni dettagliate sulle capacità di archiviazione delle cassette postali di Exchange Online, vedere [Cassette postali di archiviazione in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|
 
-Nella tabella seguente vengono illustrate le funzionalità di Archiviazione Exchange Online disponibili in Office 365 gestito da 21Vianet.
+Nella tabella seguente vengono illustrate le funzionalità di Archiviazione Exchange Online disponibili in Office 365 gestito da 21Vianet.<br><br>
 
-||||
+| Funzionalità | Archiviazione Exchange Online per Exchange Server<sup>1</sup> | Archiviazione Exchange Online per Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
-|**Funzionalità**|**Archiviazione Exchange Online per Exchange Server<sup>1</sup>**|**Archiviazione Exchange Online per Exchange Online<sup>2</sup>**|
 |**[Funzionalità di archiviazione in Exchange Online Archiving](../exchange-online-archiving-service-description/archive-features.md)**|||
 |Cassetta postale di archiviazione|No|Sì|
 |Spostamento di messaggi in base ai criteri di archiviazione|No|Sì|
@@ -568,13 +561,10 @@ Nella tabella seguente vengono illustrate le funzionalità di Archiviazione Exch
 Ogni piano di Office 365 include il servizio SharePoint Online, ma non tutti i piani supportano tutte le funzionalità di SharePoint. Nella seguente tabella viene indicato se una funzionalità è disponibile o meno in un piano.
 
 > [!NOTE]
-Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
+Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.<br><br>
 
-****
-
-|||||||||
+| Funzionalità per sviluppatori | Office 365 Business Essentials gestito da by 21Vianet | Office 365 Business gestito da 21Vianet | Office 365 Business Premium gestito da 21Vianet | Office 365 A1 gestito da 21Vianet | Office 365 Enterprise E1 gestito da 21Vianet | Office 365 Enterprise E3 gestito da 21Vianet | Office 365 Enterprise F3 gestito da 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità per sviluppatori**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Catalogo app (SharePoint)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Distribuzione di applicazioni: app ospitate nel cloud|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Distribuzione di applicazioni: app ospitate da SharePoint|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -834,9 +824,8 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 > - Tale tabella indica la disponibilità del servizio e del client tra opzioni Office 365. Se si desidera confrontare le caratteristiche individuali tra i vari client desktop Skype for business, i client Web e i client mobili, vedere [tabelle di confronto client desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) e [tabelle di confronto dei client mobili](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables).
 > - Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-|||||||||
+| Funzionalità | Office 365 Business Essentials gestito da by 21Vianet | Office 365 Business gestito da 21Vianet | Office 365 Business Premium gestito da 21Vianet | Office 365 A1 gestito da 21Vianet | Office 365 Enterprise E1 gestito da 21Vianet | Office 365 Enterprise E3 gestito da 21Vianet | Office 365 Enterprise F3 gestito da 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1, 4</sup>|Sì<sup>1, 4</sup>|Sì|No|
 |Lync 2013 Basic|Sì|Sì|Sì|Sì|Sì|Sì|No|
@@ -975,10 +964,9 @@ Nella tabella riportata di seguito sono elencati i piani di Office 365 che inclu
 > - Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 > - Gli utenti con licenza Skype for Business online Piano autonomo 2 riceveranno il client Skype for Business Basic, non il client completo Skype for Business. Se si desidera che gli utenti ricevano il client Skype for Business, sarà necessario aggiornare la loro licenza (ad esempio, una licenza Enterprise). Per distribuire il client Skype for Business ai propri utenti, vedere [Distribuire il client Skype for Business in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
 
-||||
+| Funzionalità | Skype for Business online autonomo Piano 1 per Office 365 gestito da 21Vianet | Skype for Business online autonomo Piano 2 per Office 365 gestito da 21Vianet |
 |:-----|:-----|:-----|
-|**Funzionalità**|**Skype for Business online autonomo Piano 1 per Office 365 gestito da 21Vianet**|**Skype for Business online autonomo Piano 2 per Office 365 gestito da 21Vianet**|
-|**[Client per Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**|||
+|**[Skype for Business Online: client, app per dispositivi mobili e dispositivi per sale riunioni](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**|||
 |Skype for Business|N<sup>° 1</sup>|N<sup>° 1</sup>|
 |Lync 2013 Basic|Sì|Sì|
 |App di Windows Store per Skype for Business|Sì|Sì|
@@ -1101,9 +1089,8 @@ Nella tabella seguente sono elencate le funzionalità di Project Online disponib
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-|||||||
+| Funzionalità | Project Online Essentials per Office 365 gestito da 21Vianet | Project Online Professional per Office 365 gestito da 21Vianet | Project Online Premium per Office 365 gestito da 21Vianet | Project Professional 2016 per Office 365 gestito da 21Vianet | Project Server 2016 per Office 365 gestito da 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**|**Project Online Essentials per Office 365 gestito da 21Vianet**|**Project Online Professional per Office 365 gestito da 21Vianet**|**Project Online Premium per Office 365 gestito da 21Vianet**|**Project Professional 2016 per Office 365 gestito da 21Vianet**|**Project Server 2016 per Office 365 gestito da 21Vianet**|
 |**Funzionalità di base (client desktop)**||||||
 |[Aggiunta di colonne](../project-online-service-description/core-functionality.md#add-columns)|No|Sì|Sì|Sì|No|
 |[Backstage](../project-online-service-description/core-functionality.md#backstage)|No|Sì|Sì|Sì|No|

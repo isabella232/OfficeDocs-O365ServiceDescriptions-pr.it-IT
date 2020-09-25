@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Con ogni sottoscrizione Microsoft Office 365 Enterprise, Business, Education e Government, il supporto tecnico Microsoft fornisce assistenza globale per problemi tecnici e relativi a prevendita, fatturazione e sottoscrizione. Il supporto è disponibile online tramite l'interfaccia di amministrazione di Microsoft365 e per telefono sia per gli abbonamenti a pagamento che per quelli di prova. Per ulteriori informazioni, vedere Opzioni di supporto Microsoft.
-ms.openlocfilehash: efc4153cd928152ff614134f879533277220d331
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Con ogni Microsoft Office 365 per l'abbonamento Enterprise, business, Education e Government, il supporto Microsoft fornisce supporto tecnico globale, prevendita, fatturazione e sottoscrizione. Il supporto è disponibile online tramite l'interfaccia di amministrazione di Microsoft365 e per telefono sia per gli abbonamenti a pagamento che per quelli di prova. Per ulteriori informazioni, vedere Opzioni di supporto Microsoft.
+ms.openlocfilehash: b7f4a0fffc903c65a2a51e2267b420c24fdd12b0
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131490"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261568"
 ---
 # <a name="support"></a>Supporto
 
-Con ogni sottoscrizione Microsoft Office 365 Enterprise, Business, Education e Government, il supporto tecnico Microsoft fornisce assistenza globale per problemi tecnici e relativi a prevendita, fatturazione e sottoscrizione. Il supporto è disponibile sia online tramite l'interfaccia di amministrazione di Microsoft 365 sia tramite telefono per abbonamenti a pagamento e a prova. Per ulteriori informazioni, vedere [Opzioni di supporto Microsoft](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+Con ogni Microsoft Office 365 per l'abbonamento Enterprise, business, Education e Government, il supporto Microsoft fornisce supporto tecnico globale, prevendita, fatturazione e sottoscrizione. Il supporto è disponibile sia online tramite l'interfaccia di amministrazione di Microsoft 365 sia tramite telefono per abbonamenti a pagamento e a prova. Per ulteriori informazioni, vedere [Opzioni di supporto Microsoft](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
 Gli amministratori autorizzati possono utilizzare l'interfaccia di amministrazione di Microsoft 365 per inviare richieste di servizio online, accedere ai numeri di telefono e visualizzare tutte le richieste di servizio aperte e chiuse di recente. Le richieste di servizio inoltrate nell'interfaccia di amministrazione possono essere riaperte fino a 14 giorni dopo la chiusura della richiesta. Per istruzioni, vedere [contattare il supporto tecnico Microsoft 365 for business](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
@@ -56,23 +56,23 @@ Di seguito sono elencati alcuni esempi di problemi relativi alla gestione di fat
 
 ## <a name="technical-support"></a>Supporto tecnico
 
-Supporto tecnico per le sottoscrizioni Microsoft 365 fornisce assistenza per l'installazione di base, l'installazione e l'utilizzo tecnico generale. Nella seguente tabella sono elencati alcuni esempi di questi problemi.
+Supporto tecnico per le sottoscrizioni Microsoft 365 fornisce assistenza per l'installazione di base, l'installazione e l'utilizzo tecnico generale. Nella seguente tabella sono elencati alcuni esempi di questi problemi.<br><br>
   
-|**Categoria di supporto**|**Esempi**|
+| Categoria di supporto | Esempi |
 |:-----|:-----|
-|Installazione e configurazione  <br/> | Exchange Online:  <br/>  Migrazione delle cassette postali  <br/>  Configurazione del destinatario (autorizzazioni cassetta postale, configurazione inoltro posta, configurare cassetta postale condivisa)  <br/>  Configurazione del servizio di individuazione automatica  <br/>  SharePoint Online:  <br/>  Autorizzazioni e gruppi di utenti  <br/>  Configurazione di utenti esterni  <br/>  Skype for Business online:  <br/>  Installazione e creazione di contatti  <br/>  Microsoft Microsoft 365 Apps for Enterprise: assistenza all'installazione e all'installazione  <br/> |
+|Installazione e configurazione  <br/> | Exchange Online:  <br/>  Migrazione delle cassette postali  <br/>  Configurazione del destinatario (autorizzazioni cassetta postale, configurazione inoltro posta, configurare cassetta postale condivisa)  <br/>  Configurazione del servizio di individuazione automatica  <br/>  SharePoint Online:  <br/>  Autorizzazioni e gruppi di utenti  <br/>  Configurazione di utenti esterni  <br/>  Skype for Business online:  <br/>  Installazione e creazione di contatti  <br/>  Microsoft 365 Apps for Enterprise: assistenza per l'installazione e l'installazione  <br/> |
 |Configurazione  <br/> | Errori di configurazione del servizio  <br/>  Problemi di provisioning  <br/>  Configurazione del dominio e riassegnazione di una delega  <br/>  Problemi di configurazione del servizio  <br/>  Single Sign-On  <br/>  Sincronizzazione con Active Directory  <br/> |
 
 > [!NOTE]
 > È possibile informazioni su come contattare il supporto tecnico qui: [contattare il supporto Microsoft 365 for business](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
 >
-> Il supporto tecnico non include la risoluzione dei problemi relativi ai servizi di terze parti o ai componenti aggiuntivi. informazioni su come trovare risposte da altri clienti nella [community Microsoft](https://answers.microsoft.com).
+> Il supporto tecnico non include la risoluzione dei problemi relativi ai servizi di terze parti o ai componenti aggiuntivi. Informazioni su come trovare risposte da altri clienti nella [community Microsoft](https://answers.microsoft.com).
   
 ### <a name="technical-support-case-handling"></a>Gestione delle richieste di supporto tecnico
 
-Quando una richiesta di assistenza viene aperta, Microsoft le assegna un livello di gravità basato su una valutazione del tipo di problema e dell'impatto sul cliente. Nella seguente tabella sono riportati esempi dei tipi di problemi e dei livelli di gravità.
+Quando una richiesta di assistenza viene aperta, Microsoft le assegna un livello di gravità basato su una valutazione del tipo di problema e dell'impatto sul cliente. Nella seguente tabella sono riportati esempi dei tipi di problemi e dei livelli di gravità.<br><br>
   
-|**Livello di gravità**|**Operazioni e descrizione del supporto**|**Esempi**|
+| Livello di gravità | Operazioni e descrizione del supporto | Esempi |
 |:-----|:-----|:-----|
 |Gravità A (critico)  <br/> |Uno o più servizi non sono accessibili o sono inutilizzabili. La tempistica a livello di produzione, operatività o sviluppo ne risente notevolmente oppure infuisce negativamente sulla produzione o sulla redditività. Sono coinvolti più utenti o servizi.  <br/> | Problemi diffusi con l'invio o la ricezione della posta.  <br/>  Sito di SharePoint non attivo.  <br/>  Tutti gli utenti non possono inviare messaggi istantanei, partecipare o pianificare riunioni Skype for Business oppure effettuare chiamate Skype for Business.  <br/> |
 |Gravità B (alto)  <br/> |Il servizio è utilizzabile, ma presenta dei problemi. La situazione ha un impatto moderato sull'attività e può essere gestita durante l'orario di ufficio. È parzialmente coinvolto un singolo utente, un cliente o un servizio.  <br/> | Il pulsante Invia in Outlook non viene visualizzato.  <br/>  Non è possibile configurare le impostazioni in Interfaccia di amministrazione di Exchange (EAC), ma è possibile farlo in PowerShell.  <br/> |
@@ -80,11 +80,10 @@ Quando una richiesta di assistenza viene aperta, Microsoft le assegna un livello
 
 ### <a name="technical-support-initial-response-times"></a>Tempo di risposta iniziale del supporto tecnico
 
-Il tempo di risposta iniziale è basato sui livelli di gravità sopra descritti e sul tipo di sottoscrizione. Gli obiettivi del tempo di risposta sono descritti nella seguente tabella.
+Il tempo di risposta iniziale è basato sui livelli di gravità sopra descritti e sul tipo di sottoscrizione. Gli obiettivi del tempo di risposta sono descritti nella seguente tabella.<br><br>
   
-||||||
+| Livello di gravità | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for business<sup>1</sup><br> Microsoft 365 business standard<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 governo G2<sup>2</sup><br> Office 365 US Government E3<sup>2</sup><br> Office 365 per Education<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365 US Government K1<sup>2</sup> | Opzioni di supporto elevate<sup>3</sup> |
 |:-----|:-----|:-----|:-----|:-----|
-|**Livello di gravità** <br/> |**Microsoft 365 Business Basic<sup>1</sup>** <br/> **Microsoft 365 Apps for business<sup>1</sup>** <br/> **Microsoft 365 business standard<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 governo G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> **Office 365 Education<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Opzioni di supporto avanzato<sup>3</sup>** <br/> |
 | Gravità A (critico)  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: un'ora  <br/> |
 |Gravità B (alto)  <br/> |Disponibile: orario di ufficio  <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: giorno successivo  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: giorno successivo  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: 2 ore  <br/> |
 |Gravità C (medio)  <br/> |Disponibile: orario di ufficio  <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: senza impegno  <br/> |Disponibile: 24/7<sup>4</sup> <br/> Tempo di risposta: 4 ore  <br/> |
@@ -111,7 +110,7 @@ Microsoft sa che ricevere un supporto tecnico tempestivo da personale qualificat
 
 Gli utenti con ruoli di amministratore Microsoft sono gli unici nell'organizzazione del cliente autorizzati ad accedere alla sezione di **Amministrazione** dell'interfaccia di amministrazione e a comunicare direttamente con Microsoft sulle richieste di servizio.
   
-Con il piano di Office 365 Enterprise e Microsoft 365 Apps è possibile designare diversi tipi di amministratori che svolgono funzioni diverse. Questa descrizione del servizio utilizza genericamente il termine amministratore per indicare tutte le categorie di amministratori. Per ulteriori informazioni sui tipi di ruoli di amministratore, vedere [Assegnazione di ruoli di amministratore](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Con Office 365 per Enterprise e Microsoft 365 Apps Plan, è possibile designare diversi tipi di amministratori che svolgono funzioni diverse. Questa descrizione del servizio utilizza genericamente il termine amministratore per indicare tutte le categorie di amministratori. Per ulteriori informazioni sui tipi di ruoli di amministratore, vedere [Assegnazione di ruoli di amministratore](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 L'amministratore è:
   
@@ -131,7 +130,7 @@ Il ruolo di amministratore consiste nel:
 
 - Utilizzare le risorse per il supporto self-service di Microsoft per risolvere i problemi di supporto.
 
-L'amministratore deve fornire assistenza iniziale agli utenti del cliente. Tuttavia, se l'amministratore non è in grado di risolvere i problemi con l'aiuto delle risorse per il supporto self-service, deve contattare [Supporto tecnico](support.md#technical-support).
+L'amministratore deve fornire assistenza iniziale agli utenti del cliente. Tuttavia, se l'amministratore non è in grado di risolvere i problemi con l'aiuto delle risorse di supporto self-service, deve contattare il [supporto tecnico](support.md#technical-support).
   
 ### <a name="microsoft-support-role"></a>Ruolo di supporto di Microsoft
 
@@ -177,11 +176,11 @@ Sono disponibili diversi tipi di servizi di supporto aggiuntivi:
 
 ### <a name="partners"></a>Partner
 
-È possibile selezionare un partner Microsoft a cui delegare le funzioni amministrative, inclusa la creazione di richieste di assistenza. Per ulteriori informazioni, vedere la descrizione del servizio [Partner](partners.md) e [Aggiunta, modifica o rimozione di un partner con il ruolo di consulente della sottoscrizione](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+È possibile selezionare un partner Microsoft a cui delegare le funzioni amministrative, inclusa la creazione di richieste di assistenza. Per ulteriori informazioni, vedere la descrizione del servizio [Partner](partners.md) e [Aggiunta, modifica o rimozione di un partner con il ruolo di consulente della sottoscrizione](https://docs.microsoft.com/office365/admin/misc/add-partner).
   
 ### <a name="developers"></a>Sviluppatori
 
-Gli sviluppatori possono ottenere ulteriori informazioni sullo sviluppo di applicazioni Office e SharePoint in [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs). Il supporto per gli sviluppatori è disponibile su blog e forum online nella community degli sviluppatori, tramite le risorse di supporto Premier e Partner o direttamente da Microsoft. Per i collegamenti alle opzioni di supporto dedicate agli sviluppatori, vedere [Risorse di supporto](https://developer.microsoft.com/office/docs).
+Gli sviluppatori possono ottenere ulteriori informazioni sullo sviluppo di applicazioni Office e SharePoint in [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs). Il supporto per sviluppatori è disponibile attraverso Blog e forum online nella community degli sviluppatori, tramite risorse di supporto Premier o partner o direttamente tramite Microsoft. Per i collegamenti alle opzioni di supporto per gli sviluppatori, vedere [supporto delle risorse](https://developer.microsoft.com/office/docs).
   
 > [!NOTE]
 > Il team Microsoft non supporta gli script, ad esempio le tecniche di scripting come JavaScript, VBScript e così via, o VBA. Se si necessita di assistenza con gli script, contattare il [Supporto Microsoft](https://support.microsoft.com/). Per il supporto delle applicazioni di Office, vedere [Opzioni di supporto per i problemi relativi alle applicazioni di Microsoft Office per i sottoscrittori](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).

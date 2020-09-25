@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica delle differenze di funzionalità tra il cloud governativo degli Stati Uniti e il cloud commerciale, come elencato nella descrizione del servizio Exchange Online.
-ms.openlocfilehash: 5081dbdb563a9047fbf6759fc7413584408d56b4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: e13a04ea65a66435c686792cea8cae5de226e2b3
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154414"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261508"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online per gli ambienti governativi degli Stati Uniti
 
@@ -37,9 +37,9 @@ Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le or
 
 ## <a name="exchange-online-features"></a>Funzionalità di Exchange Online 
 
-Nella tabella seguente viene descritto se le funzionalità di Exchange Online specificate sono disponibili nell'ambiente GCC, GCC High e DoD. Quando sono presenti sfumature relative all'affermazione del supporto (o della sua mancanza), viene fornito un contesto aggiuntivo.
+Nella tabella seguente viene descritto se le funzionalità di Exchange Online specificate sono disponibili nell'ambiente GCC, GCC High e DoD. Quando sono presenti sfumature relative all'affermazione del supporto (o alla loro mancanza), viene fornito un contesto aggiuntivo.<br><br>
 
-|**Area funzionale**|**GCC**|**GCC High**|**DoD**|**Considerazioni principali**|
+| Area funzionale | GCC | GCC High | DoD | Considerazioni principali |
 |:-----|:-----|:-----|:-----|:-----|
 |**[Pianificazione e distribuzione](../../exchange-online-service-description/planning-and-deployment.md)**|||||
 |Distribuzione ibrida supportata|Sì|Sì|Sì|Per la coesistenza con Exchange Server locale, Microsoft richiede l'installazione di almeno un server Accesso client di Exchange Server 2013 (o Exchange Server 2016). Exchange Server 2010 e versioni precedenti non sono supportati.|
@@ -58,7 +58,7 @@ Nella tabella seguente viene descritto se le funzionalità di Exchange Online sp
 |Crittografia dei dati inattivi (BitLocker)|Sì|Sì|Sì||
 |IRM con Protezione delle informazioni di Azure|Sì|Sì|Sì|Per ulteriori informazioni sulle limitazioni di AIP in GCC High e DoD, vedere <a href="https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Descrizione del servizio governativo di Azure Information Protection Premium</a>.<br><br>Azure Information Protection non è incluso in G1/F3, ma può essere acquistato come componente aggiuntivo separato e consentirà di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Office 365 ProPlus, che non è incluso in Office 365 Government G1 o Office 365 Government F3.|
 |IRM mediante Windows Server AD RMS|Sì|Sì|Sì|Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per abilitare le funzionalità IRM supportate.|
-|Crittografia dei messaggi di Office 365|Sì|Sì|Sì|Vedere il [comportamento di crittografia dei messaggi di office 365 tra il limite GCC High/DOD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) in questo articolo e le <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">caratteristiche uniche di Office 365 Message Encryption in una distribuzione di GCC High</a>, che documentano le sfumature comportamentali della crittografia dei messaggi di Office 365 quando si inviano messaggi tra gli utenti GCC High/DOD e non GCC High/DOD.|
+|Crittografia dei messaggi di Office 365|Sì|Sì|Sì|Vedere il [comportamento di crittografia dei messaggi di office 365 tra il limite GCC High/DOD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) in questo articolo e le <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">caratteristiche uniche di Office 365 Message Encryption in una distribuzione di GCC High</a>, che documentano le sfumature comportamentali della crittografia dei messaggi di Office 365 quando si inviano messaggi tra gli utenti GCC High/DOD e non GCC High/DOD.|
 |Customer Key|Sì|Sì|Sì|Richiede il piano del servizio G5.|
 |S/MIME|Sì|Sì|Sì||
 |Archiviazione sul posto e conservazione per controversia legale|Sì|Sì|Sì|Richiede un piano di servizio G3 o G5.|
@@ -145,7 +145,7 @@ Nella tabella seguente viene descritto se le funzionalità di Exchange Online sp
 |**[Estensione del servizio: personalizzazione, componenti aggiuntivi e risorse](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni principali**|
 |Componenti aggiuntivi di Outlook e MAPI di Outlook|Sì|Sì|Sì|Solo alcuni componenti aggiuntivi OWA e Outlook sono disponibili in GCC High e DoD. Vedere i [componenti aggiuntivi in Outlook e Outlook Web App](#add-insin-outlook-and-outlook-web-app) in questo articolo.|
 
-## <a name="feature-nuances-within-gcc-high-and-dod-environment"></a>Sfumature delle caratteristiche all'interno dell'ambiente GCC High e DoD
+## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Sfumature delle caratteristiche all'interno degli ambienti GCC High e DoD
 
 ### <a name="connectivity-with-third-party-services"></a>Connettività con servizi di terze parti  
 
@@ -153,9 +153,9 @@ Gli ambienti GCC High e DoD sono ambienti con restrizioni che richiedono l'appro
 
 A causa di queste restrizioni, le caratteristiche che si basano su questa connettività in uscita dagli ambienti GCC High/DoD generalmente non sono supportate, tra cui: 
 
-- Account connessi &mdash; gli utenti non possono aggiungere/sincronizzare gli account (Google, POP/IMAP e così via). 
+- Account connessi: gli utenti non possono aggiungere/sincronizzare gli account (Google, POP/IMAP e così via). 
 
-- Supporto per i provider di archiviazione dei file di terze parti &mdash; è possibile accedere solo all'account OneDrive for business dell'utente *all'interno di GCC High/DOD*all'   interno dei diversi client di Outlook allo scopo di collegare/condividere file. Non è possibile aggiungere account di archiviazione di terze parti (Dropbox, box, Google Drive). 
+- Supporto per i provider di file di terze parti-è possibile accedere solo all'account OneDrive for business dell'utente *all'interno di GCC High/DOD*all'   interno dei diversi client di Outlook allo scopo di collegare/condividere file. Non è possibile aggiungere account di archiviazione di terze parti (Dropbox, box, Google Drive). 
 
 - Connettività con i social network, ad esempio Facebook o LinkedIn. 
 
@@ -185,7 +185,7 @@ Se si desidera utilizzare la crittografia dei messaggi di Office 365 in un ambie
     
     - Tutti i destinatari esterni a GCC High/DoD, compresi gli utenti di Office 365 commerciali, gli utenti di Outlook.com e altri utenti di altri provider di posta elettronica, ricevono un messaggio di posta elettronica wrapper. Questo indirizzo di posta elettronica del wrapper reindirizza il destinatario al portale OME in cui il destinatario può leggere e rispondere al messaggio. 
 
-Per ulteriori informazioni e gli aggiornamenti più recenti, vedere [compare versions of ome](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide).
+Per ulteriori informazioni e gli aggiornamenti più recenti, vedere [compare versions of ome](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison).
 
 ### <a name="freebusy-federation"></a>Federazione di disponibilità
 

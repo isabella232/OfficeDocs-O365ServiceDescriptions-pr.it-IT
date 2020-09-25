@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Informazioni sugli impegni e le differenze univoci degli ambienti Office 365 GCC High e DoD rispetto all'ambiente commerciale Office 365.
-ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 549399c1cbd669413b6ea40023a4ab43a5181403
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214335"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261518"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -22,9 +22,9 @@ Per soddisfare i requisiti univoci e in evoluzione del dipartimento della difesa
   
 Coinvolgere il team dell'account o il partner preferito per ulteriori informazioni o per avviare il processo di convalida. Per ulteriori informazioni su come acquistare, vedere [Microsoft 365 Government-come acquistare](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
-## <a name="how-to-use-this-service-description-section"></a>Informazioni su come utilizzare questa sezione relativa alla descrizione del servizio
+## <a name="how-to-use-this-service-description"></a>Come utilizzare la descrizione del servizio
 
-La descrizione del servizio Office 365 US Government è progettata per essere utilizzato come sovrapposizione alla descrizione generale del servizio Office 365. Il documento definisce gli impegni univoci ed evidenzia le differenze rispetto alle offerte Office 365 Enterprise.
+La descrizione del servizio Office 365 US Government è progettata per essere utilizzato come sovrapposizione alla descrizione generale del servizio Office 365. Definisce gli impegni e le differenze univoci rispetto a Office 365 per le offerte Enterprise.
   
 ## <a name="compliance"></a>Conformità
 
@@ -38,11 +38,10 @@ Gli abbonati a Office 365 che fanno capo al Dipartimento della Difesa potranno u
   
 ## <a name="background-screening"></a>Screening del background
 
-Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per GCC High e DoD. Qualsiasi personale che richiede l'elevazione temporanea delle autorizzazioni che consentirà l'accesso al contenuto del cliente deve prima aver superato i controlli di sfondo riportati di seguito.
+Il personale Office 365 non ha un accesso diretto all'ambiente di produzione per GCC High e DoD. Qualsiasi personale che richiede l'elevazione temporanea delle autorizzazioni che consentirà l'accesso al contenuto del cliente deve prima aver superato i controlli di sfondo riportati di seguito.<br><br>
   
-|||
+| Controlli del background e screening del personale Microsoft<sup>1</sup> | Descrizione |
 |:-----|:-----|
-|**Controlli del background e screening del personale Microsoft**<sup>1</sup> <br/> |**Descrizione** <br/> |
 |Cittadinanza negli Stati Uniti  <br/> |Verifica della cittadinanza negli Stati Uniti  <br/> |
 |Controllo della storia professionale  <br/> |Verifica della storia professionale degli ultimi sette (7) anni  <br/> |
 |Verifica dell'istruzione  <br/> |Verifica del livello massimo raggiunto  <br/> |
@@ -78,7 +77,7 @@ Gli utenti dispongono di più opzioni per la condivisione di file e cartelle in 
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 
-**Sistema telefonico e audioconferenza (tramite routing diretto)**: sistema telefonico e audioconferenza per ambienti GCC High e DOD vengono recapitati tramite routing diretto. Per ulteriori informazioni, vedere la documentazione relativa al livello di servizio:
+**Sistema telefonico e audioconferenza (tramite routing diretto)** -sistema telefonico e audioconferenza per ambienti GCC High e DOD vengono recapitati tramite routing diretto. Per ulteriori informazioni, vedere la documentazione relativa al livello di servizio:
 
 - [Sistema telefonico tramite routing diretto](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
 - [Audioconferenza con Instradamento diretto per GCC High e DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
@@ -89,7 +88,7 @@ L'autenticazione a più fattori che utilizza un modello di identità federata co
   
 ### <a name="yammer"></a>Yammer
 
-Yammer Enterprise non è disponibile negli ambienti GCC High e DoD.
+Yammer for Enterprise non è disponibile negli ambienti GCC High e DoD.
   
 ## <a name="customer-support"></a>Supporto clienti
 

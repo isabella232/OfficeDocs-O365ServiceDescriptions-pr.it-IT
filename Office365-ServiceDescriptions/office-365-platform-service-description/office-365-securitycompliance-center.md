@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il &amp; Centro sicurezza e conformità è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300530"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261598"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -25,11 +25,10 @@ Il [Centro sicurezza e &amp; conformità](https://protection.office.com/) è sta
 
 Per visualizzare le opzioni per la concessione delle licenze agli utenti per usufruire delle funzionalità di conformità di Microsoft 365 del 1 ° aprile 2020, scaricare il confronto dettagliato di Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Security &amp; Compliance Center availability for Business and Enterprise plans
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;Disponibilità del Centro sicurezza e conformità per i piani business e Enterprise
 
-|||||||||
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Caratteristica**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No|No   |No   |Sì   |
 |[Gestione delle minacce](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), ad esempio, filtro delle e-mail e antimalware |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
@@ -57,7 +56,6 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 |[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |No |Sì   |No   |
 |[Gestione degli accessi con privilegi](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |No   |Sì   |No   |
 |[Customer Key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |No   |No   |No   |No   |No   |Sì   |No   |
-|||||||||
 
 <sup>1</sup> la governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere il confronto delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -69,7 +67,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 
 <sup>5</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti di Europa, Medio Oriente e Africa vengono esportati in Europa occidentale (Paesi Bassi).
 
-<sup>6</sup> Advanced Threat Protection è disponibile in Office 365 Enterprise E5 e come servizio autonomo per Office 365 Enterprise E1 e Office 365 Enterprise E3.
+<sup>6</sup> Advanced Threat Protection è disponibile in Office 365 E5 e come servizio autonomo per Office 365 E1 e Office 365 E3.
 
 <sup>7</sup> include i file archiviati nei repository di Microsoft teams.
 
@@ -85,11 +83,10 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 
 <sup>13</sup> non include l'etichettatura basata sull'apprendimento automatico (classificatori addestrabili).
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilità del Centro sicurezza e conformità per i piani autonomi
 
-|||||||||
+| Funzionalità | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online | SharePoint Online Piano 1 | SharePoint Online Piano 2 | OneDrive for Business Piano 1 | OneDrive for Business Piano 2 | Skype for Business online Piano 1 | Skype for Business online Piano 2|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funzionalità**  |**Exchange Online, piano 1**  |**Exchange Online piano 2**  |**Chiosco Exchange Online**  |**SharePoint Online Piano 1**  |**SharePoint Online piano 2**  |**OneDrive for Business Piano 1** |**OneDrive for Business piano 2** |**Skype for Business Online piano 1**  |**Skype for Business Online, piano 2**  |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No   |No   |No   |No   |No   |No   |Sì   |
 |[Gestione delle minacce](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security), ad esempio il filtro della posta e antimalware   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
@@ -113,7 +110,6 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 |[Office 365 Message Encryption (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
 |[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
 |[Gestione degli accessi con privilegi](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
-|||||||||
 
 <sup>1</sup> la governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati utilizzando l'unità di trasporto o la rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere il confronto delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -123,7 +119,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 
 <sup>4</sup> Le conversazioni di Skype vengono memorizzate come parte della cassetta postale.
 
-<sup>5</sup> Advanced eDiscovery richiede Office Enterprise E5 di Office 365 oppure una licenza di componente aggiuntivo.
+<sup>5</sup> Advanced eDiscovery richiede Office 365 E5 o una licenza del componente aggiuntivo.
 
 <sup>6</sup> l'archiviazione Skype è all'interno della cassetta postale dell'utente.
 
