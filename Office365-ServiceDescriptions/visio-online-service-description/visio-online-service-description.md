@@ -8,29 +8,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web.
-ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Confrontare le funzionalità di Visio per il Web con l'app desktop di Visio.
+ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131950"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276663"
 ---
 # <a name="visio-for-the-web-service-description"></a>Descrizione del servizio Visio per il Web
 
 Con Visio per il Web, è possibile visualizzare, modificare e condividere diagrammi di Visio sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È semplice e facile creare diagrammi di prima classe con tipi di diagramma di uso comune e set di forme ricche. Visio for the Web gli utenti possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for business online.
   
-Per ulteriori informazioni e per iniziare, vedere [Visio Plan 1](https://products.office.com/en-US/visio/visio-online).
+Per ulteriori informazioni e per iniziare, vedere [Visio Plan 1](https://products.office.com/visio/visio-online).
   
 Per informazioni sull'utilizzo di Visio per il Web, vedere la [Guida di visio & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Confronto e disponibilità delle funzionalità
 
-Nella tabella seguente vengono confrontate le funzionalità di Visio per la funzionalità Web con le app desktop di Visio ricche di funzionalità. Utilizzare la tabella per scoprire quali funzionalità sono disponibili in Visio per il Web e quindi selezionare il nome della funzionalità per leggere una breve descrizione del funzionamento della caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione devono disporre delle funzionalità avanzate dell'app desktop di Visio, mentre altre devono solo visualizzare e modificare i diagrammi di Visio con Visio per il Web. 
+Nella tabella seguente vengono confrontate le funzionalità di Visio per la funzionalità Web all'app desktop di Visio con funzionalità avanzate. Utilizzare la tabella per scoprire quali funzionalità sono disponibili in Visio per il Web e quindi selezionare il nome della funzionalità per leggere una breve descrizione del funzionamento della caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione devono disporre delle funzionalità avanzate dell'app desktop di Visio, mentre altre devono solo visualizzare e modificare i diagrammi di Visio con Visio per il Web.<br><br> 
   
-||||
+| Caratteristica dell'applicazione | Visio per il Web | App desktop Visio |
 |:-----|:-----|:-----|
-|**Funzionalità dell'applicazione** <br/> |**Visio per il Web** <br/> |**App desktop Visio** <br/> |
 |[Applicazione della formattazione avanzata a testo e forme](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sì  <br/> |Sì  <br/> |
 |[Disposizione degli oggetti](visio-online.md#arrange-objects) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione di soluzioni mashup](visio-online.md#build-mashup-solutions) <br/> |Sì  <br/> |Sì  <br/> |
@@ -66,9 +65,8 @@ Nella tabella seguente vengono confrontate le funzionalità di Visio per la funz
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Tipi di file supportati in Visio per il Web
 
-||||
+| Diagramma di Visio creato in Visio 2010 o versioni successive | Modalità di visualizzazione | Modalità di modifica |
 |:-----|:-----|:-----|
-|**Diagrammi di Visio creati in Visio 2010 o versioni successive** <br/> |**Modalità di visualizzazione** <br/> |**Modalità di modifica** <br/> |
 |Open XML (.vsdx)  <br/> |Sì  <br/> |No  <br/> |
 |Binario (.vsd)  <br/> |Sì  <br/> |No  <br/> |
 |Macro (.vsdm)  <br/> |Sì  <br/> |No  <br/> |

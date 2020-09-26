@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245731"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284988"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -164,7 +164,7 @@ Di seguito sono riportati i vantaggi per gli utenti dal servizio Compliance Mana
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-I clienti con licenza di Office 365 E1/A1/E3/a3 e Microsoft 365 E3/a3 saranno in grado di accedere alla valutazione della linea di base per la protezione dei dati. I clienti con licenze Office 365 E5/A5 e Microsoft 365 E5/A5 saranno in grado di accedere alle valutazioni di protezione dei dati, GDPR, NIST 800-53 e ISO 22701. Le valutazioni dei premi saranno disponibili per l'acquisto ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5.
+I clienti con licenza di Office 365 E1/A1/E3/a3 e Microsoft 365 E3/a3 saranno in grado di accedere alla valutazione della linea di base per la protezione dei dati. I clienti con licenze Office 365 E5/A5 e Microsoft 365 E5/A5 saranno in grado di accedere alle valutazioni di protezione dei dati, GDPR, NIST 800-53 e ISO 22701. I clienti devono disporre di almeno una licenza di Office 365 E5/A5 o Microsoft 365 E5/A5 per l'utilizzo della funzionalità di valutazione personalizzata. Le valutazioni dei premi saranno disponibili per l'acquisto ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 > [!NOTE]
 > Power BI è incluso in Microsoft 365 E5/A5/G5; in tutti gli altri piani, Power BI deve essere concesso in licenza separatamente.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 e AIP Plan 2 forniscono i diritti per un utente di trarre vantaggio dall'etichettatura di sensitivity automatico.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection, and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 e AIP Plan 2 forniscono i diritti per un utente di trarre vantaggio dall'etichettatura automatica della sensibilità.
 
 Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Non include i diritti sulla classificazione automatica basata sull'apprendimento automatico (classificatori addestrabili).
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/A5/E3/a3 e Office 365 E5/A5/E3/a3 forniscono i diritti per un u
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5 e Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio dall'applicazione automatica di etichette o criteri di conservazione, applicazione di etichette o criteri di conservazione predefiniti, avvio del periodo di conservazione di un'etichetta di conservazione basata su un evento personalizzato, attivazione di una revisione di disposizione manuale alla fine del periodo di conservazione dell'etichetta, importazione di dati di terze parti mediante connettori di dati nativi, dichiarazione di un record, individuazione del contenuto contrassegnato e monitoraggio dell'attività di etichettatura.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance forniscono i diritti per un utente di trarre vantaggio dall'applicazione automatica delle etichette di conservazione in base ai classificatori addestrabili.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection e governance offrono i diritti per un utente di trarre vantaggio dall'applicazione automatica delle etichette di conservazione in base ai classificatori addestrabili.
 
 Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ La gestione dei record consente alle organizzazioni di rispettare i propri obbli
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5, Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio dalla gestione dei record, tra cui la dichiarazione di elementi come record, l'applicazione automatica della conservazione o la registrazione delle etichette e l'esecuzione di processi di revisione della disposizione (escludendo l'applicazione
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance forniscono i diritti per un utente di trarre vantaggio dall'applicazione automatica di etichette di conservazione o di record in base ai classificatori addestrabili.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection e governance offrono i diritti per un utente di trarre vantaggio dall'applicazione automatica di etichette di conservazione o di record in base ai classificatori addestrabili.
 
 Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 365 Compliance Licensing. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 

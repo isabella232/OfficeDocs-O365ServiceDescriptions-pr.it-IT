@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616922"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276790"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
@@ -36,9 +36,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
   
 ### <a name="word"></a>Word
 
-||||
+| Funzionalità dell'applicazione | Word per il Web | App desktop Word |
 |:-----|:-----|:-----|
-|**Funzionalità dell'applicazione** <br/> |**Word per il Web** <br/> |**App desktop Word** <br/> |
 |[Guide di allineamento e layout dinamico](word-online.md#alignment-guides-and-live-layout) <br/> |No  <br/> |Sì  <br/> |
 |[Applicazione di stili](word-online.md#apply-styles) <br/> |Sì  <br/> |Sì  <br/> |
 |[Salvataggio automatico](word-online.md#autosave) <br/> |Sì  <br/> |Sì  <br/> |
@@ -112,9 +111,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
   
 ### <a name="excel"></a>Excel
 
-||||
+| Funzionalità dell'applicazione | Excel per il Web | App desktop Excel |
 |:-----|:-----|:-----|
-|**Funzionalità dell'applicazione** <br/> |**Excel per il Web** <br/> |**App desktop Excel** <br/> |
 |[Verifica accessibilità](excel-online.md#add-hyperlinks) <br/> |Sì  <br/> |Sì  <br/> |
 |[Aggiungere il colore di sfondo alle schede del foglio](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sì  <br/> |Sì  <br/> |
 |[Aggiunta dei collegamenti ipertestuali](excel-online.md#add-hyperlinks) <br/> |Sì  <br/> |Sì  <br/> |
@@ -197,9 +195,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| Funzionalità dell'applicazione | OneNote per il Web | App desktop OneNote |
 |:-----|:-----|:-----|
-|**Funzionalità dell'applicazione** <br/> |**OneNote per il Web** <br/> |**App desktop OneNote** <br/> |
 |[Collaborazione avanzata: i nuovi contenuti vengono mostrati come non letti, presenza](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |No  <br/> |Sì  <br/> |
 |[Applicazione di tag](onenote-online.md#apply-tags) <br/> |Sì  <br/> |Sì  <br/> |
 |[Elenchi puntati e numerati](onenote-online.md#bullets-and-numbering) <br/> |Sì  <br/> |Sì  <br/> |
@@ -219,7 +216,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Input penna: input penna-testo e matematica, penne personalizzabili, strumenti di disegno](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |No  <br/> |Sì  <br/> |
 |[Visualizzazione input penna](onenote-online.md#ink-viewing) <br/> |Sì  <br/> |Sì  <br/> |
 |[Esplorazione](onenote-online.md#navigation) <br/> |Sì  <br/> |Sì  <br/> |
-|[Gestione del blocco appunti: archiviazione delle pagine del blocco/sezione trasversale, riordino delle sezioni, creazione/eliminazione di gruppi di sezione](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |
+|[Gestione dei blocchi appunti: archiviazione delle pagine di sezione/blocco appunti, riordino delle sezioni, creazione/eliminazione di gruppi di sezioni](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |
 |[Componenti aggiuntivi di Office](onenote-online.md#office-add-ins) <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |
 |[Integrazione con Outlook (attività)](onenote-online.md#outlook-integration-tasks) <br/> |No  <br/> |Sì  <br/> |
 |[Formattazione dei paragrafi](onenote-online.md#paragraph-formatting) <br/> |Sì  <br/> |Sì  <br/> |
@@ -246,9 +243,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| Funzionalità dell'applicazione | PowerPoint per il Web | App desktop PowerPoint |
 |:-----|:-----|:-----|
-|**Funzionalità dell'applicazione** <br/> |**PowerPoint per il Web** <br/> |**App desktop PowerPoint** <br/> |
 |[Allineamento, elenchi puntati e numerati](powerpoint-online.md#alignment-bullets-numbers) <br/> |Sì  <br/> |Sì  <br/> |
 |[Applicazione di animazioni e transizioni di base](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |
 |[Applicazione della formattazione avanzata a testo, forme e immagini](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |No  <br/> |Sì  <br/> |
@@ -302,9 +298,8 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Tipi di file supportati per Office per il Web
 
-||||
+| Documenti Word creati in Word 2.0 o versioni successive | Modalità di visualizzazione | Modalità di modifica |
 |:-----|:-----|:-----|
-|**Documenti Word creati in Word 2.0 o versioni successive** <br/> |**Modalità di visualizzazione** <br/> |**Modalità di modifica** <br/> |
 |XML aperto (.docx)  <br/> |Sì  <br/> |Sì  <br/> |
 |Binario (.doc)  <br/> |Sì  <br/> |Convertito in .docx  <br/> |
 |Macro (.docm)  <br/> |Sì<sup>1</sup> <br/> |Sì<sup>1</sup> <br/> |

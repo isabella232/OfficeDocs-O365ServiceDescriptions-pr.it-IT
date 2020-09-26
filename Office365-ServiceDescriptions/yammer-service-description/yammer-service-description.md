@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer è un social network aziendale efficace, sicuro e privato. Yammer consente ai dipendenti di rafforzare e migliorare la loro produttività consentendo di collaborare facilmente, prendere decisioni più velocemente e organizzarsi autonomamente in team per affrontare qualunque tipo di sfida aziendale. Si tratta di un nuovo modo di lavorare che guida in maniera naturale l'allineamento e l'agibilità aziendale, riduce la durata dei cicli, coinvolge i dipendenti e migliora le relazioni tra clienti e partner.
-ms.openlocfilehash: 163bb207292515ff93e5145e70741cea560acf15
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Vedere quali funzionalità sono disponibili nei diversi piani di Yammer.
+ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132900"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276748"
 ---
 # <a name="yammer-service-description"></a>Descrizione del servizio Yammer
 
@@ -32,9 +32,9 @@ Per i requisiti di sistema per Office 365, il servizio basato su abbonamento men
   
 ## <a name="yammer-plans"></a>Piani Yammer
 
-Yammer è disponibile attraverso i piani di sottoscrizione elencati di seguito:
+Yammer è disponibile attraverso i piani di sottoscrizione elencati di seguito:<br><br>
   
-|**Piano**|**Descrizione**|
+| Piano | Descrizione |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Social network aziendale - sempre e ovunque.  <br/> |
 |[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Social network aziendale con sistemi di sicurezza, integrazione e amministrazione migliorati.  <br/> |
@@ -45,15 +45,15 @@ Yammer è disponibile attraverso i piani di sottoscrizione elencati di seguito:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Criteri di comunicazione del servizio Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-Yammer aderisce ai [criteri di gestione delle modifiche di Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), ma non utilizza la versione di destinazione per distribuire gli aggiornamenti. 
+Yammer aderisce ai [criteri di gestione delle modifiche di Microsoft 365](https://aka.ms/ManageChange), ma non utilizza la versione di destinazione per distribuire gli aggiornamenti. 
   
 Tutti gli utenti di Yammer sono soggetti a un test delle funzionalità di tipo A/B. In questo modo Microsoft è in grado di verificare le funzionalità per il miglioramento dell'esperienza, delle prestazioni e della stabilità in molti ambienti e dispositivi. Gli utenti all'interno della stessa rete possono avere diverse esperienze a causa dei test. Non è possibile rifiutarsi di essere sottoposti al test A/B.
   
 Eventuali modifiche (test A/B, funzionalità nuove e deprecate, limiti di conformità, modifiche relative al flusso di lavoro) che richiedono l'intervento dei clienti o che dovrebbero influire in modo significativo sulla loro esperienza verranno comunicate in anticipo. Abbiamo identificato uno scenario in cui Yammer apporta una modifica che riguarda un sottoinsieme limitato di utenti. Si pensi, ad esempio, alla modifica o alla rimozione di una funzionalità, come l'estensione Chrome di Yammer, che interessa un numero limitato di utenti che l'hanno abilitata. In questi casi, oltre a inviare la solita notifica agli amministratori verificati (come indicato nel criterio citato in precedenza), informeremo direttamente gli utenti interessati dalla modifica per garantire loro buone prestazioni. Per modifiche suddivise in categorie come "Modifiche che richiedono l'azione (Pianificazione delle modifiche)" o "Modifiche che richiedono la consapevolezza (Rimanere informati)" che riguardano solo un determinato insieme di utenti, si possono informare direttamente tali utenti. La tabella seguente è stata aggiornata affinché presenti questo cambiamento. 
   
-I canali usati per le comunicazioni ai clienti dipenderanno dall'impatto:
+I canali usati per le comunicazioni ai clienti dipenderanno dall'impatto:<br><br>
   
-|||
+| Tipo di modifica | Canale di comunicazione |
 |:-----|:-----|
 |**Modifiche che richiedono l'azione (pianificare la modifica)** <br/>Amministratore necessario per apportare modifiche per mantenere il servizio in esecuzione, aggiornamenti che possono influire sulla conformità dell'organizzazione  <br/> |-Office 365 Message Center messaggi di posta elettronica direttamente agli amministratori verificati di Yammer <br/>-Guida di orientamento Microsoft 365<br/>-Aggiornamenti del servizio Yammer<br/>-Gruppo esterno<br/>In caso di modifiche che interessano un determinato gruppo di utenti, possiamo anche inviare delle notifiche direttamente a tali utenti. |
 |**Modifiche che richiedono consapevolezza (rimanere informati)**<br/>Modifiche che non richiedono l'intervento dell'amministratore, modifiche alla progettazione visiva  <br/> |-Centro messaggi di Office 365<br/>-Guida di orientamento Microsoft 365<br/>-Aggiornamenti del servizio Yammer<br/>-Gruppo esterno<br/>In caso di modifiche che interessano un determinato gruppo di utenti, possiamo anche inviare delle notifiche direttamente a tali utenti. |
@@ -61,9 +61,9 @@ I canali usati per le comunicazioni ai clienti dipenderanno dall'impatto:
    
 ## <a name="feature-availability-across-yammer-plans"></a>Disponibilità delle funzionalità tra i piani di Yammer
 
-Serve aiuto per capire quale piano Yammer meglio si adatta alle esigenze dell'organizzazione? Utilizzare la tabella seguente per vedere quali funzionalità sono disponibili in ogni piano. Selezionare un nome di funzionalità per leggere un breve riepilogo del modo in cui funziona la caratteristica in Yammer.
+Serve aiuto per capire quale piano Yammer meglio si adatta alle esigenze dell'organizzazione? Utilizzare la tabella seguente per vedere quali funzionalità sono disponibili in ogni piano. Selezionare un nome di funzionalità per leggere un breve riepilogo del modo in cui funziona la caratteristica in Yammer.<br><br>
   
-|**Funzionalità**|**Yammer Basic**|**Yammer Enterprise**|
+| Funzionalità | Yammer Basic | Yammer Enterprise |
 |:-----|:-----|:-----|
 |[Gruppi](group-features-in-yammer.md#groups) <br/> | Sì  <br/> |Sì  <br/> |
 |[Gruppi correlati](group-features-in-yammer.md#related-groups) <br/> |Sì  <br/> |Sì  <br/> |

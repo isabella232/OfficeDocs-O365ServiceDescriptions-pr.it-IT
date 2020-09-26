@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Disponibile tramite Office 365, Project Online offre efficaci funzionalità di gestione dei progetti che permettono all'utente di pianificare, classificare e gestire i progetti e gli investimenti nel portfolio di progetti, ovunque e su tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Recapitato tramite Office 365, Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione di Projects e investimenti del portafoglio di progetto, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
+ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131160"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276791"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -26,13 +26,13 @@ ms.locfileid: "45131160"
 
 Microsoft Project offre le seguenti applicazioni che consentono di soddisfare le esigenze dell'organizzazione per la gestione dei progetti e del lavoro:
 
-- Project per il Web
+- Project per il web
 - Project Online 
 - Client desktop di Project online
 
 In questo articolo vengono fornite informazioni utili per comprendere quali applicazioni sono disponibili in ogni sottoscrizione di progetto e quali funzionalità offrono ogni applicazione.
 
-### <a name="project-for-the-web"></a>Project per il Web
+### <a name="project-for-the-web"></a>Project per il web
 
 Project per il Web è l'offerta più recente di Microsoft per il lavoro basato sul cloud e la gestione dei progetti. Project per il Web offre funzionalità di gestione del lavoro semplici e potenti per soddisfare la maggior parte delle esigenze e dei ruoli. I Project Manager e i membri del team possono utilizzare Project per il Web per pianificare e gestire il lavoro di qualsiasi dimensione.
 
@@ -75,23 +75,23 @@ In futuro, Microsoft si concentrerà sul progetto per le innovazioni Web. Tuttav
 
 ## <a name="microsoft-project-subscriptions"></a>Abbonamenti a Microsoft Project
 
-Microsoft Project è disponibile attraverso tre diversi abbonamenti per soddisfare al meglio le esigenze dell'organizzazione. Tali abbonamenti sono il piano di progetto 1, il piano di progetto 3 e il piano di progetto 5. Per confrontare le funzionalità tra le sottoscrizioni, vedere [disponibilità delle funzionalità tra le applicazioni e le sottoscrizioni](#feature-availability-across-applications-and-subscriptions).
+Microsoft Project è disponibile attraverso tre diversi abbonamenti per soddisfare al meglio le esigenze dell'organizzazione. Tali abbonamenti sono il piano di progetto 1, il piano di progetto 3 e il piano di progetto 5. Per confrontare le funzionalità tra le sottoscrizioni, vedere [disponibilità delle funzionalità tra le applicazioni e le sottoscrizioni](#feature-availability-across-applications-and-subscriptions).<br><br>
 
 |Prodotto | Piano 1 | Piano 3 | Piano 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project per il Web |**x**  | **x x** | **x x** |
+|Project per il web |**x**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Client desktop di Project online | |**x**|**x**|
 
-Nella tabella precedente, il numero di controlli (**x**) indica il livello generale di funzionalità fornite da un piano. Ad esempio, per Project online, il piano 5 fornisce più funzionalità, quindi piano 3.
+Nella tabella precedente, il numero di controlli (**x**) indica il livello generale di funzionalità fornite da un piano. Ad esempio, per Project online, il piano 5 fornisce più funzionalità rispetto al piano 3.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilità delle funzionalità tra le applicazioni e le sottoscrizioni
 
 ### <a name="project-for-the-web-features"></a>Project per le funzionalità Web
 
-Le funzionalità elencate in questa sezione interagiscono solo con i dati del progetto per l'archivio dati Web. Tutte queste funzionalità sono disponibili in tutte le sottoscrizioni di Microsoft Project: Project Plan 1, Project Plan 3 e Project Plan 5.
+Le funzionalità elencate in questa sezione interagiscono solo con i dati del progetto per l'archivio dati Web. Tutte queste funzionalità sono disponibili in tutte le sottoscrizioni di Microsoft Project: Project Plan 1, Project Plan 3 e Project Plan 5.<br><br>
 
-|Funzionalità | Descrizione | Licenze di Office 365 | Piano 1 | Piano 3 | Piano 5|
+| Funzionalità | Descrizione | Licenze di Office 365 | Piano 1 | Piano 3 | Piano 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
 |**Gestione di progetti, attività e tempi**||||||
 |Visualizzazione scheda | Monitorare le attività del progetto visivamente per migliorare il flusso di lavoro e il monitoraggio dello stato mediante l'utilizzo di schede attività fuori sede e personalizzate.| Sola visualizzazione | Sì | Sì| Sì|
@@ -125,7 +125,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 
 ### <a name="project-online-features"></a>Funzionalità di Project Online
 
-Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'archivio dati di Project Online SharePoint.
+Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'archivio dati di Project Online SharePoint.<br><br>
 
 |Funzionalità | Descrizione | Piano di progetto 3 | Piano di progetto 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -187,7 +187,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Gestione degli utenti | Gestire i ruoli e le autorizzazioni di utenti e gruppi a livello di progetto, team e organizzazione. | No | Sì |
 |Amministrazione del servizio | Pianificare, installare e configurare, gestire ed estendere l'ambiente di Microsoft Project come parte dell'ambiente Office 365<sup>1</sup> .  | No | Sì |
 
-#### <a name="notes"></a>Note
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> richiede un abbonamento commerciale a Office o Microsoft 365.</br>
 <sup>2</sup> schede di Azure acquisite separatamente.</br>
@@ -201,7 +201,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 
 ### <a name="project-online-desktop-client-features"></a>Caratteristiche del client desktop di Project online
 
-|Funzionalità | Descrizione |
+| Funzionalità | Descrizione |
 |--------|-------------|
 |**Gestione di progetti e attività**||
 |Linee | Impostare le linee di base del progetto per monitorare le prestazioni correnti rispetto alle prestazioni precedenti. |
@@ -274,9 +274,9 @@ Project per il Web e Project Online entrambi dispongono dello stesso criterio di
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Progetto per i limiti e le limitazioni del Web
 
-Il progetto per il Web presenta alcune limitazioni, descritte nella tabella seguente.
+Il progetto per il Web presenta alcune limitazioni, descritte nella tabella seguente.<br><br>
 
-|Entità/campo | Limite |
+| Entità/campo | Limite |
 |-------------|-------|
 |**Attività** ||
 |Massimo. livello di gerarchia per l'attività | 10 livelli |
