@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint per il Web (in precedenza PowerPoint Web App) estende l'esperienza di Microsoft PowerPoint al Web browser, in cui è possibile lavorare con le presentazioni direttamente sul sito Web in cui è archiviata la presentazione. Microsoft 365 i clienti con Office per il Web possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131320"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294069"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint per il Web
 
@@ -28,7 +28,7 @@ L'editor di PowerPoint è un componente front-end Web che crea una superficie di
   
 Se si seleziona il pulsante **Apri in PowerPoint** sul PowerPoint per la barra degli strumenti Web, la presentazione verrà aperta nell'app desktop PowerPoint (se nel computer è installato Microsoft PowerPoint 2010 o versione successiva).
   
-Informazioni su come [scaricare e installare Office utilizzando Microsoft 365 for business su un PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
+Informazioni su come [scaricare e installare Office utilizzando Microsoft 365 for business su un PC](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c).
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
@@ -170,7 +170,7 @@ PowerPoint per il Web consente di salvare il lavoro ogni volta che si apportano 
 
 Non è possibile inserire Word Art and Charts in PowerPoint per il Web, ma PowerPoint per il Web li Visualizza come previsto. Nella visualizzazione di modifica, modificare e formattare il testo. Se si desidera applicare effetti di testo a Word Art, è necessaria l'app desktop Microsoft PowerPoint.
   
-## <a name="share"></a>Condividi
+## <a name="share"></a>Condividere
 
 Se viene salvata in una raccolta di documenti di SharePoint, la presentazione è online ed è possibile condividerla inviando un collegamento invece di un allegato di posta elettronica. Gli utenti che dispongono delle autorizzazioni appropriate possono visualizzarla nel browser o su un dispositivo mobile. Ulteriori informazioni sulla [condivisione di una presentazione](https://go.microsoft.com/fwlink/?LinkId=272776).
   

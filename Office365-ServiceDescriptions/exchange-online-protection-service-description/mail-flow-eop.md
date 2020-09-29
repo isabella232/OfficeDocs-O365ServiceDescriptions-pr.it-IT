@@ -1,5 +1,5 @@
 ---
-title: Flusso di posta [EOP]
+title: Flusso di posta in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Per la maggior parte delle organizzazioni che utilizzano Office 365, Microsoft ospita le cassette postali e gestisce la posta elettronica. È la configurazione più semplice e significa che Microsoft gestisce tutte le cassette postali e il filtro. Tuttavia, alcune organizzazioni hanno la necessità di tenere in locale tutte le cassette postali. Exchange Online Protection (EOP) consente di eseguire questa operazione e fornisce l'elaborazione della posta elettronica antispamming e antivirus nel cloud.
-ms.openlocfilehash: 751551ef6b3ae710646b2fb63960eee5983d6c47
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leggere questo articolo per informazioni sul flusso di posta in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: c6b885abe6522c3f8d1b780c8c64c621c34011c2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132820"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293672"
 ---
-# <a name="mail-floweop"></a>Flusso di posta [EOP]
+# <a name="mail-flow-in-exchange-online-protection"></a>Flusso di posta in Exchange Online Protection
 
 Per la maggior parte delle organizzazioni che utilizzano Microsoft, è necessario ospitare le cassette postali e prendersi cura del flusso di posta. È la configurazione più semplice e significa che Microsoft gestisce tutte le cassette postali e il filtro. Tuttavia, alcune organizzazioni hanno la necessità di tenere in locale tutte le cassette postali. Exchange Online Protection (EOP) consente di eseguire questa operazione e fornisce l'elaborazione della posta elettronica antispamming e antivirus nel cloud. Per ulteriori informazioni e per acquistare EOP, visitare [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   

@@ -1,5 +1,5 @@
 ---
-title: Creazione di report e traccia messaggio
+title: Creazione di rapporti e traccia dei messaggi in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
-ms.openlocfilehash: 0fab453ae50454e9f613c0996b8baacc7081cb97
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leggere questo articolo per informazioni sulla creazione di report e sulla traccia dei messaggi in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 6690c246620d4324610213b4968367cff0d30cf9
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132760"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293662"
 ---
-# <a name="reporting-and-message-trace"></a>Creazione di report e traccia messaggio
+# <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Creazione di rapporti e traccia dei messaggi in Exchange Online Protection
 
 Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni rapporti sono disponibili nell'interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
 

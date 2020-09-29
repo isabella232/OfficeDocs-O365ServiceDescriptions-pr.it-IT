@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione di Microsoft Exchange Online Archiving.
-ms.openlocfilehash: 7f6b5863d94862644fb90d1d0d85c3765ad05e9b
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Informazioni sulle funzionalità di archiviazione disponibili in Microsoft Exchange Online Archiving.
+ms.openlocfilehash: da7b9fd7583904424300dff010117e50a6193552
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131530"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293652"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione in Exchange Online Archiving
 

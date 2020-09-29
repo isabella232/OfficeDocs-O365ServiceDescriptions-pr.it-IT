@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro in molti dispositivi e in più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: 058acf94ae50764616a02febfac09f2a86cf66d0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1964e342d53589d2b180b5e5dbe6dddc9eaedd00
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131940"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293812"
 ---
 # <a name="microsoft-365-suite-features"></a>Funzionalità della famiglia di prodotti Microsoft 365
 
@@ -24,9 +24,9 @@ Le funzionalità elencate in questo argomento sono una raccolta di strumenti bas
   
 ## <a name="microsoft-bookings"></a>Prenotazioni Microsoft
 
-Microsoft Bookings è un'app online e per dispositivi mobili per le aziende che desiderano fornire servizi ai clienti in base agli appuntamenti. Tra gli esempi di attività di questo tipo vi sono saloni per parrucchieri, uffici odontoiatrici, ZPS, studi legali, provider di servizi finanziari, consulenti, operatori sanitari, istituti di istruzione e auto Shop. Microsoft Bookings è disponibile per i clienti negli Stati Uniti e in Canada che dispongono di un abbonamento a Microsoft 365 per le aziende.
+Microsoft Bookings è un'app online e per dispositivi mobili per le aziende che desiderano fornire servizi ai clienti in base agli appuntamenti. Tra gli esempi di tali attività vi sono saloni per parrucchieri, uffici odontoiatrici, ZPS, studi legali, provider di servizi finanziari, consulenti, operatori sanitari, istituti di istruzione e negozi automatici. Microsoft Bookings è disponibile per i clienti negli Stati Uniti e in Canada che dispongono di un abbonamento a Microsoft 365 per le aziende.
   
-Per ulteriori informazioni su Microsoft bookings, accedere a [pubblicare il calendario aziendale online con Microsoft bookings](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
+Per ulteriori informazioni su Microsoft bookings, accedere a [pubblicare il calendario aziendale online con Microsoft bookings](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d).
 
 ## <a name="microsoft-briefing-email"></a>Messaggi di posta elettronica Microsoft Briefing
 
@@ -68,7 +68,7 @@ Project per il Web è l'offerta Microsoft più recente per il lavoro basato sul 
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub è un'applicazione basata su cloud che consente ai colleghi e ai rispettivi responsabili di usare i propri dispositivi mobili per gestire le pianificazioni e tenersi in contatto. I dipendenti possono utilizzare StaffHub per richiedere ferie o cambi turno e comunicare con altri dipendenti. I dipendenti possono anche inviare messaggi direttamente gli uni agli altri oppure all'intero team. I responsabili possono utilizzare StaffHub per inviare messaggi, creare pianificazioni e inviare notizie o annunci ai team. Per ulteriori informazioni su StaffHub, visitare il [sito Web Microsoft StaffHub](https://staffhub.office.com/) e il [Blog del Team di Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
+Microsoft StaffHub è un'applicazione basata su cloud che consente ai colleghi e ai rispettivi responsabili di usare i propri dispositivi mobili per gestire le pianificazioni e tenersi in contatto. I dipendenti possono utilizzare StaffHub per richiedere ferie o cambi turno e comunicare con altri dipendenti. I dipendenti possono anche inviare messaggi direttamente gli uni agli altri oppure all'intero team. I responsabili possono utilizzare StaffHub per inviare messaggi, creare pianificazioni e inviare notizie o annunci ai team. Per ulteriori informazioni su StaffHub, visitare il [sito Web Microsoft StaffHub](https://staffhub.office.com/) e il [Blog del Team di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2143889).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -88,11 +88,11 @@ Office approfondire consente agli utenti di cercare e scoprire contenuti in Micr
   
 ## <a name="microsoft-365-groups"></a>Gruppi di Microsoft 365
 
-I gruppi in Microsoft 365 collegano gli utenti con i colleghi, le informazioni e le applicazioni di cui hanno bisogno per fare più insieme. I gruppi sono aperti per impostazione predefinita per migliorare la possibilità di individuazione e condivisione, ma gli utenti possono anche creare gruppi privati per contenuti sensibili. Per ulteriori informazioni sui gruppi, vedere [gruppi in Microsoft 365](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Per informazioni sui limiti del gruppo, vedere la sezione "come gestire i gruppi" in [Learn about Microsoft 365 groups](https://go.microsoft.com/fwlink/?linkid=846714).
+I gruppi in Microsoft 365 collegano gli utenti ai colleghi, alle informazioni e alle applicazioni di cui hanno bisogno per fare più insieme. I gruppi sono aperti per impostazione predefinita per migliorare la possibilità di individuazione e condivisione, ma gli utenti possono anche creare gruppi privati per contenuti sensibili. Per ulteriori informazioni sui gruppi, vedere [gruppi in Microsoft 365](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Per informazioni sui limiti del gruppo, vedere la sezione "come gestire i gruppi" in [Learn about Microsoft 365 groups](https://go.microsoft.com/fwlink/?linkid=846714).
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video è una destinazione protetta, a livello di società, dove è possibile caricare, condividere e individuare video su più dispositivi, con tecnologia Servizi multimediali Microsoft Azure. Office che 365 Video consente di mantenere i visualizzatori impegnati e informati per comunicare idee su vasta scala e per la conformità tra organizzazioni. Per ulteriori informazioni, vedere [Introduzione a Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 video è una destinazione sicura a livello di azienda in cui è possibile caricare, condividere e scoprire video su tutti i dispositivi, basati su Microsoft Azure Media Services. Office che 365 Video consente di mantenere i visualizzatori impegnati e informati per comunicare idee su vasta scala e per la conformità tra organizzazioni. Per ulteriori informazioni, vedere [Introduzione a Office 365 Video](https://go.microsoft.com/fwlink/?linkid=2144056).
   
 ## <a name="onenote-class-notebook"></a>Blocco appunti di OneNote per la classe
 
@@ -100,7 +100,7 @@ Il blocco appunti della classe è parte di OneNote ed è disponibile per l'istru
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala è un'app di gestione del lavoro per dispositivi mobili semplice e sicura, che porta funzionalità esclusive a Microsoft 365, con la possibilità di connettere e coinvolgere persone sia all'interno che all'esterno della directory di un'organizzazione, tra cui lavoratori a contratto, fornitori, partner, fornitori, clienti e cittadini, utilizzando [tipi di gruppi](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)di grandi dimensioni e flessibili. Il modello Open Directory di Kaizala consente l'utilizzo dell'identità basata su numeri di telefono per una facile onboarding e un'esperienza utente semplice per la gestione dei messaggi e del lavoro. L'app per dispositivi mobili di Kaizala consente agli utenti di inviare messaggi istantanei e allegati, ad esempio immagini, documenti, video, audio e altro ancora, nonché utilizzare le schede azione per sondaggi, sondaggi, assegnazioni di processi, annunci, corsi di formazione e altro ancora. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) funziona su iPhone e Android. Per ulteriori informazioni, visitare il [sito Web Kaizala](https://products.office.com/en/business/microsoft-kaizala).
+Microsoft Kaizala è un'app di gestione del lavoro per dispositivi mobili semplice e sicura, che porta funzionalità esclusive a Microsoft 365, con la possibilità di connettere e coinvolgere persone sia all'interno che all'esterno della directory di un'organizzazione, tra cui lavoratori a contratto, fornitori, partner, fornitori, clienti e cittadini, utilizzando [tipi di gruppi](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)di grandi dimensioni e flessibili. Il modello Open Directory di Kaizala consente l'utilizzo dell'identità basata su numeri di telefono per una facile onboarding e un'esperienza utente semplice per la gestione dei messaggi e del lavoro. L'app per dispositivi mobili di Kaizala consente agli utenti di inviare messaggi istantanei e allegati, ad esempio immagini, documenti, video, file audio e altro ancora, nonché di utilizzare le schede azione per sondaggi, sondaggi, assegnazioni di processi, annunci, corsi di formazione e altro ancora. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) funziona su iPhone e Android. Per ulteriori informazioni, visitare il [sito Web Kaizala](https://products.office.com/en/business/microsoft-kaizala).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

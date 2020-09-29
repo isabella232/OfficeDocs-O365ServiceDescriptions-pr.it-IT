@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962135"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293872"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità a Microsoft 365 – GCC
 
@@ -62,9 +62,9 @@ Dopo aver deciso che questo servizio è appropriato per la propria organizzazion
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Passaggio 4. Comprendere quali funzionalità non sono attualmente disponibili o disattivate per impostazione predefinita in Microsoft 365 Government – GCC<sup>1</sup>
 
-Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune differenze tra i piani di Microsoft 365 Government-GCC e Enterprise. Fare riferimento alla tabella seguente per vedere quali funzionalità sono disponibili.
+Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune differenze tra i piani di Microsoft 365 Government-GCC e Enterprise. Fare riferimento alla tabella seguente per vedere quali funzionalità sono disponibili.<br><br>
 
-|                                         | **Caratteristica**                                     | **Stato GCC**         |
+| Area | Funzionalità | Stato GCC |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protezione delle informazioni**              | Etichettatura unificata e etichette di riservatezza         | Disponibili              |
 |                                         | Etichette dei contenitori per SharePoint Online, gruppi di Office          | Distribuzione              |

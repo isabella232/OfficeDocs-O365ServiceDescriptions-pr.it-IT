@@ -1,5 +1,5 @@
 ---
-title: Criteri di messaggistica e conformità
+title: Criteri di messaggistica e conformità in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leggere questo articolo per informazioni sui criteri di messaggistica e sulle funzionalità di conformità in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132790"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293802"
 ---
-# <a name="messaging-policy-and-compliance"></a>Criteri di messaggistica e conformità
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Criteri di messaggistica e conformità in Exchange Online Protection
 
 Microsoft Exchange Online Protection (EOP) fornisce funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati della posta elettronica.
 
@@ -65,7 +65,7 @@ La crittografia dei messaggi di Office 365, una parte di Azure Information Prote
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Funzionalità di conformità e criteri di messaggistica tra opzioni EOP
 
-|**Funzionalità**|**EOP autonomo**|**Funzionalità di EOP in <br/> Exchange Online**|**Exchange Enterprise <br/> CAL con servizi**|
+| Funzionalità | EOP autonomo | Funzionalità di EOP in <br/> Exchange Online | Exchange Enterprise <br/> CAL con servizi |
 |:-----|:-----|:-----|:-----|
 |Regole del flusso di posta|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1, 3</sup>|
 |Registrazione di controllo|Sì<sup>2</sup>|Sì|Sì|

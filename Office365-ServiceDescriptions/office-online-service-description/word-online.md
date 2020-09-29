@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word per il Web (in precedenza Word Web App) estende la propria esperienza di Microsoft Word al Web browser, in cui è possibile utilizzare i documenti direttamente nel sito Web in cui è archiviato il documento.
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616912"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294052"
 ---
 # <a name="word-for-the-web"></a>Word per il Web
 
@@ -160,7 +160,7 @@ Inserire interruzioni di pagina in Word per il Web e l'app desktop Word.
 
 Con Word per il Web, è possibile modificare i margini, le dimensioni della carta e se la pagina è disposta verticalmente o orizzontalmente nei documenti. In Word per il Web non vengono visualizzati righelli e griglie. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
-Informazioni su come [eliminare una pagina vuota in Word per il Web](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1).
+Informazioni su come [eliminare una pagina vuota in Word per il Web](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1).
   
 ## <a name="page-layout-tools-advanced"></a>Strumenti per il layout di pagina, avanzate
 

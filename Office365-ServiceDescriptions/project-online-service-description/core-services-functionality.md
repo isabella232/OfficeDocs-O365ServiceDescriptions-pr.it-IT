@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
-ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131240"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294074"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 
@@ -32,7 +32,7 @@ Project Online e Project Server 2013 forniscono funzionalità agli amministrator
   
 ## <a name="getting-started"></a>Introduzione
 
-Per Project online è possibile ottenere contenuto introduttivo. Vedere [Introduzione a Project Online](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US).
+Per Project online è possibile ottenere contenuto introduttivo. Vedere [Introduzione a Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gestione dei problemi e dei rischi (per i membri dei team)
 

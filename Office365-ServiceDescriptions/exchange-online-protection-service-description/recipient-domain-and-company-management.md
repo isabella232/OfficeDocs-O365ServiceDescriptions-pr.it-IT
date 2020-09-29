@@ -1,5 +1,5 @@
 ---
-title: Gestione destinatari, dominio e società
+title: Gestione destinatari, dominio e società in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP) offre diversi mezzi per la gestione delle informazioni relative a destinatari, dominio e società. In qualità di amministratore, è possibile eseguire alcune attività di gestione all'interno dell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'interfaccia di amministrazione di Microsoft 365.
-ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leggere questo articolo per informazioni su destinatario, dominio e gestione aziendale in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 7be36ecbf065eb7bc1ce2c890ac84a6fea565c68
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132770"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294122"
 ---
-# <a name="recipient-domain-and-company-management"></a>Gestione destinatari, dominio e società
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gestione destinatari, dominio e società in Exchange Online Protection
 
 Microsoft Exchange Online Protection (EOP) offre diversi mezzi per la gestione delle informazioni relative a destinatari, dominio e società. In qualità di amministratore, è possibile eseguire alcune attività di gestione all'interno dell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'interfaccia di amministrazione di Microsoft 365.
   

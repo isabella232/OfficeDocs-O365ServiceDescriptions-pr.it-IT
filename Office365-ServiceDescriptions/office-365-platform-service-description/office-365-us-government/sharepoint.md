@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle funzionalità di SharePoint per i clienti del cloud governativo degli Stati Uniti.
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175006"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294192"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint per gli ambienti governativi degli Stati Uniti
 
@@ -40,7 +40,7 @@ Non esistono differenze note tra le funzionalità di sviluppo per i clienti comm
 - Le connessioni alle applicazioni esterne, ad esempio le origini dati per i componenti aggiuntivi, sono limitate alle origini che si trovano all'interno dei limiti di sicurezza del sistema supportati dall'ambiente governativo.
 - La funzionalità di servizi di integrazione applicativa è supportata per gli scenari di connettività in cui le origini dati rimangono raggiungibili entro il limite di sicurezza per il servizio cloud.
 
-Se si utilizzano applicazioni di terze parti nei siti, esaminare le istruzioni relative alla privacy e alla conformità fornite dalle terze parti durante la valutazione dell'utilizzo appropriato di questi servizi per la propria organizzazione. Le applicazioni e i servizi di terze parti possono comportare l'archiviazione, la trasmissione e l'elaborazione dei dati del cliente dell'organizzazione su sistemi di terze parti esterni al cloud governativo e pertanto non coperti dalla conformità e dalla protezione dei dati impegni. 
+Se si utilizzano applicazioni di terze parti nei siti, esaminare le istruzioni relative alla privacy e alla conformità fornite dalle terze parti durante la valutazione dell'utilizzo appropriato di questi servizi per la propria organizzazione. Le applicazioni e i servizi di terze parti possono comportare l'archiviazione, la trasmissione e l'elaborazione dei dati del cliente dell'organizzazione su sistemi di terze parti esterni al cloud governativo e pertanto non coperti dalla conformità e dagli impegni di protezione dei dati. 
 
 ## <a name="it-admin-features"></a>Funzionalità di amministrazione IT
 
@@ -59,7 +59,7 @@ Per informazioni sulla migrazione di FastTrack, vedere la [Descrizione del servi
 Non esistono differenze note tra le funzionalità di sicurezza e conformità per i clienti commerciali e quelle per i clienti del cloud governativo.
 
 Per informazioni sulle caratteristiche seguenti, vedere la [Descrizione del servizio Office 365 US Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features):
-- Archivio protetto del cliente
+- Customer Lockbox
 - Prevenzione della perdita di dati (DLP)
 - eDiscovery (Ricerca contenuto, esenzione, esportazione)
 - Office 365 Advanced Threat Protection (ATP)
@@ -95,4 +95,4 @@ Lo spostamento nel cloud offre esperienze trasformative con i controlli di ammin
 
 Dopo aver configurato l'organizzazione nel cloud di Microsoft US Government, seguire il percorso di distribuzione consigliato descritto nel [Centro risorse di adozione di SharePoint](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/). Assicurarsi di impegnarsi con i campioni di gestione per l'adozione e la modifica.
 È inoltre possibile utilizzare [FastTrack](https://www.microsoft.com/fasttrack) o il partner scelto per implementare il servizio ai propri utenti.
-Visitare il [Centro protezione Microsoft](https://www.microsoft.com/en-us/trust-center) per ulteriori informazioni sul modo in cui Microsoft approccia la sicurezza, la privacy e la conformità, principi fondamentali per il modo in cui le organizzazioni possono servire i propri clienti.
+Visitare il [Centro protezione Microsoft](https://www.microsoft.com/trust-center) per ulteriori informazioni sul modo in cui Microsoft approccia la sicurezza, la privacy e la conformità, principi fondamentali per il modo in cui le organizzazioni possono servire i propri clienti.

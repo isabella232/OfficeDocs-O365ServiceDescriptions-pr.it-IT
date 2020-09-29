@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Archiviazione Microsoft Exchange Online consente agli utenti di connettersi alle cassette postali di archiviazione da una vasta gamma di dispositivi e piattaforme. Tutta la connettività di rete all'archivio dell'utente si verifica su Internet e le connessioni VPN (Virtual Private Network) non sono necessarie. Le organizzazioni possono pubblicare un server Client Access in locale per consentire agli utenti di accedere alla cassetta postale principale tramite Outlook Anywhere, senza richiedere una connessione VPN. Se viene richiesto l'accesso VPN per accedere alla cassetta postale principale dell'utente situata su un server in locale, tale requisito non viene modificato.
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: Leggere questo articolo per informazioni sulle funzionalità client disponibili nell'archiviazione di Microsoft Exchange Online.
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255903"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293638"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Funzionalità client in archiviazione Exchange Online
 
@@ -29,8 +29,8 @@ Archiviazione Microsoft Exchange Online consente agli utenti di connettersi alle
 
 Microsoft Outlook è un programma di posta elettronica arricchito che include il supporto per il calendario, i contatti e le attività. Supporto Archiviazione Exchange Online per Outlook 2013, Outlook 2010 e Outlook 2007. Le funzionalità principali includono:
   
-- **Outlook via Internet** Outlook via Internet consente agli utenti di Outlook di connettersi a Exchange Server e all'archiviazione Exchange Online tramite rete senza alcuna necessità di una connessione VPN. La comunicazione tra Outlook e Archiviazione Exchange Online avviene tramite un tunnel protetto da SSL, utilizzando il componente di rete di Windows RPC su HTTP.    
-- **Individuazione automatica** Il servizio Individuazione automatica di Exchange configura automaticamente Outlook per l'interazione conArchiviazione Exchange Online. Individuazione automatica consente agli utenti di Outlook di ricevere le impostazioni del profilo necessarie direttamente da Exchange la prima volta (e a intervalli fissi successivamente) che accedono con l'indirizzo di posta elettronica e la password. 
+- **Outlook Anywhere** -Outlook via Internet consente agli utenti di Outlook di connettersi a Exchange Server e all'archiviazione di Exchange online in rete senza alcuna necessità di una connessione VPN. La comunicazione tra Outlook e Archiviazione Exchange Online avviene tramite un tunnel protetto da SSL, utilizzando il componente di rete di Windows RPC su HTTP.    
+- **Autodiscover** -il servizio di individuazione automatica di Exchange configura automaticamente Outlook per l'utilizzo con archiviazione Exchange Online. Individuazione automatica consente agli utenti di Outlook di ricevere le impostazioni del profilo necessarie direttamente da Exchange la prima volta (e a intervalli fissi successivamente) che accedono con l'indirizzo di posta elettronica e la password. 
 
 Outlook 2010 e versioni successive e Outlook sul Web offrono agli utenti le funzionalità complete dell'archivio, oltre a funzionalità correlate come i criteri di conservazione e archiviazione.
   
@@ -41,9 +41,9 @@ Outlook 2007 offre funzionalità di supporto di base per l'archivio, ma non incl
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Client supportati da Archiviazione Exchange Online
 
-Nella tabella seguente sono elencati i client supportati da Archiviazione Exchange Online:
+Nella tabella seguente sono elencati i client supportati da Archiviazione Exchange Online:<br><br>
   
-|**Client**|**Supporto EOA**|
+| Client | Supporto di EOA |
 |:-----|:-----|
 |Outlook 2013 e versioni successive  <br/> |Supporta le funzionalità più recenti in Archiviazione Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |Supporta le funzionalità più recenti nell'archiviazione Exchange Online solo fino al 13 ottobre 2020|

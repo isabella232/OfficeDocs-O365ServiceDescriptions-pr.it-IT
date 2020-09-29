@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi di comunicazione e collaborazione di Microsoft di prossima generazione, &mdash; tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online, &mdash; per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: feb7ce1db3b904218a0a4a9df994cb8500cfd2ca
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214375"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293882"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -202,7 +202,7 @@ Il [Centro sicurezza e &amp; conformità](https://docs.microsoft.com/microsoft-3
 |[Gestione delle minacce](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), ad esempio il filtro della posta e antimalware  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Gestione avanzata delle minacce](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti), ad esempio Esplora minacce per le campagne di phishing <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |No  <br/> |No  <br/> |Sì  <br/> |
-|[Gestione dei dispositivi mobili](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|[Gestione dei dispositivi mobili](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Prevenzione della perdita di dati](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |[Governance dei dati avanzata](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
@@ -426,7 +426,7 @@ Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a ti
   
 > [!NOTE]
 > Se si necessita assistenza con questa operazione o per risolvere un problema, potrebbe essere necessario trovare utili i seguenti articoli:<br/> 
-> - [Messaggi di posta elettronica](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) per la creazione e l'invio di posta elettronica. 
+> - [Messaggi di posta elettronica](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) per la creazione e l'invio di posta elettronica. 
 >- [Posta elettronica in Office 365 per le aziende - Guida per gli amministratori](https://docs.microsoft.com/microsoft-365/admin/email/)
 >- [Limiti di dimensione dei messaggi](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [FIX Outlook and Office 365 problems with Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/)
@@ -574,7 +574,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
   
 #### <a name="message-limits"></a>Limiti dei messaggi
 
-- **Limite** per la dimensione del messaggio-i limiti di dimensione dei messaggi sono necessari per impedire ai messaggi di grandi dimensioni di bloccare il recapito di altri messaggi e di influenzare le prestazioni del servizio I limiti includono gli allegati e sono validi a livello di organizzazione per tutti i messaggi (in ingresso, in uscita e interni). I messaggi che superano questo limite non verranno recapitati e il mittente riceverà un rapporto di mancato recapito (NDR). Sebbene limiti di dimensione dei messaggi possano essere configurati su valori più o meno alti o in base ai singoli utenti, gli amministratori possono creare regole di trasporto per limitare le dimensioni massime di ogni singolo allegato. Per ulteriori informazioni, vedere [Microsoft supporta messaggi di posta elettronica di grandi dimensioni](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite** per la dimensione del messaggio-i limiti di dimensione dei messaggi sono necessari per impedire ai messaggi di grandi dimensioni di bloccare il recapito di altri messaggi e di influenzare le prestazioni del servizio I limiti includono gli allegati e sono validi a livello di organizzazione per tutti i messaggi (in ingresso, in uscita e interni). I messaggi che superano questo limite non verranno recapitati e il mittente riceverà un rapporto di mancato recapito (NDR). Sebbene limiti di dimensione dei messaggi possano essere configurati su valori più o meno alti o in base ai singoli utenti, gli amministratori possono creare regole di trasporto per limitare le dimensioni massime di ogni singolo allegato. Per ulteriori informazioni, vedere [Microsoft supporta messaggi di posta elettronica di grandi dimensioni](https://go.microsoft.com/fwlink/?linkid=2144144).
     
    > [!NOTE]
     > Alcuni client di posta elettronica possono contenere limiti per la dimensione dei messaggi o limitare le dimensioni di un singolo file allegato a un valore inferiore al limite delle dimensioni del messaggio di Exchange Online. 
@@ -609,11 +609,11 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Limite di profondità del messaggio incorporato  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |30 messaggi incorporati  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft Administrators può specificare un limite personalizzato compreso tra 1 mb e 150 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione della dimensione massima dei messaggi consentiti per l'organizzazione, vedere [Microsoft supporta i messaggi di posta elettronica di grandi](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)dimensioni.<br/> 
+> <sup>1</sup> Microsoft Administrators può specificare un limite personalizzato compreso tra 1 mb e 150 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione della dimensione massima dei messaggi consentiti per l'organizzazione, vedere [Microsoft supporta i messaggi di posta elettronica di grandi](https://go.microsoft.com/fwlink/?linkid=2144144)dimensioni.<br/> 
 <sup>2</sup> è possibile inviare e ricevere fino a 150 MB di messaggi tra gli utenti (in cui il messaggio non lascia mai i datacenter Microsoft). I messaggi instradati all'esterno dei datacenter Microsoft sono soggetti a un ulteriore aumento della codifica della conversione del 33%, nel qual caso la dimensione massima dei messaggi è di 112 MB. <br/> 
 <sup>3</sup> In OWA i messaggi possono essere soggetti a un aumento del 33% della codifica e le dimensioni dei messaggi che è possibile inviare vengono ridotte del 25% rispetto all'impostazione configurata. Ad esempio, se si personalizzano le impostazioni per una dimensione massima dei messaggi di 100 MB, è possibile inviare messaggi di dimensioni non superiori a 75 MB. <br/> 
 <sup>4</sup> Le dimensioni dei messaggi da spostare in Exchange Online vengono calcolate da Exchange Online. Versioni di Exchange precedenti a Exchange Server 2013 possono riportare dimensioni più piccole dell'elemento. Questo limite si applica per spostare le migrazioni di base utilizzando uno dei servizi replica delle cassette postali supportati di Exchange. Gli altri metodi di migrazione (completa, Staged, IMAP, PST) e altri strumenti di terze parti sono limitati dal limite delle dimensioni del messaggio generale. <br/> 
-<sup>5</sup> Per informazioni su OME con nuove funzionalità, vedere [Configurare le nuove funzionalità di Crittografia messaggi di Office 365 basate su Azure Information Protection](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<sup>5</sup> Per informazioni su OME con nuove funzionalità, vedere [Configurare le nuove funzionalità di Crittografia messaggi di Office 365 basate su Azure Information Protection](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e). 
   
 #### <a name="receiving-and-sending-limits"></a>Limiti di invio e ricezione
 

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: In Project online sono disponibili le seguenti funzionalità di gestione dei progetti.
-ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131220"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294100"
 ---
 # <a name="project-management"></a>Gestione dei progetti
 
@@ -44,4 +44,4 @@ La pianificazione rappresenta l'insieme delle attività da svolgere e dei risult
 
 ## <a name="project-home"></a>Home Project
 
-Project Home è il punto di partenza che consente di accedere in modo rapido e semplice ai progetti recentemente elaborati e importanti. È possibile contrassegnare questi progetti come preferiti con controlli di facile utilizzo in modo che vengano visualizzati in maniera prominente in Project Home. Per ulteriori informazioni, vedere [Introduzione a Project Home](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US).
+Project Home è il punto di partenza che consente di accedere in modo rapido e semplice ai progetti recentemente elaborati e importanti. È possibile contrassegnare questi progetti come preferiti con controlli di facile utilizzo in modo che vengano visualizzati in maniera prominente in Project Home. Per ulteriori informazioni, vedere [Introduzione a Project Home](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).

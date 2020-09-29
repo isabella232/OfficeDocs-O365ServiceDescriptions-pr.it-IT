@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali funzionalità di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300510"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294104"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -90,7 +90,7 @@ Se non diversamente specificato, le seguenti funzionalità sono disponibili in t
 - [Monitoraggio degli errori e dell'utilizzo delle app](/sharepoint/monitor-apps)
 - Rapporti sull'attività e sull'utilizzo di [SharePoint](/office365/admin/activity-reports/sharepoint-activity) e [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Modificare l'URL del sito](/sharepoint/change-site-address)
-- [Impostazioni predefinite per l'archiviazione e la conservazione per OneDrive](/en-us/onedrive/set-default-storage-space)
+- [Impostazioni predefinite per l'archiviazione e la conservazione per OneDrive](/onedrive/set-default-storage-space)
 - Ambiente [ibrido per SharePoint Server](/sharepoint/hybrid/hybrid). Gli addetti di FIRSTLINE richiedono una licenza di accesso client (CAL) per accedere a SharePoint Server.
 - [Gestione delle impostazioni per la creazione di siti](/sharepoint/manage-site-creation)
 - [Gestione dei limiti di archiviazione del sito](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ Se non diversamente specificato, le seguenti funzionalità sono disponibili in t
 - [Ripristinare siti eliminati](/sharepoint/restore-deleted-site-collection)
 - Interfaccia di [amministrazione di SharePoint](/sharepoint/get-started-new-admin-center). Le organizzazioni con i lavoratori di FIRSTLINE devono almeno un utente dell'organizzazione accedere all'interfaccia di amministrazione.
 - [Scanner di modernizzazione di SharePoint](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Le organizzazioni con i lavoratori di FIRSTLINE devono almeno un utente dell'organizzazione accedere all'interfaccia di amministrazione.
+- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Le organizzazioni con i lavoratori di FIRSTLINE devono almeno un utente dell'organizzazione accedere all'interfaccia di amministrazione.
 - [Governance del sito](/sharepoint/governance-overview) 
 - [Metadati gestiti dall'archivio termini](/sharepoint/managed-metadata)
 

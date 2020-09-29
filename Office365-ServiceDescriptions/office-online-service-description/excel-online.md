@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131420"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294080"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -161,7 +161,7 @@ Nella barra delle formule, è possibile visualizzare le formule che hanno prodot
   
 ## <a name="formula-tools-advanced"></a>Strumenti per le formule, avanzate
 
-L'app desktop Microsoft Excel fornisce gli strumenti avanzati per le formule, ad esempio lo stile di riferimento 3D. Excel per il Web supporta un numero crescente di formule avanzate di Excel, ad esempio [formule di matrici dinamiche](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Ulteriori informazioni sulle [formule](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
+L'app desktop Microsoft Excel fornisce gli strumenti avanzati per le formule, ad esempio lo stile di riferimento 3D. Excel per il Web supporta un numero crescente di formule avanzate di Excel, ad esempio [formule di matrici dinamiche](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Ulteriori informazioni sulle [formule](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -189,7 +189,7 @@ Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di 
 
 ## <a name="ideas"></a>Idee
 
-Le idee in Excel consentono di comprendere i dati tramite riassunti visivi di alto livello, tendenze e modelli. È sufficiente selezionare una cella in un intervallo di dati e quindi selezionare il pulsante **idee** nella scheda **Home** . le idee in Excel analizzeranno i dati e restituiranno elementi visivi interessanti su di esso in un riquadro attività. Per ulteriori informazioni, vedere [idee in Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
+Le idee in Excel consentono di comprendere i dati tramite riassunti visivi di alto livello, tendenze e modelli. È sufficiente selezionare una cella in un intervallo di dati e quindi selezionare il pulsante **idee** nella scheda **Home** . Le idee in Excel analizzeranno i dati e restituiranno elementi visivi interessanti su di esso in un riquadro attività. Per ulteriori informazioni, vedere [idee in Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -291,7 +291,7 @@ Se si desidera una copia della cartella di lavoro, utilizzare il comando Salva c
 
 Mantenere il controllo dell'accesso e della sensibilità dei documenti applicando manualmente un'etichetta o utilizzando le etichette consigliate automaticamente da Microsoft.
   
-## <a name="share"></a>Condividi
+## <a name="share"></a>Condividere
 
 Con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni sull' [utilizzo di Office per il Web per collaborare in office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

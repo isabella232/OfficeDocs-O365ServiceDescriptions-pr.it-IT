@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leggere questo articolo per informazioni sulle funzionalità di conformità disponibili nell'archiviazione di Microsoft Exchange Online.
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132740"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293622"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Funzionalità di conformità e sicurezza in archiviazione Exchange Online
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Funzionalità di conformità in Archiviazione Exchange Online
 
-Nelle sezioni seguenti vengono descritte le funzionalità di conformità di Microsoft Archiviazione Exchange Online.
+In questo articolo vengono descritte le funzionalità di conformità di Microsoft Exchange Online Archiving.
   
 ### <a name="retention-policies"></a>Criteri di conservazione
 
@@ -31,7 +32,7 @@ Archiviazione Exchange Online offre due tipi di criteri: archiviazione ed elimin
   
 Con Outlook 2010 e versioni successive e Outlook sul Web, gli utenti possono applicare i criteri di conservazione alle cartelle, alle conversazioni o ai singoli messaggi ed è inoltre possibile visualizzare i criteri di conservazione applicati e le date di eliminazione previste nei messaggi. Anche gli utenti di altri client di posta elettronica possono utilizzare le funzionalità di eliminazione o archiviazione dei messaggi in base ai criteri di conservazione sul lato server configurati dall'amministratore, ma non possono usufruire dello stesso livello di visibilità e controllo.
   
-I criteri di conservazione disponibili in Archiviazione Exchange Online sono identici a quelli di Exchange Server 2010 Service Pack 2 (SP2) e versioni successive. Gli amministratori possono gestire i criteri di conservazione da ambienti locali Exchange Server 2010 e versioni successive. Le cartelle gestite, ossia il precedente approccio alla gestione dei record di messaggistica introdotto in Exchange 2007, non sono disponibili né compatibili con Archiviazione Exchange Online. Per ulteriori dettagli, vedere [Tag di conservazione e criteri di conservazione](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+I criteri di conservazione disponibili in Archiviazione Exchange Online sono identici a quelli di Exchange Server 2010 Service Pack 2 (SP2) e versioni successive. Gli amministratori possono gestire i criteri di conservazione da ambienti locali Exchange Server 2010 e versioni successive. Le cartelle gestite, ossia il precedente approccio alla gestione dei record di messaggistica introdotto in Exchange 2007, non sono disponibili né compatibili con Archiviazione Exchange Online. Per ulteriori informazioni, vedere [Tag di conservazione e criteri di conservazione](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Archiviazione sul posto e conservazione per controversia legale
 
@@ -67,7 +68,7 @@ Per ulteriori informazioni, vedere [Conservazione in locale](https://go.microsof
   
 ### <a name="in-place-ediscovery"></a>eDiscovery sul posto
 
-Archiviazione Exchange Online supporta eDiscovery in locale per la ricerca nei contenuti delle cassette postali di un'organizzazione. Utilizzando l'interfaccia di amministrazione di Exchange o una sessione remota di Windows PowerShell da un server Exchange 2013 locale, gli amministratori o i responsabili dell'individuazione autorizzati possono eseguire ricerche in una vasta gamma di elementi delle cassette postali, inclusi messaggi di posta elettronica, allegati, appuntamenti del calendario, attività e contatti. eDiscovery in locale può eseguire simultaneamente ricerche nelle cassette postali principali e negli archivi. Tra i filtri disponibili sono inclusi quelli per mittente, destinatario, tipo di messaggio, data di invio o ricezione, Cc e Bcc, oltre a quelli per la sintassi KQL (Keyword Query Language). Per ulteriori dettagli, vedere [eDiscovery in locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Archiviazione Exchange Online supporta eDiscovery in locale per la ricerca nei contenuti delle cassette postali di un'organizzazione. Utilizzando l'interfaccia di amministrazione di Exchange o una sessione remota di Windows PowerShell da un server Exchange 2013 locale, gli amministratori o i responsabili dell'individuazione autorizzati possono eseguire ricerche in una vasta gamma di elementi delle cassette postali, inclusi messaggi di posta elettronica, allegati, appuntamenti del calendario, attività e contatti. eDiscovery in locale può eseguire simultaneamente ricerche nelle cassette postali principali e negli archivi. Tra i filtri disponibili sono inclusi quelli per mittente, destinatario, tipo di messaggio, data di invio o ricezione, Cc e Bcc, oltre a quelli per la sintassi KQL (Keyword Query Language). Per ulteriori informazioni, vedere [eDiscovery in locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
 Con l'interfaccia di amministrazione di Exchange e Windows PowerShell remoto è possibile utilizzare fino a 5.000 cassette postali alla volta in una ricerca eDiscovery in locale. per dettagli sull'utilizzo di Windows PowerShell remoto per eseguire le ricerche eDiscovery in locale, vedere [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
@@ -119,9 +120,9 @@ I messaggi protetti tramite IRM sono indicizzati e supportano l'esecuzione di ri
 
 Archiviazione Exchange Online include due tipi di funzionalità di controllo predefinite:
   
-- **Registrazione di controllo dell'amministratore** Consente ai clienti di tenere traccia delle modifiche apportate dagli amministratori nell'ambiente di Archiviazione Exchange Online, incluse le modifiche ai ruoli RBAC o ai criteri e alle impostazioni di Exchange. 
+- **Registrazione di controllo dell'amministratore** -la registrazione di controllo dell'amministratore consente ai clienti di monitorare le modifiche apportate dagli amministratori nell'ambiente di archiviazione Exchange Online, incluse le modifiche ai ruoli RBAC o ai criteri e alle impostazioni di Exchange. 
     
-- **Registrazione di controllo della cassetta postale** Consente ai clienti di tenere traccia degli accessi alle cassette postali eseguiti da utenti che non ne sono i legittimi proprietari. 
+- **Registrazione di controllo della cassetta** postale-la registrazione di controllo della cassetta postale consente ai clienti di controllare l'accesso alle cassette postali da parte di utenti diversi dal proprietario 
     
 Nell'interfaccia di amministrazione di Exchange sono disponibili vari rapporti di controllo predefiniti, ad esempio sulle modifiche dei ruoli apportate dall'amministratore, sulla conservazione per controversia legale e sull'accesso alle cassette postali da parte di utenti non proprietari. Gli amministratori possono filtrare i rapporti per data e ruolo, nonché esportare tutti gli eventi di controllo per le cassette postali specificate in formato XML per l'archiviazione a lungo termine o la creazione di rapporti personalizzati.
   
