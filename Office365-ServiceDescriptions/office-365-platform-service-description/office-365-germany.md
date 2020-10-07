@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con la residenza dei dati in Germania e le misure di controllo e di accesso ai dati rigorose tramite un modello di fiducia dei dati univoco disciplinato dal diritto tedesco
-ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
+ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293852"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367763"
 ---
 # <a name="office-365-germany"></a>Office 365 Germania
 
@@ -459,7 +459,7 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
 <sup>9</sup> Exchange Server 2013 utilizza solo il motore antimalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/> <sup>10</sup> gli account connessi sono supportati per gli &amp; account IMAP POP, ma sono disattivati per Outlook.com (Hotmail). <br/>
 <sup>11</sup> è possibile acquistare una sottoscrizione EOA per ciascuna cassetta postale che necessita della funzionalità di cassette postali inattive. <br/>
 <sup>12</sup> l'utilizzo di un cmdlet per l'uso con l'elenco indirizzi e l'elenco indirizzi globale non è supportato. <br/>
-<sup>13</sup> richiede l'utilizzo dello spazio degli indirizzi di disponibilità per supportare la condivisione con altri tenant. Per ulteriori informazioni su come creare uno spazio degli indirizzi di disponibilità, vedere [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Table indica se il client è compatibile con i piani associati. Ciò non vuol dire che i client sono necessariamente inclusi nell'acquisto di tali piani.<br/>
+<sup>13</sup> richiede l'utilizzo dello spazio degli indirizzi di disponibilità per supportare la condivisione con altri tenant. Per ulteriori informazioni su come creare uno spazio degli indirizzi di disponibilità, vedere [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Table indica se il client è compatibile con i piani associati. Ciò non vuol dire che i client sono necessariamente inclusi nell'acquisto di tali piani.<br/>
 <sup>15</sup> pop è supportato, ma IMAP non lo è.<br/>
 <sup>16</sup> alcune web part di terze parti e alcuni componenti aggiuntivi potrebbero non essere disponibili.
 
