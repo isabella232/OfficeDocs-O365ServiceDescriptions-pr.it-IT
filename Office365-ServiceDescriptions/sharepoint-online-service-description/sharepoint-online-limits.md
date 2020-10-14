@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e piani autonomi.
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276721"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447343"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -66,9 +66,9 @@ La copia o lo spostamento di più file in una singola operazione ha tre requisit
 
 ### <a name="sync"></a>Sincronizza
 
-**Nuova app di sincronizzazione di OneDrive** -per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.000 file per utente in tutte le raccolte documenti sincronizzate, anche se si utilizzano file su richiesta o si sceglie solo alcune cartelle all'interno delle raccolte da sincronizzare.
+**App corrente di sincronizzazione di OneDrive (OneDrive.exe)** -per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.000 file per utente in tutte le raccolte documenti sincronizzate, anche se si utilizzano file su richiesta oppure se si sceglie solo alcune cartelle all'interno delle raccolte da sincronizzare.
 
-**App di sincronizzazione di OneDrive for business precedente (Groove.exe)** : è possibile sincronizzare fino a 20.000 elementi totali in tutte le raccolte sincronizzate. Sono incluse le raccolte di OneDrive, le raccolte siti del team o entrambe. Indipendentemente dal limite di sincronizzazione globale, esistono limiti al numero di elementi che possono essere sincronizzati per ogni tipo di raccolta:
+**App di sincronizzazione precedente di OneDrive for business (Groove.exe utilizzata con gli ambienti SharePoint locali più vecchi)** : è possibile sincronizzare fino a 20.000 elementi totali in tutte le raccolte sincronizzate. Sono incluse le raccolte di OneDrive, le raccolte siti del team o entrambe. Indipendentemente dal limite di sincronizzazione globale, esistono limiti al numero di elementi che possono essere sincronizzati per ogni tipo di raccolta:
 
    - È possibile sincronizzare fino a 20.000 elementi in una raccolta di OneDrive. Sono inclusi i file e le cartelle. 
    - È possibile sincronizzare fino a 5.000 elementi in una raccolta di SharePoint. Sono inclusi i file e le cartelle. Si tratta di raccolte che si trovano in vari siti di SharePoint, ad esempio siti del team e siti community, raccolte create da altre persone o create dalla pagina siti. È possibile sincronizzare più raccolte di SharePoint. Tutti i siti del team sincronizzati conteranno anche rispetto al limite totale di 20.000 elementi in tutte le raccolte sincronizzate.
