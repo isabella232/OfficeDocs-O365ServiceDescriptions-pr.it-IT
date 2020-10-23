@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245691"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661284"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -52,6 +52,9 @@ Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al megli
 Ogni utente che accede al servizio Exchange Online deve essere assegnato a un piano di sottoscrizione e ogni sottoscrizione deve avere la propria cassetta postale. Le cartelle e i messaggi in queste cassette postali risiedono su un computer con Exchange Server presso un data center di Microsoft.
   
 Le sottoscrizioni degli utenti non sono obbligatorie per le sale conferenza e le cassette postali condivise. Questi particolari tipi di cassette postali non hanno credenziali di accesso. Sono degli utenti muniti di apposita licenza e con le autorizzazioni appropriate alla gestione e all'accesso a queste cassette postali per delega.
+
+**Diritti di utilizzo della cassetta postale utente di Microsoft 365 F1** <br/>
+Microsoft 365 F1 non include i diritti per una cassetta postale di Exchange. Per consentire l'utilizzo di una squadra completa, le licenze F1 di M365 possono essere consentite con il piano di servizio Exchange Online K1 abilitato. Anche se il piano del servizio Exchange Online K1 provisionerà una cassetta postale per l'utente, gli utenti di M365 F1 non potranno utilizzare la cassetta postale. Si consiglia di disabilitare Outlook sul Web tramite [questi passaggi](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) e chiedere agli utenti di non accedere alla cassetta postale di Exchange tramite altri metodi.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisiti di sistema per Exchange Online
 

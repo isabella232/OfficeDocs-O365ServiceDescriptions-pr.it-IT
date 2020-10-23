@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294162"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661294"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -164,7 +164,7 @@ Di seguito sono riportati i vantaggi per gli utenti dal servizio Compliance Mana
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-I clienti con licenza di Office 365 E1/A1/E3/a3 e Microsoft 365 E3/a3 saranno in grado di accedere alla valutazione della linea di base per la protezione dei dati. I clienti con licenze Office 365 E5/A5 e Microsoft 365 E5/A5 saranno in grado di accedere alle valutazioni di protezione dei dati, GDPR, NIST 800-53 e ISO 22701. I clienti devono disporre di almeno una licenza di Office 365 E5/A5 o Microsoft 365 E5/A5 per l'utilizzo della funzionalità di valutazione personalizzata. Le valutazioni dei premi saranno disponibili per l'acquisto ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5.
+I clienti con licenze Office 365 E5/A5 e Microsoft 365 E5/A5 saranno in grado di accedere alle valutazioni di protezione dei dati, GDPR, NIST 800-53 e ISO 27001, nonché di utilizzare la funzionalità di valutazione personalizzata. Le valutazioni dei premi saranno disponibili per l'acquisto ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -429,7 +429,7 @@ La crittografia a doppio tasto per Microsoft 365 consente di proteggere i dati a
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Gli utenti traggono vantaggio dalla crittografia a chiave doppia tramite la possibilità di migrare i dati crittografati nel cloud e impedire l'accesso di terze parti purché la chiave resti in controllo degli utenti. Gli utenti finali possono proteggere e utilizzare il doppio contenuto crittografato con la chiave simile a qualsiasi altro contenuto protetto da un'etichetta di riservatezza.
+Gli utenti traggono vantaggio dalla crittografia a chiave doppia tramite la possibilità di eseguire la migrazione dei dati crittografati nel cloud e impedendo l'accesso di terze parti purché la chiave resti in controllo degli utenti. Gli utenti finali possono proteggere e utilizzare il doppio contenuto crittografato con la chiave simile a qualsiasi altro contenuto protetto da un'etichetta di riservatezza.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 

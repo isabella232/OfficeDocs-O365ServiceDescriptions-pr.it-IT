@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali funzionalità di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294104"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661264"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -42,7 +42,7 @@ Per informazioni sulle funzionalità più recenti rilasciate, vedere [What ' s N
 
 Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sui diversi piani, incluse le opzioni di piano autonomo e le informazioni sullo spostamento da un piano a un altro, vedere [Opzioni di piano di Microsoft 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Per accedere a SharePoint, agli utenti dell'organizzazione deve essere assegnata una licenza che include SharePoint. Un piano di FIRSTLINE non viene venduto come offerta autonoma, solo come parte di [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
+Per accedere a SharePoint, agli utenti dell'organizzazione deve essere assegnata una licenza che include SharePoint. Un piano di FIRSTLINE non viene venduto come offerta autonoma, solo come parte di [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1), [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) o [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
   
 ## <a name="rights-of-guests"></a>Diritti degli ospiti
 
