@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre la messaggistica istantanea, la collaborazione di file e dati, le chiamate audio e video, riunioni online ricche, esperienze mobili e ampie funzionalità di Web Conferencing.
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175183"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773440"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -35,11 +35,11 @@ Per il riferimento, è stata inclusa questa tabella master delle sottoscrizioni 
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-Per informazioni dettagliate sull'implementazione delle funzionalità del prodotto, vedere la [documentazione relativa all'amministratore di Microsoft teams](https://docs.microsoft.com/MicrosoftTeams). Questa descrizione del servizio descrive le differenze principali tra i servizi forniti nelle diverse installazioni cloud. Le funzionalità di base di Microsoft teams non differiscono tra le sottoscrizioni. La disponibilità delle funzionalità di conformità dipende dal livello di sottoscrizione. Per ulteriori informazioni, vedere [sicurezza e conformità in Microsoft teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Per un elenco dettagliato delle funzionalità disponibili in ogni sottoscrizione, vedere [Microsoft 365 e Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Per informazioni dettagliate sull'implementazione delle funzionalità del prodotto, vedere la [documentazione relativa all'amministratore di Microsoft teams](https://docs.microsoft.com/MicrosoftTeams). Questa descrizione del servizio descrive le differenze principali tra i servizi forniti nelle diverse installazioni cloud. Le funzionalità di base di Microsoft teams non differiscono tra le sottoscrizioni. La disponibilità delle funzionalità di conformità dipende dal livello di sottoscrizione. Per ulteriori informazioni, vedere [sicurezza e conformità in Microsoft teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Per un elenco dettagliato delle funzionalità disponibili in ogni sottoscrizione, vedere [Microsoft 365 e Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
-**Caratteristiche cloud Voice**: per le conferenze audio, l'organizzazione deve acquistare e assegnare una licenza di audioconferenza a ciascun utente che consentirà di configurare le riunioni con accesso esterno. Per le caratteristiche dei team che richiedono piani di chiamata, ogni utente ha bisogno di un sistema telefonico e di un piano per chiamate nazionali o nazionali e internazionali. Per ulteriori informazioni, vedere [licenze per i componenti aggiuntivi Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Caratteristiche cloud Voice** : per le conferenze audio, l'organizzazione deve acquistare e assegnare una licenza di audioconferenza a ciascun utente che consentirà di configurare le riunioni con accesso esterno. Per le caratteristiche dei team che richiedono piani di chiamata, ogni utente ha bisogno di un sistema telefonico e di un piano per chiamate nazionali o nazionali e internazionali. Per ulteriori informazioni, vedere [licenze per i componenti aggiuntivi Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
-**Eventi live**: questa offerta in Office 365 sostituisce la ritirata Skype meeting broadcast. Le funzionalità degli eventi dinamici sono disponibili per i piani di gestione delle licenze, come descritto nel servizio Stream. Consultare i [Dettagli sulle licenze di Microsoft Stream qui](https://docs.microsoft.com/stream/license-overview). È possibile accedere al servizio eventi dinamici tramite Stream, Yammer o Microsoft teams. Per ulteriori informazioni sulle funzionalità di eventi in tempo reale, vedere [Live Events across microsoft 365 in Yammer, Microsoft teams e Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+**Eventi live** : questa offerta in Office 365 sostituisce la ritirata Skype meeting broadcast. Le funzionalità degli eventi dinamici sono disponibili per i piani di gestione delle licenze, come descritto nel servizio Stream. Consultare i [Dettagli sulle licenze di Microsoft Stream qui](https://docs.microsoft.com/stream/license-overview). È possibile accedere al servizio eventi dinamici tramite Stream, Yammer o Microsoft teams. Per ulteriori informazioni sulle funzionalità di eventi in tempo reale, vedere [Live Events across microsoft 365 in Yammer, Microsoft teams e Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
 
 Tutti i piani di sottoscrizione supportati sono idonei per l'accesso al client Web Microsoft teams, ai client desktop e alle app per dispositivi mobili.
 
@@ -59,13 +59,14 @@ In questa tabella viene elencata la disponibilità delle funzionalità di Micros
 |Condivisione dello schermo di PowerPoint audio/video desktop <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Voce  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Audioconferenza  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|App, bot, connettori di &  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>3</sup>  <br/> |Sì<sup>3</sup>  <br/> |Sì<sup>3</sup>  <br/> |Sì  <br/> |
-|Eventi Live  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |N.<sup>4</sup>  <br/> |N.<sup>4</sup>  <br/> |Sì  <br/> |
+|App, bot, connettori di &  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>4</sup>  <br/> |Sì<sup>4</sup>  <br/> |Sì<sup>3, 4</sup>  <br/> |Sì  <br/> |
+|Eventi Live  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |N.<sup>5</sup>  <br/> |N.<sup>5</sup>  <br/> |Sì  <br/> |
 
 > <sup>1</sup>  Microsoft teams in GCC-High e DOD supportano 2500 membri in un singolo team.<br/>
 > <sup>2</sup> Microsoft Planner non è attualmente disponibile per l'accesso nei canali privati.<br/>
-> <sup>3</sup> Microsoft OneNote non è disponibile in cloud DOD. Le applicazioni e la pubblicazione dell'applicazione non sono disponibili in questi cloud in questo momento.<br/>
-> <sup>4</sup> gli eventi Live non sono disponibili in GCC-High o DOD in questo momento.<br/>
+> <sup>3</sup> Microsoft OneNote non è disponibile in cloud DOD.<br/>
+> <sup>4</sup> le applicazioni e la pubblicazione dell'applicazione non sono disponibili in queste nubi in questo momento.<br/>
+> <sup>5</sup> gli eventi Live non sono disponibili in GCC-High o DOD in questo momento.<br/>
 
 ## <a name="next-steps"></a>Passaggi successivi
 
