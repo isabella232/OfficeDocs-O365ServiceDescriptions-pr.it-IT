@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o di altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769978"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793653"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare la conformità Microsoft 365 - Distribuzion DoD
 
@@ -59,10 +59,9 @@ Dopo aver deciso che questo servizio è appropriato per la propria organizzazion
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Passaggio 4. Comprendere quali funzionalità non sono attualmente disponibili o disattivate per impostazione predefinita in Microsoft 365 Government – DoD<sup>1</sup>
 
-Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune differenze tra i piani di Microsoft 365 Government-DoD e Enterprise. Fare riferimento alla tabella seguente per vedere quali funzionalità sono disponibili.
+Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune differenze tra i piani di Microsoft 365 Government-DoD e Enterprise. Fare riferimento alla tabella seguente per vedere quali funzionalità sono disponibili.<br><br>
 
-
-|                                         | Funzionalità                                         | Stato GCC             |
+| Area                                    | Funzionalità                                         | Stato GCC             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protezione delle informazioni**              | Client e scanner Unified Labeling         | Disponibili              |
 |                                         | Corrispondenza esatta dei dati          | Disponibili               |
