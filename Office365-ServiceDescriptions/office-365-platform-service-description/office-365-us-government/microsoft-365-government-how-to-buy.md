@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica del governo Microsoft 365 e vengono descritte le opzioni di acquisto.
-ms.openlocfilehash: 81ee54c17a4861c44f350f394ccc61a4bd669996
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
+ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276765"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "48818666"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-come acquistare
 
@@ -21,7 +21,7 @@ In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stat
   
 ## <a name="whats-microsoft-365-government"></a>Che cos'è Microsoft 365 Government?
 
-Microsoft 365 Government è un insieme di funzionalità software cloud per la produttività, la sicurezza e la mobilità su misura per le agenzie governative degli Stati Uniti e i contraenti sponsorizzati per mantenere le informazioni controllate e non classificate. Recapitato tramite ambienti univoci che soddisfano i requisiti di conformità più rigorosi, Microsoft 365 Government è un'offerta cloud per i clienti del governo degli Stati Uniti, che corrisponde il più fedelmente possibile alle caratteristiche e alle funzionalità delle offerte di Microsoft Commercial cloud Enterprise. 
+Microsoft 365 Government è un insieme di funzionalità software cloud per la produttività, la sicurezza e la mobilità su misura per le agenzie governative degli Stati Uniti e i contraenti sponsorizzati per mantenere le informazioni controllate e non classificate. Recapitato tramite ambienti univoci che soddisfano i requisiti di conformità più rigorosi, Microsoft 365 Government è un'offerta cloud per i clienti del governo degli Stati Uniti, che corrisponde il più fedelmente possibile alle caratteristiche e alle funzionalità delle offerte di Microsoft Commercial cloud Enterprise.
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Qual è il valore del governo Microsoft 365?
 
@@ -43,21 +43,21 @@ Microsoft 365 Government è stato creato in modo univoco per soddisfare i requis
 **Personale sottoposto a screening.** L'accesso al contenuto del cliente dell'organizzazione è limitato a personale Microsoft sottoposto a screening che è cittadino statunitense e ha superato i controlli precedenti richiesti.
 Controlli di terze parti. Tutte le infrastrutture sono controllate da un revisore di terze parti certificato che fornisce un rapporto di valutazione della sicurezza o una lettera di attestazione utilizzata dalle agenzie federali per emettere un'autorizzazione per il funzionamento (ATO). 
 
-**Archiviazione del contenuto.** I dati vengono archiviati all'interno degli Stati Uniti continentali con infrastruttura conforme. Nella tabella seguente sono riepilogati Microsoft 365 per gli ambienti e gli impegni del governo degli Stati Uniti.<br><br>
+**Archiviazione del contenuto.** I dati vengono archiviati all'interno degli Stati Uniti continentali con infrastruttura conforme. Nella tabella seguente sono riepilogati Microsoft 365 per gli ambienti governativi e gli impegni.<br><br>
 
 | Offerte | Impegni |
 |:----------|:----------------------------------|
-|Microsoft 365 governo GCC  <br/> |FedRamp moderate, CJIS, IRS 1075, DISA SRG L2  <br/> |
-|Microsoft 365 governo GCC High  <br/> |Controlli di FedRamp High, ITAR, DFARS, DOD SRG L4 <br/> |
+|Microsoft 365 governo GCC  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|Microsoft 365 governo GCC High  <br/> |Controlli FedRamp High, ITAR, DFARS, DISA SRG L4 <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
 Per ulteriori informazioni sull'accreditamento per la sicurezza e la conformità di Microsoft, visitare il [Centro protezione Microsoft ](https://www.microsoft.com/trustcenter/default.aspx)  
 
-## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>Microsoft 365 per l'eleggibilità e la convalida del governo degli Stati Uniti
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 eleggibilità e convalida del governo
 
-Microsoft 365 per il governo degli Stati Uniti è disponibile per i clienti governativi idonei e organizzazioni non governative sponsorizzati per contenere o elaborare informazioni controllate. I criteri di idoneità per queste due categorie di clienti sono coerenti in tutto il cloud governativo Microsoft.
+Microsoft 365 Government è disponibile per i clienti governativi idonei e le organizzazioni non governative sponsorizzati per contenere o elaborare informazioni controllate. I criteri di idoneità per queste due categorie di clienti sono coerenti in tutto il cloud governativo Microsoft.
 
-Le offerte sia GCC che GCC High sono disponibili per tutti i clienti idonei per il cloud governativo Microsoft e l'ambiente DoD è a uso esclusivo del dipartimento della difesa degli Stati Uniti. La disponibilità del servizio e il prezzo sono diversi e GCC rimane il movimento eroe per tutti i clienti che non contengono informazioni non classificate FedRAMP High o DoD controllate (cui).
+Le offerte sia GCC che GCC High sono disponibili per tutti i clienti idonei per il cloud governativo Microsoft e l'ambiente DoD è a uso esclusivo del dipartimento della difesa degli Stati Uniti. La disponibilità del servizio e il prezzo sono diversi e GCC resta l'offerta di eroi per tutti i clienti che non contengono informazioni non classificate FedRAMP High o DoD controllate (cui).
 
 Un cliente governativo idoneo è definito da uno dei seguenti:
 
@@ -70,7 +70,7 @@ Un cliente governativo idoneo è definito da uno dei seguenti:
 
 Le organizzazioni non governative che contengono i seguenti tipi di dati e possono fornire le prove elencate sono idonee per il processo di convalida cloud di Microsoft Government:
 
-Un'entità privata commerciale con dati soggetti alle normative. I tipi di dati governativi accettati sono: 
+Un'entità privata commerciale con dati soggetti a normative. I tipi di dati governativi accettati sono:
 - Traffico internazionale di armi (ITAR)
 - Informazioni non classificate controllate (cui)
 - Dipartimento di difesa (DoD) informazioni nucleari controllate non classificate (UCNI)
@@ -113,7 +113,8 @@ Nella tabella seguente sono riportate le opzioni in grado di soddisfare le esige
 Eseguire la procedura seguente per acquistare le licenze governative di Microsoft 365:
 
 1. [Completare e inviare il modulo](https://products.office.com/government/eligibility-validation) per convalidare l'idoneità dell'organizzazione.
-2. Collaborare con il team dell'account Microsoft o con un partner qualificato per effettuare un ordine. I clienti possono acquistare Microsoft 365 per le licenze governative degli Stati Uniti solo tramite i partner selezionati.
+2. Collaborare con il team dell'account Microsoft o con un partner qualificato per effettuare un ordine.
+I clienti possono acquistare Microsoft 365 per le licenze governative degli Stati Uniti solo tramite i partner selezionati.
 
 **LSP GCC e GCC High (+ 500 seggi)**
 
