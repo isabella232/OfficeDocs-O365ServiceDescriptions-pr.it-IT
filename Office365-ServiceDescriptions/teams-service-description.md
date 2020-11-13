@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre la messaggistica istantanea, la collaborazione di file e dati, le chiamate audio e video, riunioni online ricche, esperienze mobili e ampie funzionalità di Web Conferencing.
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773440"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003949"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -45,7 +45,7 @@ Tutti i piani di sottoscrizione supportati sono idonei per l'accesso al client W
 
 Microsoft teams non è disponibile come servizio autonomo.
 
-## <a name="feature-category-reference"></a>Informazioni di riferimento sulle categorie di funzionalità 
+## <a name="feature-category-reference"></a>Informazioni di riferimento sulle categorie di funzionalità
 
 In questa tabella viene elencata la disponibilità delle funzionalità di Microsoft teams tra piani di licenze o istanze cloud. Vengono applicati alcuni caveat. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella potrebbe variare senza preavviso. Fare riferimento alle notifiche del centro messaggi di Microsoft 365 per la messaggistica di modifica dei servizi di base e alla documentazione di riferimento per i [termini di licenza Microsoft](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
@@ -57,16 +57,17 @@ In questa tabella viene elencata la disponibilità delle funzionalità di Micros
 |Canali-privato  <br/> |Sì  <br/> |Sì<sup>2</sup>  <br/> |Sì <br/> |No  <br/> |No <br/> |Sì  <br/> |
 |Riunioni  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Condivisione dello schermo di PowerPoint audio/video desktop <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Voce  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Audioconferenza  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|App, bot, connettori di &  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>4</sup>  <br/> |Sì<sup>4</sup>  <br/> |Sì<sup>3, 4</sup>  <br/> |Sì  <br/> |
-|Eventi Live  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |N.<sup>5</sup>  <br/> |N.<sup>5</sup>  <br/> |Sì  <br/> |
+|Voce  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>3</sup>  <br/> |Sì<sup>3</sup>  <br/> |Sì  <br/> |
+|Audioconferenza  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>3</sup>  <br/> |Sì<sup>3</sup>  <br/> |Sì  <br/> |
+|App, bot, connettori di &  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>5</sup>  <br/> |Sì<sup>5</sup>  <br/> |Sì<sup>4, 5</sup>  <br/> |Sì  <br/> |
+|Eventi Live  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |N.<sup>6</sup>  <br/> |N.<sup>6</sup>  <br/> |Sì  <br/> |
 
 > <sup>1</sup>  Microsoft teams in GCC-High e DOD supportano 2500 membri in un singolo team.<br/>
 > <sup>2</sup> Microsoft Planner non è attualmente disponibile per l'accesso nei canali privati.<br/>
-> <sup>3</sup> Microsoft OneNote non è disponibile in cloud DOD.<br/>
-> <sup>4</sup> le applicazioni e la pubblicazione dell'applicazione non sono disponibili in queste nubi in questo momento.<br/>
-> <sup>5</sup> gli eventi Live non sono disponibili in GCC-High o DOD in questo momento.<br/>
+> <sup>3</sup> il routing diretto deve essere configurato per Microsoft teams Voice and Audio Conferencing per l'utilizzo in GCCH e DOD.<br/>
+> <sup>4</sup> Microsoft OneNote non è disponibile in cloud DOD.<br/>
+> <sup>5</sup> le applicazioni e la pubblicazione dell'applicazione non sono disponibili in queste nubi in questo momento.<br/>
+> <sup>6</sup> gli eventi Live non sono disponibili in GCC-High o DOD in questo momento.<br/>
 
 ## <a name="next-steps"></a>Passaggi successivi
 
