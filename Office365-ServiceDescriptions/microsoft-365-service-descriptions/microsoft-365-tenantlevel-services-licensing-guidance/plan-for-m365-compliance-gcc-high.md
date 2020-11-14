@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 8101a5801b01ba3c2d6e72e28cc0ce482b17ac8b
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830357"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072667"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Pianificare la conformità a Microsoft 365-GCC High
 
@@ -36,7 +36,7 @@ Per ulteriori informazioni sull'offerta Microsoft 365 Government-GCC High per i 
 La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descrive i vantaggi della piattaforma, che sono incentrati sui requisiti di conformità conformi all'interno degli Stati Uniti.
 
 > [!TIP]
-> Potrebbe essere necessario trasferire le tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: **rilevanti per l'organizzazione y/n** e **soddisfano le esigenze dell'organizzazione y/n** . È quindi possibile esaminare questo elenco con i colleghi per confermare che questo servizio soddisfi le esigenze dell'organizzazione.
+> Potrebbe essere necessario trasferire le tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: **rilevanti per l'organizzazione y/n** e **soddisfano le esigenze dell'organizzazione y/n**. È quindi possibile esaminare questo elenco con i colleghi per confermare che questo servizio soddisfi le esigenze dell'organizzazione.
 
 **Punti decisionali** :<br/>
 - *Decidere se Microsoft 365 Government – GCC-High è appropriato per la propria organizzazione.*
@@ -181,7 +181,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Controllo avanzato: approfondimenti di controllo elaborati                              | In ingegneria backlog |
 |                                         | Controllo avanzato: eventi dei termini di ricerca in Exchange Online e SharePoint Online                              | In ingegneria backlog |
 |    **Gestione della conformità**            | Centro sicurezza e conformità di Microsoft 365                              | Disponibili |
-|                                         | Compliance Manager (anteprima)                                 | Distribuzione              |
+|                                         | Compliance Manager                                 | Distribuzione              |
 |                                         | Microsoft Cloud App Security                                 | Disponibili              |
 |                                         | Supporto per i caratteri a byte doppio                                 | In ingegneria backlog              |
 |    **Ecosistema**            | API del grafico per Advanced eDiscovery                              | In sviluppo |
