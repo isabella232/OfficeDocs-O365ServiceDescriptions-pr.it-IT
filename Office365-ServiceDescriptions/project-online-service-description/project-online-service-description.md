@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Recapitato tramite Office 365, Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione di Projects e investimenti del portafoglio di progetto, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
+ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276791"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49085740"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -102,26 +102,29 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 |Pianificazione delle attività | Ottenere una visualizzazione a occhi aperti dei progetti a cui è stato applicato di recente, nonché progetti importanti che è necessario monitorare da vicino.| Sola visualizzazione | Sì | Sì | Sì |
 |Visualizzazione sequenza temporale (diagramma di Gantt) | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale gerarchica.|Sola visualizzazione | Sì | Sì | Sì |
 |Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi mediante attività di riepilogo.| Sola visualizzazione | Sì | Sì | Sì |
+|Creare e utilizzare campi personalizzati attività | Aggiungere i campi personalizzati locali alle attività di un progetto, aggiungere dati a questi campi o aggiornare i dati in questi campi.| No | Sì | Sì | Sì |
 |**Collaborazione** ||||||
 |Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <sup>1</sup> | Sì | Sì | Sì | Sì |
 |**Gestione delle risorse e dei programmi** ||||||
 |Configurazione del team di progetto | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro. | No | Sì | Sì | Sì |
-|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup>   Con il piano di progetto 1 si ottiene l'accesso in sola lettura alle roadmap. Con il piano di progetto 3 o il piano di progetto 5 è anche possibile creare roadmap. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
+|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup> con il piano di progetto 1 si ottiene l'accesso in sola lettura alle roadmap. Con il piano di progetto 3 o il piano di progetto 5 è anche possibile creare roadmap. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |**Reporting**<sup>3</sup> ||||||
-|Creazione di report out-of-the-box | Utilizzare i report predefiniti per comprendere i dati relativi a progetti, programmi, portfolio e risorse. | No | Sì | Sì | Sì |
-|Report personalizzati | Informazioni sui dati importanti per la propria organizzazione tramite la creazione di report personalizzati basati su report non in box o da zero. | No | Sì | Sì | Sì |
-|Dashboard e portali | Creare dashboard e portali personalizzati per soddisfare esigenze specifiche dell'organizzazione.| No | Sì | Sì | Sì |
+|Leggere i report da *Project per i dati Web* | Visualizzare i report, i dashboard e i portali di Power BI personalizzati o di terze parti per comprendere i dati relativi a progetti, programmi, portfolio e risorse. | No | No | Sì | Sì |
+|Creare report utilizzando *Project per i dati Web* | Informazioni sui dati importanti per la propria organizzazione tramite la creazione di report personalizzati di Power BI basati su report fuori scatola o da zero.<br> Creare dashboard e portali di Power BI personalizzati per soddisfare esigenze organizzative specifiche. | No | No | Sì | Sì |
 |**Usabilità** ||||||
 |CoAuthoring | Collaborare con le parti interessate e i membri del team per creare, modificare e aggiornare contemporaneamente elenchi di attività, pianificazioni di progetti e altro ancora.| Sola visualizzazione | Sì | Sì | Sì |
 |Indicatori grafici | Informazioni sullo stato dell'attività, sulle assegnazioni e altro ancora con indicatori grafici.| Sola visualizzazione | Sì | Sì | Sì |
 |**Mobilità** ||||||
 |Applicazioni per dispositivi mobili | Creare applicazioni mobili personalizzate con PowerApps. <sup>4</sup> |No | No | Sì | Sì |
 |**Personalizzazione e integrazione**||||||
-|PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili con PowerApps. <sup>4</sup> | No | No | Sì | Sì |
-|Flussi di lavoro | Automatizzare e integrare i processi aziendali con Power automatizzate. <sup>5</sup> | No | No | Sì | Sì |
-|Integrazione di Microsoft | Collaborare, gestire documenti e altro ancora utilizzando gli strumenti e le applicazioni Microsoft familiari. <sup>1</sup> | Sì | Sì | Sì | Sì |
+|Utilizzo dell'applicazione di Project out-of-the-box | Utilizzare l'applicazione di Project out-of-the-box per visualizzare un progetto, creare un nuovo progetto, aggiungere nuovi dati a un progetto o aggiornare i dati esistenti del progetto. | Solo visualizzazione | Sì | Sì | Sì |
+|Personalizzare le visualizzazioni e i moduli <sup>4</sup> | Personalizzare solo le visualizzazioni e i moduli nell'applicazione di progetto out-of-the-box. | No | Sì | Sì | Sì |
+|Utilizzo di campi personalizzati | Visualizzare, aggiungere, aggiornare o eliminare i dati in un campo personalizzato. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
+|Utilizzare le entità personalizzate <sup>5</sup> | Creare e definire entità personalizzate per contenere dati aggiuntivi necessari per progetti, programmi, portfolio e così via. | No | Solo visualizzazione | Sì | Sì |
 |**Sicurezza e gestione degli utenti**||||||
 |Gruppi moderni di Office | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse per i membri del team da condividere. | Sì | Sì | Sì | Sì |
+|**App di terze parti**||||||
+|Connettersi a *Project per il Web con le* app di terze parti <sup>4</sup> | Utilizzare un'applicazione personalizzata o di terze parti per visualizzare, creare, aggiornare o eliminare i dati di un progetto in qualsiasi entità di progetto nativa o personalizzata.<br> Creare report in applicazioni di terze parti basate sul progetto per i dati Web. | No | No | Sì | Sì |
 
 ### <a name="project-online-features"></a>Funzionalità di Project Online
 
@@ -164,7 +167,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Configurazione del team di progetto | Gestire un team di progetto aggiungendo e rimuovendo membri, impostando i livelli di allocazione e aggiungendo membri esterni. | Sì | Sì |
 |Visualizzazioni della capacità delle risorse | Monitorare e gestire la capacità delle risorse a livello di progetto, team e organizzazione. | Sì | Sì |
 |Costo delle risorse | Monitorare e gestire i costi delle risorse del progetto. | Sì | Sì |
-|Impegni delle risorse (prenotazioni) | I Project Manager possono inviare richieste per le risorse in base al ruolo, alle competenze o al nome. I responsabili delle risorse possono esaminare le richieste e assegnare le migliori risorse disponibili. |Sì<sup>7</sup> | Sì<sup>8</sup> |
+|Impegni delle risorse (prenotazioni) | I Project Manager possono inviare richieste per le risorse in base al ruolo, alle competenze o al nome. I responsabili delle risorse possono esaminare le richieste e assegnare le migliori risorse disponibili. |Sì<sup>8</sup> | Sì<sup>9</sup> |
 |Pianificazione della capacità delle risorse | Monitorare e gestire la capacità delle risorse a livello di progetto, team e organizzazione. | No | Sì |
 |Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup> | Sì | Sì |
 |Analisi del portfolio e definizione delle priorità | Identificare, selezionare e distribuire i portfolio di progetti che meglio vengono allineati alla strategia aziendale dell'organizzazione e massimizzare il rendimento dell'investimento (ROI). | No | Sì |
@@ -179,25 +182,26 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Custom fields | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. | Sì | Sì |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. | Sì | Sì |
 |PowerApps | Creare e utilizzare soluzioni per Web e per dispositivi mobili (tramite OData) con PowerApps. <sup>4</sup> | Sì | Sì |
-|Flussi di lavoro | Automatizzare e integrare processi aziendali (tramite OData) con Power automatizzate. <sup>5</sup> | Sì | Sì |
+|Flussi di lavoro | Automatizzare e integrare processi aziendali (tramite OData) con Power automatizzate. <sup>7</sup> | Sì | Sì |
 |Integrazione di Microsoft 365 | Collaborare, gestire documenti e molto altro ancora usando gli strumenti e le applicazioni Microsoft familiari. <sup>1</sup> | Sì | Sì |
 |Integrazione di Microsoft Planner | Connettere le attività del progetto a un piano di pianificazione e monitorare il lavoro dettagliato in Planner. <sup>1</sup> | Sì | Sì |
 |**Gestione della sicurezza, degli utenti e dei servizi**||||
-|Integrazione con Active Directory | Creare team da qualsiasi membro dell'organizzazione di Active Directory. <sup>9</sup> | Sì | Sì |
+|Integrazione con Active Directory | Creare team da qualsiasi membro dell'organizzazione di Active Directory. <sup>10</sup> | Sì | Sì |
 |Gestione degli utenti | Gestire i ruoli e le autorizzazioni di utenti e gruppi a livello di progetto, team e organizzazione. | No | Sì |
-|Amministrazione del servizio | Pianificare, installare e configurare, gestire ed estendere l'ambiente di Microsoft Project come parte dell'ambiente Office 365<sup>1</sup> .  | No | Sì |
+|Amministrazione del servizio | Pianificare, installare e configurare, gestire ed estendere l'ambiente di Microsoft Project come parte dell'ambiente Office 365<sup>1</sup> . | No | Sì |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>Note
 
 <sup>1</sup> richiede un abbonamento commerciale a Office o Microsoft 365.</br>
 <sup>2</sup> schede di Azure acquisite separatamente.</br>
-<sup>3</sup> la creazione di report per Project per il Web e Project online è disponibile mediante Power bi. La visualizzazione, la modifica e la creazione di report richiedono un abbonamento a Power BI. Microsoft fornisce un set predefinito di report di Power BI. Gli utenti possono personalizzare questi rapporti o creare rapporti aggiuntivi utilizzando Power BI.</br> 
-<sup>4</sup> la creazione e l'utilizzo di applicazioni mobili di PowerApps personalizzate che accedono al progetto per i dati Web richiedono una sottoscrizione di PowerApps e un abbonamento al piano di progetto 3 o al piano di progetto 5.</br>
-<sup>5</sup> l'automazione e l'integrazione dei processi aziendali con Power automatizzate con Project per i dati Web richiede una sottoscrizione Power automatizzate e un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
+<sup>3</sup> la creazione di report per Project per il Web e Project online è disponibile mediante Power bi. Richiede una licenza Power BI.</br>
+<sup>4</sup> la creazione e l'utilizzo di applicazioni di alimentazione separate oltre all'applicazione di Project out-of-the-box che accede al progetto per il Web o i dati dei clienti di Project online richiede una sottoscrizione di Power Apps separata.</br>
+<sup>5</sup> limitate a 5 entità personalizzate.</br>
 <sup>6</sup> la gestione delle licenze di Project online per gli utenti esterni segue gli stessi criteri di quelli per gli utenti interni. Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
-<sup>7</sup> gli utenti che dispongono di un abbonamento al piano di progetto 3 o al piano di progetto 5 possono inviare richieste di impegno delle risorse. Non è possibile esaminare, soddisfare o approvare le richieste di impegno delle risorse.</br>
-<sup>8</sup> gli utenti che dispongono di un abbonamento al piano di progetto 5 possono esaminare, soddisfare e approvare le richieste di impegno delle risorse.</br>
-<sup>9</sup> Active Directory richiede una sottoscrizione separata. </br>
+<sup>7</sup> l'automazione e l'integrazione dei processi aziendali con Power automatizzate con Project per i dati Web richiede una sottoscrizione Power automatizzate e un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
+<sup>8</sup> gli utenti che dispongono di un abbonamento al piano di progetto 3 o al piano di progetto 5 possono inviare richieste di impegno delle risorse. Non è possibile esaminare, soddisfare o approvare le richieste di impegno delle risorse.</br>
+<sup>9</sup> gli utenti che dispongono di un abbonamento al piano di progetto 5 possono esaminare, soddisfare e approvare le richieste di impegno delle risorse.</br>
+<sup>10</sup> Active Directory richiede una sottoscrizione separata. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Caratteristiche del client desktop di Project online
 
@@ -238,7 +242,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Ordinamento e raggruppamento | Utilizzare l'ordinamento personalizzato e il raggruppamento per ottenere una visualizzazione mirata del progetto, delle attività e delle risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. |
-|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi i piani di progetto, i team e le assegnazioni. |
 |importazione/esportazione di file con estensione MPP | Creare nuovi progetti da file con estensione MPP esistenti o creare un file con estensione MPP di un progetto esistente. |
