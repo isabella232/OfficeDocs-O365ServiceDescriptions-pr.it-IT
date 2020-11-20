@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999719"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330263"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -298,8 +298,8 @@ Le licenze seguenti forniscono i diritti per un utente di usufruire dei connetto
 - Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 info Protection & governance
 - Conformità Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 gestione dei rischi Insider 
-- Microsoft 365 E5/A5 eDiscovery e audit 
+- Microsoft 365 E5/A5 gestione dei rischi Insider
+- Microsoft 365 E5/A5 eDiscovery e audit
 - Office 365 E5/A5
 - Office 365 Advanced Compliance
 
@@ -377,11 +377,7 @@ Le chiavi di crittografia per i clienti di Office 365 possono essere abilitate p
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Per assegnare le chiavi di crittografia ai dati all'interno di un'organizzazione di Office 365 e/o Microsoft 365 per gli utenti con licenza, seguire le istruzioni per la distribuzione delle chiavi di crittografia del cliente.
-
-- Per i file di SharePoint Online, OneDrive for business e teams, i file in uno o più siti possono essere crittografati utilizzando la chiave del cliente.
-
-- Per Exchange Online e Skype for business, le cassette postali possono essere crittografate utilizzando la chiave del cliente.
+Per Exchange Online e Skype for business, le cassette postali possono essere crittografate utilizzando la chiave del cliente. È necessario configurare Azure prima di poter utilizzare la chiave del cliente per Office 365. Vedere [impostare la chiave del cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) per la procedura da seguire per creare e configurare le risorse di Azure necessarie e i passaggi per la configurazione della chiave del cliente in Office 365. Dopo aver completato il programma di installazione di Azure, è necessario determinare quali criteri e quindi, quali chiavi, assegnare alle cassette postali e ai file nell'organizzazione. Le cassette postali e i file per cui non si assegna un criterio utilizzeranno i criteri di crittografia controllati e gestiti da Microsoft. Per ulteriori informazioni sulla chiave del cliente o per una panoramica generale, vedere [Service Encryption with Customer Key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide).
 
 ## <a name="office-365-customer-lockbox"></a>Customer Lockbox di Office 365
 
