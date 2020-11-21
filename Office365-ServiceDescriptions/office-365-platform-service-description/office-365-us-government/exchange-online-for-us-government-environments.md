@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica delle differenze di funzionalità tra il cloud governativo degli Stati Uniti e il cloud commerciale, come elencato nella descrizione del servizio Exchange Online.
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988083"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376089"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online per gli ambienti governativi degli Stati Uniti
 
@@ -111,7 +111,7 @@ Nella tabella seguente viene descritto se le funzionalità di Exchange Online sp
 |Cassette postali del sito|Sì|Sì|Sì||
 |Cartelle pubbliche|Sì|Sì|Sì||
 |**[Client e dispositivi mobili](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni principali**|
-|Per eseguire il Web|Sì|No|No||
+|Da fare sul Web|Sì|No|No||
 | Outlook per Windows|Sì|Sì|Sì|Per soddisfare i requisiti di conformità di GCC High e DoD, è necessario eseguire almeno la versione 1803 di Office 365 ProPlus. Office 365 ProPlus non è incluso in G1 o F3.|
 |Outlook sul Web|Sì|Sì|Sì||
 |Outlook per Mac|Sì|Sì|Sì|Per soddisfare i requisiti di conformità di GCC High e DoD, è necessario eseguire almeno la versione 1803 di Office 365 ProPlus. Office 365 ProPlus non è incluso in G1 o F3.|
@@ -170,7 +170,7 @@ Per ulteriori informazioni e gli aggiornamenti più recenti, vedere [Azure Gover
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Comportamento di crittografia dei messaggi di Office 365 tra i limiti GCC High/DoD
 
-Se si desidera utilizzare la crittografia dei messaggi di Office 365 in un ambiente GCC High, tenere presente queste caratteristiche esclusive relative all'esperienza del destinatario:  
+Se si prevede di utilizzare la crittografia dei messaggi di Office 365 in un ambiente GCC High, tenere presente queste caratteristiche esclusive relative all'esperienza del destinatario:  
 
 - Quando si inviano messaggi di posta elettronica crittografati da GCC High o DoD ai destinatari nello stesso ambiente:
     
@@ -212,13 +212,13 @@ Outlook per iOS e Android è disponibile anche per gli ambienti GCC High e DoD. 
 
 Solo alcuni componenti aggiuntivi OWA e Outlook sono disponibili in GCC High e DoD. I modelli personali e le riunioni consigliate sono disponibili e dovrebbero funzionare. Sono supportati solo i cinque componenti aggiuntivi di OWA predefiniti. L'integrazione con le applicazioni di terze parti è possibile, tuttavia, queste integrazioni non sono coperte dalle promesse di conformità di Microsoft per GCC High o DoD. I clienti devono acquisire familiarità con le procedure di gestione dei dati di terze parti e le promesse di conformità prima di configurare il componente aggiuntivo per la propria organizzazione.
 
-## <a name="feature-nuances-within-gcc-environments"></a>Sfumature delle caratteristiche all'interno degli ambienti GCC
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Sfumature delle caratteristiche all'interno degli ambienti GCC per Microsoft
 
 | Funzionalità | Descrizione | WW | Disponibilità in GCC |
 |:-----|:-----|:-----|:-----|
-|Piattaforme supportate|Web, Android, iOS, Mac, Windows|Tutti|Solo Web|
-|Supporto di M365 Hub|Integrazioni con Outlook, teams, Planner|Tutti|Outlook, Planner (teams to be available with Tasks app Teams)|
-|Migrazione Wunderlist|Consenti agli utenti di Wunderlist di eseguire la migrazione dei dati da fare|Sì|No|
+|Piattaforme supportate|Web, Android, iOS, Mac, Windows|Tutte|Solo Web|
+|Supporto di M365 Hub|Integrazioni con Outlook, teams, Planner|Tutte|Outlook, Planner (teams to be available with Tasks app Teams)|
+|Migrazione Wunderlist|Consenti agli utenti di Wunderlist di eseguire la migrazione dei dati da fare sul Web|Sì|No|
 |Notifiche Push|Inviare notifiche push agli utenti finali per i promemoria e così via.|Sì|No|
 |Supporto di Helpshift|Utilizzare l'interfaccia helpshift per creare una richiesta di supporto|Sì|No|
 |My Day|Pianificare la propria giornata|Sì|Sì|
