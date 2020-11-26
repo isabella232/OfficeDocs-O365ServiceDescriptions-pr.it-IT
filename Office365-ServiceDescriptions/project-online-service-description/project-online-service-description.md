@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Recapitato tramite Office 365, Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione di Projects e investimenti del portafoglio di progetto, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
-ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
+ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085740"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411595"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -65,9 +65,9 @@ Il client desktop Microsoft Project online è un programma di gestione dei proge
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Utilizzo di Project per il Web e Project online insieme
 
-Anche se Project per il Web e Project online sono applicazioni separate, è possibile utilizzarli affiancati. È possibile visualizzare tutti i progetti di entrambe le applicazioni in Project Home. È possibile utilizzare la funzionalità di roadmap del progetto per creare tabelle di marcia che includano progetti di entrambe le applicazioni. È possibile utilizzare Power BI e il progetto per il pacchetto di contenuto Web Power BI per ottenere informazioni dettagliate su progetti e risorse tra le due applicazioni. <sup>3</sup>
+Anche se Project per il Web e Project online sono applicazioni separate, è possibile utilizzarli fianco a fianco. È possibile visualizzare tutti i progetti di entrambe le applicazioni in Project Home. È possibile utilizzare la funzionalità di roadmap del progetto per creare tabelle di marcia che includano progetti di entrambe le applicazioni. È possibile utilizzare Power BI e il progetto per il pacchetto di contenuto Web Power BI per ottenere informazioni dettagliate su progetti e risorse tra le due applicazioni. <sup>3</sup>
 
-Questo diagramma illustra in che modo le applicazioni possono collaborare affiancate.
+Questo diagramma illustra il modo in cui le applicazioni possono collaborare fianco a fianco.
 
 ![Diagramma che mostra il progetto sul Web e Project online insieme](../media/project-online-applications.png)
 
@@ -102,12 +102,12 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 |Pianificazione delle attività | Ottenere una visualizzazione a occhi aperti dei progetti a cui è stato applicato di recente, nonché progetti importanti che è necessario monitorare da vicino.| Sola visualizzazione | Sì | Sì | Sì |
 |Visualizzazione sequenza temporale (diagramma di Gantt) | Monitorare e comprendere visivamente le date, le dipendenze e le assegnazioni di progetti in una visualizzazione sequenza temporale gerarchica.|Sola visualizzazione | Sì | Sì | Sì |
 |Attività di riepilogo | Pianificare, gestire e monitorare i risultati finali e le fasi mediante attività di riepilogo.| Sola visualizzazione | Sì | Sì | Sì |
-|Creare e utilizzare campi personalizzati attività | Aggiungere i campi personalizzati locali alle attività di un progetto, aggiungere dati a questi campi o aggiornare i dati in questi campi.| No | Sì | Sì | Sì |
+|Creare e utilizzare campi personalizzati attività | Aggiungere i campi personalizzati locali alle attività di un progetto, aggiungere dati a questi campi o aggiornare i dati in questi campi.| Solo visualizzazione | Sì | Sì | Sì |
 |**Collaborazione** ||||||
 |Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <sup>1</sup> | Sì | Sì | Sì | Sì |
 |**Gestione delle risorse e dei programmi** ||||||
 |Configurazione del team di progetto | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro. | No | Sì | Sì | Sì |
-|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup> con il piano di progetto 1 si ottiene l'accesso in sola lettura alle roadmap. Con il piano di progetto 3 o il piano di progetto 5 è anche possibile creare roadmap. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
+|Roadmap | Creare tabelle di marcia interattive e visive tra progetti di progetti di Microsoft Project online, Microsoft Project per il Web e Azure Boards. <sup>2</sup> con il piano di progetto 1 si ottiene l'accesso in sola lettura alle roadmap. Con il piano di progetto 3 o il piano di progetto 5, è anche possibile creare roadmap. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |**Reporting**<sup>3</sup> ||||||
 |Leggere i report da *Project per i dati Web* | Visualizzare i report, i dashboard e i portali di Power BI personalizzati o di terze parti per comprendere i dati relativi a progetti, programmi, portfolio e risorse. | No | No | Sì | Sì |
 |Creare report utilizzando *Project per i dati Web* | Informazioni sui dati importanti per la propria organizzazione tramite la creazione di report personalizzati di Power BI basati su report fuori scatola o da zero.<br> Creare dashboard e portali di Power BI personalizzati per soddisfare esigenze organizzative specifiche. | No | No | Sì | Sì |
@@ -118,13 +118,13 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati del pr
 |Applicazioni per dispositivi mobili | Creare applicazioni mobili personalizzate con PowerApps. <sup>4</sup> |No | No | Sì | Sì |
 |**Personalizzazione e integrazione**||||||
 |Utilizzo dell'applicazione di Project out-of-the-box | Utilizzare l'applicazione di Project out-of-the-box per visualizzare un progetto, creare un nuovo progetto, aggiungere nuovi dati a un progetto o aggiornare i dati esistenti del progetto. | Solo visualizzazione | Sì | Sì | Sì |
-|Personalizzare le visualizzazioni e i moduli <sup>4</sup> | Personalizzare solo le visualizzazioni e i moduli nell'applicazione di progetto out-of-the-box. | No | Sì | Sì | Sì |
-|Utilizzo di campi personalizzati | Visualizzare, aggiungere, aggiornare o eliminare i dati in un campo personalizzato. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
-|Utilizzare le entità personalizzate <sup>5</sup> | Creare e definire entità personalizzate per contenere dati aggiuntivi necessari per progetti, programmi, portfolio e così via. | No | Solo visualizzazione | Sì | Sì |
+|Personalizzare le visualizzazioni e i moduli <sup>4</sup> | Personalizzare solo le visualizzazioni e i moduli nell'applicazione di progetto out-of-the-box. | Solo visualizzazione | Sì | Sì | Sì |
+|Utilizzare colonne personalizzate | Consente di visualizzare, aggiungere, aggiornare o eliminare i dati di una colonna aggiunta a una tabella. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
+|Utilizzare le tabelle personalizzate <sup>5</sup> | Creare e definire tabelle personalizzate per contenere dati aggiuntivi necessari per i progetti, i portafogli e così via. | No | Solo visualizzazione | Sì | Sì |
 |**Sicurezza e gestione degli utenti**||||||
 |Gruppi moderni di Office | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse per i membri del team da condividere. | Sì | Sì | Sì | Sì |
 |**App di terze parti**||||||
-|Connettersi a *Project per il Web con le* app di terze parti <sup>4</sup> | Utilizzare un'applicazione personalizzata o di terze parti per visualizzare, creare, aggiornare o eliminare i dati di un progetto in qualsiasi entità di progetto nativa o personalizzata.<br> Creare report in applicazioni di terze parti basate sul progetto per i dati Web. | No | No | Sì | Sì |
+|Connettersi a *Project per il Web* con app di terze parti <sup>4</sup> | Utilizzare un'applicazione personalizzata o di terze parti per visualizzare, creare, aggiornare o eliminare i dati di un progetto in una tabella di Project nativa o personalizzata.<br> Creare report in applicazioni di terze parti basate sul progetto per i dati Web. | No | No | Sì | Sì |
 
 ### <a name="project-online-features"></a>Funzionalità di Project Online
 
@@ -157,7 +157,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'a
 |Allegati | Allegare documenti, immagini e altri file a livello di Team, progetto o attività. Gestire gli allegati in una raccolta centrale a livello di team o di progetto. | Sì | Sì |
 |Membri del team esterno |Collaborare con persone esterne all'organizzazione concedendo loro l'accesso per visualizzare e interagire con i progetti, le attività e i documenti. <sup>6</sup> | Sì | Sì |
 |Siti di progetto | Creare e personalizzare un hub per la collaborazione e i documenti di un progetto. | Sì | Sì |
-Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <sup>1</sup> | Sì | Sì |
+|Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <sup>1</sup> | Sì | Sì |
 |**Gestione delle richieste** ||||
 |Configurazione del flusso di lavoro approvazione richieste di progetto | Creare i flussi di lavoro necessari per valutare, assegnare priorità e approvare la richiesta in arrivo. | No | Sì |
 |Creazione di moduli di richiesta di progetto | Acquisire dati importanti sulla richiesta in arrivo per valutare e definire la priorità di un nuovo lavoro. | No | Sì |
@@ -196,7 +196,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 <sup>2</sup> schede di Azure acquisite separatamente.</br>
 <sup>3</sup> la creazione di report per Project per il Web e Project online è disponibile mediante Power bi. Richiede una licenza Power BI.</br>
 <sup>4</sup> la creazione e l'utilizzo di applicazioni di alimentazione separate oltre all'applicazione di Project out-of-the-box che accede al progetto per il Web o i dati dei clienti di Project online richiede una sottoscrizione di Power Apps separata.</br>
-<sup>5</sup> limitate a 5 entità personalizzate.</br>
+<sup>5</sup> limitate a 5 tabelle personalizzate.</br>
 <sup>6</sup> la gestione delle licenze di Project online per gli utenti esterni segue gli stessi criteri di quelli per gli utenti interni. Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
 <sup>7</sup> l'automazione e l'integrazione dei processi aziendali con Power automatizzate con Project per i dati Web richiede una sottoscrizione Power automatizzate e un piano di progetto 3 o un abbonamento al piano di progetto 5.</br>
 <sup>8</sup> gli utenti che dispongono di un abbonamento al piano di progetto 3 o al piano di progetto 5 possono inviare richieste di impegno delle risorse. Non è possibile esaminare, soddisfare o approvare le richieste di impegno delle risorse.</br>
@@ -242,7 +242,7 @@ Integrazione di Microsoft Teams | Collaborare a progetti in Microsoft teams. <su
 |Ordinamento e raggruppamento | Utilizzare l'ordinamento personalizzato e il raggruppamento per ottenere una visualizzazione mirata del progetto, delle attività e delle risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. |
-|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi i piani di progetto, i team e le assegnazioni. |
 |importazione/esportazione di file con estensione MPP | Creare nuovi progetti da file con estensione MPP esistenti o creare un file con estensione MPP di un progetto esistente. |

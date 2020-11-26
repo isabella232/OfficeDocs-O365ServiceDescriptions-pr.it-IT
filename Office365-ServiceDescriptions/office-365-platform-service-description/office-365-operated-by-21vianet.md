@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294132"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411655"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -151,7 +151,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Aggiornamenti dei servizi](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
+|**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate al centro messaggi quando l'azione è obbligatoria, viene risolto un problema, vengono distribuite le funzionalità o le modifiche del servizio|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) per alcuni aggiornamenti del servizio|Sì|--|Sì|Sì|Sì|Sì|Sì|
@@ -334,7 +334,7 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 |Regole del flusso di posta (regole di trasporto)|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|
 |Prevenzione della perdita di dati|No|No|No|No|No|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione dalla posta indesiderata e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
+|**[Protezione antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Protezione da posta indesiderata integrata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>4</sup>|
 |Protezione antimalware integrata|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|
@@ -1070,7 +1070,7 @@ Le seguenti funzionalità per dispositivi mobili non sono supportate:
 - "LinkedIn" & "rapporti a" dati sulla scheda persone
 - Preferiti
 - Riprodurre i messaggi di posta elettronica
-- Componenti aggiuntivi
+- Add-Ins
 - Risposta intelligente
 - Feed di Office
 - Tempo di uscita
@@ -1099,7 +1099,7 @@ Nella tabella seguente sono elencate le funzionalità di Project Online disponib
 |[Campi personalizzati](../project-online-service-description/core-functionality.md#custom-fields)|No|Sì|Sì|Sì|No|
 |[Copia e Incolla ottimizzato in tutte le applicazioni Microsoft Office](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|No|Sì|Sì|Sì|No|
 |[Diagramma di Gantt, calendario e altre visualizzazioni](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|No|Sì|Sì|Sì|No|
-|[Interfaccia utente Microsoft Fluent, la barra multifunzione](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|No|Sì|Sì|Sì|No|
+|[Interfaccia utente, la barra multifunzione](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|No|Sì|Sì|Sì|No|
 |[Annullamento delle ultime azioni effettuate](../project-online-service-description/core-functionality.md#multiple-level-undo)|No|Sì|Sì|Sì|No|
 |[Visualizzazione Diagramma reticolare](../project-online-service-description/core-functionality.md#network-diagram-view)|No|Sì|Sì|Sì|No|
 |[Office Store](../project-online-service-description/core-functionality.md#office-store)|No|No|No|No|No|

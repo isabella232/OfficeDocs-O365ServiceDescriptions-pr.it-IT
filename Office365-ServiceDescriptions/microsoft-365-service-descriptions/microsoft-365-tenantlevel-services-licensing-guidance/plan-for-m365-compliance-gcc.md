@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072677"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411645"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità a Microsoft 365 – GCC
 
@@ -46,7 +46,7 @@ La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.co
 > [!NOTE]
 > Microsoft 365 Government-GCC è disponibile solo negli Stati Uniti. I clienti non governativi degli Stati Uniti possono scegliere tra una serie di [piani governativi di Office 365](https://products.office.com/government/compare-office-365-government-plans).
 
-**Punti decisionali** : <br/>
+**Punti decisionali**: <br/>
 - *Decidere se Microsoft 365 Government-GCC è appropriato per la propria organizzazione.*
 - *Verificare che l'organizzazione soddisfi i requisiti di idoneità.*
 
@@ -58,7 +58,7 @@ Dopo aver deciso che questo servizio è appropriato per la propria organizzazion
 
 È consigliabile richiedere tempo per esaminare attentamente le impostazioni di protezione e di amministratore prima di modificarle e considerare l'impatto sulla conformità prima di apportare modifiche alle impostazioni di protezione predefinite.
 
-**Punto decisionale** : *decidere se modificare una delle impostazioni di protezione predefinite di Microsoft 365 Government-GCC, risolvendo in primo luogo l'impatto di eventuali modifiche apportate.*
+**Punto decisionale**: *decidere se modificare una delle impostazioni di protezione predefinite di Microsoft 365 Government-GCC, risolvendo in primo luogo l'impatto di eventuali modifiche apportate.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Passaggio 4. Comprendere quali funzionalità non sono attualmente disponibili o disattivate per impostazione predefinita in Microsoft 365 Government – GCC<sup>1</sup>
 
@@ -182,7 +182,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Controllo avanzato: approfondimenti di controllo elaborati                               | In ingegneria backlog |
 |                                         | Controllo avanzato: eventi dei termini di ricerca in Exchange Online e SharePoint Online                              | In ingegneria backlog |
 |    **Gestione della conformità**            | Centro sicurezza e conformità di Microsoft 365                              | Disponibili |
-|                                         | Compliance Manager                              | Distribuzione |
+|                                         | Compliance Manager                              | Disponibili |
 |                                         | Microsoft Cloud App Security                              | In ingegneria backlog |
 |                                         | Supporto per i caratteri a byte doppio                              | In ingegneria backlog |
 |    **Ecosistema**            | API del grafico per Advanced eDiscovery                              | In sviluppo |
@@ -195,4 +195,4 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 
 <sup>1</sup> lo stato identificato è soggetto a modifiche man mano che i piani di progetto e le priorità vengono rivalutati.<br/>
 
-**Punto decisionale** : *decidere se le funzionalità di conformità soddisfano le esigenze dell'organizzazione.*
+**Punto decisionale**: *decidere se le funzionalità di conformità soddisfano le esigenze dell'organizzazione.*

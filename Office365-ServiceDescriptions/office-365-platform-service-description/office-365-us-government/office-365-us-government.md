@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830407"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411615"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -237,7 +237,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Browser utilizzato|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Sistema operativo utilizzato|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
-|**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 governo F3**|
+|**[Aggiornamenti del servizio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 governo F3**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Roadmap.office.com per alcuni aggiornamenti del servizio|N<sup>. 10, 13</sup>|N<sup>. 10, 13</sup>|N<sup>. 10, 13</sup>|N<sup>. 10, 13</sup>|
@@ -446,6 +446,7 @@ Le applicazioni di Office seguenti sono disponibili nelle cloud del governo. Tut
 |Chat contestuale con i coautori: chattare con i coautori all'interno del documento|No|No|No|
 |Dettatura|N<sup>° 1</sup>|N<sup>° 1</sup>|N<sup>° 1</sup>|
 
+Per la disponibilità delle funzionalità per Microsoft teams all'interno di GCC/GCC High/DoD, visitare la [Descrizione del servizio Microsoft teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description).
 > <sup>1</sup> disponibilità imminente.
 <br/><sup>2</sup> disponibilità su Hub superficie locale (non connesso).
 <br/><sup>3</sup> la condivisione esterna è disponibile per l'ambiente GCC. Per ulteriori informazioni, vedere Disattivazione [o attivazione di Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) per l'organizzazione. La condivisione esterna è disattivata per gli ambienti GCC High e DOD; Gli utenti all'interno dell'organizzazione possono eseguire le operazioni seguenti: completare una maschera e inviare risposte, [duplicare e condividere un modulo come modello](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [creare un coautore o collaborare a un modulo](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [accedere ai risultati dei moduli](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).

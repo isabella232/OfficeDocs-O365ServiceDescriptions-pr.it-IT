@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: In Project online sono disponibili le seguenti funzionalità di base.
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294042"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411585"
 ---
 # <a name="core-functionality"></a>Funzionalità di base
 
@@ -52,13 +52,13 @@ Semplicemente copiando e incollando i dettagli di pianificazione tra le applicaz
 
 Presentare le informazioni di progetto graficamente tramite diagramma di Gantt, diagrammi reticolari, grafici, fogli, utilizzo e visualizzazioni maschera. Vedere [Scegliere la visualizzazione destra della pianificazione del progetto](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Interfaccia utente Microsoft Fluent, la barra multifunzione
+## <a name="user-interface-the-ribbon"></a>Interfaccia utente, la barra multifunzione
 
-Grazie alla barra multifunzione, un'interfaccia a schede che consente di trovare e utilizzare velocemente e facilmente i comandi e le funzionalità disponibili in Project, è possibile aumentare la produttività. Per ulteriori informazioni, vedere [Barra multifunzione](https://go.microsoft.com/fwlink/p/?LinkId=271325).
-  
+Grazie alla barra multifunzione, un'interfaccia a schede che consente di trovare e utilizzare velocemente e facilmente i comandi e le funzionalità disponibili in Project, è possibile aumentare la produttività.
+
 ## <a name="multiple-level-undo"></a>Annullamento delle ultime azioni effettuate
 
-È possibile annullare più modifiche contemporaneamente utilizzando il menu Annulla. 
+È possibile annullare più modifiche contemporaneamente utilizzando il menu Annulla.
   
 ## <a name="network-diagram-view"></a>Visualizzazione Diagramma reticolare
 
@@ -103,5 +103,3 @@ Utilizzare i controlli zoom disponibili sulla barra di stato per modificare velo
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
 Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Project Online](project-online-service-description.md).
-  
-
