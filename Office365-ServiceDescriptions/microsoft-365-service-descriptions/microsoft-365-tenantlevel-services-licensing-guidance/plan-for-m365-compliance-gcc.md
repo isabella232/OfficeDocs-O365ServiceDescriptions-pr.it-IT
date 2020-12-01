@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411645"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519037"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità a Microsoft 365 – GCC
 
@@ -115,7 +115,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Gestione dei rischi Insider: decrescente per le indagini per Advanced eDiscovery | In sviluppo|
 |                                         | Gestione dei rischi Insider: indicatori del dispositivo per attività in Windows 10 Build 1809 e versioni successive | In ingegneria backlog|
 |                                         | Gestione dei rischi Insider: indicatori per la violazione dei criteri di sicurezza (anteprima) | In ingegneria backlog|
-|                                         | Gestione dei rischi Insider: indicatori per avvisi di Windows Defender ATP (anteprima) | In ingegneria backlog|
+|                                         | Gestione dei rischi Insider: indicatori per Microsoft Defender per gli avvisi endpoint (anteprima) | In ingegneria backlog|
 |                                         | Gestione dei rischi Insider: modelli di criteri per le perdite di dati da parte di utenti prioritari (anteprima) | In ingegneria backlog |
 |                                         | Gestione dei rischi Insider: modelli di criteri per le perdite di dati da parte di utenti scontenti (anteprima) | In ingegneria backlog |
 |                                         | Gestione dei rischi Insider: modelli di criteri per violazioni generali dei criteri di sicurezza (anteprima) | In ingegneria backlog |

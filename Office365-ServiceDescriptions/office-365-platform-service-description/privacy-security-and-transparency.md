@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft apprezza il suo rapporto con i clienti e considera fondamentale proteggere la privacy e la sicurezza dei dati dei clienti. Per ulteriori informazioni, visitare il Centro protezione Microsoft.
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131670"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519057"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -51,11 +51,10 @@ In qualità di amministratore Microsoft, è possibile utilizzare l'archivio prot
   
 Customer Lockbox è incluso nel piano 5 di Office 365 Enterprise oppure è possibile acquistare una sottoscrizione separata con qualsiasi altro piano di Office 365 Enterprise. Per ulteriori informazioni, vedere [Richieste di Customer Lockbox di Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
-## <a name="advanced-threat-protection"></a>Protezione avanzata dalle minacce
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender per Office 365
 
-Office 365 Advanced Threat Protection consente di proteggere l'organizzazione da malware e virus. ATP include [collegamenti sicuri](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [allegati sicuri](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), funzionalità di [anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)e di [Intelligence spoof](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . I collegamenti sicuri proteggono attivamente gli utenti da collegamenti ipertestuali dannosi in un messaggio, garantendo la protezione ogni volta che si seleziona il collegamento. La funzionalità Allegati sicuri protegge da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non dispongono di una firma di virus/malware nota in un ambiente speciale in cui ATP può rilevare attacchi dannosi. Per ulteriori informazioni su ATP, vedere [Descrizione del servizio Office 365 Advanced Threat Protection](../office-365-advanced-threat-protection-service-description.md).
+Defender per Office 365 consente di proteggere l'organizzazione da malware e virus. Defender per Office 365 include [collegamenti sicuri](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), funzionalità per gli [allegati sicuri](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)e [spoof Intelligence](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . I collegamenti sicuri proteggono attivamente gli utenti da collegamenti ipertestuali dannosi in un messaggio, garantendo la protezione ogni volta che si seleziona il collegamento. Gli allegati sicuri proteggono da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non dispongono di una firma virus/malware nota in un ambiente speciale in cui il difensore per Office 365 è in grado di rilevare intenzioni dannose. Per ulteriori informazioni su Defender per Office 365, vedere [Descrizione del servizio Microsoft Defender per office 365](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
 Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 Platform Service Description](office-365-platform-service-description.md).
-  

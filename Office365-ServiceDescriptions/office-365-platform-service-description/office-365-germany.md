@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con la residenza dei dati in Germania e le misure di controllo e di accesso ai dati rigorose tramite un modello di fiducia dei dati univoco disciplinato dal diritto tedesco
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367763"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518827"
 ---
-# <a name="office-365-germany"></a>Office 365 Germania
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 Germany è un'opzione differenziata dei servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, Unione europea (UE) e l'associazione europea di libero scambio (AELS), fornendo i servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con la residenza dei dati in Germania e le misure di controllo e di accesso ai dati rigorose tramite un modello di fiducia dei dati univoco disciplinato dal diritto tedesco
 
@@ -142,7 +142,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
 |Browser utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Sistema operativo utilizzato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Aggiornamenti dei servizi](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Roadmap.office.com per alcuni aggiornamenti del servizio|Sì|--|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -156,7 +156,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
 |Protocolli IPv4 e IPv6|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**Attendibilità**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Privacy, sicurezza e trasparenza](privacy-security-and-transparency.md)**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Protezione avanzata dalle minacce|No|No|No|No|No|No|Sì|No|
+|Microsoft Defender per Office 365|No|No|No|No|No|No|Sì|No|
 |Archivio protetto del cliente|No|No|No|No|No|No|Sì|No|
 |Advanced eDiscovery|No|No|No|No|No|No|No|No|
 |Secure Score|No|No|No|No|No|No|No|No|
@@ -262,7 +262,7 @@ Utilizzare le tabelle seguenti per confrontare la disponibilità delle funzional
 
 | Funzionalità | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Applicazioni<sup>di Office 1, 2</sup>**||||
+|**Applicazioni <sup>di Office 1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sì|Sì|Sì|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sì|Sì|Sì|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Sì|Sì|Sì|
@@ -368,14 +368,14 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
 |Regole del flusso di posta|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|
 |Prevenzione della perdita di dati|No|No|No|No|No|Sì|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione dalla posta indesiderata e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Protezione antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Protezione da posta indesiderata integrata|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Protezione antimalware integrata|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|
 |Customize anti-malware policies|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Quarantena - gestione da parte dell'amministrazione|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Quarantena - autogestione dell'utente finale|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Protezione avanzata dalle minacce|No|--|No|No|No|No|Sì|No|
+|Microsoft Defender per Office 365|No|--|No|No|No|No|Sì|No|
 |**[Flusso di posta](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Routing personalizzato della posta in uscita|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Secure messaging with a trusted partner|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -520,11 +520,11 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online Protect
 <sup>17</sup> disponibile in Office 365 Germania E3.<br/>
 <sup>18</sup> disponibile come caratteristica del componente aggiuntivo per Office 365 Germany.
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Funzionalità di Exchange Online Advanced Threat Protection
+## <a name="defender-for-office-365-features"></a>Protezione per le caratteristiche di Office 365
 
-Nella tabella seguente sono elencate le funzionalità di Exchange Online Advanced Threat Protection disponibili nei piani di Office 365 Germany. Per informazioni più dettagliate sulle funzionalità di EOP, selezionare i collegamenti nella tabella. Quando è menzionato Exchange Online, in genere si intende la famiglia di servizi di Office 365 Enterprise.<br><br>
+Nella tabella seguente sono elencate le funzionalità di protezione per Office 365 disponibili nei piani di Office 365 Germany. Quando è menzionato Exchange Online, in genere si intende la famiglia di servizi di Office 365 Enterprise.<br><br>
 
-| Funzionalità | ATP autonomo | Funzionalità di ATP in Exchange Online |
+| Funzionalità | Defender per Office 365 autonomo | Protezione per le funzionalità di Office 365 in Exchange Online |
 |:-----|:-----|:-----|
 |Collegamenti sicuri|Sì|Sì|
 |Allegati sicuri|Sì|Sì|

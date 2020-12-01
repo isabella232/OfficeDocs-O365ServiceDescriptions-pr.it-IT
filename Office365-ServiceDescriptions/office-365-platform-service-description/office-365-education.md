@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani di Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ognuno di essi. Office 365 unisce la famiglia di prodotti Microsoft Office Desktop con le versioni basate su cloud dei servizi di comunicazione e collaborazione di Microsoft di prossima generazione, &mdash; tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for business online, &mdash; per consentire agli utenti di essere produttivi praticamente da qualsiasi luogo tramite Internet.
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293882"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518877"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -138,7 +138,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Aggiornamenti del servizio](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -153,7 +153,7 @@ Nella tabella seguente sono elencate tutte le funzionalità della piattaforma di
 |**Attendibilità** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Privacy, sicurezza e trasparenza](privacy-security-and-transparency.md) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Gestione avanzata della sicurezza  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |
-|Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Microsoft Defender per Office 365  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Archivio protetto del cliente  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Advanced eDiscovery<sup>7</sup> <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |Punteggio sicuro<sup>5</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -220,7 +220,7 @@ Il [Centro sicurezza e &amp; conformità](https://docs.microsoft.com/microsoft-3
 <sup>2</sup> Advanced Data Governance consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni basate su un criterio di conservazione o eliminazione o entrambe. Include azioni intelligenti/automatiche, ad esempio i criteri di raccomandazione; applicazione automatica delle etichette ai dati. applicazione delle etichette in base ai tipi di dati sensibili o alle query. e l'utilizzo di filtri di importazione intelligenti. Include inoltre la funzionalità di supervisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità. <br/> 
 <sup>3</sup> illimitato. <br/> 
 <sup>4</sup> Advanced eDiscovery è supportato negli Stati Uniti e in Europa occidentale (Paesi Bassi). I dati dei clienti di Canada e area dell'Asia Pacifico vengono esportati negli Stati Uniti. I dati dei clienti di Europa, Medio Oriente e Africa vengono esportati in Europa occidentale (Paesi Bassi). <br/> 
-<sup>5</sup> Advanced Threat Protection è disponibile in Office 365 a5 e come servizio autonomo per Office 365 a1 e Office 365 a3.<br/>
+<sup>5</sup> Microsoft Defender per Office 365 è disponibile in Office 365 a5 e come servizio autonomo per Office 365 a1 e Office 365 a3.<br/>
 <sup>6</sup> è inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato. <br/>
   
 ## <a name="office-application-features"></a>Funzionalità delle applicazioni di Office  
@@ -329,14 +329,14 @@ Nella tabella seguente sono elencate le funzionalità di Exchange Online disponi
 |Regole di trasporto  <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |Sì<sup>2</sup> <br/> |
 |Prevenzione della perdita di dati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Inserimento nel journal  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Protezione dalla posta indesiderata e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Protezione antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protezione da posta indesiderata integrata  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Customize anti-spam policies  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Protezione antimalware integrata  <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |
 |Customize anti-malware policies  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Quarantena - gestione da parte dell'amministrazione  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Quarantena - autogestione dell'utente finale  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|Protezione avanzata dalle minacce  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
+|Microsoft Defender per Office 365  <br/> |No  <br/> |No  <br/> |Sì  <br/> |
 |**[Flusso di posta](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Routing personalizzato della posta in uscita  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -506,7 +506,7 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 <sup>3</sup> Le cassette postali delle risorse non richiedono una licenza.<br/> 
 <sup>4</sup> le cassette postali del sito vengono create e gestite in SharePoint Online. Per ulteriori informazioni, vedere Preparazione per l'utilizzo delle cassette postali di sito in Office 365.<br/> 
 <sup>5</sup> l'utente ha un limite di 1000 cassette postali delle cartelle pubbliche e le dimensioni totali massime di tutte le cassette postali delle cartelle pubbliche sono 50 TB.<br/> 
-<sup>6</sup> l'archivio sul posto può essere utilizzato solo per archiviare la posta per un singolo utente o entità (ad esempio, una cassetta postale condivisa) per la quale è stata applicata una licenza. Non è consentito utilizzare un'Archiviazione sul posto come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, un amministratore IT non può creare cassette postali condivise e lasciare che gli utenti le copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) con l'esplicito scopo di archiviarle. Tenere presente che una cassetta postale condivisa da molti utenti non archivia automaticamente la posta elettronica dei singoli utenti. Numerosi utenti possono accedere e inviare posta elettronica come cassetta postale condivisa. Di conseguenza, gli unici messaggi di posta elettronica archiviati nella cassetta postale condivisa sono quelli inviati o ricevuti da esso, come cassetta postale condivisa.<br/> 
+<sup>6</sup> In-Place archivio può essere utilizzato solo per archiviare la posta per un singolo utente o entità (ad esempio, una cassetta postale condivisa) per la quale è stata applicata una licenza. Non è consentito utilizzare un'Archiviazione sul posto come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, un amministratore IT non può creare cassette postali condivise e lasciare che gli utenti le copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) con l'esplicito scopo di archiviarle. Tenere presente che una cassetta postale condivisa da molti utenti non archivia automaticamente la posta elettronica dei singoli utenti. Numerosi utenti possono accedere e inviare posta elettronica come cassetta postale condivisa. Di conseguenza, gli unici messaggi di posta elettronica archiviati nella cassetta postale condivisa sono quelli inviati o ricevuti da esso, come cassetta postale condivisa.<br/> 
 <sup>7</sup> se è stato creato un criterio di conservazione in Exchange Online, i messaggi vengono automaticamente spostati nella cassetta postale di archiviazione di un utente solo se la cassetta postale principale dell'utente è superiore a 10 MB. Il criterio di conservazione non verrà eseguito automaticamente per le cassette postali con dimensione inferiore a 10 MB. 
   
 #### <a name="capacity-alerts"></a>Avvisi di capacità
@@ -691,7 +691,7 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 |Numero massimo di membri del gruppo di distribuzione<sup>1</sup> <br/> |100.000 membri  <br/> |100.000 membri  <br/> |100.000 membri  <br/> |
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |5.000 membri o più  <br/> |
 |Dimensione massima dei messaggi per gruppi di distribuzione di grandi dimensioni  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|Numero massimo di proprietari del gruppo di distribuzione  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |Numero massimo di gruppi che è possibile creare  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

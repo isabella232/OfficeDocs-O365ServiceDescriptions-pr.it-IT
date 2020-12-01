@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica delle differenze di funzionalità tra il cloud governativo degli Stati Uniti e il cloud commerciale, come elencato nella descrizione del servizio Exchange Online.
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376089"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519097"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online per gli ambienti governativi degli Stati Uniti
 
@@ -73,7 +73,7 @@ Nella tabella seguente viene descritto se le funzionalità di Exchange Online sp
 |Customize anti-malware policies|Sì|Sì|Sì||
 |Quarantena - gestione da parte dell'amministrazione|Sì|Sì|Sì||
 |Quarantena - autogestione dell'utente finale|Sì|Sì|Sì||
-|Protezione avanzata dalle minacce|Sì|Sì|Sì|Richiede il piano di servizio G5 o l'acquisto di un componente aggiuntivo.<br><br>Anti-phishing per la rappresentazione di utenti e domini e la falsificazione dell'intelligenza non sono ancora disponibili in GCC High e DoD.|
+|Microsoft Defender per Office 365|Sì|Sì|Sì|Richiede il piano di servizio G5 o l'acquisto di un componente aggiuntivo.<br><br>Anti-phishing per la rappresentazione di utenti e domini e la falsificazione dell'intelligenza non sono ancora disponibili in GCC High e DoD.|
 |**[Flusso di posta](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni principali**|
 |Routing personalizzato della posta in uscita|Sì|Sì|Sì||
 |Secure messaging with a trusted partner|Sì|Sì|Sì||

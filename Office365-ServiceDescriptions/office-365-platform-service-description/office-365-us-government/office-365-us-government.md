@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411615"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519087"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -253,7 +253,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |**[Privacy, sicurezza e trasparenza](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Governance dei dati avanzata|N.<sup>12</sup>|N.<sup>12</sup>|Sì|N.<sup>12</sup>|
 |Cloud App Security|N.<sup>12, 15, 19</sup>|N.<sup>12, 15, 19</sup>|Sì<sup>15, 19</sup>|N.<sup>12, 15, 19</sup>|
-|Protezione avanzata dalle minacce|N<sup>. 12, 18</sup>|N<sup>. 12, 18</sup>|Sì<sup>18</sup>|N<sup>. 12, 18</sup>|
+|Microsoft Defender per Office 365|N<sup>. 12, 18</sup>|N<sup>. 12, 18</sup>|Sì<sup>18</sup>|N<sup>. 12, 18</sup>|
 |Customer Lockbox|N.<sup>12</sup>|N.<sup>12</sup>|Sì|N.<sup>12</sup>|
 |Advanced eDiscovery|N.<sup>12</sup>|N.<sup>12</sup>|Sì|N.<sup>12</sup>|
 |Punteggio sicuro<sup>14</sup>|Sì<sup>9, 15</sup>|Sì<sup>9</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|

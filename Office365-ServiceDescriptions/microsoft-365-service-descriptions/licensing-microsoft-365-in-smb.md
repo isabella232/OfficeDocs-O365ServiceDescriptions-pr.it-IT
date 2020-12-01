@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 Business Premium è una soluzione integrata che unisce la produttività di Microsoft 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1cd0fa1c8ef351eb6a54f4d2b9cb58f2d6e400f4
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132540"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518837"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
@@ -33,7 +33,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 |**Social, video, siti** | Stream, Yammer, planner, SharePoint Online, PowerApps, Power automatizzate | Sì | Sì |
 |**App aziendali** | Pianificazione delle app &ndash; bookings<sup>1</sup> | Sì | Sì |
 |   | App aziendali &ndash; MileIQ<sup>1</sup> | Sì | Sì |
-|**Protezione dalle minacce** | Office 365 Advanced Threat Protection | No | Sì |
+|**Protezione dalle minacce** | Microsoft Defender per Office 365 | No | Sì |
 |   | Applicazione di protezione di Windows exploit | No | Sì  |
 |**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibridi | No | Sì |
 |   | Autenticazione a più fattori di Azure, criteri di accesso condizionale | No | Sì |
@@ -64,7 +64,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 |**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatizzate<sup>1</sup> | Sì | Sì |
 |**App aziendali** | Pianificazione delle app &ndash; bookings<sup>2</sup> | Sì | Sì |
 |   | App business &ndash; MileIQ<sup>2</sup> | No | Sì |
-|**Protezione dalle minacce** | Office 365 Advanced Threat Protection | No | Sì |
+|**Protezione dalle minacce** | Microsoft Defender per Office 365 | No | Sì |
 |   | Applicazione di protezione di Windows exploit | No | Sì |
 |**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibridi | No | Sì |
 |   | Autenticazione a più fattori di Azure, criteri di accesso condizionale | No  | Sì |
@@ -97,7 +97,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 |**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatizzate<sup>1</sup> | Sì | Sì | Sì |
 |**App aziendali** | Pianificazione delle app &ndash; bookings<sup>2</sup> | Sì | Sì | Sì |
 |   | App business &ndash; MileIQ<sup>2</sup> | Sì | Sì | No |
-|**Protezione dalle minacce** | Office 365 Advanced Threat Protection | No | Sì | No |
+|**Protezione dalle minacce** | Microsoft Defender per Office 365 | No | Sì | No |
 |   | Applicazione di protezione di Windows exploit | No | Sì | No |
 |**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibridi | No | Sì | No |
 |   | Autenticazione a più fattori di Azure, criteri di accesso condizionale | No | Sì | No |
@@ -132,8 +132,8 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 |**App aziendali** | Pianificazione delle app &ndash; bookings<sup>1</sup> | Sì | Sì | Sì | Sì |
 |   | App aziendali &ndash; MileIQ<sup>1</sup> | Sì | Sì | No | No |
 |**Protezione dalle minacce** | Microsoft Advanced Threat Analytics, dispositivo di protezione, Credential Guard, AppLocker, Enterprise Data Protection | No | No | Sì | Sì |
-|   | Office 365 Advanced Threat Protection | No | Sì | No | Sì |
-|   | Windows Defender Advanced Threat Protection | No | No | No | Sì |
+|   | Microsoft Defender per Office 365 | No | Sì | No | Sì |
+|   | Microsoft Defender per endpoint | No | No | No | Sì |
 |   | Office 365 Threat Intelligence | No | No  | No | Sì |
 |**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibrido, AMF Azure, accesso condizionale   | No | Sì | Sì | Sì |
 |   | Azure AD: app Cloud Discovery, Azure AD Connect Health, SSO per più di 10 app | Sì | Sì | Sì | Sì |
@@ -159,7 +159,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 
 ## <a name="office-client-commercial-plans"></a>Piani commerciali del client di Office
 
-| **Applicazioni** | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
+| **Applicazioni** | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
 |------------------|-------------------------|------------------------|
 | Word             | Sì                     | Sì                    |
 | Excel            | Sì                     | Sì                    |
@@ -169,7 +169,7 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 | Publisher        | Sì                     | Sì                    |
 | Access           | Sì                     | Sì                    |
 | Microsoft Teams  | Sì                     | Sì                    |
-| **Valore Premium**                             | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
+| **Valore Premium**                             | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
 | Attivazione dei contratti multilicenza                             | No                      | No                     |
 | Criteri di gruppo<sup>1</sup>                      | No                      | Sì                    |
 | Shared computer activation                    | Sì<sup>7</sup>        | Sì                    |
@@ -182,12 +182,12 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 | Business intelligence                         | No                      | Sì<sup>5</sup>        |
 | Creare IRM<sup>3</sup>                        | Sì<sup>7</sup>        | Sì                    |
 | Prevenzione della perdita di dati<sup>3</sup>              | Sì<sup>7</sup>        | Sì<sup>5</sup>        |
-| **Valore cloud**                  | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
+| **Valore cloud**                  | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
 | Gruppi                           | Sì                     | Sì                    |
 | Strumento di distribuzione di Office           | Sì                     | Sì                    |
 | Impostazioni & dei documenti di roaming     | Sì                     | Sì                    |
 | 1 TB OneDrive for business       | Sì                     | Sì                    |
-| **Licenze**                                   | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
+| **Licenze**                                   | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
 | Modello di gestione delle licenze                                 | Per utente                | Per utente               |
 | Tipo di licenza                                    | Abbonamento            | Abbonamento           |
 | PC/Mac installa<sup>6</sup>                     | 5                        | 5                       |
@@ -207,7 +207,7 @@ Microsoft 365 Business Premium include il client Microsoft 365 Apps for business
 
 <sup>3</sup> le suite offrono diversi livelli di integrazione con i server per la produttività aziendale.
 
-<sup>4</sup> archiviare i messaggi di posta elettronica da Outlook &mdash; non file. pst necessari &mdash; e impostare criteri di conservazione che archiviano o eliminino automaticamente la posta elettronica. Gli amministratori IT possono gestire in modo centralizzato l'archivio sul posto.
+<sup>4</sup> archiviare i messaggi di posta elettronica da Outlook &mdash; non file. pst necessari &mdash; e impostare criteri di conservazione che archiviano o eliminino automaticamente la posta elettronica. Gli amministratori IT possono gestire in modo centralizzato l'archivio In-Place.
 
 <sup>5</sup> richiede ulteriori servizi online.
 

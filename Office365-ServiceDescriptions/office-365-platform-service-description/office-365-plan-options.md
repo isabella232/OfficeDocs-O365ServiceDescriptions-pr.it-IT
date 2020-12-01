@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: 6a232a0051f26db7b049acc24233d790c27ebfc6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773450"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519147"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Opzioni di pianificazione di Microsoft 365 e Office 365
 
@@ -75,7 +75,7 @@ Ogni piano Microsoft 365 o Office 365 include una serie di servizi individuali, 
 <sup>12</sup> include Skype for business online piano 2 con supporto vocale e senza limitazioni relative al client.  <br/>
 <sup>13</sup> include Skype for business online piano 1.<br>
 <sup>14</sup> Microsoft teams è ora il client principale per i messaggi, le riunioni e le chiamate in Microsoft 365. A ottobre 1, 2018, nuovi clienti con 500 seggi o meno sono onboarded to Microsoft teams e non hanno accesso a Skype for business online. I tenant che già utilizzano Skype for business online sono in grado di continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completano la transizione a Microsoft teams.<br>
-<sup>15</sup> include la conformità Microsoft 365 E5, che fornisce la classificazione e la conservazione automatiche, la chiave del cliente, la crittografia avanzata dei messaggi, la gestione del rischio Insider, la conformità alla comunicazione, gli ostacoli alle informazioni, la protezione dei clienti, la gestione degli accessi con privilegi avanzati, la gestione dei record e e Microsoft 365 E5 Security, che include Office 365 Advanced Threat Protection (ATP) piano 2, Microsoft Defender ATP, Azure Active Directory piano 2, Azure ATP, Microsoft cloud app Security e documenti attendibili.<br>
+<sup>15</sup> include la conformità Microsoft 365 E5, che fornisce la classificazione e la conservazione automatiche, la chiave del cliente, la crittografia avanzata dei messaggi, la gestione del rischio Insider, la conformità alla comunicazione, gli ostacoli alle informazioni, la protezione dei clienti, la gestione degli accessi con privilegi avanzati, la gestione dei record e e Microsoft 365 E5 Security, che include Microsoft Defender per Office 365 piano 2, MMicrosoft Defender per endpoint, Azure Active Directory piano 2, Microsoft Defender per Identity, Microsoft cloud app Security e documenti attendibili.<br>
 <sup>16</sup> Microsoft 365 F1 non include i diritti per una cassetta postale di Exchange. Per abilitare un'esperienza completa dei team, le licenze F1 di M365 possono venire con il piano di servizio Exchange Online K1 abilitato. Anche se il piano del servizio Exchange Online K1 provisionerà una cassetta postale per l'utente, gli utenti di M365 F1 non potranno utilizzare la cassetta postale. Si consiglia ai clienti di disabilitare Outlook sul Web tramite [questi passaggi](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) e chiedere agli utenti di non accedere alla cassetta postale di Exchange tramite altri metodi.<br>
 <sup>17</sup> include il chiosco di SharePoint Online. Non possono essere amministratori. Nessuna cassetta postale del sito. Nessun sito personale.<br>
 <sup>18</sup> Microsoft 365 F1 gli utenti possono leggere i file utilizzando Office per il Web, ma non dispongono di diritti di creazione/modifica/salvataggio. 
@@ -110,7 +110,7 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
   
 | Servizio | Piani |
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online piano 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online piano 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Protezione avanzata dalle minacce per Exchange Online](https://products.office.com/exchange/advance-threat-protection) <br/> [Archiviazione Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Chiosco Exchange Online](https://products.office.com/business/office-365-f1) <br/> |
+|Exchange Online  <br/> |[Exchange Online piano 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online piano 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Microsoft Defender per Office 365](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Archiviazione Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Chiosco Exchange Online](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online Piano 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online piano 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business piano 1](https://onedrive.live.com/about/business/) <br/> [OneDrive for Business piano 2](https://onedrive.live.com/about/business/) <br/> |
 |Applicazioni di Office  <br/> |[App Microsoft 365 per grandi imprese](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [App Microsoft 365 per le aziende](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> |

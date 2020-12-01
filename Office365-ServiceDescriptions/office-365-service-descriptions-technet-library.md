@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 e Office 365 sono servizi basati su cloud che consentono di soddisfare le esigenze dell'organizzazione per una robusta sicurezza, affidabilità e produttività degli utenti.
-ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 8a9ced37242ad08c53f17f33a77a42308c4df95b
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294182"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518717"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrizione dei servizi di Office 365 e Microsoft 365 
 
@@ -47,7 +47,7 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
 
 - [Descrizione del servizio Archiviazione Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Descrizione del servizio Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
+- [Descrizione del servizio Microsoft Defender per Office 365](office-365-advanced-threat-protection-service-description.md)
 
 - [Descrizione del servizio Microsoft Teams](teams-service-description.md)
 
