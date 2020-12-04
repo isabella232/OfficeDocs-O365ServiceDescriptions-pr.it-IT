@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 63cef3dfac77ae22bc413deab9d375c1cd110b46
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519087"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566678"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -79,6 +79,8 @@ I servizi governativi di Office 365 sono forniti da centri dati che si trovano f
 > Con uso tipico, Skype for Business non archivia contenuto, ma se avvenisse un'archiviazione, sarebbe nei centri dati degli Stati Uniti.
 
 Se gli utenti si trovano all'interno degli Stati Uniti durante l'utilizzo di Office per il Web (in precedenza noto come Office Web Apps) oppure se si adotta l'utilizzo di Active Directory Federation Services (AD FS) 2,0 e si configurano i criteri per garantire che gli utenti si connettono ai servizi tramite Single Sign-on, tutti i contenuti dei clienti temporaneamente memorizzati nella cache di Office per il
+
+La pagina di utilizzo del sito per i siti di SharePoint è disponibile per i piani governativi, anche se per conformità, esistono alcune caratteristiche di questa pagina che sono disponibili solo per i clienti commerciali. Per ulteriori informazioni, vedere [Page Usage Site for SharePoint sites in Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
 ## <a name="office-365-government-and-third-party-services"></a>Servizi governativi e di terze parti di Office 365
 
@@ -237,7 +239,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Browser utilizzato|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Sistema operativo utilizzato|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
-|**[Aggiornamenti del servizio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 governo F3**|
+|**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 governo F3**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Roadmap.office.com per alcuni aggiornamenti del servizio|N<sup>. 10, 13</sup>|N<sup>. 10, 13</sup>|N<sup>. 10, 13</sup>|N<sup>. 10, 13</sup>|

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518937"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566668"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -37,7 +37,7 @@ Gli analisti e i professionisti della sicurezza di secops traggono vantaggio dal
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security e Azure Active Directory Premium Plan 2 forniscono i diritti per un utente di trarre vantaggio dalla protezione delle identità di Azure Active Directory.
+I clienti con licenze E1 e E3 saranno in grado di accedere solo alla valutazione di base predefinita per la protezione dei dati. I clienti che dispongono di licenze Office 365 E5/A5 e Microsoft 365 E5/A5 (conformità, protezione delle informazioni & di governance e SKU di eDiscovery e audit inclusi) saranno in grado di accedere alle valutazioni di base per la protezione dei dati, GDPR, NIST 800-53 e ISO 27001. La funzionalità di valutazione personalizzata e le valutazioni dei premi sono riservate ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5. Le valutazioni dei premi saranno disponibili per l'acquisto durante la prima metà del 2021 tramite VL, CSP e WebDirect. 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -47,7 +47,7 @@ Per impostazione predefinita, le caratteristiche di Azure AD Identity Protection
 
 Gli amministratori possono accedere a Azure AD Identity Protection assegnando criteri di rischio che definiscono il livello per la reimpostazione delle password e consentendo l'accesso solo per gli utenti con licenza. Per istruzioni su come ambito delle distribuzioni di Azure AD Identity Protection, vedere [Configure the Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender per identità
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender per l'identità
 
 Microsoft Defender for Identity è un servizio cloud che consente di proteggere gli ambienti ibridi aziendali da più tipi di attacchi informatici e minacce privilegiate avanzate.
 

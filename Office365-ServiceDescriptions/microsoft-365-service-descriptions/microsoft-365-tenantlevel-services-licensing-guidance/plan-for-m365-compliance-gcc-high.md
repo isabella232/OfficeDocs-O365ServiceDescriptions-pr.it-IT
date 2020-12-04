@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti o in altre entità che gestiscono i dati che sono soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518908"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566648"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Pianificare la conformità a Microsoft 365-GCC High
 
@@ -181,7 +181,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Controllo avanzato: approfondimenti di controllo elaborati                              | In ingegneria backlog |
 |                                         | Controllo avanzato: eventi dei termini di ricerca in Exchange Online e SharePoint Online                              | In ingegneria backlog |
 |    **Gestione della conformità**            | Centro sicurezza e conformità di Microsoft 365                              | Disponibili |
-|                                         | Compliance Manager                                 | Distribuzione              |
+|                                         | Compliance Manager                                 | Disponibili              |
 |                                         | Microsoft Cloud App Security                                 | Disponibili              |
 |                                         | Supporto per i caratteri a byte doppio                                 | In ingegneria backlog              |
 |    **Ecosistema**            | API del grafico per Advanced eDiscovery                              | In sviluppo |
