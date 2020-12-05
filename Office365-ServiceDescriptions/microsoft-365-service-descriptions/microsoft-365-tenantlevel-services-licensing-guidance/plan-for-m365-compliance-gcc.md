@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: d315b6e15b9b85d0a336a1a22d43eeb636b40830
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519037"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576013"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità a Microsoft 365 – GCC
 
@@ -175,9 +175,9 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Controllo avanzato: accesso a eventi cruciali (ad esempio, mailitemsaccessed)                              | Disponibili |
 |                                         | Controllo avanzato: maggiore larghezza di banda per l'API di attività di gestione                              | Disponibili |
 |                                         | Controllo avanzato: conservazione legale dei messaggi per i canali privati dei team                               | Disponibili |
-|                                         | Controllo avanzato: conservazione dei registri (1 anno)                               | Disponibili |
+|                                         | Controllo avanzato: conservazione dei registri (1 anno)                               | Distribuzione |
 |                                         | Controllo avanzato: Centro sicurezza e conformità                               | Disponibili |
-|                                         | Controllo avanzato: conservazione a lungo termine sui registri di controllo                               | In ingegneria backlog |
+|                                         | Controllo avanzato: conservazione a lungo termine sui registri di controllo (10 anni)                               | In ingegneria backlog |
 |                                         | Controllo avanzato: eventi di inoltro della posta elettronica e posta elettronica                               | In ingegneria backlog |
 |                                         | Controllo avanzato: approfondimenti di controllo elaborati                               | In ingegneria backlog |
 |                                         | Controllo avanzato: eventi dei termini di ricerca in Exchange Online e SharePoint Online                              | In ingegneria backlog |
