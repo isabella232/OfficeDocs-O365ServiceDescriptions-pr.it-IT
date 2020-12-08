@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294080"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586639"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
@@ -54,7 +54,7 @@ Utilizzare i pulsanti di Allineamento nella scheda Home per modificare l'allinea
   
 ## <a name="apply-conditional-formatting"></a>Applicazione della formattazione condizionale
 
-Utilizzare un formato condizionale per esplorare e analizzare i dati visivamente, individuare problemi critici e identificare modelli e tendenze. Ulteriori informazioni su come [utilizzare la formattazione condizionale in Excel per il Web](https://go.microsoft.com/fwlink/p/?LinkId=282326).
+Utilizzare un formato condizionale per esplorare e analizzare i dati visivamente, individuare problemi critici e identificare modelli e tendenze. Ulteriori informazioni su come [utilizzare la formattazione condizionale in Excel per il Web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -89,7 +89,7 @@ I grafici e le tabelle Excel facilitano le operazioni di formattazione dei dati 
 
 ## <a name="check-spelling"></a>Controllo ortografico
 
-Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionare **Controlla**  >  **Proofing**  >  **ortografia**correzione. Per ulteriori informazioni, vedere [controllo ortografico](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Per controllare l'ortografia di qualsiasi testo del foglio di lavoro, selezionare **Controlla**  >  **Proofing**  >  **ortografia** correzione. Per ulteriori informazioni, vedere [controllo ortografico](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -209,7 +209,7 @@ Aggiungere e formattare forme quali caselle, cerchi, linee, connettori o frecce 
 
 ## <a name="keyboard-shortcuts"></a>Tasti di scelta rapida
 
-È possibile controllare i tasti di scelta rapida in modo che funzionino lo stesso nelle versioni desktop e Web di Excel modificando l'impostazione dei tasti di scelta rapida &mdash; è possibile persino ignorare i tasti di scelta rapida del browser. Basta selezionare **Guida**tasti di  >  **scelta rapida**.
+È possibile controllare i tasti di scelta rapida in modo che funzionino lo stesso nelle versioni desktop e Web di Excel modificando l'impostazione dei tasti di scelta rapida &mdash; è possibile persino ignorare i tasti di scelta rapida del browser. Basta selezionare **Guida** tasti di  >  **scelta rapida**.
   
 ## <a name="merge-cells"></a>Merge cells
 
