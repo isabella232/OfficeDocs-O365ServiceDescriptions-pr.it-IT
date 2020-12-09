@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518897"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601751"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -97,7 +97,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Transport rules|Sì <sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|
 |Prevenzione della perdita di dati|Sì<sup>5, 14</sup>|Sì<sup>5, 14</sup>|No|No|No|Sì|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Protezione dalla posta indesiderata e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Protezione da posta indesiderata integrata|Sì <sup>6</sup>|Sì <sup>6</sup>|Sì|Sì|Sì|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì, ma solo tramite PowerShell|Sì, ma solo tramite PowerShell|Sì|Sì|Sì|Sì|Sì|Sì <sup>7</sup>|
 |Protezione antimalware integrata|Sì <sup>8</sup>|Sì <sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|
@@ -116,7 +116,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Messaggi secondari|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Suggerimenti messaggio|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Accesso delegato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|N.<sup>24</sup>|
-|Regole di Posta in arrivo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
+|Regole di Posta in arrivo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Account connessi|Sì|Sì|Sì|Sì|Sì<sup>17</sup>|Sì<sup>17</sup>|Sì<sup>17</sup>|Sì<sup>17</sup>|
 |Cassette postali inattive|No|No|N.<sup>9</sup>|N.<sup>9</sup>|N.<sup>9</sup>|Sì|Sì|No <sup>9</sup>|
 |Rubrica offline|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -200,7 +200,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 <sup>20</sup> per eDiscovery, è necessaria una query separata per il cloud locale. <br/>
 <sup>21</sup> la tabella indica se il client funziona o meno con i piani associati. Ciò non vuol dire che i client sono necessariamente inclusi nell'acquisto di tali piani. <br/>
 <sup>22</sup> per ulteriori informazioni, vedere [crittografia del servizio con la chiave del cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> il supporto per la messaggistica unificata di Exchange Online per sistemi PBX di terze parti tramite connessioni dirette da parte dei clienti gestiti da SBCS si concluderà nell'aprile 2019. Per ulteriori informazioni, vedere il Blog del team [di Exchange sospensione del supporto per session border controller nella messaggistica unificata di Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
+<sup>23</sup> il supporto per la messaggistica unificata di Exchange Online per sistemi PBX di terze parti tramite connessioni dirette da parte dei clienti gestiti da SBCS si concluderà nell'aprile 2019. Per ulteriori informazioni, vedere il Blog del team [di Exchange sospensione del supporto per Session Border Controllers nella messaggistica unificata di Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
 <sup>24</sup> un utente di F3 non è in grado di aggiungere delegati alla propria cassetta postale, ma può accedere a un'altra cassetta postale (incluse le cassette postali condivise) ed eseguire tutte le azioni che sono state delegate.<br/>
 <sup>25</sup> è necessario un abbonamento a Microsoft 365 Apps for Enterprise anche per exchange Server 2013 ed exchange server 2016.
 
@@ -232,7 +232,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Regole di trasporto|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|
 |Prevenzione della perdita di dati|Sì<sup>10, 14</sup>|Sì<sup>10, 14</sup>|No|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Protezione dalla posta indesiderata e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
 |Protezione da posta indesiderata integrata|Sì <sup>2</sup>|Sì <sup>2</sup>|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì ma solo tramite PowerShell|Sì ma solo tramite PowerShell|Sì|Sì|Sì <sup>8</sup>|
 |Protezione antimalware integrata|Sì <sup>7</sup>|Sì <sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|

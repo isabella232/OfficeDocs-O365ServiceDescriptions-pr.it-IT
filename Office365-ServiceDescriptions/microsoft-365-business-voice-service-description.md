@@ -9,16 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice è un servizio del componente aggiuntivo che consente di utilizzare Microsoft teams per le chiamate telefoniche. Questo combina sistema telefonico, piano per le chiamate nazionali, SMS e audioconferenza.
-ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
-ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
+ms.openlocfilehash: 7ce58fbd9a60871cbc5f8da981d945f10b83193f
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410210"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605334"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descrizione del servizio Microsoft 365 Business Voice
 
-Microsoft 365 Business Voice è una soluzione di telefonia basata su cloud che offre funzionalità del sistema telefonico come parcheggio di chiamata, inoltro di chiamata, operatori automatici, code di chiamata, audioconferenza e piani di chiamata. Business Voice può essere aggiunto alle sottoscrizioni di Office 365 e Microsoft 365 che includono Microsoft Teams (fino a 300 licenze). Per ulteriori informazioni sul servizio VoIP aziendale, vedere [Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
+Microsoft 365 Business Voice è una soluzione di telefonia basata su cloud in Microsoft teams che offre funzionalità del sistema telefonico come parcheggio di chiamata, inoltro di chiamata, operatori automatici, code di chiamata, audioconferenza e piani di chiamata. Business Voice può essere aggiunto alle sottoscrizioni di Office 365 e Microsoft 365 che includono Microsoft Teams (fino a 300 licenze). Per ulteriori informazioni sul servizio VoIP aziendale, vedere [Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
 
 È possibile scegliere tra due opzioni di Microsoft 365 Business Voice:
 
@@ -62,9 +62,11 @@ Microsoft 365 Business Voice è disponibile con i seguenti abbonamenti con fino 
 | Operatore automatico/trasferimento di coda di chiamata in segreteria telefonica condivisa | Sì                              | Sì                                                   |
 | IVR (Multilingual Interactive Voice Response)          | Sì                              | Sì                                                   |
 | Criteri di chiamata                                         | Sì                              | Sì                                                   |
-| Piano per le chiamate nazionali                                  | Sì                              | No                                                    |
-| Composizione senza pedaggio\*                                    | Sì                              | No                                                    |
-| Piani per le chiamate internazionali\*                           | Sì                              | No                                                    |
-| Audioconferenza                                     | Sì                              | Sì                                                   |
- 
-\*Il numero di chiamate gratuite e il piano per le chiamate internazionali sono disponibili a costi aggiuntivi utilizzando i [crediti comunicazioni](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Per ulteriori informazioni, vedere [numero verde](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) e [Tariffe chiamate internazionali](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).
+| Piano per le chiamate nazionali                                  | Sì                              | Sì                                                    |
+| Composizione senza pedaggio\*                                    | Sì                              | Sì                                                    |
+| Piani per le chiamate internazionali\*                           | Sì                              | Sì                                                    |
+| Audioconferenza                                     | Sì                              | N<sup>° 1</sup>                                                   |
+
+<sup>1</sup> Disponibile con piano di chiamata fornito da terze parti.
+
+\* Il numero di chiamate gratuite e il piano per le chiamate internazionali sono disponibili a costi aggiuntivi utilizzando i [crediti comunicazioni](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Per ulteriori informazioni, vedere [numero verde](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) e [Tariffe chiamate internazionali](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).

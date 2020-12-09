@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o di altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: a619943b5eed63007b78613ab9b6715a52ef467d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519047"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601721"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare la conformità Microsoft 365 - Distribuzion DoD
 
@@ -169,7 +169,7 @@ Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune di
 |                                         | Controllo avanzato: maggiore larghezza di banda per l'API di attività di gestione                              | Distribuzione |
 |                                         | Controllo avanzato: conservazione dei registri (1 anno)                              | Distribuzione |
 |                                         | Controllo avanzato: disponibilità del Centro sicurezza e conformità                              | Disponibili |
-|                                         | Controllo avanzato: conservazione a lungo termine sui registri di controllo                              | In ingegneria backlog |
+|                                         | Controllo avanzato: conservazione a lungo termine sui registri di controllo (10 anni)                              | In ingegneria backlog |
 |                                         | Controllo avanzato: eventi di inoltro della posta elettronica e posta elettronica                              | In ingegneria backlog |
 |                                         | Controllo avanzato: approfondimenti di controllo elaborati                              | In ingegneria backlog |
 |                                         | Controllo avanzato: eventi dei termini di ricerca in Exchange Online e SharePoint Online                              | In ingegneria backlog |

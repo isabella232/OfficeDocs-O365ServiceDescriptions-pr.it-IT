@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576012"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601767"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -25,7 +25,7 @@ Ai fini di questo articolo, un servizio a livello di tenant è un servizio onlin
 > [!NOTE]
 > Alcuni servizi tenant non sono attualmente in grado di limitare i vantaggi per utenti specifici. È necessario compiere sforzi per limitare i vantaggi del servizio agli utenti con licenza. In questo modo si eviterà possibili interruzioni del servizio nell'organizzazione una volta che sono disponibili le funzionalità di assegnazione.
 
-Per visualizzare le opzioni per la concessione delle licenze agli utenti per usufruire delle funzionalità di conformità di Microsoft 365 del 1 ° aprile 2020, scaricare il confronto dettagliato di Microsoft 365 Compliance Licensing. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
+Per visualizzare le opzioni per la concessione delle licenze agli utenti per usufruire delle funzionalità di conformità di Microsoft 365 del 1 ° aprile 2020, scaricare il confronto dettagliato di Microsoft 365 Compliance Licensing. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -199,7 +199,7 @@ Compliance Manager è provisioning per impostazione predefinita per il tenant. G
 
 L'accesso a Compliance Manager è controllato mediante l'impostazione delle autorizzazioni utente e l'assegnazione dei ruoli. Per ulteriori informazioni, vedere [Introduzione a Compliance Manager: impostare le autorizzazioni utente e assegnare i ruoli](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender per endpoint
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender ATP
 
 Microsoft Defender per endpoint (in precedenza Microsoft Defender ATP) è una soluzione di sicurezza per endpoint che include la valutazione e la gestione delle vulnerabilità basate sui rischi; funzionalità di riduzione della superficie di attacco; protezione comportamentale e basata su cloud di prossima generazione; rilevamento e risposta dell'endpoint (EDR); analisi e correzione automatica; e servizi di caccia gestiti. Per ulteriori informazioni, vedere [Microsoft Defender for endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) page.
 
