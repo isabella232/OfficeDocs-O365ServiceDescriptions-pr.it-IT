@@ -1,20 +1,20 @@
 ---
 title: SharePoint per gli ambienti governativi degli Stati Uniti
-ms.author: mkashman
-author: kaarins
-manager: mkashman
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle funzionalità di SharePoint per i clienti del cloud governativo degli Stati Uniti.
-ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: c8297aaf0b33e55dab1d3babe307736de57e2066
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411605"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624517"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint per gli ambienti governativi degli Stati Uniti
 
