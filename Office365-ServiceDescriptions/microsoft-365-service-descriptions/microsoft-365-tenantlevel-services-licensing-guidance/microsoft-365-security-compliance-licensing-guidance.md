@@ -2,22 +2,21 @@
 title: Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 ms.author: office365servicedesc
 author: pamelaar
-ms.reviewer: v-smandalika
+ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
-ms.date: 12/01/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: de9d26c576b4dd4e77e18db3b85068eff717b0c9
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: 3e887ef28db0d6c806984170815c432d82573921
+ms.sourcegitcommit: d45565d6573db8368c5fcff70c585559c77f3485
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624557"
+ms.locfileid: "49654970"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -42,11 +41,11 @@ I clienti con licenze E1 e E3 saranno in grado di accedere solo alla valutazione
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le caratteristiche di Azure AD Identity Protection sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni su Azure AD Identity Protection, vedere [che cos'è Azure Active Directory Identity Protection?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+Per impostazione predefinita, le caratteristiche di Azure AD Identity Protection sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni su Azure AD Identity Protection, vedere [che cos'è Identity Protection?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori possono accedere a Azure AD Identity Protection assegnando criteri di rischio che definiscono il livello per la reimpostazione delle password e consentendo l'accesso solo per gli utenti con licenza. Per istruzioni su come ambito delle distribuzioni di Azure AD Identity Protection, vedere [Configure the Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
+Gli amministratori possono accedere a Azure AD Identity Protection assegnando criteri di rischio che definiscono il livello per la reimpostazione delle password e consentendo l'accesso solo per gli utenti con licenza. Per istruzioni su come ambito delle distribuzioni di Azure AD Identity Protection, vedere [How to Configure and Enable risk policies](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
 ## <a name="azure-active-directory-identity-governance"></a>Governance dell'identità di Azure Active Directory
 
@@ -62,7 +61,7 @@ Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 S
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Le caratteristiche di governance dell'identità di Azure AD sono abilitate a livello di tenant ma implementate per utente. Per informazioni su Azure AD Identity governance, vedere [che cos'è Azure Active Directory Identity governance?](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)
+Le caratteristiche di governance dell'identità di Azure AD sono abilitate a livello di tenant ma implementate per utente. Per informazioni su Azure AD Identity governance, vedere [che cos'è Azure ad Identity governance?](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -90,7 +89,7 @@ Per impostazione predefinita, le funzionalità di Microsoft Defender per le iden
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Microsoft Defender per i servizi di identità attualmente non è in grado di limitare le funzionalità a utenti specifici. È necessario concedere una licenza per ogni utente che si intende trarre vantaggio.
+Microsoft Defender per i servizi di identità non è attualmente in grado di limitare le funzionalità a utenti specifici. È necessario concedere una licenza per ogni utente che si intende trarre vantaggio.
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender per Office 365
 
@@ -98,7 +97,7 @@ Microsoft Defender per Office 365 (in precedenza Office 365 Advanced Threat Prot
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Microsoft Defender per Office 365 protegge gli utenti da attacchi sofisticati, come il phishing e il malware zero-day. Per l'elenco completo dei servizi forniti in piano 1 e piano 2, vedere [Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true).
+Microsoft Defender per Office 365 protegge gli utenti da attacchi sofisticati, come il phishing e il malware zero-day. Per l'elenco completo dei servizi forniti in piano 1 e piano 2, vedere [Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio? 
 
@@ -106,16 +105,16 @@ Microsoft Defender per Office 365 piani 1 e 2, Office 365 E5/A5/G5, Microsoft 36
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di Microsoft Defender per Office 365 sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione dei criteri di Microsoft Defender per Office 365 per gli utenti con licenza, vedere [Microsoft Defender per office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true).
+Per impostazione predefinita, le funzionalità di Microsoft Defender per Office 365 sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione dei criteri di Microsoft Defender per Office 365 per gli utenti con licenza, vedere [Microsoft Defender per office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
 Per l'ambito Microsoft Defender per Office 365, seguire i collegamenti sicuri e i criteri di distribuzione degli allegati sicuri:
 
-- Per informazioni sulla configurazione dei collegamenti sicuri per gli utenti con licenza, vedere [set up Microsoft Defender for Office 365 Safe Links Policies](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links?view=o365-worldwide&preserve-view=true).
+- Per informazioni sulla configurazione dei collegamenti sicuri per gli utenti con licenza, vedere [collegamenti sicuri in Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links).
 
-- Per informazioni sulla configurazione degli allegati sicuri per gli utenti con licenza, vedere [set up Microsoft Defender for Office 365 SAFE Attachment Policies](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide&preserve-view=true).
+- Per informazioni sulla configurazione degli allegati sicuri per gli utenti con licenza, vedere [allegati sicuri in Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments).
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -214,11 +213,11 @@ Gli analisti e i professionisti della sicurezza di secops traggono vantaggio dal
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di Microsoft Defender per endpoint sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla distribuzione, vedere [Guida alla distribuzione](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
+Per impostazione predefinita, le funzionalità di Microsoft Defender per endpoint sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla distribuzione, vedere [fasi della distribuzione](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Microsoft Defender per gli amministratori di endpoint è in grado di utilizzare il [controllo di accesso basato sui ruoli (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) per creare ruoli e gruppi all'interno del team delle operazioni di sicurezza per concedere l'accesso appropriato al centro sicurezza Microsoft Defender.
+Microsoft Defender per gli amministratori di endpoint è in grado di utilizzare il controllo di accesso basato sui ruoli (RBAC) per creare ruoli e gruppi all'interno del team di operazioni di sicurezza per concedere l'accesso appropriato al centro sicurezza Microsoft Defender. Per ulteriori informazioni, vedere [gestire l'accesso al portale tramite il controllo di accesso basato sui ruoli](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac).
 
 ## <a name="information-protection"></a>Protezione delle informazioni
 
@@ -279,11 +278,11 @@ Per i diritti specifici per licenza, vedere il confronto dettagliato Microsoft 3
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di governance delle informazioni sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione della governance delle informazioni per applicare i criteri e le etichette AutoLabel per gli utenti con licenza, vedere [Manage information governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Per impostazione predefinita, le funzionalità di governance delle informazioni sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione della governance delle informazioni per applicare i criteri e le etichette AutoLabel per gli utenti con licenza, vedere [Microsoft Information Governance in microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Le funzionalità di governance delle informazioni possono essere applicate agli utenti con licenza in determinate posizioni (siti del team, siti di gruppo e così via). Per informazioni sulla configurazione della governance delle informazioni per applicare i criteri e le etichette AutoLabel per gli utenti con licenza, vedere [Manage information governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Le funzionalità di governance delle informazioni possono essere applicate agli utenti con licenza in determinate posizioni (siti del team, siti di gruppo e così via). Per informazioni sulla configurazione della governance delle informazioni per applicare i criteri e le etichette AutoLabel per gli utenti con licenza, vedere [Microsoft Information Governance in microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ## <a name="records-management"></a>Gestione record
 
@@ -303,19 +302,19 @@ Gli utenti possono trarre vantaggio dalla possibilità di dichiarare il contenut
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Per impostazione predefinita, le funzionalità di gestione dei record sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione della gestione dei record da applicare per gli utenti con licenza, vedere [Records Management in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+Per impostazione predefinita, le funzionalità di gestione dei record sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione della gestione dei record da applicare per gli utenti con licenza, vedere informazioni [sulla gestione dei record in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Le funzionalità di gestione dei record possono essere applicate agli utenti con licenza in determinate posizioni (siti del team, siti di gruppo e così via). Per informazioni sulla configurazione della gestione dei record da applicare per gli utenti con licenza, vedere [Records Management in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+Le funzionalità di gestione dei record possono essere applicate agli utenti con licenza in determinate posizioni (siti del team, siti di gruppo e così via). Per informazioni sulla configurazione della gestione dei record da applicare per gli utenti con licenza, vedere informazioni [sulla gestione dei record in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
 
 ## <a name="data-connectors"></a>Connettori dati 
 
-Microsoft fornisce connettori di dati di terze parti che possono essere configurati nel centro conformità di Microsoft 365. Per un elenco dei connettori di dati forniti da Microsoft, vedere la tabella [dei connettori di dati di terze parti](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) . In questa tabella vengono riepilogate anche le soluzioni di conformità che è possibile applicare ai dati di terze parti dopo l'importazione e l'archiviazione dei dati in Microsoft 365 e i collegamenti alle istruzioni dettagliate per ogni connettore.
+Microsoft fornisce connettori di dati di terze parti che possono essere configurati nel centro conformità di Microsoft 365. Per un elenco dei connettori di dati forniti da Microsoft, vedere la tabella [dei connettori di dati di terze parti](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) . In questa tabella vengono riepilogate anche le soluzioni di conformità che è possibile applicare ai dati di terze parti dopo l'importazione e l'archiviazione dei dati in Microsoft 365 e i collegamenti alle istruzioni dettagliate per ogni connettore.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Il vantaggio principale dell'utilizzo dei connettori di dati per l'importazione e l'archiviazione dei dati di terze parti in Microsoft 365 è che è possibile applicare diverse soluzioni di conformità a Microsoft 365 dopo che è stato importato. In questo modo, i dati non Microsoft dell'organizzazione sono conformi alle normative e agli standard che influiscono sull'organizzazione.
+Il vantaggio principale dell'utilizzo dei connettori di dati per l'importazione e l'archiviazione dei dati di terze parti in Microsoft 365 è che è possibile applicare diverse soluzioni di conformità di Microsoft 365 ai dati dopo che è stata importata. In questo modo, i dati non Microsoft dell'organizzazione sono conformi alle normative e agli standard che influiscono sull'organizzazione.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
@@ -329,27 +328,27 @@ Le licenze seguenti forniscono i diritti per un utente di usufruire dei connetto
 - Office 365 E5/A5
 - Office 365 Advanced Compliance
 
-Per i connettori dati nel centro sicurezza & conformità di M365 forniti da uno dei partner di Microsoft, è necessario che l'organizzazione abbia una relazione commerciale con il partner prima di poter distribuire tali connettori.
+Per i connettori dati nel centro sicurezza & conformità di M365 forniti da un partner Microsoft, è necessario che l'organizzazione abbia una relazione commerciale con il partner prima di poter distribuire tali connettori.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-I connettori sono configurati utilizzando il Centro sicurezza & conformità e il catalogo connettore.
+I connettori sono configurati utilizzando il Centro sicurezza & conformità e il catalogo dei connettori.
 
-### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-I servizi dei connettori dati sono un valore tenant Level. Tutti gli utenti destinati a usufruire di questo servizio devono essere concessi in licenza.
+I servizi dei connettori dati sono un valore a livello di tenant. Tutti gli utenti destinati a usufruire di questo servizio devono essere concessi in licenza.
 
-## <a name="microsoft-graph-apis-for-teams-dlp"></a>API di Microsoft Graph per Team DLP
+## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>API di Microsoft Graph per la prevenzione della perdita di dati (DLP) per Team
 
 All'inizio di quest'anno è stata [annunciata l'anteprima pubblica dell'API di notifica delle modifiche di Microsoft Graph per i messaggi in teams](https://go.microsoft.com/fwlink/?linkid=2143888). Questa API consente agli sviluppatori di creare app in grado di ascoltare i messaggi di Microsoft teams in tempo quasi reale e di abilitare le implementazioni dello scenario DLP sia per i clienti che per gli ISV. Inoltre, Microsoft Graph patch API consente di applicare azioni DLP ai messaggi dei team.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Le funzionalità di [prevenzione della perdita di dati (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) sono ampiamente utilizzate in Microsoft teams in particolare, in quanto le organizzazioni hanno spostato il lavoro a distanza. Se l'organizzazione ha DLP, è ora possibile definire criteri che impediscono agli utenti di condividere le informazioni riservate in un canale di Microsoft teams o in una sessione di chat.
+Le funzionalità di [prevenzione della perdita di dati (DLP, Data Loss Prevention)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) sono ampiamente utilizzate in Microsoft teams, in particolare quando le organizzazioni hanno spostato il lavoro a distanza. Se l'organizzazione ha DLP, è ora possibile definire criteri che impediscono agli utenti di condividere le informazioni riservate in un canale di Microsoft teams o in una sessione di chat.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-È necessaria una delle seguenti licenze E5 per disporre del supporto per la protezione di prevenzione della perdita di dati (DLP) in teams chat:
+Per ottenere supporto per la protezione DLP in teams chat, è necessaria una delle seguenti licenze E5:
 
 - Microsoft 365 E5/A5
 - Conformità Microsoft 365 E5/A5
@@ -375,6 +374,7 @@ Un utente beneficia di Advanced eDiscovery quando l'utente viene selezionato com
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
 Microsoft 365 E5/A5/G5/E3/a3/G3, Office 365 E5/A5/G5/E3/a3/G3 e Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio da Core eDiscovery.
+
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5 eDiscovery and audit, Office 365 E5/A5/G5 e Office 365 Advanced Compliance offrono i diritti per un utente di trarre vantaggio da Advanced eDiscovery.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
@@ -387,7 +387,7 @@ gli amministratori di eDiscovery possono selezionare utenti specifici come depos
 
 ## <a name="office-365-customer-key"></a>Chiave cliente per Office 365
 
-Con il codice "Customer Key", è possibile controllare le chiavi di crittografia dell'organizzazione e configurare Office 365 per utilizzarle per crittografare i dati a riposo nei data center di Microsoft. In altre parole, la chiave del cliente consente di aggiungere un livello di crittografia che appartiene all'utente, utilizzando le proprie chiavi. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file in SharePoint Online e OneDrive for business.
+Con la chiave Customer, è possibile controllare le chiavi di crittografia dell'organizzazione e configurare Office 365 per utilizzarle per crittografare i dati a riposo nei Data Center Microsoft. In altre parole, la chiave del cliente consente di aggiungere un livello di crittografia che appartiene all'utente, utilizzando le proprie chiavi. Data at rest include i dati di Exchange Online e Skype for business archiviati nelle cassette postali e nei file in SharePoint Online e OneDrive for business.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -399,11 +399,11 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information P
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Le chiavi di crittografia per i clienti di Office 365 possono essere abilitate per tutti i dati archiviati in cassette postali di Exchange Online e Skype for business e per i file di SharePoint Online, OneDrive for business e teams. Per ulteriori informazioni sulla chiave del cliente di Office 365, inclusa la procedura per iniziare, vedere [Service Encryption with Customer Key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview).
+Le chiavi di crittografia per i clienti di Office 365 possono essere abilitate per tutti i dati archiviati in cassette postali di Exchange Online e Skype for business e per i file di SharePoint Online, OneDrive for business e teams. Per ulteriori informazioni sulla chiave del cliente di Office 365, inclusa la procedura per iniziare, vedere [Service Encryption with Customer Key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Per Exchange Online e Skype for business, le cassette postali possono essere crittografate utilizzando la chiave del cliente. È necessario configurare Azure prima di poter utilizzare la chiave del cliente per Office 365. Vedere [impostare la chiave del cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) per la procedura da seguire per creare e configurare le risorse di Azure necessarie e i passaggi per la configurazione della chiave del cliente in Office 365. Dopo aver completato il programma di installazione di Azure, è necessario determinare quali criteri e quindi, quali chiavi, assegnare alle cassette postali e ai file nell'organizzazione. Le cassette postali e i file per cui non si assegna un criterio utilizzeranno i criteri di crittografia controllati e gestiti da Microsoft. Per ulteriori informazioni sulla chiave del cliente o per una panoramica generale, vedere [Service Encryption with Customer Key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview).
+Per Exchange Online e Skype for business, le cassette postali possono essere crittografate utilizzando la chiave del cliente. È necessario configurare Azure prima di poter utilizzare la chiave del cliente per Office 365. Vedere [impostare la chiave del cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) per la procedura da seguire per creare e configurare le risorse di Azure necessarie e i passaggi per la configurazione della chiave del cliente in Office 365. Dopo aver completato la configurazione di Azure, determinare i criteri e, di conseguenza, i tasti da assegnare alle cassette postali e ai file nell'organizzazione. Le cassette postali e i file per cui non si assegna un criterio utilizzeranno i criteri di crittografia controllati e gestiti da Microsoft. Per ulteriori informazioni sulla chiave del cliente o per una panoramica generale, vedere [Service Encryption with Customer Key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview).
 
 ## <a name="office-365-customer-lockbox"></a>Customer Lockbox di Office 365
 
@@ -411,7 +411,7 @@ L'archivio protetto dei clienti fornisce un ulteriore livello di controllo offre
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Gli utenti traggono vantaggio dall'archivio protetto dei clienti assicurando che nessuno può accedere al proprio contenuto per eseguire un'operazione di servizio senza l'approvazione esplicita del cliente. L'archivio protetto dei clienti porta il cliente nel flusso di lavoro di approvazione per le richieste di accesso al contenuto. In alcuni casi, gli ingegneri Microsoft sono coinvolti durante il processo di supporto per risolvere i problemi segnalati dai clienti. Nella maggior parte dei casi, i problemi vengono risolti tramite una vasta gamma di telemetria e strumenti di debug per i servizi di Microsoft. Tuttavia, potrebbe essere necessario che un tecnico Microsoft acceda ai contenuti dei clienti per determinare la causa principale e risolvere il problema. L'archivio protetto dei clienti richiede all'ingegnere di richiedere l'accesso da parte del cliente come passaggio finale del flusso di lavoro di approvazione. Questo fornisce alle organizzazioni la possibilità di approvare o rifiutare queste richieste, in modo da consentire loro di controllare direttamente se un tecnico Microsoft può accedere ai dati degli utenti finali dell'organizzazione.
+L'archivio protetto dei clienti garantisce che nessuno di Microsoft possa accedere al contenuto del cliente per eseguire un'operazione di servizio senza l'approvazione esplicita del cliente. L'archivio protetto dei clienti porta il cliente nel flusso di lavoro di approvazione per le richieste di accesso al contenuto. In alcuni casi, gli ingegneri Microsoft sono coinvolti durante il processo di supporto per risolvere i problemi segnalati dai clienti. Nella maggior parte dei casi, i problemi vengono risolti tramite una vasta gamma di telemetria e strumenti di debug per i servizi di Microsoft. Tuttavia, potrebbe essere necessario che un tecnico Microsoft acceda ai contenuti dei clienti per determinare la causa principale e risolvere il problema. L'archivio protetto dei clienti richiede all'ingegnere di richiedere l'accesso da parte del cliente come passaggio finale del flusso di lavoro di approvazione. Questo fornisce alle organizzazioni la possibilità di approvare o rifiutare queste richieste, in modo da consentire loro di controllare direttamente se un tecnico Microsoft può accedere ai dati degli utenti finali dell'organizzazione.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
@@ -419,15 +419,15 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Gli amministratori possono abilitare i controlli archivio clienti all'interno dell'interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni, vedere [archivio protetto dei clienti in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests). Quando l'archivio protetto dei clienti è attivato, è necessario che Microsoft ottenga l'approvazione di un'organizzazione prima di accedere a qualsiasi contenuto.
+Gli amministratori possono abilitare l'archivio protetto dei clienti nell'interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni, vedere [archivio protetto dei clienti in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests). Quando l'archivio protetto dei clienti è attivato, è necessario che Microsoft ottenga l'approvazione di un'organizzazione prima di accedere a qualsiasi contenuto.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Il servizio Archivio clienti non può essere limitato attualmente a utenti specifici. È necessario concedere una licenza per ogni utente che si intende trarre vantaggio.
+Attualmente, il servizio Archivio clienti non può essere limitato a utenti specifici. È necessario concedere una licenza per ogni utente che si intende trarre vantaggio.
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestione degli accessi privilegiati in Office 365
 
-[Gestione accessi con privilegi (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) fornisce il controllo di accesso granulare sulle attività di amministratore privilegiate in Office 365. Dopo aver abilitato PAM, gli utenti dovranno richiedere l'accesso just-in-time tramite un flusso di lavoro di approvazione estremamente ambito e con un limite di tempo per completare le attività elevate e con privilegi.
+[Gestione accessi con privilegi (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) fornisce il controllo di accesso granulare sulle attività di amministratore privilegiate in Office 365. Dopo aver abilitato PAM, per completare le attività elevate e con privilegi, gli utenti dovranno richiedere l'accesso just-in-time tramite un flusso di lavoro di approvazione estremamente ambito e con un limite di tempo.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
@@ -447,11 +447,11 @@ I clienti possono gestire PAM per ogni singolo utente tramite il gruppo di appro
 
 ## <a name="double-key-encryption-for-microsoft-365"></a>Crittografia a chiave doppia per Microsoft 365 
 
-La crittografia a doppio tasto per Microsoft 365 consente di proteggere i dati altamente riservati per soddisfare i requisiti specializzati e mantenere il controllo completo della chiave di crittografia. La crittografia a chiave doppia utilizza due tasti per proteggere i dati, con una chiave nel controllo e la seconda chiave archiviati in modo sicuro Microsoft Azure. Per visualizzare i dati, è necessario avere accesso a entrambe le chiavi. Poiché Microsoft può accedere a un solo tasto, la chiave e anche i dati non sono disponibili per Microsoft, garantendo di avere il controllo completo sulla privacy e la sicurezza dei dati.
+La crittografia a doppio tasto per Microsoft 365 consente di proteggere i dati altamente riservati per soddisfare i requisiti specializzati e mantenere il controllo completo della chiave di crittografia. La crittografia a chiave doppia utilizza due tasti per proteggere i dati, con una chiave del controllo e la seconda chiave archiviati in modo sicuro da Microsoft Azure. Per visualizzare i dati, è necessario avere accesso a entrambe le chiavi. Poiché Microsoft può accedere a un solo tasto, la chiave e anche i dati non sono disponibili per Microsoft, garantendo di avere il controllo completo sulla privacy e la sicurezza dei dati.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Gli utenti traggono vantaggio dalla crittografia a chiave doppia tramite la possibilità di eseguire la migrazione dei dati crittografati nel cloud e impedendo l'accesso di terze parti purché la chiave resti in controllo degli utenti. Gli utenti finali possono proteggere e utilizzare il doppio contenuto crittografato con la chiave simile a qualsiasi altro contenuto protetto da un'etichetta di riservatezza.
+Gli utenti traggono vantaggio dalla crittografia a chiave doppia tramite la possibilità di eseguire la migrazione dei dati crittografati nel cloud, impedendo così l'accesso di terze parti, purché la chiave resti in controllo degli utenti. Gli utenti possono proteggere e utilizzare il doppio contenuto crittografato con chiave simile a qualsiasi altro contenuto protetto da etichette di riservatezza.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
@@ -545,11 +545,11 @@ Microsoft 365 E3/a3, Office 365 E3/a3 e Azure Information Protection Plan 1 offr
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi di Office 365 nell'interfaccia di amministrazione di Exchange in regole del **flusso di posta**  >  . Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione delle nuove funzionalità di crittografia dei messaggi di Office 365, vedere [configurare le nuove funzionalità di crittografia dei messaggi di office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi di Office 365 nell'interfaccia di amministrazione di Exchange in regole del **flusso di posta**  >  . Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione delle nuove funzionalità di crittografia dei messaggi di Office 365, vedere [configurare le nuove funzionalità di crittografia dei messaggi](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori devono applicare le regole del flusso di posta per la crittografia dei messaggi di Office 365 solo agli utenti con licenza. Per ulteriori informazioni sulla definizione delle regole del flusso di posta, vedere [definire le regole del flusso di posta per crittografare i messaggi di posta elettronica in Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
+Gli amministratori devono applicare le regole del flusso di posta per la crittografia dei messaggi di Office 365 solo agli utenti con licenza. Per ulteriori informazioni sulla definizione delle regole del flusso di posta, vedere [definire regole del flusso di posta per crittografare i messaggi di posta elettronica](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 Advanced Message Encryption
 
@@ -565,7 +565,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
-Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi avanzati nell'interfaccia di amministrazione di Exchange in regole del flusso di posta. Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione delle nuove funzionalità di crittografia dei messaggi, vedere [configurare le nuove funzionalità di crittografia messaggi di Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Gli amministratori creano e gestiscono i criteri di crittografia dei messaggi avanzati nell'interfaccia di amministrazione di Exchange in regole del **flusso di posta**  >  . Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione delle nuove funzionalità di crittografia dei messaggi, vedere [configurare le nuove funzionalità di crittografia messaggi di Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
@@ -589,11 +589,12 @@ Gli amministratori e gli specialisti della conformità creano criteri di conform
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Gli amministratori scelgono utenti o gruppi specifici da includere in un criterio di conformità della comunicazione. Quando si sceglie un gruppo, è possibile selezionare anche utenti specifici del gruppo da escludere dal criterio di conformità della comunicazione. Per ulteriori informazioni sui criteri di conformità della comunicazione, vedere [Communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Gli amministratori scelgono utenti o gruppi specifici da includere in un criterio di conformità della comunicazione. Quando si sceglie un gruppo, è possibile selezionare anche utenti specifici del gruppo da escludere dal criterio di conformità della comunicazione. Per ulteriori informazioni sui criteri di conformità della comunicazione, vedere [Introduzione alla conformità alla comunicazione in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Gestione dei rischi Insider
 
-La gestione dei rischi Insider è una soluzione in Microsoft 365 che consente di ridurre al minimo i rischi interni, consentendo di rilevare, indagare ed eseguire azioni sulle attività a rischio nell'organizzazione.
+La gestione dei rischi Insider è una soluzione in Microsoft 365 che consente di ridurre al minimo i rischi interni, consentendo di rilevare, indagare ed eseguire azioni sulle attività rischiose nell'organizzazione.
+
 I criteri personalizzati consentono di rilevare e intervenire su attività dannose e involontariamente rischiose nell'organizzazione, inclusi i casi di escalation a Microsoft Advanced eDiscovery, se necessario. Gli analisti di rischio nell'organizzazione possono rapidamente prendere le azioni appropriate per garantire che gli utenti siano conformi agli standard di conformità dell'organizzazione.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
@@ -614,7 +615,7 @@ Quando si crea un criterio nel centro conformità di Microsoft 365, nella pagina
 
 ## <a name="conditional-access-policies"></a>Criteri di accesso condizionale
 
-L'accesso condizionale è lo strumento utilizzato da Azure Active Directory per riunire i segnali, per prendere decisioni e applicare i criteri dell'organizzazione. L'accesso condizionale è il fulcro del piano di controllo Identity Driven. I criteri di accesso condizionale con le istruzioni più semplici sono if-then. Se un utente desidera accedere a una risorsa, è necessario completare un'azione. Esempio: un responsabile della gestione delle retribuzioni desidera accedere all'applicazione Payroll ed è necessario per eseguire l'autenticazione a più fattori per accedervi.
+L'accesso condizionale è lo strumento utilizzato da Azure Active Directory per riunire i segnali, per prendere decisioni e applicare i criteri dell'organizzazione. L'accesso condizionale è il fulcro del controllo basato sull'identità. I criteri di accesso condizionale, al loro più semplice, sono istruzioni if-then. Se un utente desidera accedere a una risorsa, è necessario completare un'azione. Esempio: un responsabile della gestione delle retribuzioni desidera accedere all'applicazione Payroll ed è necessario per eseguire l'autenticazione a più fattori per accedervi.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
@@ -630,13 +631,13 @@ Per impostazione predefinita, le funzionalità di accesso condizionale sono abil
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>In che modo il servizio può essere applicato solo agli utenti del tenant che dispongono della licenza per il servizio?
 
-Per la protezione delle identità e l'accesso condizionale in particolare, un utente deve essere incluso in un gruppo o essere aggiunto a un criterio di accesso condizionale. La condizione degli utenti e dei gruppi è obbligatoria in un criterio di accesso condizionale. Nei criteri è possibile selezionare **tutti gli utenti** o gli utenti e i gruppi specifici. È necessario selezionare solo gli utenti e i gruppi con licenza appropriata. Per ulteriori informazioni, vedere [quali sono le condizioni nell'accesso condizionale di Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
+Per la protezione delle identità e l'accesso condizionale in particolare, un utente deve essere incluso in un gruppo o essere aggiunto a un criterio di accesso condizionale. La condizione degli utenti e dei gruppi è obbligatoria in un criterio di accesso condizionale. Nei criteri è possibile selezionare **tutti gli utenti** o gli utenti e i gruppi specifici. È necessario selezionare solo gli utenti e i gruppi con licenza appropriata. Per ulteriori informazioni, vedere [Conditional Access: Conditions](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
 
 ## <a name="advanced-audit"></a>Audit avanzato
 
 Advanced audit in Microsoft 365 fornisce una conservazione annuale dei registri di controllo per le attività di utenti e amministratori e fornisce la possibilità di creare criteri di conservazione del registro di controllo personalizzati per gestire la conservazione del registro di controllo per altri servizi di Microsoft 365. Consente inoltre di accedere a eventi cruciali per le indagini e l'accesso a larghezza di banda elevata all'API di attività di gestione di Office 365. Per ulteriori informazioni, vedere [Advanced audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
-È inoltre possibile abilitare un periodo di conservazione di 10 anni con un SKU del componente aggiuntivo. L'SKU del componente aggiuntivo sarà necessario a partire dall'inizio del 2021.
+È inoltre possibile abilitare un periodo di conservazione di 10 anni con un SKU del componente aggiuntivo. La SKU del componente aggiuntivo sarà obbligatoria a partire dall'inizio del 2021.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quali utenti usufruiscono del servizio?
 
@@ -646,7 +647,7 @@ Gli utenti con licenza con controllo avanzato e il componente aggiuntivo per la 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti usufruiscono del servizio?
 
-Un utente beneficia del controllo avanzato perché i record di controllo relativi all'attività degli utenti nei servizi Microsoft 365 possono essere conservati per un massimo di un anno. Inoltre, gli eventi di controllo di alto valore vengono registrati, ad esempio quando si accede o si leggono gli elementi della cassetta postale di un utente. Per ulteriori informazioni, vedere [Advanced audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
+Gli utenti usufruiscono del controllo avanzato perché i record di controllo relativi all'attività degli utenti nei servizi Microsoft 365 possono essere conservati per un massimo di un anno. Inoltre, vengono registrati gli eventi di controllo di alto valore, ad esempio quando si accede o si leggono gli elementi della cassetta postale di un utente. Per ulteriori informazioni, vedere [Advanced audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
