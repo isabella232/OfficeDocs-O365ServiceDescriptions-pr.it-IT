@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 e Office 365 sono disponibili in una serie di piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani, inclusi i piani di Exchange Online, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
-ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519127"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683520"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrizione dei servizi delle piattaforme Office 365 e Microsoft 365
 
@@ -168,7 +168,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Browser utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Sistema operativo utilizzato  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Creare report personalizzati utilizzando i servizi Web di Reporting Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Aggiornamenti del servizio](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Aggiornamenti dei servizi](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Aggiornamenti regolari forniti a tutti i clienti  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Roadmap.office.com per alcuni aggiornamenti del servizio  <br/> |Sì  <br/> |--  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
@@ -187,6 +187,8 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Archivio protetto del cliente  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Chiave cliente<sup>14</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Advanced eDiscovery<sup>15</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|Audit di base<sup>22</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
+|Controllo avanzato<sup>22</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Microsoft Secure Score<sup>7</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Intelligence per le minacce  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |**[Conformità](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -225,4 +227,5 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 <br/><sup>18</sup> per ulteriori informazioni, vedere i [piani e gli ambienti di analisi dei dati](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>19</sup> include le funzionalità di Azure Active Directory descritte nella colonna **Office 365 Apps** nella pagina dei [prezzi di Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . È necessario aggiungere Azure Active Directory piano 1 o piano 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 per ottenere le funzionalità Premium di Azure AD.<br/>
 <sup>20</sup> il messaggio di posta elettronica di briefing viene fornito automaticamente a tutti gli utenti di Exchange Online. Per ulteriori informazioni, vedere [Configure briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>21</sup> gli utenti dispongono dell'accesso in sola visualizzazione al progetto per il Web. Tali diritti sono limitati per l'utilizzo solo con il progetto per l'applicazione Web e solo per i tenant con un piano di progetto 1, un piano di progetto 3 o una licenza di Project Plan 5. Tali diritti non consentono l'accesso alle applicazioni della piattaforma di alimentazione o ad altri set di dati, client desktop di Project online o Project online. Per informazioni dettagliate sulla funzionalità, vedere la [Descrizione del servizio Microsoft Project](../project-online-service-description/project-online-service-description.md).
+<sup>21</sup> gli utenti dispongono dell'accesso in sola visualizzazione al progetto per il Web. Tali diritti sono limitati per l'utilizzo solo con il progetto per l'applicazione Web e solo per i tenant con un piano di progetto 1, un piano di progetto 3 o una licenza di Project Plan 5. Tali diritti non consentono l'accesso alle applicazioni della piattaforma di alimentazione o ad altri set di dati, client desktop di Project online o Project online. Per informazioni dettagliate sulla funzionalità, vedere la [Descrizione del servizio Microsoft Project](../project-online-service-description/project-online-service-description.md).<br/>
+<sup>22</sup> audit in Microsoft 365 fornisce alle organizzazioni la visibilità in molti tipi di attività controllate su diversi servizi in Microsoft 365. Utilizzare la ricerca del registro di controllo del [ &amp; centro conformità di sicurezza](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) per visualizzare le attività dell'utente e dell'amministratore nell'organizzazione. È inoltre possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato. Quando un'attività controllata viene eseguita da un utente o da un amministratore, viene generato un record di controllo e memorizzato nel registro di controllo per l'organizzazione del cliente. Il periodo di tempo in cui un record di controllo viene mantenuto (e ricercabile nel log di controllo) dipende dall'abbonamento a Office 365 o Microsoft 365 Enterprise del cliente e dal tipo di licenza assegnata a utenti specifici.
