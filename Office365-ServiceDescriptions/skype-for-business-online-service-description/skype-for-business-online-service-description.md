@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Vedere le funzionalità di Skype for business online disponibili nei diversi piani di Microsoft 365 e Office 365.
-ms.openlocfilehash: 18144b42d6f94f4ce93432d681e136cd8063656c
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 070ea7ca1e66b1157726bea68c4130800b21a9f5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276752"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709744"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
 
@@ -145,7 +145,7 @@ Per un confronto più dettagliato, vedere la tabella seguente.<br><br>
 |Chiamate Skype e federate  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Chiamate per il team  <br/> |Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Monitor per videochiamate  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Segreteria telefonica  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
+|Segreteria telefonica  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Piani di chiamata](skype-for-business-online-features.md#calling-plans) (piano per le chiamate nazionali, con acquisto di componenti aggiuntivi necessari)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |No  <br/> |
 |[Piani di chiamata](skype-for-business-online-features.md#calling-plans) (piano di chiamata internazionale con acquisto di componenti aggiuntivi necessari)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì<sup>3</sup> <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |No  <br/> |
 |[Crediti di comunicazione](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |N.<sup>6</sup> <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
