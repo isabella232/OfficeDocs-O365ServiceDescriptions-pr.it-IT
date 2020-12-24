@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Informazioni sulle differenze tra i piani di formazione di Microsoft 365 e Office 365.
-ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
-ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
+ms.openlocfilehash: 2e149dc53127046bdb813bb10ca65a857fef67d8
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49611258"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730734"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -74,7 +74,7 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |Advanced eDiscovery|No|No|Sì|No|Sì|No|No|No|No|
 |Prevenzione della perdita di dati (DLP) per la posta elettronica e i file|No|Sì|Sì|Sì|Sì|No|No|No|No|
 |Endpoint DLP|No|No|No|No|Sì|No|No|No|No|
-|Communications DLP (chat Teams)|No|Sì|Sì|Sì|Sì|No|No|No|No|
+|Communications DLP (chat Teams)|No|No|Sì|No|Sì|No|No|No|No|
 |Conformità delle comunicazioni|No|No|Sì|No|Sì|No|No|No|No|
 |Customer Key|No|No|Sì|No|Sì|No|No|No|No|
 |Controllo di base|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
