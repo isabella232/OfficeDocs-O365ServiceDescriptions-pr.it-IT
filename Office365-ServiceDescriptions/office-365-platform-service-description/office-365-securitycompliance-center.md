@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il &amp; Centro sicurezza e conformità è stato creato per semplificare la gestione delle funzionalità di conformità tra Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730724"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740967"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -30,21 +30,19 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per usu
 | Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
-|[Prevenzione della perdita di dati per Exchange Online, SharePoint Online e OneDrive for business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1, 3</sup> |No   |Sì  |Sì   |No   |Sì   |Sì   |No   |
-|[Etichette di riservatezza manuale](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | No | No  |No   | Sì | Sì | Sì | No  |
+|[Prevenzione della perdita di dati per Exchange Online, SharePoint Online e OneDrive for business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> | No | No  |No   | Sì | Sì | Sì | No  |
+|[Etichette di riservatezza manuali](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | No | No  |No   | Sì | Sì | Sì | No  |
 |[casi di eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
 |[eDiscovery contiene (incluse le esenzioni di eDiscovery basate su query)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |No   |No   |No  |No   |Sì   |Sì   |No   |
 |[Esportazione eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |No   |No   |No   |Sì   |Sì   |No   |
-|[Audit di base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |Sì   |Sì   |Sì|Sì   |Sì   |Sì   |Sì   |
+|[Controllo di base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Sì   |Sì   |Sì|Sì   |Sì   |Sì   |Sì   |
 |[Base di crittografia dei messaggi di Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |No   |No   |No   |Sì  |Sì   |No   |
 
-<sup>1</sup> include i file archiviati nei repository di Microsoft teams.
+<sup>1</sup> i registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include un controllo avanzato, i registri di controllo vengono conservati per un massimo di un anno. Inoltre, è possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato.
 
-<sup>2</sup> i registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include un controllo avanzato, i registri di controllo vengono conservati per un massimo di un anno. Inoltre, è possibile utilizzare l' [API di attività di gestione di Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal registro di controllo unificato.
+<sup>2</sup> richiede un componente aggiuntivo di prevenzione della perdita di dati di Office 365.
 
-<sup>3</sup> richiede un componente aggiuntivo di prevenzione della perdita di dati di Office 365.
-
-<sup>4</sup> le etichette di riservatezza sono incluse anche in Azure Information Protection P1 e P2.
+<sup>3</sup> le etichette di riservatezza sono incluse anche in Azure Information Protection P1 e P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilità del Centro sicurezza e conformità per i piani autonomi
 
