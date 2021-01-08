@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per la gestione delle licenze per la conformità a Microsoft 365 per evitare possibili interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 3e887ef28db0d6c806984170815c432d82573921
-ms.sourcegitcommit: d45565d6573db8368c5fcff70c585559c77f3485
+ms.openlocfilehash: 04ff448cd45ed81b17ed230547462c80d8c47669
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49654970"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49779990"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guida alla gestione delle licenze Microsoft 365 per la conformità & di sicurezza
 
@@ -37,7 +37,7 @@ Gli analisti e i professionisti della sicurezza di secops traggono vantaggio dal
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze offrono i diritti per un utente di usufruire del servizio?
 
-I clienti con licenze E1 e E3 saranno in grado di accedere solo alla valutazione di base predefinita per la protezione dei dati. I clienti che dispongono di licenze Office 365 E5/A5 e Microsoft 365 E5/A5 (conformità, protezione delle informazioni & di governance e SKU di eDiscovery e audit inclusi) saranno in grado di accedere alle valutazioni di base per la protezione dei dati, GDPR, NIST 800-53 e ISO 27001. La funzionalità di valutazione personalizzata e le valutazioni dei premi sono riservate ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5. Le valutazioni dei premi saranno disponibili per l'acquisto durante la prima metà del 2021 tramite VL, CSP e WebDirect. 
+I clienti con licenze E1 e E3 saranno in grado di accedere solo alla valutazione di base predefinita per la protezione dei dati. I clienti con licenze Office 365 E5/A5 e Microsoft 365 E5/A5 (conformità, governance della protezione delle informazioni &amp; e SKU di eDiscovery e audit inclusi) saranno in grado di accedere alle valutazioni di protezione dei dati di base, GDPR, NIST 800-53 e ISO 27001. La funzionalità di valutazione personalizzata e le valutazioni dei premi sono riservate ai clienti di Office 365 E5/A5 e Microsoft 365 E5/A5. Le valutazioni dei premi saranno disponibili per l'acquisto durante la prima metà del 2021 tramite VL, CSP e WebDirect.  
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning e la distribuzione del servizio?
 
@@ -321,8 +321,8 @@ Il vantaggio principale dell'utilizzo dei connettori di dati per l'importazione 
 Le licenze seguenti forniscono i diritti per un utente di usufruire dei connettori di dati:
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 info Protection & governance
-- Conformità Microsoft 365 E5/A5
+- Protezione delle informazioni e governance di Microsoft 365 E5/A5
+- Conformità di Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 gestione dei rischi Insider
 - Microsoft 365 E5/A5 eDiscovery e audit
 - Office 365 E5/A5
@@ -351,7 +351,7 @@ Le funzionalità di [prevenzione della perdita di dati (DLP, Data Loss Preventio
 Per ottenere supporto per la protezione DLP in teams chat, è necessaria una delle seguenti licenze E5:
 
 - Microsoft 365 E5/A5
-- Conformità Microsoft 365 E5/A5
+- Conformità di Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 Information Protection and Governance
 - Office 365 E5/A5 
 

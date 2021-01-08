@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato Office 365 US Government plans (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli ambienti governativi US di Office 365.
-ms.openlocfilehash: 63cef3dfac77ae22bc413deab9d375c1cd110b46
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: 92d2bd7b4197c096f6f87cc792e6f052247d7274
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566678"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780000"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -441,7 +441,7 @@ Le applicazioni di Office seguenti sono disponibili nelle cloud del governo. Tut
 |Grafici delle mappe|No|No|No|
 |Inchiostro digitale intelligente|No|No|No|
 |Shared with Me|No|No|No|
-|Translation|No|No|No|
+|Translation|Sì<sup>5</sup>|Sì<sup>5</sup>|Sì<sup>5</sup>|
 |Integrazione di Skype for business con condivisione|No|No|No|
 |Cronologia versioni|No|No|No|
 |Gruppi di Office 365|No|No|No|
@@ -453,3 +453,4 @@ Per la disponibilità delle funzionalità per Microsoft teams all'interno di GCC
 <br/><sup>2</sup> disponibilità su Hub superficie locale (non connesso).
 <br/><sup>3</sup> la condivisione esterna è disponibile per l'ambiente GCC. Per ulteriori informazioni, vedere Disattivazione [o attivazione di Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) per l'organizzazione. La condivisione esterna è disattivata per gli ambienti GCC High e DOD; Gli utenti all'interno dell'organizzazione possono eseguire le operazioni seguenti: completare una maschera e inviare risposte, [duplicare e condividere un modulo come modello](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [creare un coautore o collaborare a un modulo](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [accedere ai risultati dei moduli](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
 <br/><sup>4</sup> la caratteristica dei moduli di gruppo recente è disattivata per l'ambiente GCC. Tuttavia, gli utenti possono comunque accedere ai moduli di gruppo selezionando un gruppo specifico nella scheda moduli di gruppo.
+<br/><sup>5</sup> Word, solo client Windows PowerPoint di Excel, non Web, MacOS, iOS o Android.

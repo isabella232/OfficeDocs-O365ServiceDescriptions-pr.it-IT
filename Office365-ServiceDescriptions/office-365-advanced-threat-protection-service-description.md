@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender per Office 365 è un servizio di filtraggio della posta elettronica basato sul cloud che consente di proteggere l'organizzazione da malware e virus sconosciuti fornendo una protezione affidabile per il giorno zero e include funzionalità che consentono di salvaguardare l'organizzazione da collegamenti nocivi in tempo reale.
-ms.openlocfilehash: 1d99b59e089ecb351d436c49a4f4e3986aefa6cd
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: fd2869eb98b64fca4f241339497486a392815402
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519027"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780010"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrizione del servizio Microsoft Defender per Office 365
 
@@ -94,10 +94,13 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |Indagine sulle minacce (Advanced Threat Investigation)|[Rilevamenti in tempo reale](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Risposta agli incidenti automatici](#automated-incident-response)|No|Sì|Sì|
 |[Simulatore di attacchi](#attack-simulator)|No|Sì|Sì|
-|*Integrazione con Microsoft 365 Defender*|No|No|Sì|
+|*Integrazione con Microsoft 365 Defender*|No|Sì|Sì|
 
 > [!TIP]
-> Si desidera un elenco di differenze scaricabili tra Defender per Office 365 piano 1 e piano 2? [Ottenere il file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
+> Si desidera un elenco di differenze scaricabili tra Defender per Office 365 piano 1 e piano 2? [Ottenere il file PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
+
+> [!NOTE]
+> Se il tenant ha solo licenza di valutazione di Office ATP P2 o licenza di valutazione di Office 365 E5, con nessun'altra licenza idonea per Microsoft Threat Protection, non sarà possibile accedere a Microsoft Threat Protection. Per ulteriori informazioni sulla licenza MTP, vedere <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites>
 
 ## <a name="defender-for-office-365-capabilities"></a>Protezione per le funzionalità di Office 365
 
@@ -133,7 +136,7 @@ I collegamenti sicuri sono disponibili per gli URL nelle seguenti app:
 
 La funzionalità [documenti sicuri](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) utilizza [Microsoft Defender per endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) per analizzare i documenti e i file aperti in [visualizzazione protetta](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
 
-Che cosa è necessario sapere prima di iniziare?
+Che cosa è necessario sapere prima di iniziare
 
 - I documenti attendibili sono ora generalmente disponibili per gli utenti con Office versione 2004 (12730. x) o versioni successive. Questa funzionalità è disattivata per impostazione predefinita e dovrà essere abilitata dall'amministratore della sicurezza.
 

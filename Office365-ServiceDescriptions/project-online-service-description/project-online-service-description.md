@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Recapitato tramite Office 365, Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione di Projects e investimenti del portafoglio di progetto, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: af4e8aa7a7ea7adcabb2e4e6b9b8ad8040f5d03c
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411595"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780030"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -36,7 +36,7 @@ In questo articolo vengono fornite informazioni utili per comprendere quali appl
 
 Project per il Web è l'offerta più recente di Microsoft per il lavoro basato sul cloud e la gestione dei progetti. Project per il Web offre funzionalità di gestione del lavoro semplici e potenti per soddisfare la maggior parte delle esigenze e dei ruoli. I Project Manager e i membri del team possono utilizzare Project per il Web per pianificare e gestire il lavoro di qualsiasi dimensione.
 
-Il progetto per il Web è basato sulla piattaforma Microsoft Power. La piattaforma di alimentazione è costituita da PowerApps, Power Automate, Power BI e Common Data Service (CDS). Il progetto per i dati Web è memorizzato nei CD. 
+Il progetto per il Web è basato sulla piattaforma Microsoft Power. La piattaforma di alimentazione è costituita da PowerApps, Power Automate, Power BI e Microsoft dataverse. Il progetto per i dati Web è memorizzato nel dataverse Microsoft. 
 
 Project per il Web è disponibile tramite tre abbonamenti: Project Plan 1, Project Plan 3 e Project Plan 5. Le funzionalità elencate nel [progetto per la sezione funzionalità Web](#project-for-the-web-features) interagiscono solo con i dati del progetto per l'archivio dati Web.
 
@@ -48,16 +48,16 @@ Project online è basato sulla piattaforma SharePoint e archivia i dati nell'arc
 
 Project online è disponibile tramite due abbonamenti: Project Plan 3 e Project Plan 5. Le funzionalità elencate nella sezione [Project Online features](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
 
-La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di Project Online Essentials. Project Online Essentials è un abbonamento *componente aggiuntivo*   per i membri del team per i clienti che dispongono di sottoscrizioni di Project Plan 3 o Project Plan 5. Fornisce ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online.
+La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di Project Online Essentials o Project Plan 1. Project Online Essentials è un abbonamento *componente aggiuntivo* per i membri del team per i clienti che dispongono di sottoscrizioni di Project Plan 3 o Project Plan 5. Le sottoscrizioni Project Online Essentials e Project Plan 1 conferiscono ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online.
 
-I membri del team con Project Online Essentials sono in grado di eseguire le seguenti funzioni di Project online:
+I membri del team con le sottoscrizioni Project Online Essentials o Project Plan 1 possono eseguire le seguenti funzioni di Project online:
 
 - Utilizzo di un'interfaccia basata sul Web
 - Aggiornamento attività, problemi e rischi
 - Invio di schede attività
 - Condividere documenti e collaborare con Microsoft teams o con gli utenti di Skype for business
 
-Project Online Essentials non include il progetto per il Web.
+Project Online Essentials non include il progetto per il Web. Il piano di Project 1 include il progetto per il Web.
 
 ### <a name="project-online-desktop-client"></a>Client desktop di Project online
 
@@ -80,7 +80,7 @@ Microsoft Project è disponibile attraverso tre diversi abbonamenti per soddisfa
 |Prodotto | Piano 1 | Piano 3 | Piano 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project per il web |**x**  | **x x** | **x x** |
-|Project Online | |**x x**| **x x x** |
+|Project Online |**x** |**x x**| **x x x** |
 |Client desktop di Project online | |**x**|**x**|
 
 Nella tabella precedente, il numero di controlli (**x**) indica il livello generale di funzionalità fornite da un piano. Ad esempio, per Project online, il piano 5 fornisce più funzionalità rispetto al piano 3.
@@ -242,7 +242,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'a
 |Ordinamento e raggruppamento | Utilizzare l'ordinamento personalizzato e il raggruppamento per ottenere una visualizzazione mirata del progetto, delle attività e delle risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. |
-|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi i piani di progetto, i team e le assegnazioni. |
 |importazione/esportazione di file con estensione MPP | Creare nuovi progetti da file con estensione MPP esistenti o creare un file con estensione MPP di un progetto esistente. |
@@ -255,10 +255,11 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'a
 
 ### <a name="licensing-considerations"></a>Considerazioni sulle licenze
 
-- Qualsiasi interazione in un sito di Project online richiede un piano di progetto 3 o un abbonamento al piano di progetto 5.
-- Quando l'ultimo piano del progetto 1, il piano di progetto 3 o il piano di progetto 5 scade, il progetto per le istanze Web verrà eliminato dopo 120 giorni.
+- Qualsiasi interazione in un sito di Project online richiede almeno un piano di progetto 3 o un abbonamento al piano di progetto 5 all'interno del tenant.
+- Quando l'ultimo piano del progetto 1, il piano di progetto 3 o il piano di progetto 5 scade, il progetto per le istanze Web non verrà eliminato automaticamente finché non si dispone di sottoscrizioni attive che dipendono dal dataverse Microsoft.
 - Dopo la scadenza dell'ultimo piano di progetto 3 o della sottoscrizione al piano di progetto 5, le istanze di Project online verranno eliminate dopo 120 giorni.
-- Per le sottoscrizioni di valutazione del progetto Web e di Project online, le istanze di valutazione verranno eliminate 30 giorni dopo la fine del periodo di prova.
+- Per le sottoscrizioni di valutazione di Project online, le istanze di valutazione verranno eliminate 30 giorni dopo la fine del periodo di prova.
+- Per le sottoscrizioni di valutazione di Project per il Web, le istanze di valutazione non verranno eliminate finché non si dispone di sottoscrizioni attive che dipendono dal dataverse Microsoft.
 
 ### <a name="use-of-sharepoint-online"></a>Utilizzo di SharePoint Online
 
@@ -268,9 +269,9 @@ Project online richiede l'utilizzo di SharePoint Online, che viene provisioning 
 
 La roadmap del progetto richiede l'utilizzo di Power automatizzate, che viene provisionato nell'ambito della sottoscrizione al progetto. I diritti di automatizzare la funzionalità sono limitati a quelle funzionalità di automatizzazione del potere richieste dalla roadmap del progetto. Power automatizzate la funzionalità richiesta dalla roadmap del progetto viene visualizzata come **integrazione dei dati per Project con** il piano del servizio di flusso nella sezione **app** dell'interfaccia di amministrazione di Microsoft 365.
 
-### <a name="project-for-the-web-and-common-data-service"></a>Project per il servizio Web e per i dati comuni
+### <a name="project-for-the-web-and-microsoft-dataverse"></a>Progetto per il Web e per il dataverse Microsoft
 
-Project per il Web richiede l'utilizzo del servizio dati comune (CDS) per l'archiviazione dei dati. Il provisioning dei CD è incluso nell'abbonamento al progetto. Le funzionalità relative ai diritti di CDS sono limitate all'archiviazione e all'accesso ai dati per il supporto di Project per il Web. La funzionalità CDS richiesta da Project viene visualizzata come **servizio dati comune per** il piano del servizio di Project nella sezione **app** dell'interfaccia di amministrazione di Microsoft 365.
+Project per il Web richiede l'utilizzo del dataverse Microsoft per l'archiviazione dei dati. Viene effettuato il provisioning di un database di Microsoft dataverse come parte della sottoscrizione di un progetto. I diritti sulla funzionalità di Microsoft dataverse sono limitati all'archiviazione e all'accesso ai dati per il supporto del progetto per il Web. La funzionalità di Microsoft dataverse richiesta da Project viene visualizzata come **servizio dati comune per** il piano del servizio di Project nella sezione **app** dell'interfaccia di amministrazione di Microsoft 365.
 
 ### <a name="data-backup-and-retention"></a>Backup e conservazione dei dati
 

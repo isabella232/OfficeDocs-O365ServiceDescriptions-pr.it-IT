@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
-ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
+ms.openlocfilehash: 7b43af4d2938eea638670f15d807cef53d963d1e
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601751"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780020"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
@@ -97,7 +97,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Transport rules|Sì <sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|
 |Prevenzione della perdita di dati|Sì<sup>5, 14</sup>|Sì<sup>5, 14</sup>|No|No|No|Sì|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione dalla posta indesiderata e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Protezione antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Protezione da posta indesiderata integrata|Sì <sup>6</sup>|Sì <sup>6</sup>|Sì|Sì|Sì|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì, ma solo tramite PowerShell|Sì, ma solo tramite PowerShell|Sì|Sì|Sì|Sì|Sì|Sì <sup>7</sup>|
 |Protezione antimalware integrata|Sì <sup>8</sup>|Sì <sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|Sì<sup>8</sup>|
@@ -166,7 +166,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |**[Interoperabilità, connettività e compatibilità](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Presenza di Skype for business in OWA e Outlook|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Interoperabilità di SharePoint|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Supporto per la connettività EWS|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
+|Supporto per la connettività EWS<sup>26</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Supporto per l'inoltro SMTP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**[Installazione e amministrazione di Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Accesso al portale di Microsoft Office 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -202,7 +202,8 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 <sup>22</sup> per ulteriori informazioni, vedere [crittografia del servizio con la chiave del cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> il supporto per la messaggistica unificata di Exchange Online per sistemi PBX di terze parti tramite connessioni dirette da parte dei clienti gestiti da SBCS si concluderà nell'aprile 2019. Per ulteriori informazioni, vedere il Blog del team [di Exchange sospensione del supporto per Session Border Controllers nella messaggistica unificata di Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
 <sup>24</sup> un utente di F3 non è in grado di aggiungere delegati alla propria cassetta postale, ma può accedere a un'altra cassetta postale (incluse le cassette postali condivise) ed eseguire tutte le azioni che sono state delegate.<br/>
-<sup>25</sup> è necessario un abbonamento a Microsoft 365 Apps for Enterprise anche per exchange Server 2013 ed exchange server 2016.
+<sup>25</sup> è necessario un abbonamento a Microsoft 365 Apps for Enterprise anche per exchange Server 2013 ed exchange server 2016.<br/>
+<sup>26</sup> supporto applicazione EWS applicato alla rappresentazione dell'applicazione EWS.
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilità delle funzionalità tra i piani autonomi di Exchange Online
 
@@ -232,7 +233,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Regole di trasporto|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|
 |Prevenzione della perdita di dati|Sì<sup>10, 14</sup>|Sì<sup>10, 14</sup>|No|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione dalla posta indesiderata e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Protezione antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
 |Protezione da posta indesiderata integrata|Sì <sup>2</sup>|Sì <sup>2</sup>|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì ma solo tramite PowerShell|Sì ma solo tramite PowerShell|Sì|Sì|Sì <sup>8</sup>|
 |Protezione antimalware integrata|Sì <sup>7</sup>|Sì <sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|
@@ -298,7 +299,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |**[Interoperabilità, connettività e compatibilità](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
 |Presenza di Skype for business in OWA e Outlook|Sì|Sì|Sì|Sì|Sì|
 |Interoperabilità di SharePoint|Sì|Sì|Sì|Sì|Sì|
-|Supporto per la connettività EWS|Sì|Sì|Sì|Sì|Sì|
+|Supporto per la connettività EWS<sup>26</sup>|Sì|Sì|Sì|Sì|Sì|
 |Supporto per l'inoltro SMTP|Sì|Sì|Sì|Sì|Sì|
 |**[Installazione e amministrazione di Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
 |Accesso al portale di Microsoft Office 365|No|No|Sì|Sì|Sì|
@@ -335,4 +336,5 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 <sup>22</sup> per eDiscovery, è necessaria una query separata per il cloud locale. <br/>
 <sup>23</sup> Exchange Online Kiosk non fornisce diritti di accesso per l'utilizzo con i server locali. Per essere compatibile, i clienti devono acquistare o aver precedentemente acquistato i CAL appropriati o eseguire l'aggiornamento a una SKU Enterprise che fornisca questi diritti di accesso. <br/>
 <sup>24</sup> i gruppi di Microsoft 365 sono disponibili con funzionalità ridotte.<br/>
-<sup>25</sup> è necessario un abbonamento a Microsoft 365 Apps for Enterprise anche per exchange Server 2013 ed exchange server 2016.
+<sup>25</sup> è necessario un abbonamento a Microsoft 365 Apps for Enterprise anche per exchange Server 2013 ed exchange server 2016.<br/>
+<sup>26</sup> supporto applicazione EWS applicato alla rappresentazione dell'applicazione EWS.
