@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender per Office 365 è un servizio di filtraggio della posta elettronica basato sul cloud che consente di proteggere l'organizzazione da malware e virus sconosciuti fornendo una protezione affidabile per il giorno zero e include funzionalità che consentono di salvaguardare l'organizzazione da collegamenti nocivi in tempo reale.
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790440"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794962"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrizione del servizio Microsoft Defender per Office 365
 
@@ -97,7 +97,7 @@ Di seguito sono elencate tutte le funzionalità. Quando è menzionato Exchange O
 |*Integrazione con [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|No|Sì|Sì|
 
 > [!NOTE]
-> Se il tenant ha solo la licenza di valutazione del difensore per Office 365 piano 2 o la licenza di valutazione Microsoft 365 E5, senza altra licenza idonea per Microsoft 365 Defender, non sarà possibile accedere a Microsoft 365 Defender. Per ulteriori informazioni, vedere [requisiti di Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites).
+> Se il tenant ha solo licenza di valutazione di Office ATP P2 o licenza di valutazione di Office 365 E5, con nessun'altra licenza idonea per Microsoft Threat Protection, non sarà possibile accedere a Microsoft Threat Protection. Per ulteriori informazioni sulla licenza MTP, vedere <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
 
 ## <a name="defender-for-office-365-capabilities"></a>Protezione per le funzionalità di Office 365
 

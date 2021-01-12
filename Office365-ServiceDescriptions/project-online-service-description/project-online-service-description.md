@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Recapitato tramite Office 365, Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione di Projects e investimenti del portafoglio di progetto, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: af4e8aa7a7ea7adcabb2e4e6b9b8ad8040f5d03c
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780030"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794972"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -272,6 +272,8 @@ La roadmap del progetto richiede l'utilizzo di Power automatizzate, che viene pr
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Progetto per il Web e per il dataverse Microsoft
 
 Project per il Web richiede l'utilizzo del dataverse Microsoft per l'archiviazione dei dati. Viene effettuato il provisioning di un database di Microsoft dataverse come parte della sottoscrizione di un progetto. I diritti sulla funzionalità di Microsoft dataverse sono limitati all'archiviazione e all'accesso ai dati per il supporto del progetto per il Web. La funzionalità di Microsoft dataverse richiesta da Project viene visualizzata come **servizio dati comune per** il piano del servizio di Project nella sezione **app** dell'interfaccia di amministrazione di Microsoft 365.
+
+Per i clienti del progetto con cinque (5) o più progetti per le licenze Web, è possibile distribuire progetti per i clienti Web in ambienti di produzione e sandbox di Power Platform.
 
 ### <a name="data-backup-and-retention"></a>Backup e conservazione dei dati
 
