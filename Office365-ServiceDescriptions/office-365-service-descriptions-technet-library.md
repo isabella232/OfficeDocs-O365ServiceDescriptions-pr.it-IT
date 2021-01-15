@@ -13,18 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 e Office 365 sono servizi basati su cloud che consentono di soddisfare le esigenze dell'organizzazione per una robusta sicurezza, affidabilità e produttività degli utenti.
-ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
-ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
+ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49687887"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871159"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrizione dei servizi di Office 365 e Microsoft 365 
 
 Microsoft 365 e Office 365 sono servizi basati su cloud che consentono di soddisfare le esigenze dell'organizzazione per una robusta sicurezza, affidabilità e produttività degli utenti. 
   
-Negli argomenti di questa raccolta vengono fornite descrizioni dettagliate dei servizi e delle funzionalità disponibili con Microsoft 365 e Office 365. Per confrontare le funzionalità tra i piani, vedere [strumenti potenti per supportare l'organizzazione](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descrizione del servizio pertinente nell'elenco seguente. 
+Negli articoli di questa raccolta vengono fornite descrizioni dettagliate dei servizi e delle funzionalità disponibili con Microsoft 365 e Office 365. Per informazioni sulle applicazioni aziendali Microsoft Dynamics 365, vedere [documentazione relativa a Microsoft dynamics 365](https://docs.microsoft.com/dynamics365/).
+
+Per confrontare le funzionalità tra i piani, vedere [strumenti potenti per supportare l'organizzazione](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descrizione del servizio pertinente nell'elenco seguente. 
   
 Per informazioni e articoli sul supporto, vedere [Office help & Training](https://support.office.com/), [documentazione di Office per amministratori e professionisti it](https://docs.microsoft.com/office/)e [Microsoft 365 Help Center per gli amministratori e i professionisti IT](https://docs.microsoft.com/microsoft-365/).
   
@@ -79,12 +81,9 @@ Per iniziare, vedere le descrizioni dei seguenti servizi:
 
 - [Indicazioni per l'assegnazione di licenze di Microsoft 365 per sicurezza e conformità](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
-- [Descrizione del servizio Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
 
 > [!NOTE]
 > <sup>1</sup> Include la disponibilità delle [funzionalità della famiglia di prodotti](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), ad esempio Office Delve, Microsoft MyAnalytics, Microsoft Sway e Microsoft Teams.
->
-> Per ulteriori informazioni sulle app aziendali Microsoft 365 Dynamics, vedere <https://docs.microsoft.com/dynamics365/> .
   
 ## <a name="disclaimer"></a>Dichiarazione di non responsabilità
 
