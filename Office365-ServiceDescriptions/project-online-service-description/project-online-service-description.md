@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online è una soluzione flessibile online per la gestione dei portfolio di progetti (PPM) e il lavoro quotidiano. Recapitato tramite Office 365, Project online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione di priorità e la gestione di Projects e investimenti del portafoglio di progetto, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: 961aa648ccd5cf0f143016baddf659ae9d5082b4
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794972"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905149"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -38,7 +38,7 @@ Project per il Web è l'offerta più recente di Microsoft per il lavoro basato s
 
 Il progetto per il Web è basato sulla piattaforma Microsoft Power. La piattaforma di alimentazione è costituita da PowerApps, Power Automate, Power BI e Microsoft dataverse. Il progetto per i dati Web è memorizzato nel dataverse Microsoft. 
 
-Project per il Web è disponibile tramite tre abbonamenti: Project Plan 1, Project Plan 3 e Project Plan 5. Le funzionalità elencate nel [progetto per la sezione funzionalità Web](#project-for-the-web-features) interagiscono solo con i dati del progetto per l'archivio dati Web.
+Project per il Web è disponibile tramite tre abbonamenti: Project Plan 1, Project Plan 3 e Project Plan 5. Le funzionalità elencate in [Project per le funzionalità Web](#project-for-the-web-features) interagiscono solo con i dati del progetto per l'archivio dati Web.
 
 ### <a name="project-online"></a>Project Online
  
@@ -46,7 +46,7 @@ Project online è una soluzione flessibile online per la gestione dei portfolio 
 
 Project online è basato sulla piattaforma SharePoint e archivia i dati nell'archivio dati di SharePoint.
 
-Project online è disponibile tramite due abbonamenti: Project Plan 3 e Project Plan 5. Le funzionalità elencate nella sezione [Project Online features](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
+Project online è disponibile tramite due abbonamenti: Project Plan 3 e Project Plan 5. Le funzionalità elencate nelle [funzionalità di Project Online](#project-online-features) interagiscono solo con i dati nell'archivio dati di Project Online SharePoint.
 
 La funzionalità membro del team per Project online è disponibile tramite una sottoscrizione di Project Online Essentials o Project Plan 1. Project Online Essentials è un abbonamento *componente aggiuntivo* per i membri del team per i clienti che dispongono di sottoscrizioni di Project Plan 3 o Project Plan 5. Le sottoscrizioni Project Online Essentials e Project Plan 1 conferiscono ai membri del team un'interfaccia Web per eseguire gli aggiornamenti di attività e di tempo per i progetti gestiti in Project online.
 
@@ -242,7 +242,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati dell'a
 |Ordinamento e raggruppamento | Utilizzare l'ordinamento personalizzato e il raggruppamento per ottenere una visualizzazione mirata del progetto, delle attività e delle risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorse per tenere conto dei dati importanti per la propria organizzazione e i propri progetti. |
-|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi i piani di progetto, i team e le assegnazioni. |
 |importazione/esportazione di file con estensione MPP | Creare nuovi progetti da file con estensione MPP esistenti o creare un file con estensione MPP di un progetto esistente. |
@@ -274,6 +274,14 @@ La roadmap del progetto richiede l'utilizzo di Power automatizzate, che viene pr
 Project per il Web richiede l'utilizzo del dataverse Microsoft per l'archiviazione dei dati. Viene effettuato il provisioning di un database di Microsoft dataverse come parte della sottoscrizione di un progetto. I diritti sulla funzionalità di Microsoft dataverse sono limitati all'archiviazione e all'accesso ai dati per il supporto del progetto per il Web. La funzionalità di Microsoft dataverse richiesta da Project viene visualizzata come **servizio dati comune per** il piano del servizio di Project nella sezione **app** dell'interfaccia di amministrazione di Microsoft 365.
 
 Per i clienti del progetto con cinque (5) o più progetti per le licenze Web, è possibile distribuire progetti per i clienti Web in ambienti di produzione e sandbox di Power Platform.
+
+| Capacità inclusa/attribuita                                      | Progetto P1 | Progetto P3 | Progetto P5 |
+|--------------------------------------------------------------------|------------|------------|------------|
+| Database dataverse (precedentemente Common Data Service): incluso/tenant | 3 GB        | 5 GB        | 5 GB        |
+| Database di dataverse: Attributes/licenza di sottoscrizione utente (USL)        | 50 MB       | 250 MB      | 250 MB      |
+| Log di dataverse: incluso/tenant                                     | 2 GB        | 2 GB        | 2 GB        |
+| File di dataverse: incluso/tenant                                    | 20 GB       | 20 GB       | 20 GB       |
+| File di dataverse: attribuita/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
 ### <a name="data-backup-and-retention"></a>Backup e conservazione dei dati
 

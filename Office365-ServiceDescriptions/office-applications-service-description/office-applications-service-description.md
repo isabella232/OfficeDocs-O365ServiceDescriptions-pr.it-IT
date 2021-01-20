@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 è un servizio di sottoscrizione che fornisce all'utente l'ultima versione delle applicazioni desktop di Office già note, come Word, Excel e PowerPoint.
-ms.openlocfilehash: 25f90724a1dd5170b85e970e16cb0c264cd03009
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 26b3b91800dd4c06c584abc443d54fdb8af89ca1
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276810"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905159"
 ---
 # <a name="office-applications-service-description"></a>Descrizione del servizio applicazioni Office
 
@@ -36,8 +36,8 @@ Utilizzare la tabella seguente per confrontare la disponibilità delle funzional
   
 Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiuntivi che è possibile acquistare per l'abbonamento. Un componente aggiuntivo fornisce ulteriori funzionalità all'abbonamento. Per ulteriori informazioni, vedere [acquistare o modificare un componente aggiuntivo](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-| Applicazione/caratteristica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps for enterprise | App Microsoft 365 per le aziende | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| Applicazione/caratteristica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps for enterprise | Microsoft 365 Apps for business | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Applicazioni di Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
@@ -50,11 +50,11 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Sì  <br/> |Sì<sup>12</sup> <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[App di Windows 10](office-applications.md#windows-10-apps) <br/> |Sì  <br/> |Sì  <br/> |No  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |[Office per Microsoft 365 per Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |No  <br/> |No  <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|[Office Mobile per iPhone/iPad](office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sì<sup>13</sup> <br/>|Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |
-|[Office Mobile per Android](office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sì<sup>13</sup> <br/> |Sì<sup>13</sup>  <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |
-|[Office Mobile per Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sì  <br/> |Sì<sup>13</sup> <br/> |Sì <sup>13</sup> <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>14</sup>  <br/> |
+|[Office Mobile per iPhone/iPad](office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |No <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |
+|[Office Mobile per Android](office-applications.md#office-mobile-for-android) <br/> |No  <br/> |No <br/> |No  <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |
+|[Office Mobile per Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |No  <br/> |No <br/> |Sì <br/>|Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |Sì  <br/> |Sì  <br/> |Sì<sup>13</sup>  <br/> |
 |Outlook per Android  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|**Valore Enterprise** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**App Microsoft 365 per grandi imprese** <br/> |**App Microsoft 365 per le aziende** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
+|**Valore Enterprise** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**App Microsoft 365 per grandi imprese** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |5 installazioni per ogni utente su PC o Mac  <br/> |No  <br/> |No  <br/>| No  <br/> |Sì<sup>7</sup> <br/> |Sì<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì<sup>7</sup> <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> | 
 |Provisioning dell'account utente automatizzato  <br/> |N/D  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Interfaccia utente multilingue  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |Sì  <br/> |Sì <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
@@ -77,7 +77,7 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 |Supporto non in linea per le applicazioni client  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/>  |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Power Map per Excel  <br/> |N.<sup>4</sup> <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |PowerPivot per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
-|Power Query per Excel  <br/> |N.<sup>15</sup>  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|Power Query per Excel  <br/> |N.<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Power View per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Impostazioni roaming  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Attivazione di computer condivisi  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
@@ -88,8 +88,8 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
    
 > [!NOTE]
 ><sup>+</sup> Quando si installa Office 365 o Office 2019, è possibile ottenere OneNote per Windows 10 per impostazione predefinita. Per ulteriori informazioni, vedere [domande frequenti su OneNote](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
-><sup>++</sup> OneNote app accesso ai blocchi appunti su SharePoint Server, SharePoint Online, OneDrive for business e Office 365. <br/>
-><sup>+++</sup> Il supporto di BHO è una tecnologia di estensione per Internet Explorer. <br/>
+><sup>++</sup> OneNote app accesso ai blocchi appunti su SharePoint Server, SharePoint Online, OneDrive for business e Office 365. <br/>
+><sup>+++</sup> Il supporto di BHO è una tecnologia di estensione per Internet Explorer. <br/>
 ><sup>1</sup> Con la presente versione di Office sono supportate le funzionalità di archiviazione e conformità ma i piani Exchange Online e SharePoint Online non sono inclusi e devono essere acquistati separatamente o utilizzati con un server equivalente supportato in locale.<br/>
 <sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Microsoft 365 Apps for Enterprise, che non è incluso in Microsoft 365 Business Basic, Microsoft 365 business standard, Office 365 E1, Office 365 Education o Office 365 F3.<br/>
 <sup>3</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate.<br/>
@@ -102,9 +102,8 @@ Alcuni dei piani di Microsoft 365 for business dispongono di componenti aggiunti
 <sup>10</sup> le funzionalità di Skype for business in Office 365 F3 includono Skype for business piano 1 (nessuna condivisione desktop, nessuna condivisione delle app, non è possibile avviare conferenze audio, video o Web in più parti, non è possibile pianificare le riunioni).<br/> 
 <sup>11</sup> Access è attualmente disponibile se si è in corso il canale o la versione di destinazione per Deferred Channel. Per gli utenti di Deferred Channel, Access sarà disponibile a giugno 2017. Per ulteriori informazioni, vedere [accesso incluso come parte delle sottoscrizioni di Microsoft 365 e Office 365](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
 <sup>12</sup> InfoPath 2013 è ancora supportato ed è disponibile nell'installazione di Office Professional Plus 2016, ma non è disponibile una nuova versione per Office 2016.<br/> 
-<sup>13</sup> supporto solo per le funzionalità di modifica di base.<br/> 
-<sup>14</sup> limitato ai dispositivi con schermi integrati che misurano 10,1 pollici o meno in diagonale.<br/> 
-<sup>15</sup> Power query è un componente aggiuntivo gratuito che può essere scaricato qui: [Microsoft Power query per Excel](https://www.microsoft.com/download/details.aspx?id=39379). Una volta abilitata, la funzionalità Power query è disponibile dalla scheda Power query sulla barra multifunzione.
+<sup>13</sup> limitato ai dispositivi con schermi integrati che misurano 10,1 pollici o meno in diagonale.<br/> 
+<sup>14</sup> Power query è un componente aggiuntivo gratuito che può essere scaricato qui: [Microsoft Power query per Excel](https://www.microsoft.com/download/details.aspx?id=39379). Una volta abilitata, la funzionalità Power query è disponibile dalla scheda Power query sulla barra multifunzione.
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Disponibilità delle applicazioni di Office nei piani di Office per Mac
 
