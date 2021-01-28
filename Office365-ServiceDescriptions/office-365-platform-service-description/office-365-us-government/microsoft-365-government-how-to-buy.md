@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica del governo Microsoft 365 e vengono descritte le opzioni di acquisto.
-ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
-ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
+ms.openlocfilehash: b099adfdd4f392bcdf1f9aa383601a49026cb5c1
+ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49939201"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50031250"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-come acquistare
 
@@ -154,7 +154,7 @@ Eseguire la procedura seguente per acquistare le licenze governative di Microsof
 - Fiume rosso
 - SAIC
 - Smartronix
-- Servizi Summit 7
+- Summit 7
 - TechTrend, Inc.
 - Vexcel
 

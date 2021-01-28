@@ -1,5 +1,5 @@
 ---
-title: Service health and continuity
+title: Integrità dei servizi e continuità
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori di Microsoft possono visualizzare lo stato dei servizi e scoprire quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo.
-ms.openlocfilehash: 3a5c2680a68a437e69cc7994a1e519fae957dc2a
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: bb9e789cd8f72a792ce43f952d35c3f47323b2f8
+ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661254"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50031260"
 ---
-# <a name="service-health-and-continuity"></a>Service health and continuity
+# <a name="service-health-and-continuity"></a>Integrità dei servizi e continuità
 
 Gli amministratori di Microsoft possono visualizzare lo stato dei servizi e scoprire quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo.
   
@@ -47,7 +47,7 @@ Lo spostamento in un servizio cloud non implica la possibilità di perdere la ca
 
 | T1 | Q2 | Q3 | Q4 |
 |:-----|:-----|:-----|:-----|
-| 99,98% <br/> | 99.99%<br/> | 99,97%<br/> |<br/> |
+| 99,98% <br/> | 99.99%<br/> | 99,97%<br/> | 99,97%<br/> |
 
 <br>
 
