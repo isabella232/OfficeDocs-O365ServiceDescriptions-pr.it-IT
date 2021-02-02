@@ -12,63 +12,63 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
-description: Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
-ms.openlocfilehash: 7b43af4d2938eea638670f15d807cef53d963d1e
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+description: Si sta cercando un confronto delle funzionalità delle sottoscrizioni che includono Exchange Online? In tal caso, l'articolo di descrizione del servizio Exchange Online è quello necessario. Verranno inoltre appresi i requisiti di sistema, nonché i requisiti di archiviazione e destinatario.
+ms.openlocfilehash: 43ee44473f69fd2d5183be8b481a58329d0bf23d
+ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780020"
+ms.lasthandoff: 02/01/2021
+ms.locfileid: "50069261"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
-Si sta cercando un confronto tra le caratteristiche degli abbonamenti che includono Exchange Online? In caso affermativo, l'articolo relativo alla descrizione del servizio Exchange Online è quello di cui hai bisogno. Sono inoltre disponibili informazioni sui requisiti di sistema e sui requisiti di archiviazione e destinatario.
+Si sta cercando un confronto delle funzionalità delle sottoscrizioni che includono Exchange Online? In tal caso, l'articolo di descrizione del servizio Exchange Online è quello necessario. Verranno inoltre appresi i requisiti di sistema, nonché i requisiti di archiviazione e destinatario.
   
 > [!NOTE]
-> Se si ha bisogno di assistenza per un'attività o se si sta risolvendo un problema, è possibile trovare utili le risorse seguenti: <br/>
-[Messaggi di posta elettronica](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) per la creazione e l'invio di posta elettronica. <br/> 
-[Gestire la posta elettronica e i calendari](https://docs.microsoft.com/office365/admin/email/email)<br/> 
-[Informazioni sull'assistente supporto e ripristino di Microsoft](https://diagnostics.office.com/)<br/> 
+> Se è necessaria assistenza per un'attività o se si sta risoluzione di un problema, potrebbero essere utili le risorse seguenti: <br/>
+[Posta elettronica](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) per informazioni sulla creazione e l'invio di messaggi di posta elettronica. <br/> 
+[Gestire posta elettronica e calendari](https://docs.microsoft.com/office365/admin/email/email)<br/> 
+[Informazioni sull'Assistente supporto e ripristino Microsoft](https://diagnostics.office.com/)<br/> 
 [Rapporti di mancato recapito della posta elettronica in Exchange Online](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Guida di Exchange Online](https://docs.microsoft.com/exchange/exchange-online)
   
 Microsoft Exchange Online è una soluzione di messaggistica ospitata che offre le funzionalità di Microsoft Exchange Server sotto forma di servizio basato sul cloud. Questo servizio fornisce agli utenti un accesso alla posta elettronica, al calendario, ai contatti e alle attività dai PC, dal Web e dai dispositivi mobili. Si integra perfettamente con Active Directory, permettendo agli amministratori di utilizzare i criteri di gruppo, insieme ad altri strumenti di amministrazione, per gestire le funzionalità di Exchange Online nel proprio ambiente.
   
-Le organizzazioni che sottoscrivono il servizio Exchange Online mantengono il controllo sui servizi di messaggistica che offrono agli utenti, ma senza il fardello operativo del software di server locale. Con i piani ospitati di Exchange Online descritti in questo documento, la posta elettronica è ospitata su server che supportano più clienti simultaneamente. Questi server sono ospitati nei data center di Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o su Internet.
+Le organizzazioni che sottoscrivono il servizio Exchange Online mantengono il controllo sui servizi di messaggistica che offrono agli utenti, ma senza il fardello operativo del software di server locale. Con i piani ospitati di Exchange Online descritti in questo documento, la posta elettronica è ospitata su server che supportano più clienti simultaneamente. Questi server sono ospitati in data center Microsoft e sono accessibili per gli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o tramite Internet.
   
-Per confrontare le funzionalità tra i piani, vedere [strumenti potenti per supportare l'organizzazione](https://products.office.com/business/compare-more-office-365-for-business-plans). Per un confronto tra i piani per Office 365 Germany, vedere i [piani di sottoscrizione di Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
+Per confrontare le funzionalità tra piani, vedere [Potenti strumenti per supportare l'organizzazione.](https://products.office.com/business/compare-more-office-365-for-business-plans) Per un confronto tra i piani per Office 365 Germany, vedere i [piani di sottoscrizione di Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> È possibile esportare, salvare e stampare le pagine nelle descrizioni dei servizi Microsoft. Informazioni su come [esportare i risultati della ricerca contenuto](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> È possibile esportare, salvare e stampare le pagine nelle descrizioni dei servizi Microsoft. Informazioni su come [esportare i risultati di Ricerca contenuto.](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 
   
 ## <a name="whats-new-in-exchange-admin-center"></a>Novità nell'interfaccia di amministrazione di Exchange
 
-Per informazioni sulle nuove funzionalità nell'interfaccia di amministrazione di Exchange, vedere [What ' s New in Exchange Admin Center](https://docs.microsoft.com/exchange/whats-new).
+Per informazioni sulle nuove funzionalità nell'interfaccia di amministrazione di Exchange, vedere Novità [dell'interfaccia di amministrazione di Exchange.](https://docs.microsoft.com/exchange/whats-new)
   
 ## <a name="plans-for-exchange-online"></a>Piani per Exchange Online
 
-Microsoft 365 è disponibile in una vasta gamma di piani per soddisfare al meglio le esigenze della propria organizzazione. Per informazioni sui diversi piani, incluse le opzioni di piano autonomo e le informazioni sullo spostamento da un piano a un altro, vedere [Opzioni di piano di Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Microsoft 365 è disponibile in un'ampia gamma di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sui diversi piani, incluse le opzioni dei piani autonomi e le informazioni sul passaggio da un piano a un altro, vedere Opzioni dei piani di [Office 365.](../office-365-platform-service-description/office-365-plan-options.md)
   
 Ogni utente che accede al servizio Exchange Online deve essere assegnato a un piano di sottoscrizione e ogni sottoscrizione deve avere la propria cassetta postale. Le cartelle e i messaggi in queste cassette postali risiedono su un computer con Exchange Server presso un data center di Microsoft.
   
 Le sottoscrizioni degli utenti non sono obbligatorie per le sale conferenza e le cassette postali condivise. Questi particolari tipi di cassette postali non hanno credenziali di accesso. Sono degli utenti muniti di apposita licenza e con le autorizzazioni appropriate alla gestione e all'accesso a queste cassette postali per delega.
 
 **Diritti di utilizzo della cassetta postale utente di Microsoft 365 F1** <br/>
-Microsoft 365 F1 non include i diritti per una cassetta postale di Exchange. Per consentire l'utilizzo di una squadra completa, le licenze F1 di M365 possono essere consentite con il piano di servizio Exchange Online K1 abilitato. Anche se il piano del servizio Exchange Online K1 provisionerà una cassetta postale per l'utente, gli utenti di M365 F1 non potranno utilizzare la cassetta postale. Si consiglia di disabilitare Outlook sul Web tramite [questi passaggi](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) e chiedere agli utenti di non accedere alla cassetta postale di Exchange tramite altri metodi.
+Microsoft 365 F1 non include i diritti per una cassetta postale di Exchange. Per abilitare un'esperienza completa di Teams, le licenze di M365 F1 possono essere disponibili con il piano di servizio K1 di Exchange Online abilitato. Anche se il piano di servizio K1 di Exchange Online eseguirà il provisioning di una cassetta postale per l'utente, gli utenti M365 F1 non hanno il diritto di utilizzare la cassetta postale. È consigliabile disabilitare Outlook [](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) sul Web tramite questa procedura e chiedere agli utenti di non accedere alla cassetta postale di Exchange tramite altri metodi.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisiti di sistema per Exchange Online
 
-Per i requisiti di sistema, il servizio basato su abbonamento mensile per aziende, istituti scolastici e organizzazioni governative, vedere [Microsoft 365 e Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
+Per i requisiti di sistema, il servizio mensile basato su sottoscrizione disponibile per le aziende, l'istruzione e le organizzazioni governative, vedere Risorse di [Microsoft 365 e Office.](https://products.office.com/office-system-requirements/#Office365forBEG)
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limiti relativi all'archiviazione e ai destinatari per Exchange Online
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limiti di archiviazione e destinatari per Exchange Online
 
-Per informazioni sui limiti di archiviazione e destinatari disponibili nei piani di sottoscrizione di Exchange Online, vedere [limiti di Exchange Online](exchange-online-limits.md).
+Per informazioni sui limiti di archiviazione e destinatari disponibili nei piani di sottoscrizione di Exchange Online, vedere [Limiti di Exchange Online.](exchange-online-limits.md)
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Se l'organizzazione dispone attualmente di abbonamenti a Office 365 Small Business, Office 365 Small Business Premium o Office 365 medie imprese, visitare il centro messaggi nell'interfaccia di amministrazione di Microsoft 365 o contattare il provider per ulteriori informazioni su come il nuovo piano delle app di Microsoft 365 ha un impatto sull'utente. Per ulteriori informazioni sulla nuova famiglia di piani di Microsoft 365 Apps, vedere [nuovi progetti per le piccole e medie imprese](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
+Se l'organizzazione ha attualmente abbonamenti a Office 365 Small Business, Office 365 Small Business Premium o Office 365 Midsize Business, visitare il Centro messaggi nell'interfaccia di amministrazione di Microsoft 365 o parlare con il provider per ulteriori dettagli sull'impatto del nuovo piano App di Microsoft 365. Per ulteriori informazioni sulla nuova famiglia di piani di Microsoft 365 Apps, vedere Nuovi piani per piccole e [medie imprese.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
-Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, vedere [Descrizione del servizio microsoft 365 Business Premium](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md).<br/><br/>
+Per informazioni sulla disponibilità delle funzionalità in Microsoft 365 Business Premium, vedere Descrizione del servizio [Microsoft 365 Business Premium.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
   
 | Funzionalità | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -85,12 +85,12 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Archiviazione di cassette postali di Exchange Online| No|No|Sì|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|No|
 |Archiviazione basata su cloud delle cassette postali locali|Sì <sup>1</sup>|Sì<sup>1</sup>|No|No|Sì|Sì|Sì|No|
 |Messaging Records Management (MRM) |Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Criteri di conservazione, etichette e tag manuali |No|No|No|No|Sì|Sì|Sì|Sì|
+|Criteri, etichette e tag di conservazione manuali |No|No|No|No|Sì|Sì|Sì|Sì|
 |Crittografia dei dati inattivi (BitLocker)|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì|Sì|Sì|Sì|Sì|Sì|
-|IRM con Protezione delle informazioni di Azure|No|Sì|N.<sup>2</sup>|N.<sup>2</sup>|N.<sup>2</sup>|Sì|Sì|N.<sup>2</sup>|
+|IRM con Protezione delle informazioni di Azure|No|Sì|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|Sì|Sì|No<sup>2</sup>|
 |IRM mediante Windows Server AD RMS|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|
-|Crittografia dei messaggi di Office 365|Sì<sup>13</sup>|Sì<sup>13</sup>|N.<sup>2</sup>|N.<sup>2</sup>|N.<sup>2</sup>|Sì|Sì|N.<sup>2</sup>|
-|Chiave cliente<sup>22</sup>|No|No|No|No|No|No|Sì|No||
+|Crittografia dei messaggi di Office 365|Sì<sup>13</sup>|Sì<sup>13</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|Sì|Sì|No<sup>2</sup>|
+|Customer Key<sup>22</sup>|No|No|No|No|No|No|Sì|No||
 |S/MIME|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì|Sì|Sì|Sì|Sì|Sì||
 |Archiviazione sul posto e conservazione per controversia legale|Sì|Sì|No|No|No|Sì|Sì|No|
 |eDiscovery sul posto|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì|
@@ -104,7 +104,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Customize anti-malware policies|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>7</sup>|
 |Quarantena - gestione da parte dell'amministrazione|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>7</sup>|
 |Quarantena - autogestione dell'utente finale|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
-|Microsoft Defender per Office 365|No|Sì|No|No|No|No|Sì|No|
+|Microsoft Defender per Office 365|No|No|No|No|No|No|Sì|No|
 |**[Flusso di posta](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Routing personalizzato della posta in uscita|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Secure messaging with a trusted partner|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -115,14 +115,14 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Avvisi di capacità|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Messaggi secondari|Sì|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Suggerimenti messaggio|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Accesso delegato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|N.<sup>24</sup>|
+|Accesso delegato|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No<sup>24</sup>|
 |Regole di Posta in arrivo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Account connessi|Sì|Sì|Sì|Sì|Sì<sup>17</sup>|Sì<sup>17</sup>|Sì<sup>17</sup>|Sì<sup>17</sup>|
-|Cassette postali inattive|No|No|N.<sup>9</sup>|N.<sup>9</sup>|N.<sup>9</sup>|Sì|Sì|No <sup>9</sup>|
+|Cassette postali inattive|No|No|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|Sì|Sì|No <sup>9</sup>|
 |Rubrica offline|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Criteri delle rubriche|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Rubrica gerarchica|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
-|Elenchi di indirizzi e elenco indirizzi globale|Sì|Sì|Sì|Sì|Sì<sup>18</sup>|Sì<sup>18</sup>|Sì<sup>18</sup>|Sì<sup>18</sup>|
+|Elenchi indirizzi ed elenco indirizzi globale|Sì|Sì|Sì|Sì|Sì<sup>18</sup>|Sì<sup>18</sup>|Sì<sup>18</sup>|Sì<sup>18</sup>|
 |Gruppi di Microsoft 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Gruppi di distribuzione|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Contatti esterni (globali)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -133,9 +133,9 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Risposte Fuori sede|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Condivisione del calendario|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**[Funzionalità di creazione dei report e strumenti di risoluzione problemi](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Rapporti dell'interfaccia di amministrazione di Microsoft 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
-|Cartella di lavoro di Excel Reporting|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
-|Report sui servizi Web|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
+|Report dell'interfaccia di amministrazione di Microsoft 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
+|Cartella di lavoro per la creazione di report di Excel|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
+|Report servizi Web|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Message trace|No|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Report di controllo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>3</sup>|
 |Rapporti di messaggistica unificata|Sì|Sì|No|No|No|Sì|Sì|No|
@@ -152,62 +152,62 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Mobilità e sicurezza di base per Microsoft 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |POP e IMAP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì <sup>12</sup>|
 |SMTP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Supporto dell'applicazione EWS|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
+|Supporto delle applicazioni EWS|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No|
 |**[Servizi di messaggistica vocale](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Segreteria telefonica<sup>23</sup>|Sì|Sì|No|No|No|Sì|Sì|No|
-|Integrazione tra segreteria telefonica e FAX di terze parti<sup>23</sup>|Sì|Sì|No|No|No|Sì|Sì|No|
+|Segreteria<sup>telefonica 23</sup>|Sì|Sì|No|No|No|Sì|Sì|No|
+|Integrazione tra il sistema di caselle vocali e fax di terze<sup>parti 23</sup>|Sì|Sì|No|No|No|Sì|Sì|No|
 |Interoperabilità della segreteria telefonica di terze parti<sup>23</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Integrazione di Skype for business|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Integrazione di Skype for Business|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**[Disponibilità elevata e continuità aziendale](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Replica delle cassette postali nei data center|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Recupero di cassette postali eliminate|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Recupero di elementi eliminati|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Ripristino di un unico elemento|Sì|Sì|Sì|Sì|Sì|Sì|Sì|No||
 |**[Interoperabilità, connettività e compatibilità](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Presenza di Skype for business in OWA e Outlook|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Presenza di Skype for Business in OWA e Outlook|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Interoperabilità di SharePoint|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Supporto per la connettività EWS<sup>26</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Supporto per l'inoltro SMTP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Supporto della connettività EWS<sup>26</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Supporto dell'inoltro SMTP|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**[Installazione e amministrazione di Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Accesso al portale di Microsoft Office 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Accesso all'interfaccia di amministrazione di Microsoft 365|No|No|Sì|Sì|Sì|Sì|Sì|Sì|
 |Accesso all'interfaccia di amministrazione di Exchange|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Accesso a Windows PowerShell remoto|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Criteri di ActiveSync per i dispositivi mobili|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Report di utilizzo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Report sull'utilizzo|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**Estensione del servizio: personalizzazione, componenti aggiuntivi e risorse**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Componenti aggiuntivi di Outlook e MAPI di Outlook|Sì<sup>19</sup>|Sì|Sì<sup>19</sup>|Sì<sup>19</sup>|Sì<sup>19</sup>|Sì<sup>19</sup>|Sì<sup>19</sup>|No|
 
-<sup>1</sup> richiede una sottoscrizione di archiviazione Exchange Online per ogni utente della cassetta postale locale che dispone di un archivio basato su cloud. <br/>
-<sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Microsoft 365 Apps for Enterprise, che non è incluso in Microsoft 365 Business Basic, Microsoft 365 business standard, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F3. <br/>
+<sup>1</sup> Richiede una Archiviazione Exchange Online per ogni utente della cassetta postale locale che dispone di un archivio basato su cloud. <br/>
+<sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e abiliterà le funzionalità supportate di Information Rights Management (IRM). Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Microsoft 365 Apps for enterprise, che non è incluso in Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F3. <br/>
 <sup>3</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate. <br/>
-<sup>4</sup> le regole di trasporto sono costituite da criteri flessibili, che consentono di definire le condizioni e le eccezioni e le azioni da intraprendere in base ai criteri. I criteri e le azioni disponibili sono diversi tra Exchange Online e Microsoft Exchange Server 2013. Per un elenco dei criteri e delle azioni disponibili, vedere i corrispondenti argomenti per ciascun prodotto. <br/>
-<sup>5</sup> per Exchange 2013, DLP richiede una licenza CAL (Client Access License) di Exchange Enterprise. Per ulteriori informazioni sulle licenze CAL e sui server, vedere [domande frequenti sulle licenze di Exchange](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business). <br/>
-<sup>6</sup> exchange Server 2013 ha la maggior parte delle stesse funzionalità di protezione da posta indesiderata incorporate come exchange server 2010. Per informazioni sui vantaggi del filtro di posta indesiderata ospitato su Exchange nelle offerte locali, vedere [vantaggi delle funzionalità di protezione da posta indesiderata in Exchange Online Protection su Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
-<sup>7</sup> accessibile solo tramite accesso diretto all'interfaccia di gestione di Exchange Admin Center (EAC). <br/>
-<sup>8</sup> Exchange Server 2013 utilizza solo il motore antimalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/>
-<sup>9</sup> è possibile acquistare una sottoscrizione EOA per ciascuna cassetta postale che richiede la funzionalità di archiviazione o la cassetta postale inattiva.<br/>
-<sup>10</sup> SharePoint deve essere distribuito nell'organizzazione di Exchange locale. <br/>
+<sup>4</sup> Le regole di trasporto sono basate su criteri flessibili, che consentono di definire condizioni ed eccezioni, e azioni da eseguire in base ai criteri. I criteri e le azioni disponibili sono diversi tra Exchange Online e Microsoft Exchange Server 2013. Per un elenco dei criteri e delle azioni disponibili, vedere i corrispondenti argomenti per ciascun prodotto. <br/>
+<sup>5</sup> Per Exchange 2013, DLP richiede una licenza CAL (Client Access License) Enterprise di Exchange. Per ulteriori informazioni sulle licenze CAL e sulle licenze server, vedere domande frequenti [sulle licenze di Exchange.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
+<sup>6</sup> Exchange Server 2013 ha la maggior parte delle stesse funzionalità di protezione da posta indesiderata incorporate di Exchange Server 2010. Per informazioni sui vantaggi del filtro posta indesiderata ospitato in Exchange sulle offerte locali, vedere Vantaggi delle funzionalità di protezione da posta indesiderata [in Exchange Online Protection over Exchange Server 2013.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
+<sup>7</sup> Accessibile solo tramite accesso diretto all'interfaccia di gestione dell'interfaccia di amministrazione di Exchange( EAC). <br/>
+<sup>8</sup> Exchange Server 2013 usa solo il motore antimalware Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/>
+<sup>9</sup> Una sottoscrizione EOA può essere acquistata separatamente per ogni cassetta postale che richiede la funzionalità di archiviazione o della cassetta postale inattiva.<br/>
+<sup>10</sup> SharePoint deve essere distribuito nell'organizzazione Exchange locale. <br/>
 <sup>11</sup> SharePoint Online deve essere incluso nel piano di sottoscrizione. <br/>
-<sup>12</sup> pop è supportato, ma IMAP No. <br/>
-<sup>13</sup> supportato per i clienti di Exchange Server 2013 locali che hanno acquistato Azure Information Protection. La crittografia dei messaggi di Office 365 richiede ai clienti locali di instradare la posta elettronica tramite Exchange Online, utilizzando Exchange Online Protection per il filtraggio della posta elettronica oppure stabilendo un flusso di posta ibrido. <br/>
-<sup>14</sup> i clienti di Exchange Server 2013 devono scaricare e installare SP1 per poter accedere all'impronta digitale dei documenti e ai suggerimenti per i criteri in OWA e OWA per i dispositivi. <br/>
-<sup>15</sup> la crittografia unità BitLocker è supportata per Exchange Server 2013, ma un amministratore deve abilitare la funzionalità. <br/>
-<sup>16</sup> Microsoft 365 Business Basic, Microsoft 365 business standard e Office 365 Enterprise F3 non forniscono diritti di accesso per l'utilizzo con i server locali. Per essere compatibile, i clienti devono acquistare o aver precedentemente acquistato i CAL appropriati o eseguire l'aggiornamento a una SKU Enterprise che fornisca questi diritti di accesso. <br/>
-<sup>17</sup> gli account connessi sono supportati per gli &amp; account IMAP POP, ma sono disattivati per Outlook.com (Hotmail). <br/>
-<sup>18</sup> l'utilizzo dei cmdlet in Exchange Online PowerShell per personalizzare gli elenchi di indirizzi predefiniti e l'elenco indirizzi globale predefinito (GAL, Global Address List) non è supportato. <br/>
-<sup>19</sup> alcune web part di terze parti e alcuni componenti aggiuntivi potrebbero non essere disponibili. <br/>
-<sup>20</sup> per eDiscovery, è necessaria una query separata per il cloud locale. <br/>
-<sup>21</sup> la tabella indica se il client funziona o meno con i piani associati. Ciò non vuol dire che i client sono necessariamente inclusi nell'acquisto di tali piani. <br/>
-<sup>22</sup> per ulteriori informazioni, vedere [crittografia del servizio con la chiave del cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> il supporto per la messaggistica unificata di Exchange Online per sistemi PBX di terze parti tramite connessioni dirette da parte dei clienti gestiti da SBCS si concluderà nell'aprile 2019. Per ulteriori informazioni, vedere il Blog del team [di Exchange sospensione del supporto per Session Border Controllers nella messaggistica unificata di Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
-<sup>24</sup> un utente di F3 non è in grado di aggiungere delegati alla propria cassetta postale, ma può accedere a un'altra cassetta postale (incluse le cassette postali condivise) ed eseguire tutte le azioni che sono state delegate.<br/>
-<sup>25</sup> è necessario un abbonamento a Microsoft 365 Apps for Enterprise anche per exchange Server 2013 ed exchange server 2016.<br/>
-<sup>26</sup> supporto applicazione EWS applicato alla rappresentazione dell'applicazione EWS.
+<sup>12</sup> POP è supportato, ma IMAP no. <br/>
+<sup>13</sup> Supportato per i Exchange Server 2013 locali che acquistano Azure Information Protection. La crittografia dei messaggi di Office 365 richiede ai clienti locali di instradare la posta elettronica tramite Exchange Online, utilizzando Exchange Online Protection per il filtro della posta elettronica o stabilendo un flusso di posta ibrido. <br/>
+<sup>14</sup> Exchange Server 2013 i clienti devono scaricare e installare SP1 per accedere all'impronta digitale dei documenti e ai suggerimenti per i criteri in OWA e OWA per dispositivi. <br/>
+Crittografia unità BitLocker a <sup>15</sup> è supportata per Exchange Server 2013, ma un amministratore deve abilitare la funzionalità. <br/>
+<sup>16</sup> Microsoft 365 Business Basic, Microsoft 365 Business Standard e Office 365 Enterprise F3 non forniscono diritti di accesso per l'utilizzo con server locali. Per essere compatibile, i clienti devono acquistare o aver precedentemente acquistato i CAL appropriati o eseguire l'aggiornamento a una SKU Enterprise che fornisca questi diritti di accesso. <br/>
+<sup>17</sup> Gli account connessi sono supportati per gli account POP IMAP, ma &amp; disabilitati per Outlook.com (Hotmail). <br/>
+<sup>18</sup> L'utilizzo di cmdlet in PowerShell di Exchange Online per personalizzare gli elenchi indirizzi predefiniti e l'elenco indirizzi globale predefinito non è supportato. <br/>
+<sup>19</sup> Alcune web part e componenti aggiuntivi di terze parti potrebbero non essere disponibili. <br/>
+<sup>20</sup> Per eDiscovery, è necessaria una query separata per l'ambiente locale e il cloud. <br/>
+<sup>21</sup> La tabella indica se il client funziona o meno con i piani associati. Ciò non vuol dire che i client sono necessariamente inclusi nell'acquisto di tali piani. <br/>
+<sup>22</sup> Per ulteriori informazioni, vedere [Crittografia del servizio con Customer Key.](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
+<sup>23</sup> Il supporto della messaggistica unificata di Exchange Online per sistemi PBX di terze parti tramite connessioni dirette da SBC gestiti dai clienti terminerà ad aprile 2019. Per ulteriori informazioni, vedere il blog del team di Exchange sulla sospensione del supporto per [session border controller nella messaggistica](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)unificata di Exchange Online. <br/>
+<sup>24</sup> Un utente F3 non può aggiungere delegati alla propria cassetta postale, ma può accedere a un'altra cassetta postale (incluse le cassette postali condivise) ed eseguire qualsiasi azione delegata.<br/>
+<sup>25</sup> È necessario un abbonamento per Microsoft 365 Apps for enterprise anche per Exchange Server 2013 e Exchange Server 2016.<br/>
+<sup>26 Supporto</sup> delle applicazioni EWS applicato alla rappresentazione dell'applicazione EWS.
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilità delle funzionalità tra i piani autonomi di Exchange Online
 
-| Funzionalità | Exchange Server 2013 | Exchange Server 2016 | Exchange Online, piano &nbsp; 1 | Exchange Online (piano &nbsp; 2) | Chiosco Exchange Online |
+| Funzionalità | Exchange Server 2013 | Exchange Server 2016 | Exchange Online Piano &nbsp; 1 | Exchange Online Piano &nbsp; 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Pianificazione e distribuzione](planning-and-deployment.md)**||||||
 |Distribuzione ibrida supportata|Sì|Sì|Sì|Sì|Sì<sup>23</sup>|
@@ -218,35 +218,35 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Autorizzazioni basate sui ruoli|Sì|Sì|Sì|Sì|No|
 |Gruppi di ruoli|Sì|Sì|Sì|Sì|No|
 |Criteri di assegnazione dei ruoli|Sì|Sì|Sì|Sì|No|
-|**[Conformità e criteri dei messaggi](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Conformità e criteri dei messaggi](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Archiviazione di cassette postali di Exchange Online|Sì|No|Sì|Sì|No|
 |Archiviazione basata su cloud delle cassette postali locali|Sì <sup>5</sup>|Sì <sup>5</sup>|No|Sì|No|
 |Messaging Records Management (MRM) |Sì|Sì|Sì|Sì|Sì|
-|Criteri di conservazione, etichette e tag manuali|No|No|Sì|Sì|Sì|
+|Criteri, etichette e tag di conservazione manuali|No|No|Sì|Sì|Sì|
 |Crittografia dei dati inattivi (BitLocker)|Sì<sup>16</sup>|Sì<sup>16</sup>|Sì|Sì|Sì|
-|IRM con Protezione delle informazioni di Azure|No|Sì|N.<sup>11</sup>|N.<sup>11</sup>|N.<sup>11</sup>|
+|IRM con Protezione delle informazioni di Azure|No|Sì|No<sup>11</sup>|No<sup>11</sup>|No<sup>11</sup>|
 |IRM mediante Windows Server AD RMS|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|Sì<sup>12</sup>|
-|Crittografia dei messaggi di Office 365|Sì<sup>13</sup>|Sì<sup>13</sup>|N.<sup>11</sup>|N.<sup>11</sup>|N.<sup>11</sup>|
+|Crittografia dei messaggi di Office 365|Sì<sup>13</sup>|Sì<sup>13</sup>|No<sup>11</sup>|No<sup>11</sup>|No<sup>11</sup>|
 |S/MIME|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì|Sì|Sì|
-|Archiviazione sul posto e conservazione per controversia legale|Sì|Sì|N.<sup>17</sup>|Sì|No|
+|Archiviazione sul posto e conservazione per controversia legale|Sì|Sì|No<sup>17</sup>|Sì|No|
 |eDiscovery sul posto|Sì<sup>22</sup>|Sì<sup>22</sup>|Sì<sup>22</sup>|Sì<sup>22</sup>|Sì<sup>22</sup>|
 |Regole di trasporto|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|Sì <sup>1</sup>|
 |Prevenzione della perdita di dati|Sì<sup>10, 14</sup>|Sì<sup>10, 14</sup>|No|Sì|No|
 |Inserimento nel journal|Sì|Sì|Sì|Sì|Sì|
-|**[Protezione antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Protezione antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Protezione da posta indesiderata integrata|Sì <sup>2</sup>|Sì <sup>2</sup>|Sì|Sì|Sì|
 |Customize anti-spam policies|Sì ma solo tramite PowerShell|Sì ma solo tramite PowerShell|Sì|Sì|Sì <sup>8</sup>|
 |Protezione antimalware integrata|Sì <sup>7</sup>|Sì <sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|Sì<sup>7</sup>|
 |Customize anti-malware policies|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Quarantena - gestione da parte dell'amministrazione|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Quarantena - autogestione dell'utente finale|No|No|Sì|Sì|Sì|
-|**[Flusso di posta](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Flusso di posta](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Routing personalizzato della posta in uscita|Sì|Sì|Sì|Sì|Sì|
 |Secure messaging with a trusted partner|Sì|Sì|Sì|Sì|Sì|
 |Conditional mail routing|No|No|Sì|Sì|Sì|
 |Aggiunta di un partner a un elenco di indirizzi attendibili in ingresso|No|No|Sì|Sì|Sì|
 |Routing posta ibrida|Sì|Sì|Sì|Sì|Sì|
-|**[Destinatari](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Destinatari](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Avvisi di capacità|Sì|Sì|Sì|Sì|Sì|
 |Messaggi secondari|No|No|Sì|Sì|Sì|
 |Suggerimenti messaggio|Sì|Sì|Sì|Sì|Sì|
@@ -257,7 +257,7 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Rubrica offline|Sì|Sì|Sì|Sì|Sì|
 |Criteri delle rubriche|Sì|Sì|Sì|Sì|Sì|
 |Rubrica gerarchica|Sì|Sì|Sì|Sì|No|
-|Elenchi di indirizzi e elenco indirizzi globale|Sì|Sì|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì<sup>20</sup>|
+|Elenchi indirizzi ed elenco indirizzi globale|Sì|Sì|Sì<sup>20</sup>|Sì<sup>20</sup>|Sì<sup>20</sup>|
 |Gruppi di Office 365|No|No|Sì<sup>24</sup>|Sì<sup>24</sup>|No|
 |Gruppi di distribuzione|Sì|Sì|Sì|Sì|Sì|
 |Contatti esterni (globali)|Sì|Sì|Sì|Sì|Sì|
@@ -267,74 +267,74 @@ Per la disponibilità delle funzionalità in Microsoft 365 Business Premium, ved
 |Gestione delle sale riunioni|Sì|Sì|Sì|Sì|Sì|
 |Risposte Fuori sede|Sì|Sì|Sì|Sì|Sì|
 |Condivisione del calendario|Sì|Sì|Sì|Sì|Sì <sup>18</sup>|
-|**[Funzionalità di creazione dei report e strumenti di risoluzione problemi](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
-|Rapporti dell'interfaccia di amministrazione di Microsoft 365|No|No|Sì|Sì|Sì|
-|Cartella di lavoro di Excel Reporting|No|No|Sì|Sì|Sì|
-|Report sui servizi Web|No|No|Sì|Sì|Sì|
+|**[Funzionalità di creazione dei report e strumenti di risoluzione problemi](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
+|Report dell'interfaccia di amministrazione di Microsoft 365|No|No|Sì|Sì|Sì|
+|Cartella di lavoro per la creazione di report di Excel|No|No|Sì|Sì|Sì|
+|Report servizi Web|No|No|Sì|Sì|Sì|
 |Message trace|No|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Report di controllo|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Rapporti di messaggistica unificata|Sì|Sì|No|Sì|No|
-|**[Condivisione e collaborazione](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Condivisione e collaborazione](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Condivisione federata|Sì|Sì|Sì|Sì|Sì|
 |Cassette postali del sito|Sì <sup>3</sup>|Sì <sup>3</sup>|Sì <sup>4</sup>|Sì <sup>4</sup>|Sì <sup>4</sup>|
 |Cartelle pubbliche|Sì|Sì|Sì|Sì|No|
-|**[Client e dispositivi mobili](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Client e dispositivi mobili](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Microsoft Outlook|Sì|Sì|Sì|Sì|No|
 |Outlook sul web|Sì|Sì|Sì|Sì|Sì|
 |Exchange ActiveSync|Sì|Sì|Sì|Sì|Sì|
 |POP e IMAP|Sì|Sì|Sì|Sì|Sì <sup>9</sup>|
 |SMTP|Sì|Sì|Sì|Sì|Sì|
-|Supporto dell'applicazione EWS|Sì|Sì|Sì|Sì|No|
+|Supporto delle applicazioni EWS|Sì|Sì|Sì|Sì|No|
 |Outlook per Mac|Sì|Sì|Sì|Sì|No|
 |Outlook per iOS e Android<sup>21</sup>|Sì<sup>25</sup>|Sì<sup>25</sup>|Sì|Sì|Sì|
-|**[Servizi di messaggistica vocale](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|**[Servizi di messaggistica vocale](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Posta vocale|Sì|Sì|No|Sì|No|
 |Interoperabilità della segreteria telefonica di terze parti|Sì|Sì|Sì|Sì|Sì|
-|Integrazione di Skype for business|Sì|Sì|Sì|Sì|Sì|
-|**[Disponibilità elevata e continuità aziendale](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|Integrazione di Skype for Business|Sì|Sì|Sì|Sì|Sì|
+|**[Disponibilità elevata e continuità aziendale](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Replica delle cassette postali presso i data center|No|No|Sì|Sì|Sì|
 |Recupero di cassette postali eliminate|Sì|Sì|Sì|Sì|Sì|
 |Recupero di elementi eliminati|Sì|Sì|Sì|Sì|Sì|
 |Ripristino di un unico elemento|Sì|Sì|Sì|Sì|No|
-|**[Interoperabilità, connettività e compatibilità](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
-|Presenza di Skype for business in OWA e Outlook|Sì|Sì|Sì|Sì|Sì|
+|**[Interoperabilità, connettività e compatibilità](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
+|Presenza di Skype for Business in OWA e Outlook|Sì|Sì|Sì|Sì|Sì|
 |Interoperabilità di SharePoint|Sì|Sì|Sì|Sì|Sì|
-|Supporto per la connettività EWS<sup>26</sup>|Sì|Sì|Sì|Sì|Sì|
-|Supporto per l'inoltro SMTP|Sì|Sì|Sì|Sì|Sì|
-|**[Installazione e amministrazione di Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
+|Supporto della connettività EWS<sup>26</sup>|Sì|Sì|Sì|Sì|Sì|
+|Supporto dell'inoltro SMTP|Sì|Sì|Sì|Sì|Sì|
+|**[Installazione e amministrazione di Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
 |Accesso al portale di Microsoft Office 365|No|No|Sì|Sì|Sì|
 |Accesso all'interfaccia di amministrazione di Microsoft 365|No|No|Sì|Sì|Sì|
 |Accesso all'interfaccia di amministrazione di Exchange|Sì|Sì|Sì|Sì|Sì <sup>8</sup>|
 |Accesso a Windows PowerShell remoto|Sì|Sì|Sì|Sì|Sì|
 |Criteri di ActiveSync per i dispositivi mobili|Sì|Sì|Sì|Sì|Sì|
-|Report di utilizzo|Sì|Sì|Sì|Sì|Sì|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online, piano &nbsp; 1**|**Exchange Online (piano &nbsp; 2)**|**Chiosco Exchange Online**|
-|Web part di Outlook sul Web|Sì|Sì|Sì|Sì|Sì|
+|Report sull'utilizzo|Sì|Sì|Sì|Sì|Sì|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Piano &nbsp; 1**|**Exchange Online Piano &nbsp; 2**|**Chiosco Exchange Online**|
+|Outlook sul Web Web part|Sì|Sì|Sì|Sì|Sì|
 |Componenti aggiuntivi di Outlook e MAPI di Outlook|Sì|Sì|Sì<sup>21</sup>|Sì<sup>21</sup>|No|
 
-<sup>1</sup> le regole di trasporto sono costituite da criteri flessibili, che consentono di definire le condizioni e le eccezioni e le azioni da intraprendere in base ai criteri. I criteri e le azioni disponibili sono diversi tra Exchange Online e Microsoft Exchange Server 2013. Per un elenco dei criteri e delle azioni disponibili, vedere i corrispondenti argomenti per ciascun prodotto. <br/>
-<sup>2</sup> per informazioni sui vantaggi del filtro di posta indesiderata ospitata da Exchange nelle offerte locali, vedere [vantaggi delle funzionalità di protezione da posta indesiderata in Exchange Online Protection su Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
-<sup>3</sup> SharePoint deve essere distribuito nell'organizzazione di Exchange locale. <br/>
+<sup>1</sup> Le regole di trasporto sono basate su criteri flessibili, che consentono di definire condizioni ed eccezioni, e azioni da eseguire in base ai criteri. I criteri e le azioni disponibili sono diversi tra Exchange Online e Microsoft Exchange Server 2013. Per un elenco dei criteri e delle azioni disponibili, vedere i corrispondenti argomenti per ciascun prodotto. <br/>
+<sup>2</sup> Per informazioni sui vantaggi del filtro posta indesiderata ospitato da Exchange sulle offerte locali, vedere Vantaggi delle funzionalità di protezione da posta indesiderata [in Exchange Online Protection over Exchange Server 2013.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
+<sup>3</sup> SharePoint deve essere distribuito nell'organizzazione Exchange locale. <br/>
 <sup>4</sup> SharePoint Online deve essere incluso nel piano di sottoscrizione. <br/>
-<sup>5</sup> richiede una sottoscrizione di archiviazione Exchange Online per ogni utente della cassetta postale locale che dispone di un archivio basato su cloud. <br/>
-<sup>6</sup> è possibile acquistare una sottoscrizione di archiviazione Exchange Online separatamente per ogni cassetta postale che richiede la funzionalità delle cassette postali inattive. <br/>
-<sup>7</sup> Exchange Server 2013 utilizza solo il motore antimalware di Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/>
-<sup>8</sup> accessibile solo tramite accesso diretto all'interfaccia di gestione di Exchange Admin Center (EAC). <br/>
+<sup>5</sup> Richiede una Archiviazione Exchange Online per ogni utente della cassetta postale locale che dispone di un archivio basato su cloud. <br/>
+<sup>6</sup> Una sottoscrizione Archiviazione Exchange Online può essere acquistata separatamente per ogni cassetta postale che richiede la funzionalità cassetta postale inattiva. <br/>
+<sup>7</sup> Exchange Server 2013 usa solo il motore antimalware Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware. <br/>
+<sup>8</sup> Accessibile solo tramite accesso diretto all'interfaccia di gestione dell'interfaccia di amministrazione di Exchange ( EAC). <br/>
 <sup>9</sup> IMAP non è supportato. <br/>
-<sup>10</sup> per Exchange 2013 o versione successiva, DLP richiede una licenza CAL (Client Access License) di Exchange Enterprise. Per ulteriori informazioni sulle licenze CAL e sui server, vedere [domande frequenti sulle licenze di Exchange](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business). <br/>
-<sup>11</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e consente di abilitare le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Microsoft 365 Apps for Enterprise, che non è incluso in Microsoft 365 Business Basic, Microsoft 365 business standard, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F3. La crittografia dei messaggi di Office 365 dipende dalla protezione delle informazioni di Azure. <br/>
-<sup>12</sup> Windows Server ad RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate. <br/>
-<sup>13</sup> supportato per i clienti che eseguono Exchange Server 2013 o versioni successive che acquistano Azure Information Protection. La crittografia dei messaggi di Office 365 richiede ai clienti locali di instradare la posta elettronica tramite Exchange Online, utilizzando Exchange Online Protection per il filtraggio della posta elettronica oppure stabilendo un flusso di posta ibrido. <br/>
-<sup>14</sup> i clienti che eseguono Exchange Server 2013 o versione successiva devono scaricare e installare l'aggiornamento cumulativo più recente (Cu), o il cu immediatamente precedente, per accedere alle impronte digitali dei documenti e ai suggerimenti per i criteri in OWA e OWA per i dispositivi. <br/>
-<sup>15</sup> disponibile per i clienti che eseguono Exchange Server 2013 o versione successiva. <br/>
-<sup>16</sup> la crittografia unità BitLocker è supportata per Exchange Server 2013, ma un amministratore deve abilitare la funzionalità. <br/>
-<sup>17</sup> Exchange Online piano 1 ha un [limite di dimensioni per la cassetta postale e l'archivio](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits). Archiviazione Exchange Online per il componente aggiuntivo di Exchange Online aggiunge un archivio basato su cloud illimitato e un [blocco sul posto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold). <br/>
-<sup>18</sup> è possibile accedere ai calendari del chiosco di Exchange Online o condividerli solo tramite OWA. <br/>
-<sup>19</sup> gli account connessi sono supportati per gli &amp; account IMAP POP, ma sono disattivati per Outlook.com (Hotmail). <br/>
-<sup>20</sup> non è supportato l'utilizzo di cmdlet in Exchange Online PowerShell per personalizzare gli elenchi di indirizzi predefiniti e l'elenco indirizzi globale predefinito (GAL, Global Address List). <br/>
-<sup>21</sup> alcune web part di terze parti e alcuni componenti aggiuntivi potrebbero non essere disponibili. <br/>
-<sup>22</sup> per eDiscovery, è necessaria una query separata per il cloud locale. <br/>
-<sup>23</sup> Exchange Online Kiosk non fornisce diritti di accesso per l'utilizzo con i server locali. Per essere compatibile, i clienti devono acquistare o aver precedentemente acquistato i CAL appropriati o eseguire l'aggiornamento a una SKU Enterprise che fornisca questi diritti di accesso. <br/>
-<sup>24</sup> i gruppi di Microsoft 365 sono disponibili con funzionalità ridotte.<br/>
-<sup>25</sup> è necessario un abbonamento a Microsoft 365 Apps for Enterprise anche per exchange Server 2013 ed exchange server 2016.<br/>
-<sup>26</sup> supporto applicazione EWS applicato alla rappresentazione dell'applicazione EWS.
+<sup>10</sup> Per Exchange 2013 o versione successiva, DLP richiede una licenza CAL (Client Access License) Enterprise di Exchange. Per ulteriori informazioni sulle licenze CAL e sulle licenze server, vedere domande frequenti [sulle licenze di Exchange.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
+<sup>11</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e abiliterà le funzionalità supportate di Information Rights Management (IRM). Alcune funzionalità di Azure Information Protection richiedono un abbonamento a Microsoft 365 Apps for enterprise, che non è incluso in Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education o Office 365 Enterprise F3. La crittografia dei messaggi di Office 365 dipende da Azure Information Protection. <br/>
+<sup>12</sup> Windows Server AD RMS è un server locale che deve essere acquistato e gestito separatamente per abilitare le funzionalità IRM supportate. <br/>
+<sup>13 Supportato</sup> per i clienti che eseguono Exchange Server 2013 o versione successiva che acquistano Azure Information Protection. La crittografia dei messaggi di Office 365 richiede ai clienti locali di instradare la posta elettronica tramite Exchange Online, utilizzando Exchange Online Protection per il filtro della posta elettronica o stabilendo un flusso di posta ibrido. <br/>
+<sup>14</sup> I clienti che eseguono Exchange Server 2013 o versioni successive devono scaricare e installare l'aggiornamento cumulativo più recente (CU) o l'aggiornamento cumulativo immediatamente precedente per accedere all'impronta digitale del documento e ai suggerimenti per i criteri in OWA e OWA per i dispositivi. <br/>
+<sup>15</sup> Disponibile per i clienti che eseguono Exchange Server 2013 o versione successiva. <br/>
+Crittografia unità BitLocker a <sup>16</sup> è supportata Exchange Server 2013, ma un amministratore deve abilitare la funzionalità. <br/>
+<sup>17</sup> Exchange Online Piano 1 ha un [limite di dimensione per la cassetta postale e l'archivio.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) Archiviazione Exchange Online per il componente aggiuntivo Exchange Online aggiunge un archivio illimitato basato sul cloud e archiviazione [sul posto.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
+<sup>18</sup> chiosco Exchange Online è possibile accedere o condividere i calendari solo tramite OWA. <br/>
+<sup>19</sup> Gli account connessi sono supportati per gli account POP IMAP, ma disabilitati per &amp; Outlook.com (Hotmail). <br/>
+<sup>20</sup> L'utilizzo di cmdlet in PowerShell di Exchange Online per personalizzare gli elenchi indirizzi predefiniti e l'elenco indirizzi globale predefinito non è supportato. <br/>
+<sup>21</sup> Alcune web part e componenti aggiuntivi di terze parti potrebbero non essere disponibili. <br/>
+<sup>22</sup> Per eDiscovery, è necessaria una query separata per l'ambiente locale e il cloud. <br/>
+<sup>23</sup> chiosco Exchange Online non fornisce diritti di accesso per l'utilizzo con server locali. Per essere compatibile, i clienti devono acquistare o aver precedentemente acquistato i CAL appropriati o eseguire l'aggiornamento a una SKU Enterprise che fornisca questi diritti di accesso. <br/>
+<sup>24</sup> Gruppi di Microsoft 365 è disponibile con funzionalità ridotte.<br/>
+<sup>25</sup> È necessario un abbonamento per Microsoft 365 Apps for enterprise anche per Exchange Server 2013 e Exchange Server 2016.<br/>
+<sup>26 Supporto</sup> delle applicazioni EWS applicato alla rappresentazione dell'applicazione EWS.
