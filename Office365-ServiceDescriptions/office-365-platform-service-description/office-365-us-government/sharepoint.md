@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle funzionalità di SharePoint per i clienti cloud del governo statunitense.
-ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: 505be0509dbef718e64983377c8dc75a23adfd26
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919749"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145983"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint per gli ambienti del governo statunitense
 
@@ -38,7 +38,7 @@ L'obiettivo è fornire tutte le funzionalità commerciali e di SharePoint agli a
 Non esistono differenze note tra le funzionalità per sviluppatori per i clienti commerciali e quelle per i clienti cloud per enti pubblici.
 
 - Le connessioni ad applicazioni esterne, ad esempio le origini dati per i componenti aggiuntivi, sono limitate alle origini che si trovano all'interno dei limiti di sicurezza del sistema supportati dall'ambiente per enti pubblici.
-- Servizi di integrazione applicativa (BCS) è supportata per gli scenari di connettività in cui le origini dati rimangono raggiungibili entro i limiti di sicurezza per il servizio cloud.
+- Servizi di integrazione applicativa (BCS) è supportata per gli scenari di connettività in cui le origini dati rimangono raggiungibili entro il limite di sicurezza per il servizio cloud.
 
 Se si utilizzano applicazioni di terze parti nei siti, esaminare le dichiarazioni sulla privacy e conformità fornite da terze parti durante la valutazione dell'uso appropriato di questi servizi per l'organizzazione. Le applicazioni e i servizi di terze parti potrebbero includere l'archiviazione, la trasmissione e l'elaborazione dei dati dei clienti dell'organizzazione in sistemi di terze parti esterni al cloud per enti pubblici e pertanto non coperti dagli impegni di conformità e protezione dei dati. 
 
@@ -52,7 +52,7 @@ Ecco le differenze tra le funzionalità di amministrazione IT per i clienti comm
 - Mover.io non è ancora supportato
 - Multi-geo non è disponibile per tutti i clienti del cloud per enti pubblici
 
-Per informazioni sulla migrazione FastTrack, vedere la descrizione del servizio [Office 365 US Government.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)
+Per informazioni sulla migrazione fasttrack, vedere la descrizione del servizio [Office 365 US Government.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>Funzionalità di sicurezza e conformità
 
@@ -62,7 +62,7 @@ Per informazioni sulle funzionalità di sicurezza e conformità, vedere il [Cent
 
 Per informazioni sulle funzionalità di Azure Active Directory per enti pubblici, vedere la documentazione relativa a [Azure Government Security + Identity.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
-Per informazioni sulle funzionalità di Azure Information Protection per enti pubblici, vedere la descrizione del [servizio Azure Information Protection Premium per enti pubblici.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+Per informazioni sulle funzionalità di Azure Information Protection per enti pubblici, vedere la descrizione del servizio [Azure Information Protection Premium per enti pubblici.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
 
 ## <a name="sites-and-content"></a>Siti e contenuto
 
@@ -72,6 +72,7 @@ Ecco le differenze tra i siti e le funzionalità dei contenuti per i clienti com
 - La raccolta di risorse dell'organizzazione non è disponibile
 - L'aggiunta di elenchi e pagine a Teams non è disponibile per i clienti GCC High e DoD
 - La funzionalità graph all'interno di SharePoint Online per GCC High è attualmente disabilitata. I servizi che si basano su Microsoft Graph potrebbero non essere attualmente disponibili
+- Le funzionalità che si basano sulle connessioni ai servizi Internet, ad esempio la scheda immagini di borsa, non funzionano come previsto
 
 ## <a name="search-features"></a>Caratteristiche per la ricerca
 
@@ -89,6 +90,6 @@ Il passaggio al cloud offre esperienze trasformative con i controlli di amminist
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>Distribuire SharePoint per la collaborazione
 
-Dopo aver configurato l'organizzazione nel cloud microsoft us government, seguire il percorso di distribuzione consigliato descritto nel Centro risorse per l'adozione [di SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Assicurati di interagire con i tuoi campioni dell'adozione e della gestione delle modifiche.
+Dopo aver configurato l'organizzazione nel cloud microsoft us government, seguire il percorso di distribuzione consigliato descritto nel Centro risorse per l'adozione [di SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Assicurati di impegnarti con i tuoi campioni dell'adozione e della gestione delle modifiche.
 È inoltre possibile collaborare con [FastTrack](https://www.microsoft.com/fasttrack) o con il partner scelto per implementare il servizio agli utenti.
 Visitare il Centro protezione [Microsoft](https://www.microsoft.com/trust-center) per saperne di più su come Microsoft si approccia a sicurezza, privacy e conformità, principi fondamentali per il modo in cui microsoft consente alle organizzazioni di servire i propri clienti.

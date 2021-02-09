@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education.
-ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069271"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50146003"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 è disponibile in un'ampia gamma di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
   
-Microsoft 365 offre un sistema completo, tra cui Office 365, Windows 10 ed Enterprise Mobility and Security. Nella tabella seguente sono elencate le funzionalità di Office 365 per Education A1, A3 e A5 insieme alle funzionalità di Microsoft 365 per Education A3 e A5 corrispondenti. Per confrontare le funzionalità tra i piani aziendali e aziendali, vedere Confrontare i piani [di Microsoft 365 per](https://go.microsoft.com/fwlink/?linkid=799177)le aziende oppure, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente nelle descrizioni dei servizi di Microsoft [365 e Office 365.](../office-365-service-descriptions-technet-library.md) Per cercare articoli e informazioni sul supporto tecnico, vedere la Guida [di &amp; Office.](https://support.office.com/)
+Microsoft 365 offre un sistema completo, tra cui Office 365, Windows 10 ed Enterprise Mobility and Security. Nella tabella seguente sono elencate le funzionalità di Office 365 per Education A1, A3 e A5 insieme alle funzionalità di Microsoft 365 per Education A3 e A5 corrispondenti. Per confrontare le funzionalità tra i piani aziendali e aziendali, vedere Confrontare i piani di [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)per le aziende oppure, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente nelle descrizioni dei servizi di [Microsoft 365 e Office 365.](../office-365-service-descriptions-technet-library.md) Per cercare articoli e informazioni sul supporto tecnico, vedere la Guida [di &amp; Office.](https://support.office.com/)
   
 ## <a name="services-and-features"></a>Servizi e caratteristiche
 
@@ -72,14 +72,14 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |Ricerca contenuto|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Core eDiscovery (inclusa l'esenzione e l'esportazione)|No|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Advanced eDiscovery|No|No|Sì|No|Sì|No|No|No|No|
-|Prevenzione della perdita dei dati (DLP) per posta elettronica e file|Sì|Sì|Sì|Sì|Sì|No|No|No|No|
+|Prevenzione della perdita dei dati (DLP) per posta elettronica e file|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Endpoint DLP|No|No|No|No|Sì|No|No|No|No|
 |Prevenzione della perdita dei dati delle comunicazioni (chat di Teams)|No|No|Sì|No|Sì|No|No|No|No|
 |Conformità delle comunicazioni|No|No|Sì|No|Sì|No|No|No|No|
 |Customer Key|No|No|Sì|No|Sì|No|No|No|No|
 |Controllo di base|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Controllo avanzato|No|No|Sì|No|Sì|No|No|No|No|
-|Crittografia dei messaggi di office 365 di base|Sì<sup>9</sup>|Sì|Sì|Sì|Sì|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|
+|Crittografia dei messaggi di Office 365 di base|Sì<sup>9</sup>|Sì|Sì|Sì|Sì|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|
 |Crittografia avanzata dei messaggi di Office 365|No|No|Sì|No|Sì|No|No|No|No|
 |Archivio protetto del cliente|No|No|Sì|No|Sì|No|No|No|No|
 |Gestione dei rischi Insider|No|No|No|No|Sì|No|No|No|No|
@@ -113,7 +113,7 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 > <sup>6</sup> Include Intune. <br/>
 > <sup>Sono inclusi 7</sup> server e licenze CAL per Exchange, SharePoint e Skype for Business. <br/>
 > <sup>8</sup> ECAL o Core CAL, a seconda della versione di A3 acquistata, con A5 sono inclusi i diritti ECAL. <br/>
-> <sup>9</sup> Le app di Microsoft 365 sono necessarie per applicare le protezioni e inviare messaggi di posta elettronica protetti dal desktop di Outlook. <br/>
-> <sup>10 in</sup> precedenza Office 365 Advanced Threat Protection. <br/>
+> <sup>9</sup> App di Microsoft 365 sono necessarie per applicare protezioni e inviare messaggi di posta elettronica protetti da Outlook Desktop. <br/>
+> <sup>10</sup> in precedenza Office 365 Advanced Threat Protection. <br/>
 > <sup>11 In</sup> precedenza Azure Advanced Threat Protection. <br/>
 > <sup>12 In</sup> precedenza Microsoft Defender Advanced Threat Protection. <br/>
