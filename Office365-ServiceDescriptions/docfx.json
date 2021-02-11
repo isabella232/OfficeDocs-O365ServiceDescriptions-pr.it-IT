@@ -24,7 +24,9 @@
           "**/*.png",
           "**/*.jpg",
           "**/*.gif",
-          "**.*.svg"
+          "**.*.svg",
+          "**/*.pdf",
+          "**/*.xlsx"
         ],
         "exclude": [
           "**/obj/**",
@@ -44,8 +46,17 @@
       "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ServiceDescriptions",
       "feedback_product_url": "https://office365.uservoice.com/",
-      "bilingual_type": "hover over"
-
+      "titleSuffix": "Service Descriptions",
+      "bilingual_type": "hover over",
+      "contributors_to_exclude": [ 
+        "rjagiewich", 
+        "traya1", 
+        "rmca14", 
+        "claydetels19", 
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ]
     },
     "fileMetadata": {},
     "template": [],
