@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460305"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572742"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 
@@ -163,7 +163,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 |**[Aggiornamenti del servizio](service-updates.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Notifiche inviate al Centro messaggi quando è necessaria un'azione, viene risolto un problema, vengono distribuite funzionalità o il servizio cambia|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) per alcuni aggiornamenti del servizio|No|--|No|No|No|No|No|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) per alcuni aggiornamenti del servizio|No|No|No|No|No|No|No|
 |Opzione per attivare Rilascio assegnato|No|--|No|No|Sì|Sì|Sì|
 |**[Guida e formazione](help-and-training.md)**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Guida online|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -208,7 +208,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 <sup>2</sup> In Office 365 Enterprise F3 gestito da 21Vianet, il video di Office 365 è limitato alla sola visualizzazione (nessuna pubblicazione o condivisione). <br/>
 <sup>3</sup> Se si utilizza la sincronizzazione della directory con active directory locale, è necessario eliminare gli account o modificare le password utilizzando Active Directory locale, anziché il portale di Office 365 o il modulo di Azure Active Directory per Windows PowerShell. <br/>
 <sup>4</sup> Non ancora disponibile in Office 365 gestito da 21Vianet, ma a breve. <br/>
-<sup>5</sup> È possibile avere un solo sito Web pubblico con Office 365, a meno che non sia stato eseguito l'aggiornamento da una versione precedente di Office 365. In tal caso, sono presenti due siti Web pubblici, dei quali solo uno può essere ospitato con un nome di dominio personalizzato. Per altre informazioni sull'uso dei due siti Web per le sottoscrizioni aziendali, vedere Usare i due siti Web pubblici di [Office 365.](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5) Se si ha un abbonamento diverso, per ulteriori informazioni sui siti Web pubblici, vedere la Guida del sito Web [pubblico per Office 365.](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)<br/>
+<sup>5</sup> È possibile avere un solo sito Web pubblico con Office 365, a meno che non sia stato eseguito l'aggiornamento da una versione precedente di Office 365. In tal caso, sono presenti due siti Web pubblici, dei quali solo uno può essere ospitato con un nome di dominio personalizzato. Per altre informazioni sull'uso dei due siti Web per gli abbonamenti per le aziende, vedere Usare i due siti Web pubblici di [Office 365.](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5) Se si ha un abbonamento diverso, per ulteriori informazioni sui siti Web pubblici, vedere la Guida del sito Web [pubblico per Office 365.](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)<br/>
 <sup>6</sup> La riduzione delle postazioni acquistate con uno sconto a termine può essere soggetta a una tariffa di risoluzione anticipata. This is not applicable for subscriptions paid on a monthly basis.<br/>
 <sup>7 Piani</sup> di Office 365 Education non supportano le modifiche delle postazione delle licenze dall'interfaccia di amministrazione di Microsoft 365.<br/>
 <sup>8</sup> Microsoft Sway non è attualmente disponibile per i clienti in determinate aree geografiche. Alcuni piani legacy di Office 365 che non sono più sul mercato a partire da agosto 2015 potrebbero anche non avere accesso a Microsoft Sway. <br/>
@@ -219,7 +219,7 @@ Nella seguente tabella sono riportate tutte le funzionalità della piattaforma p
 <sup>12</sup> Alcuni contenuti potrebbero non essere applicabili a Office 365 gestito da 21Vianet.<br/>
 <sup>13</sup> Esperienza ridotta. Se l'organizzazione dipende da Internet Explorer 8 o Internet Explorer 9 per accedere alle app e ai servizi Web meno recenti, è consigliabile eseguire l'aggiornamento a Internet Explorer 11 e valutare la modalità Enterprise per Internet Explorer 11. Questo aggiornamento consente di fornire una migliore compatibilità con le versioni precedenti delle applicazioni Web legacy. <br/>
 <sup>14</sup> L'autenticazione a più fattori non è attualmente supportata in Outlook mobile (iOS e Android). <br/>
-<sup>15</sup> Blocco appunti di OneNote per la classe è disponibile tramite 21Vianet, ma la barra degli strumenti blocco appunti di OneNote per la classe non è disponibile per le app di Windows 10, iPad o OneNote per il Web. <br/>
+<sup>15</sup> Blocco appunti di OneNote per la classe è disponibile tramite 21Vianet, ma la barra degli strumenti Blocco appunti di OneNote per la classe non è disponibile per le app di Windows 10, iPad o OneNote per il Web. <br/>
 <sup>16</sup> Office 365 gestito da 21Vianet supporta solo i criteri di conservazione. Le etichette di conservazione o i criteri di conservazione per i percorsi di Yammer e Teams non sono supportati. Per ulteriori informazioni, vedere [Introduzione ai criteri di conservazione.](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention) <br/>
 <sup>17</sup> Audit in Microsoft 365 offre alle organizzazioni visibilità su molti tipi di attività verificate in diversi servizi in Microsoft 365. Usare la ricerca nel log [ &amp; di controllo](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) del Centro sicurezza e conformità per visualizzare le attività degli utenti e degli amministratori nell'organizzazione. È anche possibile usare [l'API Office 365 Management Activity](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal log di controllo unificato. Quando un'attività di controllo viene eseguita da un utente o da un amministratore, viene generato e archiviato un record di controllo nel log di controllo per l'organizzazione del cliente. Il periodo di conservazione di un record di controllo (ed è disponibile per la ricerca nel log di controllo) dipende dall'abbonamento a Office 365 o Microsoft 365 Enterprise del cliente e dal tipo di licenza assegnata a utenti specifici.
 
@@ -303,7 +303,7 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 > [!NOTE]
 > Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
-Nella tabella seguente sono riportati i collegamenti ai confronti tra le funzionalità di Office per il Web e le funzionalità Microsoft Office desktop. Utilizzare i confronti per individuare le funzionalità disponibili in Office per il Web e quindi selezionare il nome della caratteristica per leggere una breve descrizione del funzionamento di tale caratteristica.
+Nella tabella seguente sono riportati i collegamenti ai confronti tra le funzionalità di Office per il Web e le funzionalità Microsoft Office desktop. Utilizzare i confronti per individuare le funzionalità disponibili in Office per il Web e quindi selezionare il nome della caratteristica per leggere una breve descrizione del funzionamento di tale funzionalità.
 
 > [!NOTE]
 > - È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle di confronto non costituiscono un elenco completo delle funzionalità di Microsoft Office.
@@ -430,9 +430,9 @@ Nella tabella seguente sono elencati i servizi Exchange Online disponibili nei p
 <sup>1</sup> Alcune web part e componenti aggiuntivi di terze parti potrebbero non essere disponibili.
 <br/><sup>2</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate.
 <br/><sup>3</sup> Le regole del flusso di posta (note anche come regole di trasporto) sono basate su criteri flessibili che consentono di definire condizioni, eccezioni e azioni da intraprendere in base ai criteri. Le condizioni, le eccezioni e le azioni disponibili sono diverse tra Exchange Online e Microsoft Exchange Server. Per ulteriori informazioni, vedere gli argomenti corrispondenti per ogni prodotto.
-<br/><sup>4</sup> Accessibile solo tramite accesso diretto all'interfaccia di gestione dell'interfaccia di amministrazione di Exchange ( EAC).
+<br/><sup>4</sup> Accessibile solo tramite accesso diretto all'interfaccia di gestione dell'interfaccia di amministrazione di Exchange( EAC).
 <br/><sup>5</sup> Exchange Server 2013 usa solo il motore antimalware Microsoft. Exchange Online usa più motori antimalware per analizzare i messaggi in entrata, in uscita e interni alla ricerca di malware.
-<br/><sup>6</sup> Una sottoscrizione EOA può essere acquistata separatamente per ogni cassetta postale che richiede la funzionalità cassetta postale inattiva.
+<br/><sup>6</sup> Una sottoscrizione EOA può essere acquistata separatamente per ogni cassetta postale che richiede la funzionalità della cassetta postale inattiva.
 <br/><sup>7</sup> Per eDiscovery, è necessaria una query separata per l'ambiente locale e il cloud.
 <br/><sup>8</sup> POP è supportato, ma IMAP no.
 <br/><sup>9</sup> Office 365 Business Essentials e Business Premium non forniscono diritti di accesso per l'utilizzo con server locali. Per essere compatibile, i clienti devono acquistare o aver precedentemente acquistato i CAL appropriati o eseguire l'aggiornamento a una SKU Enterprise che fornisca questi diritti di accesso.
@@ -701,7 +701,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |Esplorazione in base a facet|No|No|No|No|No|No<sup>7</sup>|No|
 |Rendering di immagini|Sì|No|Sì|Sì|No|No|No|
 |WCM: Managed navigation|Sì|No|Sì|Sì|Sì|Sì|Sì|
-|WCM: rendering per dispositivi mobili|Sì|No|Sì|Sì|Sì|Sì|Sì|
+|WCM: rendering di dispositivi mobili|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |WCM: più domini|No|No|No|No|No|No|No|
 |WCM: Recommendations|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |WCM: Search Engine Optimization (SEO)|Sì|No|Sì|Sì|Sì|Sì|Sì|
@@ -813,13 +813,13 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 |**Componenti aggiuntivi**|**Office 365 Business Essentials gestito da 21Vianet**|**Office 365 Business gestito da 21Vianet**|**Office 365 Business Premium gestito da 21Vianet**|**Office 365 A1 gestito da 21Vianet**|**Office 365 Enterprise E1 gestito da 21Vianet**|**Office 365 Enterprise E3 gestito da 21Vianet**|**Office 365 Enterprise F3 gestito da 21Vianet**|
 |Archiviazione aggiuntiva|Sì|No|Sì|Sì|Sì|Sì|Sì|
 |App di azure di cui è stato eseguito il provisioning: Access Services<sup>3</sup>|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|App di azure di cui è stato eseguito il provisioning: codice personalizzato in Azure Lightweight Web Role (LWR)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|App con provisioning di Azure: codice personalizzato in Azure Lightweight Web Role (LWR)|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 
 <sup>1</sup> Per usare la sincronizzazione delle cartelle, è necessario disporre di Office 2013 o versione successiva (edizione Standard o Professional) o di un abbonamento che includa le applicazioni di Office. I piani di Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Educationnon includono sottoscrizioni alle applicazioni desktop di Office. È tuttavia possibile utilizzare la sincronizzazione cartella se Office 2013 o una versione successiva è installato e si è sottoscritto uno di questi piani.
 <br/><sup>2</sup> Gli account kiosk dispongono di limitata funzionalità OneDrive for Business. I clienti con account Kiosk possono utilizzare l'applicazione client di sincronizzazione cartelle OneDrive for Business per sincronizzare le raccolte documenti del sito del team con un computer condiviso e per accedere ai documenti offline. Gli account Kiosk, tuttavia, non includono un sito personale OneDrive for Business e quindi non dispongono di una raccolta personale su OneDrive for Business con 1 TB di spazio di archiviazione online.
 <br/><sup>3</sup> Access 2010 non è supportato.
 <br/><sup>4</sup> Poiché gli utenti con account Kiosk non possono essere amministratori, i tenant che includono utenti con account Kiosk devono disporre di almeno un utente Enterprise per l'accesso all'interfaccia di amministrazione.
-<br/><sup>5</sup> clienti di SharePoint Online devono scaricare e installare l'app di ottimizzazione del modello di classificazione gratuita per creare e personalizzare i modelli di classificazione.
+<br/><sup>5</sup> clienti di SharePoint Online devono scaricare e installare gratuitamente l'app Ottimizzazione modello di classificazione per creare e personalizzare i modelli di classificazione.
 <br/><sup>6</sup> Quando si utilizzano le funzionalità eDiscovery, i requisiti relativi alla concessione delle licenze per un piano che consente di applicare la funzionalità a tutti gli utenti finali fanno parte delle azioni eDiscovery (ricerca, conservazione, esportazione).
 <br/><sup>7</sup> Gli utenti autenticati di SharePoint Online possono accedere a raccolte di siti private tramite l'esplorazione basata su facet.
 <br/><sup>8</sup> Gli utenti di postazioni non possono creare documenti di Office utilizzando i riquadri animati. Per creare un documento, gli utenti di chioschi  multimediale devono farlo da un sito di SharePoint Online selezionando Nuovo e quindi selezionando un tipo di file, ad esempio documento di Word, cartella di lavoro di Excel, presentazione di PowerPoint, blocco appunti di OneNote o sondaggio di Excel, dal menu Crea nuovo **file.**
@@ -836,7 +836,7 @@ Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cin
 Nella tabella seguente sono elencate le funzionalità di Skype for Business online disponibili nei piani di Office 365 gestito da 21Vianet.
 
 > [!NOTE]
-> - Tale tabella indica la disponibilità del servizio e del client tra opzioni Office 365. Se si desidera confrontare singole funzionalità tra i vari client desktop, client Web e client mobili di Skype for Business, vedere Tabelle di confronto dei [client desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) e tabelle di confronto dei [client mobili.](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)
+> - Tale tabella indica la disponibilità del servizio e del client tra opzioni Office 365. Se si desidera confrontare singole funzionalità tra i vari client desktop, client Web e client mobili di Skype for Business, vedere tabelle di confronto dei [client desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) e tabelle di confronto dei [client mobili.](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)
 > - Office 365 gestito dalla versione 21Vianet di Office 365 è specifico per la Cina.
 
 | Funzionalità | Office 365 Business Essentials gestito da by 21Vianet | Office 365 Business gestito da 21Vianet | Office 365 Business Premium gestito da 21Vianet | Office 365 A1 gestito da 21Vianet | Office 365 Enterprise E1 gestito da 21Vianet | Office 365 Enterprise E3 gestito da 21Vianet | Office 365 Enterprise F3 gestito da 21Vianet |
@@ -935,7 +935,7 @@ Nella tabella seguente sono elencate le funzionalità di Skype for Business onli
 |Chiamate per il team|No|No|No|No|No|No|No|
 |Monitor per videochiamate|No|No|No|No|No|No|No|
 |Segreteria telefonica|No|No|No|No|No|No|No|
-|[Piani per chiamate](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Piano per chiamate nazionali, con l'acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
+|[Piani di chiamata](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Piano per chiamate nazionali, con l'acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
 |[Piani di chiamata](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Piano per chiamate internazionali, con l'acquisto di componenti aggiuntivi necessari)|No|No|No|No|No|No|No|
 |[Crediti di comunicazione](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|No|No|No|No|No|No|No|
 |Funzionalità vocali di Skype for Business|No|No|No|No|No|No|No|
