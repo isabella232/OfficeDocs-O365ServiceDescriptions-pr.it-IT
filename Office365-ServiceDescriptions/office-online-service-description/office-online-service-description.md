@@ -10,29 +10,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+description: Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. I clienti di Microsoft 365 con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
+ms.openlocfilehash: 199568d34f9d30d507ee9635b6f30b29f463baf4
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276790"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726691"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
-Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi posizione tramite una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 i clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
+Office per il Web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web semplifica l'utilizzo e la condivisione di file di Office da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. I clienti di Microsoft 365 con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
   
-Per confrontare le funzionalità tra i piani, vedere [strumenti potenti per supportare l'organizzazione](https://products.office.com/business/compare-more-office-365-for-business-plans).
-  
-## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilità delle funzionalità tra Office per i piani Web
+## <a name="available-plans"></a>Piani disponibili
 
-Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'organizzazione? Nelle tabelle seguenti vengono confrontate le funzionalità di Office per le funzionalità Web per le app desktop Microsoft Office complete di funzionalità. Utilizzare le tabelle per scoprire quali funzionalità sono disponibili in Office per il Web e quindi selezionare il nome della funzionalità per leggere una breve descrizione del funzionamento della caratteristica. Potrebbe essere necessario scoprire che alcuni utenti dell'organizzazione hanno bisogno della funzionalità di creazione di grafici avanzata dell'app desktop Excel, mentre altri devono solo visualizzare e modificare leggermente documenti di Word e presentazioni di PowerPoint con Office per il Web. 
+Per informazioni dettagliate sulle sottoscrizioni che consentono agli utenti di Office per il Web, vedere la tabella di confronto [completa delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
+  
+## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilità delle funzionalità tra i piani di Office per il Web
+
+Serve aiuto per capire quale soluzione Office si adatta meglio all'organizzazione? Nelle tabelle seguenti vengono confrontate le funzionalità di Office per il Web con le app desktop Microsoft Office funzionalità avanzate. Utilizzare le tabelle per individuare le funzionalità disponibili in Office per il Web e quindi selezionare il nome della caratteristica per leggere una breve descrizione del funzionamento di tale funzionalità. È possibile che alcuni utenti dell'organizzazione necessitino della funzionalità avanzata di creazione di grafici dell'app desktop Excel, mentre altri devono solo visualizzare e modificare leggermente i documenti di Word e le presentazioni di PowerPoint con Office per il Web. 
   
 > [!NOTE]
->  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo delle funzionalità di Microsoft Office. <br/>  Microsoft Microsoft 365 Apps for Enterprise è un'offerta mensile di sottoscrizione della più recente famiglia di prodotti desktop Office. <br/>  Microsoft Office Online Server i clienti locali ricevono un Office per la licenza di modifica Web se hanno acquistato una licenza per la famiglia di prodotti desktop Office (ad esempio, Office Professional Plus, Office standard o Microsoft 365 Apps for Enterprise License). 
+>  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo di Microsoft Office funzionalità. <br/>  Microsoft Microsoft 365 Apps for enterprise è un'offerta di sottoscrizione mensile della famiglia di prodotti desktop Office più recente. <br/>  i clienti locali di Microsoft Office Online Server ottengono una licenza di modifica di Office per il Web se hanno acquistato una licenza della famiglia di prodotti desktop Office (ad esempio una licenza di Office Professional Plus, Office Standard o Microsoft 365 Apps for enterprise). 
   
 > [!NOTE]
-> Quando si apre un documento di Office, come allegato di posta elettronica di Outlook o da una raccolta documenti di SharePoint, il documento verrà avviato in Office per il Web e sarà di sola lettura. Per modificare un documento in Office per il Web (modalità di modifica), è necessaria una licenza per la famiglia di prodotti, ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza per la famiglia di prodotti desktop Office, ad esempio un abbonamento a Microsoft 365 Apps for Enterprise o una versione installata di Office Professional Plus 2010. 
+> Quando si apre un documento di Office, come allegato di posta elettronica di Outlook o da una raccolta documenti di SharePoint, il documento verrà avviato in Office per il Web e sarà di sola lettura. Per modificare un documento in Office per il Web (modalità di modifica), è necessaria una licenza per la famiglia di prodotti, ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza della famiglia di prodotti desktop Office, ad esempio un abbonamento a Microsoft 365 Apps for enterprise o una versione installata di Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 
@@ -49,20 +51,20 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Appunti](word-online.md#clipboard) <br/> |Sì  <br/> |Sì  <br/> |
 |[Collaborazione avanzata](word-online.md#collaboration-advanced) <br/> |No  <br/> |Sì  <br/> |
 |[Controlli contenuto](word-online.md#content-controls) <br/> |Sì  <br/> |Sì  <br/> |
-|[Frontespizi](word-online.md#cover-pages) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
+|[Frontespizi](word-online.md#cover-pages) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
 |[Creazione di elementi di documenti avanzati](word-online.md#creation-of-advanced-document-elements) <br/> |No  <br/> |Sì  <br/> |
 |[Parti e temi del documento](word-online.md#document-parts-and-themes) <br/> |No  <br/> |Sì  <br/> |
 |[Dropbox](word-online.md#dropbox) <br/> |Sì  <br/> |Sì  <br/> |
-|[Equazioni](word-online.md#equations) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
-|[Trova e Sostituisci](word-online.md#find-and-replace) <br/> |Sì  <br/> |Sì  <br/> |
+|[Equazioni](word-online.md#equations) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
+|[Trova e sostituisci](word-online.md#find-and-replace) <br/> |Sì  <br/> |Sì  <br/> |
 |[Formattazione dei caratteri](word-online.md#font-formatting) <br/> |Sì  <br/> |Sì  <br/> |
 |[Piè di pagina e note di chiusura](word-online.md#footnotes-and-endnotes) <br/> |Sì  <br/> |Sì  <br/> |
 |[Visualizzazione di lettura ad alta fedeltà](word-online.md#full-fidelity-reading-view) <br/> |Sì  <br/> |Sì  <br/> |
 |[Impostazioni predefinite per effetti grafici](word-online.md#graphic-effect-presets) <br/> |Sì  <br/> |Sì  <br/> |
 |[Intestazioni e piè di pagina](word-online.md#headers-and-footers) <br/> |Sì  <br/> |Sì  <br/> |
 |[Collegamenti ipertestuali](word-online.md#hyperlinks) <br/> |Sì  <br/> |Sì  <br/> |
-|[Indice](word-online.md#index) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
-|[Editor di input penna] <br/> |No  <br/> |Sì  <br/> |
+|[Indice](word-online.md#index) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
+|[Editor input penna] <br/> |No  <br/> |Sì  <br/> |
 |[Inserimento di immagini online](word-online.md#insert-online-pictures) <br/> |Sì  <br/> |Sì  <br/> |
 |[IRM e protezione tramite password](word-online.md#irm-and-password-protection) <br/> |No  <br/> |Sì  <br/> |
 |[Strumenti di apprendimento](word-online.md#learning-tools) <br/> |No  <br/> |Sì  <br/> |
@@ -72,14 +74,14 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Creazione e visualizzazione offline](word-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sì  <br/> |
 |[Interruzioni di pagina](word-online.md#page-breaks) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti per il layout di pagina](word-online.md#page-layout-tools) <br/> |Sì  <br/> |Sì  <br/> |
-|[Strumenti per il layout di pagina, avanzate](word-online.md#page-layout-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
+|[Strumenti di layout di pagina avanzati](word-online.md#page-layout-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
 |[Numeri di pagina](word-online.md#page-numbers) <br/> |Sì  <br/> |Sì  <br/> |
 |[Formattazione dei paragrafi](word-online.md#paragraph-formatting) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti per le immagini](word-online.md#picture-tools) <br/> |Sì  <br/> |Sì  <br/> |
 |[Schemi di carattere e colore preformattati](word-online.md#preformatted-font-and-color-schemes) <br/> |Sì  <br/> |Sì  <br/> |
 |[Presentazione online](word-online.md#preformatted-font-and-color-schemes) <br/> |No  <br/> |Sì  <br/> |
 |[Stampa su PDF](word-online.md#print-to-pdf) <br/> |Sì  <br/> |Sì  <br/> |
-|[Stampa, avanzate](word-online.md#printing-advanced) <br/> |No  <br/> |Sì  <br/> |
+|[Stampa avanzata](word-online.md#printing-advanced) <br/> |No  <br/> |Sì  <br/> |
 |[Strumenti di correzione](word-online.md#proofing-tools) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti di correzione avanzati](word-online.md#proofing-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
 |[Creazione condivisa in tempo reale](word-online.md#real-time-co-authoring) <br/> |Sì  <br/> |Sì  <br/> |
@@ -92,29 +94,29 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Salva come PDF](word-online.md#save-as-pdf) <br/> |Sì  <br/> |Sì  <br/> |
 |[Condivisione](word-online.md#share) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione semplice delle tabelle](word-online.md#simple-table-creation) <br/> |Sì  <br/> |Sì  <br/> |
-|[SmartArt](powerpoint-online.md#smartart) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
-|[Indice delle fonti](word-online.md#table-of-authority) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
-|[Sommario](word-online.md#table-of-contents) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
+|[SmartArt](powerpoint-online.md#smartart) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
+|[Indice delle fonti](word-online.md#table-of-authority) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
+|[Sommario](word-online.md#table-of-contents) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
 |[Toccare](word-online.md#tap) <br/> |No  <br/> |Sì  <br/> |
 |[Informazioni](word-online.md#tell-me) <br/> |Sì  <br/> |Sì  <br/> |
 |[Servizio di traduzione](word-online.md#translation-service) <br/> |Sì  <br/> |Sì  <br/> |
 |[Annulla e Ripeti](word-online.md#undo-and-redo) <br/> |Sì  <br/> |Sì  <br/> |
 |[Script Forms e VBA](word-online.md#vba-and-forms-scripts) <br/> |No  <br/> |Sì  <br/> |
 |[Visualizzazione e aggiunta dei commenti](word-online.md#view-and-add-comments) <br/> |Sì  <br/> |Sì  <br/> |
-|[Filigrane](word-online.md#watermarks) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
+|[Filigrane](word-online.md#watermarks) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
 |[Conteggio parole](word-online.md#word-count) <br/> |Sì  <br/> |Sì  <br/> |
 |[Zoom](word-online.md#zoom) <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> queste eseguono il rendering nel Visualizzatore, ma non è possibile crearle o modificarle in Office per il Web. <br/>
-> <sup>2</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. <br/>
+> <sup>1</sup> Il rendering viene eseguito nel visualizzatore, ma non è possibile crearli o modificarli in Office per il Web. <br/>
+> <sup>2</sup> Alcuni componenti aggiuntivi di Office, ma non tutti, sono disponibili. <br/>
   
 ### <a name="excel"></a>Excel
 
 | Funzionalità dell'applicazione | Excel per il Web | App desktop Excel |
 |:-----|:-----|:-----|
 |[Verifica accessibilità](excel-online.md#add-hyperlinks) <br/> |Sì  <br/> |Sì  <br/> |
-|[Aggiungere il colore di sfondo alle schede del foglio](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sì  <br/> |Sì  <br/> |
+|[Aggiungere il colore di sfondo alle schede dei fogli](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sì  <br/> |Sì  <br/> |
 |[Aggiunta dei collegamenti ipertestuali](excel-online.md#add-hyperlinks) <br/> |Sì  <br/> |Sì  <br/> |
 |[Filtraggio temporale avanzato (filtro dei dati Sequenza temporale)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |No  <br/> |Sì  <br/> |
 |[Allineamento](excel-online.md#alignment) <br/> |Sì  <br/> |Sì  <br/> |
@@ -127,20 +129,20 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Riferimenti di cella nelle formule](excel-online.md#cell-references-in-formulas) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione dei commenti](excel-online.md#comment-creation) <br/> |Sì  <br/> |Sì  <br/> |
 |[Copia e Incolla](excel-online.md#copy-and-paste) <br/> |Sì  <br/> |Sì  <br/> |
-|[Creare connessioni dati esterne<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |N.<sup>3</sup> <br/> |Sì  <br/> |
+|[Creare connessioni dati esterne<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |No<sup>3</sup> <br/> |Sì  <br/> |
 |[Creazione di tabelle](excel-online.md#create-tables) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione di visualizzazioni di analisi avanzate (Power View, Power Pivot, Filtri dei dati)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |No  <br/> |Sì  <br/> |
 |[Convalida dei dati](excel-online.md#data-validation) <br/> |Sì <br/> |Sì  <br/> |
 |[Trascinamento delle celle](excel-online.md#drag-and-drop-cells) <br/> |Sì  <br/> |Sì  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Sì  <br/> |Sì  <br/>|
 |[Fogli di lavoro duplicati (copia)](excel-online.md#duplicate-copy-worksheets) <br/> |Sì  <br/> |Sì  <br/>|
-|[Incorporare la cartella di lavoro in una pagina Web o in un Blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sì  <br/> |No  <br/> |
-|[Riferimenti esterni](excel-online.md#external-references-links) <br/> |N.<sup>4</sup> <br/> |Sì  <br/> |
-|[Maniglia di riempimento](excel-online.md#fill-handle) <br/> |Sì  <br/> |Sì  <br/> |
+|[Incorporare una cartella di lavoro nel Web o nella pagina di blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sì  <br/> |No  <br/> |
+|[Riferimenti esterni](excel-online.md#external-references-links) <br/> |No<sup>4</sup> <br/> |Sì  <br/> |
+|[Quadratino di riempimento](excel-online.md#fill-handle) <br/> |Sì  <br/> |Sì  <br/> |
 |[Trova](excel-online.md#find) <br/> |Sì  <br/> |Sì  <br/> |
 |[Formattazione di caratteri e celle](excel-online.md#font-and-cell-formatting) <br/> |Sì  <br/> |Sì  <br/> |
 |[Barra della formula](excel-online.md#formula-bar) <br/> |Sì  <br/> |Sì  <br/> |
-|[Strumenti per le formule, avanzate](excel-online.md#formula-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
+|[Strumenti formula, avanzati](excel-online.md#formula-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
 |[Blocca riquadri](excel-online.md#freeze-panes) <br/> |Sì <br/> |Sì  <br/> |
 |[Visualizzazione di lettura ad alta fedeltà](excel-online.md#full-fidelity-reading-view) <br/> |Sì  <br/> |Sì  <br/> |
 |[Funzioni ](excel-online.md#functions) <br/> |Sì  <br/> |Sì  <br/> |
@@ -158,19 +160,19 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Creazione e visualizzazione offline](excel-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sì  <br/> |
 |[Grafici pivot](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sì<sup>1</sup>  <br/> |Sì  <br/> |
 |[Tabelle pivot](excel-online.md#pivottables) <br/> |Sì  <br/> |Sì  <br/> |
-|[Post a social network e presentazione online](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sì  <br/> |
+|[Pubblicare sul social network e presentare online](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sì  <br/> |
 |[Visualizzazione Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sì  <br/> |Sì  <br/> |
 |[Visualizzazione in Power View](excel-online.md#power-view-viewing) <br/> |Sì  <br/> |Sì  <br/> |
 |[Stampa](excel-online.md#print) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione condivisa in tempo reale](excel-online.md#real-time-co-authoring) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione e modifica consigliate dei grafici con i comandi di formattazione](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |No  <br/> |Sì  <br/> |
 |[Aggiornamento delle connessioni dati esistenti](excel-online.md#refresh-existing-data-connections) <br/> |Sì  <br/> |Sì  <br/> |
-|[Rimuovere i valori duplicati](excel-online.md#remove-duplicate-values) <br/> |Sì  <br/> |Sì  <br/> |
+|[Rimuovere valori duplicati](excel-online.md#remove-duplicate-values) <br/> |Sì  <br/> |Sì  <br/> |
 |[Rinominare e aggiungere fogli](excel-online.md#rename-and-add-sheets) <br/> |Sì  <br/> |Sì  <br/> |
 |[Rinominare il file mentre la cartella di lavoro è aperta](excel-online.md#rename-file-while-workbook-is-open) <br/> |Sì  <br/> |No  <br/> |
 |[Sostituisce](excel-online.md#replace) <br/> |Sì  <br/> |Sì  <br/> |
-|[Rights Management: IRM e sicurezza tramite password](excel-online.md#rights-management-irm-and-password-security) <br/> |No  <br/> |Sì  <br/> |
-|[Salvataggio o download di una copia](excel-online.md#save-or-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
+|[Rights management: sicurezza IRM e password](excel-online.md#rights-management-irm-and-password-security) <br/> |No  <br/> |Sì  <br/> |
+|[Salvare o scaricare una copia](excel-online.md#save-or-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
 |[Condivisione](excel-online.md#share) <br/> |Sì  <br/> |Sì  <br/> |
 |[Protezione dei fogli](excel-online.md#sheet-protection) <br/> |Sì  <br/> |Sì  <br/> |
 |[Filtro dei dati](excel-online.md#slicers) <br/> |Sì  <br/> |Sì  <br/> |
@@ -180,18 +182,18 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Sondaggi](excel-online.md#surveys) <br/> |Sì  <br/> |No  <br/> |
 |[Informazioni](excel-online.md#tell-me) <br/> |Sì  <br/> |Sì  <br/>|
 |[Formattazione del testo](excel-online.md#text-formatting) <br/> |Sì  <br/> |Sì  <br/>|
-|[Dati totali](excel-online.md#total-data) <br/> |Sì  <br/> |Sì  <br/>|
+|[Totale dati](excel-online.md#total-data) <br/> |Sì  <br/> |Sì  <br/>|
 |[Annulla e Ripeti](excel-online.md#undo-and-redo) <br/> |Sì  <br/> |Sì  <br/> |
 |[Script macro e VBA](excel-online.md#vba-and-macro-scripting) <br/> |Sì<sup>3</sup>  <br/> |Sì  <br/> |
 |[Visualizzazione di grafici 3D](excel-online.md#view-3d-charts) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti di analisi What if](excel-online.md#what-if-analysis-tools) <br/> |No  <br/> |Sì  <br/> |
 
 > [!NOTE] 
-> <sup>1</sup> non è possibile creare grafici pivot, solo visualizzazione.
- <br/><sup>2</sup> a seconda del modo in cui l'ambiente è configurato, sono supportati alcuni tipi di connessioni dati per le cartelle di lavoro visualizzate in Excel per il Web. Per ulteriori informazioni, vedere aggiornamento dei dati in una cartella di lavoro in una finestra del browser. 
- <br/><sup>3</sup> non è possibile creare o eseguire macro con VBA in Excel per il Web, ma è possibile aprire e modificare fogli di lavoro abilitati a VBA senza rimuovere (o corrompere) il VBA contenuto nel file.
- <br/><sup>4</sup> in Excel per il Web, l'ultimo valore di riferimento conosciuto viene visualizzato nella finestra del browser. Tuttavia, deve essere aggiornato utilizzando l'app desktop Excel. 
- <br/><sup>5</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. 
+> <sup>1</sup> Impossibile creare grafici pivot, solo visualizzazione.
+ <br/><sup>2</sup> A seconda della configurazione dell'ambiente, sono supportati alcuni tipi di connessioni dati per le cartelle di lavoro visualizzate in Excel per il Web. Per ulteriori informazioni, vedere Aggiornamento dei dati in una cartella di lavoro in una finestra del browser. 
+ <br/><sup>3</sup> Non è possibile creare o eseguire macro con VBA in Excel per il Web, ma è possibile aprire e modificare fogli di calcolo abilitati per VBA senza rimuovere (o danneggiare) vba contenuti nel file.
+ <br/><sup>4</sup> In Excel per il Web, l'ultimo valore di riferimento noto viene visualizzato nella finestra del browser. tuttavia, deve essere aggiornato con l'app desktop Excel. 
+ <br/><sup>5</sup> Alcuni componenti aggiuntivi di Office, ma non tutti, sono disponibili. 
   
 ### <a name="onenote"></a>OneNote
 
@@ -205,9 +207,9 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Creazione condivisa](onenote-online.md#co-authoring) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione e gestione di pagine e sezioni](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Sì  <br/> |Sì  <br/> |
 |[Download della copia di file Office incorporati](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |
-|Trascinare e rilasciare pagine <br/> |Sì  <br/> |Sì <br/> |
-|Sezioni di trascinamento e rilascio <br/> |Sì  <br/> |Sì <br/> |
-|Gruppi di sezioni di trascinamento e rilascio <br/> |No  <br/> |Sì <br/> |
+|Trascinamento della selezione di pagine <br/> |Sì  <br/> |Sì <br/> |
+|Sezioni di trascinamento della selezione <br/> |Sì  <br/> |Sì <br/> |
+|Gruppi di sezioni di trascinamento <br/> |No  <br/> |Sì <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sì  <br/> |Sì  <br/> |
 |[Modifica dei file incorporati](onenote-online.md#edit-embedded-files) <br/> |No  <br/> |Sì  <br/> |
 |[Equazioni](onenote-online.md#equations) <br/> |Sì  <br/> |Sì  <br/> |
@@ -216,7 +218,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Input penna: input penna-testo e matematica, penne personalizzabili, strumenti di disegno](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |No  <br/> |Sì  <br/> |
 |[Visualizzazione input penna](onenote-online.md#ink-viewing) <br/> |Sì  <br/> |Sì  <br/> |
 |[Esplorazione](onenote-online.md#navigation) <br/> |Sì  <br/> |Sì  <br/> |
-|[Gestione dei blocchi appunti: archiviazione delle pagine di sezione/blocco appunti, riordino delle sezioni, creazione/eliminazione di gruppi di sezioni](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |
+|[Gestione blocco appunti: archiviazione di pagine tra sezioni e blocchi appunti, riordino delle sezioni, creazione/eliminazione di gruppi di sezioni](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Sì<sup>1</sup> <br/> |Sì  <br/> |
 |[Componenti aggiuntivi di Office](onenote-online.md#office-add-ins) <br/> |Sì<sup>2</sup> <br/> |Sì  <br/> |
 |[Integrazione con Outlook (attività)](onenote-online.md#outlook-integration-tasks) <br/> |No  <br/> |Sì  <br/> |
 |[Formattazione dei paragrafi](onenote-online.md#paragraph-formatting) <br/> |Sì  <br/> |Sì  <br/> |
@@ -236,10 +238,10 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Visualizzazione delle versioni precedenti delle pagine](onenote-online.md#view-previous-page-versions) <br/> |Sì  <br/> |Sì  <br/> |
 
 > [!NOTE]
-> <sup>1</sup> in OneNote per il Web, è possibile spostare le sezioni all'interno di un blocco appunti e copiare e incollare le pagine da una sezione all'altra. 
- <br/> <sup>2</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. 
- <br/><sup>3</sup> è possibile eseguire ricerche nella pagina o nella sezione, ma non nel blocco appunti completo o nei blocchi appunti (come è possibile fare nella versione desktop).
- <br/><sup>4</sup> nella versione desktop, non è disponibile un'opzione "download", ma è possibile salvarla in un'altra posizione. 
+> <sup>1</sup> In OneNote per il Web, è possibile spostare sezioni all'interno di un blocco appunti e copiare e incollare pagine da una sezione a un'altra. 
+ <br/> <sup>2</sup> Alcuni componenti aggiuntivi di Office, ma non tutti, sono disponibili. 
+ <br/><sup>3</sup> È possibile eseguire ricerche nella pagina o nella sezione, ma non nell'intero blocco appunti o tra blocchi appunti (come nella versione desktop).
+ <br/><sup>4</sup> Nella versione desktop non è disponibile un'opzione di "download", ma è possibile salvare con nome in un'altra posizione. 
   
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -253,18 +255,18 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Trasmissione di una presentazione](powerpoint-online.md#broadcast-slide-show) <br/> |No  <br/> |Sì  <br/> |
 |[Appunti](powerpoint-online.md#clipboard) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione e gestione delle diapositive](powerpoint-online.md#create-and-manage-slides) <br/> |Sì  <br/> |Sì  <br/> |
-|[Creazione di animazioni personalizzate](powerpoint-online.md#create-custom-animation) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
+|[Creazione di animazioni personalizzate](powerpoint-online.md#create-custom-animation) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
 |[Strumenti di progettazione avanzati](powerpoint-online.md#design-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
 |[Inserimento di una presentazione su una pagina Web o in un blog](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |Sì  <br/> |No  <br/> |
 |[Formattazione dei caratteri](powerpoint-online.md#font-formatting) <br/> |Sì  <br/> |Sì  <br/> |
 |[Visualizzazione di lettura ad alta fedeltà](powerpoint-online.md#full-fidelity-reading-view) <br/> |Sì  <br/> |Sì  <br/> |
 |[Supporto completo dell'input penna](powerpoint-online.md#full-ink-support) <br/> |No  <br/> |Sì<sup>2</sup> <br/> |
-|[Selezione completa di transizioni e animazioni](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |N<sup>° 1</sup> <br/> |Sì  <br/> |
+|[Selezione completa di transizioni e animazioni](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |No<sup>1</sup> <br/> |Sì  <br/> |
 |[Intestazioni e piè di pagina](powerpoint-online.md#headers-and-footers) <br/> |No  <br/> |Sì  <br/> |
 |[Collegamenti ipertestuali](powerpoint-online.md#hyperlinks) <br/> |Sì  <br/> |Sì  <br/> |
 |[Inserimento di video online](powerpoint-online.md#insert-online-video) <br/> |Sì  <br/> |Sì  <br/> |
 |[Integrazione con Excel per i grafici](powerpoint-online.md#integration-with-excel-for-charts) <br/> |No  <br/> |Sì  <br/> |
-|[Navigation-sequenza diapositive](powerpoint-online.md#navigation---slide-sorter) <br/> |Sì  <br/> |Sì  <br/> |
+|[Spostamento - sequenza diapositive](powerpoint-online.md#navigation---slide-sorter) <br/> |Sì  <br/> |Sì  <br/> |
 |[Componenti aggiuntivi di Office](powerpoint-online.md#office-add-ins) <br/> |Sì<sup>3</sup> <br/> |Sì  <br/> |
 |[Creazione e visualizzazione offline](powerpoint-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sì  <br/> |
 |[Ritaglio immagine](powerpoint-online.md#picture-cropping) <br/> |Sì  <br/> |Sì  <br/> |
@@ -274,15 +276,15 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Stampa su PDF](powerpoint-online.md#print-to-pdf) <br/> |Sì  <br/> |Sì  <br/> |
 |[Strumenti di correzione](powerpoint-online.md#proofing-tools) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione condivisa in tempo reale](powerpoint-online.md#real-time-co-authoring) <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |
-|[Strumenti reviewer, Advanced](powerpoint-online.md#reviewer-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
-|Rights Management: IRM e sicurezza tramite password <br/> |No  <br/> |Sì  <br/> |
+|[Strumenti revisore, avanzati](powerpoint-online.md#reviewer-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
+|Rights management: sicurezza IRM e password <br/> |No  <br/> |Sì  <br/> |
 |[Esecuzione di una presentazione](powerpoint-online.md#run-slide-show) <br/> |Sì  <br/> |Sì  <br/> |
-|[Salvataggio o download di una copia](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
+|[Salva con nome o scarica una copia](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
 |[Forme](powerpoint-online.md#shapes) <br/> |Sì  <br/> |Sì  <br/> |
 |[Condivisione](powerpoint-online.md#share) <br/> |Sì  <br/> |Sì  <br/> |
 |[Presentazione](powerpoint-online.md#slide-show) <br/> |Sì  <br/> |Sì  <br/> |
 |[SmartArt](powerpoint-online.md#smartart) <br/> |Sì  <br/> |Sì  <br/> |
-|[Creazione, modifica e formattazione delle tabelle](powerpoint-online.md#table-creation-editing-and-formatting) <br/> |Sì  <br/> |Sì  <br/> |
+|[Creazione, modifica e formattazione di tabelle](powerpoint-online.md#table-creation-editing-and-formatting) <br/> |Sì  <br/> |Sì  <br/> |
 |[Informazioni](powerpoint-online.md#tell-me) <br/> |Sì  <br/> |Sì  <br/> |
 |[Annulla e Ripeti](powerpoint-online.md#undo-and-redo) <br/> |Sì  <br/> |Sì  <br/> |
 |[Visualizzazione e aggiunta dei commenti](powerpoint-online.md#view-and-add-comments) <br/> |Sì  <br/> |Sì  <br/> |
@@ -290,11 +292,11 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
 |[Visualizzazione WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sì  <br/> |Sì  <br/> |
 
 > [!NOTE]
-><sup>1</sup> PowerPoint per il Web supporta una raccolta di otto transizioni e animazioni 37. Per una selezione più ampia o per creare animazioni personalizzate, utilizzare l'app desktop PowerPoint. 
+><sup>1</sup> PowerPoint per il Web supporta una raccolta di otto transizioni e 37 animazioni. Per una selezione più ampia o per creare animazioni personalizzate, usa l'app desktop PowerPoint. 
  <br/>
-<sup>2</sup> il dispositivo a cui si sta lavorando deve supportare l'input penna. <br/> 
-<sup>3</sup> alcuni, ma non tutti, i componenti aggiuntivi di Office sono disponibili. <br/>
-<sup>4</sup> non è possibile creare grafici pivot o tabelle pivot, ma è possibile visualizzarle nel visualizzatore. 
+<sup>2</sup> Il dispositivo su cui stai lavorando deve supportare l'input penna. <br/> 
+<sup>3</sup> Alcuni componenti aggiuntivi di Office, ma non tutti, sono disponibili. <br/>
+<sup>4</sup> Non è possibile creare grafici pivot o tabelle pivot, ma è possibile vederli nel visualizzatore. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Tipi di file supportati per Office per il Web
 
@@ -324,7 +326,7 @@ Hai bisogno di assistenza per capire quale soluzione Office è più adatta all'o
    
 > [!NOTE]
 > <sup>1</sup> Le macro non possono essere eseguite o modificate.<br/>
-> <sup>2</sup> se esistono macro, agli utenti viene richiesto di salvare una copia del file con le macro rimosse.<br/> 
+> <sup>2</sup> Se sono presenti macro, agli utenti viene richiesto di salvare una copia del file con le macro rimosse.<br/> 
   
 > [!NOTE]
-> È possibile creare formati di file più recenti (ad esempio,. docx,. XLSL e. pptx) in Office 2016, 2013, 2010 o 2007 oppure in Office 2000 e versioni successive con il pacchetto di compatibilità. 
+> È possibile creare formati di file più nuovi( docx, xlsl e pptx) in Office 2016, 2013, 2010 o 2007 oppure in Office 2000 e versioni successive con il pacchetto di compatibilità. 

@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Il Centro sicurezza e conformità è progettato per facilitare la gestione delle funzionalità di &amp; conformità in Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: 4daf754f5472620482eced63a9970b05a4e61a6c
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+description: Il Centro &amp; sicurezza e conformità è progettato per facilitare la gestione delle funzionalità di conformità in Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
+ms.openlocfilehash: 38bdd64efec20a5535226507a28b7c3a61e632e8
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460195"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726711"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -23,24 +23,43 @@ Il [Centro sicurezza e &amp; conformità](https://protection.office.com/) è pro
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-Per visualizzare le opzioni per la concessione delle licenze agli utenti per trarre vantaggio dalle funzionalità di conformità di Microsoft 365 a partire dal 1° aprile 2020, scaricare il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzionalità di conformità di Microsoft 365 a partire dal 1° aprile 2020, scaricare il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilità &amp; del Centro sicurezza e conformità per i piani aziendali ed aziendali
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilità &amp; del Centro sicurezza e conformità per i piani aziendali e aziendali
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
-|[Prevenzione della perdita dei dati per Exchange Online, SharePoint Online e OneDrive for Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> | No | No  |Sì   | Sì | Sì | Sì | No  |
-|[Etichette di riservatezza manuali](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | No | No  |No   | Sì | Sì | Sì | No  |
-|[Casi di eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
-|[Blocchi di eDiscovery (inclusi i blocchi di eDiscovery basati su query)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |No   |No   |No  |No   |Sì   |Sì   |No   |
-|[Esportazione eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |No   |No   |No   |Sì   |Sì   |No   |
-|[Controllo di base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Sì   |Sì   |Sì|Sì   |Sì   |Sì   |Sì   |
-|[Office 365 Message Encryption (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |No   |No   |No   |Sì  |Sì   |No   |
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) | No | No |No | No | No | Sì | Sì  |   |
+|[Gestione delle minacce, ad esempio filtro della posta e antimalware](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) | Sì | Sì | Sì | Sì | Sì | Sì | Sì | Sì |
+|[Gestione avanzata delle minacce, ad esempio Esplora minacce per campagne di phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | No | No |No | No | No | Sì | Sì | No |
+|[Customer Lockbox](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests) | No | No | No | No | No | Sì | Sì  | No  |
+|[Gestione dei dispositivi mobili](https://docs.microsoft.com/microsoft-365/admin/basic-mobility-security/set-up) | Sì | Sì | Sì | Sì | Sì | Sì | Sì | Sì |
+|[Prevenzione della perdita dei dati per Exchange Online, SharePoint Online e OneDrive for Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | No | Sì | Sì | No | Sì | Sì | No | No |
+|[Prevenzione della perdita dei dati di comunicazione per Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) | No | No | No | No | No | Sì | No |  |
+|[Etichette di riservatezza manuali](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No | No | Sì | Sì | Sì | Sì | No |
+|Etichette di riservatezza automatiche | No | No |No | No | No | Sì | Sì | No |
+|[Barriere informative](https://docs.microsoft.com/microsoft-365/compliance/information-barriers) | No | No  |No  | No | No | Sì | No  | No  |
+|[Governance delle](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>informazioni 1</sup> | Sì<sup>11</sup> | Sì<sup>11</sup>  |Sì<sup>11</sup>  | Sì | Sì | Sì | Sì | Sì<sup>11</sup>  |
+|[Governance avanzata delle informazioni](https://docs.microsoft.com/microsoft-365/compliance/retention)<sup>2</sup> | No | No  |No  | No | No | Sì | Sì  | No  |
+|[Ricerca contenuto](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) | Sì | Sì  |Sì  | Sì | Sì | Sì | Sì  | Sì  |
+|[Casi di eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-core-ediscovery)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   | Sì  |
+|[Blocchi di eDiscovery (inclusi i blocchi di eDiscovery basati su query)](https://docs.microsoft.com/microsoft-365/compliance/get-started-core-ediscovery)  |No   |No   |No  |No   |Sì   |Sì   |Sì   |No   |
+|[Esportazione eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |No   |No   |No  |Sì   |Sì   |Sì  |No   |
+|[Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)<sup>5</sup>  |No   |No   |No   |No  |No   |Sì   |Sì  |No  |
+|[Archiviazione](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)  |Sì<sup>3</sup>  |Sì<sup>3</sup>  |Sì<sup>3</sup>  |Sì<sup>3</sup>  |Sì<sup>4</sup>   |Sì<sup>4</sup>   |Sì  |No  |
+|[Criteri di avviso](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)  |Sì  |Sì  |Sì  |Sì  |Sì  |Sì  |Sì  |Sì  |
+|[Controllo di base](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sì |Sì |Sì |Sì |Sì |Sì |Sì |Sì |
+|[Audit avanzato](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit) |No |No |No |No |No |Sì |Sì |No |
+|[Conformità delle comunicazioni (criteri di supervisione)](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies) |No |No |No |No |No |Sì |Sì |No |
+|[Office 365 Message Encryption (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No |No |No |No |Sì |Sì |Sì |No |
+|[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No |No |No |No |No |Sì |Sì |No |
+|[Gestione degli accessi con privilegi](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No |No |No |No |No |Sì |No |No |
+|[Customer Key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |No |No |No |No |No |Sì |No |No |
 
-<sup>1</sup> I registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include Advanced Audit, i log di controllo vengono conservati per un massimo di un anno. Inoltre, è possibile usare [l'API office 365 Management Activity](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal log di controllo unificato.
+<sup>1</sup> I registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include advanced audit, i log di controllo vengono conservati per un massimo di un anno. Inoltre, è possibile usare l'API di attività di gestione di [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal log di controllo unificato.
 
-<sup>2</sup> Richiede il componente aggiuntivo di prevenzione della perdita dei dati di Office 365.
+<sup>2</sup> Richiede il componente aggiuntivo per la prevenzione della perdita dei dati di Office 365.
 
 <sup>3</sup> Le etichette di riservatezza sono incluse anche in Azure Information Protection P1 e P2.
 
@@ -58,7 +77,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per tra
 |[Prevenzione della perdita dei dati di comunicazione per Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Barriere informative](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Governance delle](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>informazioni 1</sup>  |Sì<sup>2</sup>  |Sì   |Sì   |Sì   |Sì   |Sì<sup>10</sup>  |Sì<sup>10</sup>  |Sì   |Sì   |
-|[Governance avanzata delle](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>informazioni 3</sup>  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
+|[Governance avanzata delle informazioni](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup>  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Ricerca contenuto](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Sì   |Sì   |Sì   |Sì   |Sì  | Sì<sup>10</sup>  |Sì<sup>10</sup>  |Sì   |Sì   |
 |[Casi di eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì<sup>10</sup>  |Sì<sup>10</sup>  |No   |No   |
 |[Esportazione eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |Sì   |No   |No   |Sì   |No  |Sì<sup>10</sup> |No<sup>4</sup>  |No<sup>4</sup>  |
@@ -70,23 +89,23 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per tra
 |[Conformità delle comunicazioni (criteri di supervisione)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Office 365 Message Encryption (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |Sì   |No   |No   |Sì   |No   |No|No|No|
 |[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
-|[Privileged Access Management](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
+|[Gestione degli accessi con privilegi](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
 
-<sup>1</sup> La governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare dati usando la spedizione unità o in rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> La governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati usando la spedizione delle unità o in rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Richiede l'acquisto del componente aggiuntivo Archiviazione Exchange Online.
 
-<sup>3</sup> Governance avanzata delle informazioni consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni in base a criteri di conservazione o eliminazione o entrambi. Include azioni intelligenti/automatizzate, ad esempio la raccomandazione di criteri, l'applicazione automatica di etichette ai dati, l'applicazione di etichette basate su tipi di dati sensibili o query, la revisione dell'eliminazione e l'uso di filtri per l'importazione intelligente. Include inoltre la funzionalità supervisione per la revisione delle comunicazioni dei dipendenti per motivi di sicurezza e conformità.
+<sup>3</sup> La governance avanzata delle informazioni consente di conservare informazioni importanti ed eliminare informazioni non importanti classificando le informazioni in base a criteri di conservazione o eliminazione o entrambi. Include azioni intelligenti/automatizzate, ad esempio la raccomandazione di criteri, l'applicazione automatica di etichette ai dati, l'applicazione di etichette basate su tipi di dati sensibili o query, la revisione dell'eliminazione e l'uso di filtri di importazione intelligenti. Include inoltre la funzionalità supervisione per esaminare le comunicazioni dei dipendenti per motivi di sicurezza e conformità.
 
 <sup>4</sup> Le conversazioni di Skype vengono memorizzate come parte della cassetta postale.
 
-<sup>5</sup> Advanced eDiscovery richiede Office 365 E5 o una licenza per i componenti aggiuntivi.
+<sup>5</sup> Advanced eDiscovery richiede Office 365 E5 o una licenza di componente aggiuntivo.
 
-<sup>6 L'archiviazione</sup> Skype è all'interno della cassetta postale dell'utente.
+<sup>6</sup> L'archiviazione Skype è all'interno della cassetta postale dell'utente.
 
 <sup>7</sup> Include i file archiviati negli archivi di Microsoft Teams.
 
-<sup>8</sup> I registri di controllo per tutti i piani che includono il controllo di base vengono conservati per 90 giorni. Inoltre, è possibile usare [l'API office 365 Management Activity](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal log di controllo unificato.
+<sup>8</sup> I registri di controllo per tutti i piani che includono il controllo di base vengono conservati per 90 giorni. Inoltre, è possibile usare l'API di attività di gestione di [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal log di controllo unificato.
 
 <sup>9</sup> Richiede il componente aggiuntivo di prevenzione della perdita dei dati di Office 365.
 
