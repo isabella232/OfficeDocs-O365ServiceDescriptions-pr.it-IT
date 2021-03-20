@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154404"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901951"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
@@ -26,7 +26,7 @@ OneDrive per gli account aziendali o dell'istituto d'istruzione è uno spazio di
   
 OneDrive è incluso nei piani di Microsoft 365, Office 365 e SharePoint, ma può essere anche acquistato come piano autonomo. 
     
-Per confrontare i piani, vedere [Strumenti efficaci a supporto della tua azienda](https://go.microsoft.com/fwlink/?linkid=799177) e [Confronta i piani di OneDrive](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Per informazioni dettagliate sulle offerte di abbonamento che consentono l'uso di OneDrive, vedi la [tabella completa di confronto degli abbonamenti](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) e il [confronto dei piani di OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
   
 > [!NOTE]
 > I piani autonomi di OneDrive includono Office per il Web. 
@@ -133,7 +133,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono OneDrive e in tutti i piani autonomi di OneDrive:
 
 - [Richieste di accesso](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [Collegamenti di tipo "Chiunque"](/Office365/Enterprise/best-practices-anonymous-sharing) (che possono essere impostati per la richiesta scadenza) 
+- [Collegamenti di tipo "Chiunque"](/Office365/Enterprise/best-practices-anonymous-sharing) (che possono essere impostati per la richiesta scadenza) 
 - [@menzioni nei commenti](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Richiede un piano che includa Office 365 per il Web o le app desktop di Office 365.
 - [Richieste file](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Gestire il collegamento di condivisione predefinito ([a livello dell'organizzazione](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) e [per ogni sito](/sharepoint/change-default-sharing-link))
