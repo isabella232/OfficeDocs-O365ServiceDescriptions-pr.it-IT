@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali caratteristiche di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726701"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901935"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -30,7 +30,7 @@ SharePoint in Microsoft 365 consente alle organizzazioni di condividere e gestir
 
 Per una breve panoramica, vedere [Che cos'è SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Per vedere quali piani includono SharePoint, [potenti strumenti per supportare l'azienda](https://products.office.com/business/compare-more-office-365-for-business-plans). Per i requisiti di sistema di Microsoft 365, vedere Risorse di [Microsoft 365 e Office.](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4) 
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto [delle sottoscrizioni completa.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Per i requisiti di sistema di Microsoft 365, vedere Risorse di [Microsoft 365 e Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
 Per informazioni sulle differenze delle funzionalità di SharePoint per i clienti cloud del governo statunitense, vedere [SharePoint per ambienti governativi statunitensi.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
   
