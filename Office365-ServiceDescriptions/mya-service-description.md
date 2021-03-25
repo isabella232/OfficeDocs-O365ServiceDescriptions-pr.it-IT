@@ -8,18 +8,18 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: Funzionalità, distribuzioni, privacy e prerequisiti di MyAnalytics
-ms.openlocfilehash: 204c16b82ce93a0660259c64bf5e283ba4837005
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 9b19dfd5eb40ab136f8491fc87fab02434b88d98
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902051"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173491"
 ---
 # <a name="myanalytics-service-description"></a>Descrizione del servizio MyAnalytics
 
 MyAnalytics riepiloga il modo in cui trascorri il tuo tempo sul lavoro e quindi suggerisce modi per lavorare in modo più intelligente. MyAnalytics fornisce queste informazioni dettagliate tramite [elementi](#elements) a cui è possibile accedere in Microsoft Outlook o tramite il Web browser.
 
-Alcuni degli elementi di MyAnalytics vengono forniti automaticamente agli utenti di vari piani di Office 365. Per informazioni su quali elementi sono inclusi nei piani di Office 365 e Microsoft 365, vedere Piani e ambienti [di MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)  
+Alcuni degli elementi di MyAnalytics vengono forniti automaticamente agli utenti di vari piani di Office 365. Per informazioni su quali elementi sono inclusi nei piani di Office 365 e Microsoft 365, vedere Piani e ambienti [di MyAnalytics.](/workplace-analytics/myanalytics/overview/plans-environments)  
 
 MyAnalytics elabora le informazioni in modo da proteggere la privacy dei dipendenti. Per ulteriori informazioni, vedere [Privacy dei dati](#data-privacy).
 
@@ -31,10 +31,10 @@ Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli 
 
 MyAnalytics è costituito dai seguenti elementi:
 
-* [Dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): consente di riflettere sui modelli di lavoro, ad esempio il tempo per il lavoro mirato, le procedure di riunione e di posta elettronica e la rete.
-* [Componente aggiuntivo di Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): fornisce informazioni dettagliate utili in Outlook che consentono di rimanere al primo piano delle attività e di fare di più.
-* [Digest di posta](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)elettronica : fornire informazioni principali sui modelli di lavoro in un messaggio di posta elettronica settimanale.
-* [Suggerimenti in linea](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): questi suggerimenti brevi, guidati da dati e IA vengono visualizzati in Outlook durante la lettura o la composizione di un messaggio di posta elettronica o di un invito a una riunione.
+* [Dashboard](/workplace-analytics/myanalytics/use/dashboard-2): consente di riflettere sui modelli di lavoro, ad esempio il tempo per il lavoro mirato, le procedure di riunione e di posta elettronica e la rete.
+* [Componente aggiuntivo di Outlook](/workplace-analytics/myanalytics/use/add-in): fornisce informazioni dettagliate utili in Outlook che consentono di rimanere al primo piano delle attività e di fare di più.
+* [Digest di posta](/workplace-analytics/myanalytics/use/email-digest-2)elettronica : fornire informazioni principali sui modelli di lavoro in un messaggio di posta elettronica settimanale.
+* [Suggerimenti in linea](/workplace-analytics/myanalytics/use/mya-notifications): questi suggerimenti brevi, guidati da dati e IA vengono visualizzati in Outlook durante la lettura o la composizione di un messaggio di posta elettronica o di un invito a una riunione.
 
 ## <a name="data-privacy"></a>Privacy dei dati
 
@@ -48,10 +48,10 @@ Aderendo alle linee guida seguenti, MyAnalytics protegge la privacy dei dipenden
 * MyAnalytics e Delve sono applicazioni separate senza interdipendenze.
 * MyAnalytics ricorda alle persone che i loro dati sono privati e sicuri.
 
-Per ulteriori informazioni, vedere Guida alla [privacy di MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)
+Per ulteriori informazioni, vedere Guida alla [privacy di MyAnalytics.](/workplace-analytics/myanalytics/overview/privacy-guide)
 
 [Altre informazioni su come MyAnalytics può aiutarti a lavorare in modo più intelligente.](https://products.office.com/business/myanalytics-personal-analytics)
 
 ## <a name="prerequisites"></a>Prerequisiti
 
-* [Microsoft Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
+* [Microsoft Exchange Online](./exchange-online-service-description/exchange-online-service-description.md)

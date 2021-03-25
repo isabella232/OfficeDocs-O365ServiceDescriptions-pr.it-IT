@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: a6245acdeaeda173f1a675d1ce34d9086e3f077a
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe1d1f5a58012498e5b0f71c9a4299e61a4456ad
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132550"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173391"
 ---
 # <a name="voice-message-services"></a>Servizi di messaggistica vocale
 
@@ -39,15 +39,15 @@ I servizi di messaggistica vocale ospitati consentono a un'azienda di connettere
     
 - Notifiche di chiamata senza risposta.
     
-- Voice mail PIN reset from Outlook on the web and Outlook (see [Reset a Voice Mail PIN](https://go.microsoft.com/fwlink/p/?LinkId=286328)).
+- Voice mail PIN reset from Outlook on the web and Outlook (see [Reset a Voice Mail PIN](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin)).
     
-- Reimpostazione PIN posta vocale da Web App e Outlook (vedere l'articolo relativo a come [reimpostare il PIN della posta vocale](https://go.microsoft.com/fwlink/p/?LinkId=271794)). 
+- Reimpostazione PIN posta vocale da Web App e Outlook (vedere l'articolo relativo a come [reimpostare il PIN della posta vocale](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/mwi-in-exchange-online)). 
     
-- Regole di ricezione chiamata (vedere [Consenti agli utenti di posta vocale di inoltrare le chiamate](https://go.microsoft.com/fwlink/p/?LinkId=271795) per i dettagli).
+- Regole di segreteria telefonica (vedere [Allow voice mail users to forward calls](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) for details).
     
-- Casella vocale protetta in Exchange Online (vedere [Protect Voice mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) per i dettagli).
+- Segreteria telefonica protetta in Exchange Online (per informazioni dettagliate, vedere [Proteggere la segreteria telefonica in Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
     
-- Anteprima casella vocale (vedere [consentire agli utenti di visualizzare una trascrizione](https://go.microsoft.com/fwlink/p/?LinkId=271797) della segreteria telefonica per un elenco di lingue supportate).
+- Anteprima casella vocale (vedere [Allow users to see a voice mail transcript](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) for a list of supported languages).
     
 - Speech access to email, voice mail, calendar, personal contacts, and personal contact groups.
     
@@ -55,16 +55,16 @@ I servizi di messaggistica vocale ospitati consentono a un'azienda di connettere
     
 - Ricerca nelle directory tramite Outlook Voice Access o un operatore automatico.
     
-Per ulteriori informazioni sulle funzionalità di segreteria telefonica, vedere segreteria telefonica [in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+Per ulteriori informazioni sulle funzionalità della casella vocale, vedere [Voice mail in Exchange Online.](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)
   
 > [!IMPORTANT]
 > The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. 
 >
-> Il cliente deve fornire una connessione telefonica dalla rete PSTN (Public Switched Telephone Network) utilizzando un gateway VoIP e PBX, IP PBX o Skype for Business Server 2015. 
+> Il cliente deve fornire una connessione telefonica dalla rete PSTN (Public Switched Telephone Network) utilizzando un gateway VoIP e un PBX, un IP PBX o Skype for Business Server 2015. 
 >
 > Il cliente deve fornire i dispositivi hardware SBC e garantire che tali SBC siano correttamente configurati per connettersi ai servizi di posta vocale. Occorre configurare anche un livello appropriato di sicurezza utilizzando certificati e interfacce IP pubbliche e private e abilitando le corrette porte TCP attraverso i relativi firewall locali. 
 >
-> La segreteria telefonica ospitata è disponibile solo per i sottoscrittori di Exchange Online piano 2 e Office 365 Enterprise E3. 
+> La segreteria telefonica ospitata è disponibile solo per gli abbonati a Exchange Online Piano 2 e Office 365 Enterprise E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilità posta vocale di terze parti
 
@@ -75,10 +75,8 @@ Interoperabilità posta vocale di terze parti
   
 ## <a name="skype-for-business-integration"></a>Integrazione con Skype for Business
 
-Le organizzazioni possono acquistare Skype for Business Online come un servizio autonomo o come parte di Microsoft Office 365. È supportato anche Skype for business 2015 in locale. Per ulteriori informazioni su Skype for business online, vedere [Descrizione del servizio Skype for business online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Le organizzazioni possono acquistare Skype for Business Online come un servizio autonomo o come parte di Microsoft Office 365. È supportato anche Skype for Business 2015 locale. Per ulteriori informazioni su Skype for Business online, vedere [Descrizione del servizio Skype for Business online.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
-  
-
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)

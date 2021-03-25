@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali caratteristiche di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901935"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174101"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -32,7 +32,7 @@ Per una breve panoramica, vedere [Che cos'è SharePoint?](https://support.office
   
 Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto [delle sottoscrizioni completa.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Per i requisiti di sistema di Microsoft 365, vedere Risorse di [Microsoft 365 e Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
-Per informazioni sulle differenze delle funzionalità di SharePoint per i clienti cloud del governo statunitense, vedere [SharePoint per ambienti governativi statunitensi.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
+Per informazioni sulle differenze delle funzionalità di SharePoint per i clienti cloud del governo statunitense, vedere [SharePoint per ambienti governativi statunitensi.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
 ## <a name="whats-new"></a>Novità
 
@@ -54,7 +54,7 @@ OneDrive in Microsoft 365 è uno spazio di archiviazione online per singoli uten
 
 ## <a name="apps"></a>App
 
-Per sincronizzare i file di SharePoint in un computer, gli utenti possono usare [l'app di sincronizzazione di OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) per Windows o Mac. Per informazioni sulla disponibilità delle funzionalità nell'app di sincronizzazione, vedi la [descrizione del servizio OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description) 
+Per sincronizzare i file di SharePoint in un computer, gli utenti possono usare [l'app di sincronizzazione di OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) per Windows o Mac. Per informazioni sulla disponibilità delle funzionalità nell'app di sincronizzazione, vedi la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md) 
 
 Per usare i siti di SharePoint in un dispositivo mobile, possono installare l'app sharePoint per dispositivi [mobili per iOS, Android o Windows.](https://products.office.com/sharepoint/mobile-app) 
   
@@ -81,7 +81,7 @@ Per una panoramica delle opzioni di personalizzazione, vedere [Customizing Share
 
 Per altre informazioni sulla disponibilità di Microsoft Power Apps e Power Automate, vedi le domande frequenti sulle licenze Power [Apps e Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
 
 ## <a name="it-admin-features"></a>Funzionalità di amministrazione IT
 
@@ -110,7 +110,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 
 Per informazioni sulla disponibilità dei servizi di migrazione FastTrack, fare riferimento ai [piani e ai servizi idonei.](/fasttrack/m365-eligible-services-and-plans) 
 
-Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description)
+Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md)
 
 Per informazioni dell'amministratore per SharePoint, vedere [Amministratore di SharePoint Online.](/sharepoint/sharepoint-online)
 
@@ -127,9 +127,9 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - [Ripristino di una raccolta documenti a un punto precedente nel tempo](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Ricerca virus](/office365/securitycompliance/virus-detection-in-spo)
 
-Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description)
+Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md)
 
-SharePoint si integra con le funzionalità avanzate di sicurezza e conformità di Microsoft 365. Per info sulla disponibilità delle funzionalità seguenti, vedi la descrizione del [servizio & sicurezza](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center):
+SharePoint si integra con le funzionalità avanzate di sicurezza e conformità di Microsoft 365. Per info sulla disponibilità delle funzionalità seguenti, vedi la descrizione del [servizio & sicurezza](../office-365-platform-service-description/office-365-securitycompliance-center.md):
 
 - [Customer Lockbox](/microsoft-365/compliance/customer-lockbox-requests)
 - [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -168,7 +168,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - [Notizie dell'organizzazione](/sharepoint/organization-news-site)
 - [Approvazione pagina](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
 - [Pagine](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
-- Gestione dei record
+- Gestione record
 - [Cestino](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [App per dispositivi mobili di SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [Pagina iniziale di SharePoint](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
@@ -188,7 +188,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 
 Per altre informazioni sulla disponibilità di Microsoft Power Apps e Power Automate, vedi le domande frequenti sulle licenze Power [Apps e Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)
+Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)
 
 ## <a name="search-features"></a>Caratteristiche per la ricerca
 
@@ -202,6 +202,4 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - [Centro ricerche (ricerca classica)](/sharepoint/manage-search-center)
 - [Schema di ricerca (ricerca classica e moderna)](/sharepoint/manage-search-schema)
 
-Per informazioni su Delve, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description) 
-
-
+Per informazioni su Delve, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md)

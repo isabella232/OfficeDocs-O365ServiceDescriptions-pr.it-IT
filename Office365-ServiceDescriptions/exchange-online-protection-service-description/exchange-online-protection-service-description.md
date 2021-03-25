@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, nonché un confronto delle funzionalità tra tali piani.
-ms.openlocfilehash: 187ec7cee1b045a9e859e1157cddef29059cac2b
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901939"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173811"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
@@ -49,7 +49,7 @@ La [roadmap di Microsoft 365](https://office.microsoft.com/products/office-365-r
 
 EOP è disponibile attraverso i seguenti piani di sottoscrizione:<br><br>
 
-| Pianificare | Descrizione |
+| Pianificazione | Descrizione |
 |:-----|:-----|
 |[EOP autonomo](https://products.office.com/exchange/exchange-email-security-spam-protection)|Un servizio separato basato sul cloud che protegge l'organizzazione di posta elettronica locale.|
 |[Funzionalità di EOP in Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Protezione incorporata per le cassette postali ospitate sul cloud di Exchange Online.|
@@ -65,14 +65,14 @@ Microsoft Exchange Enterprise CAL with Services offre le funzionalità di protez
 
 Per ulteriori informazioni sulla licenza Enterprise CAL with Services di Exchange, vedere [Domande frequenti sulle licenze di Exchange](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
-Se si dispone delle licenze Enterprise CAL with Services di Exchange e si desidera effettuare il provisioning di EOP, seguire le istruzioni in [Set up your EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). I passaggi di configurazione sono gli stessi dello scenario autonomo di EOP.
+Se si dispone delle licenze Enterprise CAL with Services di Exchange e si desidera effettuare il provisioning di EOP, seguire le istruzioni in [Set up your EOP service](/microsoft-365/security/office-365-security/set-up-your-eop-service). I passaggi di configurazione sono gli stessi dello scenario autonomo di EOP.
 
 > [!NOTE]
 > Nuove funzionalità per Exchange Enterprise CAL con servizi sono distribuite contemporaneamente come Exchange Online, non come EOP autonomo. Considerare che le pianificazioni di distribuzione per EOP autonomo e Exchange Online/Exchange Enterprise CAL con servizi possono essere leggermente differenti.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Requisiti per Exchange Online Protection (EOP)
 
-EOP può essere utilizzato con qualsiasi agente di trasferimento della posta SMTP, ad esempio Microsoft Exchange Server. Per informazioni sui sistemi operativi, i Web browser e le lingue supportati da EOP, vedere le sezioni "Browser supportati" e "Lingue supportate" nell'interfaccia di amministrazione di [Exchange in Exchange Online Protection.](https://docs.microsoft.com/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)
+EOP può essere utilizzato con qualsiasi agente di trasferimento della posta SMTP, ad esempio Microsoft Exchange Server. Per informazioni sui sistemi operativi, i Web browser e le lingue supportati da EOP, vedere le sezioni "Browser supportati" e "Lingue supportate" nell'interfaccia di amministrazione di [Exchange in Exchange Online Protection.](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)
 
 ## <a name="limits"></a>Limiti
 
@@ -100,8 +100,8 @@ Di seguito sono elencate tutte le funzionalità. Per informazioni più dettaglia
 |[Quarantena](anti-spam-and-anti-malware-protection-eop.md#quarantine): gestione dell'amministratore|Sì|Sì|Sì|
 |[Quarantena](anti-spam-and-anti-malware-protection-eop.md#quarantine): autogestione dell'utente finale|Sì|Sì|Sì|
 |[Invio](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|No|Sì|No|
-|[Componente aggiuntivo Segnala messaggio per Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Sì|Sì|Sì|
-|[Segnalazione della posta indesiderata in Outlook sul Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sì|Sì|Sì|
+|[Componente aggiuntivo Segnala messaggio per Outlook](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Sì|Sì|Sì|
+|[Segnalazione della posta indesiderata in Outlook sul Web](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sì|Sì|Sì|
 |[Routing della posta elettronica tra Microsoft e i propri server di posta elettronica](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sì|Sì|Sì|
 |[Messaggistica sicura presso un partner di fiducia](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sì|Sì|Sì|
 |[Elenco sicuro indirizzi IP del partner](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sì|Sì|Sì|
@@ -117,10 +117,10 @@ Di seguito sono elencate tutte le funzionalità. Per informazioni più dettaglia
 <sup>1</sup> Gli utenti di posta elettronica vengono definiti come "cassette postali" e, insieme ai contatti di posta elettronica esterni, possono essere aggiunti, rimossi e altrimenti gestiti direttamente nell'interfaccia di amministrazione di Exchange. <br/>
 <sup>2</sup> Non sono consentite personalizzazioni di Controllo degli accessi in base al ruolo, solo ruoli di amministratore. 3 È possibile visualizzare i domini gestiti e modificare i tipi di dominio nell'interfaccia di amministrazione di Exchange. <br/>
 <sup>3</sup> I domini gestiti possono essere visualizzati e i tipi di dominio possono essere modificati nell'interfaccia di amministrazione di Exchange. Tutte le altre attività di gestione del dominio devono essere eseguite nell'interfaccia di amministrazione di Microsoft 365.<br/>
-<sup>4</sup> Le regole del flusso di posta (note anche come regole di trasporto) in EOP sono descritte in [Mail flow rules (transport rules) in Exchange Online Protection.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) Le condizioni, le eccezioni e le azioni delle regole del flusso di posta disponibili sono leggermente diverse tra EOP ed Exchange Online. Queste differenze vengono notate nelle condizioni e nelle eccezioni delle regole del flusso di posta [(predicati) in Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) e nelle azioni delle regole del flusso di posta [in Exchange Online.](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
+<sup>4</sup> Le regole del flusso di posta (note anche come regole di trasporto) in EOP sono descritte in [Mail flow rules (transport rules) in Exchange Online Protection.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) Le condizioni, le eccezioni e le azioni delle regole del flusso di posta disponibili sono leggermente diverse tra EOP ed Exchange Online. Queste differenze vengono notate nelle condizioni e nelle eccezioni delle regole del flusso di posta [(predicati) in Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) e nelle azioni delle regole del flusso di posta [in Exchange Online.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
 <sup>6</sup> I suggerimenti relativi ai criteri DLP non sono disponibili per i clienti che dispongono di Exchange Enterprise CAL with Services. <br/>
 <sup>7</sup> L'azione predefinita del filtro del contenuto prevede di spostare i messaggi di posta indesiderata nella cartella Posta indesiderata dei destinatari.  <br/>
-<sup>7</sup> L'azione predefinita per il filtro del contenuto è lo spostamento dei messaggi di posta indesiderata nella cartella Posta indesiderata dei destinatari. Per utilizzare le cassette postali di Exchange locali, è inoltre necessario configurare due regole di trasporto nell'organizzazione exchange locale per rilevare le intestazioni di posta indesiderata aggiunte da EOP. Per ulteriori informazioni, vedere [Configure standalone EOP to deliver spam to the Junk Email folder in hybrid environments](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
+<sup>7</sup> L'azione predefinita per il filtro del contenuto è lo spostamento dei messaggi di posta indesiderata nella cartella Posta indesiderata dei destinatari. Per utilizzare le cassette postali di Exchange locali, è inoltre necessario configurare due regole di trasporto nell'organizzazione exchange locale per rilevare le intestazioni di posta indesiderata aggiunte da EOP. Per ulteriori informazioni, vedere [Configure standalone EOP to deliver spam to the Junk Email folder in hybrid environments](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
 <sup>10</sup> Include report DLP.<br/>
 <sup>10</sup> Include i report DLP. <br/>
 <sup>12</sup> Supportato per i clienti locali che acquistano Azure Information Protection e usano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. <br/>

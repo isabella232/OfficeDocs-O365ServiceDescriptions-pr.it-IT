@@ -7,192 +7,192 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: d315b6e15b9b85d0a336a1a22d43eeb636b40830
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+description: Queste indicazioni sono per i professionisti IT che guidano le distribuzioni di Office 365 in enti governativi federali, statali, locali, tribali o territoriali o altre entità che gestiscono dati soggetti a normative e requisiti governativi, dove l'uso di Microsoft 365 Government - GCC è appropriato per soddisfare questi requisiti.
+ms.openlocfilehash: 702ed14de312588aee1cad6094683fcada2333bc
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576013"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173511"
 ---
-# <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità a Microsoft 365 – GCC
+# <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità di Microsoft 365 - GCC
 
-Questa guida è destinata ai professionisti IT che stanno guidando le distribuzioni di Office 365 nelle entità governative degli Stati Uniti, statali, locali, tribali o territoriali o in altre entità che gestiscono i dati soggetti alle normative e ai requisiti governativi, in cui l'utilizzo di Microsoft 365 Government-GCC è appropriato per soddisfare questi requisiti.
+Queste indicazioni sono per i professionisti IT che guidano le distribuzioni di Office 365 in enti governativi federali, statali, locali, tribali o territoriali o altre entità che gestiscono dati soggetti a normative e requisiti governativi, dove l'uso di Microsoft 365 Government - GCC è appropriato per soddisfare questi requisiti.
 
 > [!NOTE]
-> Se nell'organizzazione sono già stati soddisfatti i requisiti di idoneità del governo di Microsoft 365 e sono stati richiesti e accettati nel programma, è possibile ignorare i passaggi 1 e 2 e passare direttamente al passaggio 3.
+> Se l'organizzazione ha già soddisfatto i requisiti di idoneità di Microsoft 365 Government - GCC ed è stata richiesta e accettata nel programma, è possibile ignorare i passaggi 1 e 2 e andare direttamente al passaggio 3.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Passaggio 1. Determinare se l'organizzazione deve disporre di Microsoft 365 Government-GCC e soddisfare i requisiti di idoneità
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Passaggio 1. Determinare se l'organizzazione necessita di Microsoft 365 Government - GCC e soddisfa i requisiti di idoneità
 
-L'ambiente Government-GCC di Microsoft 365 è conforme ai requisiti del governo degli Stati Uniti per i servizi cloud, tra cui FedRAMP moderati e requisiti per la giustizia penale e i sistemi informativi federali (CJI e FTI).
+L'ambiente Microsoft 365 Government - GCC è conforme ai requisiti del governo statunitense per i servizi cloud, tra cui FedRAMP Moderate, e ai requisiti per la giustizia penale e i sistemi di informazioni fiscali federali (tipi di dati CJI e FTI).
 
-Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le organizzazioni traggono vantaggio dalle seguenti funzionalità che sono esclusive di Microsoft 365 Government-GCC:
+Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le organizzazioni traggono vantaggio dalle seguenti funzionalità specifiche di Microsoft 365 Government - GCC:
 
-- Il contenuto del cliente dell'organizzazione è logicamente separato dal contenuto del cliente nei servizi di Office 365 commerciali da Microsoft.
+- Il contenuto dei clienti dell'organizzazione è logicamente segregato dal contenuto dei clienti nei servizi commerciali di Office 365 da Microsoft.
 
 - Il contenuto del cliente dell'organizzazione viene archiviato negli Stati Uniti.
 
 - L'accesso al contenuto del cliente dell'organizzazione è limitato a personale Microsoft selezionato.
 
-- Microsoft 365 Government-GCC è conforme alle certificazioni e agli accreditamenti necessari per i clienti del settore pubblico degli Stati Uniti.
+- Microsoft 365 Government - GCC è conforme alle certificazioni e accreditamenti necessari per i clienti del settore pubblico statunitense.
 
-Per ulteriori informazioni sull'offerta governo-GCC di Microsoft 365 per i clienti del governo degli Stati Uniti, vedere i [piani governativi di Office 365](https://products.office.com/government/compare-office-365-government-plans), inclusi i requisiti di idoneità.
+Ulteriori informazioni sull'offerta Microsoft 365 Government - GCC per i clienti del governo statunitense sono disponibili nei piani di [Office 365 Government,](https://products.office.com/government/compare-office-365-government-plans)inclusi i requisiti di idoneità.
 
-La [Descrizione del servizio Office 365 US Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descrive i vantaggi della piattaforma, che sono incentrati sui requisiti di conformità conformi all'interno degli Stati Uniti.
+La [descrizione del servizio Office 365 US Government](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) descrive i vantaggi della piattaforma, che sono centrati sulla conformità dei requisiti all'interno degli Stati Uniti.
 
 > [!TIP]
-> Potrebbe essere necessario trasferire le tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: **rilevanti per l'organizzazione y/n** e **soddisfano le esigenze dell'organizzazione y/n**. È quindi possibile esaminare questo elenco con i colleghi per confermare che questo servizio soddisfi le esigenze dell'organizzazione.
+> È possibile trasferire gli tabelle delle informazioni nella descrizione del servizio in una cartella di lavoro di Excel e aggiungere due colonne: Rilevante per l'organizzazione **Y/N** e Soddisfa le esigenze dell'organizzazione **Y/N.** È quindi possibile esaminare l'elenco con i colleghi per verificare che questo servizio soddisfi le esigenze dell'organizzazione.
 
 > [!NOTE]
-> Microsoft 365 Government-GCC è disponibile solo negli Stati Uniti. I clienti non governativi degli Stati Uniti possono scegliere tra una serie di [piani governativi di Office 365](https://products.office.com/government/compare-office-365-government-plans).
+> Microsoft 365 Government - GCC è disponibile solo negli Stati Uniti. I clienti non statunitensi possono scegliere tra diversi piani di [Office 365 Government.](https://products.office.com/government/compare-office-365-government-plans)
 
 **Punti decisionali**: <br/>
-- *Decidere se Microsoft 365 Government-GCC è appropriato per la propria organizzazione.*
+- *Decidere se Microsoft 365 Government - GCC è appropriato per l'organizzazione.*
 - *Verificare che l'organizzazione soddisfi i requisiti di idoneità.*
 
-## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>Passaggio 2. Richiedi Microsoft 365 Government-GCC
+## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>Passaggio 2. Richiedere Microsoft 365 Government - GCC
 
-Dopo aver deciso che questo servizio è appropriato per la propria organizzazione, avviare il processo di [applicazione per questo servizio](https://products.office.com/government/eligibility-validation).
+Dopo aver deciso che questo servizio è giusto per l'organizzazione, avviare il processo di [richiesta per questo servizio.](https://products.office.com/government/eligibility-validation)
 
-## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>Passaggio 3. Informazioni sulle impostazioni di protezione predefinite di Microsoft 365 Government-GCC
+## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>Passaggio 3. Informazioni su Microsoft 365 Government - Impostazioni di sicurezza predefinite GCC
 
-È consigliabile richiedere tempo per esaminare attentamente le impostazioni di protezione e di amministratore prima di modificarle e considerare l'impatto sulla conformità prima di apportare modifiche alle impostazioni di protezione predefinite.
+È consigliabile prendere tempo per esaminare attentamente le impostazioni di sicurezza e di amministrazione prima di modificarle e valutare l'impatto sulla conformità prima di apportare modifiche alle impostazioni di sicurezza predefinite.
 
-**Punto decisionale**: *decidere se modificare una delle impostazioni di protezione predefinite di Microsoft 365 Government-GCC, risolvendo in primo luogo l'impatto di eventuali modifiche apportate.*
+**Punto di** decisione: decidere se modificare le impostazioni di sicurezza predefinite di *Microsoft 365 Government - GCC,* risolvendo per prima cosa l'impatto di eventuali modifiche apportate.
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Passaggio 4. Comprendere quali funzionalità non sono attualmente disponibili o disattivate per impostazione predefinita in Microsoft 365 Government – GCC<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Passaggio 4. Informazioni sulle funzionalità attualmente non disponibili o disabilitate per impostazione predefinita in Microsoft 365 Government – GCC<sup>1</sup>
 
-Per soddisfare i requisiti dei clienti del cloud governativo, esistono alcune differenze tra i piani di Microsoft 365 Government-GCC e Enterprise. Fare riferimento alla tabella seguente per vedere quali funzionalità sono disponibili. Vedere [qui](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) per gli ultimi aggiornamenti del prodotto di conformità pubblicati su Microsoft 365 roadmap.<br><br>
+Per soddisfare i requisiti dei clienti cloud per enti pubblici, esistono alcune differenze tra i piani di Microsoft 365 Government - GCC e enterprise. Fare riferimento alla tabella seguente per vedere quali funzionalità sono disponibili. Vedere [qui per](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) gli ultimi aggiornamenti dei prodotti di conformità pubblicati sulla roadmap di Microsoft 365.<br><br>
 
 | Area | Funzionalità | Stato GCC |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
-| **Protezione delle informazioni**              | Client e scanner Unified Labeling         | Disponibili              |
-|                                         | Corrispondenza esatta dei dati          | Disponibili              |
-|                                         | Classificazione ed etichettatura automatica per Exchange Online, SharePoint Online e OneDrive                      | Distribuzione              |
-|                                         | Classificazione ed etichettatura automatica per le app di Office (Word, Excel, PowerPoint, Outlook) tra piattaforme (Web, Android, iOS, Windows e Mac) |  In sviluppo              |
-|                                         | Classificazione ed etichettatura automatica per i client di Office (mobile)                                       | In ingegneria backlog              |
-|                                         | Classificazione automatica ed etichettatura per i team                            | In ingegneria backlog |
-|                                         | Analisi di classificazione dei dati: panoramica e Esplora contenuto                            | In ingegneria backlog |
-|                                         | Analisi: classificatori di apprendimento automatico con etichettatura automatica sul fianco del servizio                           | In ingegneria backlog  |
-|                                         | Analisi: classificatori di apprendimento automatico con etichettatura automatica su applicazioni di Office/client side                           | In ingegneria backlog  |
-|                                         | Crittografia dei messaggi di base di Office 365 (E3)                            | Disponibili              |
-|                                         | Crittografia dei messaggi di Office 365 avanzata (E5)  | Disponibili              |
-|                                         | Chiave cliente per Office 365    | Disponibili |
-|                                         | Portare la propria chiave (BYOK) per il ciclo di vita del provisioning dei tasti gestiti dal cliente                            | Disponibili |
-|                                         | Mantenere la propria chiave (HYOK) che si estende su Azure Information Protection e Active Directory (AD) Rights Management per scenari altamente regolamentati (anteprima)                         | Disponibili |
-|                                         | Crittografia a chiave doppia                           | Disponibili |
-|                                         | Crittografia: creazione condivisa in documenti crittografati tramite le app Web di WXP                           | In ingegneria backlog |
-|                                         | Prevenzione della perdita di dati (DLP) per file e messaggi di posta elettronica         | Disponibili |
-|                                         | DLP per la chat di team e le conversazioni dei canali         | In sviluppo |
-|                                         | Endpoint DLP | In ingegneria backlog |
-| **Governance delle informazioni** | Governance delle informazioni: archiviazione della posta elettronica                                       | Disponibili              |
-|                                         | Governance delle informazioni: blocco per la conservazione          | Disponibili              |
-|                                         | Governance delle informazioni: importazione di file PST                      | Disponibili              |
-|                                         | Governance delle informazioni: etichette di conservazione manuali non registrate            | Disponibili |
-|                                         | Governance delle informazioni: etichette di conservazione predefinite per SharePoint, raccolte di OneDrive for business, cartelle e set di documenti. Cassette postali di Exchange; e gruppi di Office 365 | Disponibili              |
-|                                         | Governance delle informazioni: criteri di conservazione per l'intera organizzazione; percorsi o utenti specifici; automaticamente in base a una condizione specifica (ad esempio, parole chiave o informazioni riservate); e in base a un evento                                       | Disponibili              |
-|                                         | Governance delle informazioni: criteri di conservazione per i team                            | Disponibili |
-|                                         | Governance delle informazioni: etichette di conservazione con classificazione di Syntex di SharePoint                            | In ingegneria backlog |
-|                                         | Governance delle informazioni: criteri di conservazione con classificatori addestrabili                            | In ingegneria backlog |
-|                                         | Governance delle informazioni: criteri di conservazione per la registrazione riunione di Teams                            | In ingegneria backlog |
-|                                         | Governance delle informazioni: criteri di conservazione per Yammer                            | In ingegneria backlog |
-|                                         | Gestione dei record: classificazione manuale per le etichette dei record                           | Disponibili              |
-|                                         | Gestione dei record: etichette di record predefinite per SharePoint, raccolte di OneDrive for business, cartelle e set di documenti. e gruppi di Office 365                              | Disponibili              |
-|                                         | Gestione dei record: criteri di registrazione automatici basati su specifiche condizioni (ad esempio, parole chiave o informazioni riservate); e in base a un evento                            | Disponibili              |
-|                                         | Gestione dei record: recensione sulla disposizione  | Disponibili              |
-|                                         | Gestione dei record: gestione del piano file    | Disponibili |
-|                                         | Gestione dei record: prova dello smaltimento                            | Disponibili |
-|                                         | Gestione record: controllo delle versioni dei record                            | Disponibili |
-|                                         | Gestione dei record: record regolatori (anteprima pubblica)                         | In sviluppo |
-|                                         | Gestione dei record: Revisione della disposizione in più fasi | In ingegneria backlog |
-|                                         | Gestione dei record: utilizzare la classificazione di Syntex di SharePoint per applicare etichette di record | In ingegneria backlog |
-| **Gestione dei rischi Insider**             | Customer Lockbox                                | Disponibili            |
-|                                         | Gestione dei rischi Insider: indicatori di Office per Team, siti di SharePoint, messaggistica di posta elettronica                         | In sviluppo |
-|                                         | Gestione dei rischi Insider: furto di dati da parte degli utenti                        | In sviluppo |
-|                                         | Gestione dei rischi Insider: perdite di dati generali                                | In sviluppo              |
-|                                         | Gestione dei rischi Insider: studiare avvisi di gestione dei rischi Insider                                   | In sviluppo              |
-|                                         | Gestione dei rischi Insider: Dashboard del caso, Content Explorer e modelli di avviso | In sviluppo |
-|                                         | Gestione dei rischi Insider: decrescente per le indagini per Advanced eDiscovery | In sviluppo|
-|                                         | Gestione dei rischi Insider: indicatori del dispositivo per attività in Windows 10 Build 1809 e versioni successive | In ingegneria backlog|
-|                                         | Gestione dei rischi Insider: indicatori per la violazione dei criteri di sicurezza (anteprima) | In ingegneria backlog|
-|                                         | Gestione dei rischi Insider: indicatori per Microsoft Defender per gli avvisi endpoint (anteprima) | In ingegneria backlog|
-|                                         | Gestione dei rischi Insider: modelli di criteri per le perdite di dati da parte di utenti prioritari (anteprima) | In ingegneria backlog |
-|                                         | Gestione dei rischi Insider: modelli di criteri per le perdite di dati da parte di utenti scontenti (anteprima) | In ingegneria backlog |
-|                                         | Gestione dei rischi Insider: modelli di criteri per violazioni generali dei criteri di sicurezza (anteprima) | In ingegneria backlog |
-|                                         | Gestione dei rischi Insider: modelli di criteri per violazioni dei criteri di sicurezza da parte di utenti prioritari, utenti che departono, utenti scontenti (anteprima) | In ingegneria backlog |
-|                                         | Gestione dei rischi Insider: personalizzazione del criterio (anteprima) | In ingegneria backlog |
-|                                         | Gestione dei rischi Insider: avvisi di esportazione (anteprima) | In ingegneria backlog |
-|                                         | Gestione dei rischi Insider: gruppi di utenti prioritari (anteprima) | In ingegneria backlog |
-|                                         | Conformità alla comunicazione (inclusi i criteri di supervisione): creare criteri per i clienti, 3 preconfigurati  | Distribuzione |
-|                                         | Conformità alla comunicazione (inclusi i criteri di supervisione): supporto per il messaggio teams, Exchange e Rimuovi Teams | Distribuzione |
-|                                         | Conformità alla comunicazione (inclusi i criteri di supervisione): avvisi di accesso; modelli di avviso; Dashboard per i criteri di comunicazione | Distribuzione  |
-|                                         | Conformità alla comunicazione (inclusi i criteri di supervisione): escalation per l'analisi per Advanced eDiscovery | Distribuzione |
-|                                         | Conformità alla comunicazione (inclusi i criteri di supervisione): individuare il contenuto per adulti | Distribuzione |
-|                                         | Conformità alla comunicazione: rileva la violazione del codice di condotta nel corso del tempo | Distribuzione |
-|                                         | Conformità alla comunicazione: supporto per autorizzazioni più granulari | Distribuzione |
-|                                         | Conformità della comunicazione: analizzare i dati di chat dei team degli utenti con la cassetta postale di on-Prem | Distribuzione |
-|                                         | Conformità alla comunicazione: modello di conflitto di interessi | In ingegneria backlog |
-|                                         | Conformità comunicazione: possibilità di ignorare la firma di posta elettronica o la dichiarazione di non responsabilità | In ingegneria backlog |
-|                                         | Conformità alla comunicazione: gestione dei rischi Insider hand-off | In ingegneria backlog |
-|                                         | Conformità della comunicazione: verifica dell'integrità del criterio e possibilità di sospendere i criteri | In ingegneria backlog |
-|                                         | Conformità della comunicazione: tradurre il contenuto di integrità durante l'analisi | In ingegneria backlog |
-|                                         | Conformità alla comunicazione: Burnout and Suicide Detection | In ingegneria backlog |
-|                                         | Barriere informative | In ingegneria backlog |
-|                                         | Gestione accessi con privilegi                    | In ingegneria backlog |
-| **Scoprire & rispondere**                  | EDiscovery Core: conservazione sul posto                            | Disponibili              |
-|                                         | EDiscovery di base: controllo                                 | Disponibili              |
-|                                         | EDiscovery di base: gestione dei casi                                 | Disponibili              |
-|                                         | EDiscovery Core: Export                                          | Disponibili              |
-|                                         | EDiscovery di base: esportazione nativa                                  | Disponibili              |
-|                                         | EDiscovery Core: decrittografia RMS                                   | Disponibili              |
-|                                         | EDiscovery Core: supporto di Microsoft Compliance esteso per la ricerca e l'esportazione di elementi nel cestino di SharePoint e OneDrive for business                                        | In sviluppo              |
-|                                         | Advanced eDiscovery: elaborazione avanzata                             | Disponibili |
-|                                         | Advanced eDiscovery: Dashboard                                 | Disponibili |
-|                                         | Advanced eDiscovery: Threading della posta elettronica                   | Disponibili |
-|                                         | Advanced eDiscovery: Export (download, esportazione, aggiunta a un altro set di visualizzazioni)                                          | Disponibili |
-|                                         | Advanced eDiscovery: filtro                               | Disponibili |
-|                                         | Advanced eDiscovery: conservazione legale dei messaggi per i canali privati dei team                 | Disponibili |
-|                                         | Advanced eDiscovery: identificazione quasi duplicata                                         | Disponibili |
-|                                         | Advanced eDiscovery: origini dati non detentive                                         | Disponibili |
-|                                         | Advanced eDiscovery: ingestione non Office 365                                      | Disponibili |
-|                                         | Advanced eDiscovery: codifica predittiva                                       | Disponibili |
-|                                         | Advanced eDiscovery: esportazione elaborata con il file di carico                   | Disponibili |
-|                                         | Advanced eDiscovery: redazioni                        | Disponibili |
-|                                         | Advanced eDiscovery: set di Revisione                                     | Disponibili |
-|                                         | Advanced eDiscovery: esaminare i dati (query data, smart tag, dashboard) e annotazioni (redigere)                             | Disponibili |
-|                                         | Advanced eDiscovery: rapporto termini di ricerca                        | Disponibili |
-|                                         | Advanced eDiscovery: correzione degli errori di un singolo elemento                              | Disponibili |
-|                                         | Advanced eDiscovery: supporto per l'esportazione di PST                              | Disponibili |
-|                                         | Advanced eDiscovery: supporto di contenuto collegato da OneDrive e SharePoint Online (allegati moderni)                              | Disponibili |
-|                                         | Advanced eDiscovery: tagging                              | Disponibili |
-|                                         | Advanced eDiscovery: rapporti tenant                              | Disponibili |
-|                                         | Advanced eDiscovery: temi                              | Disponibili |
-|                                         | Advanced eDiscovery: visualizzatori                              | Disponibili |
-|                                         | Advanced eDiscovery: Yammer Advanced eDiscovery nel centro conformità di Microsoft                              | Disponibili |
-|                                         | Advanced eDiscovery: supporto di Microsoft Compliance Expanded Support to Search and Export items in SharePoint and OneDrive for business cestino                              | In sviluppo |
-|                                         | Advanced eDiscovery: supporto per le reazioni di Teams                              | In sviluppo |
-|                                         | Audit di base                              | Disponibili |
-|                                         | Controllo avanzato: accesso a eventi cruciali (ad esempio, mailitemsaccessed)                              | Disponibili |
-|                                         | Controllo avanzato: maggiore larghezza di banda per l'API di attività di gestione                              | Disponibili |
-|                                         | Controllo avanzato: conservazione legale dei messaggi per i canali privati dei team                               | Disponibili |
+| **Protezione delle informazioni**              | Client e scanner di etichettatura unificati         | Disponibile              |
+|                                         | Corrispondenza esatta dei dati          | Disponibile              |
+|                                         | Classificazione ed etichettatura automatiche per Exchange Online, SharePoint Online e OneDrive                      | Distribuzione              |
+|                                         | Classificazione automatica ed etichettatura per le app di Office (Word, Excel, PowerPoint, Outlook) su più piattaforme (Web, Android, iOS, Windows e Mac) |  In fase di sviluppo              |
+|                                         | Classificazione ed etichettatura automatiche per i client di Office (mobile)                                       | Backlog di progettazione              |
+|                                         | Classificazione ed etichettatura automatiche per Teams                            | Backlog di progettazione |
+|                                         | Analisi della classificazione dei dati: panoramica ed Esplora contenuto                            | Backlog di progettazione |
+|                                         | Analisi: classificatori di machine learning con etichettatura automatica sul lato servizio                           | Backlog di progettazione  |
+|                                         | Analisi: classificatori di machine learning con etichettatura automatica sul lato client/app di Office                           | Backlog di progettazione  |
+|                                         | Crittografia dei messaggi di Office 365 di base (E3)                            | Disponibile              |
+|                                         | Crittografia avanzata dei messaggi di Office 365 (E5)  | Disponibile              |
+|                                         | Chiave cliente per Office 365    | Disponibile |
+|                                         | Bring Your Own Key (BYOK) per il ciclo di vita del provisioning delle chiavi gestito dal cliente                            | Disponibile |
+|                                         | Mantenere la propria chiave (HYOK) che si estende su Azure Information Protection e Active Directory (AD) Rights Management per scenari altamente regolamentati (Anteprima)                         | Disponibile |
+|                                         | Crittografia a chiave doppia                           | Disponibile |
+|                                         | Crittografia: creazione condivisa su documenti crittografati tramite app Web WXP                           | Backlog di progettazione |
+|                                         | Prevenzione della perdita dei dati (DLP) per file e posta elettronica         | Disponibile |
+|                                         | DLP per le conversazioni di chat e canali di Teams         | In fase di sviluppo |
+|                                         | DLP Endpoint | Backlog di progettazione |
+| **Governance delle informazioni** | Governance delle informazioni: Archiviazione posta elettronica                                       | Disponibile              |
+|                                         | Governance delle informazioni: blocco di conservazione          | Disponibile              |
+|                                         | Governance delle informazioni: importare PST                      | Disponibile              |
+|                                         | Governance delle informazioni: etichette di conservazione manuali non record            | Disponibile |
+|                                         | Governance delle informazioni: etichette di conservazione predefinite per raccolte, cartelle e set di documenti di SharePoint, OneDrive for Business; Posta in arrivo di Exchange; e Gruppi di Office 365 | Disponibile              |
+|                                         | Governance delle informazioni: criteri di conservazione per l'intera organizzazione; posizioni o utenti specifici; automaticamente in base a condizioni specifiche (ad esempio parole chiave o informazioni riservate); e in base a un evento                                       | Disponibile              |
+|                                         | Governance delle informazioni: criteri di conservazione per Teams                            | Disponibile |
+|                                         | Governance delle informazioni: etichette di conservazione tramite la classificazione Syntex di SharePoint                            | Backlog di progettazione |
+|                                         | Governance delle informazioni: criteri di conservazione con classificatori addestrabili                            | Backlog di progettazione |
+|                                         | Governance delle informazioni: criteri di conservazione per la registrazione delle riunioni di Teams                            | Backlog di progettazione |
+|                                         | Governance delle informazioni: criteri di conservazione per Yammer                            | Backlog di progettazione |
+|                                         | Gestione dei record: classificazione manuale per le etichette di record                           | Disponibile              |
+|                                         | Gestione dei record: etichette di record predefinite per raccolte, cartelle e set di documenti di SharePoint, OneDrive for Business; e gruppi di Office 365                              | Disponibile              |
+|                                         | Gestione dei record: criteri di record automatici basati su condizioni specifiche (ad esempio parole chiave o informazioni riservate); e in base a un evento                            | Disponibile              |
+|                                         | Gestione dei record: revisione dell'eliminazione  | Disponibile              |
+|                                         | Gestione dei record: Gestione piano di file    | Disponibile |
+|                                         | Gestione dei record: prova di eliminazione                            | Disponibile |
+|                                         | Gestione record: controllo delle versioni dei record                            | Disponibile |
+|                                         | Gestione dei record: record normativi (anteprima pubblica)                         | In fase di sviluppo |
+|                                         | Gestione dei record: revisione dell'eliminazione in più fasi | Backlog di progettazione |
+|                                         | Gestione record: utilizzare la classificazione Syntex di SharePoint per applicare etichette di record | Backlog di progettazione |
+| **Gestione dei rischi insider**             | Customer Lockbox                                | Disponibile            |
+|                                         | Insider Risk Management: indicatori di Office per Teams, siti di SharePoint, messaggi di posta elettronica                         | In fase di sviluppo |
+|                                         | Insider Risk Management: furto di dati da parte di utenti in partenza                        | In fase di sviluppo |
+|                                         | Insider Risk Management: perdite di dati generali                                | In fase di sviluppo              |
+|                                         | Insider Risk Management: analizzare gli avvisi di gestione dei rischi insider                                   | In fase di sviluppo              |
+|                                         | Gestione dei rischi insider: dashboard del caso, Esplora contenuto e modelli di avviso | In fase di sviluppo |
+|                                         | Insider Risk Management: escalation per l'indagine per Advanced eDiscovery | In fase di sviluppo|
+|                                         | Gestione dei rischi Insider: indicatori del dispositivo per l'attività in Windows 10 Build 1809 e versioni successive | Backlog di progettazione|
+|                                         | Insider Risk Management: indicatori per la violazione dei criteri di sicurezza (anteprima) | Backlog di progettazione|
+|                                         | Insider Risk Management: indicatori per gli avvisi di Microsoft Defender for Endpoint (anteprima) | Backlog di progettazione|
+|                                         | Gestione dei rischi Insider: modelli di criteri per le perdite di dati da parte degli utenti con priorità (anteprima) | Backlog di progettazione |
+|                                         | Insider Risk Management: modelli di criteri per le perdite di dati da parte di utenti scontenti (anteprima) | Backlog di progettazione |
+|                                         | Insider Risk Management: modelli di criteri per violazioni generali dei criteri di sicurezza (anteprima) | Backlog di progettazione |
+|                                         | Gestione dei rischi Insider: modelli di criteri per le violazioni dei criteri di sicurezza da parte di utenti con priorità, utenti in partenza, utenti scontenti (anteprima) | Backlog di progettazione |
+|                                         | Gestione dei rischi Insider: personalizzazione dei criteri (anteprima) | Backlog di progettazione |
+|                                         | Gestione dei rischi Insider: esportare gli avvisi (anteprima) | Backlog di progettazione |
+|                                         | Gestione dei rischi insider: gruppi di utenti con priorità (anteprima) | Backlog di progettazione |
+|                                         | Conformità delle comunicazioni (incl. criteri di supervisione): creare criteri per i clienti, 3 preconfigurato  | Distribuzione |
+|                                         | Conformità delle comunicazioni (incl. Criteri di supervisione): supporto per Teams, Exchange e rimozione del messaggio di Teams | Distribuzione |
+|                                         | Conformità delle comunicazioni (incl. criteri di supervisione): avvisi di accesso; modelli di avviso; dashboard dei criteri di comunicazione | Distribuzione  |
+|                                         | Conformità delle comunicazioni (incl. criteri di supervisione): escalation per l'indagine per Advanced eDiscovery | Distribuzione |
+|                                         | Conformità delle comunicazioni (incl. criteri di supervisione): rilevare i contenuti per adulti | Distribuzione |
+|                                         | Conformità delle comunicazioni: rileva la violazione del codice di condotta ripetuto nel tempo | Distribuzione |
+|                                         | Conformità delle comunicazioni: supporto per autorizzazioni più granulari | Distribuzione |
+|                                         | Conformità delle comunicazioni: analizzare i dati di chat di Teams degli utenti con una cassetta postale locale | Distribuzione |
+|                                         | Conformità delle comunicazioni: modello conflitto di interesse | Backlog di progettazione |
+|                                         | Conformità delle comunicazioni: possibilità di ignorare la firma o la dichiarazione di non responsabilità della posta elettronica | Backlog di progettazione |
+|                                         | Conformità delle comunicazioni: hand-off per la gestione dei rischi insider | Backlog di progettazione |
+|                                         | Conformità delle comunicazioni: controllo dell'integrità dei criteri e possibilità di sospendere i criteri | Backlog di progettazione |
+|                                         | Conformità delle comunicazioni: tradurre il contenuto dell'integrità durante l'indagine | Backlog di progettazione |
+|                                         | Conformità delle comunicazioni: rilevamento di burnout e attacchi di morte | Backlog di progettazione |
+|                                         | Barriere informative | Backlog di progettazione |
+|                                         | Gestione accessi con privilegi                    | Backlog di progettazione |
+| **Individuare & rispondere**                  | Core eDiscovery: conservazione sul posto                            | Disponibile              |
+|                                         | Core eDiscovery: Controllo                                 | Disponibile              |
+|                                         | Core eDiscovery: Gestione dei casi                                 | Disponibile              |
+|                                         | Core eDiscovery: Esportazione                                          | Disponibile              |
+|                                         | Core eDiscovery: esportazione nativa                                  | Disponibile              |
+|                                         | Core eDiscovery: decrittografia RMS                                   | Disponibile              |
+|                                         | Core eDiscovery: Il Centro conformità Microsoft ha esteso il supporto per la ricerca e l'esportazione di elementi nel Cestino di SharePoint e OneDrive for Business                                        | In fase di sviluppo              |
+|                                         | Advanced eDiscovery: Elaborazione avanzata                             | Disponibile |
+|                                         | Advanced eDiscovery: Dashboard                                 | Disponibile |
+|                                         | Advanced eDiscovery: Threading della posta elettronica                   | Disponibile |
+|                                         | Advanced eDiscovery: Esportare (scaricare, esportare, aggiungere a un altro set di visualizzazione)                                          | Disponibile |
+|                                         | Advanced eDiscovery: Filtro                               | Disponibile |
+|                                         | Advanced eDiscovery: blocco legale per i messaggi di canali privati di Teams                 | Disponibile |
+|                                         | Advanced eDiscovery: identificazione quasi duplicata                                         | Disponibile |
+|                                         | Advanced eDiscovery: origini dati non di custodia                                         | Disponibile |
+|                                         | Advanced eDiscovery: inserimento non di Office 365                                      | Disponibile |
+|                                         | Advanced eDiscovery: codifica predittiva                                       | Disponibile |
+|                                         | Advanced eDiscovery: esportazione elaborata con file di caricamento                   | Disponibile |
+|                                         | Advanced eDiscovery: Redactions                        | Disponibile |
+|                                         | Advanced eDiscovery: set di revisione                                     | Disponibile |
+|                                         | Advanced eDiscovery: esaminare i dati (dati di query, smart tag, dashboard) e annotare (redact)                             | Disponibile |
+|                                         | Advanced eDiscovery: report dei termini di ricerca                        | Disponibile |
+|                                         | Advanced eDiscovery: correzione degli errori di un singolo elemento                              | Disponibile |
+|                                         | Advanced eDiscovery: supportare l'esportazione PST                              | Disponibile |
+|                                         | Advanced eDiscovery: supporto del contenuto collegato da OneDrive e SharePoint Online (allegati moderni)                              | Disponibile |
+|                                         | Advanced eDiscovery: Tagging                              | Disponibile |
+|                                         | Advanced eDiscovery: report tenant                              | Disponibile |
+|                                         | Advanced eDiscovery: Temi                              | Disponibile |
+|                                         | Advanced eDiscovery: Visualizzatori                              | Disponibile |
+|                                         | Advanced eDiscovery: Yammer Advanced eDiscovery nel Centro conformità Microsoft                              | Disponibile |
+|                                         | Advanced eDiscovery: Il Centro conformità Microsoft ha esteso il supporto per la ricerca e l'esportazione di elementi nel Cestino di SharePoint e OneDrive for Business                              | In fase di sviluppo |
+|                                         | Advanced eDiscovery: supporto per le reazioni di Teams                              | In fase di sviluppo |
+|                                         | Controllo di base                              | Disponibile |
+|                                         | Controllo avanzato: accesso a eventi cruciali (ad esempio, mailitemsaccessed)                              | Disponibile |
+|                                         | Controllo avanzato: aumento della larghezza di banda per l'API delle attività di gestione                              | Disponibile |
+|                                         | Controllo avanzato: blocco legale per i messaggi dei canali privati di Teams                               | Disponibile |
 |                                         | Controllo avanzato: conservazione dei registri (1 anno)                               | Distribuzione |
-|                                         | Controllo avanzato: Centro sicurezza e conformità                               | Disponibili |
-|                                         | Controllo avanzato: conservazione a lungo termine sui registri di controllo (10 anni)                               | In ingegneria backlog |
-|                                         | Controllo avanzato: eventi di inoltro della posta elettronica e posta elettronica                               | In ingegneria backlog |
-|                                         | Controllo avanzato: approfondimenti di controllo elaborati                               | In ingegneria backlog |
-|                                         | Controllo avanzato: eventi dei termini di ricerca in Exchange Online e SharePoint Online                              | In ingegneria backlog |
-|    **Gestione della conformità**            | Centro sicurezza e conformità di Microsoft 365                              | Disponibili |
-|                                         | Compliance Manager                              | Disponibili |
-|                                         | Microsoft Cloud App Security                              | In ingegneria backlog |
-|                                         | Supporto per i caratteri a byte doppio                              | In ingegneria backlog |
-|    **Ecosistema**            | API del grafico per Advanced eDiscovery                              | In sviluppo |
-|                                         | Connettori di dati di First-Party                              | In ingegneria backlog |
-|                                         | Connettori dati di terze parti                              | In ingegneria backlog |
-|                                         | API del grafico per i dati di esportazione dei team                              | In ingegneria backlog |
+|                                         | Controllo avanzato: Centro sicurezza e conformità                               | Disponibile |
+|                                         | Controllo avanzato: conservazione a più lungo termine nei log di controllo (10 anni)                               | Backlog di progettazione |
+|                                         | Controllo avanzato: eventi di inoltro della posta e invio della posta                               | Backlog di progettazione |
+|                                         | Controllo avanzato: informazioni dettagliate sui controlli elaborati                               | Backlog di progettazione |
+|                                         | Controllo avanzato: eventi dei termini di ricerca in Exchange Online e SharePoint Online                              | Backlog di progettazione |
+|    **Gestione della conformità**            | Centro sicurezza e conformità di Microsoft 365                              | Disponibile |
+|                                         | Compliance Manager                              | Disponibile |
+|                                         | Microsoft Cloud App Security                              | Backlog di progettazione |
+|                                         | Supporto dei caratteri a byte doppio                              | Backlog di progettazione |
+|    **Ecosistema**            | API Graph per Advanced eDiscovery                              | In fase di sviluppo |
+|                                         | Connettori dati di prima parte                              | Backlog di progettazione |
+|                                         | Connettori dati di terze parti                              | Backlog di progettazione |
+|                                         | API graph per i dati di esportazione di Teams                              | Backlog di progettazione |
 
 
 
 
-<sup>1</sup> lo stato identificato è soggetto a modifiche man mano che i piani di progetto e le priorità vengono rivalutati.<br/>
+<sup>1</sup> Lo stato identificato è soggetto a modifiche in seguito alla rivalutazione dei piani e delle priorità del progetto.<br/>
 
-**Punto decisionale**: *decidere se le funzionalità di conformità soddisfano le esigenze dell'organizzazione.*
+**Punto di decisione:** *decidere se le funzionalità di conformità soddisfano le esigenze dell'organizzazione.*

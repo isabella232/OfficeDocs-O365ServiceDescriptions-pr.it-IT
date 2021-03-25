@@ -10,19 +10,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: In Project online sono disponibili le seguenti funzionalità di base.
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: In Project Online sono disponibili le funzionalità di base seguenti.
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411585"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172711"
 ---
 # <a name="core-functionality"></a>Funzionalità di base
 
-In Project online sono disponibili le seguenti funzionalità di base.
+In Project Online sono disponibili le funzionalità di base seguenti.
   
-Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [Descrizione del servizio Project Online](project-online-service-description.md).
+Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
   
 ## <a name="add-columns"></a>Aggiunta di colonne
 
@@ -30,11 +30,11 @@ Consente di aggiungere una colonna nella visualizzazione. Per ulteriori informaz
   
 ## <a name="backstage"></a>Backstage
 
-Selezionare **file** per utilizzare le funzionalità nel backstage, in cui è possibile gestire i file di progetto e i relativi dati. Utilizza il Backstage per qualsiasi cosa da fare sul file di progetto che non si svolge internamente al file, come creare, salvare, ispezionare metadati nascosti o informazioni personali e impostazioni generali. 
+Selezionare **File** per usare le funzionalità nella backstage, in cui è possibile gestire i file di progetto e i relativi dati. Utilizza il Backstage per qualsiasi cosa da fare sul file di progetto che non si svolge internamente al file, come creare, salvare, ispezionare metadati nascosti o informazioni personali e impostazioni generali. 
   
 ## <a name="click-to-run"></a>A portata di clic
 
-Installare rapidamente Project online tramite Internet, reti interne, file system locali o da un supporto offline per assicurarsi di essere aggiornati con la versione più recente dell'applicazione Project desktop. Per ulteriori informazioni, vedere [A portata di clic](https://go.microsoft.com/fwlink/p/?LinkId=271596).
+Installa rapidamente Project Online su Internet, reti interne, file system locali o da supporti offline per assicurarti di essere aggiornato con la versione più recente dell'applicazione desktop Project. Per ulteriori informazioni, vedere [A portata di clic](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Menu contestuali del pulsante destro del mouse
 
@@ -50,9 +50,9 @@ Semplicemente copiando e incollando i dettagli di pianificazione tra le applicaz
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Diagramma di Gantt, calendario e altre visualizzazioni
 
-Presentare le informazioni di progetto graficamente tramite diagramma di Gantt, diagrammi reticolari, grafici, fogli, utilizzo e visualizzazioni maschera. Vedere [Scegliere la visualizzazione destra della pianificazione del progetto](https://go.microsoft.com/fwlink/?LinkId=402905).
+Presentare graficamente le informazioni del progetto utilizzando le visualizzazioni Diagramma di Gantt, Diagramma reticolare, Grafico, Foglio, Utilizzo e Modulo. Vedere [Scegliere la visualizzazione destra della pianificazione del progetto](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="user-interface-the-ribbon"></a>Interfaccia utente, la barra multifunzione
+## <a name="user-interface-the-ribbon"></a>Interfaccia utente, barra multifunzione
 
 Grazie alla barra multifunzione, un'interfaccia a schede che consente di trovare e utilizzare velocemente e facilmente i comandi e le funzionalità disponibili in Project, è possibile aumentare la produttività.
 
@@ -64,17 +64,17 @@ Grazie alla barra multifunzione, un'interfaccia a schede che consente di trovare
 
 Visualizzare attività, dipendenze e percorsi critici del progetto in una visualizzazione Diagramma reticolare. Per ulteriori informazioni, vedere [Creare un diagramma reticolare](https://go.microsoft.com/fwlink/p/?LinkId=271338).
   
-## <a name="office-store"></a>Archivio di Office
+## <a name="office-store"></a>Office Store
 
-È necessaria un'app da utilizzare con Project? Trovare nuove applicazioni per Project in Office Store. Per ulteriori informazioni, vedere [Componenti aggiuntivi per Project 2013](https://go.microsoft.com/fwlink/?LinkId=273883).
+È necessaria un'app da utilizzare con Project? Trovare nuove applicazioni per Project nell'Office Store. Per ulteriori informazioni, vedere [Componenti aggiuntivi per Project 2013](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Guida online
 
-La Guida di Project è disponibile in Office.com o nelle guide introduttive direttamente in Project (selezionare **file** \> **nuovo**). [Guardare questi video per passare a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+La Guida di Project è disponibile Office.com guida introduttiva direttamente in Project (selezionare **File** \> **Nuovo**). [Guardare questi video per passare a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>Output PDF e XPS
 
-Salvare un file di progetto come file PDF o XPS. Per ulteriori informazioni, vedere [Salvare un file di progetto in formato PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Salvare un file di Project come file PDF o XPS. Per ulteriori informazioni, vedere [Salvare un file di progetto in formato PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Testo segnaposto nei campi di Project
 
@@ -102,4 +102,4 @@ Utilizzare i controlli zoom disponibili sulla barra di stato per modificare velo
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Project Online](project-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Project Online.](project-online-service-description.md)

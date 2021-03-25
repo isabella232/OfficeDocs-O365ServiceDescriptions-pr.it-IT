@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e i piani autonomi.
-ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726761"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172611"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -72,7 +72,7 @@ Per ottenere prestazioni ottimali, è consigliabile archiviare non più di 300.0
 Un utente può appartenere a 5.000 gruppi per sito (raccolta siti) e ogni gruppo può avere fino a 5.000 utenti. È possibile avere fino a 10.000 gruppi per sito (raccolta siti).
 
 > [!NOTE]
-> Per i limiti dei gruppi di Azure AD, vedere Limiti e restrizioni del servizio [Azure AD](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) in quanto tali limiti possono influire sulla gestione dell'appartenenza a siti di gruppi pubblici e privati.
+> Per i limiti dei gruppi di Azure AD, vedere Limiti e restrizioni del servizio [Azure AD](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) in quanto tali limiti possono influire sulla gestione dell'appartenenza a siti di gruppi pubblici e privati.
 
 ### <a name="managed-metadata"></a>Metadati gestiti
 
@@ -87,7 +87,7 @@ Un utente può appartenere a 5.000 gruppi per sito (raccolta siti) e ogni gruppo
 2.000 per sito (raccolta siti). È consigliabile creare siti e organizzarli in hub anziché creare siti secondari. Se si utilizzano siti secondari, è consigliabile limitarne il numero(soprattutto nei siti con traffico intenso).
 
 > [!NOTE]
-> Il limite è di 2.000 siti hub per organizzazione. Potrebbe non essere necessario un sito hub per ogni funzione ed è importante eseguire alcune attività di pianificazione prima di creare hub. Per ulteriori informazioni, visitare [Pianificazione dei siti hub di SharePoint.](https://docs.microsoft.com/sharepoint/planning-hub-sites)
+> Il limite è di 2.000 siti hub per organizzazione. Potrebbe non essere necessario un sito hub per ogni funzione ed è importante eseguire alcune attività di pianificazione prima di creare hub. Per ulteriori informazioni, visitare [Pianificazione dei siti hub di SharePoint.](/sharepoint/planning-hub-sites)
 
 ### <a name="sharepoint-hosted-applications"></a>Applicazioni ospitate in SharePoint
 
@@ -98,8 +98,8 @@ Un utente può appartenere a 5.000 gruppi per sito (raccolta siti) e ogni gruppo
 2 milioni per raccolta siti.
 
 > [!NOTE]
-> Non esiste un limite distinto al numero di guest che è possibile invitare nei siti di SharePoint. Per ulteriori informazioni sulla condivisione esterna, vedere [Panoramica della condivisione esterna.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+> Non esiste un limite distinto al numero di guest che è possibile invitare nei siti di SharePoint. Per ulteriori informazioni sulla condivisione esterna, vedere [Panoramica della condivisione esterna.](/sharepoint/external-sharing-overview)
 
 ## <a name="see-also"></a>Vedere anche
 
-[Limiti di ricerca per SharePoint](https://docs.microsoft.com/sharepoint/search-limits)
+[Limiti di ricerca per SharePoint](/sharepoint/search-limits)

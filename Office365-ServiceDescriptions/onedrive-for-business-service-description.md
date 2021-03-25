@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901951"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172731"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
@@ -85,7 +85,7 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 > [!NOTE]
 > È necessario assegnare almeno una licenza a un utente prima di poter aumentare lo spazio di archiviazione predefinito in OneDrive. 
   
-Quando è necessario uno spazio di archiviazione per singoli utenti sul cloud superiore ai 5 TB iniziali, gli amministratori possono [aprire un caso con il supporto tecnico Microsoft](https://go.microsoft.com/fwlink/?linkid=869559) per richiederlo. Lo spazio di archiviazione aggiuntivo sul cloud si ottiene come descritto di seguito: 
+Quando è necessario uno spazio di archiviazione per singoli utenti sul cloud superiore ai 5 TB iniziali, gli amministratori possono [aprire un caso con il supporto tecnico Microsoft](/microsoft-365/admin/contact-support-for-business-products) per richiederlo. Lo spazio di archiviazione aggiuntivo sul cloud si ottiene come descritto di seguito: 
   
 - Quando un utente ha riempito i suoi 5 TB di spazio di archiviazione in OneDrive per almeno il 90% della capacità, Microsoft aumenta lo spazio di archiviazione predefinito in OneDrive fino a 25 TB per ogni utente (gli amministratori possono impostare una quantità inferiore per ogni utente se lo desiderano). 
     
@@ -101,7 +101,7 @@ L'archiviazione dei dati diversi dai file di lavoro dei singoli utenti, compresi
   
 ## <a name="onedrive-limits"></a>Limiti di OneDrive
 
-Per informazioni sui limiti di file e di sincronizzazione, consultare [Limiti di SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) e [Nomi file e tipi di file non validi](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+Per informazioni sui limiti di file e di sincronizzazione, consultare [Limiti di SharePoint](./sharepoint-online-service-description/sharepoint-online-limits.md) e [Nomi file e tipi di file non validi](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
   
 Per i piani che includono spazio di archiviazione illimitato sul cloud per singoli utenti, tenere presente che potrebbero essere applicate limitazioni alle funzionalità diverse dall'archiviazione. 
 
@@ -185,5 +185,4 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 
 ## <a name="it-admin-security-and-compliance-features"></a>Funzionalità per la sicurezza, la conformità e l'amministratore IT
 
-Per informazioni su queste funzionalità, consultare la [Descrizione del servizio SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
-
+Per informazioni su queste funzionalità, consultare la [Descrizione del servizio SharePoint](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features).

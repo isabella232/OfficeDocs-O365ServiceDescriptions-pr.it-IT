@@ -8,39 +8,39 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
-ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: In Project Online sono disponibili le funzionalità di base seguenti.
+ms.openlocfilehash: 4816f9e21cfe44f4a75b9366b347bfd820303fc2
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294074"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174131"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 
-In Project online sono disponibili le seguenti funzionalità di funzionalità dei servizi di base.
+In Project Online sono disponibili le funzionalità di base seguenti.
   
-Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [Descrizione del servizio Project Online](project-online-service-description.md).
+Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
   
 ## <a name="active-directory-integration"></a>Integrazione con Active Directory
 
-Active Directory fornisce una posizione centrale agli amministratori per gestire le autorizzazioni e le credenziali dell'utente. L'integrazione di Active Directory con Project determina che gli utenti e i gruppi nell'Active Directory siano sincronizzati in Project Online o in Project Server 2013. Vedere [Gestire sincronizzazione di gruppi di sicurezza con Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
+Active Directory fornisce una posizione centrale agli amministratori per gestire le autorizzazioni e le credenziali dell'utente. L'integrazione di Active Directory con Project determina che gli utenti e i gruppi nell'Active Directory siano sincronizzati in Project Online o in Project Server 2013. Vedere [Gestire sincronizzazione di gruppi di sicurezza con Active Directory in Project Server 2013](/project/manage-security-group-synchronization-with-active-directory-in-project-server).
   
-## <a name="administration-deployment-and-extensibility"></a>Amministrazione, distribuzione ed estensibilità
+## <a name="administration-deployment-and-extensibility"></a>Amministrazione, distribuzione ed estendibilità
 
-Project Online e Project Server 2013 forniscono funzionalità agli amministratori per pianificare, installare, configurare, mantenere ed espandere Project. Per ulteriori informazioni, vedere [Novità di Project Server 2013 per i professionisti IT](https://go.microsoft.com/fwlink/p/?LinkId=272017).
+Project Online e Project Server 2013 forniscono funzionalità agli amministratori per pianificare, installare, configurare, mantenere ed espandere Project. Per ulteriori informazioni, vedere [Novità di Project Server 2013 per i professionisti IT](/project/what-s-new-for-it-pros-in-project-server-2016).
   
 ## <a name="getting-started"></a>Introduzione
 
-Per Project online è possibile ottenere contenuto introduttivo. Vedere [Introduzione a Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
+Il contenuto introduttivo è disponibile per Project Online. Vedere [Introduzione a Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gestione dei problemi e dei rischi (per i membri dei team)
 
-Project Online e Project Server 2013 include funzionalità per prevenire, identificare e mitigare potenziali problemi o rischi relativi all'azienda o a un determinato progetto. Per ulteriori informazioni, vedere [Gestione problematiche, rischi e documenti in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online e Project Server 2013 include funzionalità per prevenire, identificare e mitigare potenziali problemi o rischi relativi all'azienda o a un determinato progetto. Per ulteriori informazioni, vedere [Gestione problematiche, rischi e documenti in Project Web App](/previous-versions/office/project-server-2010/hh767484(v=office.14)).
   
 ## <a name="office-365-trust-center"></a>Centro protezione di Office 365
 
-I dati sono vostri. La salvaguardiamo e proteggiamo la privacy. Vedere [il Centro protezione di Office 365](https://go.microsoft.com/fwlink/?LinkId=402637).
+I dati sono tuoi. Microsoft la protegge e protegge la privacy dell'utente. Vedere [Centro protezione di Office 365](https://go.microsoft.com/fwlink/?LinkId=402637).
   
 ## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 
@@ -48,17 +48,16 @@ La soluzione PPM (gestione portfolio progetti) di Microsoft è sostenuta da cent
   
 ## <a name="service-reliability"></a>Service reliability
 
-Siamo in attesa del 99,9% di tempo di attività con una garanzia finanziaria leader nel settore per i clienti. Vedere [Continuità del servizio](https://go.microsoft.com/fwlink/?LinkId=402653).
+La nostra promessa di tempi di attività del 99,9% è garantita da una garanzia finanziaria leader del settore per i clienti. Vedere [Continuità del servizio](https://go.microsoft.com/fwlink/?LinkId=402653).
   
 ## <a name="service-updates"></a>Aggiornamenti dei servizi
 
-Vengono aggiornati regolarmente i servizi Microsoft con nuove caratteristiche e funzionalità. Vedere [Service Updates](../office-365-platform-service-description/service-updates.md).
+Microsoft aggiorna regolarmente i servizi Microsoft con nuove funzionalità e funzionalità. Vedere [Service updates](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Collaborazione tra membri del team
 
-La collaborazione di team supporta e guida la riuscita generale del progetto e la sua efficacia. Per sapere in che modo Project Server 2013 consente alle organizzazioni di collaborare ai progetti, vedere [video: collaborare con il team](https://go.microsoft.com/fwlink/?LinkId=402628).
+La collaborazione di team supporta e guida la riuscita generale del progetto e la sua efficacia. Per informazioni su come Project Server 2013 consente alle organizzazioni di collaborare ai progetti, vedere [Video: Collaborare con il team.](https://go.microsoft.com/fwlink/?LinkId=402628)
   
 ## <a name="time-and-task-management-for-team-members"></a>Gestione delle tempistiche e delle attività (per i membri dei team)
 
 È opportuno utilizzare un approccio centralizzato e comune per la gestione dei tempi e delle attività. Intercettare i tempi di lavoro e di inattività per il calcolo degli stipendi, l'emissione delle fatture e altri scopi aziendali. Comunica con precisione lo stato dei progetti, il lavoro giornaliero e le richieste ad hoc per misurare i periodi di maggior e minor utilizzo o i progressi delle attività. Questo aiuta ad anticipare l'effetto sullo sforzo, costo e tempistiche pianificate. Per ulteriori informazioni, vedere [Tenere traccia del tempo dedicato alle attività e dell'avanzamento delle attività](https://go.microsoft.com/fwlink/p/?LinkId=271321).
-  

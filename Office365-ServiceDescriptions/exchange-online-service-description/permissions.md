@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utilizza un modello di controllo dell'accesso basato sui ruoli per consentire agli amministratori dell'organizzazione di controllare capillarmente ciò che gli utenti e i dipendenti IT possono fare nell'ambito del servizio. A esempio, se un funzionario addetto alla conformità è responsabile per le richieste di ricerca nelle cassette postali, l'amministratore può delegare la propria funzionalità amministrativa a questo funzionario tramite il controllo dell'accesso basato sui ruoli. Exchange Online utilizza la stessa struttura di controllo dell'accesso basato sui ruoli di Microsoft Exchange Server 2013.
-ms.openlocfilehash: 0593c98857a7ce0c487c628018097395d7a5fe50
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: b66dc5b0cfdfea5c700afbb5ac38a8309236b427
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132690"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173761"
 ---
 # <a name="permissions"></a>Autorizzazioni
 
@@ -24,7 +24,7 @@ Microsoft Exchange Online utilizza un modello di controllo dell'accesso basato s
   
 Al livello più alto, il controllo dell'accesso basato sui ruoli è costituito da ruoli di gestione, gruppi di ruoli di gestione e criteri di assegnazione dei ruoli di gestione. Le seguenti sezioni forniscono ulteriori informazioni su ciascun componente del controllo dell'accesso basato sui ruoli.
   
-Per ulteriori informazioni sul modello di autorizzazioni per il controllo dell'accesso basato sui ruoli utilizzato in Exchange Online, vedere [Autorizzazioni](https://go.microsoft.com/fwlink/p/?LinkId=271935).
+Per ulteriori informazioni sul modello di autorizzazioni per il controllo dell'accesso basato sui ruoli utilizzato in Exchange Online, vedere [Autorizzazioni](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-based-permissions"></a>Autorizzazioni basate sui ruoli
 
@@ -34,7 +34,7 @@ Esistono due tipi di ruoli, ruoli amministrativi e ruoli dell'utente finale:
   
 - **Ruoli amministrativi** Tali ruoli contengono le autorizzazioni che possono essere assegnate agli amministratori o a utenti esperti che utilizzano i gruppi di ruoli che si occupano della gestione di una parte dell'organizzazione Exchange Online, ad esempio destinatari, server o database. 
     
-- **Ruoli dell'utente finale** Questi ruoli, assegnati mediante i criteri di assegnazione dei ruoli, consentono agli utenti di gestire le proprie cassette postali e i gruppi di distribuzione di cui sono proprietari. I ruoli dell'utente finale iniziano con il prefisso  `My`.
+- **Ruoli dell'utente finale** Questi ruoli, assegnati utilizzando i criteri di assegnazione dei ruoli, consentono agli utenti di gestire gli aspetti delle proprie cassette postali e dei gruppi di distribuzione di cui sono proprietari. I ruoli dell'utente finale iniziano con il prefisso  `My`.
     
 I ruoli definiscono le autorizzazioni che consentono ad amministratori e utenti di eseguire le attività rendendo disponibili i cmdlet per coloro ai quali sono stati assegnati quei ruoli. Poiché nell'interfaccia di amministrazione di Exchange e in Exchange Management Shell vengono utilizzati i cmdlet per gestire Exchange Online, la concessione dell'accesso a un cmdlet consente all'amministratore o all'utente di eseguire l'attività in ogni singola interfaccia di gestione di Exchange Online.
   
@@ -43,16 +43,16 @@ Le autorizzazioni basate sui ruoli di Microsoft Online Services si sovrappongono
 > [!IMPORTANT]
 > Alcuni dei ruoli disponibili nella versione locale di Microsoft Exchange Server 2013 potrebbero non essere disponibili in Exchange Online. 
   
-Per ulteriori informazioni sulle autorizzazioni in Exchange Online, vedere [Autorizzazioni basate sui ruoli](https://go.microsoft.com/fwlink/p/?LinkId=271936).
+Per ulteriori informazioni sulle autorizzazioni in Exchange Online, vedere [Autorizzazioni basate sui ruoli](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-groups"></a>Gruppi di ruoli
 
-I gruppi di ruoli di gestione associano i ruoli di gestione a un gruppo di amministratori o utenti esperti. Gli amministratori gestiscono una configurazione del destinatario o dell'organizzazione di Exchange Online su vasta scala. Gli utenti specialisti gestiscono funzionalità specifiche di Exchange Online, come, ad esempio, la conformità, oppure possono avere capacità di gestione limitate, ad esempio, come membri dell'assistenza tecnica, ma senza autorizzazioni di gestione troppo ampie. I gruppi di ruoli in genere associano i ruoli di gestione amministrativa che consentono agli amministratori e agli utenti esperti di gestire la configurazione dell'organizzazione e dei destinatari. Ad esempio, la possibilità per gli amministratori di gestire i destinatari o di utilizzare le funzionalità di individuazione delle cassette postali viene controllata per mezzo dei gruppi di ruolo. 
+I gruppi di ruoli di gestione associano i ruoli di gestione a un gruppo di amministratori o utenti esperti. Gli amministratori gestiscono una configurazione del destinatario o dell'organizzazione di Exchange Online su vasta scala. Gli utenti specialisti gestiscono funzionalità specifiche di Exchange Online, come, ad esempio, la conformità, oppure possono avere capacità di gestione limitate, ad esempio, come membri dell'assistenza tecnica, ma senza autorizzazioni di gestione troppo ampie. I gruppi di ruoli associano in genere ruoli di gestione amministrativa che consentono agli amministratori e agli utenti esperti di gestire la configurazione dell'organizzazione e dei destinatari. Ad esempio, la possibilità per gli amministratori di gestire i destinatari o di utilizzare le funzionalità di individuazione delle cassette postali viene controllata per mezzo dei gruppi di ruolo. 
   
 > [!IMPORTANT]
 > Alcuni dei gruppi di ruolo disponibili nella versione locale di Microsoft Exchange Server 2013 potrebbero non essere disponibili in Exchange Online. 
   
-Per ulteriori informazioni sui gruppi di ruolo, vedere [Gruppi di ruolo e criteri di assegnazione dei ruoli](https://go.microsoft.com/fwlink/p/?LinkId=271937).
+Per ulteriori informazioni sui gruppi di ruolo, vedere [Gruppi di ruolo e criteri di assegnazione dei ruoli](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-assignment-policies"></a>Criteri di assegnazione dei ruoli
 
@@ -61,10 +61,8 @@ I criteri di assegnazione del ruolo di gestione consentono di associare i ruoli 
 > [!IMPORTANT]
 > Alcune assegnazioni di ruolo disponibili nella versione locale di Microsoft Exchange Server 2013 potrebbero non essere disponibili in Exchange Online. 
   
-Per ulteriori informazioni sui criteri di assegnazione dei ruoli, vedere [Gruppi di ruolo e criteri di assegnazione dei ruoli](https://go.microsoft.com/fwlink/p/?LinkId=271937).
+Per ulteriori informazioni sui criteri di assegnazione dei ruoli, vedere [Gruppi di ruolo e criteri di assegnazione dei ruoli](/exchange/permissions-exchange-2013-help).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
-  
-
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)

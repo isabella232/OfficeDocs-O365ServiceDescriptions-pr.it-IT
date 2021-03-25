@@ -10,27 +10,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 8e5ce6ce41f206c5736241340c393833ae78fea7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0081394efe976c330c95dc67bbb304c720a5e567
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132590"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173571"
 ---
 # <a name="sharing-and-collaboration"></a>Condivisione e collaborazione
 
 ## <a name="federated-sharing"></a>Condivisione federata
 
-La Federazione si riferisce all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo per gli utenti di Microsoft Exchange Online per condividere dati del calendario di disponibilità e informazioni di contatto con i destinatari in altre organizzazioni esterne federate o con utenti che dispongono di accesso a Internet. Sono incluse anche le organizzazione che sono ospitate da Exchange Online oppure le organizzazioni Microsoft Exchange Server 2010 o Exchange Server 2013. Utilizzando le relazioni tra organizzazioni e i criteri di condivisione, gli amministratori di Exchange Online possono consentire agli utenti di inviare inviti di condivisione del calendario da Microsoft Outlook sul Web o Microsoft Outlook 2010 o versione successiva.
+La federazione si riferisce all'infrastruttura di trust sottostante che supporta la condivisione federata, un metodo che consente agli utenti di Microsoft Exchange Online di condividere i dati del calendario sulla disponibilità e le informazioni di contatto con i destinatari in altre organizzazioni federate esterne o con utenti con accesso a Internet. Sono incluse anche le organizzazione che sono ospitate da Exchange Online oppure le organizzazioni Microsoft Exchange Server 2010 o Exchange Server 2013. Utilizzando le relazioni dell'organizzazione e i criteri di condivisione, gli amministratori di Exchange Online possono consentire agli utenti di inviare inviti alla condivisione del calendario da Microsoft Outlook sul Web o Microsoft Outlook 2010 o versione successiva.
   
 > [!IMPORTANT]
->  Le organizzazione Exchange 2010 e Exchange 2013 esterne devono configurare una relazione di trust federativa con Microsoft Federation Gateway come parte della condivisione federata. Le organizzazioni di Exchange Online non devono configurare una relazione di trust federativa: la relazione di trust federativa con Microsoft Federation Gateway viene creata automaticamente quando si crea l'organizzazione Microsoft 365. 
+>  Le organizzazione Exchange 2010 e Exchange 2013 esterne devono configurare una relazione di trust federativa con Microsoft Federation Gateway come parte della condivisione federata. Le organizzazioni di Exchange Online non devono configurare una relazione di trust federativa: la relazione di trust federativa con Microsoft Federation Gateway viene creata automaticamente quando viene creata l'organizzazione di Microsoft 365. 
 >
 >  Le organizzazioni Exchange Online devono configurare una relazione tra organizzazioni o i criteri di condivisione per abilitare la condivisione federata. 
 >
->  La condivisione degli elenchi di accesso globale (GAL) o lo spostamento delle cassette postali degli utenti tra organizzazioni Exchange online in piani Microsoft diversi non è supportata nella condivisione federata. 
+>  La condivisione di elenchi di accesso globali (GAL) o lo spostamento di cassette postali utente tra organizzazioni di Exchange Online in piani Microsoft diversi non è supportato nella condivisione federata. 
   
-Per ulteriori informazioni sulla condivisione federata, vedere [Condivisione in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
+Per ulteriori informazioni sulla condivisione federata, vedere [Condivisione in Exchange Online](/exchange/sharing/sharing).
   
 ## <a name="site-mailboxes"></a>Cassette postali del sito
 
@@ -41,24 +41,22 @@ La cassetta postale del sito è un nuovo concetto in Exchange 2013 che tenta di 
 > [!IMPORTANT]
 > Il piano deve includere SharePoint. Le cassette postali dei siti richiedono che gli utenti abbiano le licenze sia di SharePoint sia di Exchange. 
   
-Per ulteriori informazioni sulle cassette postali dei siti, vedere [Cassette postali dei siti](https://go.microsoft.com/fwlink/p/?LinkId=271789).
+Per ulteriori informazioni sulle cassette postali dei siti, vedere [Cassette postali dei siti](/exchange/collaboration-exo/collaboration-exo).
   
 ## <a name="public-folders"></a>Cartelle pubbliche
 
-Le cartelle pubbliche in Exchange Online sono state modernizzate per sfruttare l'elevata disponibilità esistente e le tecnologie di archiviazione del database delle cassette postali. L'architettura delle cartelle pubbliche utilizza cassette postali speciali per archiviare sia la gerarchia sia il contenuto della cartella pubblica. Ciò significa che non è più disponibile un database delle cartelle pubbliche separato. La replica delle cartelle pubbliche ora utilizza il modello di replica continua. L'elevata disponibilità della gerarchia e delle cassette postali del contenuto è fornita dal gruppo di disponibilità del database (DAG) che si trova nel data center. In Exchange Online, l'utente ha un limite di 1000 cassette postali delle cartelle pubbliche. Anche ciascuna cassetta postale di cartelle pubbliche possiede dimensioni di archiviazione massime. Per ulteriori informazioni, vedere la sezione "limiti della cartella delle cassette postali" in [limiti Exchange Online limits](exchange-online-limits.md). Le cassette postali di cartelle pubbliche hanno i medesimi avvisi per limiti di spazio di archiviazione, messaggi, destinatari e avvisi di capacità delle cassette postali normali. Per ulteriori informazioni, vedere [Destinatari](recipients.md). 
+Le cartelle pubbliche in Exchange Online sono state modernizzate per sfruttare l'elevata disponibilità esistente e le tecnologie di archiviazione del database delle cassette postali. L'architettura delle cartelle pubbliche utilizza cassette postali speciali per archiviare sia la gerarchia sia il contenuto della cartella pubblica. Ciò significa che non è più disponibile un database delle cartelle pubbliche separato. La replica delle cartelle pubbliche ora utilizza il modello di replica continua. L'elevata disponibilità della gerarchia e delle cassette postali del contenuto è fornita dal gruppo di disponibilità del database (DAG) che si trova nel data center. In Exchange Online, si è limitati a 1000 cassette postali di cartelle pubbliche. Anche ciascuna cassetta postale di cartelle pubbliche possiede dimensioni di archiviazione massime. Per ulteriori informazioni, vedere la sezione "Limiti delle cartelle delle cassette postali" in [Limiti di Exchange Online.](exchange-online-limits.md) Le cassette postali di cartelle pubbliche hanno i medesimi avvisi per limiti di spazio di archiviazione, messaggi, destinatari e avvisi di capacità delle cassette postali normali. Per ulteriori informazioni, vedere [Destinatari](recipients.md). 
   
-Per ulteriori informazioni sulle cartelle pubbliche, vedere [Cartelle pubbliche](https://go.microsoft.com/fwlink/p/?LinkId=271790).
+Per ulteriori informazioni sulle cartelle pubbliche, vedere [Cartelle pubbliche](/exchange/collaboration-exo/public-folders/public-folders).
   
 ## <a name="group-and-shared-mailboxes"></a>Cassette postali di gruppo e condivise
 
-Le cassette postali di gruppo e condivise consentono a un gruppo specifico di utenti di monitorare e inviare messaggi di posta elettronica da un account comune, come gli indirizzi di posta elettronica pubblici (ad esempio, info@contoso.com o contact@contoso.com). Quando una persona del gruppo risponde a un messaggio inviato alla cassetta postale condivisa, la posta elettronica sembra provenire dalla cassetta postale condivisa, non dal singolo utente.
+Le cassette postali di gruppo e condivise semplificano il monitoraggio e l'invio di posta elettronica da un account comune a un gruppo specifico, ad esempio indirizzi di posta elettronica pubblici (ad esempio, info@contoso.com o contact@contoso.com). Quando una persona del gruppo risponde a un messaggio inviato alla cassetta postale condivisa, il messaggio di posta elettronica sembra essere dalla cassetta postale condivisa e non dal singolo utente.
   
-In genere, le cassette postali di gruppo o condivise non richiedono una licenza utente separata. Tuttavia, per abilitare l'archiviazione sul posto di un gruppo o di una cassetta postale condivisa, è necessario assegnare una licenza di Exchange Online piano 1 o Exchange Online piano 2. Una volta assegnata la licenza, la dimensione della cassetta postale diventa corrispondente a quella previsto dal piano concesso in licenza. Per inserire una cassetta postale condivisa sull'archiviazione sul posto, è necessario assegnare una licenza di Exchange Online piano 2. Tenere presente che non è possibile assegnare le cassette postali di gruppo in questo momento, ma che devono essere contabilizzate nelle licenze totali.
+In genere, le cassette postali di gruppo o condivise non richiedono una licenza utente separata. Tuttavia, per abilitare In-Place archivio per un gruppo o una cassetta postale condivisa, è necessario assegnarvi una licenza di Exchange Online Piano 1 o Exchange Online Piano 2. Una volta assegnata la licenza, la dimensione della cassetta postale diventa corrispondente a quella previsto dal piano concesso in licenza. Per mettere una cassetta postale condivisa In-Place blocco, è necessario assegnarle una licenza di Exchange Online Piano 2. Si noti che le cassette postali di gruppo non possono essere assegnate in questo momento, ma devono essere contabilate nelle licenze totali.
   
-Archivio sul posto può essere utilizzato solo per archiviare messaggi per un singolo utente o entità (ad esempio, una cassetta postale condivisa) per il quale è stata applicata una licenza. Non è consentito utilizzare un'Archiviazione sul posto come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, un amministratore IT non può creare cassette postali condivise e lasciare che gli utenti le copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) con l'esplicito scopo di archiviarle. Tenere presente che una cassetta postale condivisa da molti utenti non archivia automaticamente la posta elettronica dei singoli utenti. Numerosi utenti possono accedere e inviare posta elettronica come cassetta postale condivisa. Di conseguenza, gli unici messaggi di posta elettronica archiviati nella cassetta postale condivisa sono quelli inviati o ricevuti da esso, come cassetta postale condivisa.
+Archivio sul posto può essere utilizzato solo per archiviare messaggi per un singolo utente o entità (ad esempio, una cassetta postale condivisa) per il quale è stata applicata una licenza. Non è consentito utilizzare un'Archiviazione sul posto come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, un amministratore IT non può creare cassette postali condivise e lasciare che gli utenti le copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) con l'esplicito scopo di archiviarle. Tenere presente che una cassetta postale condivisa da molti utenti non archivia automaticamente la posta elettronica dei singoli utenti. Numerosi utenti possono accedere e inviare posta elettronica come cassetta postale condivisa. Pertanto, vengono inviati e ricevuti soltanto i messaggi di posta elettronica archiviati nella cassetta postale condivisa, come cassetta postale condivisa.
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Exchange Online](exchange-online-service-description.md).
-  
-
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)

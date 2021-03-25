@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: In questo articolo vengono descritti i limiti applicati in Skype for business online.
-ms.openlocfilehash: 8a12d55db211dadfe9f86ace39f091b003985530
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+description: Questo articolo descrive i limiti applicati in Skype for Business online.
+ms.openlocfilehash: 5c11586661e822f666096659b114f727c2df89e5
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276712"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174081"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti di Skype for Business Online
 
-I limiti di Skype for business online rientrano nelle categorie seguenti:
+I limiti in Skype for Business online rientrano nelle categorie seguenti:
   
 - [Limiti peer-to-peer](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -33,49 +33,49 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
 - [Limiti di minuti](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> I limiti applicati a un'organizzazione di Microsoft 365 possono variare in base al tempo di registrazione dell'organizzazione nel servizio. Quando un limite viene modificato nei datacenter Microsoft, la modifica può richiedere un certo tempo per essere applicata a tutti i clienti esistenti. 
+> I limiti applicati a un'organizzazione di Microsoft 365 possono variare a seconda della durata della registrazione dell'organizzazione nel servizio. Quando un limite viene modificato nei datacenter Microsoft, la modifica può richiedere un certo tempo per essere applicata a tutti i clienti esistenti. 
   
 ## <a name="peer-to-peer-limits"></a>Limiti peer-to-peer
 
-- **Limite di trasferimento file** : la dimensione massima di un file che può essere trasferito in una conversazione di messaggistica istantanea di Skype for business online. Per informazioni sui tipi di file per i quali è stato bloccato il trasferimento file, vedere l'articolo del supporto Microsoft relativo all' [invio e ricezione di file o allegati in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Limite di trasferimento file** : dimensione massima di un file che può essere trasferito in una conversazione di messaggistica istantanea di Skype for Business Online. Per informazioni sui tipi di file per i quali è stato bloccato il trasferimento file, vedere l'articolo del supporto Microsoft relativo all' [invio e ricezione di file o allegati in Skype for Business Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
-- **Limite delle conversazioni a schede aperte** -numero massimo di schede di conversazione che un utente di Skype for business può aprire contemporaneamente. 
+- **Limite per le conversazioni a schede aperte** - Numero massimo di schede di conversazione che un utente di Skype for Business può aprire contemporaneamente. 
     
 ### <a name="peer-to-peer-limits"></a>Limiti peer-to-peer 
 
 | Funzionalità | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Non applicabile  <br/> |
-|Limite di conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Limite conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicabile  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> un client può avviare una chat con un massimo di 99 utenti aggiungendoli manualmente o inviando un messaggio istantaneo dal menu di scelta rapida di un gruppo o di una lista di distribuzione. Per ulteriori informazioni sulla messaggistica istantanea in Skype for business online, vedere [inviare un messaggio istantaneo in Skype for business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Un client può avviare una chat con un massimo di 99 utenti aggiungendoli manualmente o inviando un messaggio istantaneo dal menu di scelta rapida di un gruppo o di una lista di distribuzione. Per ulteriori informazioni sulla messaggistica istantanea in Skype for Business online, vedere [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Limiti peer-to-peer tra le opzioni autonome
 
-| Funzionalità | Skype for Business Server 2015 | Skype for business online piano autonomo &nbsp; 1 | Skype for business online piano autonomo &nbsp; 2 |
+| Funzionalità | Skype for Business Server 2015 | Skype for Business Online Autonomo Piano &nbsp; 1 | Skype for Business Online autonomo Piano &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Limite trasferimento file  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |Nessun limite  <br/> |
-|Limite di conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Limite conversazione<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limiti relativi alle conversazioni a schede aperte  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> un client può avviare una chat con un massimo di 99 utenti aggiungendoli manualmente o inviando un messaggio istantaneo dal menu di scelta rapida di un gruppo o di una lista di distribuzione. Per ulteriori informazioni sulla messaggistica istantanea in Skype for business online, vedere [inviare un messaggio istantaneo in Skype for business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Un client può avviare una chat con un massimo di 99 utenti aggiungendoli manualmente o inviando un messaggio istantaneo dal menu di scelta rapida di un gruppo o di una lista di distribuzione. Per ulteriori informazioni sulla messaggistica istantanea in Skype for Business online, vedere [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Limiti delle riunioni
 
-- **Limite caricamento file** : la dimensione massima dei file che possono essere caricati in una riunione di Skype for business, inclusi gli stampati e le presentazioni di PowerPoint. 
+- **Limite di caricamento dei file-** Dimensioni massime dei file che possono essere caricati in una riunione Skype for Business, inclusi stampati e presentazioni di PowerPoint. 
     
-- **Partecipanti a una riunione Skype for business** -numero massimo di partecipanti (compreso il relatore) che possono partecipare a una singola riunione Skype for business. 
+- **Partecipanti a una riunione Skype for Business** - Numero massimo di partecipanti (incluso il relatore) che possono partecipare a una singola riunione Skype for Business. 
     
-- **Relatori in una riunione di Skype for business** -numero massimo di relatori in una singola riunione Skype for business. 
+- **Relatori in una riunione Skype for Business** - Numero massimo di relatori in una singola riunione Skype for Business. 
     
-- **Partecipanti alla riunione in Skype for Business Web App** -numero massimo di partecipanti alle riunioni di Skype for Business Web App che possono partecipare a una riunione. 
+- **Partecipanti alle** riunioni di Skype for Business Web App - Numero massimo di partecipanti alle riunioni di Skype for Business Web App che possono partecipare a una riunione. 
     
-- **Skype for business web app Anonymous partecipanti** -il numero massimo di partecipanti alla riunione in Skype for Business Web App che possono partecipare in modo anonimo a una riunione. 
+- **Partecipanti anonimi dell'app Web Skype for Business** - Numero massimo di partecipanti alle riunioni di Skype for Business Web App che possono partecipare in modo anonimo a una riunione. 
     
-- **Ospiti che partecipano per telefono** : numero massimo di ospiti che possono effettuare chiamate in una riunione. 
+- **Guest che si uniscono per telefono** - Numero massimo di utenti che possono chiamare a una riunione. 
     
 ### <a name="meeting-limits"></a>Limiti delle riunioni
 
@@ -94,7 +94,7 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
   
 ### <a name="meeting-limits-across-standalone-options"></a>Limiti delle riunioni nelle opzioni autonome
 
-| Funzionalità | Skype for Business Server 2015 | Skype for business online piano autonomo &nbsp; 1 | Skype for business online piano autonomo &nbsp; 2 |
+| Funzionalità | Skype for Business Server 2015 | Skype for Business Online Autonomo Piano &nbsp; 1 | Skype for Business Online autonomo Piano &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Limite caricamento file  <br/> |500 MB  <br/> |Non applicabile  <br/> |500 MB  <br/> |
 |Partecipanti a una riunione in Skype for Business  <br/> |250  <br/> |Non applicabile  <br/> |250  <br/> |
@@ -106,23 +106,22 @@ I limiti di Skype for business online rientrano nelle categorie seguenti:
    
 ## <a name="meeting-retention-limits"></a>Limiti di conservazione delle riunioni
 
-- **Periodo di conservazione del contenuto della riunione** -intervallo di tempo dopo che l'ultima persona ha lasciato una riunione in cui il contenuto del meeting caricato viene mantenuto in Skype for business prima che venga eliminato definitivamente. 
+- **Periodo di conservazione** del contenuto della riunione - Periodo di tempo dopo il termine in cui l'ultima persona lascia una riunione per cui qualsiasi contenuto della riunione caricato viene conservato in Skype for Business prima che venga eliminato definitivamente. 
     
-- **Periodo di scadenza della riunione** : la quantità di tempo dopo la quale una riunione è terminata che gli utenti possono accedere alla riunione. 
+- **Periodo di scadenza della riunione** - Periodo di tempo dopo il termine di una riunione in cui gli utenti possono accedere alla riunione. 
     
 ### <a name="meeting-retention-limits-across-plans"></a>Limiti di conservazione delle riunioni tra i piani
 
 > [!NOTE]
 > Ogni utente può avere al massimo 1.000 conferenze nel database in qualsiasi momento. 
   
-| Tipo di riunione | Descrizione |
+| Tipo riunione | Descrizione |
 |:-----|:-----|
-|Riunione singola| La riunione sarà accessibile almeno fino a 14 giorni dopo l'orario pianificato o l'ultima riunione di attivazione o l'ultimo aggiornamento della riunione, a seconda di quale sia l'ultima.
-|Riunione ricorrente con data di fine| La riunione sarà accessibile almeno fino a 14 giorni dopo l'ora di fine pianificata dell'ultima occorrenza della riunione o l'ultima riunione o l'ultimo aggiornamento della riunione, a seconda di quale sia il più recente.
-|Riunione ricorrente senza data di fine| La riunione sarà sempre accessibile, purché siano presenti nuovi join di conferenza (attivazioni) o la pianificazione degli aggiornamenti almeno una volta all'anno
-|Incontra ora|La riunione sarà accessibile per almeno 8 ore.
+|Riunione singola| La riunione sarà accessibile almeno fino a 14 giorni dopo l'ora pianificata o l'ultima attivazione della riunione o l'ultimo aggiornamento della riunione, a seconda di quale sia l'ultima.
+|Riunione ricorrente con data di fine| La riunione sarà accessibile almeno fino a 14 giorni dopo l'ora di fine pianificata dell'ultima occorrenza della riunione, l'ultima attivazione della riunione o l'ultimo aggiornamento della riunione, a seconda di quale sia l'ultima.
+|Riunione ricorrente senza data di fine| La riunione sarà sempre accessibile, purché ci siano nuovi partecipanti alla conferenza (attivazioni) o la pianificazione degli aggiornamenti almeno una volta all'anno
+|Meet Now|La riunione sarà accessibile per almeno 8 ore.
 
 ## <a name="minute-limits"></a>Limiti di minuti
 
-Per informazioni sulle limitazioni dei minuti nel piano per le chiamate nazionali o il piano per le chiamate internazionali, accedere alla [disponibilità del paese e delle aree geografiche per audioconferenza e piani di chiamata](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
-  
+Per informazioni sulle limitazioni dei minuti nel Piano per chiamate nazionali o nel Piano per chiamate internazionali, passare a Disponibilità paese e area geografica per [Audioconferenza e Piani di chiamata.](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
