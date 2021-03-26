@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Fornito tramite Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172681"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215809"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -57,7 +57,7 @@ I membri del team con sottoscrizioni a Project Online Essentials o Project Plan 
 - Invio di schede attività
 - Condividere documenti e collaborare con gli utenti di Microsoft Teams o Skype for Business
 
-Project Online Essentials non include Project per il Web. Il piano di progetto 1 include Project per il Web.
+Project Online Essentials non include Project per il Web. Il piano di progetto 1 include Project per il Web e Project Online Essentials.
 
 ### <a name="project-online-desktop-client"></a>Client desktop di Project Online
 
@@ -128,7 +128,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell'a
 
 ### <a name="project-online-features"></a>Funzionalità di Project Online
 
-Le funzionalità elencate in questa sezione interagiscono solo con i dati nell'archivio dati di SharePoint di Project Online.<br><br>
+Le funzionalità elencate in questa sezione interagiscono solo con i dati nell'archivio dati di SharePoint di Project Online. I membri del team con sottoscrizioni a Project Online Essentials o Project Plan 1 possono eseguire alcune funzioni di Project Online. Per ulteriori informazioni, vedere [Descrizione del servizio Microsoft Project - Descrizione servizio | Documenti Microsoft](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online).<br><br>
 
 |Funzionalità | Descrizione | Piano di progetto 3 | Piano di progetto 5 |
 |--------|-------------|-----------------------------|------------------------|

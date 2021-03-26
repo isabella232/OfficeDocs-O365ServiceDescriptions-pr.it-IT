@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Leggere questo articolo per informazioni sull'Microsoft Exchange Online archiviazione.
-ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173371"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215769"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrizione del servizio Archiviazione Exchange Online
 
@@ -30,7 +30,7 @@ Per acquistare Archiviazione Exchange Online, vedere [Archiviazione Exchange Onl
   
 ## <a name="available-plans"></a>Piani disponibili
 
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Archiviazione Exchange Online, vedere la tabella di confronto completa [delle sottoscrizioni.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Archiviazione Exchange Online, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 > [!TIP]
 > È possibile esportare, salvare e stampare pagine nelle descrizioni dei servizi. Informazioni su come [esportare i risultati della ricerca contenuto.](/office365/securitycompliance/export-search-results) 
@@ -39,7 +39,7 @@ Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli 
 
 Archiviazione Exchange Online è disponibile attraverso i piani di sottoscrizione elencati di seguito.<br><br>
   
-| Pianificazione | Descrizione |
+| Pianificare | Descrizione |
 |:-----|:-----|
 |**Archiviazione Exchange Online per Exchange Server** <br/> |Archivio basato su cloud per gli utenti con cassette postali principali in Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o versione successiva).  <br/> Per aggiungere un archivio basato sul cloud a una cassetta postale principale che si trova su un server Exchange locale, è necessario configurare la distribuzione ibrida. Per ulteriori informazioni sulle distribuzioni ibride, [vedere Exchange Server distribuzioni ibride](/exchange/exchange-hybrid).  <br/> |
 |**Archiviazione Exchange Online per Exchange Server (tramite Enterprise CAL Suite)** <br/> |Archivio basato su cloud per gli utenti con cassette postali principali in Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o versione successiva). Per informazioni dettagliate, vedere [Client Access Licenses and Management Licenses](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |

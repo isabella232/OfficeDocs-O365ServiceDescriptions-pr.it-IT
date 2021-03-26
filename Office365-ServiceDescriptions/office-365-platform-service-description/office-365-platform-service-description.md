@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 e Office 365 sono disponibili in diversi piani per soddisfare al meglio le esigenze dell'organizzazione. Se si cercano le differenze tra i piani, inclusi i piani di Exchange Online, in questo articolo vengono mostrate le funzionalità incluse in ognuno di essi.
-ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 219bda9792a2b3c0fd8941b6ed4949f84a514ff9
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174011"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215855"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrizione dei servizi delle piattaforme Office 365 e Microsoft 365
 
@@ -26,7 +26,7 @@ Microsoft 365 e Office 365 sono disponibili in diversi piani per soddisfare al m
   
 Microsoft 365 e Office 365 offrono la potenza della produttività cloud alle aziende di tutte le dimensioni, consentendo di risparmiare tempo, denaro e liberare risorse di valore. I piani di Microsoft 365 e Office 365 combinano la famiglia di prodotti desktop Microsoft Office familiare con le versioni basate su cloud dei servizi di comunicazione e collaborazione di nuova generazione di Microsoft, tra cui Microsoft Exchange Online, Microsoft SharePoint Online, Office per il Web e Microsoft Skype for Business online, per aiutare gli utenti a essere produttivi praticamente ovunque tramite Internet.
   
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti per la piattaforma Microsoft 365 e Office 365, vedere la tabella di confronto completa [delle sottoscrizioni.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente in [Microsoft 365 e Office 365 service descriptions](../office-365-service-descriptions-technet-library.md).
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti per la piattaforma Microsoft 365 e Office 365, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145) Per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente in [Microsoft 365 e Office 365 service descriptions](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library).
   
 - Per informazioni sui piani di Office 365 Education, visitare innanzitutto la pagina [Office 365 Education](office-365-education.md). 
     
@@ -141,7 +141,7 @@ Molti dei piani di Microsoft 365 per le aziende dispongono di componenti aggiunt
 |Utilizzo di un provider diverso per la posta elettronica e la messaggistica istantanea  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Verifica della proprietà obbligatoria per i domini personalizzati  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Acquisto automatizzato di domini e verifica disponibile per domini acquistati tramite Go Daddy  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
-|**[Continuità e integrità del servizio](service-health-and-continuity.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Integrità dei servizi e continuità](service-health-and-continuity.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |Stato dei singoli avvisi disponibili nel dashboard dell'interfaccia di amministrazione di Microsoft 365  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/> |
 |**[Report](reports.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |

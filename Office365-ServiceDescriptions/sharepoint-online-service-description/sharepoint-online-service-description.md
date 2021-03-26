@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali caratteristiche di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174101"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215739"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -30,7 +30,7 @@ SharePoint in Microsoft 365 consente alle organizzazioni di condividere e gestir
 
 Per una breve panoramica, vedere [Che cos'è SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto [delle sottoscrizioni completa.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Per i requisiti di sistema di Microsoft 365, vedere Risorse di [Microsoft 365 e Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto [delle sottoscrizioni completa.](https://go.microsoft.com/fwlink/?linkid=2139145) Per i requisiti di sistema di Microsoft 365, vedere Risorse di [Microsoft 365 e Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
 Per informazioni sulle differenze delle funzionalità di SharePoint per i clienti cloud del governo statunitense, vedere [SharePoint per ambienti governativi statunitensi.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
@@ -81,7 +81,7 @@ Per una panoramica delle opzioni di personalizzazione, vedere [Customizing Share
 
 Per altre informazioni sulla disponibilità di Microsoft Power Apps e Power Automate, vedi le domande frequenti sulle licenze Power [Apps e Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
+Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
 
 ## <a name="it-admin-features"></a>Funzionalità di amministrazione IT
 
@@ -168,7 +168,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - [Notizie dell'organizzazione](/sharepoint/organization-news-site)
 - [Approvazione pagina](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
 - [Pagine](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
-- Gestione record
+- Gestione dei record
 - [Cestino](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [App per dispositivi mobili di SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [Pagina iniziale di SharePoint](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)

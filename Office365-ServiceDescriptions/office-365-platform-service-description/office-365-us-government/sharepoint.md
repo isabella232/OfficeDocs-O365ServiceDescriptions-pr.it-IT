@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle funzionalità di SharePoint per i clienti del cloud per enti pubblici statunitensi.
-ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 69900e2da0040882992677f7db764033ff01308d
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172931"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215789"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Ambienti di SharePoint per enti pubblici statunitensi
 
@@ -79,7 +79,7 @@ Ecco le differenze tra i siti e le funzionalità di contenuto per i clienti comm
 
 Ecco le differenze tra le funzionalità di ricerca per i clienti commerciali e quelle per i clienti cloud governativi:
 
-- L'integrazione di Microsoft Search non è disponibile.
+- Microsoft Search non è disponibile in GCC.
 
 ## <a name="sharing-and-sync"></a>Condivisione e sincronizzazione
 

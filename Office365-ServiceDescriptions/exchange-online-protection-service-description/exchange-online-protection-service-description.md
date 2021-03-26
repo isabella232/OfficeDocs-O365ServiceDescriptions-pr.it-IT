@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, nonché un confronto delle funzionalità tra tali piani.
-ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173811"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215779"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
@@ -34,7 +34,7 @@ Nell'elenco seguente vengono descritti i principali modi in cui è possibile uti
 
 ## <a name="available-plans"></a>Piani disponibili
 
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Exchange Online Protection, vedere la tabella di confronto [completa delle sottoscrizioni.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Exchange Online Protection, vedere la tabella di confronto [completa delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 Per acquistare Exchange Online Protection, vedere [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -49,7 +49,7 @@ La [roadmap di Microsoft 365](https://office.microsoft.com/products/office-365-r
 
 EOP è disponibile attraverso i seguenti piani di sottoscrizione:<br><br>
 
-| Pianificazione | Descrizione |
+| Pianificare | Descrizione |
 |:-----|:-----|
 |[EOP autonomo](https://products.office.com/exchange/exchange-email-security-spam-protection)|Un servizio separato basato sul cloud che protegge l'organizzazione di posta elettronica locale.|
 |[Funzionalità di EOP in Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Protezione incorporata per le cassette postali ospitate sul cloud di Exchange Online.|

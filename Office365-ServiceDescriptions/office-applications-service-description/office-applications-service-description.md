@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 è un servizio di sottoscrizione che fornisce all'utente la versione più recente delle applicazioni desktop di Office già familiari, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173901"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215759"
 ---
 # <a name="office-applications-service-description"></a>Descrizione del servizio applicazioni Office
 
@@ -28,7 +28,7 @@ Anche se Office è un servizio basato su cloud, le applicazioni di Office non ve
   
 Le applicazioni Office sono disponibili in edizioni a 32 e 64 bit.
   
-Per informazioni dettagliate sulle sottoscrizioni che abilitano gli utenti per la descrizione del servizio delle applicazioni di Office, vedere la tabella di confronto completa [delle sottoscrizioni.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Per informazioni dettagliate sulle sottoscrizioni che abilitano gli utenti per la descrizione del servizio delle applicazioni di Office, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 ## <a name="feature-availability-across-plans"></a>Disponibilità delle funzionalità tra piani
 
