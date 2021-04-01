@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato piani di Office 365 US Government (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche degli ambienti Office 365 Government US.
-ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172961"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484829"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -210,7 +210,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Aggiunta di domini di terzo livello personalizzati, come marketing.fourthcoffee.com|Sì|Sì|Sì|Sì|
 |Aggiunta di un massimo di 900 domini personalizzati|Sì|Sì|Sì|Sì|
 |Verifica della proprietà obbligatoria per i domini personalizzati|Sì|Sì|Sì|Sì|
-|**[Continuità e integrità del servizio](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
+|**[Integrità dei servizi e continuità](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|
 |Stato dei singoli avvisi disponibili nel dashboard dell'interfaccia di amministrazione di Microsoft 365|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|
 |Feed RSS per l' **integrità dei servizi**|Sì|Sì|Sì|Sì|
@@ -348,7 +348,7 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 |Telemetria di Office|No|Sì<sup>4</sup>|Sì<sup>4</sup>|No|
 |Supporto non in linea per le applicazioni client|No|Sì|Sì|No|
 |Installazione client side-by-side ottimizzata|No|Sì|Sì|No|
-|Power Map per Excel|No|Sì<sup>4</sup>|Sì<sup>4</sup>|No|
+|Power Map per Excel|No|No|No|No|
 |PowerPivot per Excel|No|Sì<sup>4</sup>|Sì<sup>4</sup>|No|
 |Power Query per Excel|No|Sì<sup>4</sup>|Sì<sup>4</sup>|No|
 |Power View per Excel|No|Sì<sup>4</sup>|Sì<sup>4</sup>|No|

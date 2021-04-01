@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e i piani autonomi.
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172611"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484779"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -29,7 +29,7 @@ Informazioni sui limiti del servizio in SharePoint per Microsoft 365.
 |Siti (raccolte siti) per organizzazione  <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<sup>6</sup> <br/> |2 milioni<br/> |
 |Numero di utenti  <br/> |Fino a 300  <br/> |1- 500.000<sup>7</sup> <br/> |1- 500.000<sup>7</sup> <br/> |
    
-<sup>1</sup> [Informazioni su come trovare lo spazio di archiviazione totale e disponibile per l'organizzazione.](/sharepoint/manage-site-collection-storage-limits) È possibile acquistare una quantità illimitata di spazio di archiviazione aggiuntivo di SharePoint. Vedere [Modificare lo spazio di archiviazione per l'abbonamento](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> [Informazioni su come trovare lo spazio di archiviazione totale e disponibile per l'organizzazione.](/sharepoint/manage-site-collection-storage-limits) È possibile acquistare una quantità illimitata di spazio di archiviazione aggiuntivo di SharePoint. Vedi [Aggiungere spazio di archiviazione per la sottoscrizione.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> Si consiglia di monitorare il Cestino e svuotarlo regolarmente. Lo spazio di archiviazione utilizzato fa parte del limite totale di archiviazione dell'organizzazione. 
 <br/> <sup>3</sup> Se si dispone di un abbonamento a Microsoft 365 e di un componente aggiuntivo Di archiviazione file aggiuntivo di Office 365, vengono aggiunte le quantità di spazio di archiviazione. 
 <br/> <sup>4</sup> Questo è il limite *di* archiviazione per un singolo sito (in precedenza denominato "raccolta siti"), non la quantità di spazio di archiviazione fornita *per* ogni sito. Questo limite si applica a tutti i tipi di siti, inclusi i siti del team connessi a gruppi di Office 365 e OneDrive. Gli amministratori di SharePoint possono [impostare manualmente limiti di archiviazione inferiori.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 
