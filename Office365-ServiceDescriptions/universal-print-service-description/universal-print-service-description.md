@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Universal Print, un servizio di stampa cloud di Microsoft 365, elimina la necessità di server di stampa locali.
-ms.openlocfilehash: 6e6ef0d91ea1c7c06a924c391a4b0523ae139120
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: da911d3beedfcafc8fad85a4d2d273cd3e858e41
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172511"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599028"
 ---
 # <a name="universal-print-service-description"></a>Descrizione del servizio Stampa universale
 
@@ -29,7 +29,7 @@ Universal Print è incluso nelle sottoscrizioni seguenti, per soddisfare al megl
 | Small Business                 | Enterprise Microsoft 365     | Education Microsoft 365 |
 |--------------------------------|------------------------------|-------------------------|
 | Microsoft 365 Business Premium | Windows 10 Enterprise E3     | Windows 10 Education E3 |
-|                                | Windows 10 Enterprise E5     | Windows 10 Education E3 |
+|                                | Windows 10 Enterprise E5     | Windows 10 Education E5 |
 |                                | Microsoft 365 F3             | Microsoft 365 A3        |
 |                                | Microsoft 365 E3             | Microsoft 365 A5        |
 |                                | Microsoft 365 E5             |                         |
@@ -45,7 +45,7 @@ Per un elenco completo di tutte le funzionalità di stampa universale, vedere la
 | [Software connettore universale di stampa](/universal-print/fundamentals/universal-print-connector-overview)   | Sì                  | Sì              | Sì             |
 | [Script di PowerShell di stampa universale](/universal-print/fundamentals/universal-print-powershell) | Sì                  | Sì              | Sì             |
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Scopri di più
 
 Per ulteriori informazioni su Universal Print, vedere le risorse seguenti:
 

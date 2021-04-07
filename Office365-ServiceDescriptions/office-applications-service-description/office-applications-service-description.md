@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 è un servizio di sottoscrizione che fornisce all'utente la versione più recente delle applicazioni desktop di Office già familiari, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215759"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599058"
 ---
 # <a name="office-applications-service-description"></a>Descrizione del servizio applicazioni Office
 
@@ -81,7 +81,7 @@ Molti dei piani di Microsoft 365 per le aziende dispongono di componenti aggiunt
 |Power Query per Excel  <br/> |No<sup>14</sup>  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Power View per Excel  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Impostazioni roaming  <br/> |Sì  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
-|Attivazione di computer condivisi  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
+|[Attivazione di computer condivisi](/DeployOffice/overview-shared-computer-activation)  <br/> |No  <br/> |No  <br/> |No  <br/>|Sì  <br/> |No  <br/> |No  <br/> |No  <br/> |Sì <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Supporto per il blocco dell'archiviazione file basata su cloud  <br/> |Sì  <br/> |Sì  <br/>|Sì  <br/> |Sì  <br/>|Sì  <br/> |No  <br/> |No  <br/> |Sì <br/> |No  <br/> |No  <br/> |Sì  <br/> |No  <br/> |
 |Toccare per trovare e utilizzare di nuovo i contenuti  <br/> |No  <br/> |No  <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |Sì  <br/> |No <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
 |Aggiornamenti della versione  <br/> |No  <br/> |No  <br/>|No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |Sì  <br/> |Sì <br/> |No  <br/> |Sì  <br/> |Sì  <br/> |No  <br/> |
