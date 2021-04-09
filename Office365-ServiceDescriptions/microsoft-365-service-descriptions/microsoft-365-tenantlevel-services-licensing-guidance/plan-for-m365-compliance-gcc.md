@@ -2,18 +2,19 @@
 title: Pianificare la conformità Microsoft 365 - GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Queste indicazioni sono per i professionisti IT che guidano le distribuzioni di Office 365 in enti governativi federali, statali, locali, tribali o territoriali o altre entità che gestiscono dati soggetti a normative e requisiti governativi, dove l'uso di Microsoft 365 Government - GCC è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 702ed14de312588aee1cad6094683fcada2333bc
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf5a5caa5cf0793141e7498006aff1224fbcc659
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173511"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652630"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Pianificare la conformità di Microsoft 365 - GCC
 
@@ -106,7 +107,7 @@ Per soddisfare i requisiti dei clienti cloud per enti pubblici, esistono alcune 
 |                                         | Gestione dei record: record normativi (anteprima pubblica)                         | In fase di sviluppo |
 |                                         | Gestione dei record: revisione dell'eliminazione in più fasi | Backlog di progettazione |
 |                                         | Gestione record: utilizzare la classificazione Syntex di SharePoint per applicare etichette di record | Backlog di progettazione |
-| **Gestione dei rischi insider**             | Customer Lockbox                                | Disponibile            |
+| **Gestione dei rischi Insider**             | Customer Lockbox                                | Disponibile            |
 |                                         | Insider Risk Management: indicatori di Office per Teams, siti di SharePoint, messaggi di posta elettronica                         | In fase di sviluppo |
 |                                         | Insider Risk Management: furto di dati da parte di utenti in partenza                        | In fase di sviluppo |
 |                                         | Insider Risk Management: perdite di dati generali                                | In fase di sviluppo              |

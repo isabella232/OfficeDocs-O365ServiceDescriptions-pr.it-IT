@@ -2,6 +2,7 @@
 title: Limiti di SharePoint
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e i piani autonomi.
-ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484779"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653408"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 

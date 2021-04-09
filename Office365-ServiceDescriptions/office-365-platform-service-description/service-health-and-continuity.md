@@ -2,6 +2,7 @@
 title: Integrità dei servizi e continuità
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori Microsoft possono visualizzare lo stato dei servizi e scoprire quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo.
-ms.openlocfilehash: ea9beb020d2f868eb51638c4729924a7ac873b7b
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174141"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652450"
 ---
 # <a name="service-health-and-continuity"></a>Integrità dei servizi e continuità
 
@@ -79,7 +80,7 @@ Quando si verifica un incidente di servizio, Microsoft riconosce che per i clien
   
 ## <a name="service-health-communication-channels"></a>Canali di comunicazione dell'integrità dei servizi
 
-### <a name="admin-app"></a>App amministratore
+### <a name="admin-app"></a>App di amministrazione
 
 L'app Amministratore per gli amministratori dell'organizzazione consente di connettersi con lo stato del servizio Microsoft dell'organizzazione in viaggio. Gli amministratori Microsoft avranno la possibilità di visualizzare le informazioni sull'integrità del servizio e gli aggiornamenti dello stato di manutenzione dai dispositivi mobili. Per altre informazioni consultare le [Domande frequenti dell’app Amministrazione](/office365/admin/admin-overview/admin-mobile-app).
   

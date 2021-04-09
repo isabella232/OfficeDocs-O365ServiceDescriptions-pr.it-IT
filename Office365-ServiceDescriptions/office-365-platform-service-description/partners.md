@@ -2,6 +2,7 @@
 title: Partner
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: In quanto partner autorizzato di Microsoft, Microsoft Office 365 offre l'opportunità di incrementare la base di clienti e creare con essi relazioni durature. A fronte di un canone mensile o annuale, i clienti possono utilizzare i servizi basati su cloud, evitando in tal modo di dover gestire backup dei dati, hardware per i server e relativi aggiornamenti. I servizi effettivamente disponibili dipendono dal tipo di servizi che si è autorizzati a fornire.
-ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: adb7e7d8587ffa6ffc6e0e6d39023bae554b095a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131690"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653428"
 ---
 # <a name="partners"></a>Partner
 
@@ -40,7 +41,7 @@ La funzionalità di amministrazione delegata consente a un partner di avere un a
   
 Prima di iniziare ad amministrare l'account di un cliente, è necessario che il cliente stesso conceda al partner l'autorizzazione di amministratore delegato. Per ottenere l'approvazione del cliente, occorre inviare un'offerta di amministrazione delegata, che può essere acclusa a un invito di prova o un'offerta di acquisto. Il cliente autorizza un partner di amministrazione delegata rispondendo al messaggio di invito inviato dal partner.
   
-Ogni cliente ha il diritto di avere un partner di amministrazione delegata. Il partner può anche essere un partner di record del cliente, ma non è obbligatorio. I ruoli di partner di record e amministrazione delegata sono separati e il cliente li assegna separatamente. Questo approccio consente al cliente di scegliere un partner per la consulenza sugli acquisti e un altro partner per l'implementazione o i servizi gestiti. Ciò consente anche ai partner di scegliere se specializzarsi in particolare in uno dei due ruoli o se svolgerli entrambi.
+Ogni cliente ha diritto ad avere un partner di amministrazione delegato. Il partner può anche essere un partner di record del cliente, ma non è obbligatorio. I ruoli di partner di record e amministrazione delegata sono separati e il cliente li assegna separatamente. Questo approccio consente al cliente di scegliere un partner per la consulenza sugli acquisti e un altro partner per l'implementazione o i servizi gestiti. Ciò consente anche ai partner di scegliere se specializzarsi in particolare in uno dei due ruoli o se svolgerli entrambi.
   
 Anche quando un cliente ha autorizzato un partner per lo svolgimento delle attività di amministrazione per suo conto, mantiene comunque il diritto di rivolgersi direttamente al supporto tecnico Microsoft e inviare richieste di servizio.
   
@@ -52,5 +53,5 @@ Microsoft Partner Network è impegnata a rispondere a tutte le esigenze dei part
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani di Microsoft 365 e Office 365, vedere [microsoft 365 and office 365 Platform Service Description](office-365-platform-service-description.md).
+Per visualizzare la disponibilità delle funzionalità nei piani di Microsoft 365 e Office 365, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](office-365-platform-service-description.md)
   

@@ -2,18 +2,19 @@
 title: Come acquistare Microsoft 365 Government
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica di Microsoft 365 Government e vengono descritte le opzioni di acquisto.
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173001"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653448"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - Come acquistare
 
@@ -89,7 +90,7 @@ Per ulteriori informazioni sui servizi disponibili in Microsoft 365 Government, 
 
 - [Descrizione del servizio Office 365 Government](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government service description](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for Endpoint per i clienti us government](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender per endpoint per clienti del governo degli Stati Uniti](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government - Distribuzioni GCC](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - Distribuzioni GCC High](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government - Distribuzioni DoD](/MicrosoftTeams/plan-for-government-dod)
@@ -174,7 +175,7 @@ Per ulteriori informazioni su Microsoft 365 Government, vedere le risorse seguen
 
 - [Descrizione del servizio Office 365 Government](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government service description](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for Endpoint per i clienti us government](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender per endpoint per clienti del governo degli Stati Uniti](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government - Distribuzioni GCC](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - Distribuzioni GCC High](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government - Distribuzioni DoD](/MicrosoftTeams/plan-for-government-dod)

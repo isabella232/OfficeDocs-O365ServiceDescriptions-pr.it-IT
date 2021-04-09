@@ -2,6 +2,7 @@
 title: OneDrive per ambienti governativi statunitensi
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: ankirti
 audience: ITPro
 ms.topic: reference
@@ -9,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle funzionalità di OneDrive per i clienti cloud del governo statunitense.
-ms.openlocfilehash: 66e3e45ccd15d0486370c2f4049648fdbb0e01c5
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 61d7e178c1b3940ad8a3ba487b803c7e4cc0e197
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172941"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653438"
 ---
 # <a name="onedrive-for-us-government-environments"></a>OneDrive per ambienti governativi statunitensi
 

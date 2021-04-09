@@ -2,6 +2,7 @@
 title: Gestione attività
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: In Project online sono disponibili le seguenti funzionalità di gestione delle attività.
-ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: In Project Online sono disponibili le seguenti funzionalità di gestione delle attività.
+ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131070"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651061"
 ---
 # <a name="task-management"></a>Gestione attività
 
-In Project online sono disponibili le seguenti funzionalità di gestione delle attività.
+In Project Online sono disponibili le seguenti funzionalità di gestione delle attività.
   
-Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [Descrizione del servizio Project Online](project-online-service-description.md).
+Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
   
 ## <a name="active-and-inactive-tasks"></a>Attività attive e non attive
 
@@ -66,5 +67,5 @@ Utilizzare la modalità di programmazione manuale per programmare attività manu
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Project Online](project-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Project Online.](project-online-service-description.md)
   

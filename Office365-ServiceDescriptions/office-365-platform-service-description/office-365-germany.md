@@ -2,6 +2,7 @@
 title: Office 365 Germany
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany è un'opzione differenziata rispetto ai servizi di Office 365 già disponibili in Europa. Aiuta a soddisfare le esigenze dei clienti più regolamentati in Germania, nell'Unione Europea (UE) e nell'Associazione europea di libero scambio (EFTA) offrendo servizi di produttività leader del settore per il lavoro digitale, dai data center tedeschi, con residenza dei dati in Germania e rigorose misure di accesso e controllo dei dati tramite un modello trustee di dati unico disciplinato dalla legge tedesca.
-ms.openlocfilehash: 00e2861130283c6917d307e6793beb9dfa09c058
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173861"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653498"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -114,7 +115,7 @@ Per informazioni specifiche sui prezzi e sulle funzionalità previsti nei piani 
 |Utilizzo di un provider diverso per la posta elettronica e la messaggistica istantanea|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Verifica della proprietà obbligatoria per i domini personalizzati|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Acquisto automatizzato di domini e verifica disponibile per domini acquistati tramite Go Daddy|No|No|No|No|No|No|No|No|
-|**[Continuità e integrità del servizio](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Integrità dei servizi e continuità](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Stato dei singoli avvisi disponibili nel dashboard dell'interfaccia di amministrazione di Microsoft 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Feed RSS per l' **integrità dei servizi**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -533,7 +534,7 @@ Nella tabella seguente sono elencate le funzionalità di Defender per Office 365
 
 Nella tabella seguente sono elencate le funzionalità di Project Online disponibili nei piani di Office 365 Germany. Per ulteriori informazioni su Project Online, vedere [Introduzione a Project Online](https://go.microsoft.com/fwlink/?linkid=2144053).<br><br>
 
-| Pianificazione | Descrizione | Destinatari |
+| Piano | Descrizione | Destinatari |
 |:-----|:-----|:-----|
 |Project Online Essentials| Interfaccia basata sul Web per i membri del team  <br/>  Aggiornamento attività, problemi e rischi  <br/>  Invio di schede attività  <br/>  Condivisione di documenti e collaborazione grazie alla presenza di Skype for Business|Membri del team|
 |Project Online Professional| Tutte le funzionalità di Project Online Essentials, oltre a:  <br/>  Interfaccia utente completa tramite client desktop  <br/>  Accesso in qualsiasi momento/ovunque tramite l'interfaccia Web  <br/>  Pianificazione e costi del progetto  <br/>  Gestione delle risorse  <br/>  Pubblicazione dei progetti nel cloud  <br/>  Include la versione più recente dell'applicazione desktop Project, da inviare immediatamente come flusso al PC con Windows.  <br/>  Ogni licenza di sottoscrizione consente fino a cinque installazioni simultanee dell'applicazione desktop Project.|Project manager|

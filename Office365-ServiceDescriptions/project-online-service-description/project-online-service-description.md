@@ -2,6 +2,7 @@
 title: Descrizione del servizio Microsoft Project
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Fornito tramite Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 992da5d280066914e1744ec31cd8d1ca341a98dd
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215809"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652260"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -242,7 +243,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell'a
 |Ordinamento e raggruppamento | Usa l'ordinamento e il raggruppamento personalizzati per ottenere una visualizzazione mirata di progetto, attività e risorse.|
 |**Personalizzazione e integrazione**||
 |Campi personalizzati | Aggiungere campi personalizzati a livello di progetto, attività e risorsa per tenere traccia dei dati importanti per l'organizzazione e i progetti. |
-|Moduli | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
+|Forms | Creare e distribuire moduli personalizzati per acquisire dati importanti del progetto. |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. |
 |Modelli | Creare modelli per progetti comuni, inclusi piani di progetto, team e assegnazioni. |
 |Importazione/esportazione con estensione mpp | Creare nuovi progetti da file mpp esistenti o creare un file mpp di un progetto esistente. |

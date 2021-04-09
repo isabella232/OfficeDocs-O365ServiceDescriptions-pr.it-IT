@@ -2,6 +2,7 @@
 title: Office 365 US Government
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato piani di Office 365 US Government (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche degli ambienti Office 365 Government US.
-ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484829"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653158"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 

@@ -2,6 +2,7 @@
 title: Descrizione del servizio Skype for Business Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Vedere quali funzionalità di Skype for Business online sono disponibili nei diversi piani di Microsoft 365 e Office 365.
-ms.openlocfilehash: 86ccb740ec0b9ffc8e83c88636df98ebefaf9e2c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 385bca5d7f8a3a138b4047a82e648b887de02821
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172661"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653578"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrizione del servizio Skype for Business Online
 

@@ -2,164 +2,165 @@
 title: Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Microsoft 365 Business Premium è l'offerta Microsoft Best-in-class per clienti aziendali di piccole e medie dimensioni. Microsoft 365 Business Premium è una soluzione integrata che unisce la produttività di Microsoft 365, la sicurezza avanzata e la gestione dei dispositivi.
-ms.openlocfilehash: 1cd0fa1c8ef351eb6a54f4d2b9cb58f2d6e400f4
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: Microsoft 365 Business Premium è l'offerta di Microsoft best-in-class per i clienti di piccole e medie imprese. Microsoft 365 Business Premium è una soluzione integrata che riunisce la produttività, la sicurezza avanzata e la gestione dei dispositivi di Microsoft 365.
+ms.openlocfilehash: 5b3c1b69135801699ba53b020f0461ed83d7bd90
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518837"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653278"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
-Microsoft 365 Business Premium è l'offerta Microsoft Best-in-class per i clienti di piccole e medie imprese (SMB). Microsoft 365 Business Premium è una soluzione integrata che unisce la **produttività** di Microsoft 365 con la **sicurezza avanzata** e la **gestione dei dispositivi**.
+Microsoft 365 Business Premium è l'offerta di Microsoft best-in-class per i clienti di piccole e medie imprese (SMB). Microsoft 365 Business Premium è una  soluzione integrata che riunisce la produttività di Microsoft 365 con sicurezza **avanzata** e **gestione dei dispositivi.**
 
-In questo articolo vengono confrontate le opzioni di licenza per PMI, con una particolare enfasi su Microsoft 365 Business Premium.
+In questo articolo vengono confrontate le opzioni di licenza per le piccole e medie imprese, con particolare attenzione a Microsoft 365 Business Premium.
 
-## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Confronto delle caratteristiche: Microsoft 365 business standard e Microsoft 365 Business Premium
+## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Confronto delle funzionalità: Microsoft 365 Business Standard e Microsoft 365 Business Premium
 
 |**Area di servizio** |**Caratteristica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**Licenze disponibili** | Numero massimo di utenti | 300  | 300  |
-|**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
-|**& del calendario per la posta elettronica** | Outlook, Exchange Online| 50 GB | 50 GB |
-|**Hub per il lavoro di squadra** | Area di lavoro basata su chat, riunioni online e altro in Microsoft Teams | Sì |Sì |
+|**App di Office** | Installare Office in un massimo di 5 PC/Mac + 5 tablet + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
+|**Calendario & posta elettronica** | Outlook, Exchange Online| 50 GB | 50 GB |
+|**Hub per il lavoro in team** | Area di lavoro basata su chat, riunioni online e altro ancora in Microsoft Teams | Sì |Sì |
 |**Archivio file** | OneDrive for Business  | 1 TB per utente | 1 TB per utente |
-|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online, PowerApps, Power automatizzate | Sì | Sì |
-|**App aziendali** | Pianificazione delle app &ndash; bookings<sup>1</sup> | Sì | Sì |
+|**Social, video, siti** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Power Automate | Sì | Sì |
+|**App aziendali** | Pianificazione delle app &ndash; Bookings<sup>1</sup> | Sì | Sì |
 |   | App aziendali &ndash; MileIQ<sup>1</sup> | Sì | Sì |
 |**Protezione dalle minacce** | Microsoft Defender per Office 365 | No | Sì |
-|   | Applicazione di protezione di Windows exploit | No | Sì  |
-|**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibridi | No | Sì |
-|   | Autenticazione a più fattori di Azure, criteri di accesso condizionale | No | Sì |
-|**Gestione delle app per dispositivi &** | Microsoft Intune | No | Sì |
+|   | Applicazione di Windows Exploit Guard | No | Sì  |
+|**Gestione delle identità** | Reimpostazione della password self-service per gli account ibridi di Azure Active Directory | No | Sì |
+|   | Azure Multi-Factor Authentication, criteri di accesso condizionale | No | Sì |
+|**Gestione delle app & dispositivi** | Microsoft Intune | No | Sì |
 |   | Shared computer activation | No | Sì |
-|   | Windows Autopilot, gestione Windows Pro | No | Sì |
-|   | Diritti di aggiornamento a Windows 10 Pro per le licenze Win 7/8.1 Pro | No | Sì |
+|   | Windows AutoPilot, gestione di Windows Pro | No | Sì |
+|   | Diritti di aggiornamento alle licenze di Windows 10 Pro per Win 7/8.1 Pro | No | Sì |
 |   | Desktop virtuale Windows | No | Sì |
-|**Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft | No | Sì |
-|   | Azure Information Protection piano 1, applicazione di BitLocker | No | Sì |
-|**Conformità** | Archiviazione di posta elettronica illimitata<sup>2</sup> | No | Sì |
+|**Information Protection** | Prevenzione della perdita di dati Microsoft | No | Sì |
+|   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì |
+|**Conformità** | Archiviazione illimitata della<sup>posta elettronica 2</sup> | No | Sì |
 
 **Note**
 
-<sup>1</sup> disponibile negli Stati Uniti, Regno Unito, Canada.
+<sup>1</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>2</sup> archiviazione illimitata quando l'espansione automatica è attivata.
+<sup>2</sup> Archiviazione illimitata quando l'espansione automatica è attivata.
 
-## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle caratteristiche: Microsoft 365 Business Premium e Office 365 E3
+## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle funzionalità: Microsoft 365 Business Premium e Office 365 E3
 
 |**Area di servizio**   | **Caratteristica**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
 |---|---------------|-------------------|----------------------------|
 |**Licenze disponibili** | Numero massimo di utenti | Illimitati | 300 |
-|**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
-|**& del calendario per la posta elettronica** | Outlook, Exchange Online | 100 GB | 50 GB |
-|**Hub per il lavoro di squadra** | Area di lavoro basata su chat, riunioni online e altro in Microsoft Teams | Sì | Sì |
+|**App di Office** | Installare Office in un massimo di 5 PC/Mac + 5 tablet + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
+|**Calendario & posta elettronica** | Outlook, Exchange Online | 100 GB | 50 GB |
+|**Hub per il lavoro in team** | Area di lavoro basata su chat, riunioni online e altro ancora in Microsoft Teams | Sì | Sì |
 |**Archivio file** | OneDrive for Business | Illimitati | 1 TB per utente |
-|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatizzate<sup>1</sup> | Sì | Sì |
-|**App aziendali** | Pianificazione delle app &ndash; bookings<sup>2</sup> | Sì | Sì |
-|   | App business &ndash; MileIQ<sup>2</sup> | No | Sì |
+|**Social, video, siti** | Stream, Yammer, Planner, SharePoint Online<sup>1,</sup>PowerApps<sup>1,</sup>Power Automate<sup>1</sup> | Sì | Sì |
+|**App aziendali** | Pianificazione delle app &ndash; Bookings<sup>2</sup> | Sì | Sì |
+|   | App aziendali &ndash; MileIQ<sup>2</sup> | No | Sì |
 |**Protezione dalle minacce** | Microsoft Defender per Office 365 | No | Sì |
-|   | Applicazione di protezione di Windows exploit | No | Sì |
-|**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibridi | No | Sì |
-|   | Autenticazione a più fattori di Azure, criteri di accesso condizionale | No  | Sì |
-|**Gestione delle app per dispositivi &** | Microsoft Intune, Windows Autopilot, Windows Pro Management | No | Sì |
+|   | Applicazione di Windows Exploit Guard | No | Sì |
+|**Gestione delle identità** | Reimpostazione della password self-service per gli account ibridi di Azure Active Directory | No | Sì |
+|   | Azure Multi-Factor Authentication, criteri di accesso condizionale | No  | Sì |
+|**Gestione delle app & dispositivi** | Microsoft Intune, Windows AutoPilot, gestione di Windows Pro | No | Sì |
 |   | Shared computer activation | Sì | Sì |
-|   | Diritti di aggiornamento a Windows 10 Pro per Win 7/8.1 Pro | No | Sì |
+|   | Aggiornare i diritti a Windows 10 Pro per Win 7/8.1 Pro | No | Sì |
 |   | Desktop virtuale Windows | No | Sì |
 |**Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft | Sì | Sì |
-|   | Azure Information Protection piano 1, applicazione di BitLocker | No | Sì |
-|**Diritti di licenza locale** | Suite ECAL (Exchange, SharePoint, Skype) | Sì | No |
-|**Conformità** | Archiviazione di posta elettronica illimitata<sup>3</sup> | Sì | Sì |
+|   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì |
+|**Diritti CAL locali** | Famiglia di prodotti ECAL (Exchange, SharePoint, Skype) | Sì | No |
+|**Conformità** | Archiviazione illimitata della posta<sup>elettronica 3</sup> | Sì | Sì |
 
 **Note**
 
-<sup>1</sup> indica che Microsoft 365 business standard ha il piano 1 della funzionalità e Office 365 E3 ha il piano 2.
+<sup>1</sup> Indica che Microsoft 365 Business Standard ha piano 1 delle funzionalità e Office 365 E3 ha Piano 2.
 
-<sup>2</sup> disponibile negli Stati Uniti, Regno Unito, Canada.
+<sup>2</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>3</sup> archiviazione illimitata quando l'espansione automatica è attivata.
+<sup>3</sup> Archiviazione illimitata quando è attivata l'espansione automatica.
 
-## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle caratteristiche: Microsoft 365 business standard, Microsoft 365 Business Premium e Office 365 E3
+## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle funzionalità: Microsoft 365 Business Standard, Microsoft 365 Business Premium e Office 365 E3
 
 |**Area di servizio**   |**Caratteristica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**Licenze disponibili** | Numero massimo di utenti | 300 | 300 | Illimitati |
-|**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
-|**& del calendario per la posta elettronica** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
-|**Hub per il lavoro di squadra** | Area di lavoro basata su chat, riunioni online e altro in Microsoft Teams | Sì | Sì | Sì |
+|**App di Office** | Installare Office in un massimo di 5 PC/Mac + 5 tablet + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
+|**Calendario & posta elettronica** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
+|**Hub per il lavoro in team** | Area di lavoro basata su chat, riunioni online e altro ancora in Microsoft Teams | Sì | Sì | Sì |
 |**Archivio file** | OneDrive for Business | 1 TB per utente | 1 TB per utente | Illimitati |
-|**Social, video, siti** | Stream, Yammer, planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatizzate<sup>1</sup> | Sì | Sì | Sì |
-|**App aziendali** | Pianificazione delle app &ndash; bookings<sup>2</sup> | Sì | Sì | Sì |
-|   | App business &ndash; MileIQ<sup>2</sup> | Sì | Sì | No |
+|**Social, video, siti** | Stream, Yammer, Planner, SharePoint Online<sup>1,</sup>PowerApps<sup>1,</sup>Power Automate<sup>1</sup> | Sì | Sì | Sì |
+|**App aziendali** | Pianificazione delle app &ndash; Bookings<sup>2</sup> | Sì | Sì | Sì |
+|   | App aziendali &ndash; MileIQ<sup>2</sup> | Sì | Sì | No |
 |**Protezione dalle minacce** | Microsoft Defender per Office 365 | No | Sì | No |
-|   | Applicazione di protezione di Windows exploit | No | Sì | No |
-|**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibridi | No | Sì | No |
-|   | Autenticazione a più fattori di Azure, criteri di accesso condizionale | No | Sì | No |
-|**Gestione delle app per dispositivi &** | Microsoft Intune, Windows Autopilot, Windows Pro Management | No | Sì | No |
+|   | Applicazione di Windows Exploit Guard | No | Sì | No |
+|**Gestione delle identità** | Reimpostazione della password self-service per gli account ibridi di Azure Active Directory | No | Sì | No |
+|   | Azure Multi-Factor Authentication, criteri di accesso condizionale | No | Sì | No |
+|**Gestione delle app & dispositivi** | Microsoft Intune, Windows AutoPilot, Windows Pro Management | No | Sì | No |
 |   | Attivazione di computer condivisi | No | Sì | Sì |
-|   | Diritti di aggiornamento a Windows 10 Pro per le licenze Win 7/8.1 Pro | No | Sì | No |
+|   | Diritti di aggiornamento alle licenze di Windows 10 Pro per Win 7/8.1 Pro | No | Sì | No |
 |   | Desktop virtuale Windows | No | Sì | No |
 |**Protezione delle informazioni**  | Prevenzione della perdita di dati Microsoft | No | Sì | Sì |
-|   | Azure Information Protection piano 1, applicazione di BitLocker | No | Sì | No |
-|**Diritti di licenza locale** | Suite ECAL (Exchange, SharePoint, Skype) | No | No | Sì |
-|**Conformità** | Archiviazione di posta elettronica illimitata<sup>3</sup> | No | Sì | Sì |
+|   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì | No |
+|**Diritti CAL locali** | Famiglia di prodotti ECAL (Exchange, SharePoint, Skype) | No | No | Sì |
+|**Conformità** | Archiviazione illimitata della posta<sup>elettronica 3</sup> | No | Sì | Sì |
 
 **Note**
 
-<sup>1</sup> indica che Microsoft 365 business standard ha il piano 1 della funzionalità e Office 365 E3 ha il piano 2.
+<sup>1</sup> Indica che Microsoft 365 Business Standard ha piano 1 delle funzionalità e Office 365 E3 ha Piano 2.
 
-<sup>2</sup> disponibile negli Stati Uniti, Regno Unito, Canada.
+<sup>2</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>3</sup> archiviazione illimitata quando l'espansione automatica è attivata.
+<sup>3</sup> Archiviazione illimitata quando è attivata l'espansione automatica.
 
-## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Confronto delle caratteristiche: Microsoft 365 business standard e Microsoft 365 for business plans
+## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Confronto delle funzionalità: Piani di Microsoft 365 Business Standard e Microsoft 365 per le aziende
 
 |**Area di servizio**   |**Caratteristica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenze disponibili** | Numero massimo di utenti | 300 | 300 | Illimitati | Illimitati |
-|**App di Office** | Installare Office su un massimo di 5 PC/Mac + 5 compresse + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
-|**& del calendario per la posta elettronica** | Outlook, Exchange Online | 50 GB | 50 GB | illimitata | illimitata |
-|**Hub per il lavoro di squadra** | Area di lavoro basata su chat, riunioni online e altro in Microsoft Teams | Sì | Sì | Sì | Sì |
+|**App di Office** | Installare Office in un massimo di 5 PC/Mac + 5 tablet + 5 smartphone per utente (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
+|**Calendario & posta elettronica** | Outlook, Exchange Online | 50 GB | 50 GB | illimitata | illimitata |
+|**Hub per il lavoro in team** | Area di lavoro basata su chat, riunioni online e altro ancora in Microsoft Teams | Sì | Sì | Sì | Sì |
 |**Archivio file** | OneDrive for Business | 1 TB per utente | 1 TB per utente | illimitata | illimitata |
-|**Social, video, siti** | Yammer, SharePoint Online, pianificazione | Sì | Sì | Sì | Sì |
+|**Social, video, siti** | Yammer, SharePoint Online, Planner | Sì | Sì | Sì | Sì |
 |   | Stream | | Sì | Sì | Sì |
-|**App aziendali** | Pianificazione delle app &ndash; bookings<sup>1</sup> | Sì | Sì | Sì | Sì |
+|**App aziendali** | Pianificazione delle app &ndash; Bookings<sup>1</sup> | Sì | Sì | Sì | Sì |
 |   | App aziendali &ndash; MileIQ<sup>1</sup> | Sì | Sì | No | No |
-|**Protezione dalle minacce** | Microsoft Advanced Threat Analytics, dispositivo di protezione, Credential Guard, AppLocker, Enterprise Data Protection | No | No | Sì | Sì |
+|**Protezione dalle minacce** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise Data Protection | No | No | Sì | Sì |
 |   | Microsoft Defender per Office 365 | No | Sì | No | Sì |
 |   | Microsoft Defender per endpoint | No | No | No | Sì |
 |   | Office 365 Threat Intelligence | No | No  | No | Sì |
-|**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account di Active Directory di Azure ibrido, AMF Azure, accesso condizionale   | No | Sì | Sì | Sì |
-|   | Azure AD: app Cloud Discovery, Azure AD Connect Health, SSO per più di 10 app | Sì | Sì | Sì | Sì |
+|**Gestione delle identità** | Reimpostazione della password in modalità self-service per gli account ibridi di Azure Active Directory, Azure MFA, Accesso condizionale   | No | Sì | Sì | Sì |
+|   | Azure AD: Cloud App Discovery, Azure AD Connect Health, SSO per più di 10 app | Sì | Sì | Sì | Sì |
 |   | Azure Active Directory Piano 2 | No | No | No | Sì |
-|**Gestione delle app per dispositivi &** | Microsoft Intune, Windows Autopilot | No | Sì | Sì | Sì |
-|   | Attivazione di computer condivisi, desktop virtuale di Windows | No | Sì | Sì | Sì |
+|**Gestione delle app & dispositivi** | Microsoft Intune, Windows AutoPilot | No | Sì | Sì | Sì |
+|   | Attivazione di computer condivisi, Desktop virtuale Windows | No | Sì | Sì | Sì |
 |   | Microsoft Desktop Optimization Pack, VDA | No | No | Sì | Sì |
-| **Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft, piano di protezione delle informazioni di Azure 1 | No | Sì | Sì | Sì |
-|   | Azure Information Protection piano 2, Microsoft cloud app Security, Office 365 cloud app Security | No | No | No | Sì |
-|**Diritti di licenza locale** | Famiglia di prodotti ECAL (Exchange, SharePoint, Skype, Windows, Microsoft endpoint Configuration Manager, Windows Rights Management) | No | No | Sì | Sì |
-|**Conformità** | Archiviazione di posta elettronica illimitata<sup>2</sup> | No | Sì | Sì | Sì |
-|   | Advanced eDiscovery, archivio protetto dei clienti, Advanced Data Governance | No | No | No | Sì |
-|**Analisi** | Power BI Pro, analisi | No | No | No | Sì |
-| | Insights by analisi analitica | Sì | Sì | Sì | Sì |
-|**Assistenza** | Informazioni di posta elettronica | Sì | Sì | Sì | Sì |
-|**Voce** | Servizi di conferenza PSTN, cloud PBX | No | No | No | Sì |
+| **Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft, Azure Information Protection Piano 1 | No | Sì | Sì | Sì |
+|   | Azure Information Protection Piano 2, Microsoft Cloud App Security, Office 365 Cloud App Security | No | No | No | Sì |
+|**Diritti CAL locali** | Famiglia di prodotti ECAL (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | No | No | Sì | Sì |
+|**Conformità** | Archiviazione illimitata della<sup>posta elettronica 2</sup> | No | Sì | Sì | Sì |
+|   | Advanced eDiscovery, Customer Lockbox, Advanced Data Governance | No | No | No | Sì |
+|**Analisi** | Power BI Pro, MyAnalytics | No | No | No | Sì |
+| | Dati analitici di MyAnalytics | Sì | Sì | Sì | Sì |
+|**Assistenza** | Briefing email | Sì | Sì | Sì | Sì |
+|**Voce** | Servizi di conferenza PSTN, Cloud PBX | No | No | No | Sì |
 
 **Note**
 
-<sup>1</sup> disponibile negli Stati Uniti, Regno Unito, Canada.
+<sup>1</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>2</sup> archiviazione illimitata quando l'espansione automatica è attivata.
+<sup>2</sup> Archiviazione illimitata quando l'espansione automatica è attivata.
 
-## <a name="office-client-commercial-plans"></a>Piani commerciali del client di Office
+## <a name="office-client-commercial-plans"></a>Piani commerciali client di Office
 
-| **Applicazioni** | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
+| **Applicazioni** | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
 |------------------|-------------------------|------------------------|
 | Word             | Sì                     | Sì                    |
 | Excel            | Sì                     | Sì                    |
@@ -169,48 +170,48 @@ In questo articolo vengono confrontate le opzioni di licenza per PMI, con una pa
 | Publisher        | Sì                     | Sì                    |
 | Access           | Sì                     | Sì                    |
 | Microsoft Teams  | Sì                     | Sì                    |
-| **Valore Premium**                             | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
+| **Valore premium**                             | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
 | Attivazione dei contratti multilicenza                             | No                      | No                     |
 | Criteri di gruppo<sup>1</sup>                      | No                      | Sì                    |
 | Shared computer activation                    | Sì<sup>7</sup>        | Sì                    |
-| Telemetria app                                 | No                      | Sì                    |
-| Update Controls<sup>2</sup>                   | No                      | Sì                    |
-| Applicare i criteri di conservazione personale<sup>3</sup> | Sì                     | Sì<sup>5</sup>        |
-| Accedere alle cassette postali del sito<sup>3</sup>             | Sì                     | Sì<sup>5</sup>        |
-| Accedere alla cartella di archiviazione sul posto<sup>3, 4</sup>  | Sì                     | Sì<sup>5</sup>        |
-| Confronto del foglio di calcolo & richiesta                 | No                      | Sì<sup>5</sup>        |
+| Telemetria dell'app                                 | No                      | Sì                    |
+| Controlli di aggiornamento<sup>2</sup>                   | No                      | Sì                    |
+| Applicare criteri di conservazione<sup>personali 3</sup> | Sì                     | Sì<sup>5</sup>        |
+| Accedere alle cassette postali<sup>del sito 3</sup>             | Sì                     | Sì<sup>5</sup>        |
+| Accesso alla cartella di archiviazione sul posto<sup>3,4</sup>  | Sì                     | Sì<sup>5</sup>        |
+| Confronto di fogli & richiesta                 | No                      | Sì<sup>5</sup>        |
 | Business intelligence                         | No                      | Sì<sup>5</sup>        |
 | Creare IRM<sup>3</sup>                        | Sì<sup>7</sup>        | Sì                    |
-| Prevenzione della perdita di dati<sup>3</sup>              | Sì<sup>7</sup>        | Sì<sup>5</sup>        |
-| **Valore cloud**                  | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
+| Prevenzione della perdita di<sup>dati 3</sup>              | Sì<sup>7</sup>        | Sì<sup>5</sup>        |
+| **Valore cloud**                  | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
 | Gruppi                           | Sì                     | Sì                    |
 | Strumento di distribuzione di Office           | Sì                     | Sì                    |
-| Impostazioni & dei documenti di roaming     | Sì                     | Sì                    |
-| 1 TB OneDrive for business       | Sì                     | Sì                    |
-| **Licenze**                                   | **App Microsoft 365 per le aziende** | **App Microsoft 365 per grandi imprese** |
-| Modello di gestione delle licenze                                 | Per utente                | Per utente               |
+| Impostazioni di roaming & documenti     | Sì                     | Sì                    |
+| OneDrive for Business da 1 TB       | Sì                     | Sì                    |
+| **Licenze**                                   | **Microsoft 365 Apps for business** | **App Microsoft 365 per grandi imprese** |
+| Modello di licenza                                 | Per utente                | Per utente               |
 | Tipo di licenza                                    | Abbonamento            | Abbonamento           |
 | PC/Mac installa<sup>6</sup>                     | 5                        | 5                       |
-| l'installazione dello smartphone iOS/Android è<sup>6</sup>     | 5                        | 5                       |
-| La tavoletta installa<sup>6</sup>                     | 5                        | 5                       |
+| Lo smartphone iOS/Android installa<sup>6</sup>     | 5                        | 5                       |
+| Tablet installa<sup>6</sup>                     | 5                        | 5                       |
 | Diritti commerciali di Office RT                     | Sì                     | Sì                    |
-| Office Online/Web Apps                          | Sì                     | Sì                    |
+| Office Online/web apps                          | Sì                     | Sì                    |
 | Diritti di utilizzo commerciale                           | Sì                     | Sì                    |
 
 **Note**
 
-Microsoft 365 Business Premium include il client Microsoft 365 Apps for business, che presenta alcune differenze rispetto alle app Microsoft 365 per Enterprise.
+Microsoft 365 Business Premium include il client Microsoft 365 Apps for business, che presenta alcune differenze rispetto a Microsoft 365 Apps for enterprise.
 
-<sup>1</sup> consente all'organizzazione di eseguire la registrazione di determinate impostazioni di configurazione (impostazioni di sicurezza, impostazioni delle app, roaming di Active Directory e così via) per l'accesso di Office ai computer alla rete aziendale.
+<sup>1</sup> Consente all'organizzazione di eseguire il push di determinate impostazioni di configurazione (impostazioni di sicurezza, impostazioni dell'app, roaming di Active Directory e così via) per Office ai computer che acciacciano alla rete aziendale.
 
-<sup>2</sup> con office standard 2016 e Office Professional Plus 2016, ha il controllo completo degli aggiornamenti utilizzando il modello MSI. Con le app Microsoft 365 per Enterprise e Microsoft 365 Apps for business, l'installazione e gli aggiornamenti vengono gestiti tramite la funzione a portata di clic.
+<sup>2</sup> Con Office Standard 2016 e Office Professional Plus 2016, l'IT ha il controllo completo degli aggiornamenti utilizzando il modello MSI. Con Microsoft 365 Apps for enterprise e Microsoft 365 Apps for business, l'installazione e gli aggiornamenti vengono gestiti tramite A click-to-Run.
 
-<sup>3</sup> le suite offrono diversi livelli di integrazione con i server per la produttività aziendale.
+<sup>3</sup> Le suite offrono diversi livelli di integrazione con i server di produttività aziendale.
 
-<sup>4</sup> archiviare i messaggi di posta elettronica da Outlook &mdash; non file. pst necessari &mdash; e impostare criteri di conservazione che archiviano o eliminino automaticamente la posta elettronica. Gli amministratori IT possono gestire in modo centralizzato l'archivio In-Place.
+<sup>4</sup> Archiviare la posta elettronica da Outlook senza file PST necessari e impostare criteri di conservazione che &mdash; &mdash; archivino o eliminino automaticamente la posta elettronica. Gli amministratori IT possono gestire centralmente il In-Place archivio.
 
-<sup>5</sup> richiede ulteriori servizi online.
+<sup>5</sup> Richiede servizi online aggiuntivi.
 
-<sup>6</sup> consente l'installazione locale tramite l'esecuzione a portata di clic delle app Microsoft 365 con licenza incluse nel servizio. Non include i diritti per l'installazione delle versioni locali di Office 2016. Office supporta PC e Tablet Windows che eseguono Windows 7 o versione successiva e Macs che eseguono MAC OS X 10,6 o versioni successive. Office per iPad può essere installato su iPads con versione 7 o superiore.
+<sup>6</sup> Consente l'installazione locale tramite l'esecuzione a clic delle app di Microsoft 365 con licenza incluse nel servizio. Non include i diritti per installare le versioni locali di Office 2016. Office supporta PC e tablet Windows che eseguono Windows 7 o versione successiva e Mac che eseguono MAC OS X 10.6 o versione successiva. Office per iPad può essere installato su iPad che eseguono la versione 7 o successiva.
 
-<sup>7</sup> questa funzionalità Premium è inclusa in Microsoft 365 Business Premium, ma non in altre offerte di Microsoft 365 Apps for business.
+<sup>7</sup> Questa funzionalità premium è inclusa in Microsoft 365 Business Premium, ma non in altre offerte di Microsoft 365 Apps for business.

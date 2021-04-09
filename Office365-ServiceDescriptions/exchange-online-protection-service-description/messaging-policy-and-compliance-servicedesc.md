@@ -2,6 +2,7 @@
 title: Criteri di messaggistica e conformità in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Leggere questo articolo per informazioni sui criteri di messaggistica e sulle funzionalità di conformità in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: a1ed14ed555adb17801014141a3f66616e17d2e1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173731"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653348"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Criteri di messaggistica e conformità in Exchange Online Protection
 

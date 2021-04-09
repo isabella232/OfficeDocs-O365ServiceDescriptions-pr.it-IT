@@ -2,6 +2,7 @@
 title: Guida alle licenze di Microsoft 365 per la conformità & sicurezza
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni sulle licenze per la conformità di Microsoft 365 per evitare potenziali interruzioni del servizio dovute all'accesso senza licenza.
-ms.openlocfilehash: 87eeaf51e18b74150416bdfc51bc6f97e94cd2db
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173400"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652660"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Linee guida per la gestione delle licenze di Microsoft 365 per la conformità della &amp; sicurezza
 
@@ -71,7 +72,7 @@ Gli amministratori possono ambito governance dell'identità di Azure AD assegnan
 - [Requisiti di licenza per la revisione dell'accesso di Azure AD](/azure/active-directory/governance/access-reviews-overview#license-requirements)
 - [Requisiti di licenza per l'utilizzo di Privileged Identity Management](/azure/active-directory/privileged-identity-management/subscription-requirements)
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender per identità
+## <a name="microsoft-defender-for-identity"></a>Che cosa è Microsoft Defender per identità?
 
 Microsoft Defender for Identity (in precedenza Azure Advanced Threat Protection) è un servizio cloud che consente di proteggere gli ambienti ibridi aziendali da più tipi di attacchi informatici mirati avanzati e minacce insider.
 

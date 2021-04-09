@@ -2,6 +2,7 @@
 title: Pianificazione del progetto
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: In Project online sono disponibili le seguenti funzionalità di pianificazione del progetto.
-ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: In Project Online sono disponibili le seguenti funzionalità di pianificazione del progetto.
+ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131100"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651051"
 ---
 # <a name="project-planning"></a>Pianificazione di progetto
 
-In Project online sono disponibili le seguenti funzionalità di pianificazione del progetto.
+In Project Online sono disponibili le seguenti funzionalità di pianificazione del progetto.
   
-Per informazioni su tutte le funzionalità di Project online, vedere Vedere la [Descrizione del servizio Project Online](project-online-service-description.md).
+Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
   
 ## <a name="baseline-rollup"></a>Riporto delle previsioni
 
@@ -54,7 +55,7 @@ Consente di applicare più righe di raggruppamento al piano di un progetto. Per 
   
 ## <a name="reports"></a>Report
 
-Con Project 2016, è possibile creare report professionali, chiari e colorati senza dover esportare i dati in un altro programma. Aggiungere immagini, grafici, animazioni, collegamenti e &mdash; tutto ciò che è necessario per condividere in modo chiaro ed efficace le informazioni sullo stato del progetto con i membri del team e le parti interessate. Per ulteriori informazioni, vedere [Creare un report sul progetto](https://go.microsoft.com/fwlink/p/?LinkId=271349).
+Con Project 2016, è possibile creare report professionali, chiari e colorati senza dover esportare i dati in un altro programma. Aggiungere immagini, grafici, animazioni, collegamenti e altro ancora per condividere in modo chiaro ed efficace le informazioni sullo stato del progetto con le parti interessate e &mdash; i membri del team. Per ulteriori informazioni, vedere [Creare un report sul progetto](https://go.microsoft.com/fwlink/p/?LinkId=271349).
   
 ## <a name="team-planner"></a>Pianificazione team
 
@@ -62,5 +63,5 @@ Consente di utilizzare una visualizzazione che mostra le persone e i compiti lor
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Project Online](project-online-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Project Online.](project-online-service-description.md)
   

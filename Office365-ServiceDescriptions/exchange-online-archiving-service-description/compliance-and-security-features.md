@@ -2,6 +2,7 @@
 title: Funzionalità di conformità e sicurezza in Archiviazione Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: Leggere questo articolo per informazioni sulle funzionalità di conformità disponibili in Microsoft Exchange Online archiviazione.
-ms.openlocfilehash: db2a6c515e5d438dce98a9a14d880ea40c25f505
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 0d424823116dd670c81628eaf85d1d553fdb5b8e
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173311"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653088"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Funzionalità di conformità e sicurezza in Archiviazione Exchange Online
 

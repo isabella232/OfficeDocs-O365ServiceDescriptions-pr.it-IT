@@ -2,18 +2,19 @@
 title: Pianificare la conformità Microsoft 365 - Distribuzion DoD
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Queste indicazioni sono per i professionisti IT che guidano le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o in altre entità che gestiscono dati soggetti a normative e requisiti governativi, in cui l'uso di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 0730ecf23d4c2fd167edf9f0e8b0dc5dcf67b646
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173531"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652620"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare la conformità Microsoft 365 - Distribuzion DoD
 
@@ -100,7 +101,7 @@ Per soddisfare i requisiti dei clienti cloud per enti pubblici, esistono alcune 
 |                                         | Gestione dei record: record normativi | Backlog di progettazione |
 |                                         | Gestione dei record: revisione dell'eliminazione in più fasi | Backlog di progettazione |
 |                                         | Gestione record: utilizzare la classificazione Syntex di SharePoint per applicare etichette di record         | Backlog di progettazione |
-| **Gestione dei rischi insider**             | Customer Lockbox                                | Disponibile            |
+| **Gestione dei rischi Insider**             | Customer Lockbox                                | Disponibile            |
 |                                         | Insider Risk Management: indicatori di Office per Teams, siti di SharePoint, messaggi di posta elettronica                         | Backlog di progettazione |
 |                                         | Insider Risk Management: furto di dati da parte di utenti in partenza                        | Backlog di progettazione |
 |                                         | Insider Risk Management: perdite di dati generali                                | Backlog di progettazione              |

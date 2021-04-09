@@ -2,6 +2,7 @@
 title: Supporto
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con ogni abbonamento Microsoft Office 365 per aziende, aziende, istruzione e enti pubblici, il supporto tecnico Microsoft fornisce supporto tecnico globale, pre-vendita, fatturazione e sottoscrizione. Il supporto è disponibile sia online tramite l'interfaccia di amministrazione di Microsoft365 che telefonicamente per le sottoscrizioni a pagamento e di valutazione. Per ulteriori informazioni, vedere Opzioni di supporto Microsoft.
-ms.openlocfilehash: f2279db8689f30d6906f33d6c2531ddfb4223784
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172791"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652430"
 ---
 # <a name="support"></a>Supporto
 

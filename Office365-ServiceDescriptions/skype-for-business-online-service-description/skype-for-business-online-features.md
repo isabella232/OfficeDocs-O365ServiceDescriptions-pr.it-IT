@@ -2,6 +2,7 @@
 title: Funzionalità di Skype for Business Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Gli amministratori possono trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for Business online in Configurare Skype for Business online.
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172671"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651021"
 ---
 # <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business Online
 
@@ -120,7 +121,7 @@ I servizi di audio conferenza sono disponibili in tutti i paesi. Per consultare 
   
 ## <a name="calling-plans"></a>Piani di chiamata
 
-Skype for Business include chiamate PSTN (Public Switched Telephone Network). Piani di chiamata sono un [](#phone-system-in-office-365) componente aggiuntivo del sistema telefonico che consente di cercare, acquisire e assegnare numeri di telefono agli utenti dell'organizzazione in modo che possano effettuare chiamate e ricevere chiamate da persone interne ed esterne all'organizzazione, direttamente da Office 365. Gli utenti assegnati ai numeri di telefono possono effettuare chiamate vocali su tutti i dispositivi dotati di Skype for Business, inclusi telefoni VoIP, PC e dispositivi mobili. Inoltre, possono controllare le chiamate grazie alle funzioni di attivazione/disattivazione dell'audio, sospensione/ripresa della telefonata, di trasferimento della chiamata e, se necessario, di esecuzione delle chiamate di emergenza. 
+Skype for Business include chiamate PSTN (Public Switched Telephone Network). Piani di chiamata sono un [](#phone-system) componente aggiuntivo del sistema telefonico che consente di cercare, acquisire e assegnare numeri di telefono agli utenti dell'organizzazione in modo che possano effettuare chiamate e ricevere chiamate da persone interne ed esterne all'organizzazione, direttamente da Office 365. Gli utenti assegnati ai numeri di telefono possono effettuare chiamate vocali su tutti i dispositivi dotati di Skype for Business, inclusi telefoni VoIP, PC e dispositivi mobili. Inoltre, possono controllare le chiamate grazie alle funzioni di attivazione/disattivazione dell'audio, sospensione/ripresa della telefonata, di trasferimento della chiamata e, se necessario, di esecuzione delle chiamate di emergenza. 
   
 Per informazioni sui piani di chiamata, vedere [Calling Plans for Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Per ulteriori informazioni e per configurare un piano di chiamata, vedere Quale piano di [chiamata fa per te?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

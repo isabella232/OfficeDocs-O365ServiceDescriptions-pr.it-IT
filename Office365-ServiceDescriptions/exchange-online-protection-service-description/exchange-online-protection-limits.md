@@ -2,6 +2,7 @@
 title: Limiti di Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Per Exchange Online Protection sono attualmente disponibili i limiti seguenti. Questi limiti non sono configurabili se non diversamente specificato.
-ms.openlocfilehash: 6c399c359d39f50a4bd359833fdf595415872bff
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c4bce8f7b501a7a00eea723464e20964899b3560
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173801"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653054"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti di Exchange Online Protection
 

@@ -2,6 +2,7 @@
 title: Funzionalità messaggio e conversazione in Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: In Yammer sono disponibili le seguenti funzionalità messaggio e conversazione.
-ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133040"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653598"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Funzionalità messaggio e conversazione in Yammer
 
@@ -26,15 +27,15 @@ In Yammer sono disponibili le seguenti funzionalità messaggio e conversazione.
 
 Inviare notifiche ad altri colleghi e inserirli nella conversazione @menzionando il loro nome.
 
-## <a name="events"></a>Eventi
+## <a name="events"></a>Events
 
-Organizzare riunioni ed eventi, condividerli con i colleghi e tenere conto delle presenze. Gli eventi possono essere aggiunti ai calendari di Outlook, Google, Yahoo! e iCal.
+Organizzare riunioni ed eventi, condividerli con i colleghi e tenere traccia delle presenze. Gli eventi possono essere aggiunti ai calendari di Outlook, Google, Yahoo!e iCal.
   
-## <a name="office-for-the-web-support"></a>Office per il supporto Web
+## <a name="office-for-the-web-support"></a>Supporto di Office per il Web
 
-Con Office per il supporto Web in Yammer, i documenti caricati in Yammer possono essere visualizzati e modificati con Office per il Web, direttamente in Yammer. In questo modo, i documenti devono essere renderizzati con Office per il Web, consentendo la creazione condivisa da parte di utenti diversi contemporaneamente e visualizza le conversazioni di Yammer rilevanti, direttamente nel browser.
+Con il supporto di Office per il Web in Yammer, i documenti caricati in Yammer possono essere visualizzati e modificati con Office per il Web, direttamente in Yammer. In questo modo è possibile eseguire il rendering dei documenti con Office per il Web, consentire la creazione condivisa da utenti diversi contemporaneamente e visualizzare conversazioni di Yammer pertinenti, direttamente nel browser.
 
-## <a name="online-now"></a>Ora online
+## <a name="online-now"></a>Online ora
 
 Scopri chi è in linea e avvia immediatamente una discussione privata con uno o più colleghi. L'elenco dei contatti viene ordinato automaticamente dalla persone con cui l'utente interagisce più spesso.
 
@@ -48,13 +49,13 @@ Avvia un dialogo privato con uno o più colleghi. È possibile aggiungere altri 
 
 ## <a name="publisher"></a>Publisher
 
-Utilizzare il server di pubblicazione per condividere un aggiornamento, aggiungere un documento, pubblicare un sondaggio, lodare un utente o inviare un evento.
+Usare l'autore per condividere un aggiornamento, aggiungere un documento, pubblicare un sondaggio, elogiare qualcuno o pubblicare un evento.
     
-## <a name="share-conversations"></a>Condividere le conversazioni
+## <a name="share-conversations"></a>Condividere conversazioni
 
-Condividere le conversazioni nel feed di un altro gruppo o tramite un messaggio privato per inoltrare informazioni e messaggi importanti.
+Condividere conversazioni nel feed di un altro gruppo o tramite un messaggio privato per inoltrare informazioni e messaggi importanti.
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare i piani di disponibilità delle funzionalità, opzioni autonome e soluzioni locali, vedere [Descrizione del servizio Yammer](yammer-service-description.md).
+Per visualizzare i piani di disponibilità delle funzionalità, le opzioni autonome e le soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)
   

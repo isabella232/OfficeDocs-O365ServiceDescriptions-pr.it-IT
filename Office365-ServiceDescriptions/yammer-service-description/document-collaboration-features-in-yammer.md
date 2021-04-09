@@ -2,6 +2,7 @@
 title: Funzionalità collaborazione documento in Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: In Yammer sono disponibili le seguenti funzionalità di collaborazione documento.
-ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 69864fe18e83dd84f20869d2b454c7fc07d73e50
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132090"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653538"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Funzionalità collaborazione documento in Yammer
 
@@ -34,13 +35,13 @@ Se si ha bisogno di assistenza per capire quale piano Yammer meglio si adatta al
 
 ## <a name="files"></a>File
 
-Condividere documenti di Microsoft Office, PDF, immagini e video tra i team e ottenere commenti e suggerimenti subito. Caricare nuove versioni per assicurare che tutti possano sempre vedere l'ultima bozza e accedere alle versioni precedenti.
+Condividi Microsoft Office documenti, PDF, immagini e video tra team e ottieni subito feedback. Caricare nuove versioni per assicurare che tutti possano sempre vedere l'ultima bozza e accedere alle versioni precedenti.
   
 ## <a name="official-content"></a>Contenuto ufficiale
 
-Contrassegnare i file come ufficiali e di sola lettura. Il contenuto ufficiale viene visualizzato più in alto nei risultati di ricerca e nelle directory di contenuto per un accesso facile.
+Contrassegnare i file come ufficiali e di sola lettura. I contenuti ufficiali vengono visualizzati più in alto nei risultati di ricerca e nelle directory dei contenuti per un facile accesso.
 
 ## <a name="recent-changes"></a>Modifiche recenti
 
-A colpo d'occhio, visualizzare tutte le modifiche apportate a un documento da ogni collaboratore nel riquadro **modifiche recenti** . Effettuare il ripristino a una versione precedente in qualunque momento.
+A colpo d'occhio, visualizzare tutte le modifiche apportate a un documento da ogni collaboratore nel **riquadro Modifiche** recenti. Effettuare il ripristino a una versione precedente in qualunque momento.
   
