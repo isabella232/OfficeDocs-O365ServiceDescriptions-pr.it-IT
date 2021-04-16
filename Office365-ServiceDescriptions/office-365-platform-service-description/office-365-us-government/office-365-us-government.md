@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato piani di Office 365 US Government (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche degli ambienti Office 365 Government US.
-ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
+ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767486"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857826"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -401,11 +401,11 @@ Le applicazioni di Office seguenti sono disponibili nei cloud per enti pubblici.
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) è completamente disponibile nei cloud per enti pubblici ad eccezione delle funzionalità seguenti, che al momento **non** sono disponibili:|**GCC**|**GCC High**|**DOD**|
 |Strumento ricerche|No|No|No|
 |Intelligent Digital Ink|No|No|No|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) è completamente disponibile nei cloud per enti pubblici, ad eccezione delle funzionalità seguenti, che al momento **non** sono disponibili:|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) è completamente disponibile nei cloud per enti pubblici ad eccezione delle funzionalità seguenti, che non sono disponibili in tutti i cloud per enti pubblici, come indicato nella tabella seguente.|**GCC**|**GCC High**|**DOD**|
 |Suoni di Office (alcuni)|No|No|No|
 |DDE (Dynamic Data Exchange) disabilitato per impostazione predefinita|No|No|No|
-|Dettatura|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) è completamente disponibile nei cloud per enti pubblici, ad eccezione delle funzionalità seguenti, che al momento **non** sono disponibili:|**GCC**|**GCC High**|**DOD**|
+|Dettatura|Sì|Sì|No<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) è completamente disponibile nei cloud per enti pubblici ad eccezione delle funzionalità seguenti, che non sono disponibili in tutti i cloud per enti pubblici, come indicato nella tabella seguente.|**GCC**|**GCC High**|**DOD**|
 |Ricerca intelligente|No|No|No|
 |Suoni di Office (alcuni)|No|No|No|
 |Modelli 3D e animazioni incorporate 3D|No|No|No|
@@ -418,7 +418,7 @@ Le applicazioni di Office seguenti sono disponibili nei cloud per enti pubblici.
 |Cronologia versioni|No|No|No|
 |Gruppi di Office 365|No|No|No|
 |Collaborazione in tempo reale (presenza, creazione condivisa regolare, chat in-document)|No|No|No|
-|Dettatura|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
+|Dettatura|Sì|Sì|No<sup>1</sup>|
 |Riutilizzare diapositive|No|No|No|
 |**La Lavagna Microsoft** nei cloud per enti pubblici è attualmente disponibile solo nei client Hub e non nel desktop.|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |Inserire sticky notes, testo e immagini|Sì<sup>2</sup> <br/>|Sì<sup>2</sup> <br/>|Sì<sup>2</sup> <br/>|
@@ -431,7 +431,7 @@ Le applicazioni di Office seguenti sono disponibili nei cloud per enti pubblici.
 |Presenza in tempo reale|No|No|No|
 |Reazioni sul contenuto|No|No|No|
 |Raccolta bacheche di lavagne, inclusa la condivisione con l'utente|No|No|No|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) è completamente disponibile nei cloud per enti pubblici, ad eccezione delle funzionalità seguenti, che al momento **non** sono disponibili:|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) è completamente disponibile nei cloud per enti pubblici ad eccezione delle funzionalità seguenti, che non sono disponibili in tutti i cloud per enti pubblici, come indicato nella tabella seguente.|**GCC**|**GCC High**|**DOD**|
 |Ricerca intelligente|No|No|No|
 |Strumento ricerche|No|No|No|
 |Suoni di Office|No|No|No|
@@ -447,7 +447,7 @@ Le applicazioni di Office seguenti sono disponibili nei cloud per enti pubblici.
 |Cronologia versioni|No|No|No|
 |Gruppi di Office 365|No|No|No|
 |Chat contestuale con co-autori: chat con co-autori all'interno del documento|No|No|No|
-|Dettatura|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
+|Dettatura|Sì|Sì|No<sup>1</sup>|
 
 Per la disponibilità delle funzionalità per Microsoft Teams all'interno di GCC/GCC High/DoD, visitare la descrizione [del servizio Microsoft Teams.](../../teams-service-description.md)
 > <sup>1</sup> Disponibilità in arrivo.
