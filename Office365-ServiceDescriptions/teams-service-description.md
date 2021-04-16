@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Informazioni sulla disponibilità dei servizi e delle funzionalità di Microsoft Teams nei piani di Microsoft 365 e Office 365.
-ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653568"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767456"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -22,6 +22,8 @@ Microsoft Teams è l'hub per il lavoro di squadra in Microsoft 365. Il servizio 
 Skype for Business Online si ritira il 31 luglio [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 2021, annunciato il 30 luglio 2019. Microsoft Teams è un servizio completamente nuovo, creato per il cloud da zero sfruttando Azure e altre innovazioni di servizio di Microsoft. Microsoft Teams è basato sui gruppi di Microsoft 365, Microsoft Graph e con la stessa sicurezza, conformità e gestibilità a livello aziendale del resto di Office 365. Teams sfrutta le identità archiviate in Azure Active Directory (Azure AD). Questi servizi sono disponibili dai data center Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o tramite Internet. Per ulteriori informazioni, vedere i poster relativi all'architettura IT e alle soluzioni di telefonia di [Microsoft Teams.](/microsoftteams/teams-architecture-solutions-posters)
 
 Questa descrizione del servizio dettaglia le differenze principali tra i servizi forniti nelle varie installazioni cloud. Le funzionalità principali di Microsoft Teams non differiscono tra le sottoscrizioni. La disponibilità delle funzionalità di conformità dipende dal livello di sottoscrizione. Per ulteriori informazioni sulla sicurezza e la conformità di Teams, vedere [Sicurezza e conformità in Microsoft Teams.](/microsoftteams/security-compliance-overview)
+
+Se gli utenti sono stati migrati completamente online, devono disporre sia di team che di licenze skype for business online per la funzionalità completa di Teams, anche se Skype for Business online non verrà utilizzato.
 
 ## <a name="available-plans"></a>Piani disponibili
 
