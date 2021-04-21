@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni sulle licenze per la conformità di Microsoft 365 per evitare potenziali interruzioni del servizio dovute all'accesso senza licenza.
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652660"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900766"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Linee guida per la gestione delle licenze di Microsoft 365 per la conformità della &amp; sicurezza
 
@@ -26,7 +26,7 @@ Ai fini di questo articolo, un servizio a livello di tenant è un servizio onlin
 > [!NOTE]
 > Alcuni servizi tenant non sono attualmente in grado di limitare i vantaggi a utenti specifici. È necessario fare sforzi per limitare i vantaggi del servizio agli utenti con licenza. Ciò consente di evitare potenziali interruzioni del servizio per l'organizzazione una volta che le funzionalità di destinazione sono disponibili.
 
-Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzionalità di conformità di Microsoft 365 a partire dal 1° aprile 2020, scaricare il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
+Per visualizzare le opzioni per la concessione delle licenze agli utenti per trarre vantaggio dalle funzionalità di conformità di Microsoft 365, scaricare il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -72,7 +72,7 @@ Gli amministratori possono ambito governance dell'identità di Azure AD assegnan
 - [Requisiti di licenza per la revisione dell'accesso di Azure AD](/azure/active-directory/governance/access-reviews-overview#license-requirements)
 - [Requisiti di licenza per l'utilizzo di Privileged Identity Management](/azure/active-directory/privileged-identity-management/subscription-requirements)
 
-## <a name="microsoft-defender-for-identity"></a>Che cosa è Microsoft Defender per identità?
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender per identità
 
 Microsoft Defender for Identity (in precedenza Azure Advanced Threat Protection) è un servizio cloud che consente di proteggere gli ambienti ibridi aziendali da più tipi di attacchi informatici mirati avanzati e minacce insider.
 
@@ -218,7 +218,7 @@ Per impostazione predefinita, le funzionalità di Microsoft Defender for Endpoin
 
 Gli amministratori di Microsoft Defender for Endpoint possono utilizzare il controllo degli accessi in base al ruolo (RBAC) per creare ruoli e gruppi all'interno del team delle operazioni di sicurezza per concedere l'accesso appropriato a Microsoft Defender Security Center. Per ulteriori informazioni, vedere [Manage portal access using role-based access control](/windows/security/threat-protection/microsoft-defender-atp/rbac).
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Analisi della classificazione dei dati di Microsoft 365: Panoramica di Esplora &amp; attività contenuto  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Analisi della classificazione dei dati di Microsoft 365: Panoramica di Esplora &amp; attività contenuto
 
 Le funzionalità analitiche per la classificazione dei dati sono disponibili nell'esperienza del Centro conformità Microsoft 365. Panoramica mostra le posizioni del contenuto digitale e i tipi di informazioni riservate più comuni e le etichette presenti. Esplora contenuto offre visibilità sulla quantità e sui tipi di dati sensibili e consente agli utenti di filtrare in base all'etichetta o al tipo di riservatezza per ottenere una visualizzazione dettagliata delle posizioni in cui sono archiviati i dati sensibili. Esplora attività mostra le attività correlate ai dati sensibili e alle etichette, ad esempio il downgrade delle etichette o la condivisione esterna che potrebbe esporre il contenuto a rischi.
 
