@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro tra molti dispositivi e più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
+ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653178"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52023571"
 ---
 # <a name="microsoft-365-suite-features"></a>Funzionalità della famiglia di prodotti Microsoft 365
 
@@ -74,7 +74,7 @@ Microsoft Stream è un servizio video aziendale che gli utenti dell'organizzazio
 
 Microsoft Sway è un'app professionale di narrativa digitale per le aziende che consente a te e ai tuoi colleghi di esprimere idee usando un canvas interattivo basato sul Web. Il motore di progettazione integrato di Microsoft Sway consente di produrre report, presentazioni e altro ancora professionali e visivamente accattivanti senza la necessità di una formattazione completa o di una formazione aggiuntiva. È inoltre possibile modificare i risultati per ottenere l'aspetto unico desiderato. Microsoft Sway rende la creazione ideale in qualsiasi browser su qualsiasi schermo e può essere condivisa con colleghi e clienti inviando un collegamento. Microsoft Sway consente di trovare e riunire tutti i tipi di contenuto senza uscire dall'app, in modo da poter trascinare e rilasciare immagini, testo, video e grafici direttamente nell'area di disegno. Per ulteriori informazioni, vedere [Sway](https://sway.com). Microsoft Sway non è ancora disponibile in [Office 365 Germany.](office-365-germany.md)
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for Enterprise
+## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for enterprise
 
 Microsoft 365 Apps for enterprise è la famiglia di applicazioni desktop sempre aggiornata che già conosci (tra cui Word, PowerPoint, Excel, Outlook e Teams) disponibili come abbonamento. Microsoft 365 Apps for enterprise include funzionalità intelligenti esclusive come [**Ideas in Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915) [**Researcher in Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)collaborazione in tempo [**reale,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams come hub per il lavoro in team e funzionalità di sicurezza avanzate. Come licenza basata sull'utente, è possibile distribuire Office in un massimo di cinque PC o Mac, cinque tablet e cinque dispositivi mobili. Con 1 TB di spazio di archiviazione sul cloud di OneDrive, è possibile accedere ai file e collaborare da qualsiasi luogo.
 
@@ -111,6 +111,18 @@ Con Microsoft To Do, i clienti possono:
 * Condividere elenchi e assegnare attività con colleghi, amici e familiari
 
 Per ulteriori informazioni, vedere: [To Do](https://to-do.microsoft.com/)
+
+## <a name="windows-update-for-business-deployment"></a>Distribuzione di Windows Update for Business  
+
+Il servizio di distribuzione di Windows Update for Business consente di controllare l'approvazione, la pianificazione e la protezione del contenuto fornito da Windows Update. È progettato per funzionare con i criteri esistenti di Windows Update for Business per fornire un controllo completo sui singoli aggiornamenti. Le funzionalità fornite dal servizio di distribuzione includono:
+
+* Pianificare le distribuzioni degli aggiornamenti delle funzionalità in modo che inizino in una data specifica
+* Fasi delle distribuzioni in un periodo di giorni o settimane tramite espressioni complesse
+* Ignorare i criteri preconfigurato di Windows Update for Business per distribuire immediatamente un aggiornamento della sicurezza nell'organizzazione
+* Garantire la copertura di hardware e software nell'organizzazione tramite distribuzioni personalizzate per la popolazione di dispositivi univoci
+* Identificare e sospendere automaticamente le distribuzioni nei dispositivi, che potrebbero essere influenzate da un blocco [di protezione](/windows/deployment/update/safeguard-holds)
+
+Queste funzionalità sono rese disponibili tramite le API di Microsoft Graph e l'integrazione con Microsoft Endpoint Manager. Per altre informazioni, vedi [Panoramica del servizio di distribuzione di Windows Update for Business.](https://aka.ms/wufb/deployment-service)
 
 ## <a name="whiteboard"></a>Whiteboard
 
