@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori Microsoft possono visualizzare lo stato dei servizi e scoprire quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo.
-ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ec8e03d31a300755ab741723b81651d6d6969b37
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652450"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074497"
 ---
 # <a name="service-health-and-continuity"></a>Integrità dei servizi e continuità
 
@@ -43,6 +43,14 @@ Esistono due tipi di notifiche sui casi in cui i servizi potrebbero non essere d
 ### <a name="recent-worldwide-uptimes"></a>Tempi di attività recenti a livello mondiale
 
 Passare a un servizio cloud non significa perdere la capacità di sapere cosa sta succedendo. Con Office 365, non è così. L'obiettivo è essere trasparenti nelle nostre operazioni, in modo da poter monitorare lo stato del servizio, tenere traccia dei problemi e avere una visualizzazione cronologica della disponibilità. Le tabelle seguenti mostrano i dati recenti relativi ai tempi di attività a livello mondiale.
+
+**2021**
+
+| D1 | Q2 | D3 | D4 |
+|:-----|:-----|:-----|:-----|
+| 99.97% <br/> | | | |
+
+<br>
 
 **2020**
 

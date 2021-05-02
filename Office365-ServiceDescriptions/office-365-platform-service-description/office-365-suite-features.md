@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro tra molti dispositivi e più servizi di Office 365. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023571"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074477"
 ---
 # <a name="microsoft-365-suite-features"></a>Funzionalità della famiglia di prodotti Microsoft 365
 
@@ -112,7 +112,7 @@ Con Microsoft To Do, i clienti possono:
 
 Per ulteriori informazioni, vedere: [To Do](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>Distribuzione di Windows Update for Business  
+## <a name="windows-update-for-business-deployment-service"></a>Servizio di distribuzione di Windows Update for Business 
 
 Il servizio di distribuzione di Windows Update for Business consente di controllare l'approvazione, la pianificazione e la protezione del contenuto fornito da Windows Update. È progettato per funzionare con i criteri esistenti di Windows Update for Business per fornire un controllo completo sui singoli aggiornamenti. Le funzionalità fornite dal servizio di distribuzione includono:
 

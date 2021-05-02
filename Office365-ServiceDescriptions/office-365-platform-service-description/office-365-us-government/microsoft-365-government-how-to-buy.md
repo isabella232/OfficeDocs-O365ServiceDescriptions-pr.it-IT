@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica di Microsoft 365 Government e vengono descritte le opzioni di acquisto.
-ms.openlocfilehash: b3b7e93a0595c0b62886fe558d696cbab44483c9
-ms.sourcegitcommit: 712be039cdfe8501891526f9c834105960f498ce
+ms.openlocfilehash: 0562b819e85296b56ab6276c28ad4af679c4ae50
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51874976"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074467"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - Come acquistare
 
@@ -113,7 +113,7 @@ La tabella seguente mostra le opzioni che possono soddisfare le esigenze di ogni
 
 Seguire questa procedura per acquistare le licenze di Microsoft 365 Government:
 
-1. Completare e inviare il modulo [per GCC](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) o [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) per convalidare l'idoneità dell'organizzazione.
+1. Completare e inviare il modulo [per GCC](https://www.microsoft.com/microsoft-365/government/eligibility-validation) o [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) per convalidare l'idoneità dell'organizzazione.
 2. Collaborare con il team dell'account Microsoft o con un partner qualificato per eseguire un ordine. I clienti possono acquistare licenze di Microsoft 365 per il governo statunitense solo tramite partner selezionati.
 
 **LSP GCC e GCC High (+500 postazioni)**
