@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Grazie a Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247974"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266366"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -122,6 +122,10 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati Projec
 |Personalizzare visualizzazioni e moduli <sup>4</sup> | Personalizzare solo le visualizzazioni e i moduli nell'applicazione Project personalizzata. | Solo visualizzazione | Sì | Sì | Sì |
 |Usare colonne personalizzate | Visualizzare, aggiungere, aggiornare o eliminare dati in una colonna aggiunta a una tabella. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |Utilizzare tabelle personalizzate <sup>5</sup> | Creare e definire tabelle personalizzate per contenere dati aggiuntivi necessari per progetti, portfolio e così via. | No | Solo visualizzazione | Sì | Sì |
+|**Power Automate flussi di lavoro e processi aziendali** <sup>7</sup> ||||||
+| | Definire e usare Power Automate cloud che utilizzano Project dati, incluse tabelle e colonne personalizzate. | No | Sì | Sì | Sì |
+| | Definire Power Automate processi aziendali che utilizzano Project dati, incluse tabelle e colonne personalizzate. | No | No | Sì | Sì |
+| | Utilizzare Power Automate processi aziendali che utilizzano Project dati. | No | Sì | Sì | Sì |
 |**Sicurezza e gestione degli utenti**||||||
 |Office Gruppi moderni | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse da condividere con i membri del team. | Sì | Sì | Sì | Sì |
 |**App di terze parti**||||||
@@ -199,7 +203,14 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell P
 <sup>4</sup> La creazione e l'utilizzo di Power Apps separati oltre all'applicazione Project che accede a Project per i dati dei clienti Web o Project Online richiede una sottoscrizione Power Apps separata.</br>
 <sup>5</sup> Limitato a 5 tabelle personalizzate.</br>
 <sup>6</sup> Project Online licenze per gli utenti esterni seguono lo stesso criterio per gli utenti interni. Qualsiasi interazione in un sito Project Online richiede una Project - Piano 3 o Project - Piano 5 abbonamento.</br>
-<sup>7</sup> L'automazione e l'integrazione dei processi aziendali con Power Automate con Project per i dati Web richiedono una sottoscrizione Power Automate e una sottoscrizione Project - Piano 3 o Project - Piano 5.</br>
+<sup>7</sup> Power Automate all'interno Project è limitato al contesto dell'Project applicazione. Ciò significa che, sia per i trigger che per le azioni, i diritti di flusso inclusi in Project possono:
+
+- Connessione a qualsiasi origine dati all'interno dei diritti di utilizzo dell'Project applicazione:
+  - Origini dati disponibili tramite connettori standard
+  - Project dati tramite il connettore Microsoft Dataverse
+- Essere attivati direttamente dall'Project applicazione (tramite trigger/azione incorporati)
+
+Se il flusso è isolato e non ha nulla a che fare con l Project appliczione, sarà necessario acquistare una licenza della piattaforma.</br>
 <sup>8</sup> Gli utenti con una sottoscrizione Project - Piano 3 o Project - Piano 5 possono inviare richieste di coinvolgimento delle risorse. Non possono esaminare, soddisfare o approvare le richieste di coinvolgimento delle risorse.</br>
 <sup>9</sup> Gli utenti con una sottoscrizione Project - Piano 5 possono esaminare, soddisfare e approvare le richieste di coinvolgimento delle risorse.</br>
 <sup>10</sup> Active Directory richiede una sottoscrizione separata. </br>
