@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264794"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625623"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
@@ -50,7 +50,6 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 - Microsoft 365 Apps for business
 - Microsoft 365 Business Standard
 - Microsoft 365 Apps for enterprise
-- Office 365 A1
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Microsoft 365 Business Basic per organizzazioni no profit
@@ -66,6 +65,7 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
@@ -86,7 +86,7 @@ Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi 
 > [!NOTE]
 > È necessario assegnare almeno una licenza a un utente prima di poter aumentare lo spazio di archiviazione predefinito in OneDrive. 
   
-Quando è necessario uno spazio di archiviazione per singoli utenti sul cloud superiore ai 5 TB iniziali, gli amministratori possono [aprire un caso con il supporto tecnico Microsoft](/microsoft-365/admin/contact-support-for-business-products) per richiederlo. Lo spazio di archiviazione aggiuntivo sul cloud si ottiene come descritto di seguito: 
+Quando è necessario uno spazio di archiviazione sul cloud per singoli utenti superiore ai 5 TB iniziali, gli amministratori possono [aprire un caso con il supporto tecnico Microsoft](/microsoft-365/admin/contact-support-for-business-products) per richiederlo. Lo spazio di archiviazione aggiuntivo sul cloud si ottiene come descritto di seguito: 
   
 - Quando un utente ha riempito i suoi 5 TB di spazio di archiviazione in OneDrive per almeno il 90% della capacità, Microsoft aumenta lo spazio di archiviazione predefinito in OneDrive fino a 25 TB per ogni utente (gli amministratori possono impostare una quantità inferiore per ogni utente se lo desiderano). 
     
@@ -141,7 +141,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - Gestire la condivisione esterna ([a livello dell'organizzazione](/sharepoint/turn-external-sharing-on-or-off) e [per ogni sito](/sharepoint/change-external-sharing-site) o [OneDrive](/onedrive/user-external-sharing-settings))
 - [Gestire le autorizzazioni per gli elementi condivisi](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Integrazione di Microsoft Teams](/MicrosoftTeams/sharepoint-onedrive-interact) per i file inviati nelle chat. Richiede un abbonamento che includa Office 365 e che l'utente disponga di una licenza di Teams.
-- [Allegati moderni](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC). Richiede un piano che includa Outlook sul Web o l'app desktop di Outlook.
+- [Allegati moderni](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC). Richiede un piano che includa Outlook sul web o l'app desktop di Outlook.
 - [Restrizione della condivisione in base al dominio](/sharepoint/restricted-domains-sharing) a livello dell'organizzazione o del sito
 - [Condivisione di report](/sharepoint/sharing-reports)
 - [Codici di verifica](/sharepoint/external-sharing-overview#what-happens-when-users-share)

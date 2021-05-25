@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato piani Office 365 US Government (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli Office 365 Government stati Uniti.
-ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545938"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625643"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -413,7 +413,9 @@ Le applicazioni Office seguenti sono disponibili nei cloud per enti pubblici; tu
 |Modelli 3D e animazioni incorporate 3D|No|No|No|
 |Grafici: mappe|No|No|No|
 |Intelligent Digital Ink|No|No|No|
-|Sottotitoli in tempo reale in PowerPoint|No|No|No|
+|Sottotitoli in tempo reale in PowerPoint|Sì|Sì|No|
+|Presentazioni live|No|No|No|
+|Strumento di lettura immersiva|No|No|No|
 |Presenter Coach|No|No|No|
 |Shared with Me|No|No|No|
 |Skype for Business integrazione con la condivisione|No|No|No|
