@@ -9,23 +9,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Il Centro &amp; sicurezza e conformità è progettato per facilitare la gestione delle funzionalità di conformità in Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Il Centro sicurezza e conformità è progettato per facilitare la gestione delle funzionalità di &amp; conformità Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
+ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653478"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699102"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Il [Centro sicurezza e &amp; conformità](https://protection.office.com/) è progettato per facilitare la gestione delle funzionalità di conformità in Office 365 per l'organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+Il [Centro sicurezza e &amp; conformità](https://protection.office.com/) è progettato per facilitare la gestione delle funzionalità di conformità Office 365 per l'organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzionalità di conformità di Microsoft 365 a partire dal 1° aprile 2020, scaricare il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-  
+Per visualizzare le opzioni per la concessione delle licenze agli utenti per trarre vantaggio dalle Microsoft 365 di conformità, scaricare la tabella Microsoft 365 [Comparison.](https://go.microsoft.com/fwlink/?linkid=2139145)
+
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilità &amp; del Centro sicurezza e conformità per i piani aziendali e aziendali
 
 | Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
@@ -36,7 +36,7 @@ Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzio
 |[Gestione avanzata delle minacce, ad esempio Esplora minacce per campagne di phishing](/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | No | No |No | No | No | Sì | Sì | No |
 |[Customer Lockbox](/microsoft-365/compliance/customer-lockbox-requests) | No | No | No | No | No | Sì | Sì  | No  |
 |[Gestione dei dispositivi mobili](/microsoft-365/admin/basic-mobility-security/set-up) | Sì | Sì | Sì | Sì | Sì | Sì | Sì | Sì |
-|[Prevenzione della perdita dei dati per Exchange Online, SharePoint Online e OneDrive for Business](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | No | Sì | Sì | No | Sì | Sì | No | No |
+|[Prevenzione della perdita dei dati Exchange Online, SharePoint Online e OneDrive for Business](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | No | Sì | Sì | No | Sì | Sì | No | No |
 |[Prevenzione della perdita dei dati di comunicazione per Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | No | No | No | No | No | Sì | No |  |
 |[Etichette di riservatezza manuali](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No | No | Sì | Sì | Sì | Sì | No |
 |Etichette di riservatezza automatiche | No | No |No | No | No | Sì | Sì | No |
@@ -58,9 +58,9 @@ Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzio
 |[Gestione degli accessi con privilegi](/microsoft-365/compliance/privileged-access-management-overview)  |No |No |No |No |No |Sì |No |No |
 |[Customer Key](/microsoft-365/compliance/customer-key-overview)  |No |No |No |No |No |Sì |No |No |
 
-<sup>1</sup> I registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include advanced audit, i log di controllo vengono conservati per un massimo di un anno. Inoltre, è possibile usare l'API di attività di gestione di [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal log di controllo unificato.
+<sup>1</sup> I registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include advanced audit, i log di controllo vengono conservati per un massimo di un anno. Puoi anche usare [l'API](/office/office-365-management-api/office-365-management-activity-api-reference) di Office 365 gestione degli eventi per recuperare gli eventi dal log di controllo unificato.
 
-<sup>2</sup> Richiede il componente aggiuntivo per la prevenzione della perdita dei dati di Office 365.
+<sup>2</sup> Richiede Office 365 di prevenzione della perdita dei dati.
 
 <sup>3</sup> Le etichette di riservatezza sono incluse anche in Azure Information Protection P1 e P2.
 
@@ -74,7 +74,7 @@ Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzio
 |[Gestione avanzata delle minacce,](/office365/securitycompliance/office-365-ti)ad esempio Esplora minacce per campagne di phishing   |No   |No   |No   |No   |No   |No   |No   |No   |No  |
 |[Customer Lockbox](/office365/securitycompliance/customer-lockbox-requests)  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Gestione dei dispositivi mobili](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
-|[Prevenzione della perdita dei dati per Exchange Online, SharePoint Online e OneDrive for Business](/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup>  |No   |Sì   |No   |No   |Sì <sup>7<sup>  |No  |Sì<sup>10</sup> |No   |Sì   |
+|[Prevenzione della perdita dei dati Exchange Online, SharePoint Online e OneDrive for Business](/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup>  |No   |Sì   |No   |No   |Sì <sup>7<sup>  |No  |Sì<sup>10</sup> |No   |Sì   |
 |[Prevenzione della perdita dei dati di comunicazione per Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams)  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Barriere informative](/office365/securitycompliance/information-barriers)  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Governance delle](/office365/securitycompliance/retention-policies)<sup>informazioni 1</sup>  |Sì<sup>2</sup>  |Sì   |Sì   |Sì   |Sì   |Sì<sup>10</sup>  |Sì<sup>10</sup>  |Sì   |Sì   |
@@ -92,7 +92,7 @@ Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzio
 |[Office 365 Advanced Message Encryption](/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
 |[Gestione degli accessi con privilegi](/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sì   |No   |No|No|No|
 
-<sup>1</sup> La governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati usando la spedizione delle unità o in rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere il confronto dettagliato delle licenze di conformità di Microsoft 365. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> La governance delle informazioni consente agli utenti di creare, pubblicare e applicare manualmente etichette ai documenti; importare i dati usando la spedizione delle unità o in rete. Queste funzionalità sono disponibili in E3 ed E5, con disponibilità limitata solo in E1. Per un elenco completo delle funzionalità disponibili in E1, E3 ed E5, vedere la sezione Microsoft 365 confronto delle licenze di conformità. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Richiede l'acquisto del componente aggiuntivo Archiviazione Exchange Online.
 
@@ -102,17 +102,17 @@ Per visualizzare le opzioni per consentire agli utenti di usufruire delle funzio
 
 <sup>5</sup> Advanced eDiscovery richiede Office 365 E5 o una licenza di componente aggiuntivo.
 
-<sup>6</sup> L'archiviazione Skype è all'interno della cassetta postale dell'utente.
+<sup>6 Skype'archiviazione</sup> è all'interno della cassetta postale dell'utente.
 
-<sup>7</sup> Include i file archiviati negli archivi di Microsoft Teams.
+<sup>7</sup> Include i file archiviati Microsoft Teams repository.
 
-<sup>8</sup> I registri di controllo per tutti i piani che includono il controllo di base vengono conservati per 90 giorni. Inoltre, è possibile usare l'API di attività di gestione di [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) per recuperare gli eventi dal log di controllo unificato.
+<sup>8</sup> I registri di controllo per tutti i piani che includono il controllo di base vengono conservati per 90 giorni. Puoi anche usare [l'API](/office/office-365-management-api/office-365-management-activity-api-reference) di Office 365 gestione degli eventi per recuperare gli eventi dal log di controllo unificato.
 
-<sup>9</sup> Richiede il componente aggiuntivo di prevenzione della perdita dei dati di Office 365.
+<sup>9</sup> Richiede Office 365 componente aggiuntivo per la prevenzione della perdita di dati.
 
 <sup>10</sup> Limitato ai file archiviati in OneDrive for Business.
 
-<sup>11</sup> È necessaria una licenza di Exchange Online Piano 2 o Archiviazione Exchange Online per mettere in attesa una cassetta postale utente utilizzando un criterio di conservazione.
+<sup>11</sup> Una licenza Exchange Online piano 2 o Archiviazione Exchange Online per mettere in attesa una cassetta postale utente utilizzando un criterio di conservazione.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
@@ -120,4 +120,4 @@ Centro conformità è disponibile nel piano E3 per Office 365 gestito da 21Viane
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Il Centro sicurezza & conformità è disponibile per Office 365 Germany. Per informazioni su Office 365 Germany, vedere [Office 365 Germany.](office-365-germany.md)
+Il Centro sicurezza & conformità è disponibile per Office 365 Germania. Per informazioni su Office 365 Germania, vedere [Office 365 Germany](office-365-germany.md).
