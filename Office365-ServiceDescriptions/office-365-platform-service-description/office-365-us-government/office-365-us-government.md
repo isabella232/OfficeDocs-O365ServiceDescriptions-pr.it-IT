@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato piani Office 365 US Government (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli Office 365 Government stati Uniti.
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625643"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699082"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -105,7 +105,7 @@ I servizi di adozione degli utenti sono costituiti da attività che forniscono i
 
 Informazioni specifiche sul processo di FastTrack Center sono disponibili [qui.](/FastTrack/us-gov-appendix-overview) Per una suddivisione dei ruoli e delle responsabilità di coinvolgimento, vedere [Responsabilità di FastTrack](/FastTrack/us-gov-appendix-fasttrack-responsibilities) e [Responsabilità dell'utente.](/FastTrack/us-gov-appendix-your-responsibilities)
 
-> <sup>1</sup> È necessario acquistare almeno 50 licenze dall'elenco dei piani idonei [per](/fasttrack/eligibility) ricevere i servizi FastTrack.
+> <sup>1</sup> È necessario acquistare almeno 150 licenze dall'elenco dei piani idonei [per](/fasttrack/eligibility) ricevere i servizi FastTrack.
 <br/><sup>2</sup> I servizi di migrazione dei dati sono disponibili Office 365 tenant con 500 o più licenze.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrazioni dei dati eseguite da FastTrack
@@ -453,7 +453,7 @@ Le applicazioni Office seguenti sono disponibili nei cloud per enti pubblici; tu
 |Chat contestuale con co-autori: chat con co-autori all'interno del documento|No|No|No|
 |Dettatura|Sì|Sì|No<sup>1</sup>|
 
-Per la disponibilità delle funzionalità Microsoft Teams entro GCC/GCC High/DoD, visitare la Microsoft Teams [service description](../../teams-service-description.md).
+Per la disponibilità delle funzionalità Microsoft Teams all'interno GCC/GCC High/DoD, visitare la Microsoft Teams [service description](../../teams-service-description.md).
 > <sup>1</sup> Disponibilità in arrivo.
 <br/><sup>2</sup> Disponibilità in Surface Hub locale (non connesso).
 <br/><sup>3</sup> La condivisione esterna è disponibile per l'GCC locale. Ulteriori informazioni su come [disattivare o attivare Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) per l'organizzazione. La condivisione esterna è disabilitata per GCC high e dod; Gli utenti all'interno dell'organizzazione possono eseguire le operazioni seguenti: compilare un modulo e inviare [risposte,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)duplicare e condividere un modulo come modello, creare insieme o collaborare [a](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)un modulo e accedere ai risultati [del modulo.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
