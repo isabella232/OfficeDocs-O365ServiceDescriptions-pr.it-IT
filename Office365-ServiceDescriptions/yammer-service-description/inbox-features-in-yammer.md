@@ -19,20 +19,20 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653528"
 ---
-# <a name="inbox-features-in-yammer"></a><span data-ttu-id="bc7f2-103">Funzionalità posta in arrivo in Yammer</span><span class="sxs-lookup"><span data-stu-id="bc7f2-103">Inbox features in Yammer</span></span>
+# <a name="inbox-features-in-yammer"></a><span data-ttu-id="73f6f-103">Funzionalità posta in arrivo in Yammer</span><span class="sxs-lookup"><span data-stu-id="73f6f-103">Inbox features in Yammer</span></span>
 
-<span data-ttu-id="bc7f2-104">In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.</span><span class="sxs-lookup"><span data-stu-id="bc7f2-104">The following inbox features are available in Yammer.</span></span>
+<span data-ttu-id="73f6f-104">In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.</span><span class="sxs-lookup"><span data-stu-id="73f6f-104">The following inbox features are available in Yammer.</span></span>
   
-## <a name="inbox"></a><span data-ttu-id="bc7f2-105">Posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="bc7f2-105">Inbox</span></span>
+## <a name="inbox"></a><span data-ttu-id="73f6f-105">Posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="73f6f-105">Inbox</span></span>
 
-<span data-ttu-id="bc7f2-106">Posta in arrivo aggrega automaticamente le @mentions, gli annunci di gruppo, le conversazioni e i messaggi privati, in modo da poter assegnare facilmente la priorità alle risposte.</span><span class="sxs-lookup"><span data-stu-id="bc7f2-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
+<span data-ttu-id="73f6f-106">Posta in arrivo aggrega automaticamente le @mentions, gli annunci di gruppo, le conversazioni e i messaggi privati, in modo da poter assegnare facilmente la priorità alle risposte.</span><span class="sxs-lookup"><span data-stu-id="73f6f-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
   
-## <a name="inbox-search"></a><span data-ttu-id="bc7f2-107">Ricerca posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="bc7f2-107">Inbox search</span></span>
+## <a name="inbox-search"></a><span data-ttu-id="73f6f-107">Ricerca posta in arrivo</span><span class="sxs-lookup"><span data-stu-id="73f6f-107">Inbox search</span></span>
 
-<span data-ttu-id="bc7f2-108">Cerca nell'intera posta in arrivo per trovare rapidamente conversazioni, messaggi privati e annunci.</span><span class="sxs-lookup"><span data-stu-id="bc7f2-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
+<span data-ttu-id="73f6f-108">Cerca nell'intera posta in arrivo per trovare rapidamente conversazioni, messaggi privati e annunci.</span><span class="sxs-lookup"><span data-stu-id="73f6f-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="bc7f2-109">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="bc7f2-109">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="73f6f-109">Disponibilità delle funzionalità</span><span class="sxs-lookup"><span data-stu-id="73f6f-109">Feature availability</span></span>
 
-<span data-ttu-id="bc7f2-110">Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="bc7f2-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="73f6f-110">Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Yammer [descrizione del servizio.](yammer-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="73f6f-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
 
