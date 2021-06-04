@@ -25,7 +25,7 @@ In Yammer sono disponibili le seguenti funzionalità della rete esterna.
   
 ## <a name="external-networks"></a>Reti esterne
 
-Creare un'area di lavoro online dedicata per collaborare con i contatti aziendali all'esterno della rete Yammer dell'organizzazione.
+Creare un'area di lavoro online dedicata per collaborare con i contatti aziendali all'esterno della rete Yammer aziendale.
   
 ## <a name="fast-network-switching"></a>Commutazione di rete rapida
 
@@ -33,4 +33,4 @@ Commutazione continua tra reti interne ed esterne. Monitorare facilmente le conv
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Yammer [descrizione del servizio.](yammer-service-description.md)

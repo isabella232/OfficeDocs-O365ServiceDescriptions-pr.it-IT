@@ -41,14 +41,14 @@ Aggiungere manager e report per creare un organigramma insieme ai colleghi. Le i
   
 ## <a name="praise"></a>Complimenti
 
-Dai e ricevi riconoscimenti per lavori ben fatti. I risultati e le notifiche vengono visualizzati nei profili nella **scheda Lode.**
+Dai e ricevi riconoscimenti per lavori ben fatti. I risultati e le notifiche vengono visualizzati nei profili **nella Complimenti** lavoro.
  
 ## <a name="user-profiles"></a>Profili utente
 
-Carica un'immagine, inserisci i dettagli di contatto ed elenca le tue competenze. I profili aggregano tutte le informazioni personali, tra cui le conversazioni e i file.
+Upload un'immagine, inserire i dettagli del contatto ed elencare le proprie competenze. I profili aggregano tutte le informazioni personali, tra cui le conversazioni e i file.
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Yammer [descrizione del servizio.](yammer-service-description.md)
   
 

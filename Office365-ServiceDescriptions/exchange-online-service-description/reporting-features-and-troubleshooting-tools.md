@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online offre un'ampia gamma di funzionalità di creazione di report sia nell'interfaccia di amministrazione di Exchange che all'uscita dall'interfaccia di amministrazione di Exchange.
+description: Microsoft Exchange Online offre un'ampia gamma di funzionalità di creazione di report sia all'Exchange admin center (EAC).
 ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,23 +21,23 @@ ms.locfileid: "51652690"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di creazione dei report e strumenti di risoluzione problemi
 
-Microsoft Exchange Online offre un'ampia gamma di funzionalità di creazione di report sia nell'interfaccia di amministrazione di Exchange che all'uscita dall'interfaccia di amministrazione di Exchange.
+Microsoft Exchange Online offre un'ampia gamma di funzionalità di creazione di report sia all'Exchange admin center (EAC).
   
 ## <a name="reporting-features"></a>Funzionalità di creazione di report
 
-I clienti di Exchange Online possono accedere ai report nell'interfaccia di amministrazione di Microsoft 365, scaricando una cartella di lavoro per i report di Excel o utilizzando i servizi Web.
+Exchange Online i clienti possono accedere ai report nell'interfaccia di amministrazione di Microsoft 365, scaricando una cartella Excel di report o utilizzando i servizi Web.
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Creazione di report nell'interfaccia di amministrazione di Microsoft 365
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Creazione di report nell'Microsoft 365 di amministrazione
 
-Nella pagina Report dell'interfaccia di amministrazione di Microsoft 365 sono disponibili report che forniscono informazioni di riepilogo sulle cassette postali e sui gruppi. Ad esempio, un rapporto indica il numero di gruppi creati ed eliminati al giorno, alla settimana, al mese e all'anno. Sono disponibili anche dei rapporti sintetici per le cassette postali nuove ed eliminate e per le cassette postali attive e inattive. 
+Nella pagina Report dell'interfaccia di amministrazione di Microsoft 365 sono disponibili report di riepilogo sulle cassette postali e sui gruppi. Ad esempio, un rapporto indica il numero di gruppi creati ed eliminati al giorno, alla settimana, al mese e all'anno. Sono disponibili anche dei rapporti sintetici per le cassette postali nuove ed eliminate e per le cassette postali attive e inattive. 
   
 Inoltre, la pagina Report nell'interfaccia di amministrazione di Microsoft 365 contiene report sui dati di messaggistica, che forniscono informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole di trasporto di Exchange o dai criteri di prevenzione della perdita dei dati (DLP). I report migliorati per la protezione, le regole e DLP offrono un'esperienza di report interattiva agli amministratori di Exchange Online. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
   
-Per ulteriori informazioni sui report disponibili con ogni sottoscrizione, vedere [Reports](../office-365-platform-service-description/reports.md). Per informazioni più dettagliate sulla pagina Report nell'interfaccia di amministrazione di Microsoft 365, vedere View [and download reports about service usage in Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Use mail protection reports to view data about [malware, spam, and rule detections](/exchange/monitoring/use-mail-protection-reports).
+Per ulteriori informazioni sui report disponibili con ogni sottoscrizione, vedere [Reports](../office-365-platform-service-description/reports.md). Per informazioni più dettagliate sulla pagina Report nell'interfaccia di amministrazione di Microsoft 365, vedere View [and download reports about service usage in Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Use mail protection reports to view data about [malware, spam, and rule detections.](/exchange/monitoring/use-mail-protection-reports)
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Reporting con la relativa cartella di lavoro Excel
 
-È anche possibile utilizzare la cartella di lavoro Excel 2013 per visualizzare rapporti di riepilogo con funzionalità di drill-down. Tuttavia, è consigliabile usare i report dell'interfaccia di amministrazione di Microsoft 365 migliorati. La cartella di lavoro per la creazione dei report di Excel 2013 diventerà obsoleta. Per una panoramica sulla cartella di lavoro e per i collegamenti per scaricarla e installarla, vedere la seguente [pagina di download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Per informazioni su come utilizzare la cartella di lavoro, vedere [Rapporti sulla protezione della posta utilizzando la cartella di lavoro per reporting di Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
+È anche possibile utilizzare la cartella di lavoro Excel 2013 per visualizzare rapporti di riepilogo con funzionalità di drill-down. Tuttavia, ti consigliamo di usare i report dell'interfaccia Microsoft 365'interfaccia di amministrazione avanzata. La cartella di lavoro per la creazione dei report di Excel 2013 diventerà obsoleta. Per una panoramica sulla cartella di lavoro e per i collegamenti per scaricarla e installarla, vedere la seguente [pagina di download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Per informazioni su come utilizzare la cartella di lavoro, vedere [Rapporti sulla protezione della posta utilizzando la cartella di lavoro per reporting di Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
   
 ### <a name="reporting-using-web-services"></a>Reporting using web services
 
@@ -49,7 +49,7 @@ Nell'interfaccia di amministrazione di Exchange sono disponibili le seguenti fun
   
 ### <a name="trace-an-email-message"></a>Traccia di un messaggio di posta elettronica
 
-La funzionalità di traccia dei messaggi consente all'amministratore di seguire i messaggi di posta elettronica mentre passano attraverso il servizio Exchange Online. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Ciò consente all'amministratore di rispondere in modo preciso alle domande dei propri utenti e di risolvere i problemi del flusso di posta elettronica, riducendo la necessità di rivolgersi al supporto tecnico per assistenza.
+La funzionalità di traccia dei messaggi consente all'amministratore di seguire i messaggi di posta elettronica mentre passano attraverso il Exchange Online servizio. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Ciò consente all'amministratore di rispondere in modo preciso alle domande dei propri utenti e di risolvere i problemi del flusso di posta elettronica, riducendo la necessità di rivolgersi al supporto tecnico per assistenza.
   
 > [!IMPORTANT]
 > Per la risoluzione di problemi generici, utilizzare gli strumenti di reporting per ottenere i dati necessari. Per problemi più specifici, per i quali è necessario avere i dettagli relativi a un determinato messaggio, utilizzare lo strumento di traccia dei messaggi. 
@@ -72,4 +72,4 @@ Per informazioni sulla registrazione di controllo, vedere [Rapporti di controllo
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online [descrizione del servizio.](exchange-online-service-description.md)

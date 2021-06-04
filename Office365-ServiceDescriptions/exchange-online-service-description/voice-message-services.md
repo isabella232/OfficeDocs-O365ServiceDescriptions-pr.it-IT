@@ -46,7 +46,7 @@ I servizi di messaggistica vocale ospitati consentono a un'azienda di connettere
     
 - Regole di segreteria telefonica (vedere [Allow voice mail users to forward calls](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) for details).
     
-- Segreteria telefonica protetta in Exchange Online (per informazioni dettagliate, vedere [Proteggere la segreteria telefonica in Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
+- Segreteria telefonica protetta in Exchange Online (per informazioni dettagliate, vedere [Protect voice mail in Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
     
 - Anteprima casella vocale (vedere [Allow users to see a voice mail transcript](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) for a list of supported languages).
     
@@ -56,7 +56,7 @@ I servizi di messaggistica vocale ospitati consentono a un'azienda di connettere
     
 - Ricerca nelle directory tramite Outlook Voice Access o un operatore automatico.
     
-Per ulteriori informazioni sulle funzionalità della casella vocale, vedere [Voice mail in Exchange Online.](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)
+Per ulteriori informazioni sulle funzionalità della casella vocale, vedere [Voice mail in Exchange Online](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging).
   
 > [!IMPORTANT]
 > The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. 
@@ -65,7 +65,7 @@ Per ulteriori informazioni sulle funzionalità della casella vocale, vedere [Voi
 >
 > Il cliente deve fornire i dispositivi hardware SBC e garantire che tali SBC siano correttamente configurati per connettersi ai servizi di posta vocale. Occorre configurare anche un livello appropriato di sicurezza utilizzando certificati e interfacce IP pubbliche e private e abilitando le corrette porte TCP attraverso i relativi firewall locali. 
 >
-> La segreteria telefonica ospitata è disponibile solo per gli abbonati a Exchange Online Piano 2 e Office 365 Enterprise E3. 
+> La segreteria telefonica ospitata è disponibile solo Exchange Online abbonati al Piano 2 e Office 365 Enterprise E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilità posta vocale di terze parti
 
@@ -76,8 +76,8 @@ Interoperabilità posta vocale di terze parti
   
 ## <a name="skype-for-business-integration"></a>Integrazione con Skype for Business
 
-Le organizzazioni possono acquistare Skype for Business Online come un servizio autonomo o come parte di Microsoft Office 365. È supportato anche Skype for Business 2015 locale. Per ulteriori informazioni su Skype for Business online, vedere [Descrizione del servizio Skype for Business online.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+Le organizzazioni possono acquistare Skype for Business Online come un servizio autonomo o come parte di Microsoft Office 365. Skype for Business 2015 locale è supportato anche. Per ulteriori informazioni su Skype for Business Online, vedere [Skype for Business Descrizione del servizio online.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online [descrizione del servizio.](exchange-online-service-description.md)

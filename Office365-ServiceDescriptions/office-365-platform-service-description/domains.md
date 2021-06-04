@@ -27,7 +27,7 @@ Quando si aggiunge un dominio, una procedura guidata dettagliata consente di agg
   
 ## <a name="custom-domains"></a>Domini personalizzati
 
-È possibile aggiungere fino a 900 domini alla sottoscrizione (inclusi i sottodomini). Non è possibile aggiungere a Microsoft 365 un dominio già in uso in un altro servizio cloud Microsoft. Ciò significa che non è possibile aggiungere lo stesso dominio a più sottoscrizioni. Per ulteriori informazioni, vedere [Domande frequenti sui domini.](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)
+È possibile aggiungere fino a 900 domini alla sottoscrizione (inclusi i sottodomini). Non è possibile aggiungere un dominio a Microsoft 365 già in uso in un altro servizio cloud Microsoft. Ciò significa che non è possibile aggiungere lo stesso dominio a più sottoscrizioni. Per ulteriori informazioni, vedere [Domande frequenti sui domini.](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)
   
 ### <a name="second-and-third-level-domains"></a>Domini di secondo e terzo livello
 
@@ -35,7 +35,7 @@ Con Office 365 Enterprise e Microsoft 365 Apps for business, è possibile aggiun
   
 ## <a name="domain-verification-and-managing-dns-records"></a>Verifica e gestione dei record DNS
 
-Con Microsoft 365, è possibile gestire tutti i record DNS presso il provider di hosting DNS oppure scegliere di configurare e gestire automaticamente i record DNS del dominio. Se si continua a gestire i record, si modificano record specifici in modo che puntino ai servizi Microsoft in base alle esigenze. Per un elenco dei registrar per i quali vengono fornite istruzioni dettagliate per l'aggiunta dei record, inclusi i valori specifici da utilizzare per ogni record, vedere [Create DNS records](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) or, if you are using Office 365 operated by 21Vianet, see Create DNS records at any provider for Office 365 operated by 21Vianet. 
+Con Microsoft 365, è possibile gestire tutti i record DNS presso il provider di hosting DNS oppure scegliere di configurare e gestire automaticamente i record DNS del dominio. Se si continua a gestire i record, si modificano record specifici in modo che puntino a servizi Microsoft in base alle esigenze. Per un elenco dei registrar per i quali vengono fornite istruzioni dettagliate per l'aggiunta dei record, inclusi i valori specifici da utilizzare per ogni record, vedere [Create DNS records](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) or, if you are using Office 365 operated by 21Vianet, see Create DNS records at any provider for Office 365 operated by 21Vianet. 
   
 Se Microsoft gestisce automaticamente i record DNS del dominio, è innanzitutto necessario cambiare i record del server dei nomi del dominio in modo che puntino a Microsoft e quindi Microsoft configura i servizi e quindi i record DNS del dominio vengono gestiti in Microsoft.
   
@@ -43,18 +43,18 @@ Se il dominio è registrato in GoDaddy, Microsoft può creare automaticamente i 
   
 Indipendentemente da dove sono ospitati i record DNS, è possibile configurare i record DNS per l'utilizzo del dominio per l'URL di un sito Web pubblico ospitato in Microsoft o con un provider di hosting diverso. 
   
-Microsoft controlla in modo proattivo i record DNS per individuare e risolvere i problemi DNS. Se i record DNS non corrispondono a quanto previsto, si riceverà una notifica nell'interfaccia di amministrazione di Microsoft 365, insieme alle informazioni che spiegano come risolvere i possibili problemi identificati.
+Microsoft controlla in modo proattivo i record DNS per individuare e risolvere i problemi DNS. Se i record DNS non corrispondono a quello previsto, si riceverà una notifica nell'interfaccia di amministrazione di Microsoft 365, insieme alle informazioni che spiegano come risolvere i possibili problemi identificati.
   
-Per ulteriori informazioni, vedere [How Microsoft manages DNS records](/office365/admin/setup/domains-faq) or, for Office 365 operated by 21Vianet, see Create DNS records for Office [365 when you manage your DNS records](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
+Per ulteriori informazioni, vedere How [Microsoft manages DNS records](/office365/admin/setup/domains-faq) or, for Office 365 operated by 21Vianet, see Create DNS records for Office 365 when you manage your DNS [records](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
   
 ## <a name="sharing-a-domain"></a>Condivisione di un dominio
 
-È possibile pilotare alcuni indirizzi di posta elettronica per un dominio in Microsoft e altri nel provider di posta elettronica precedente. Questa opzione è consigliata solo per l'utilizzo durante un progetto pilota, perché richiede passaggi di configurazione aggiuntivi e presenta alcune limitazioni per i servizi Microsoft. Per altre informazioni, vedere:
+È possibile pilotare alcuni indirizzi di posta elettronica per un dominio in Microsoft e altri nel provider di posta elettronica precedente. Questa opzione è consigliata solo per l'utilizzo durante un progetto pilota, perché richiede passaggi di configurazione aggiuntivi e presenta alcune limitazioni per servizi Microsoft. Per altre informazioni, vedere:
   
-- [Pilotare Microsoft 365 per una piccola azienda](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
+- [Progetti pilota Microsoft 365 per una piccola azienda](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [Pilotare Microsoft 365 per un'azienda di grandi dimensioni (con FastTrack)](https://fasttrack.office.com/onboard)
+- [Progetti Microsoft 365 per un'azienda di grandi dimensioni (con FastTrack)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità nei piani di Microsoft 365 per le aziende, opzioni autonome e soluzioni locali, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità Microsoft 365 per i piani aziendali, le opzioni autonome e le soluzioni locali, vedere Microsoft 365 e Office 365 descrizione [del servizio della piattaforma.](office-365-platform-service-description.md)

@@ -20,7 +20,7 @@ ms.locfileid: "51652600"
 
 MyAnalytics riepiloga il modo in cui trascorri il tuo tempo sul lavoro e quindi suggerisce modi per lavorare in modo più intelligente. MyAnalytics fornisce queste informazioni dettagliate tramite [elementi](#elements) a cui è possibile accedere in Microsoft Outlook o tramite il Web browser.
 
-Alcuni degli elementi di MyAnalytics vengono forniti automaticamente agli utenti di vari piani di Office 365. Per informazioni su quali elementi sono inclusi nei piani di Office 365 e Microsoft 365, vedere Piani e ambienti [di MyAnalytics.](/workplace-analytics/myanalytics/overview/plans-environments)  
+Alcuni degli elementi di MyAnalytics vengono forniti automaticamente agli utenti di vari Office 365 piani. Per informazioni su quali elementi sono inclusi i piani Office 365 e Microsoft 365, vedere Piani e ambienti [di MyAnalytics.](/workplace-analytics/myanalytics/overview/plans-environments)  
 
 MyAnalytics elabora le informazioni in modo da proteggere la privacy dei dipendenti. Per ulteriori informazioni, vedere [Privacy dei dati](#data-privacy).
 
@@ -33,9 +33,9 @@ Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli 
 MyAnalytics è costituito dai seguenti elementi:
 
 * [Dashboard](/workplace-analytics/myanalytics/use/dashboard-2): consente di riflettere sui modelli di lavoro, ad esempio il tempo per il lavoro mirato, le procedure di riunione e di posta elettronica e la rete.
-* [Componente aggiuntivo di Outlook](/workplace-analytics/myanalytics/use/add-in): fornisce informazioni dettagliate utili in Outlook che consentono di rimanere al primo piano delle attività e di fare di più.
+* [Outlook aggiuntivo:](/workplace-analytics/myanalytics/use/add-in)fornisce informazioni dettagliate utili in Outlook che consentono di mantenere le attività e di ottenere maggiori risultati.
 * [Digest di posta](/workplace-analytics/myanalytics/use/email-digest-2)elettronica : fornire informazioni principali sui modelli di lavoro in un messaggio di posta elettronica settimanale.
-* [Suggerimenti in linea](/workplace-analytics/myanalytics/use/mya-notifications): questi suggerimenti brevi, guidati da dati e IA vengono visualizzati in Outlook durante la lettura o la composizione di un messaggio di posta elettronica o di un invito a una riunione.
+* [Suggerimenti in linea:](/workplace-analytics/myanalytics/use/mya-notifications)questi brevi suggerimenti, guidati da dati e IA vengono visualizzati in Outlook durante la lettura o la composizione di un messaggio di posta elettronica o di un invito a una riunione.
 
 ## <a name="data-privacy"></a>Privacy dei dati
 
@@ -46,7 +46,7 @@ Aderendo alle linee guida seguenti, MyAnalytics protegge la privacy dei dipenden
 * I dati di MyAnalytics sono elaborati e archiviati nella cassetta postale di Exchange Online dei dipendenti.
 * MyAnalytics supporta la conformità con il General Data Protection Regulation (GDPR).
 * È possibile configurare MyAnalytics in modo che gli utenti acconsentano esplicitamente.
-* MyAnalytics e Delve sono applicazioni separate senza interdipendenze.
+* MyAnalytics e Delve applicazioni separate senza interdipendenze.
 * MyAnalytics ricorda alle persone che i loro dati sono privati e sicuri.
 
 Per ulteriori informazioni, vedere Guida alla [privacy di MyAnalytics.](/workplace-analytics/myanalytics/overview/privacy-guide)

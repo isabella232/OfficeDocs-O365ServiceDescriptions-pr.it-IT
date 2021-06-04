@@ -21,9 +21,9 @@ ms.locfileid: "51652998"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gestione di destinatari, domini e società in Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) offre diversi strumenti per gestire le informazioni relative a destinatari, domini e società. In quanto amministratore, è possibile eseguire determinate attività di gestione nell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'interfaccia di amministrazione di Microsoft 365.
+Microsoft Exchange Online Protection (EOP) offre diversi mezzi per gestire le informazioni relative a destinatari, domini e società. Gli amministratori possono eseguire determinate attività di gestione nell'interfaccia di amministrazione di Exchange (EAC) e verificare altre attività di gestione eseguite nell'Microsoft 365 di amministrazione.
   
-Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione del servizio Exchange Online Protection.](exchange-online-protection-service-description.md)
+Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione Exchange Online Protection servizio.](exchange-online-protection-service-description.md)
   
 ## <a name="mail-recipients"></a>Mail recipients
 
@@ -35,7 +35,7 @@ In EOP, è possibile configurare solo ruoli amministrativi. Gli utenti possono e
   
 ## <a name="domain-management"></a>Gestione del dominio
 
-I domini gestiti sono quelli protetti da EOP. I domini gestiti possono essere visualizzati e i tipi di domini possono essere modificati nell'interfaccia di amministrazione di Exchange. Il provisioning e la gestione del dominio si verificano nell'interfaccia di amministrazione di Microsoft 365 e le modifiche si riflettono nell'interfaccia di amministrazione di Exchange. Per ulteriori informazioni, vedere [Visualizza o modifica domini gestiti in EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
+I domini gestiti sono quelli protetti da EOP. I domini gestiti possono essere visualizzati e i tipi di domini possono essere modificati nell'interfaccia di amministrazione di Exchange. Il provisioning e la gestione del dominio si verificano Microsoft 365'interfaccia di amministrazione e le modifiche si riflettono nell'interfaccia di amministrazione di Exchange. Per ulteriori informazioni, vedere [Visualizza o modifica domini gestiti in EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
   
 ## <a name="match-subdomains"></a>Corrispondenza sottodomini
 
@@ -49,4 +49,4 @@ L'attivazione DBEB richiede alcuni utenti e la configurazione del dominio. Per u
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online Protection.](exchange-online-protection-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online Protection [descrizione del servizio.](exchange-online-protection-service-description.md)

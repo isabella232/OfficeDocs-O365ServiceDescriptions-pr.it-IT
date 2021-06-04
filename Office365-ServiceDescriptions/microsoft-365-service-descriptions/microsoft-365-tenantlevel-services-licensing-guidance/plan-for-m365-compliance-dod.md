@@ -109,7 +109,7 @@ Per soddisfare i requisiti dei clienti cloud per enti pubblici, esistono alcune 
 | | Gestione record: controllo delle versioni dei record | Disponibile |
 | | Gestione dei record: record normativi | Disponibile |
 | | Gestione record: utilizzare la SharePoint Syntex per applicare etichette di record | Backlog di progettazione |
-| **Gestione dei rischi Insider** | Customer Lockbox | Disponibile |
+| **Gestione dei rischi insider** | Customer Lockbox | Disponibile |
 | | Gestione dei rischi insider: dashboard del caso, Esplora contenuto e modelli di avviso | In distribuzione |
 | | Insider Risk Management: inoltrare le indagini per Advanced eDiscovery | In distribuzione |
 | | Insider Risk Management: furto di dati da parte di utenti in partenza | In distribuzione |

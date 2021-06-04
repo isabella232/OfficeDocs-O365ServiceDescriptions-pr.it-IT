@@ -47,6 +47,6 @@ Workplace Analytics fornisce controlli della privacy per soddisfare le tue esige
 
 Per ulteriori informazioni, vedere [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Per altre informazioni su come usare Workplace Analytics, vedi la [documentazione di Workplace Analytics.](/workplace-analytics/)
   
-## <a name="licensing-requirements"></a>Requisiti per la licenza
+## <a name="licensing-requirements"></a>Requisiti di licenza
 
-Exchange Online Piano 1 o Piano 2 è un prerequisito.
+Exchange Online Il piano 1 o il piano 2 è un prerequisito.

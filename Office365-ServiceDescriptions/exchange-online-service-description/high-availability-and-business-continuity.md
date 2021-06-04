@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online supporto completo per la conservazione e il ripristino per l'infrastruttura di posta elettronica di un'organizzazione. Questo supporto include la replica delle cassette postali presso i data center e la capacità di ripristinare le cassette postali e gli elementi eliminati.
+description: Microsoft Exchange Online offre un ampio supporto di conservazione e ripristino per l'infrastruttura di posta elettronica di un'organizzazione. Questo supporto include la replica delle cassette postali presso i data center e la capacità di ripristinare le cassette postali e gli elementi eliminati.
 ms.openlocfilehash: 5415499e85d0e6fb0334e2e23abc435d0df9d2ab
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,7 +21,7 @@ ms.locfileid: "51653338"
 ---
 # <a name="high-availability-and-business-continuity"></a>Disponibilità elevata e continuità aziendale
 
-Microsoft Exchange Online supporto completo per la conservazione e il ripristino per l'infrastruttura di posta elettronica di un'organizzazione. Questo supporto include la replica delle cassette postali presso i data center e la capacità di ripristinare le cassette postali e gli elementi eliminati.
+Microsoft Exchange Online offre un ampio supporto di conservazione e ripristino per l'infrastruttura di posta elettronica di un'organizzazione. Questo supporto include la replica delle cassette postali presso i data center e la capacità di ripristinare le cassette postali e gli elementi eliminati.
   
 ## <a name="mailbox-replication-at-data-centers"></a>Replica delle cassette postali presso i data center
 
@@ -31,7 +31,7 @@ Per ulteriori informazioni su come Microsoft protegge i dati dei clienti, visita
   
 ## <a name="deleted-mailbox-recovery"></a>Recupero di cassette postali eliminate
 
-Gli amministratori possono eliminare le cassette postali di Exchange Online utilizzando l'interfaccia di amministrazione di Microsoft 365 per eliminare l'account utente corrispondente o rimuovere la licenza di Exchange Online oppure utilizzando il cmdlet **Remove-Mailbox** in Windows PowerShell remoto. Quando una cassetta postale viene eliminata, Exchange Online conserva la cassetta postale e il contenuto per un periodo predefinito di 30 giorni. Dopo 30 giorni, la cassetta postale non è più recuperabile. Una cassetta postale recuperata contiene tutti i dati in essa archiviati nel momento in cui è stata eliminata. Gli amministratori possono ripristinare una cassetta postale eliminata entro il periodo di conservazione utilizzando l'interfaccia di amministrazione di Microsoft 365. Per ripristinare una cassetta postale eliminata, gli amministratori devono ripristinare l'account utente corrispondente o riassegnare una licenza di Exchange Online all'account utente. Per ulteriori informazioni, vedere la sezione sull' [eliminazione o il ripristino delle cassette postali degli utenti di Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Gli amministratori possono eliminare le cassette postali di Exchange Online utilizzando l'interfaccia di amministrazione di Microsoft 365 per eliminare l'account utente corrispondente o rimuovere la licenza di Exchange Online oppure utilizzando il cmdlet **Remove-Mailbox** in Windows PowerShell remoto. Quando una cassetta postale viene eliminata, Exchange Online conserva la cassetta postale e il contenuto per un periodo predefinito di 30 giorni. Dopo 30 giorni, la cassetta postale non è più recuperabile. Una cassetta postale recuperata contiene tutti i dati in essa archiviati nel momento in cui è stata eliminata. Gli amministratori possono ripristinare una cassetta postale eliminata entro il periodo di conservazione utilizzando l'Microsoft 365 di amministrazione. Per ripristinare una cassetta postale eliminata, gli amministratori devono ripristinare l'account utente corrispondente o riassegnare una licenza Exchange Online'account utente. Per ulteriori informazioni, vedere la sezione sull' [eliminazione o il ripristino delle cassette postali degli utenti di Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
   
 ## <a name="deleted-item-recovery"></a>Recupero di elementi eliminati
 
@@ -45,4 +45,4 @@ Per conservare i messaggi per più di 30 giorni nella cartella Elementi recupera
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online [descrizione del servizio.](exchange-online-service-description.md)

@@ -21,9 +21,9 @@ ms.locfileid: "51653348"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Criteri di messaggistica e conformità in Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) offre funzionalità di conformità e criteri di messaggistica che consentono di gestire i dati di posta elettronica.
+Microsoft Exchange Online Protection (EOP) fornisce criteri di messaggistica e funzionalità di conformità che consentono di gestire i dati di posta elettronica.
 
-Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione del servizio Exchange Online Protection.](exchange-online-protection-service-description.md)
+Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione Exchange Online Protection servizio.](exchange-online-protection-service-description.md)
 
 ## <a name="mail-flow-rules"></a>Regole del flusso di posta
 
@@ -51,18 +51,18 @@ Non disponibili per gli utenti EOP autonomi. Prevenzione della perdita di dati (
 
 - I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale dei documenti consente di creare facilmente tipi di informazioni riservate personalizzati basati su moduli basati su testo che è possibile utilizzare per definire le regole del flusso di posta e i criteri DLP.
 
-- Aggiungere suggerimenti sui criteri, che consentono di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2013, Outlook sul Web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi.
+- Aggiungi Suggerimenti criteri, che consente di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2013, Outlook sul Web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi.
 
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
 
 > [!NOTE]
 > I criteri DLP vengono applicati solo alla posta che attraversa l'organizzazione. Alla posta interna non vengono applicati criteri DLP a meno che Exchange Server 2013 non venga eseguito localmente con DLP. Questo vale anche per i suggerimenti sui criteri DLP che informano gli utenti di possibili violazioni dei criteri prima che i dati sensibili vengano inviati per errore a destinatari non autorizzati.
 
-Per ulteriori informazioni sulla prevenzione della perdita dei dati, vedere [Prevenzione della perdita dei dati in Exchange Online.](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)
+Per ulteriori informazioni sulla prevenzione della perdita dei dati, vedere Prevenzione della perdita dei [dati in Exchange Online](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 
-Crittografia messaggi di Office 365, parte di Azure Information Protection, è un servizio online che consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. I clienti locali possono accedere alla crittografia dei messaggi di Office 365 acquistando Azure Information Protection e usando Exchange Online Protection per configurare il flusso di posta tramite Exchange Online. Per ulteriori informazioni sulla crittografia dei messaggi di Office 365 in Exchange Online, vedere Crittografia messaggi di [Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) nella descrizione del servizio Exchange Online.
+Office 365 Message Encryption, parte di Azure Information Protection, è un servizio online che consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. I clienti locali possono accedere alle Office 365 Message Encryption acquistando Azure Information Protection e usando Exchange Online Protection per configurare il flusso di posta attraverso Exchange Online. Per ulteriori informazioni sulle Office 365 Message Encryption in Exchange Online, vedere [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) nella descrizione Exchange Online servizio.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Funzionalità di conformità e criteri di messaggistica tra opzioni EOP
 
@@ -74,7 +74,7 @@ Crittografia messaggi di Office 365, parte di Azure Information Protection, è u
 |Crittografia dei messaggi di Office 365|Sì<sup>4</sup>|Sì|Sì<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> Le condizioni, le eccezioni e le azioni delle regole del flusso di posta disponibili sono leggermente diverse tra EOP ed Exchange Online. Queste differenze vengono notate nelle condizioni e nelle eccezioni delle regole del flusso di posta [(predicati) in Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) e nelle azioni delle regole del flusso di posta [in Exchange Online.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) <br/>
-> <sup>2</sup> I report di controllo di EOP corrispondono a un sottoinsieme dei report di controllo di Exchange Online che non includono informazioni sulle cassette postali. <br/>
-> <sup>3</sup> I suggerimenti relativi ai criteri DLP non sono disponibili per i clienti che dispongono di Exchange Enterprise CAL with Services. <br/>
-> <sup>4</sup> Supportato per i clienti locali che acquistano il componente aggiuntivo Azure Information Protection e usano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre al componente aggiuntivo Azure Information Protection, è necessario acquistare Microsoft 365 Apps for enterprise. <br/>
+> <sup>1</sup> Le condizioni, le eccezioni e le azioni delle regole del flusso di posta disponibili sono leggermente diverse tra EOP e Exchange Online. Queste differenze vengono notate nelle condizioni e nelle eccezioni delle regole del flusso di posta [(predicati) in](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) Exchange Online e nelle azioni delle regole del flusso di posta [in Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
+> <sup>2</sup> I report di controllo di EOP corrispondono a un sottoinsieme dei report di controllo di Exchange Online che non includono informazioni sulle cassette postali.<br/>
+> <sup>3</sup> I suggerimenti relativi ai criteri DLP non sono disponibili per i clienti che dispongono di Exchange Enterprise CAL with Services.<br/>
+> <sup>4</sup> Supportato per i clienti locali che acquistano il componente aggiuntivo Azure Information Protection e usano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre al componente aggiuntivo Azure Information Protection, è Microsoft 365 Apps for enterprise necessario acquistare. <br/>

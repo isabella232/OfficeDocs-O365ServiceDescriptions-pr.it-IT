@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online funziona con le versioni desktop e per dispositivi mobili di Outlook e Outlook sul Web.
+description: Exchange Online funziona con le versioni desktop e mobili di Outlook, nonché con Outlook sul Web.
 ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -25,17 +25,17 @@ ms.locfileid: "51653118"
 
 Microsoft Outlook è un programma di posta elettronica che include il supporto per calendario, contatti, attività e le seguenti funzionalità chiave:
   
-- **MAPI su HTTP** - L'interfaccia MAPI (Messaging Application Program Interface) su HTTP consente agli utenti di Outlook di connettersi alle cassette postali di Exchange Online tramite Internet dall'esterno del firewall dell'organizzazione. MAPI su HTTP, la sostituzione a lungo termine di Outlook via Internet. Questo metodo di connettività offre resilienza della connessione migliorata, accesso più sicuro, estendibilità, nonché miglioramenti per l'IT e il supporto. Per ulteriori informazioni, vedere [RPC su HTTP raggiunge la fine del supporto in Office 365](/exchange/troubleshoot/administration/rpc-over-http-end-of-support) e [MAPI su HTTP.](/exchange/mapi-over-http-exchange-2013-help)
+- **MAPI su HTTP** - L'interfaccia MAPI (Messaging Application Program Interface) su HTTP consente agli utenti di Outlook di connettersi alle cassette postali di Exchange Online tramite Internet dall'esterno del firewall dell'organizzazione. MAPI su HTTP, la sostituzione a lungo termine per Outlook via Internet. Questo metodo di connettività offre resilienza della connessione migliorata, accesso più sicuro, estendibilità, nonché miglioramenti per l'IT e il supporto. Per ulteriori informazioni, vedere [RPC su HTTP raggiunge](/exchange/troubleshoot/administration/rpc-over-http-end-of-support) la fine del supporto in Office 365 [MAPI su HTTP](/exchange/mapi-over-http-exchange-2013-help).
 
 - **Individuazione** automatica: la funzionalità del servizio di individuazione automatica configura automaticamente Outlook per l'utilizzo con Exchange Online. Gli utenti di Outlook possono ricevere le impostazioni necessarie del proprio profilo direttamente da Exchange Online la prima volta che effettuano l'accesso con il proprio indirizzo di posta elettronica e la propria password. Queste impostazioni aggiornano automaticamente il client Outlook con le informazioni necessarie per creare e gestire il profilo dell'utente. Per utilizzare il servizio di individuazione automatica è necessario un certificato SSL. Tale certificato SSL è limitato a un singolo dominio primario di SSL. 
 
-- **Modalità cache** - La funzionalità modalità cache consente agli utenti di Outlook di accedere alle copie locali delle cassette postali di Exchange Online quando non sono connessi a Internet. La Modalità cache gestisce una copia lato client delle cassette postali di Exchange degli utenti in Outlook e sincronizza automaticamente tale copia con il server di posta elettronica. È consigliabile utilizzare Outlook in Modalità cache perché consente l'accesso offline e offre un'esperienza utente reattiva anche quando le condizioni della rete fra client e server non sono ottimali. 
+- **Cached Exchange Mode** - La funzionalità Cached Exchange Mode consente agli utenti di Outlook di accedere alle copie locali delle proprie cassette postali di Exchange Online quando non sono connessi a Internet. La Modalità cache gestisce una copia lato client delle cassette postali di Exchange degli utenti in Outlook e sincronizza automaticamente tale copia con il server di posta elettronica. È consigliabile utilizzare Outlook in Modalità cache perché consente l'accesso offline e offre un'esperienza utente reattiva anche quando le condizioni della rete fra client e server non sono ottimali. 
 
 L'accesso tramite Outlook è abilitato per tutti gli utenti per impostazione predefinita. Gli amministratori possono disabilitare l'accesso per utenti o gruppi specifici tramite Windows PowerShell. Per accedere d Exchange Online è consigliabile utilizzare la versione più recente di Outlook con l'ultimo Service Pack installato. 
   
-Per informazioni sui client Outlook supportati da Exchange 2016 ed Exchange Online, vedere [System Requirements for Office](https://products.office.com/office-system-requirements). 
+Per informazioni sui Outlook client supportati da Exchange 2016 e Exchange Online, vedere [System Requirements for Office](https://products.office.com/office-system-requirements). 
 
-Microsoft 365 è progettato per funzionare con i browser e le versioni più recenti di Office. Se si utilizzano browser e versioni precedenti di Office che non sono nel supporto mainstream:
+Microsoft 365 è progettato per funzionare con i browser e le versioni più recenti di Office. Se usi browser e versioni precedenti di Office che non sono nel supporto mainstream:
 
 - Microsoft non impedisce deliberatamente di connettersi al servizio, ma la qualità dell'esperienza potrebbe diminuire nel tempo.
 - Microsoft non fornirà aggiornamenti software per risolvere problemi non correlati alla sicurezza.
@@ -54,9 +54,9 @@ Outlook sul Web è una versione basata sul Web del programma di posta elettronic
   
 Outlook sul Web è disponibile in due versioni client, entrambe utilizzabili con Exchange Online:
   
-- **Outlook sul Web** - La versione standard di Outlook sul Web offre agli utenti di Exchange Online un'esperienza di messaggistica più simile a quella degli utenti di Outlook. Supporta la maggior parte dei Web browser più recenti ed è ottimizzata per l'uso con tablet e smartphone, oltre che in computer desktop e portatili. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
+- **Outlook sul Web** - La versione standard di Outlook sul Web offre agli utenti Exchange Online un'esperienza di messaggistica più simile a quella degli Outlook utenti. Supporta la maggior parte dei Web browser più recenti ed è ottimizzata per l'uso con tablet e smartphone, oltre che in computer desktop e portatili. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
 
-- **La versione light di Outlook sul Web** - La versione light di Outlook sul Web consente agli utenti di Exchange Online di accedere alla cassetta postale utilizzando quasi tutti i web browser. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, la versione light di OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
+- **La versione light di Outlook** sul Web - La versione light di Outlook sul Web consente agli Exchange Online di accedere alla cassetta postale utilizzando quasi tutti i Web browser. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, la versione light di OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
 
 Outlook sul Web è disponibile anche in versioni per dispositivi mobili. Per ulteriori informazioni, vedere [questa pagina](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
@@ -66,25 +66,25 @@ Exchange Online supporta Microsoft Outlook per Mac, che fornisce posta elettroni
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook per iOS, Android e Windows Phone
 
-Exchange Online funziona con le app di Outlook disponibili per iOS, Android e Windows Phone. In uno di questi dispositivi, usa l'app Store per trovare l'app Outlook. Ecco una suddivisione del sistema operativo per dispositivi mobili.<br><br>
+Exchange Online funziona con Outlook disponibili per iOS, Android e Windows Phone. In uno di questi dispositivi usa l'App Store per trovare l'app Outlook app. Ecco una suddivisione del sistema operativo per dispositivi mobili.<br><br>
   
 | Dispositivo | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
-|Disponibilità delle app per dispositivi mobili di Outlook  <br/> |Sì  <br/> [Ottenere Outlook per Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sì  <br/> [Ottenere Outlook per iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Built-in  <br/> |
-|App di posta elettronica integrate compatibili con Exchange Online  <br/> |App Gmail/App Di posta elettronica Samsung  <br/> |App Posta iOS  <br/> |Posta di Outlook, calendario, contatti  <br/> |
-|Altre informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Configurazione di iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configurazione di Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Outlook disponibilità dell'app per dispositivi mobili  <br/> |Sì  <br/> [Ottenere Outlook per Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sì  <br/> [Ottenere Outlook per iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Built-in  <br/> |
+|App di posta elettronica integrate compatibili con Exchange Online  <br/> |App Gmail/App Di posta elettronica Samsung  <br/> |App Posta iOS  <br/> |Outlook Posta, calendario, contatti  <br/> |
+|Ulteriori informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone o iPad installazione](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone configurazione](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
-Sono inoltre disponibili opzioni per l'utilizzo di Exchange Online con i dispositivi, tra cui Blackberry.
+Sono inoltre disponibili opzioni per l'Exchange Online con i dispositivi, tra cui Blackberry.
   
 ### <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Outlook offre agli utenti la posta elettronica e il calendario rapidi e intuitivi che si aspettano da un'app moderna per dispositivi mobili, pur essendo l'unica app a fornire supporto per le funzionalità migliori. È l'unica app di posta elettronica progettata appositamente per supportare l'esperienza Microsoft completa, offrendo agli utenti un'esperienza coerente dal desktop al dispositivo mobile. Outlook è integrato con Intune, dispositivi mobili e sicurezza aziendali e controlli di Exchange per mantenere al sicuro dati e utenti.
+Outlook agli utenti l'esperienza di posta elettronica e calendario veloce e intuitiva che si aspettano da un'app mobile moderna, pur essendo l'unica app a fornire supporto per le funzionalità migliori. È l'unica app di posta elettronica progettata appositamente per supportare l'esperienza Microsoft completa, offrendo agli utenti un'esperienza coerente dal desktop al dispositivo mobile. Outlook è integrato con Intune, dispositivi mobili e sicurezza aziendali e Exchange per mantenere al sicuro dati e utenti.
   
 Con Outlook, gli utenti possono:
   
 - Gestire l'intera giornata da un dispositivo mobile.
 
-- Connettersi alle app e ai servizi di cui hanno bisogno per essere produttivi, mantenendo le informazioni personali e di lavoro separate e sicure.
+- Connessione le app e i servizi di cui hanno bisogno per essere produttivi, mantenendo le informazioni personali e di lavoro separate e sicure.
 
 Con Outlook per iOS, Outlook per Android o Outlook per Windows Phone, gli utenti possono: 
   
@@ -100,7 +100,7 @@ Con Outlook per iOS, Outlook per Android o Outlook per Windows Phone, gli utenti
 
 - Usare un'esperienza di Outlook coerente e familiare in tutti i dispositivi
 
-- Avviare e partecipare facilmente alle riunioni Skype dal calendario
+- Avviare e partecipare facilmente Skype riunioni dal calendario
 
 - Leggere e rispondere ai messaggi di posta elettronica protetti e crittografati tramite IRM
 
@@ -118,7 +118,7 @@ Con Outlook per iOS, Outlook per Android o Outlook per Windows Phone, gli utenti
 
 - Condividere calendari direttamente dai telefoni
 
-- Avviare e partecipare alle riunioni Skype direttamente da un calendario
+- Avviare e partecipare Skype riunioni direttamente da un calendario
 
 - Accedere ai calendari personali e lavorativi in un'unica posizione, senza cambiare app
     
@@ -128,7 +128,7 @@ Exchange Online supporta il protocollo Microsoft Exchange ActiveSync, che sincro
   
 Sul mercato è disponibile un'ampia gamma di dispositivi mobili che supportano Exchange ActiveSync, inclusi i dispositivi Microsoft Windows Phone, i dispositivi Apple iPhone e iPad, nonché i telefoni e i tablet Android. Oltre ai telefoni cellulari e ai dispositivi mobili, l'applicazione Mail in Windows Phone utilizza Exchange ActiveSync per connettersi a Exchange Online. Nel sito dedicato alle licenze di Exchange ActiveSync è disponibile un elenco completo dei licenziatari correnti di Exchange ActiveSync.
   
-Per ulteriori informazioni sulle Exchange ActiveSync, vedere [Exchange ActiveSync](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online).
+Per ulteriori informazioni sulle Exchange ActiveSync, [vedere Exchange ActiveSync](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online).
   
 > [!IMPORTANT]
 > Il numero massimo di dispositivi Exchange ActiveSync per cassetta postale è 100. 
@@ -171,4 +171,4 @@ Per ulteriori informazioni, vedi [BlackBerry](../office-365-platform-service-des
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online [descrizione del servizio.](exchange-online-service-description.md)

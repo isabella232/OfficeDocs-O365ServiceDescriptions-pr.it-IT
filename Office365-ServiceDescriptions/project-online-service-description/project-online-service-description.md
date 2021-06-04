@@ -27,13 +27,13 @@ ms.locfileid: "52545923"
 
 Microsoft Project offre le applicazioni seguenti per soddisfare le esigenze dell'organizzazione per la gestione di progetti e lavoro:
 
-- Project per il Web
+- Project per il web
 - Project Online 
 - Project Online client desktop
 
 Questo articolo consente di comprendere quali applicazioni vengono fornite in ogni sottoscrizione Project e quali funzionalità offre ogni applicazione.
 
-### <a name="project-for-the-web"></a>Project per il Web
+### <a name="project-for-the-web"></a>Project per il web
 
 Project per il Web è l'offerta più recente di Microsoft per la gestione del lavoro e dei progetti basata sul cloud. Project per il Web offre funzionalità di gestione del lavoro semplici e potenti per soddisfare la maggior parte delle esigenze e dei ruoli. Project manager e membri del team possono usare Project per il Web per pianificare e gestire il lavoro di qualsiasi dimensione.
 
@@ -80,7 +80,7 @@ Microsoft Project è disponibile tramite tre diverse sottoscrizioni per soddisfa
 
 |Prodotto | Piano 1 | Piano 3 | Piano 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project per il Web |**x**  | **x x x** | **x x x** |
+|Project per il web |**x**  | **x x x** | **x x x** |
 |Project Online |**x** |**x x x**| **x x x x** |
 |Project Online client desktop | |**x**|**x**|
 

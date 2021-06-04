@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-description: Leggere questo articolo per informazioni sulle funzionalità di conformità disponibili in Microsoft Exchange Online archiviazione.
+description: Leggere questo articolo per informazioni sulle funzionalità di conformità disponibili in Microsoft Exchange Online Archiviazione.
 ms.openlocfilehash: 0d424823116dd670c81628eaf85d1d553fdb5b8e
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -27,11 +27,11 @@ In questo articolo vengono descritte le funzionalità di conformità Microsoft E
   
 ### <a name="retention-policies"></a>Criteri di conservazione
 
-Archiviazione Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratori possono inoltre fornire agli utenti un menu di criteri di conservazione e consentire loro di applicare i criteri a elementi, conversazioni o cartelle specifici utilizzando Outlook 2010 o versione successiva o Outlook sul Web. In Archiviazione Exchange Online gli amministratori gestiscono i criteri di conservazione dall'infrastruttura locale.
+Archiviazione Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratori possono inoltre fornire agli utenti un menu di criteri di conservazione e consentire loro di applicare i criteri a elementi, conversazioni o cartelle specifici utilizzando Outlook 2010 o versioni successive o Outlook sul Web. In Archiviazione Exchange Online gli amministratori gestiscono i criteri di conservazione dall'infrastruttura locale.
   
 Archiviazione Exchange Online offre due tipi di criteri: archiviazione ed eliminazione. Entrambi i tipi possono essere applicati allo stesso elemento o alla stessa cartella. Un utente, ad esempio, può contrassegnare un messaggio di posta elettronica per impostarne lo spostamento automatico nell'archivio personale entro un numero di giorni specificato e l'eliminazione automatica dopo un altro intervallo di giorni.
   
-Con Outlook 2010 e versioni successive e Outlook sul Web, gli utenti possono applicare criteri di conservazione a cartelle, conversazioni o singoli messaggi e possono inoltre visualizzare i criteri di conservazione applicati e le date di eliminazione previste nei messaggi. Anche gli utenti di altri client di posta elettronica possono utilizzare le funzionalità di eliminazione o archiviazione dei messaggi in base ai criteri di conservazione sul lato server configurati dall'amministratore, ma non possono usufruire dello stesso livello di visibilità e controllo.
+Con Outlook 2010 e versioni successive e Outlook sul Web, gli utenti possono applicare criteri di conservazione a cartelle, conversazioni o singoli messaggi e possono anche visualizzare i criteri di conservazione applicati e le date di eliminazione previste nei messaggi. Anche gli utenti di altri client di posta elettronica possono utilizzare le funzionalità di eliminazione o archiviazione dei messaggi in base ai criteri di conservazione sul lato server configurati dall'amministratore, ma non possono usufruire dello stesso livello di visibilità e controllo.
   
 I criteri di conservazione disponibili in Archiviazione Exchange Online sono identici a quelli di Exchange Server 2010 Service Pack 2 (SP2) e versioni successive. Gli amministratori possono gestire i criteri di conservazione da ambienti locali Exchange Server 2010 e versioni successive. Le cartelle gestite, ossia il precedente approccio alla gestione dei record di messaggistica introdotto in Exchange 2007, non sono disponibili né compatibili con Archiviazione Exchange Online. Per ulteriori informazioni, vedere [Tag di conservazione e criteri di conservazione](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
   
@@ -89,13 +89,13 @@ Nelle sezioni seguenti vengono descritte le funzionalità di sicurezza di Micros
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Crittografia tra server locali e Archiviazione Exchange Online
 
-Per crittografare la connessione tra server di posta elettronica, in modo da evitare lo spoofing e offrire la necessaria riservatezza per i messaggi in transito, viene utilizzato TLS (Transport Layer Security). TLS viene utilizzato anche per proteggere il traffico del server di posta locale verso i data center Microsoft per Archiviazione Exchange Online.
+Per crittografare la connessione tra server di posta elettronica, in modo da evitare lo spoofing e offrire la necessaria riservatezza per i messaggi in transito, viene utilizzato TLS (Transport Layer Security). TLS viene usato anche per proteggere il traffico del server di posta locale verso i datacenter Microsoft per Archiviazione Exchange Online.
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Crittografia tra client e Archiviazione Exchange Online
 
 Per una maggiore sicurezza, le connessioni tra client e Archiviazione Exchange Online utilizzano i seguenti metodi di crittografia:
   
-- SSL viene utilizzato per proteggere il traffico di Outlook, Outlook sul Web ed Exchange Web Services, utilizzando la porta TCP 443.
+- SSL viene utilizzato per proteggere Outlook, Outlook sul Web e per Exchange traffico dei servizi Web, utilizzando la porta TCP 443.
     
 - Le connessioni client ai server locali rimangono invariate con l'introduzione di Archiviazione Exchange Online.
     
@@ -111,7 +111,7 @@ Archiviazione Exchange Online non offre servizi IRM (Information Rights Manageme
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>Supporto per IRM in Outlook sul Web
 
-Gli utenti possono leggere e creare messaggi protetti tramite IRM in modo nativo in Outlook sul Web, proprio come in Outlook. È possibile accedere ai messaggi protetti tramite IRM in Outlook sul Web tramite Internet Explorer, Firefox, Safari e Chrome (senza alcun plug-in necessario). Per i messaggi sono disponibili la ricerca di testo, la visualizzazione delle conversazioni e il riquadro di anteprima. Per abilitare questa funzionalità è necessario che sia configurata l'interoperabilità tra il server AD RMS e l'ambiente locale di Exchange.
+Gli utenti possono leggere e creare messaggi protetti tramite IRM in modo nativo in Outlook sul Web, proprio come in Outlook. I messaggi protetti tramite IRM Outlook sul Web sono accessibili tramite Internet Explorer, Firefox, Safari e Chrome (senza alcun plug-in necessario). Per i messaggi sono disponibili la ricerca di testo, la visualizzazione delle conversazioni e il riquadro di anteprima. Per abilitare questa funzionalità è necessario che sia configurata l'interoperabilità tra il server AD RMS e l'ambiente locale di Exchange.
   
 #### <a name="irm-search"></a>Ricerca IRM
 
@@ -121,7 +121,7 @@ I messaggi protetti tramite IRM sono indicizzati e supportano l'esecuzione di ri
 
 Archiviazione Exchange Online include due tipi di funzionalità di controllo predefinite:
   
-- **Registrazione di controllo dell'amministratore** : la registrazione di controllo dell'amministratore consente ai clienti di tenere traccia delle modifiche apportate dagli amministratori nell'ambiente Archiviazione Exchange Online, incluse le modifiche ai ruoli RBAC o ai criteri e alle impostazioni di Exchange. 
+- **Registrazione di controllo dell'amministratore** - La registrazione di controllo dell'amministratore consente ai clienti di tenere traccia delle modifiche apportate dagli amministratori nell'ambiente Archiviazione Exchange Online, incluse le modifiche ai ruoli RBAC o ai criteri e alle impostazioni Exchange controllo. 
     
 - **Registrazione di controllo delle cassette** postali - La registrazione di controllo delle cassette postali consente ai clienti di tenere traccia dell'accesso alle cassette postali da parte di utenti diversi dal proprietario della cassetta postale. 
     

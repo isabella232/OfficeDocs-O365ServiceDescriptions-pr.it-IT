@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: In Project Online sono disponibili le seguenti funzionalità di gestione dei progetti.
+description: Le seguenti funzionalità di gestione dei progetti sono disponibili in Project Online.
 ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652270"
 ---
 # <a name="project-management"></a>Gestione dei progetti
 
-In Project Online sono disponibili le seguenti funzionalità di gestione dei progetti.
+Le seguenti funzionalità di gestione dei progetti sono disponibili in Project Online.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
+Per informazioni su tutte le Project Online? Vedere la [descrizione Project Online servizio.](project-online-service-description.md)
   
 ## <a name="issues-and-risk-management"></a>Gestione dei problemi e dei rischi
 
@@ -45,4 +45,4 @@ La pianificazione rappresenta l'insieme delle attività da svolgere e dei risult
 
 ## <a name="project-home"></a>Project Home
 
-La home page di Project è il punto di partenza che consente di accedere rapidamente e facilmente ai progetti utilizzati di recente e ai progetti importanti e principali. È possibile contrassegnare questi progetti come preferiti con controlli di facile utilizzo in modo che siano visualizzati in modo evidente nella home page di Project. Per ulteriori informazioni, vedere [Introduzione a Project Home.](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)
+Project Home è il punto di partenza che consente di accedere in modo rapido e semplice a progetti recentemente lavorati e importanti e importanti. Puoi contrassegnare questi progetti come preferiti con controlli facili da usare in modo che siano visibili in Project Home. Per ulteriori informazioni, vedere [Introduzione a Project Home](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).

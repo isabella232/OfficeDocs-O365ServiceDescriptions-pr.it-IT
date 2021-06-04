@@ -55,7 +55,7 @@ Microsoft 365 Business Voice è disponibile con le sottoscrizioni seguenti con u
 | Chiamate di emergenza con posizione dinamica | Sì | Sì<sup>*</sup> |
 | Casella vocale | Sì | Sì<sup>*</sup> |
 | Parcheggio di chiamata | Sì | Sì<sup>*</sup> |
-| Inoltri di chiamata | Sì | Sì<sup>*</sup> |
+| Inoltro di chiamata | Sì | Sì<sup>*</sup> |
 | Delega delle chiamate (condividere una linea telefonica con un delegato) | Sì | Sì<sup>*</sup> |
 | Musica blocco | Sì | Sì<sup>*</sup> |
 | Blocco chiamate | Sì | Sì<sup>*</sup> |

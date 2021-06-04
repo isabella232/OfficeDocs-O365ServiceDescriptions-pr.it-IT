@@ -29,13 +29,13 @@ Per le organizzazioni, è preferibile scegliere le opzioni di migrazione basate 
 
 - **Distribuzione solo cloud:** l'organizzazione dispone di tutte le cassette postali utente ospitate in Exchange Online. 
     
-- **Distribuzione ibrida di Exchange** - L'organizzazione dispone di alcune cassette postali utente ospitate in un'organizzazione exchange locale e alcune cassette postali utente ospitate in Exchange Online. 
+- **Exchange distribuzione** ibrida : nell'organizzazione sono ospitate alcune cassette postali utente in un'organizzazione Exchange locale e alcune cassette postali utente ospitate in Exchange Online. 
     
 ### <a name="cloud-only"></a>Solo cloud
 
 Per distribuzione "solo cloud" si intende una soluzione in cui nel servizio Exchange Online l'organizzazione non è connessa all'organizzazione Exchange locale. Tutti gli utenti e le cassette postali sono ospitate e gestite in Exchange Online e Office 365.
   
-### <a name="hybrid"></a>Ibrido
+### <a name="hybrid"></a>Configurazione ibrida
 
 Disponibile per le organizzazioni Microsoft Exchange 2003, Exchange 2007, Exchange 2010 ed Exchange 2013 locali, la distribuzione ibrida offre una configurazione di coesistenza a lungo termine con alcune cassette postali ospitate in Exchange Online o un percorso di migrazione verso l'hosting di tutte le cassette postali utente in Exchange Online. La distribuzione ibrida offre alle organizzazioni la possibilità di estendere al cloud le numerose funzionalità e il controllo amministrativo che hanno nell'organizzazione Microsoft Exchange locale. Le funzionalità di configurazione ibrida includono trasporto della posta sicuro, informazioni sulla disponibilità del calendario condiviso e verifica dei messaggi tra le organizzazioni locali ed Exchange Online.
   
@@ -48,13 +48,13 @@ Per ulteriori informazioni sulle distribuzioni ibride, vedere l'articolo relativ
 
 Per le organizzazioni, è preferibile scegliere le opzioni di migrazione basate sui sistemi di posta elettronica di origine, lo stato finale desiderato (completamente o parzialmente ospitato), il numero di utenti di cui eseguire la migrazione e i tempi in cui raggiungere lo stato finale. Di seguito vengono riportate le opzioni di migrazione possibili:
   
-- **Migrazione IMAP:** eseguire la migrazione dei dati delle cassette postali dai sistemi di posta elettronica basati su IMAP a Exchange Online. 
+- **Migrazione IMAP:** eseguire la migrazione dei dati delle cassette postali da sistemi di posta elettronica basati su IMAP a Exchange Online. 
     
-- Migrazione completa di **Exchange** - Eseguire la migrazione delle cassette postali da Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 e Sistemi Exchange ospitati a Exchange Online in una singola migrazione completa. 
+- **Migrazione** completa Exchange - Eseguire la migrazione delle cassette postali dai sistemi Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 e Hosted Exchange a Exchange Online in una singola migrazione completa. 
     
-- **Migrazione** a fasi di Exchange - Eseguire una migrazione a fasi per eseguire la migrazione delle cassette postali da Exchange Server 2003 o Exchange Server 2007 con strumenti di migrazione basati sul Web e modifiche minime all'infrastruttura locale. 
+- **Migrazione Exchange** a fasi: eseguire una migrazione a fasi per eseguire la migrazione delle cassette postali da Exchange Server 2003 o Exchange Server 2007 con strumenti di migrazione basati sul Web e modifiche minime all'infrastruttura locale. 
     
-- **Migrazione di spostamento remoto** - Eseguire la migrazione delle cassette postali di Exchange locali a Exchange Online in una distribuzione ibrida di Exchange. Per utilizzare la migrazione di spostamento remoto è necessario disporre di una distribuzione ibrida di Exchange. 
+- **Migrazione di spostamento remoto:** eseguire la migrazione delle cassette postali locali Exchange a Exchange Online in una distribuzione ibrida Exchange locale. Per utilizzare la migrazione di spostamento remoto è necessario disporre di una distribuzione ibrida di Exchange. 
     
 Per ulteriori informazioni sulla migrazione della posta elettronica e delle cassette postali a Exchange Online, vedere [Eseguire la migrazione della posta elettronica a Office 365 - Guida dell'amministratore](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
   
@@ -109,7 +109,7 @@ Per ulteriori informazioni sulle migrazioni di Exchange a fasi, vedere [Informaz
 
 Microsoft offre una varietà di strumenti per consentire la migrazione di un ambiente di posta elettronica esistente in Exchange Online. La scelta degli strumenti più appropriati dipende dall'ambiente corrente dell'organizzazione e dalle finalità della distribuzione:
   
-- **Dashboard di migrazione** : gli amministratori possono utilizzare il dashboard di migrazione nell'interfaccia di amministrazione di Exchange per gestire la migrazione delle cassette postali a Exchange Online in una migrazione completa o a fasi di Exchange. Possono anche utilizzare il dashboard per la migrazione del contenuto delle cassette postali degli utenti da un server IMAP locale alle cassette postali di Exchange Online esistenti. Il dashboard offre agli amministratori le seguenti funzionalità: 
+- **Dashboard di** migrazione: gli amministratori possono utilizzare il dashboard di migrazione nell'interfaccia di amministrazione di Exchange per gestire la migrazione delle cassette postali a Exchange Online in una migrazione completa o Exchange a fasi. Possono anche utilizzare il dashboard per la migrazione del contenuto delle cassette postali degli utenti da un server IMAP locale alle cassette postali di Exchange Online esistenti. Il dashboard offre agli amministratori le seguenti funzionalità: 
     
   - **Creare e avviare più batch di migrazione:** gli amministratori possono creare e accodare fino a 100 batch di migrazione. Viene eseguito un solo batch di migrazione alla volta, tuttavia gli amministratori possono mettere in coda più batch e, quando un batch di migrazione è terminato, viene elaborato il batch successivo in coda. 
     
@@ -119,13 +119,13 @@ Microsoft offre una varietà di strumenti per consentire la migrazione di un amb
     
   - **Aprire i report di migrazione:** gli amministratori possono aprire le statistiche di migrazione o il report degli errori di migrazione per un batch di migrazione direttamente dal dashboard. 
     
-  - **Modificare un batch di** migrazione: se un batch di migrazione per una migrazione a fasi di Exchange o una migrazione IMAP si trova nella coda di migrazione ma non è attualmente in esecuzione, gli amministratori possono modificare il batch di migrazione. 
+  - **Modificare un batch** di migrazione: se un batch di migrazione per una migrazione Exchange a fasi o imap è nella coda di migrazione ma non è attualmente in esecuzione, gli amministratori possono modificare il batch di migrazione. 
     
-- **Strumento di sincronizzazione** di Azure Active Directory - Lo strumento di sincronizzazione di Azure Active Directory svolge un ruolo importante nella migrazione a scenari di posta elettronica ibridi che utilizzano Sia Exchange Online che un Exchange Server locale. Lo strumento esegue una sincronizzazione unidirezionale da Active Directory locale a Exchange Online. Dopo aver completato la migrazione, gli amministratori non rimane che utilizzare Exchange Online per gestire gli utenti e i gruppi di Active Directory. Inoltre, lo strumento offre agli utenti un Elenco indirizzi globale unificato in cui l'ambiente online viene costantemente sincronizzato con l'ambiente locale. 
+- **Azure Active Directory strumento di sincronizzazione** - Lo strumento di sincronizzazione di Azure Active Directory svolge un ruolo importante nella migrazione a scenari di posta elettronica ibridi che utilizzano sia Exchange Online che un Exchange Server locale. Lo strumento esegue una sincronizzazione unidirezionale da Active Directory locale a Exchange Online. Dopo aver completato la migrazione, gli amministratori non rimane che utilizzare Exchange Online per gestire gli utenti e i gruppi di Active Directory. Inoltre, lo strumento offre agli utenti un Elenco indirizzi globale unificato in cui l'ambiente online viene costantemente sincronizzato con l'ambiente locale. 
     
     Per ulteriori informazioni su strumento di sincronizzazione di Azure Active Directory, vedere [Sincronizzazione della directory: roadmap](/azure/active-directory/hybrid/whatis-hybrid-identity).
     
-- **Procedura guidata di** configurazione ibrida : la procedura guidata di configurazione ibrida semplifica il processo di distribuzione ibrida semplificando la configurazione locale ed Exchange Online di funzionalità e servizi. Presentata come parte integrante di Exchange Server 2010 Service Pack 2, la procedura guidata di configurazione viene eseguita solo in organizzazioni locali e dispone dei seguenti componenti: 
+- **Procedura guidata di** configurazione ibrida: la procedura guidata di configurazione ibrida semplifica il processo di distribuzione ibrida semplificando la configurazione locale e Exchange Online di funzionalità e servizi. Presentata come parte integrante di Exchange Server 2010 Service Pack 2, la procedura guidata di configurazione viene eseguita solo in organizzazioni locali e dispone dei seguenti componenti: 
     
   - Procedura guidata nell'interfaccia di amministrazione di Exchange che assiste gli amministratori nel processo end-to-end per la configurazione di una distribuzione ibrida.
     
@@ -133,8 +133,8 @@ Microsoft offre una varietà di strumenti per consentire la migrazione di un amb
     
     Per ulteriori informazioni sulla procedura guidata di configurazione ibrida, vedere l'articolo relativo alla [procedura guidata di configurazione ibrida](/exchange/hybrid-configuration-wizard).
     
-- **Remote Windows PowerShell** - Nell'ambito dell'aggiornamento del servizio Exchange Online di dicembre 2011, è possibile Windows PowerShell per risolvere gli errori di migrazione. Ad esempio, gli amministratori possono visualizzare informazioni diagnostiche per i batch di migrazione, oltre a statistiche sulla migrazione e informazioni diagnostiche per gli utenti in base agli indirizzi SMTP primari. 
+- **Remote Windows PowerShell** - Come parte dell'aggiornamento del servizio di Exchange Online dicembre 2011, è possibile Windows PowerShell per risolvere gli errori di migrazione. Ad esempio, gli amministratori possono visualizzare informazioni diagnostiche per i batch di migrazione, oltre a statistiche sulla migrazione e informazioni diagnostiche per gli utenti in base agli indirizzi SMTP primari. 
     
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, [Exchange Online descrizione del servizio.](exchange-online-service-description.md)

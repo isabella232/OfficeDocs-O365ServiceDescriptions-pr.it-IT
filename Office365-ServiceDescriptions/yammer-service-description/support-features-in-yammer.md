@@ -24,7 +24,7 @@ ms.locfileid: "51653518"
 In Yammer sono disponibili le seguenti funzionalità di supporto.
   
 > [!IMPORTANT]
-> Yammer non supporta il ripristino del contenuto eliminato, ad esempio reti esterne, utenti, messaggi, gruppi e file, inclusi i contenuti &mdash; &mdash; eliminati accidentalmente dagli amministratori di rete.
+> Yammer non supporta il ripristino del contenuto eliminato, ad esempio reti esterne, utenti, messaggi, gruppi e file, inclusi quelli eliminati accidentalmente dagli amministratori &mdash; &mdash; di rete.
 >
 > Microsoft non fornisce report personalizzati oppure ad hoc non compresi nelle funzionalità analitiche di Yammer. Occasionalmente Microsoft può fornire un report personalizzato nel corso di una richiesta di supporto, ma per la maggior parte non è in grado di soddisfare richieste dirette per i dati.
 
@@ -34,11 +34,11 @@ Gli amministratori di Yammer Enterprise sono responsabili della gestione degli a
 
 ## <a name="customer-support"></a>Assistenza clienti
 
-Il supporto tecnico è disponibile per rispondere alle domande dei clienti e risolvere rapidamente i problemi. I clienti di Yammer possono ricevere supporto pubblicando il forum di supporto pubblico, monitorato 24 ore al giorno, sette giorni alla settimana dagli agenti di supporto. If you're a Yammer customer searching for support, see [Yammer Public Support](https://go.microsoft.com/fwlink/p/?LinkId=330921).
+Il supporto tecnico è disponibile per rispondere alle domande dei clienti e risolvere rapidamente i problemi. Yammer i clienti possono ricevere supporto pubblicando il forum di supporto pubblico, monitorato 24 ore al giorno, sette giorni alla settimana dagli agenti di supporto. Se sei un cliente Yammer per il supporto, vedi Yammer [Supporto pubblico](https://go.microsoft.com/fwlink/p/?LinkId=330921).
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-Il servizio Microsoft FastTrack può aiutare l'organizzazione a passare a Microsoft Cloud fornendo assistenza in ogni passaggio. FastTrack consente di pianificare strategicamente le implementazioni, di implementare rapidamente nuovi servizi e di eseguire l'onboarding di nuovi utenti. Per informazioni dettagliate, visitare [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Per informazioni sulla creazione della rete Yammer, inclusi documenti e attività di pre-avvio, avvio e supporto, passare alla pagina [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e quindi selezionare **Bring your organization together.**
+Il servizio Microsoft FastTrack può aiutare l'organizzazione a passare a Microsoft Cloud fornendo assistenza in ogni passaggio. FastTrack consente di pianificare strategicamente le implementazioni, di implementare rapidamente nuovi servizi e di eseguire l'onboarding di nuovi utenti. Per informazioni dettagliate, visitare [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Per informazioni sulla creazione della rete Yammer, inclusi documenti e attività di pre-avvio, avvio e supporto, passare alla pagina [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e quindi selezionare **Bring your organization together**.
 
 ## <a name="support-features-across-yammer-plans"></a>Funzionalità del supporto tra piani Yammer
 
@@ -56,7 +56,7 @@ Esempi
   
 |**Livello di gravità**|**Descrizione**|**Esempi**|
 |:-----|:-----|:-----|
-|Gravità A (critico)  <br/> |Il servizio è inutilizzabile per la maggior parte degli utenti finali.  <br/> |La piattaforma Yammer non è disponibile.  <br/> |
+|Gravità A (critico)  <br/> |Il servizio è inutilizzabile per la maggior parte degli utenti finali.  <br/> |La Yammer non è disponibile.  <br/> |
 |Gravità B (alto)  <br/> |È possibile utilizzare il servizio, anche se danneggiato.  <br/> |La pubblicazione nei feed non viene eseguita come previsto.  <br/> |
 |Gravità C (medio)  <br/> |Il servizio non funziona come previsto, ma è disponibile una soluzione.  <br/> |Le anteprime dei file non vengono visualizzate come previsto.  <br/> |
 

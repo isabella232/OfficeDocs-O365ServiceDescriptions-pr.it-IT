@@ -33,6 +33,6 @@ Cerca nell'intera posta in arrivo per trovare rapidamente conversazioni, messagg
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Yammer [descrizione del servizio.](yammer-service-description.md)
   
 

@@ -23,7 +23,7 @@ ms.locfileid: "51653138"
 
 Per la maggior parte delle organizzazioni che utilizzano Microsoft, microsoft ospita le cassette postali e si occupa del flusso di posta. Si tratta della configurazione più semplice e significa che Microsoft gestisce tutte le cassette postali e il filtro. Tuttavia, alcune organizzazioni hanno la necessità di tenere in locale tutte le cassette postali. Exchange Online Protection (EOP) consente di eseguire questa operazione e fornisce l'elaborazione della posta indesiderata e antivirus nel cloud. Per ulteriori informazioni e per acquistare EOP, visitare [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-Sono necessarie informazioni sulla gestione dei domini o su Directory Based Edge Blocking (DBEB)? Vedere [Gestione di destinatari, domini e società.](recipient-domain-and-company-management.md) Per ulteriori informazioni su tutte le funzionalità di EOP, vedere la descrizione del [servizio Exchange Online Protection.](exchange-online-protection-service-description.md)
+Sono necessarie informazioni sulla gestione dei domini o su Directory Based Edge Blocking (DBEB)? Vedere [Gestione di destinatari, domini e società.](recipient-domain-and-company-management.md) Per ulteriori informazioni su tutte le funzionalità di EOP, vedere la [descrizione Exchange Online Protection servizio.](exchange-online-protection-service-description.md)
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Routing della posta elettronica tra Microsoft e i propri server di posta elettronica
 
@@ -53,4 +53,4 @@ Informazioni dettagliate sul provisioning della distribuzione ibrida e sul trasp
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online Protection.](exchange-online-protection-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online Protection [descrizione del servizio.](exchange-online-protection-service-description.md)

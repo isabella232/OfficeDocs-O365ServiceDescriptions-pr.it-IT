@@ -25,7 +25,7 @@ Microsoft supporta le seguenti funzionalità di rete.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Porte, protocolli e indirizzi IP
 
-Microsoft utilizza gli indirizzi IPv4 e IPv6. L'utilizzo degli indirizzi IPv6 è facoltativo e non richiesto per la connettività con Office 365. Non tutte le funzionalità di Microsoft 365 sono completamente abilitate tramite IPv6. Per ulteriori informazioni sul supporto Ipv6, vedere [Supporto IPv6 nei servizi Microsoft.](/office365/enterprise/ipv6-support)
+Microsoft utilizza gli indirizzi IPv4 e IPv6. L'utilizzo degli indirizzi IPv6 è facoltativo e non richiesto per la connettività con Office 365. Non tutte Microsoft 365 funzionalità sono completamente abilitate tramite IPv6. Per ulteriori informazioni sul supporto Ipv6, vedere [Supporto IPv6 in servizi Microsoft](/office365/enterprise/ipv6-support).
   
 Microsoft gestisce un elenco di indirizzi IP consentiti nella Guida di Microsoft. Per ulteriori informazioni, vedere [URL e intervalli di indirizzi IP.](/office365/enterprise/urls-and-ip-address-ranges) Per Office 365 gestito da 21Vianet, vedere [URL e indirizzi IP per Office 365 gestito da 21Vianet](/office365/enterprise/managing-office-365-endpoints). Per Office 365 Germany, vedere [Endpoint di Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
@@ -64,4 +64,4 @@ Per ulteriori informazioni, visitare il [Centro protezione di Office 365](https:
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 del servizio della piattaforma.](office-365-platform-service-description.md)

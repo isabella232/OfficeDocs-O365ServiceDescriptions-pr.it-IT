@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: In Project Online sono disponibili le funzionalità di base seguenti.
+description: Le funzionalità di base dei servizi seguenti sono disponibili in Project Online.
 ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652290"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 
-In Project Online sono disponibili le funzionalità di base seguenti.
+Le funzionalità di base dei servizi seguenti sono disponibili in Project Online.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
+Per informazioni su tutte le Project Online? Vedere la [descrizione Project Online servizio.](project-online-service-description.md)
   
 ## <a name="active-directory-integration"></a>Integrazione con Active Directory
 
@@ -41,7 +41,7 @@ Project Online e Project Server 2013 include funzionalità per prevenire, identi
   
 ## <a name="office-365-trust-center"></a>Centro protezione di Office 365
 
-I dati sono tuoi. Microsoft la protegge e protegge la privacy dell'utente. Vedere [Centro protezione di Office 365](https://go.microsoft.com/fwlink/?LinkId=402637).
+I dati dei clienti sono fondamentali e pertanto Microsoft è costantemente impegnata nella protezione di questi dati e della privacy dei clienti. Vedere [Centro protezione di Office 365](https://go.microsoft.com/fwlink/?LinkId=402637).
   
 ## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 
@@ -53,11 +53,11 @@ La nostra promessa di tempi di attività del 99,9% è garantita da una garanzia 
   
 ## <a name="service-updates"></a>Aggiornamenti dei servizi
 
-Microsoft aggiorna regolarmente i servizi Microsoft con nuove funzionalità e funzionalità. Vedere [Service updates](../office-365-platform-service-description/service-updates.md).
+Aggiorremo regolarmente servizi Microsoft nuove funzionalità e funzionalità. Vedere [Service updates](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Collaborazione tra membri del team
 
-La collaborazione di team supporta e guida la riuscita generale del progetto e la sua efficacia. Per informazioni su come Project Server 2013 consente alle organizzazioni di collaborare ai progetti, vedere [Video: Collaborare con il team.](https://go.microsoft.com/fwlink/?LinkId=402628)
+La collaborazione di team supporta e guida la riuscita generale del progetto e la sua efficacia. Per sapere come Project Server 2013 consente alle organizzazioni di collaborare ai progetti, vedere [Video: Collaborare con il team.](https://go.microsoft.com/fwlink/?LinkId=402628)
   
 ## <a name="time-and-task-management-for-team-members"></a>Gestione delle tempistiche e delle attività (per i membri dei team)
 

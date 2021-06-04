@@ -29,7 +29,7 @@ Integrare le applicazioni aziendali esistenti aggiungendo dati al grafico social
   
 ## <a name="browser-extension"></a>Estensione browser
 
-Aggiunge una scheda Yammer al menu del browser e consente di condividere rapidamente qualsiasi pagina Web visualizzata selezionando l'icona di Yammer, scegliendo il gruppo in cui si desidera pubblicare il messaggio e condividendo i propri commenti con un collegamento alla pagina. L'estensione notifica anche se è presente una conversazione yammer esistente sulla pagina. 
+Aggiunge una scheda Yammer al menu del browser e consente di condividere rapidamente qualsiasi pagina Web visualizzata selezionando l'icona Yammer, scegliendo il gruppo in cui si desidera pubblicare il messaggio e condividendo i propri commenti con un collegamento alla pagina. L'estensione notifica anche se esiste una conversazione Yammer sulla pagina. 
 
 ## <a name="embeddable-feeds"></a>Feed incorporabili
 
@@ -39,12 +39,12 @@ Un semplice frammento di codice consente di incorporare facilmente qualunque fee
 
 Aggiungere i pulsanti Mi piace e Segui alle applicazioni aziendali in modo che i dipendenti possano utilizzare oggetti al di fuori di Yammer.
   
-## <a name="yammer-connect-login"></a>Accesso a Yammer connect
+## <a name="yammer-connect-login"></a>Yammer connettersi all'account di accesso
 
-Aggiungi il pulsante Accedi alle applicazioni aziendali in modo che gli utenti possano facilmente registrarsi e accedere con i loro account Yammer.
+Aggiungi il pulsante Accedi alle tue applicazioni aziendali in modo che gli utenti possano facilmente registrarsi e accedere con i Yammer account.
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Yammer [descrizione del servizio.](yammer-service-description.md)
   
 

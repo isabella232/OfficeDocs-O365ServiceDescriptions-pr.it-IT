@@ -35,7 +35,7 @@ Se si ha bisogno di assistenza per capire quale piano Yammer meglio si adatta al
 
 ## <a name="files"></a>File
 
-Condividi Microsoft Office documenti, PDF, immagini e video tra team e ottieni subito feedback. Caricare nuove versioni per assicurare che tutti possano sempre vedere l'ultima bozza e accedere alle versioni precedenti.
+Condividere Microsoft Office documenti, PDF, immagini e video tra i team e ottenere subito feedback. Caricare nuove versioni per assicurare che tutti possano sempre vedere l'ultima bozza e accedere alle versioni precedenti.
   
 ## <a name="official-content"></a>Contenuto ufficiale
 

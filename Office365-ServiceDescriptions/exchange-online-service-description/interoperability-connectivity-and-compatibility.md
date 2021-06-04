@@ -28,7 +28,7 @@ Per gli utenti che hanno distribuito Microsoft Lync Server 2010, Lync Server 201
   
 Lync Server 2010 e Lync Server 2013 locale possono interagire con Exchange Online in due ulteriori modalità:
   
-- Interoperabilità di messaggistica istantanea e presenza in Outlook sul Web
+- Interoperabilità di messaggistica istantanea e presenza Outlook sul Web
     
 - Interoperabilità posta vocale
     
@@ -36,7 +36,7 @@ Per ulteriori informazioni sulla configurazione di Skype for Business Server 201
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Per i clienti che hanno distribuito Microsoft SharePoint Server o SharePoint Online come parte di un piano di sottoscrizione, SharePoint può connettersi a Exchange Online per i servizi integrati.
+Per i clienti che hanno distribuito Microsoft SharePoint Server o SharePoint Online come parte di un piano di sottoscrizione, SharePoint connettersi a Exchange Online per i servizi integrati.
   
 Per ulteriori informazioni sul collegamento di SharePoint a Exchange Online, vedere [Usare SharePoint Online su un dominio personalizzato insieme ad altri servizi](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,4 +58,4 @@ Servizi Web Exchange (EWS) è l'API di sviluppo consigliata per Exchange Server 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online [descrizione del servizio.](exchange-online-service-description.md)

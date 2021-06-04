@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: In questo articolo vengono descritti i controlli di amministrazione e il supporto disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione operativo, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
+description: In questo articolo vengono descritti i controlli di amministrazione e il supporto disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente di Exchange Online dell'organizzazione operativo, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
 ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,11 +23,11 @@ ms.locfileid: "51652730"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Installazione e amministrazione di Exchange Online
 
-In questo articolo vengono descritti i controlli di amministrazione e il supporto disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente Exchange Online di un'organizzazione operativo, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
+In questo articolo vengono descritti i controlli di amministrazione e il supporto disponibili per personalizzare le impostazioni di Exchange Online e mantenere l'ambiente di Exchange Online dell'organizzazione operativo, in esecuzione e corrente. Include anche le informazioni relative agli strumenti di amministrazione self-service e alle funzionalità disponibili per le organizzazioni, agli obiettivi di prestazioni e alle responsabilità amministrative di Microsoft e agli aggiornamenti dei prodotti e servizi.
   
 ## <a name="self-service-administration-tools"></a>Strumenti di amministrazione self-service
 
-Anche se Microsoft controlla direttamente tutti i data center di Exchange Online ed è responsabile delle prestazioni globali del sistema, può controllare solo una parte degli elementi che si combinano per offrire agli utenti l'esperienza totale. Le organizzazioni stesse sono responsabili delle connessioni di rete verso i data center, della rete WAN (Wide Area Network) del cliente e delle reti LAN (Local Area Network) del cliente. Le organizzazioni sono altresì responsabili dei dispositivi degli utenti e della loro configurazione.  Sono inoltre responsabili del mantenimento delle licenze necessarie a ciascun utente per la funzionalità desiderata, tra cui la capacità di gestione di tali funzionalità, finché l'utente necessiti di accedere alla funzionalità.
+Anche se Microsoft controlla direttamente tutti i data center Exchange Online ed è responsabile delle prestazioni globali del sistema, può controllare solo una parte degli elementi che si combinano per offrire agli utenti l'esperienza totale. Le organizzazioni stesse sono responsabili delle connessioni di rete verso i data center, della rete WAN (Wide Area Network) del cliente e delle reti LAN (Local Area Network) del cliente. Le organizzazioni sono altresì responsabili dei dispositivi degli utenti e della loro configurazione.  Sono inoltre responsabili del mantenimento delle licenze necessarie a ciascun utente per la funzionalità desiderata, tra cui la capacità di gestione di tali funzionalità, finché l'utente necessiti di accedere alla funzionalità.
   
 Pertanto, Exchange Online fornisce agli amministratori dei clienti i seguenti strumenti per gestire un'ampia gamma di attività relative alla messaggistica:
   
@@ -45,7 +45,7 @@ Il portale Microsoft Office 365, disponibile all'indirizzo [https://portal.offic
   
 ### <a name="microsoft-365-admin-center"></a>Interfaccia di amministrazione di Microsoft 365
 
-L'interfaccia di amministrazione di Microsoft 365 è il portale Web da cui l'amministratore del servizio di ogni società può gestire gli account utente e le impostazioni per ognuno dei servizi Microsoft a cui sottoscrive. Dall'interfaccia di amministrazione di Microsoft 365, gli amministratori possono seguire i collegamenti all'interfaccia di amministrazione di Exchange (EAC), dove possono gestire le impostazioni specifiche di Exchange Online. Per ulteriori informazioni sull'utilizzo dell'interfaccia di amministrazione di Microsoft 365, vedere il video seguente: Introduzione a [Office 365 Enterprise.](https://go.microsoft.com/fwlink/p/?LinkId=271806)
+L'Microsoft 365 di amministrazione è il portale Web da cui l'amministratore del servizio di ogni società può gestire gli account utente e le impostazioni per ogni servizi Microsoft a cui sottoscrive. Dall'interfaccia di amministrazione Microsoft 365, gli amministratori possono seguire i collegamenti all'interfaccia di amministrazione di Exchange (EAC), dove possono gestire le impostazioni specifiche per Exchange Online. Per ulteriori informazioni sull'utilizzo dell'interfaccia di amministrazione di Microsoft 365, vedere il video seguente: [Introduzione](https://go.microsoft.com/fwlink/p/?LinkId=271806)Office 365 Enterprise .
   
 ### <a name="exchange-admin-center"></a>Interfaccia di amministrazione di Exchange
 
@@ -102,4 +102,4 @@ Quando Microsoft rilascia una nuova versione di Exchange, i clienti hanno tempo 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Exchange Online.](exchange-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Exchange Online [descrizione del servizio.](exchange-online-service-description.md)

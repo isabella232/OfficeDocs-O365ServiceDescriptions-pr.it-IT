@@ -35,7 +35,7 @@ I risultati di ricerca suggeriti appaiono durante la digitazione in modo da faci
 
 Scopri immediatamente a cosa stanno lavorando i colleghi. Ticker mostra le storie di attività che si verificano in tempo reale, incluse le modifiche alle pagine, i caricamenti di file e gli aggiornamenti effettuati in altre applicazioni aziendali.
   
-## <a name="topics"></a>Argomenti
+## <a name="topics"></a>Topics
 
 Aggiungere tag al contenuto con argomenti per consentire ad altri di trovare rapidamente messaggi, file, note e altro ancora correlati aggiungendo un hashtag (#) prima della parola o cercando argomenti esistenti.
   
@@ -45,6 +45,6 @@ La ricerca full-text consente di trovare rapidamente file, note, conversazioni, 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Yammer [descrizione del servizio.](yammer-service-description.md)
   
   

@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Vedere quali funzionalità sono disponibili nei diversi piani di Yammer.
+description: Vedere quali funzionalità sono disponibili nei diversi Yammer piani.
 ms.openlocfilehash: 1224a348663b8a0244e599f28e617255f71b870a
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -25,11 +25,11 @@ Yammer è un social network aziendale efficace, sicuro e privato. Yammer consent
   
 Per un elenco dei piani che includono Yammer, vedere [Famiglie di servizi Microsoft e piani.](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)
   
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Yammer, vedere la tabella di confronto [completa delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Yammer, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 ## <a name="system-requirements"></a>Requisiti di sistema
 
-Per i requisiti di sistema per Office 365, il servizio mensile basato su sottoscrizione disponibile per le organizzazioni aziendali, didattiche e governative, vedere Risorse di [Microsoft 365 e Office.](https://products.office.com/office-system-requirements/#Office365forBEG)
+Per i requisiti di sistema per Office 365, il servizio mensile basato su sottoscrizione disponibile per organizzazioni aziendali, didattiche e governative, vedere [Microsoft 365 e Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="yammer-plans"></a>Piani Yammer
 
@@ -38,15 +38,15 @@ Yammer è disponibile attraverso i piani di sottoscrizione elencati di seguito:<
 | Piano | Descrizione |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Social network aziendale - sempre e ovunque.  <br/> |
-|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Social networking aziendale con sicurezza avanzata, amministrazione e integrazioni.  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise social networking con sicurezza avanzata, amministrazione e integrazioni.  <br/> |
    
 > [!NOTE]
-> Le funzionalità e i criteri descritti nella descrizione del servizio della piattaforma [Microsoft 365 e Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) non si applicano al servizio Yammer. 
+> Le funzionalità e i criteri descritti in Microsoft 365 e [Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) descrizione del servizio della piattaforma non si applicano al servizio Yammer servizio. 
   
-## <a name="yammer-enterprise-service-communications-policy"></a>Criteri di comunicazione dei servizi aziendali di Yammer
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer di comunicazione dei servizi aziendali
 <a name="YammerCommsPolicy"> </a>
 
-Yammer aderisce ai criteri di gestione delle modifiche di [Microsoft 365,](https://aka.ms/ManageChange)ma non usa La versione mirata per implementare gli aggiornamenti. 
+Yammer rispetta i criteri di Microsoft 365 [gestione](https://aka.ms/ManageChange)delle modifiche, ma non usa La versione mirata per implementare gli aggiornamenti. 
   
 Tutti gli utenti di Yammer sono soggetti a un test delle funzionalità di tipo A/B. Ciò consente a Microsoft di testare le funzionalità per la stabilità, le prestazioni e il miglioramento dell'esperienza in molti ambienti e dispositivi. Gli utenti all'interno della stessa rete possono avere diverse esperienze a causa dei test. Non è possibile rifiutarsi di essere sottoposti al test A/B.
   
@@ -56,13 +56,13 @@ I canali usati per le comunicazioni ai clienti dipenderanno dall'impatto:<br><br
   
 | Cambia tipo | Canale di comunicazione |
 |:-----|:-----|
-|**Modifiche che richiedono un'azione (pianificare la modifica)** <br/>L'amministratore ha richiesto di apportare modifiche per mantenere il servizio in esecuzione, aggiornamenti che potrebbero influire sulla conformità dell'organizzazione  <br/> |- Messaggi di posta elettronica del Centro messaggi di Office 365 diretti agli amministratori verificati di Yammer <br/>- Roadmap di Microsoft 365<br/>- Aggiornamenti del servizio Yammer<br/>- Gruppo esterno<br/>In caso di modifiche che interessano un determinato gruppo di utenti, possiamo anche inviare delle notifiche direttamente a tali utenti. |
-|**Modifiche che richiedono consapevolezza (rimanere informati)**<br/>Modifiche che non richiedono l'azione dell'amministratore, modifiche alla progettazione visiva  <br/> |- Centro messaggi di Office 365<br/>- Roadmap di Microsoft 365<br/>- Aggiornamenti del servizio Yammer<br/>- Gruppo esterno<br/>In caso di modifiche che interessano un determinato gruppo di utenti, possiamo anche inviare delle notifiche direttamente a tali utenti. |
+|**Modifiche che richiedono un'azione (pianificare la modifica)** <br/>L'amministratore ha richiesto di apportare modifiche per mantenere il servizio in esecuzione, aggiornamenti che potrebbero influire sulla conformità dell'organizzazione  <br/> |- Office 365 messaggi di posta elettronica del Centro messaggi diretti Yammer amministratori verificati <br/>- Microsoft 365 roadmap<br/>- aggiornamenti Yammer servizio<br/>- Gruppo esterno<br/>In caso di modifiche che interessano un determinato gruppo di utenti, possiamo anche inviare delle notifiche direttamente a tali utenti. |
+|**Modifiche che richiedono consapevolezza (rimanere informati)**<br/>Modifiche che non richiedono l'azione dell'amministratore, modifiche alla progettazione visiva  <br/> |- Centro messaggi Office 365 messaggi<br/>- Microsoft 365 roadmap<br/>- aggiornamenti Yammer servizio<br/>- Gruppo esterno<br/>In caso di modifiche che interessano un determinato gruppo di utenti, possiamo anche inviare delle notifiche direttamente a tali utenti. |
 |**Non critico** <br/>Modifiche non critiche e che non richiedono azioni o consapevolezza, anche se possono essere osservabili da alcuni utenti  <br/> |In genere non verranno comunicate. |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Disponibilità delle funzionalità tra i piani di Yammer
 
-Serve aiuto per capire quale piano Yammer meglio si adatta alle esigenze dell'organizzazione? Utilizzare la tabella seguente per vedere quali funzionalità sono disponibili in ogni piano. Selezionare un nome di funzionalità per leggere un breve riepilogo del funzionamento di tale funzionalità in Yammer.<br><br>
+Serve aiuto per capire quale piano Yammer meglio adatto alle esigenze dell'organizzazione? Utilizzare la tabella seguente per vedere quali funzionalità sono disponibili in ogni piano. Selezionare un nome di funzionalità per leggere un breve riepilogo del funzionamento di tale funzionalità in Yammer.<br><br>
   
 | Funzionalità | Yammer Basic | Yammer Enterprise |
 |:-----|:-----|:-----|
@@ -94,7 +94,7 @@ Serve aiuto per capire quale piano Yammer meglio si adatta alle esigenze dell'or
 |[Instant type-ahead](discovery-features-in-yammer.md#instant-type-ahead) <br/> |Sì  <br/> |Sì  <br/> |
 |[Reti esterne](external-network-features-in-yammer.md#external-networks) <br/> |Sì  <br/> |Sì  <br/> |
 |[Commutazione di rete rapida](external-network-features-in-yammer.md#fast-network-switching) <br/> |Sì  <br/> |Sì  <br/> |
-|[Accesso a Yammer connect](yammer-platform-features.md#yammer-connect-login) <br/> |Sì  <br/> |Sì  <br/> |
+|[Yammer connettersi all'account di accesso](yammer-platform-features.md#yammer-connect-login) <br/> |Sì  <br/> |Sì  <br/> |
 |[Feed incorporabili](yammer-platform-features.md#embeddable-feeds) <br/> |Sì  <br/> |Sì  <br/> |
 |[Pulsanti Mi piace e Segui](yammer-platform-features.md#like-and-follow-buttons) <br/> |Sì  <br/> |Sì  <br/> |
 |[Estensione browser](yammer-platform-features.md#browser-extension) <br/> |Sì  <br/> |Sì  <br/> |

@@ -53,5 +53,5 @@ Microsoft Partner Network è impegnata a rispondere a tutte le esigenze dei part
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità nei piani di Microsoft 365 e Office 365, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra Microsoft 365 e Office 365, vedere Microsoft 365 [e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)
   

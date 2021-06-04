@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: In Project Online sono disponibili le seguenti funzionalità di gestione delle attività.
+description: Le seguenti funzionalità di gestione delle attività sono disponibili in Project Online.
 ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651061"
 ---
 # <a name="task-management"></a>Gestione attività
 
-In Project Online sono disponibili le seguenti funzionalità di gestione delle attività.
+Le seguenti funzionalità di gestione delle attività sono disponibili in Project Online.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
+Per informazioni su tutte le Project Online? Vedere la [descrizione Project Online servizio.](project-online-service-description.md)
   
 ## <a name="active-and-inactive-tasks"></a>Attività attive e non attive
 
@@ -67,5 +67,5 @@ Utilizzare la modalità di programmazione manuale per programmare attività manu
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Project Online.](project-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Project Online [descrizione del servizio.](project-online-service-description.md)
   

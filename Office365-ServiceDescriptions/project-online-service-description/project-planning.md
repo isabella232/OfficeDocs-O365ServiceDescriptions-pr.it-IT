@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: In Project Online sono disponibili le seguenti funzionalità di pianificazione del progetto.
+description: Le seguenti funzionalità di pianificazione del progetto sono disponibili in Project Online.
 ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651051"
 ---
 # <a name="project-planning"></a>Pianificazione di progetto
 
-In Project Online sono disponibili le seguenti funzionalità di pianificazione del progetto.
+Le seguenti funzionalità di pianificazione del progetto sono disponibili in Project Online.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
+Per informazioni su tutte le Project Online? Vedere la [descrizione Project Online servizio.](project-online-service-description.md)
   
 ## <a name="baseline-rollup"></a>Riporto delle previsioni
 
@@ -63,5 +63,5 @@ Consente di utilizzare una visualizzazione che mostra le persone e i compiti lor
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Project Online.](project-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Project Online [descrizione del servizio.](project-online-service-description.md)
   

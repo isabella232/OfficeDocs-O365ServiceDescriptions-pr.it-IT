@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: In Project Online sono disponibili le funzionalità di base seguenti.
+description: Le funzionalità di base seguenti sono disponibili in Project Online.
 ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51652300"
 ---
 # <a name="core-functionality"></a>Funzionalità di base
 
-In Project Online sono disponibili le funzionalità di base seguenti.
+Le funzionalità di base seguenti sono disponibili in Project Online.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
+Per informazioni su tutte le Project Online? Vedere la [descrizione Project Online servizio.](project-online-service-description.md)
   
 ## <a name="add-columns"></a>Aggiunta di colonne
 
@@ -35,7 +35,7 @@ Selezionare **File** per usare le funzionalità nella backstage, in cui è possi
   
 ## <a name="click-to-run"></a>A portata di clic
 
-Installa rapidamente Project Online su Internet, reti interne, file system locali o da supporti offline per assicurarti di essere aggiornato con la versione più recente dell'applicazione desktop Project. Per ulteriori informazioni, vedere [A portata di clic](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
+Installa rapidamente Project Online su Internet, reti interne, file system locali o da supporti offline per assicurarti di essere aggiornato con la versione più recente di un'applicazione desktop Project. Per ulteriori informazioni, vedere [A portata di clic](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Menu contestuali del pulsante destro del mouse
 
@@ -65,17 +65,17 @@ Grazie alla barra multifunzione, un'interfaccia a schede che consente di trovare
 
 Visualizzare attività, dipendenze e percorsi critici del progetto in una visualizzazione Diagramma reticolare. Per ulteriori informazioni, vedere [Creare un diagramma reticolare](https://go.microsoft.com/fwlink/p/?LinkId=271338).
   
-## <a name="office-store"></a>Office Store
+## <a name="office-store"></a>Office store
 
-È necessaria un'app da utilizzare con Project? Trovare nuove applicazioni per Project nell'Office Store. Per ulteriori informazioni, vedere [Componenti aggiuntivi per Project 2013](https://go.microsoft.com/fwlink/?LinkId=273883).
+È necessaria un'app da utilizzare con Project? Trova nuove applicazioni per Project nell'Office store. Per ulteriori informazioni, vedere [Componenti aggiuntivi per Project 2013](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Guida online
 
-La Guida di Project è disponibile Office.com guida introduttiva direttamente in Project (selezionare **File** \> **Nuovo**). [Guardare questi video per passare a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Project La Guida è disponibile in Office.com o in Guide introduttive direttamente in Project (selezionare **File** \> **Nuovo**). [Guardare questi video per passare a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>Output PDF e XPS
 
-Salvare un file di Project come file PDF o XPS. Per ulteriori informazioni, vedere [Salvare un file di progetto in formato PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Salvare un Project file come file PDF o XPS. Per ulteriori informazioni, vedere [Salvare un file di progetto in formato PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Testo segnaposto nei campi di Project
 
@@ -103,4 +103,4 @@ Utilizzare i controlli zoom disponibili sulla barra di stato per modificare velo
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Project Online.](project-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Project Online [descrizione del servizio.](project-online-service-description.md)

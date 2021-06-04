@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: In Project Online sono disponibili le seguenti funzionalità di gestione del portfolio.
+description: Le seguenti funzionalità di gestione del portfolio sono disponibili in Project Online.
 ms.openlocfilehash: 1554659494a6ad6afbeb35690deee61346bf6e55
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652280"
 ---
 # <a name="portfolio-management"></a>Gestione del portfolio
 
-In Project Online sono disponibili le seguenti funzionalità di gestione del portfolio.
+Le seguenti funzionalità di gestione del portfolio sono disponibili in Project Online.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
+Per informazioni su tutte le Project Online? Vedere la [descrizione Project Online servizio.](project-online-service-description.md)
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analisi dei progetti e ottimizzazione del portfolio
 
@@ -33,7 +33,7 @@ Creazione di progetti in modi diversi. Per ulteriori informazioni, vedere [Crear
   
 ## <a name="enterprise-resource-management"></a>Gestione risorse aziendali
 
-Le risorse sono le persone, i materiali o i costi necessari per eseguire il progetto. Le soluzioni Microsoft PPM consentono ai manager delle risorse di gestire il pool di risorse, pianificare la capacità delle risorse e approvare, rifiutare e modificare le richieste di coinvolgimento delle risorse in arrivo. Per ulteriori informazioni, vedere [Add a resource to Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320).
+Le risorse sono le persone, i materiali o i costi necessari per eseguire il progetto. Le PPM Microsoft consentono ai responsabili delle risorse di gestire il pool di risorse, pianificare la capacità delle risorse e approvare, rifiutare e modificare le richieste di coinvolgimento delle risorse in arrivo. Per ulteriori informazioni, vedere [Add a resource to Project Web App.](https://go.microsoft.com/fwlink/p/?LinkId=271320)
   
 ## <a name="financial-management"></a>Gestione finanziaria
 

@@ -32,7 +32,7 @@ Per informazioni su come Microsoft Office 365 protegge la privacy dei dati degli
   
 Per le operazioni che gli amministratori di Enterprise, Business, Government ed Education possono eseguire per configurare le impostazioni per la privacy in Office 365, vedere [Opzioni avanzate per la privacy (per gli amministratori)](https://go.microsoft.com/fwlink/p/?LinkID=285202).
   
-Per informazioni sulla sicurezza e sulla privacy per altri servizi Microsoft, tra cui Microsoft 365 Apps for enterprise, vedere A quali servizi online si applica [il Centro protezione?](https://www.microsoft.com/trustcenter/default.aspx)
+Per informazioni sulla sicurezza e sulla privacy per altri servizi Microsoft, Microsoft 365 Apps for enterprise, vedere A quali servizi online si applica [il Centro protezione?](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>Sicurezza
 
@@ -44,7 +44,7 @@ In quanto cliente, è possibile scoprire dove risiedono i dati, chi presso Micro
   
 ## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-Il rilevamento elettronico o eDiscovery, è il processo di identificazione e consegna di dati elettronici che possono essere utilizzati come prove in casi legali. Advanced eDiscovery si basa sul set esistente di funzionalità di eDiscovery in Office 365, consentendo di analizzare set di dati non strutturati di grandi dimensioni e ridurre la quantità di dati rilevanti per una causa legale. È possibile utilizzare la funzionalità di ricerca nel Centro conformità di Office 365 per eseguire una ricerca iniziale di tutte le origini contenuto all'interno dell'organizzazione per identificare e raccogliere i dati che potrebbero essere utilizzati in caso di controversia legale. È quindi possibile analizzare i dati applicando le funzionalità di analisi del testo, Machine Learning e di codifica predittiva/rilevanza di Advanced eDiscovery. Per ulteriori informazioni, vedere [Advanced eDiscovery.](/microsoft-365/compliance/overview-ediscovery-20)
+Il rilevamento elettronico o eDiscovery, è il processo di identificazione e consegna di dati elettronici che possono essere utilizzati come prove in casi legali. Advanced eDiscovery si basa sul set esistente di funzionalità di eDiscovery in Office 365, consentendo di analizzare set di dati non strutturati di grandi dimensioni e ridurre la quantità di dati rilevanti per una causa legale. È possibile utilizzare la funzionalità di ricerca nel Centro conformità di Office 365 per eseguire una ricerca iniziale di tutte le origini contenuto all'interno dell'organizzazione per identificare e raccogliere i dati che potrebbero essere utilizzati in caso di controversia legale. È quindi possibile analizzare i dati applicando le funzionalità di analisi del testo, Machine Learning e di codifica predittiva/rilevanza di Advanced eDiscovery. Per ulteriori informazioni, vedere [Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20).
   
 ## <a name="customer-lockbox"></a>Customer Lockbox
 
@@ -54,8 +54,8 @@ Customer Lockbox è incluso nel piano 5 di Office 365 Enterprise oppure è possi
   
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender per Office 365
 
-Defender per Office 365 consente di proteggere l'organizzazione da malware e virus. Defender per Office 365 include [collegamenti](/office365/securitycompliance/atp-safe-links)sicuri, [allegati](/office365/securitycompliance/atp-safe-attachments)sicuri, [anti-phishing](/office365/securitycompliance/atp-anti-phishing)e [funzionalità di spoofing intelligence.](/office365/securitycompliance/learn-about-spoof-intelligence) Collegamenti sicuri protegge in modo proattivo gli utenti da collegamenti ipertestuali dannosi in un messaggio, fornendo protezione ogni volta che viene selezionato il collegamento. Gli allegati sicuri proteggono da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non hanno una firma virus/malware nota in un ambiente speciale in cui Defender per Office 365 può rilevare intenti dannosi. Per ulteriori informazioni su Defender per Office 365, vedere Descrizione del servizio [Microsoft Defender per Office 365.](../office-365-advanced-threat-protection-service-description.md)
+Defender for Office 365 aiuta a proteggere l'organizzazione da malware e virus. Defender per Office 365 include [collegamenti sicuri,](/office365/securitycompliance/atp-safe-links) [allegati sicuri,](/office365/securitycompliance/atp-safe-attachments) [anti-phishing](/office365/securitycompliance/atp-anti-phishing)e [funzionalità di spoofing intelligence.](/office365/securitycompliance/learn-about-spoof-intelligence) Collegamenti sicuri protegge in modo proattivo gli utenti da collegamenti ipertestuali dannosi in un messaggio, fornendo protezione ogni volta che viene selezionato il collegamento. Allegati sicuri protegge da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non hanno una firma virus/malware nota in un ambiente speciale in cui Defender per Office 365 può rilevare intenti dannosi. Per altre informazioni su Defender per Office 365, vedi [Microsoft Defender per Office 365 descrizione del servizio](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 del servizio della piattaforma.](office-365-platform-service-description.md)

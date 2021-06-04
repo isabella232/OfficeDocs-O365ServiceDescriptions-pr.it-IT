@@ -25,7 +25,7 @@ Microsoft Office 365 fornisce le risorse di formazione e guida seguenti.
   
 ## <a name="online-help"></a>Guida online
 
-Gli articoli e i video della Guida sono disponibili da qualsiasi collegamento della Guida in linea nel servizio, inclusa l'icona della Guida nella barra di spostamento superiore del portale di Office 365 e dell'interfaccia di amministrazione di Microsoft 365. Inoltre, la Guida di Office 365 è disponibile integralmente sul sito Web [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Gli articoli e i video della Guida sono disponibili da qualsiasi collegamento alla Guida in linea nel servizio, inclusa l'icona della Guida nella barra di spostamento superiore del portale di Office 365 e dell Microsoft 365 intervana di amministrazione. Inoltre, la Guida di Office 365 è disponibile integralmente sul sito Web [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formazione
 
@@ -90,15 +90,15 @@ Dalla pagina iniziale della community di Office 365, i clienti possono accedere 
     
 Per ulteriori informazioni, visitare il sito Web [Community di Office 365](https://techcommunity.microsoft.com/).
   
-## <a name="manage-office-365-guidance"></a>Gestire le indicazioni di Office 365
+## <a name="manage-office-365-guidance"></a>Gestire Office 365 guida
 
-I professionisti IT delle organizzazioni di grandi dimensioni possono visitare la home page della documentazione di Office 365. In questa pagina sono disponibili collegamenti a linee guida per la distribuzione complesse destinate a organizzazioni di grandi dimensioni.
+I professionisti IT delle organizzazioni di grandi dimensioni possono visitare la home page Della Office 365 di gestione. In questa pagina sono disponibili collegamenti a linee guida per la distribuzione complesse destinate a organizzazioni di grandi dimensioni.
   
 Per ulteriori informazioni, vedere [Manage Office 365](/Office365/).
   
 ## <a name="other-self-help-resources"></a>Altre risorse di supporto in autonomia
 
-Oltre alla Community di Office 365 e alla Guida online, Office 365 include le risorse di supporto self-help seguenti:
+Oltre alla guida Office 365 Community e online, Office 365 include le risorse di supporto in autonomia seguenti:
   
 - **Strumento per la risoluzione dei problemi di Office 365** Dopo aver risposto a una serie di brevi domande sul problema, lo strumento per la risoluzione dei problemi di Office 365 suggerisce strumenti e informazioni utili sulla base delle risposte fornite dall'utente. Per utilizzare lo strumento, accedere alla pagina relativa allo [strumento per la risoluzione dei problemi di Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) della community di Office 365. 
     
@@ -149,4 +149,4 @@ Le guide e le risorse di formazione sono disponibili nelle seguenti lingue.
    
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Microsoft 365 [e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)

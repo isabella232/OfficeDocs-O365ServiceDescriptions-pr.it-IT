@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Per Exchange Online Protection sono attualmente disponibili i limiti seguenti. Questi limiti non sono configurabili se non diversamente specificato.
+description: Attualmente esistono i limiti seguenti per Exchange Online Protection. Questi limiti non sono configurabili se non diversamente specificato.
 ms.openlocfilehash: c4bce8f7b501a7a00eea723464e20964899b3560
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,10 +21,10 @@ ms.locfileid: "51653054"
 ---
 # <a name="exchange-online-protection-limits"></a>Limiti di Exchange Online Protection
 
-Per Exchange Online Protection sono attualmente disponibili i limiti seguenti. Questi limiti non sono configurabili se non diversamente specificato. 
+Attualmente esistono i limiti seguenti per Exchange Online Protection. Questi limiti non sono configurabili se non diversamente specificato. 
   
 > [!TIP]
-> Per ulteriori informazioni sui limiti in Exchange Online, vedere [Limiti di Exchange Online.](../exchange-online-service-description/exchange-online-limits.md) I limiti delle regole di trasporto si applicano anche ai clienti EOP autonomi. I limiti relativi alla frequenza di destinatari e di messaggi validi in Exchange Online non sono invece applicabili per i clienti che utilizzano EOP in uno scenario autonomo. 
+> Per ulteriori informazioni sui limiti in Exchange Online, vedere Exchange Online [limits](../exchange-online-service-description/exchange-online-limits.md). I limiti delle regole di trasporto si applicano anche ai clienti EOP autonomi. I limiti relativi alla frequenza di destinatari e di messaggi validi in Exchange Online non sono invece applicabili per i clienti che utilizzano EOP in uno scenario autonomo. 
   
 - **Limite dominio:** è possibile aggiungere fino a 900 domini per tenant. I sottodomini possono essere inclusi nello stesso limite o, se necessario, come parte di un'opzione generale, adatta a tutti i sottodomini. Per ulteriori informazioni, vedere [Gestione domini accettati in EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
 
@@ -44,7 +44,7 @@ Per Exchange Online Protection sono attualmente disponibili i limiti seguenti. Q
     
 - **Notifiche di quarantena della posta indesiderata dell'utente** finale - Per impostazione predefinita, se abilitate, le notifiche di quarantena della posta indesiderata dell'utente finale vengono inviate ogni 3 giorni. Possono essere configurate per essere inviate a intervalli da 1 o 15 giorni. 
     
-- **Limiti di segnalazione** e traccia dei messaggi - Per i limiti di segnalazione e traccia dei messaggi, vedere la sezione "Disponibilità e latenza dei dati di segnalazione e traccia dei messaggi" [in Reporting and message trace in Exchange Online Protection.](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection)
+- **Limiti di segnalazione** e traccia dei messaggi - Per i limiti di segnalazione e traccia dei messaggi, vedere la sezione "Disponibilità e latenza dei dati di traccia dei messaggi e di segnalazione" in Reporting [and message trace in Exchange Online Protection](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection).
     
 ### <a name="limits-across-eop-options"></a>Limiti tra opzioni EOP
 

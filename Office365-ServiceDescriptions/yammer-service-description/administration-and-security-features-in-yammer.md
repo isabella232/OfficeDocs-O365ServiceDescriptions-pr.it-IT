@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
-description: In Yammer sono disponibili le seguenti funzionalità di amministrazione e sicurezza.
+description: Le seguenti funzionalità di amministrazione e sicurezza sono disponibili in Yammer.
 ms.openlocfilehash: e31e3df763ef4fa2fd17522a634b5a66e4be6958
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51653558"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Funzionalità di amministrazione e sicurezza in Yammer
 
-In Yammer sono disponibili le seguenti funzionalità di amministrazione e sicurezza.
+Le seguenti funzionalità di amministrazione e sicurezza sono disponibili in Yammer.
   
-Per spiegazioni e procedure dettagliate, vedere la Guida [dell'amministratore di Yammer.](/yammer/)
+Per spiegazioni e procedure dettagliate, vedere Yammer [admin help](/yammer/).
 
 ## <a name="admin-private-content-mode"></a>Modalità contenuto privato dell'amministratore
 
@@ -35,7 +35,7 @@ Ottenere informazioni dall'analisi della rete per scoprire il modo in cui i dipe
 
 ## <a name="custom-network-branding"></a>Personalizzazione della personalizzazione della rete
 
-Portare l'aspetto dell'organizzazione nella rete Yammer. Gli amministratori di rete possono caricare il logo e l'immagine di un'organizzazione per creare una progettazione dell'albero personalizzato.
+Portare l'aspetto dell'organizzazione nella rete Yammer rete. Gli amministratori di rete possono caricare il logo e l'immagine di un'organizzazione per creare una progettazione dell'albero personalizzato.
 
 ## <a name="data-export"></a>Esportazione dei dati
 
@@ -58,7 +58,7 @@ Limitare la rete Yammer a una gamma IP specifica in modo che Yammer sia accessib
 consolidare più reti Yammer in una. Per ulteriori informazioni, vedere [Migrazione di rete: consolidare più reti Yammer](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
   
 > [!NOTE]
-> La migrazione delle reti Yammer tra piani non è supportata. 
+> La migrazione Yammer reti tra piani non è supportata. 
 
 ## <a name="organization-resources"></a>Risorse dell'organizzazione
 
@@ -74,7 +74,7 @@ Vedere su quali dispositivi i dipendenti hanno effettuato l'accesso e, se necess
 
 ## <a name="single-identity"></a>Identità singola
 
-Quando si sceglie Yammer come esperienza di social network predefinita per l'organizzazione, i dipendenti vengono mappati agli account Yammer esistenti. Ciò significa che non dovranno effettuare un nuovo accesso quando accedono a Yammer in Office 365. Quando i dipendenti accedono a Yammer da Office 365, tramite un'app yammer per dispositivi mobili o accedendo a Yammer.com vengono connessi automaticamente in base alle &mdash; &mdash; credenziali dell'organizzazione esistenti.
+Quando si sceglie Yammer'esperienza sociale predefinita per l'organizzazione, i dipendenti vengono mappati ai propri account Yammer esistenti. Ciò significa che non dovranno effettuare un nuovo accesso quando accedono a Yammer in Office 365. Quando i dipendenti accedono Yammer da Office 365, tramite un'app per dispositivi mobili Yammer o accedendo a Yammer.com, vengono connessi automaticamente in base alle credenziali &mdash; &mdash; dell'organizzazione esistenti.
 
 ## <a name="usage-policy"></a>Criteri di utilizzo
 
@@ -86,4 +86,4 @@ Gestire facilmente l'accesso alla rete dell'organizzazione. Yammer consente di e
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Yammer.](yammer-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Yammer [descrizione del servizio.](yammer-service-description.md)

@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Usare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividere facilmente con altri utenti. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web.
+description: Usa OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che puoi aggiungere ovunque e condividere facilmente con altri utenti. Tutti i clienti possono visualizzare e modificare leggermente Office file utilizzando Office per il Web.
 ms.openlocfilehash: 96d240e7911991a605303ec2f62c0444cbb7ed9b
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,7 +23,7 @@ ms.locfileid: "51652350"
 ---
 # <a name="onenote-for-the-web"></a>OneNote per il Web
 
-Usare OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che è possibile aggiungere da qualsiasi luogo e condividere facilmente con altri utenti. Tutti i clienti possono visualizzare e modificare leggermente i file di Office utilizzando Office per il Web. 
+Usa OneNote per il Web (in precedenza OneNote Web App) per prendere appunti online in un blocco appunti di OneNote che puoi aggiungere ovunque e condividere facilmente con altri utenti. Tutti i clienti possono visualizzare e modificare leggermente Office file utilizzando Office per il Web. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Collaborazione avanzata: i nuovi contenuti vengono mostrati come non letti, presenza
 
@@ -47,23 +47,23 @@ Con OneNote per il Web, è possibile applicare una scelta di tre stili di punto 
   
 ## <a name="clipboard"></a>Appunti
 
-Con OneNote per il Web, è possibile tagliare, copiare e incollare il contenuto in un blocco appunti. È possibile copiare e incollare testo tra OneNote per il Web e l'app desktop OneNote. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
+Con OneNote per il Web, è possibile tagliare, copiare e incollare il contenuto in un blocco appunti. Puoi copiare e incollare testo tra OneNote per il Web e OneNote'app desktop. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
 ## <a name="clipping-experiences"></a>Operazioni di ritaglio
 
-Non disponibile in OneNote per il Web. Con l'app desktop OneNote è possibile ritagliare qualsiasi elemento visualizzato sullo schermo, inviare una pagina Web o un intero documento a una sezione del blocco appunti oppure annotare le note rapide salvate e memorizzate automaticamente come parte del blocco appunti.
+Non disponibile in OneNote per il Web. Con l'app desktop OneNote, è possibile ritagliare qualsiasi elemento visualizzato sullo schermo, inviare una pagina Web o un intero documento a una sezione del blocco appunti oppure annotarvi note rapide che vengono automaticamente salvate e memorizzate come parte del blocco appunti.
   
 ## <a name="co-authoring"></a>Creazione condivisa
 
-Con OneNote per il Web, è possibile modificare contemporaneamente i blocchi appunti con persone in altre posizioni che utilizzano OneNote per il Web o l'app desktop OneNote. Ulteriori informazioni sulla [collaborazione in un blocco appunti OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272945).
+Con OneNote per il Web, puoi modificare contemporaneamente i blocchi appunti con persone in altre posizioni che usano OneNote per il Web o OneNote'app desktop. Ulteriori informazioni sulla [collaborazione in un blocco appunti OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272945).
   
 ## <a name="create-and-manage-pages-and-sections"></a>Creazione e gestione di pagine e sezioni
 
-Con OneNote per il Web, è possibile aggiungere facilmente a blocchi appunti nuovi o esistenti creando nuove pagine in sezioni o nuove sezioni nei blocchi appunti. Le pagine e le sezioni possono essere personalizzate, formattate, spostate o copiate da un blocco a un altro. Ulteriori informazioni [sull'utilizzo di onenote per il blocco appunti Web.](https://go.microsoft.com/fwlink/p/?LinkId=272945)
+Con OneNote per il Web, è possibile aggiungere facilmente a blocchi appunti nuovi o esistenti creando nuove pagine in sezioni o nuove sezioni nei blocchi appunti. Le pagine e le sezioni possono essere personalizzate, formattate, spostate o copiate da un blocco a un altro. Ulteriori informazioni [sull'utilizzo di un OneNote per il blocco appunti Web.](https://go.microsoft.com/fwlink/p/?LinkId=272945)
   
 ## <a name="download-copy-of-embedded-office-files"></a>Download della copia di file Office incorporati
 
-Con OneNote per il Web, è possibile inserire file di Office come allegati o stampe per archiviarli come parte del blocco appunti. L'app desktop OneNote 2013 consente inoltre di incorporare nelle note fogli di calcolo Excel e disegni Visio. Ulteriori informazioni sull'[inserimento di file Microsoft Office in OneNote](https://go.microsoft.com/fwlink/p/?LinkId=271843).
+Con OneNote per il Web, è possibile inserire Office file come allegati o stampe per archiviarli come parte del blocco appunti. L'app desktop OneNote 2013 consente inoltre di incorporare nelle note fogli di calcolo Excel e disegni Visio. Ulteriori informazioni sull'[inserimento di file Microsoft Office in OneNote](https://go.microsoft.com/fwlink/p/?LinkId=271843).
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -79,7 +79,7 @@ Non disponibile in OneNote per il Web. Con l'app desktop OneNote, è possibile a
   
 ## <a name="hyperlinks"></a>Collegamenti ipertestuali
 
-Con OneNote per il Web, è possibile inserire un collegamento ipertestuale a un indirizzo Web o applicare un collegamento al testo selezionato. Puoi anche fare clic con il pulsante destro del mouse sulla scheda di una pagina per copiare un collegamento diretto a tale pagina. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
+Con OneNote web, è possibile inserire un collegamento ipertestuale a un indirizzo Web o applicare un collegamento al testo selezionato. Puoi anche fare clic con il pulsante destro del mouse sulla scheda di una pagina per copiare un collegamento diretto a tale pagina. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
 ## <a name="image-optical-character-recognition-ocr"></a>Riconoscimento ottico caratteri (OCR)
 
@@ -87,7 +87,7 @@ Non disponibile in OneNote per il Web. Il riconoscimento ottico caratteri (OCR) 
   
 ## <a name="ink-viewing"></a>Visualizzazione input penna
 
-In OneDrive, OneNote per il Web visualizza input penna, ma le equazioni vengono visualizzate come segnaposto. In SharePoint, l'input penna è visualizzabile, le equazioni vengono visualizzate come segnaposti e le forme sono nascoste. Non possono essere inseriti o modificati in OneNote per il Web. In OneDrive, è possibile selezionare ed eliminare forme, input penna e segnaposti equazione. In SharePoint, è possibile selezionare ed eliminare i segnaposti per questi oggetti.
+In OneDrive, OneNote web visualizza input penna, ma le equazioni vengono visualizzate come segnaposto. In SharePoint, l'input penna è visualizzabile, le equazioni vengono visualizzate come segnaposti e le forme sono nascoste. Non possono essere inseriti o modificati in OneNote per il Web. In OneDrive, è possibile selezionare ed eliminare forme, input penna e segnaposti equazione. In SharePoint, è possibile selezionare ed eliminare i segnaposti per questi oggetti.
   
 ## <a name="inking-ink-to-text-and-math-customizable-pens-drawing-tools"></a>Input penna: input penna-testo e matematica, penne personalizzabili, strumenti di disegno
 
@@ -95,24 +95,24 @@ Non disponibile in OneNote per il Web. Con l'app desktop OneNote, è possibile d
   
 ## <a name="linked-notes"></a>Note collegate
 
-La possibilità di collegare la nota ai file non è disponibile in OneNote per il Web e i collegamenti ai file sono nascosti. Tuttavia, vengono conservati nelle note in modo che sia possibile aprirli con l'app desktop OneNote. 
+La possibilità di collegare la nota ai file non è disponibile OneNote per il Web e i collegamenti ai file sono nascosti. Tuttavia, vengono conservati nelle note in modo che sia possibile aprirli con l'app desktop OneNote. 
   
 ## <a name="navigation"></a>Navigazione
 
-Con OneNote per il Web, è possibile utilizzare i pulsanti Indietro e Inoltra in stile browser sulla barra degli strumenti Accesso rapido per passare rapidamente da una pagina all'altra.
+Con OneNote per il Web, è possibile utilizzare i pulsanti Indietro e Inoltra in stile browser sulla barra degli strumenti Accesso rapido per passare rapidamente da una pagina all'altro.
   
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Gestione del blocco appunti: archiviazione delle pagine del blocco/sezione trasversale, riordino delle sezioni, creazione/eliminazione di gruppi di sezione
 
-Con OneNote per il Web, è possibile trascinare e rilasciare per riordinare pagine e sezioni.  
-Le funzionalità di gestione avanzate, ad esempio la creazione, l'eliminazione e il riordino dei gruppi di sezioni, sono disponibili solo nell'app desktop OneNote.
+Con OneNote per il Web, puoi trascinare e rilasciare per riordinare pagine e sezioni.  
+Le funzionalità di gestione avanzate, ad esempio la creazione, l'eliminazione e il riordino dei gruppi di sezioni, sono disponibili solo nell'app desktop OneNote desktop.
   
 ## <a name="offline-viewing-and-authoring"></a>Creazione e visualizzazione offline
 
-Non disponibile in OneNote per il Web. Office per il Web richiede una connessione Internet e un Web browser. È necessaria l'app desktop OneNote installata nel computer per visualizzare e modificare un documento mentre è disconnesso dal server Office Web Apps o da Internet.
+Non disponibile in OneNote per il Web. Office per il Web richiede una connessione Internet e un Web browser. È necessario OneNote'app desktop installata nel computer per visualizzare e modificare un documento mentre è disconnesso da Office Web Apps Server o da Internet.
   
 ## <a name="outlook-integration-tasks"></a>Integrazione con Outlook (attività)
 
-OneNote per il Web non supporta i comandi che funzionano con Microsoft Outlook, ad esempio la pagina di posta elettronica, le attività di Outlook o i dettagli delle riunioni.
+OneNote per il Web non supporta i comandi che funzionano con Microsoft Outlook, ad esempio la pagina di posta elettronica, Outlook attività o i dettagli della riunione.
   
 ## <a name="paragraph-formatting"></a>Formattazione dei paragrafi
 
@@ -120,11 +120,11 @@ Con OneNote per il Web, è possibile modificare l'allineamento dei paragrafi, au
   
 ## <a name="pictures"></a>Immagini
 
-Con OneNote per il Web, è possibile inserire un'immagine da un file o da Bing Images. È inoltre possibile ridimensionare le immagini e aggiungere testo alternativo. Per funzionalità avanzate per le immagini (ad esempio, ritaglio di schermata, immagini acquisite tramite scansione o immagini online) è necessario utilizzare l'app desktop OneNote. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
+Con OneNote per il Web, è possibile inserire un'immagine da un file o da Bing immagini. È inoltre possibile ridimensionare le immagini e aggiungere testo alternativo. Per funzionalità avanzate per le immagini (ad esempio, ritaglio di schermata, immagini acquisite tramite scansione o immagini online) è necessario utilizzare l'app desktop OneNote. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
 ## <a name="print"></a>Stampa
 
-È possibile stampare note in OneNote per il Web.
+È possibile stampare le note OneNote per il Web.
   
 ## <a name="proofing-tools"></a>Strumenti di correzione
 
@@ -132,11 +132,11 @@ OneNote per il Web controlla automaticamente l'ortografia durante la digitazione
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>Gestione dei diritti: applicazione e utilizzo di IRM e della sicurezza tramite password
 
-OneNote per il Web visualizza blocchi appunti protetti con Information Rights Management (IRM). Tuttavia, questi blocchi appunti non possono essere modificati nel browser e non è possibile creare blocchi appunti protetti con IRM in OneNote per il Web. OneNote per il Web non può aprire documenti crittografati con una password. Le funzionalità di protezione avanzata dei documenti, quali la creazione di blocchi appunti protetti tramite IRM e l'applicazione di protezione tramite password, sono disponibili solo nell'app desktop OneNote.
+OneNote per il Web visualizza i blocchi appunti protetti con Information Rights Management (IRM). Tuttavia, questi blocchi appunti non possono essere modificati nel browser e non è possibile creare blocchi appunti protetti con IRM in OneNote per il Web. OneNote per il Web non è possibile aprire documenti crittografati con una password. Le funzionalità di protezione avanzata dei documenti, quali la creazione di blocchi appunti protetti tramite IRM e l'applicazione di protezione tramite password, sono disponibili solo nell'app desktop OneNote.
   
 ## <a name="search-on-page-within-sections"></a>Ricerca (nella pagina, all'interno delle sezioni)
 
-Con OneNote per il Web, è possibile utilizzare ricerca immediata per richiamare qualsiasi elemento creato o salvato in OneNote. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
+Con OneNote per il Web, è possibile utilizzare Ricerca immediata per richiamare tutto ciò che è stato creato o salvato in OneNote. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
 ## <a name="search-by-tag-title-authordate-audio-notes"></a>Ricerca per: tag, titolo, autore/data, note audio
 
@@ -144,7 +144,7 @@ Non disponibile in OneNote per il Web. Le funzionalità di ricerca avanzata, ad 
   
 ## <a name="share"></a>Condividere
 
-Se il blocco appunti di OneNote è stato salvato in una raccolta documenti di SharePoint, il blocco appunti di OneNote è online. Ciò significa che può essere condiviso semplicemente inviando un collegamento invece di un allegato di posta elettronica. Selezionando il collegamento, gli utenti possono leggere le note nel browser Web. Ulteriori informazioni sulla [condivisione online delle note OneNote](https://go.microsoft.com/fwlink/p/?LinkID=272945).
+Se il blocco appunti OneNote è stato salvato in una SharePoint documenti, il blocco appunti OneNote è online. Ciò significa che può essere condiviso semplicemente inviando un collegamento invece di un allegato di posta elettronica. Selezionando il collegamento, gli utenti possono leggere le note nel browser Web. Ulteriori informazioni sulla [condivisione online delle note OneNote](https://go.microsoft.com/fwlink/p/?LinkID=272945).
   
 ## <a name="show-or-hide-authors"></a>Possibilità di visualizzare o nascondere gli autori
 
@@ -164,11 +164,11 @@ Non disponibile in OneNote per il Web. Con l'app desktop OneNote, è possibile u
   
 ## <a name="undo-and-redo"></a>Undo and redo
 
-Usando la tastiera, è possibile annullare (CTRL+ Z) o ripetere (ALT + F7) le azioni recenti per ogni pagina modificata nel blocco appunti attivo in OneNote per il Web. OneNote per il Web offre una cronologia di annullamento separata per ogni pagina modificata nel blocco appunti attivo. Durante la sessione di modifica, è possibile annullare un numero illimitato di azioni per pagina, fino a quando non viene inserita un'immagine o apportata una modifica da un altro utente. Non è possibile annullare lo spostamento e l'eliminazione delle pagine. Ulteriori informazioni sui [tasti di scelta rapida di OneNote per il Web.](https://go.microsoft.com/fwlink/p/?LinkId=272944)
+Usando la tastiera, è possibile annullare (CTRL+ Z) o ripetere (ALT + F7) le azioni recenti per ogni pagina modificata nel blocco appunti attivo in OneNote per il Web. OneNote per il Web offre una cronologia di annullamento separata per ogni pagina modificata nel blocco appunti attivo. Durante la sessione di modifica, è possibile annullare un numero illimitato di azioni per pagina, fino a quando non viene inserita un'immagine o apportata una modifica da un altro utente. Non è possibile annullare lo spostamento e l'eliminazione delle pagine. Ulteriori informazioni sulle [OneNote per i tasti di scelta rapida del Web.](https://go.microsoft.com/fwlink/p/?LinkId=272944)
   
 ## <a name="video-playback"></a>Riproduzione dei video
 
-Le note video vengono conservate nelle note, ma non possono essere registrate in OneNote per il Web. È possibile scaricare i file video sul computer per riprodurli. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
+Le note video vengono conservate nelle note, ma non possono essere registrate OneNote per il Web. È possibile scaricare i file video sul computer per riprodurli. Ulteriori informazioni sulle [differenze tra l'utilizzo di un blocco appunti nel browser e nell'app desktop OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
 ## <a name="view-previous-page-versions"></a>Visualizzazione delle versioni precedenti delle pagine
 

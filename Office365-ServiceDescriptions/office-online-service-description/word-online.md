@@ -35,7 +35,7 @@ Gli stili di paragrafo e di carattere salvati in un documento sono disponibili p
   
 ## <a name="office-add-ins"></a>Componenti aggiuntivi di Office
 
-Dall'archivio di Office, è possibile ottenere un componente aggiuntivo per Word. I componenti aggiuntivi di Office funzionano solo nell'app desktop Word e non sono disponibili in Word per il Web. Informazioni su come [ottenere un componente aggiuntivo per Word](https://go.microsoft.com/fwlink/?LinkId=391443).
+Dall'archivio di Office, è possibile ottenere un componente aggiuntivo per Word. Office componenti aggiuntivi funzionano solo nell'app desktop Word e non sono disponibili in Word per il Web. Informazioni su come [ottenere un componente aggiuntivo per Word](https://go.microsoft.com/fwlink/?LinkId=391443).
   
 ## <a name="autosave"></a>Salvataggio automatico
 
@@ -63,7 +63,7 @@ Non disponibile in Word per il Web. È possibile visualizzare le citazioni esist
   
 ## <a name="clipboard"></a>Appunti
 
-A causa delle limitazioni della tecnologia del Web browser, la copia e l'incolla del testo in Office per il Web sono diverse da copiare e incollare testo nelle applicazioni desktop di Office. Per ulteriori [informazioni, vedere Copiare e incollare in Office per il Web.](https://go.microsoft.com/fwlink/p/?LinkId=282321)
+A causa delle limitazioni della tecnologia del Web browser, copiare e incollare testo in Office per il Web è diverso dal copiare e incollare testo nelle applicazioni desktop Office desktop. Ulteriori informazioni su [copia e incolla in Office per il Web.](https://go.microsoft.com/fwlink/p/?LinkId=282321)
   
 ## <a name="collaboration-advanced"></a>Collaborazione avanzata
 
@@ -111,7 +111,7 @@ Con Word per il Web, è possibile applicare il tipo di carattere, la dimensione 
   
 ## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 
-Quando si apre il documento in OneDrive o SharePoint, Word per il Web apre il documento nel browser. Il layout e la formattazione corrispondono a quelli che si otterrebbero aprendo il documento in modalità Layout di stampa nell'app desktop Word.
+Quando si apre il documento in OneDrive o SharePoint, word per il Web apre il documento nel browser. Il layout e la formattazione corrispondono a quelli che si otterrebbero aprendo il documento in modalità Layout di stampa nell'app desktop Word.
   
 ## <a name="graphic-effect-presets"></a>Impostazioni predefinite per effetti grafici
 
@@ -131,7 +131,7 @@ Un indice elenca i termini e gli argomenti trattati in un documento, insieme all
   
 ## <a name="insert-online-pictures"></a>Inserimento di immagini online
 
-Con Word per il Web, è possibile inserire un'immagine da un file salvato nel disco rigido locale o da Bing Images. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word per il Web, è possibile inserire un'immagine da un file salvato nel disco rigido locale o da Bing Immagini. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="irm-and-password-protection"></a>IRM e protezione tramite password
 
@@ -151,7 +151,7 @@ Non disponibile in Word per il Web. Le funzionalità di integrazione avanzata de
   
 ## <a name="offline-viewing-and-authoring"></a>Creazione e visualizzazione offline
 
-Non disponibile in Word per il Web. Office per il Web richiede una connessione Internet e un browser Internet. È necessaria l'app desktop Word installata nel computer per visualizzare e modificare un documento quando si è disconnessi da Internet o dal server Office Web Apps locale dell'organizzazione. Se si dispone dell'app desktop Word installata, è possibile utilizzare le funzionalità complete di Word per visualizzare e modificare il documento. Quando viene salvato, il documento online viene aggiornato con le modifiche. È anche possibile scaricare e salvare con nome una copia non in linea del documento ma non verrà sincronizzato con la versione online. Ulteriori informazioni sul [server Office Web Apps](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
+Non disponibile in Word per il Web. Office per il Web richiede una connessione Internet e un browser Internet. È necessaria l'app desktop Word installata nel computer per visualizzare e modificare un documento quando si è disconnessi da Internet o dal server app Web Office locale dell'organizzazione. Se si dispone dell'app desktop Word installata, è possibile utilizzare le funzionalità complete di Word per visualizzare e modificare il documento. Quando viene salvato, il documento online viene aggiornato con le modifiche. È anche possibile scaricare e salvare con nome una copia non in linea del documento ma non verrà sincronizzato con la versione online. Ulteriori informazioni sul [server Office Web Apps](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
   
 ## <a name="page-breaks"></a>Page breaks
 
@@ -205,7 +205,7 @@ Non disponibile in Word per il Web. Gli strumenti di correzione avanzati, quali 
   
 ## <a name="real-time-co-authoring"></a>Creazione condivisa in tempo reale
 
-Più persone possono lavorare contemporaneamente in un documento. In Word per il Web e Word 2016, la presenza in tempo reale consente di vedere dove lavorano i co-autori nel documento in modo da non creare conflitti durante la modifica e di visualizzare le modifiche durante l'esecuzione. Word 2013 supporta la modifica simultanea, ma non esiste alcuna indicazione di presenza e le modifiche non possono essere visibili a più autori finché il documento non viene salvato. Per ulteriori informazioni sulla creazione condivisa in tempo reale, vedere Novità di Word per [il Web](https://go.microsoft.com/fwlink/?LinkId=389520) e Collaborare ai documenti di Word con la creazione condivisa in tempo [reale.](https://go.microsoft.com/fwlink/?linkid=798760)
+Più persone possono lavorare contemporaneamente in un documento. In Word per il Web e Word 2016, la presenza in tempo reale consente di vedere dove lavorano i co-autori nel documento in modo da non creare conflitti durante la modifica ed è possibile visualizzare le modifiche durante l'esecuzione. Word 2013 supporta la modifica simultanea, ma non esiste alcuna indicazione di presenza e le modifiche non possono essere visibili a più autori finché il documento non viene salvato. Per ulteriori informazioni sulla creazione condivisa in tempo reale, vedere Novità di Word per [il Web](https://go.microsoft.com/fwlink/?LinkId=389520) e Collaborare ai documenti di Word con la creazione condivisa in tempo [reale.](https://go.microsoft.com/fwlink/?linkid=798760)
   
 ## <a name="reference-tools"></a>Strumenti di riferimento
 
@@ -217,7 +217,7 @@ Bibliografia, sommari e indici vengono visualizzati come previsto nella modalit�
   
 ## <a name="researcher"></a>Strumento ricerche
 
-Ricercatore consente di trovare e incorporare fonti e contenuti affidabili per il documento. Il ricercatore usa Bing per estrarre il contenuto appropriato dal Web. Per ulteriori informazioni, vedere [Ricerca di documenti facilmente all'interno di Word.](https://go.microsoft.com/fwlink/?linkid=839490)
+Ricercatore consente di trovare e incorporare fonti e contenuti affidabili per il documento. Researcher usa Bing per estrarre il contenuto appropriato dal Web. Per ulteriori informazioni, vedere [Ricerca di documenti facilmente all'interno di Word.](https://go.microsoft.com/fwlink/?linkid=839490)
   
 ## <a name="rich-media"></a>Rich media
 

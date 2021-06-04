@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: In Project Online sono disponibili le seguenti funzionalità di gestione delle risorse.
+description: Le seguenti funzionalità di gestione delle risorse sono disponibili in Project Online.
 ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651206"
 ---
 # <a name="project-resource-management"></a>Gestione risorse di progetto
 
-In Project Online sono disponibili le seguenti funzionalità di gestione delle risorse.
+Le seguenti funzionalità di gestione delle risorse sono disponibili in Project Online.
   
-Per informazioni su tutte le funzionalità di Project Online, vedere Project Online Features. Vedere la [descrizione del servizio Project Online.](project-online-service-description.md)
+Per informazioni su tutte le Project Online? Vedere la [descrizione Project Online servizio.](project-online-service-description.md)
   
 ## <a name="cost-resources"></a>Risorse costo
 
@@ -37,11 +37,11 @@ Consente di aggiungere festività, giorni di ferie, permessi per malattia e altr
 
 Quando le persone coinvolte al progetto lavorano su molte assegnazioni contemporaneamente, è possibile regolarle automaticamente. Questa caratteristica è nota come livellamento delle risorse. Vedere [Livellamento assegnazioni risorse](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
-## <a name="resource-sheet-and-usage-views"></a>Visualizzazioni dell'elenco e dell'uso delle risorse
+## <a name="resource-sheet-and-usage-views"></a>Viste dell'elenco e dell'uso delle risorse
 
 Presentare informazioni delle risorse graficamente mediante l'utilizzo delle risorse, foglio, grafico e visualizzazione modulo. Vedere [Scegliete il giusto rapporto](https://go.microsoft.com/fwlink/?LinkId=402920).
   
-## <a name="resource-substitution"></a>Sostituzione risorse
+## <a name="resource-substitution"></a>Sostituzione guidata risorse
 
 Consente di sostituire le risorse generiche (ad esempio, gli operai) con persone reali. Vedere [Creare e condividere un pool di risorse](https://go.microsoft.com/fwlink/?LinkId=402921).
   
@@ -55,6 +55,6 @@ Consente di aggiungere risorse al progetto come le risorse di lavoro, ad esempio
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio [Project Online.](project-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Project Online [descrizione del servizio.](project-online-service-description.md)
   
 
