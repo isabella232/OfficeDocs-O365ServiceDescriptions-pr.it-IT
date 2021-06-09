@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni sulle licenze Microsoft 365 conformità per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699062"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798472"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 sulle licenze per la conformità della &amp; sicurezza
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Informa
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection e Governance forniscono a un utente i diritti per trarre vantaggio dall'applicazione automatica delle etichette di conservazione in base ai classificatori addestrabili.
 
-Per diritti specifici in base alla licenza, vedere la sezione Microsoft 365 confronto delle licenze di conformità. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
 Per impostazione predefinita, le funzionalità di governance delle informazioni sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant. Per informazioni sulla configurazione della governance delle informazioni per applicare l'etichettatura automatica e i criteri per gli utenti con licenza, vedere Governance delle informazioni [Microsoft in Microsoft 365](/microsoft-365/compliance/manage-information-governance).
@@ -322,8 +320,6 @@ La gestione dei record consente alle organizzazioni di soddisfare gli obblighi a
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5 e Office 365 E5/A5/G5 forniscono a un utente i diritti per trarre vantaggio da Gestione record, tra cui la dichiarazione di elementi come record o record normativi, l'applicazione automatica di etichette di conservazione o record ed esecuzione di processi di revisione dell'eliminazione (escludendo l'applicazione automatica di un'etichetta di conservazione basata su classificatori addestrabili).
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance e Microsoft 365 Information Protection and Governance forniscono a un utente i diritti per trarre vantaggio dall'applicazione automatica di etichette di conservazione o record in base a classificatori addestrabili.
-
-Per diritti specifici in base alla licenza, vedere la sezione Microsoft 365 confronto delle licenze di conformità. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti traggono vantaggio dal servizio?
 

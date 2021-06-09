@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Grazie a Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 3b8748a07bee29e12552d096e56eae84cfdc4c04
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545923"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798482"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -127,7 +127,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati Projec
 |**Sicurezza e gestione degli utenti**||||||
 |Office Gruppi moderni | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse da condividere con i membri del team. | Sì | Sì | Sì | Sì |
 |**App di terze parti**||||||
-|Connessione per *Project web* con app di terze parti <sup>4</sup> | Utilizzare un'applicazione personalizzata o di terze parti per visualizzare, creare, aggiornare o eliminare dati Project in qualsiasi tabella Project nativa. | No | Sì | Sì | Sì |
+|Connessione per *Project web* con app di terze parti <sup>4</sup> | Utilizzare un'applicazione personalizzata o di terze parti per visualizzare, creare, aggiornare o eliminare dati Project in qualsiasi tabella Project nativa. | Solo visualizzazione<sup>11</sup> | Sì | Sì | Sì |
 
 ### <a name="project-online-features"></a>Funzionalità di Project Online
 
@@ -212,6 +212,7 @@ Se il flusso è isolato e non ha nulla a che fare con l Project appliczione, sar
 <sup>8</sup> Gli utenti con una sottoscrizione Project - Piano 3 o Project - Piano 5 possono inviare richieste di coinvolgimento delle risorse. Non possono esaminare, soddisfare o approvare le richieste di coinvolgimento delle risorse.</br>
 <sup>9</sup> Gli utenti con una sottoscrizione Project - Piano 5 possono esaminare, soddisfare e approvare le richieste di coinvolgimento delle risorse.</br>
 <sup>10</sup> Active Directory richiede una sottoscrizione separata. </br>
+<sup>11</sup> Solo i diritti di visualizzazione vengono concessi solo dall'interno di un'app Power. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online client desktop
 
