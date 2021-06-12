@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni sulle licenze Microsoft 365 conformità per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798472"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906752"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 sulle licenze per la conformità della &amp; sicurezza
 
@@ -297,7 +297,17 @@ Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3/A3, Exc
 
 Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 e SharePoint Piano 2 forniscono a un utente i diritti per trarre vantaggio da un criterio di conservazione di base SharePoint o OneDrive e/o per applicare manualmente un'etichetta di conservazione non record ai file in SharePoint o OneDrive.
 
-Microsoft 365 E5/A5/G5/E3/A3 e Office 365 E5/A5/G5/E3/A3/A3 forniscono a un utente i diritti per usufruire di un criterio di conservazione Teams.
+Le organizzazioni possono utilizzare i criteri di conservazione per mantenere o eliminare Teams messaggi in base ai criteri. Ciò include la gestione dei messaggi in Teams chat e conversazioni.
+
+Le licenze seguenti forniscono a un utente i diritti per trarre vantaggio da un Teams di conservazione:
+
+- Microsoft 365 E5/G5/A5/E3/G3/A3
+- Office 365 E5/G5/A5/E3/G3/A3/F3/E1/G1
+
+Si noti che per gli utenti con le licenze seguenti, il periodo di conservazione o eliminazione minimo supportato è 30 giorni:
+
+- Microsoft 365 F1/F3, Business Basic, Business Standard e Business Premium
+- Office 365 E1/G1 e F3
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5, e Office 365 E5/A5 forniscono a un utente i diritti di trarre vantaggio dall'applicazione automatica di etichette o criteri di conservazione, applicazione di etichette o criteri di conservazione predefiniti, avvio del periodo di conservazione di un'etichetta di conservazione basata su un evento personalizzato, attivazione di una revisione manuale dell'eliminazione alla fine del periodo di conservazione dell'etichetta, importazione di dati di terze parti tramite connettori di dati nativi, dichiarazione di un file un record, individuazione di contenuto etichettato e monitoraggio dell'attività di etichettatura.
 

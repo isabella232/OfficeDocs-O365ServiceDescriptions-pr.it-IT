@@ -12,29 +12,77 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI è una famiglia di strumenti di analisi aziendale basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
-ms.openlocfilehash: 1f66fd645c7075278c7f8c13e8694f5797f8550a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: addac672ec7cb12537d41041c85752ee3690e544
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652310"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906742"
 ---
 # <a name="power-bi-service-description"></a>Descrizione del servizio Power BI
 
-Power BI è una famiglia di strumenti di analisi aziendale basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
+Power BI è una famiglia di strumenti di analisi aziendale basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Connette gli utenti a un'ampia gamma di dati in tempo reale tramite dashboard facili da usare, fornisce informazioni automatizzate, report incorporati e interattivi in grado di fornire visualizzazioni accattivanti che consentono di dare vita a dati grandi e piccoli.
 
-Power BI è attualmente disponibile come parte della versione Office 365 Enterprise E5. Per ulteriori informazioni, visitare [Power BI](https://powerbi.microsoft.com/).
+Power BI è attualmente disponibile come parte della versione Office 365 Enterprise E5. Per ulteriori informazioni, visitare [Power BI](https://powerbi.microsoft.com).
 
 ## <a name="available-plans"></a>Piani disponibili
 
 La tabella seguente mostra i piani che includono Power BI in modo da poter scegliere la soluzione più adatta alle esigenze dell'organizzazione. Per informazioni dettagliate sul piano, vedere [Potenti strumenti per supportare l'azienda.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)
 
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Power BI, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
- 
-## <a name="power-bi-plans"></a>Piani Power BI
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Power BI, vedere la tabella di confronto completa [delle sottoscrizioni.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
 
-È possibile iscriversi al piano [Power BI più](https://go.microsoft.com/fwlink/?LinkID=786854) adatto alle proprie esigenze. 
-  
-> [!NOTE]
-> Power BI e Power BI per Office 365 sono prodotti diversi. Power BI per Office 365 è un servizio con una singola versione ed è stato deprecato. 
-  
+## <a name="feature-availability"></a>Disponibilità delle funzionalità
+
+Nella tabella seguente sono elencate le principali Power BI disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella può cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedere Power BI [prezzi.](https://powerbi.microsoft.com/pricing/)
+
+| Funzionalità | Power BI Pro | Power BI Premium per utente | Power BI Premium per capacità |
+|---------|--------------|---------------------------|-------------------------------|
+| **Collaborazione e analisi** | | | |
+| Accesso alle app per dispositivi mobili | Sì | Sì | Sì |
+| Pubblicare report per condividere e collaborare | Sì | Sì | No |
+| Report paginati (RDL) | No | Sì | Sì |
+| Usare contenuto senza una licenza per utente | No | No | Sì |
+| Report locali con Server di report di Power BI | No | No | Sì |
+| **Preparazione, modellazione e visualizzazione dei dati** | | | |
+| Limite dimensioni modello | 1 GB | 100 GB | 400 GB |
+| Frequenza di aggiornamento | 8/giorno | 48/giorno | 48/giorno |
+| Connessione a più di 100 origini dati | Sì | Sì | Sì |
+| Creare report e visualizzazioni con Power BI Desktop | Sì | Sì | Sì |
+| Incorporamento di API e controlli | Sì* | Sì* | Sì* |
+| Elementi visivi ai | Sì | Sì | Sì |
+| IA avanzata (analisi del testo, rilevamento delle immagini, apprendimento automatico del computer) | No | Sì | Sì |
+| Connettività di lettura/scrittura endpoint XMLA | No | Sì | Sì |
+| Flussi di dati (query diretta, entità collegate e calcolate, motore di calcolo avanzato) | No | Sì | Sì |
+| Analizzare i dati archiviati in Azure Data Lake Archiviazione | No | Sì | Sì |
+| **Governance e amministrazione** | | | |
+| Sicurezza e crittografia dei dati | Sì | Sì | Sì |
+| Metriche per la creazione, l'utilizzo e la pubblicazione del contenuto | Sì | Sì | Sì |
+| Gestione del ciclo di vita delle applicazioni | No | No | Sì |
+| Gestione della distribuzione multi-geografica | No | No | Sì |
+| Porta la tua chiave (BYOK) | No | No | Sì |
+| Disponibilità del componente aggiuntivo di ridimensionamento automatico (anteprima) | No | No | Sì |
+| Spazio di archiviazione massimo | 10 GB/utente | 100 TB | 100 TB |
+
+*Potrebbe essere necessaria una licenza aggiuntiva per incorporare applicazioni o contesti. Per ulteriori informazioni, vedere [Analisi incorporata con Power BI](/power-bi/developer/embedded/embedding).
+
+## <a name="learn-more"></a>Ulteriori informazioni
+
+Per informazioni tecniche su Power BI, vedere le risorse seguenti:
+
+- Tutta Power BI documentazione: [Power BI documentazione - Power BI | Documenti Microsoft](/power-bi/)
+- Power BI per sviluppatori: documentazione [Power BI per sviluppatori - Power BI | Documenti Microsoft](/power-bi/developer/)
+- Power BI documentazione per amministratori e aziende: Power BI di amministrazione e [aziendale - Power BI | Documenti Microsoft](/power-bi/admin/)
+- Power BI blog: [Power BI Blog- Aggiornamenti e notizie | Microsoft Power BI](https://powerbi.microsoft.com/blog/)
+- Power BI community: [Home - Microsoft Power BI Community](https://community.powerbi.com/)
+
+### <a name="licensing-terms"></a>Condizioni di licenza
+
+Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/). 
+
+### <a name="messaging"></a>Messaggistica
+
+Per tenere traccia delle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+
+### <a name="accessibility"></a>Accessibilità
+
+Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
