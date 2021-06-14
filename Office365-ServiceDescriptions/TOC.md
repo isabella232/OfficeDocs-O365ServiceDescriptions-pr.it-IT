@@ -91,7 +91,7 @@
 ### [Creazione di report e business intelligence](project-online-service-description/reporting-and-business-intelligence.md)
 ### [Gestione delle risorse](project-online-service-description/resource-management.md)
 ## [Descrizione del servizio Visio per il Web](visio-online-service-description/visio-online-service-description.md)
-### [Visio per il Web](visio-online-service-description/visio-online.md)
+### [Dettaglio sulle funzionalità di Visio](visio-online-service-description/visio-online.md)
 ## [Descrizione del servizio Yammer](yammer-service-description/yammer-service-description.md)
 ### [Funzionalità gruppo in Yammer](yammer-service-description/group-features-in-yammer.md)
 ### [Funzionalità profilo in Yammer](yammer-service-description/profile-features-in-yammer.md)
