@@ -39,21 +39,22 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "ocv-translation-feedback": true,
+     "ocv-translation-feedback": true,
       "breadcrumb_path": "/Office365/ServiceDescriptions/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "searchScope": ["Service Descriptions"],
+      "searchScope": [
+        "Service Descriptions"
+      ],
+      "recommendations": true,
       "feedback_system": "None",
-      "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ServiceDescriptions",
       "feedback_product_url": "https://office365.uservoice.com/",
       "titleSuffix": "Service Descriptions",
-      "bilingual_type": "hover over",
-      "contributors_to_exclude": [ 
-        "rjagiewich", 
-        "traya1", 
-        "rmca14", 
-        "claydetels19", 
+      "contributors_to_exclude": [
+        "rjagiewich",
+        "traya1",
+        "rmca14",
+        "claydetels19",
         "jborsecnik",
         "tiburd",
         "garycentric"
