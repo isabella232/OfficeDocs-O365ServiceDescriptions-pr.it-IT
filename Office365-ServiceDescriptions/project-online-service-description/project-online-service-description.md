@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Grazie a Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798482"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021999"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -278,11 +278,11 @@ Project Online richiede l'uso di SharePoint Online, di cui viene eseguito il pro
 
 ### <a name="project-roadmap-and-power-automate"></a>Project Roadmap e Power Automate
 
-Project La roadmap richiede l'uso di Power Automate, di cui viene eseguito il provisioning come parte dell'Project abbonamento. I diritti Power Automate funzionalità sono limitati a quelle Power Automate necessarie per Project roadmap. Power Automate funzionalità necessarie per Project roadmap viene visualizzata come il piano di servizio Integrazione dati  per **Project con Flow** nella sezione App dell'interfaccia di amministrazione di Microsoft 365.
+Project La roadmap richiede l'uso di Power Automate, di cui viene eseguito il provisioning come parte dell'Project abbonamento. I diritti Power Automate funzionalità sono limitati a quelle Power Automate necessarie per Project roadmap. Power Automate funzionalità richieste da Project roadmap viene visualizzata come piano di servizio Integrazione dati per  Project **con Flow** nella sezione App della interfaccia di amministrazione di Microsoft 365.
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project per il Web e Microsoft Dataverse
 
-Project per il Web richiede l'uso di Microsoft Dataverse per l'archiviazione dei dati. Viene eseguito il provisioning di un database di Microsoft Dataverse nell'ambito dell'Project sottoscrizione. I diritti per la funzionalità Microsoft Dataverse sono limitati all'archiviazione e all'accesso ai dati per supportare Project per il Web. La funzionalità Microsoft Dataverse richiesta da Project viene visualizzata come piano di servizio Common Data Service per Project nella sezione App dell'interfaccia di amministrazione di Microsoft 365.Microsoft Dataverse functionality required by Project appears as the **Common Data Service for Project** service plan in the **Apps** section of the Microsoft 365 admin center.
+Project per il Web richiede l'uso di Microsoft Dataverse per l'archiviazione dei dati. Viene eseguito il provisioning di un database di Microsoft Dataverse nell'ambito dell'Project sottoscrizione. I diritti per la funzionalità Microsoft Dataverse sono limitati all'archiviazione e all'accesso ai dati per supportare Project per il Web. La funzionalità Microsoft Dataverse richiesta da Project viene visualizzata come piano di servizio **Common Data Service per** Project nella sezione **App** della interfaccia di amministrazione di Microsoft 365.
 
 Per Project clienti con cinque (5) o più Project per le licenze Web, Project per i clienti Web possono distribuire in ambienti di produzione power platform e sandbox.
 
@@ -297,6 +297,11 @@ Per Project clienti con cinque (5) o più Project per le licenze Web, Project pe
 ### <a name="data-backup-and-retention"></a>Backup e conservazione dei dati
 
 Project per il Web e Project Online hanno entrambi gli stessi criteri di backup e conservazione dei dati Office 365. Per informazioni dettagliate, vedere [Conservazione, eliminazione e distruzione](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)dei dati in Office 365 .
+
+### <a name="data-encryption"></a>Crittografia dei dati
+
+- Per ulteriori informazioni sulla crittografia dei dati in Project Online vedere Crittografia dei dati [in OneDrive for Business e SharePoint Online - Microsoft 365 Compliance | Documenti Microsoft](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
+- Per ulteriori informazioni sulla crittografia dei dati in Project per il Web, vedere [Crittografia in Microsoft Dynamics 365 - Microsoft 365 conformità | Documenti Microsoft](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Project per i limiti e le limitazioni del Web
 
