@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Grazie a Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021999"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140828"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -315,7 +315,7 @@ Project per il Web presenta alcune limitazioni, descritte nella tabella seguente
 |Max. durata dell'attività foglia | 1250 giorni |
 |Max. durata dell'attività di riepilogo | 3650 giorni (10 anni) |
 |Max. risorse che possono essere assegnate a un'attività | 20 risorse |
-|Intervallo di date supportato per l'attività | 1/1/1984 &ndash; 31/12/2149 |
+|Intervallo di date supportato per l'attività | 1/1/2000 &ndash; 31/12/2149 |
 |**Progetto** ||
 |Max. attività totali per il progetto | 500 |
 |Max. durata totale del progetto | 3650 giorni (10 anni) |
