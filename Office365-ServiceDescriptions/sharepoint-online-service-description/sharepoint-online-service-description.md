@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: Vedere quali caratteristiche di SharePoint sono disponibili in quali piani.
-ms.openlocfilehash: 3455c7d29697dc8cef1f99fa271f71defeb55bf2
-ms.sourcegitcommit: 3e9f333093f62467dabe9d2282121769406ebf53
+description: Vedere quali SharePoint disponibili in quali piani.
+ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
+ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52955638"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204853"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -31,46 +31,46 @@ SharePoint in Microsoft 365 consente alle organizzazioni di condividere e gestir
 
 Per una breve panoramica, vedere [Che cos'è SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto [delle sottoscrizioni completa.](https://go.microsoft.com/fwlink/?linkid=2139145) Per i requisiti di sistema di Microsoft 365, vedere Risorse di [Microsoft 365 e Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145) Per Microsoft 365 di sistema, vedere [Microsoft 365 e Office risorse](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
-Per informazioni sulle differenze delle funzionalità di SharePoint per i clienti cloud del governo statunitense, vedere [SharePoint per ambienti governativi statunitensi.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
+Per informazioni sulle SharePoint delle funzionalità per i clienti cloud del governo statunitense, vedere [SharePoint per gli ambienti governativi statunitensi.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
 ## <a name="whats-new"></a>Novità
 
-Per informazioni sulle funzionalità più recenti rilasciate, vedere [Novità di SharePoint.](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
+Per informazioni sulle funzionalità più recenti rilasciate, vedere [Novità di SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
 ## <a name="subscription-options"></a>Opzioni di sottoscrizione
 
-Microsoft 365 è disponibile in diversi piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto [delle sottoscrizioni completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Microsoft 365 è disponibile in un'ampia gamma di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di SharePoint, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
-Per accedere a SharePoint, agli utenti dell'organizzazione deve essere assegnata una licenza che include SharePoint. Un piano Firstline non viene venduto come offerta autonoma, solo come parte di [Office 365 F3,](https://www.microsoft.com/microsoft-365/business/office-365-f1) [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) o [Microsoft 365 F3.](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) 
+Per accedere SharePoint, agli utenti dell'organizzazione deve essere assegnata una licenza che includa SharePoint. Un piano Firstline non viene venduto come offerta autonoma, solo come parte di Office 365 [F3,](https://www.microsoft.com/microsoft-365/business/office-365-f1) [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) o [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
   
 ## <a name="rights-of-guests"></a>Diritti degli utenti guest
 
-Se si acquista un piano e si crea un sito che utilizza caratteristiche aziendali, agli utenti guest invitati vengono concessi i diritti per l'utilizzo e/o la visualizzazione delle caratteristiche aziendali all'interno del sito a cui sono state invitate. Anche se è possibile invitare gli utenti guest a eseguire un'intera gamma di azioni in un sito, non hanno le stesse funzionalità di un utente con licenza all'interno dell'organizzazione. Ad esempio, se il piano include versioni desktop delle applicazioni di Office, gli utenti guest non possono installarle nei propri computer a meno che non si assegni loro una licenza.
+Se si acquista un piano e si crea un sito che utilizza caratteristiche aziendali, agli utenti guest invitati vengono concessi i diritti per l'utilizzo e/o la visualizzazione delle caratteristiche aziendali all'interno del sito a cui sono state invitate. Anche se è possibile invitare gli utenti guest a eseguire un'intera gamma di azioni in un sito, non hanno le stesse funzionalità di un utente con licenza all'interno dell'organizzazione. Ad esempio, se il piano include versioni desktop di applicazioni Office, gli utenti guest non possono installarle nei propri computer a meno che non si assegni loro una licenza.
 
 ## <a name="onedrive"></a>OneDrive
 
-OneDrive in Microsoft 365 è uno spazio di archiviazione online per singoli utenti all'interno di un'organizzazione. Si tratta del luogo in cui gli utenti possono memorizzare, sincronizzare e condividere i file di lavoro tra più dispositivi, in modo facile e sicuro. OneDrive è incluso in SharePoint e può essere acquistato anche come piano autonomo. Per informazioni sulla quantità di spazio di archiviazione di OneDrive fornito con ogni piano, vedere la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md)
+OneDrive in Microsoft 365 è l'archiviazione online per singoli utenti all'interno di un'organizzazione. Si tratta del luogo in cui gli utenti possono memorizzare, sincronizzare e condividere i file di lavoro tra più dispositivi, in modo facile e sicuro. OneDrive è incluso in SharePoint e può essere acquistato anche come piano autonomo. Per informazioni sulla quantità OneDrive'archiviazione fornita con ogni piano, vedere la [descrizione OneDrive servizio.](../onedrive-for-business-service-description.md)
 
 ## <a name="apps"></a>App
 
-Per sincronizzare i file di SharePoint in un computer, gli utenti possono usare [l'app di sincronizzazione di OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) per Windows o Mac. Per informazioni sulla disponibilità delle funzionalità nell'app di sincronizzazione, vedi la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md) 
+Per sincronizzare SharePoint file in un computer, gli utenti possono usare [l'app sincronizzazione OneDrive per](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) Windows o Mac. Per info sulla disponibilità delle funzionalità nell'app di sincronizzazione, vedi la [descrizione OneDrive servizio di sincronizzazione.](../onedrive-for-business-service-description.md) 
 
-Per usare i siti di SharePoint in un dispositivo mobile, possono installare l'app sharePoint per dispositivi [mobili per iOS, Android o Windows.](https://products.office.com/sharepoint/mobile-app) 
+Per usare SharePoint siti in un dispositivo mobile, possono installare l'app SharePoint per dispositivi mobili [per iOS, Android o Windows](https://products.office.com/sharepoint/mobile-app). 
   
   
 ## <a name="developer-features"></a>Funzionalità per sviluppatori
 
-Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono SharePoint e tutti i piani autonomi di SharePoint:
+Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono SharePoint e tutti SharePoint piani autonomi:
 
-- [Hosting di componenti aggiuntivi: ospitati da partner e ospitati in SharePoint](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
+- [Hosting di componenti aggiuntivi: ospitati SharePoint partner](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
 - [Distribuzione app: Catalogo app](/sharepoint/use-app-catalog)
 - [Distribuzione app: AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
-- [Servizi di integrazione applicativa (BCS)](/sharepoint/manage-business-connectivity-service-applications). Richiede SharePoint Piano 2, Office 365 Enterprise E3 o Office 365 Enterprise E5
+- [Servizi di integrazione applicativa (BCS)](/sharepoint/manage-business-connectivity-service-applications). Richiede SharePoint piano 2, Office 365 Enterprise E3 o Office 365 Enterprise E5
 - [Modelli a oggetti client per codice gestito](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
 - [Sito per sviluppatori](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
-- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). Richiede SharePoint Piano 2, Office 365 Enterprise E3 o Office 365 Enterprise E5
+- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). Richiede SharePoint piano 2, Office 365 Enterprise E3 o Office 365 Enterprise E5
 - [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization). Alcuni provider potrebbero essere bloccati nel proprio paese/area geografica.
 - [Servizio REST e query OData](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
 - [SharePoint Designer 2013 (per i siti classici)](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1). Non disponibile per i lavoratori di prima linea.
@@ -80,45 +80,45 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 
 Per una panoramica delle opzioni di personalizzazione, vedere [Customizing SharePoint](/sharepoint/extend-and-develop).
 
-Per altre informazioni sulla disponibilità di Microsoft Power Apps e Power Automate, vedi le domande frequenti sulle licenze Power [Apps e Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
+Per ulteriori informazioni sulla disponibilità di Microsoft Power Apps e Power Automate, vedere le domande frequenti Power Apps e [Power Automate](/power-platform/admin/powerapps-flow-licensing-faq)licenze.
 
-Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere Descrizione del servizio della piattaforma [Microsoft 365 e Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
+Per ulteriori informazioni sulla disponibilità di Microsoft Graph, vedere Microsoft 365 [e Office 365 descrizione del servizio della piattaforma.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
 
 
 ## <a name="it-admin-features"></a>Funzionalità di amministrazione IT
 
-Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono SharePoint e tutti i piani autonomi di SharePoint:
+Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono SharePoint e tutti SharePoint piani autonomi:
 
 - [Monitoraggio degli errori e dell'utilizzo delle app](/sharepoint/monitor-apps)
-- Report attività e utilizzo [per SharePoint](/office365/admin/activity-reports/sharepoint-activity) e [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
+- Report attività e utilizzo per [SharePoint](/office365/admin/activity-reports/sharepoint-activity) e [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Modificare l'URL del sito](/sharepoint/change-site-address)
 - [Impostazioni di archiviazione e conservazione predefinite per OneDrive](/onedrive/set-default-storage-space)
-- [Ibrido per SharePoint Server](/sharepoint/hybrid/hybrid). I lavoratori firstline richiedono una licenza CAL (Client Access License) per accedere a SharePoint Server.
+- [Ibrido per SharePoint Server](/sharepoint/hybrid/hybrid). I lavoratori firstline richiedono una licenza CAL (Client Access License) per accedere SharePoint Server.
 - [Gestione delle impostazioni di creazione siti](/sharepoint/manage-site-creation)
 - [Gestione dei limiti di archiviazione del sito](/sharepoint/manage-site-collection-storage-limits)
-- [Migrazione: strumento di migrazione di SharePoint](/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Migrazione: SharePoint strumento di migrazione](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Migrazione: Gestione migrazione](/sharepointmigration/mm-get-started)
-- [Migrazione: strumento di valutazione della migrazione di SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+- [Migrazione: strumento SharePoint di valutazione della migrazione](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [Migrazione: Mover.io](https://mover.io/). Ora disponibile in tutto il mondo.
 - [Multi-geo (residenza dei dati)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Con un componente aggiuntivo che richiede almeno 500 licenze Microsoft. Per informazioni dettagliate, contattare il rappresentante Microsoft.
 - [Provisioning di siti programmatici](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Sostituzione sito radice](/sharepoint/modern-root-site)
 - [Ripristinare siti eliminati](/sharepoint/restore-deleted-site-collection)
-- [Interfaccia di amministrazione di SharePoint](/sharepoint/get-started-new-admin-center). Le organizzazioni con lavoratori Firstline necessitano di almeno un utente Enterprise per accedere all'interfaccia di amministrazione.
+- [SharePoint'interfaccia di amministrazione](/sharepoint/get-started-new-admin-center). Le organizzazioni con lavoratori Firstline necessitano di almeno Enterprise utente per accedere all'interfaccia di amministrazione.
 - [Scanner di modernizzazione di SharePoint](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Le organizzazioni con lavoratori Firstline necessitano di almeno un utente Enterprise per accedere all'interfaccia di amministrazione.
+- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Le organizzazioni con lavoratori Firstline necessitano di almeno Enterprise utente per accedere all'interfaccia di amministrazione.
 - [Governance del sito](/sharepoint/governance-overview) 
 - [Archivio termini - metadati gestiti](/sharepoint/managed-metadata)
 
 Per informazioni sulla disponibilità dei servizi di migrazione FastTrack, fare riferimento ai [piani e ai servizi idonei.](/fasttrack/m365-eligible-services-and-plans) 
 
-Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md)
+Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione OneDrive servizio.](../onedrive-for-business-service-description.md)
 
-Per informazioni dell'amministratore per SharePoint, vedere [Amministratore di SharePoint Online.](/sharepoint/sharepoint-online)
+Per informazioni dell'amministratore SharePoint, [vedere SharePoint amministratore di SharePoint Online.](/sharepoint/sharepoint-online)
 
 ## <a name="security-and-compliance-features"></a>Funzionalità di sicurezza e conformità
 
-Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono SharePoint e tutti i piani autonomi di SharePoint:
+Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono SharePoint e tutti SharePoint piani autonomi:
 
 - [Controllo di accesso: percorso di rete](/sharepoint/control-access-based-on-network-location)
 - [Controllo di accesso: dispositivi non gestiti.](/sharepoint/control-access-from-unmanaged-devices) Richiede Azure AD Premium P1.
@@ -129,7 +129,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - [Ripristino di una raccolta documenti a un punto precedente nel tempo](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Ricerca virus](/office365/securitycompliance/virus-detection-in-spo)
 
-Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione del servizio OneDrive.](../onedrive-for-business-service-description.md)
+Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione OneDrive servizio.](../onedrive-for-business-service-description.md)
 
 SharePoint si integra con le funzionalità avanzate di sicurezza e conformità di Microsoft 365. Per info sulla disponibilità delle funzionalità seguenti, vedi la descrizione del [servizio & sicurezza](../office-365-platform-service-description/office-365-securitycompliance-center.md):
 
@@ -190,7 +190,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 
 Per ulteriori informazioni sulla disponibilità di Microsoft Power Apps e Power Automate, vedere le domande frequenti Power Apps e [Power Automate](/power-platform/admin/powerapps-flow-licensing-faq)licenze.
 
-Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione OneDrive servizio.](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)
+Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione OneDrive servizio.](../onedrive-for-business-service-description.md)
 
 ## <a name="search-features"></a>Caratteristiche per la ricerca
 
