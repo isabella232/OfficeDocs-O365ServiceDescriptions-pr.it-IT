@@ -14,176 +14,51 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: ebb2edb87a4f75ac8fafcaae5625f9431aaff1d3
+ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625623"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204833"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
-OneDrive per gli account aziendali o dell'istituto d'istruzione è uno spazio di archiviazione online nel cloud, disponibile per singoli utenti con licenza nell'organizzazione. Usarlo per proteggere i file di lavoro a cui poter accedere da più dispositivi. OneDrive consente di condividere file e collaborare ai documenti, sincronizzando i file con il computer. [Altre informazioni su caratteristiche, funzionalità e prezzi di OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).
-  
-OneDrive è incluso nei piani di Microsoft 365, Office 365 e SharePoint, ma può essere anche acquistato come piano autonomo. 
-    
-Per informazioni dettagliate sulle offerte di abbonamento che consentono l'uso di OneDrive, vedi la [tabella completa di confronto degli abbonamenti](https://go.microsoft.com/fwlink/?linkid=2139145) e il [confronto dei piani di OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
-  
-> [!NOTE]
-> I piani autonomi di OneDrive includono Office per il Web. 
-  
-## <a name="system-requirements"></a>Requisiti di sistema
+OneDrive per gli account aziendali o dell'istituto d'istruzione è uno spazio di archiviazione online nel cloud, disponibile per singoli utenti con licenza nell'organizzazione. Usarlo per proteggere i file di lavoro a cui poter accedere da più dispositivi. OneDrive consente di condividere file e collaborare ai documenti, sincronizzando i file con il computer. Altre informazioni su [caratteristiche, funzionalità e prezzi di OneDrive](https://www.microsoft.com/microsoft-365/onedrive/onedrive-for-business).
 
-Per esaminare i requisiti per l'app di sincronizzazione e l'app per dispositivi mobili di OneDrive, consultare [Requisiti di sistema di OneDrive](https://go.microsoft.com/fwlink/?linkid=837584).
-  
-## <a name="storage-space-per-user"></a>Spazio di archiviazione per utente
+OneDrive è incluso nei piani di Microsoft 365, Office 365 e SharePoint, ma può essere anche acquistato come piano autonomo.
 
-**2 GB**
+## <a name="available-plans"></a>Piani disponibili
 
-- Office 365 Enterprise F3
-- Microsoft 365 F1
-- Microsoft 365 F3
+Per informazioni dettagliate sulle offerte di abbonamento che consentono l'uso di OneDrive, vedi la [tabella completa di confronto degli abbonamenti](https://go.microsoft.com/fwlink/?linkid=2139145).
 
-**1 TB**
+## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-- Microsoft 365 Business Basic
-- Microsoft 365 Apps for business
-- Microsoft 365 Business Standard
-- Microsoft 365 Apps for enterprise
-- Office 365 Enterprise E1
-- Office 365 Government G1
-- Microsoft 365 Business Basic per organizzazioni no profit
-- Microsoft 365 Business Standard per organizzazioni no profit
-- Office 365 E1 per organizzazioni no profit
-- OneDrive for Business Piano 1
-- SharePoint Online Piano 1
-- Microsoft 365 Business Premium
+Nella tabella seguente sono elencate le funzionalità principali di OneDrive disponibili nei piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedi [Descrizione dei servizi di OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
 
-**Oltre 1 TB, a illimitato**
- 
-1 TB per utente per gli abbonamenti con meno di cinque utenti. Per gli abbonamenti con cinque o più utenti (possono trattarsi di qualsiasi combinazione di piani idonei), inizialmente Microsoft fornirà 1 TB per utente, che gli amministratori potranno aumentare fino a 5 TB per utente. Per altre informazioni, vedere [Impostare lo spazio di archiviazione predefinito per gli utenti di OneDrive](/onedrive/set-default-storage-space). Per richiedere ulteriore spazio di archiviazione, gli amministratori devono contattare il supporto tecnico Microsoft.
+| Funzionalità | Piani autonomi | Azienda di piccole dimensioni | Grandi aziende | Istruzione | Enti pubblici | Organizzazioni no profit  |
+|---------|-------------------|----------------|------------|-----------|------------|-------------|
+| Archiviazione | Sì | Sì | Sì | Sì | Sì | Sì |
+| Funzionalità di sincronizzazione | Sì | Sì | Sì | Sì | Sì | Sì |
+| Funzionalità di condivisione e collaborazione | Sì | Sì | Sì | Sì | Sì | Sì |
+| Funzionalità Web | Sì | Sì | Sì | Sì | Sì | Sì |
+| Funzionalità per dispositivi mobili | Sì | Sì | Sì | Sì | Sì | Sì |
+| Funzionalità per la sicurezza, la conformità e l'amministratore IT | Sì | Sì | Sì | Sì | Sì | Sì |
 
-- Office 365 Enterprise E3
-- Office 365 Enterprise E5
-- Office 365 A1
-- Office 365 A3
-- Office 365 A5
-- Office 365 US Government G3
-- Office 365 US Government G5
-- Office 365 E3 per organizzazioni no profit
-- Office 365 E5 per organizzazioni no profit
-- OneDrive for Business Piano 2
-- SharePoint Online Piano 2
-- Microsoft 365 Enterprise E3
-- Microsoft 365 Enterprise E5
-- Microsoft 365 A3
-- Microsoft 365 A5
-- Microsoft 365 US Government G3
-- Microsoft 365 US Government G5
-- Microsoft 365 E3 per organizzazioni no profit
-- Microsoft 365 E5 per organizzazioni no profit
+## <a name="learn-more"></a>Ulteriori informazioni
 
-> [!NOTE]
-> È necessario assegnare almeno una licenza a un utente prima di poter aumentare lo spazio di archiviazione predefinito in OneDrive. 
-  
-Quando è necessario uno spazio di archiviazione sul cloud per singoli utenti superiore ai 5 TB iniziali, gli amministratori possono [aprire un caso con il supporto tecnico Microsoft](/microsoft-365/admin/contact-support-for-business-products) per richiederlo. Lo spazio di archiviazione aggiuntivo sul cloud si ottiene come descritto di seguito: 
-  
-- Quando un utente ha riempito i suoi 5 TB di spazio di archiviazione in OneDrive per almeno il 90% della capacità, Microsoft aumenta lo spazio di archiviazione predefinito in OneDrive fino a 25 TB per ogni utente (gli amministratori possono impostare una quantità inferiore per ogni utente se lo desiderano). 
-    
-- Per ogni utente che raggiunge almeno il 90% della capacità dei suoi 25 TB di spazio di archiviazione in OneDrive, vengono forniti ulteriori 25 TB di spazio di archiviazione sul cloud come siti del team di SharePoint ai singoli utenti. Contattare il supporto tecnico Microsoft per informazioni e assistenza.
-    
-Per visualizzare lo spazio di archiviazione e l'utilizzo per un singolo utente, passare a [Gestisci spazio di archiviazione](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) nell'app di sincronizzazione di OneDrive. Per vedere la quantità di spazio di archiviazione utilizzato in tutta l’organizzazione, andare al [Report sull'utilizzo di OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) nell'interfaccia di amministrazione di Microsoft 365. 
-   
-## <a name="supported-uses"></a>Usi supportati
+Per informazioni tecniche su [OneDrive](https://www.microsoft.com/microsoft-365/onedrive/onedrive-for-business), consulta le risorse seguenti:
 
-L'archiviazione di OneDrive viene fornita per ogni utente ed è progettata per soddisfare le esigenze dei singoli utenti.
-  
-L'archiviazione dei dati diversi dai file di lavoro personali dei singoli utenti, compresi i back-up di sistema e i dati a livello di organizzazione e di reparto, non è supportata, così come l'assegnazione di una licenza per ogni utente a un bot, reparto o altra entità non umana. SharePoint è la soluzione migliore per una collaborazione e una gestione dei contenuti più avanzate, compresa l'archiviazione e la gestione di file, le comunicazioni e i siti Intranet all'interno di un team o organizzazione.
-  
-## <a name="onedrive-limits"></a>Limiti di OneDrive
+- [OneDrive](/onedrive/onedrive)
+- [Blog di Microsoft OneDrive](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
 
-Per informazioni sui limiti di file e di sincronizzazione, consultare [Limiti di SharePoint](./sharepoint-online-service-description/sharepoint-online-limits.md) e [Nomi file e tipi di file non validi](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
-  
-Per i piani che includono spazio di archiviazione illimitato sul cloud per singoli utenti, tenere presente che potrebbero essere applicate limitazioni alle funzionalità diverse dall'archiviazione. 
+### <a name="licensing-terms"></a>Condizioni di licenza
 
-## <a name="sync-features"></a>Funzionalità di sincronizzazione
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
 
-Chiunque il cui piano include OneDrive può usare l'app di sincronizzazione di OneDrive, a meno che il reparto IT non lo disabiliti esplicitamente. Per installare l'app di sincronizzazione più recente, andare alla [pagina di download di OneDrive](https://onedrive.live.com/about/download/). 
+### <a name="messaging"></a>Messaggistica
 
-Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono OneDrive e in tutti i piani autonomi di OneDrive:
+Per tenere traccia delle modifiche imminenti, comprese le funzionalità nuove e modificate, la manutenzione pianificata o altri annunci importanti, visita il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
-- [Consentire la sincronizzazione solo su domini specifici](/onedrive/allow-syncing-only-on-specific-domains)
-- [App per Mac](https://support.office.com/article/d11b9f29-00bb-4172-be39-997da46f913f)
-- [App per Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49)
-- [Sincronizzazione B2B](/onedrive/b2b-sync)
-- [Bloccare il caricamento per tipo di file](/onedrive/block-file-types)
-- [Accesso condizionale](/onedrive/enable-conditional-access)
-- File su richiesta [per Windows 10](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) e [per Mac](https://support.office.com/article/529f6d53-e572-4922-a585-e7a318c135f0)
-- [Spostamento di cartelle note](/onedrive/redirect-known-folders)(reindirizzare le cartelle note di Windows)
-- [Impostazioni per Mac (file plist)](/onedrive/deploy-and-configure-on-macos)
-- [Integrazione dell'app desktop di Office per la creazione condivisa in tempo reale](https://support.office.com/article/8a409b0c-ebe1-4bfa-a08e-998389a9d823). Richiede un abbonamento che include le app desktop di Office.
-- [Installazione in base al computer](/onedrive/per-machine-installation)
-- [Sincronizzazione del sito del team di SharePoint](/sharepoint/let-users-use-new-onedrive-sync-client)
-- [Configurazione account automatica](/onedrive/use-silent-account-configuration)
-- [Integrazione Sensore di memoria (Windows 10)](https://support.office.com/article/de5faa9a-6108-4be1-87a6-d90688d08a48)
-- [Aggiornamento delle opzioni della suoneria](/onedrive/sync-client-update-process)
-- [Supporto per desktop virtuale](/onedrive/sync-vdi-support)
+### <a name="accessibility"></a>Accessibilità
 
-## <a name="sharing-and-collaboration-features"></a>Funzionalità di condivisione e collaborazione
-
-Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono OneDrive e in tutti i piani autonomi di OneDrive:
-
-- [Richieste di accesso](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [Collegamenti di tipo "Chiunque"](/Office365/Enterprise/best-practices-anonymous-sharing) (che possono essere impostati per la richiesta scadenza) 
-- [@menzioni nei commenti](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Richiede un piano che includa Office 365 per il Web o le app desktop di Office 365.
-- [Richieste file](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
-- Gestire il collegamento di condivisione predefinito ([a livello dell'organizzazione](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) e [per ogni sito](/sharepoint/change-default-sharing-link))
-- Gestire la condivisione esterna ([a livello dell'organizzazione](/sharepoint/turn-external-sharing-on-or-off) e [per ogni sito](/sharepoint/change-external-sharing-site) o [OneDrive](/onedrive/user-external-sharing-settings))
-- [Gestire le autorizzazioni per gli elementi condivisi](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
-- [Integrazione di Microsoft Teams](/MicrosoftTeams/sharepoint-onedrive-interact) per i file inviati nelle chat. Richiede un abbonamento che includa Office 365 e che l'utente disponga di una licenza di Teams.
-- [Allegati moderni](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC). Richiede un piano che includa Outlook sul web o l'app desktop di Outlook.
-- [Restrizione della condivisione in base al dominio](/sharepoint/restricted-domains-sharing) a livello dell'organizzazione o del sito
-- [Condivisione di report](/sharepoint/sharing-reports)
-- [Codici di verifica](/sharepoint/external-sharing-overview#what-happens-when-users-share)
-
-## <a name="web-features"></a>Funzionalità Web
-
-Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono OneDrive e in tutti i piani autonomi di OneDrive:
-
-- [Copiare file e cartelle](https://support.office.com/article/67a6323e-7fd4-4254-99a8-35613492a82f) o [spostarli](https://support.office.com/article/5916f90d-f58a-4bf9-b135-10853f516d0b) tra OneDrive e SharePoint
-- [Visualizzazione Scopri](https://support.office.com/article/98cbb291-71e7-4355-b130-ac5f2cfe3d35)
-- [Scaricare un singolo file o più file in un file ZIP](https://support.office.com/article/5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [Attività di un file](https://support.office.com/article/6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)
-- Scheda file
-- [Commenti sui file](https://support.office.com/article/8c4990da-a888-4d3e-a09e-d1884f86f628)
-- [Anteprime file](https://support.office.com/article/e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
-- Riquadro Guida.
-- [Di tendenza intorno a me](https://support.office.com/article/2c14e8e6-4e52-4c61-9778-7155d33534a1#ID0EAACAAA=OneDrive_-_Business)
-- [Integrazione Power Automate](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
-- [Visualizzazione recente](https://support.office.com/article/7465991b-6882-4f0d-9a0a-2b2a455798cc)
-- [Cestino](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
-- [Ripristinare OneDrive a una data precedente](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15)
-- [Ricerca](https://support.office.com/article/0d929e0d-8682-4295-982b-4bd75a3daa01)
-- [Visualizzazione Condivisi da me](https://support.office.com/article/6b67b82b-9c5c-4348-ab10-fd5b0d8df76c) e [visualizzazione Condivisi con me](https://support.office.com/article/2c14e8e6-4e52-4c61-9778-7155d33534a1#ID0EAACAAA=OneDrive_-_Business)
-- [Accesso alla raccolta di SharePoint](https://support.office.com/article/9275de7b-0b0b-40ee-8fa2-b17d1b0727d0)
-- [Visualizzazione anteprime](https://support.office.com/article/6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)
-- [Cronologia versioni](https://support.office.com/article/159cad6d-d76e-4981-88ef-de6e96c93893)
-
-## <a name="mobile-features"></a>Funzionalità per dispositivi mobili
-
-Se non diversamente specificato, le funzionalità seguenti sono disponibili in tutti i piani che includono OneDrive e in tutti i piani autonomi di OneDrive:
-
-- Cambio account per [Android](https://support.office.com/article/babc9692-fb53-40b4-8b24-6b83ff95455e) e [iOS](https://support.office.com/article/ed5af2c2-39a8-4684-a17c-fcde3742d4be)
-- [App per Android](https://support.office.com/article/eee1d31c-792d-41d4-8132-f9621b39eb36). Non disponibile in Cina.
-- [App per iOS](https://support.office.com/article/08d5c5b2-ccc6-40eb-a244-fe3597a3c247)
-- [App per Windows 10 per XBox One, HoloLens, Surface Hub e tablet](https://support.office.com/article/6b0e1e05-2b8c-48fa-8820-7f25e2290fca)
-- Caricamento da fotocamera su [Android](https://support.office.com/article/66605e54-48b8-4f55-bcff-34159702e344) e [iOS](https://support.office.com/article/74d406bb-71d0-47c0-8ab8-98679fa1b72e)
-- Controllo delle notifiche del dispositivo
-- Accesso offline ai file o alle cartelle [in Android](https://support.office.com/article/57330175-97a6-4c66-8883-7b0a1a65fc21) e [iOS](https://support.office.com/article/60ffb5d6-ac87-4bea-b142-01f301b22e4c)
-- Commenti e annotazioni PDF [in Android](https://support.office.com/article/58a4cb71-26b2-461b-8920-25a8acce1776) e [iOS](https://support.office.com/article/b7807b8a-8323-4406-99b0-0b13882a8d03)
-- Digitalizzare lavagne, documenti, biglietti da visita, foto [in Android](https://support.office.com/article/d74d52bc-dd44-4a20-babb-b75621c32da0) e [iOS](https://support.office.com/article/7b5425d5-754f-4201-b88f-13fc765d7d3a)
-- [Accesso alla raccolta di SharePoint](https://support.office.com/article/9275de7b-0b0b-40ee-8fa2-b17d1b0727d0#mobile_app)
-
-## <a name="it-admin-security-and-compliance-features"></a>Funzionalità per la sicurezza, la conformità e l'amministratore IT
-
-Per informazioni su queste funzionalità, consultare la [Descrizione del servizio SharePoint](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features).
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
