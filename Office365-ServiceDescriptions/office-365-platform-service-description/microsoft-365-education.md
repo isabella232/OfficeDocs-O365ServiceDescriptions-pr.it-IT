@@ -9,31 +9,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education.
-ms.openlocfilehash: 0fb0f1ccd686329010612b18107c6f5e5d2cb77c
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+description: Informazioni sulle differenze tra i piani Microsoft 365 e Office 365 Education.
+ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021979"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290846"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
-Microsoft 365 è disponibile in diversi piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
+Microsoft 365 è disponibile in un'ampia gamma di piani per soddisfare al meglio le esigenze dell'organizzazione. Per informazioni sulle differenze tra i piani di Microsoft 365 e Office 365 Education, in questo articolo vengono illustrate le caratteristiche incluse in ciascuno di essi.
   
-Microsoft 365 offre un sistema completo, tra cui Office 365, Windows 10 ed Enterprise Mobility and Security. Nella tabella seguente sono elencate le funzionalità di Office 365 per Education A1, A3 e A5 insieme alle funzionalità di Microsoft 365 per Education A3 e A5 corrispondenti. Per confrontare le funzionalità tra piani aziendali ed aziendali, vedere Confrontare i piani di [Microsoft 365 per](https://go.microsoft.com/fwlink/?linkid=799177)le aziende oppure, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente in Descrizioni dei servizi di [Microsoft 365 e Office 365.](../office-365-service-descriptions-technet-library.md) Per cercare articoli e informazioni di supporto, vedere [Formazione della Guida di Office. &amp; ](https://support.office.com/)
+Microsoft 365 fornisce un sistema completo, tra cui Office 365, Windows 10 e Enterprise mobilità e sicurezza. Nella tabella seguente sono elencate le Office 365 per Education A1, A3 e A5 insieme alle funzionalità Microsoft 365 per Education A3 e A5. Per confrontare le funzionalità tra piani aziendali ed aziendali, vedere Confronto di [Microsoft 365 per](https://go.microsoft.com/fwlink/?linkid=799177)i piani aziendali oppure, per un elenco più dettagliato delle funzionalità, vedere la descrizione del servizio pertinente in Microsoft 365 e Office 365 [service descriptions](../office-365-service-descriptions-technet-library.md). Per cercare articoli e informazioni di supporto, vedere Office [Help &amp; Training](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Servizi e caratteristiche
 
-Ogni piano di Microsoft 365 Education include una serie di servizi individuali, come Exchange Online e SharePoint Online. Nella tabella seguente vengono illustrati i servizi disponibili in ogni piano di Office 365 e Microsoft 365 per agevolare gli utenti nella scelta della soluzione più adatta alle loro esigenze. Per esaminare i servizi e le funzionalità in modo più dettagliato, vedere la descrizione del [servizio Office 365 Education.](office-365-education.md)<br></br>
+Ogni piano di Microsoft 365 Education include una serie di servizi individuali, come Exchange Online e SharePoint Online. Nella tabella seguente vengono illustrati i servizi disponibili in ogni piano di Office 365 e Microsoft 365 per agevolare gli utenti nella scelta della soluzione più adatta alle loro esigenze. Per esaminare i servizi e le funzionalità in modo più dettagliato, vedere la [descrizione Office 365 Education](office-365-education.md) servizio.<br></br>
 
-| Servizio | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education A5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Office 365 A3 Student Use Benefit | Office 365 A5 Student Use Benefit | Microsoft 365 Education A3 Student Use Benefit | Microsoft 365 Education A5 Student Use Benefit |
+| Servizio | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education A5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Office 365 A3 Vantaggio Utilizzo da parte degli studenti | Office 365 A5 Vantaggio Utilizzo da parte degli studenti | Microsoft 365 Education A3 Vantaggio Utilizzo da parte degli studenti | Microsoft 365 Education A5 Vantaggio Utilizzo da parte degli studenti |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Piattaforma Office 365|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
+|Office 365 piattaforma|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Office per il web|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Microsoft 365 Apps for enterprise|No|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
-|Exchange Online|Sì<sup>1</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|Sì<sup>1</sup>|
-|SharePoint Online|Sì<sup>3</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|Sì<sup>3</sup>|
+|Exchange Online|Sì<sup>1</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|Sì<sup>2</sup>|
+|SharePoint Online|Sì<sup>3</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|Sì<sup>4</sup>|
 |OneDrive for Business|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Microsoft Teams|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Skype for Business online|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
@@ -66,7 +66,7 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |Azure Active Directory Basic|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Azure Active Directory Piano 1|No|No|No|Sì|No|No|No|Sì|Sì|
 |Azure Active Directory Piano 2|No|No|No|No|Sì|No|No|No|Sì|
-|**Conformità**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 Vantaggio Utilizzo da parte degli studenti**|**Office 365 A5 Student Use Benefit**|**Microsoft 365 Education A3 Student Use Benefit**|**Microsoft 365 Education A5 Student Use Benefit**|
+|**Conformità**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 Vantaggio Utilizzo da parte degli studenti**|**Office 365 A5 Vantaggio Utilizzo da parte degli studenti**|**Microsoft 365 Education A3 Vantaggio Utilizzo da parte degli studenti**|**Microsoft 365 Education A5 Vantaggio Utilizzo da parte degli studenti**|
 |Office 365 Rights Management|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Protezione delle informazioni di Azure Piano 1|No|No|No|Sì|No|No|No|No|No|
 |Protezione delle informazioni di Azure Piano 2|No|No|No|No|Sì|No|No|No|No|
@@ -76,13 +76,13 @@ Ogni piano di Microsoft 365 Education include una serie di servizi individuali, 
 |Advanced eDiscovery|No|No|Sì|No|Sì|No|No|No|No|
 |Prevenzione della perdita dei dati (DLP) per posta elettronica e file|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Endpoint DLP|No|No|No|No|Sì|No|No|No|No|
-|Dlp per le comunicazioni (chat di Teams)|No|No|Sì|No|Sì|No|No|No|No|
+|Dlp comunicazioni (Teams chat)|No|No|Sì|No|Sì|No|No|No|No|
 |Conformità delle comunicazioni|No|No|Sì|No|Sì|No|No|No|No|
 |Customer Key|No|No|Sì|No|Sì|No|No|No|No|
 |Controllo di base|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |Controllo avanzato|No|No|Sì|No|Sì|No|No|No|No|
-|Base Crittografia messaggi di Office 365|Sì<sup>9</sup>|Sì|Sì|Sì|Sì|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|
-|Advanced Crittografia messaggi di Office 365|No|No|Sì|No|Sì|No|No|No|No|
+|Base Office 365 Message Encryption|Sì<sup>9</sup>|Sì|Sì|Sì|Sì|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì<sup>9</sup>|
+|Advanced Office 365 Message Encryption|No|No|Sì|No|Sì|No|No|No|No|
 |Archivio protetto del cliente|No|No|Sì|No|Sì|No|No|No|No|
 |Gestione dei rischi Insider|No|No|No|No|Sì|No|No|No|No|
 |Gestione degli accessi con privilegi|No|No|Sì|No|Sì|No|No|No|No|

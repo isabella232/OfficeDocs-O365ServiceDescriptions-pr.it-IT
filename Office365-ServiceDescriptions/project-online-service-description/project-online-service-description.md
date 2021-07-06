@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Grazie a Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140828"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290856"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -108,6 +108,10 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati Projec
 |Microsoft Teams integrazione | Collaborare ai progetti in Microsoft Teams. <sup>1</sup> | Sì | Sì | Sì | Sì |
 |**Gestione delle risorse e dei programmi** ||||||
 |Project configurazione del team | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro. | No | Sì | Sì | Sì |
+|Creare richieste di risorse<sup>12</sup> |  | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
+|Accettare una proposta di prenotazione<sup>12</sup> |  | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
+|Creare e aggiornare prenotazioni per soddisfare le richieste di risorse<sup>12</sup> |  | Solo visualizzazione | Solo visualizzazione | Solo visualizzazione | Sì |
+|Gestire competenze/competenze nelle risorse |  | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |Roadmap | Crea roadmap visive e interattive tra progetti Microsoft Project Online, Microsoft Project per il Web e Azure Boards progetti. <sup>2</sup> Con Project - Piano 1 si ottiene l'accesso di sola lettura alle roadmap. Con Project - Piano 3 o Project - Piano 5, è anche possibile creare roadmap. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |**Reporting**<sup>3</sup> ||||||
 |Leggere report da *Project per i dati Web* | Visualizzare report predefiniti o personalizzati e dashboard per comprendere i dati relativi a progetti, programmi, portfolio e risorse. | Sì | Sì | Sì | Sì |
@@ -195,12 +199,12 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell P
 
 #### <a name="notes"></a>Note
 
-<sup>1</sup> Richiede un abbonamento Office o Microsoft 365 commerciale.</br>
-<sup>2 Azure Boards</sup> acquistati separatamente.</br>
-<sup>3</sup> Reporting for Project for the web and Project Online using Power BI requires a Power BI license.</br>
-<sup>4</sup> La creazione e l'utilizzo di Power Apps separati oltre all'applicazione Project che accede a Project per i dati dei clienti Web o Project Online richiede una sottoscrizione Power Apps separata.</br>
-<sup>5</sup> Limitato a 5 tabelle personalizzate.</br>
-<sup>6</sup> Project Online licenze per gli utenti esterni seguono lo stesso criterio per gli utenti interni. Qualsiasi interazione in un sito Project Online richiede una Project - Piano 3 o Project - Piano 5 abbonamento.</br>
+<sup>1</sup> Richiede un abbonamento Office o Microsoft 365 commerciale.<br/>
+<sup>2 Azure Boards</sup> acquistati separatamente.<br/>
+<sup>3</sup> Reporting for Project for the web and Project Online using Power BI requires a Power BI license.<br/>
+<sup>4</sup> La creazione e l'utilizzo di Power Apps separati oltre all'applicazione Project che accede a Project per i dati dei clienti Web o Project Online richiede una sottoscrizione Power Apps separata.<br/>
+<sup>5</sup> Limitato a 5 tabelle personalizzate.<br/>
+<sup>6</sup> Project Online licenze per gli utenti esterni seguono lo stesso criterio per gli utenti interni. Qualsiasi interazione in un sito Project Online richiede una Project - Piano 3 o Project - Piano 5 abbonamento.<br/>
 <sup>7</sup> Power Automate all'interno Project è limitato al contesto dell'Project applicazione. Ciò significa che, sia per i trigger che per le azioni, i diritti di flusso inclusi in Project possono:
 
 - Connessione a qualsiasi origine dati all'interno dei diritti di utilizzo dell'Project applicazione:
@@ -208,11 +212,12 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell P
   - Project dati tramite il connettore Microsoft Dataverse
 - Essere attivati direttamente dall'Project applicazione (tramite trigger/azione incorporati)
 
-Se il flusso è isolato e non ha nulla a che fare con l Project appliczione, sarà necessario acquistare una licenza della piattaforma.</br>
-<sup>8</sup> Gli utenti con una sottoscrizione Project - Piano 3 o Project - Piano 5 possono inviare richieste di coinvolgimento delle risorse. Non possono esaminare, soddisfare o approvare le richieste di coinvolgimento delle risorse.</br>
-<sup>9</sup> Gli utenti con una sottoscrizione Project - Piano 5 possono esaminare, soddisfare e approvare le richieste di coinvolgimento delle risorse.</br>
-<sup>10</sup> Active Directory richiede una sottoscrizione separata. </br>
-<sup>11</sup> Solo i diritti di visualizzazione vengono concessi solo dall'interno di un'app Power. </br>
+Se il flusso è isolato e non ha nulla a che fare con l Project appliczione, sarà necessario acquistare una licenza della piattaforma.<br/>
+<sup>8</sup> Gli utenti con una sottoscrizione Project - Piano 3 o Project - Piano 5 possono inviare richieste di coinvolgimento delle risorse. Non possono esaminare, soddisfare o approvare le richieste di coinvolgimento delle risorse.<br/>
+<sup>9</sup> Gli utenti con una sottoscrizione Project - Piano 5 possono esaminare, soddisfare e approvare le richieste di coinvolgimento delle risorse.<br/>
+<sup>10</sup> Active Directory richiede una sottoscrizione separata. <br/>
+<sup>11</sup> Solo i diritti di visualizzazione vengono concessi solo dall'interno di un'app Power. <br/>
+<sup>12</sup> I clienti con una licenza di Microsoft Project Piano 3/5 possono utilizzare la pianificazione delle risorse universali solo per pianificare le tabelle Project e Attività nel contesto di un progetto. <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online client desktop
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro tra molti dispositivi e più Office 365 servizi. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074477"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275605"
 ---
 # <a name="microsoft-365-suite-features"></a>Funzionalità della famiglia di prodotti Microsoft 365
 
@@ -90,10 +90,6 @@ I gruppi Microsoft 365 connette gli utenti con i colleghi, le informazioni e le 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
 Microsoft Kaizala è un'app di gestione del lavoro mobile semplice e sicura, che consente di offrire funzionalità uniche a Microsoft 365, con la possibilità di connettere e coinvolgere persone sia all'interno che all'esterno della directory di un'organizzazione, inclusi lavoratori contrattuali, fornitori, partner, fornitori, clienti e cittadini, utilizzando tipi di gruppi di grandi dimensioni e [flessibili.](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) il modello di directory aperta di Kaizala consente l'identità basata sui numeri di telefono per un facile onboarding e una semplice esperienza utente per la messaggistica e la gestione del lavoro. L'app per dispositivi mobili Kaizala consente agli utenti di inviare messaggi istantanei e allegati come immagini, documenti, video, file audio e altro ancora, nonché di usare schede azione per sondaggi, sondaggi, assegnazioni di lavoro, annunci, corsi di formazione e altro ancora. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) funziona su iPhone Android. Per ulteriori informazioni, visitare il sito [Web Kaizala .](https://products.office.com/en/business/microsoft-kaizala)
-
-## <a name="office-365-video"></a>Office 365 Video
-
-Office 365 Video è una destinazione sicura a livello aziendale in cui puoi caricare, condividere e scoprire video nei dispositivi, basati su Servizi multimediali di Microsoft Azure. Office che 365 Video consente di mantenere i visualizzatori impegnati e informati per comunicare idee su vasta scala e per la conformità tra organizzazioni. Per ulteriori informazioni, vedere [Introduzione a Office 365 Video](https://go.microsoft.com/fwlink/?linkid=2144056).
 
 ## <a name="onenote-class-notebook"></a>Blocco appunti di OneNote per la classe
 
