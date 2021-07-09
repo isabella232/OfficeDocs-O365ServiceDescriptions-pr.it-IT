@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui SharePoint per i Microsoft 365 e i piani autonomi.
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767476"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338339"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -50,7 +50,11 @@ Per gli elenchi di grandi dimensioni, progettare in modo da avere il maggior num
 
 ### <a name="file-size-and-file-path-length"></a>Dimensioni e lunghezza del percorso del file
 
-250 GB. Per altre informazioni sulle restrizioni e sui limiti quando si usa la nuova app di sincronizzazione OneDrive (OneDrive.exe), vedi Nomi di file e tipi di file non [validi.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **250 GB - Limite di caricamento file.** Si applica a ogni singolo file caricato Microsoft Teams scheda File, SharePoint raccolte documenti, OneDrive cartelle e Yammer conversazioni.
+
+- **250 MB - File allegato a una voce di elenco.** Si applica agli elenchi Microsoft e SharePoint, entrambi basati sulla stessa piattaforma di elenchi.
+
+Per altre informazioni sulle restrizioni e sui limiti quando si usa la nuova app sincronizzazione OneDrive (OneDrive.exe), vedi Tipi di file e nomi [di file non validi.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 ### <a name="moving-and-copying-across-sites"></a>Spostamento e copia tra siti
 
