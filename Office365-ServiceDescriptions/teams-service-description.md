@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Informazioni sulla disponibilità Microsoft Teams servizio e funzionalità tra Microsoft 365 e Office 365 piani.
-ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
+ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077520"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409683"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -21,11 +21,11 @@ Microsoft Teams è l'hub per il lavoro di squadra in Microsoft 365. Il Teams con
 
 ## <a name="available-plans"></a>Piani disponibili
 
-Per informazioni dettagliate sulle sottoscrizioni che consentono agli utenti di Microsoft Bookings, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Microsoft Stream, vedi la tabella di confronto [completa delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Nella tabella seguente sono elencate le principali Microsoft Teams disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella può cambiare senza preavviso. Fare riferimento a Microsoft 365 notifiche del Centro messaggi per la messaggistica di modifica del servizio di base e alla documentazione di riferimento sulle condizioni [di licenza Microsoft.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
+Nella tabella seguente sono elencate le principali Microsoft Teams disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Fare riferimento a Microsoft 365 notifiche del Centro messaggi per la messaggistica di modifica del servizio di base e alla documentazione di riferimento sulle condizioni [di licenza Microsoft.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
 | Funzionalità | Azienda di piccole dimensioni | Enterprise piani | GCC | GCC - Alta | DOD | Istruzione |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -52,7 +52,7 @@ Nella tabella seguente sono elencate le principali Microsoft Teams disponibili t
 
 Skype for Business Online verrà ritirato il 31 luglio 2021, annunciato il 30 luglio 2019. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams è un servizio completamente nuovo, creato per il cloud da zero sfruttando Azure e altre innovazioni di servizio di Microsoft. Microsoft Teams è basato su Microsoft 365, Microsoft Graph e con la stessa sicurezza, conformità e gestibilità a livello aziendale del resto della Office 365. Teams sfrutta le identità archiviate in Azure Active Directory (Azure AD). Questi servizi sono disponibili dai data center Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o tramite Internet. Per ulteriori informazioni, vedere i poster relativi [Microsoft Teams'architettura IT e alle soluzioni di telefonia.](/microsoftteams/teams-architecture-solutions-posters)
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
 Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Microsoft Teams, vedere la tabella di confronto [completa delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145) Per ulteriori Office 365 nei piani per enti pubblici, vedere [Office 365 Government plan](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 Da G1 a G5 includono l'accesso Teams funzionalità.
 
@@ -74,12 +74,12 @@ Per informazioni tecniche su Microsoft Teams, vedere le risorse seguenti:
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Messaggistica
 
-Per tenere traccia delle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+Per tenere traccia delle modifiche imminenti, comprese le funzionalità nuove e modificate, la manutenzione pianificata o altri annunci importanti, visita il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
