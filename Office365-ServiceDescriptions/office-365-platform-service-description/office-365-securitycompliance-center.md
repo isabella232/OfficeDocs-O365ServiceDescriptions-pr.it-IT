@@ -10,19 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza e conformità è progettato per facilitare la gestione delle funzionalità di &amp; conformità Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798462"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537212"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Il [Centro sicurezza e &amp; conformità](https://protection.office.com/) è progettato per facilitare la gestione delle funzionalità di conformità Office 365 per l'organizzazione. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-  
-> [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+Progettato in base all'accessibilità e all'usabilità, il Centro sicurezza [Microsoft 365,](https://sip.security.microsoft.com/homepage) [Centro conformità Microsoft 365](https://sip.compliance.microsoft.com/homepage)e [l'interfaccia](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) di amministrazione di Exchange includono funzionalità esistenti ed esperienze nuove e migliorate per la sicurezza unificata, la conformità e la gestione del flusso di posta nei servizi Microsoft 365. Questi nuovi centri sostituiranno gradualmente Office 365 Centro &amp; sicurezza e conformità (protection.office.com). È possibile attivare il reindirizzamento [](https://sip.security.microsoft.com/homepage) automatico [](https://sip.compliance.microsoft.com/homepage)ora nel Centro sicurezza o nel Centro conformità, in modo che gli amministratori dell'organizzazione siano immediatamente reindirizzati dalle funzionalità del Centro sicurezza e conformità di Office 365 alla funzionalità corrispondente nei nuovi &amp; centri.
 
 Per visualizzare le opzioni per la concessione delle licenze agli utenti per trarre vantaggio dalle Microsoft 365 di conformità, scaricare la tabella Microsoft 365 [Comparison.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
@@ -100,7 +97,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per tra
 
 <sup>4</sup> Le conversazioni di Skype vengono memorizzate come parte della cassetta postale.
 
-<sup>5</sup> Advanced eDiscovery richiede Office 365 E5 o una licenza di componente aggiuntivo.
+<sup>5</sup> Advanced eDiscovery richiede Office 365 E5 o una licenza del componente aggiuntivo.
 
 <sup>6 Skype'archiviazione</sup> è all'interno della cassetta postale dell'utente.
 
