@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e i piani autonomi.
-ms.openlocfilehash: c228774bbbb1db9b6edc1d3cc05ff159b1ca9a3e
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537222"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338339"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 
@@ -34,7 +34,7 @@ Informazioni sui limiti del servizio in SharePoint per Microsoft 365.
 <br/><sup>2</sup> Si consiglia di monitorare il Cestino e di svuotarlo regolarmente. Lo spazio di archiviazione utilizzato è compreso nel limite di archiviazione totale dell'organizzazione. 
 <br/> <sup>3</sup> Se si dispone di un abbonamento a Microsoft 365 e di un componente di archiviazione dei file aggiuntivo di Office 365, vengono aggiunte le quantità di archiviazione. 
 <br/> <sup>4</sup> Questo è il *limite* di archiviazione per un singolo sito (in precedenza denominato "raccolta siti"), non la quantità di spazio di archiviazione *fornito* per ogni sito. Questo limite si applica a tutti i tipi di siti, inclusi i siti del team connessi al gruppo di Office 365 e OneDrive. Gli amministratori di SharePoint possono [impostare manualmente limiti di archiviazione più bassi](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
-<br/> <sup>5</sup> Frontline Workers non può amministrare SharePoint siti. 
+<br/> <sup>5</sup> Gli operatori sul campo non possono amministrare i siti di SharePoint. 
 <br/> <sup>6</sup> Non è incluso OneDrive creato per ogni utente con licenza. 
 <br/> <sup>7</sup> Se si hanno più di 500.000 utenti, contattare un rappresentante Microsoft. 
   
