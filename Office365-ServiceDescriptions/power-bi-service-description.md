@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI è una famiglia di strumenti di analisi aziendale basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
-ms.openlocfilehash: addac672ec7cb12537d41041c85752ee3690e544
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906742"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661614"
 ---
 # <a name="power-bi-service-description"></a>Descrizione del servizio Power BI
 
@@ -33,7 +33,7 @@ Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli 
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Nella tabella seguente sono elencate le principali Power BI disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella può cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedere Power BI [prezzi.](https://powerbi.microsoft.com/pricing/)
+Nella tabella seguente sono elencate le principali Power BI disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedere Power BI [prezzi.](https://powerbi.microsoft.com/pricing/)
 
 | Funzionalità | Power BI Pro | Power BI Premium per utente | Power BI Premium per capacità |
 |---------|--------------|---------------------------|-------------------------------|
@@ -57,7 +57,7 @@ Nella tabella seguente sono elencate le principali Power BI disponibili tra i pi
 | **Governance e amministrazione** | | | |
 | Sicurezza e crittografia dei dati | Sì | Sì | Sì |
 | Metriche per la creazione, l'utilizzo e la pubblicazione del contenuto | Sì | Sì | Sì |
-| Gestione del ciclo di vita delle applicazioni | No | No | Sì |
+| Pipeline di distribuzione per la gestione del ciclo di vita delle applicazioni | No | No | Sì |
 | Gestione della distribuzione multi-geografica | No | No | Sì |
 | Porta la tua chiave (BYOK) | No | No | Sì |
 | Disponibilità del componente aggiuntivo di ridimensionamento automatico (anteprima) | No | No | Sì |
@@ -65,7 +65,7 @@ Nella tabella seguente sono elencate le principali Power BI disponibili tra i pi
 
 *Potrebbe essere necessaria una licenza aggiuntiva per incorporare applicazioni o contesti. Per ulteriori informazioni, vedere [Analisi incorporata con Power BI](/power-bi/developer/embedded/embedding).
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per informazioni tecniche su Power BI, vedere le risorse seguenti:
 
@@ -77,12 +77,12 @@ Per informazioni tecniche su Power BI, vedere le risorse seguenti:
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/). 
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/). 
 
 ### <a name="messaging"></a>Messaggistica
 
-Per tenere traccia delle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+Per tenere traccia delle modifiche imminenti, comprese le funzionalità nuove e modificate, la manutenzione pianificata o altri annunci importanti, visita il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
