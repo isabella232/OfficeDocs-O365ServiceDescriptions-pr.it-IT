@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori Microsoft possono visualizzare lo stato dei servizi e scoprire quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo.
-ms.openlocfilehash: ec8e03d31a300755ab741723b81651d6d6969b37
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: 2d48b04dc59567c18d8f8326b23d60499321791b
+ms.sourcegitcommit: ef3ef6370ae5b118f7100bf83894634d02ce6e23
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074497"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53679693"
 ---
 # <a name="service-health-and-continuity"></a>Integrità dei servizi e continuità
 
@@ -36,8 +36,8 @@ Un incidente di servizio è un evento che influisce sulla fornitura di un serviz
   
 Esistono due tipi di notifiche sui casi in cui i servizi potrebbero non essere disponibili:
   
-- **Eventi di manutenzione pianificata:** La manutenzione pianificata è un normale aggiornamento dei servizi avviato da Microsoft per l'infrastruttura e le applicazioni software. Le notifiche di manutenzione pianificata informano i clienti sulle attività di servizio che potrebbero influire sulla funzionalità di un servizio Microsoft. I clienti vengono avvisati non più di cinque giorni prima di tutta la manutenzione pianificata tramite il Centro messaggi nell'Microsoft 365 di amministrazione. Microsoft pianifica in genere la manutenzione per gli orari in cui l'utilizzo del servizio è storicamente ai minimi in base ai fusi orari regionali. 
-    
+- **Eventi di manutenzione pianificata:** La manutenzione pianificata è un normale aggiornamento dei servizi avviato da Microsoft per l'infrastruttura e le applicazioni software. Le notifiche di manutenzione pianificata informano i clienti sulle attività di servizio che potrebbero influire sulla funzionalità di un servizio Microsoft. I clienti vengono avvisati non più di cinque giorni prima di tutta la manutenzione pianificata tramite il Centro messaggi interfaccia di amministrazione di Microsoft 365. Microsoft pianifica in genere la manutenzione per gli orari in cui l'utilizzo del servizio è storicamente ai minimi in base ai fusi orari regionali. 
+
 - **Tempo di inattività non pianificato:** Gli incidenti di servizio non pianificati si verificano quando uno dei servizi non è disponibile o non risponde. 
 
 ### <a name="recent-worldwide-uptimes"></a>Tempi di attività recenti a livello mondiale
@@ -48,7 +48,7 @@ Passare a un servizio cloud non significa perdere la capacità di sapere cosa st
 
 | D1 | Q2 | D3 | D4 |
 |:-----|:-----|:-----|:-----|
-| 99.97% <br/> | | | |
+| 99.97%  | 99.98% | | |
 
 <br>
 
@@ -56,7 +56,7 @@ Passare a un servizio cloud non significa perdere la capacità di sapere cosa st
 
 | D1 | Q2 | D3 | D4 |
 |:-----|:-----|:-----|:-----|
-| 99.98% <br/> | 99.99%<br/> | 99.97%<br/> | 99.97%<br/> |
+| 99.98% | 99.99% | 99.97% | 99.97% |
 
 <br>
 
@@ -64,7 +64,7 @@ Passare a un servizio cloud non significa perdere la capacità di sapere cosa st
 
 | D1 | Q2 | D3 | D4 |
 |:-----|:-----|:-----|:-----|
-| 99.97% <br/> | 99.97% <br/> | 99.98% <br/> | 99.98% <br/> |
+| 99.97% | 99.97% | 99.98% | 99.98% |
 
 <br>
 
@@ -72,7 +72,7 @@ Passare a un servizio cloud non significa perdere la capacità di sapere cosa st
 
 | D1 | Q2 | D3 | D4 |
 |:-----|:-----|:-----|:-----|
-| 99.99% <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
+| 99.99% | 99.98% | 99.97% | 99.98% |
 
 <br>
 
@@ -80,11 +80,11 @@ Passare a un servizio cloud non significa perdere la capacità di sapere cosa st
 
 | D1 | Q2 | D3 | D4 |
 |:-----|:-----|:-----|:-----|
-| 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+| 99.99% | 99.97% | 99.98% | 99.99% |
 
 ## <a name="notification-policy"></a>Criteri di notifica
 
-Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft invia una notifica agli amministratori aggiornando il dashboard di integrità del servizio specifico del tenant nell'Microsoft 365 di amministrazione. Gli aggiornamenti degli eventi imprevisti del servizio vengono forniti a cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel distacco di comunicazione SHD. 
+Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft invia una notifica agli amministratori aggiornando il dashboard di integrità del servizio specifico del tenant nel interfaccia di amministrazione di Microsoft 365. Gli aggiornamenti degli eventi imprevisti del servizio vengono forniti a cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel distacco di comunicazione SHD. 
   
 ## <a name="service-health-communication-channels"></a>Canali di comunicazione dell'integrità dei servizi
 
@@ -101,9 +101,9 @@ Microsoft System Center è una piattaforma di gestione integrata che consente di
 L'API Office 365 Service Communications consente di accedere alle comunicazioni di servizio nel modo desiderato. Con questa API puoi creare o connettere gli strumenti alle comunicazioni di servizio, semplificando potenzialmente il modo in cui monitori l'ambiente. L'API Service Communications consente di monitorare gli elementi seguenti nell'ambiente:
   
 - Integrità del servizio in tempo reale
-    
+
 - Comunicazioni del Centro messaggi
-    
+
 Per ulteriori informazioni, vedere la guida di riferimento [Office 365 Service Communications API](/office/office-365-management-api/office-365-service-communications-api-reference). 
   
 ## <a name="post-incident-reviews"></a>Analisi a posteriori degli incidenti
@@ -115,13 +115,13 @@ Gli incidenti di servizio non pianificati sono definiti come interruzioni del se
  Per gli incidenti di servizio non pianificati con impatto sui clienti in cui si è verificata un'ampia e notevole influenza su un numero elevato di organizzazioni, una revisione preliminare post-incidente (PIR) verrà recapitata tramite il dashboard di integrità del servizio entro 48 ore dalla risoluzione degli incidenti, seguita da un PIR finale entro cinque giorni lavorativi. Il report PIR dettagliato include: 
   
 - Impatto sul cliente e sull'esperienza utente
-    
+
 - Data e ora di inizio e fine dell'incidente
-    
+
 - Sequenza temporale dettagliata delle misure di impatto e risoluzione
-    
+
 - Analisi e misure adottate per il miglioramento continuo delle cause
-    
+
 Per tutti gli altri eventi imprevisti del servizio, il dashboard di integrità del servizio fornirà un riepilogo della chiusura degli eventi, incluso un riepilogo finale dell'evento, la causa principale preliminare, l'ora di inizio e di fine e le informazioni dettagliate sui passaggi successivi. Per questa categoria di incidente di servizio, non verrà generato un report PIR. 
   
 ## <a name="service-continuity"></a>Service continuity
@@ -135,31 +135,31 @@ Notare che dopo il recupero da interruzioni estremamente gravi, può essere nece
 Microsoft assicura che i dati dei clienti saranno sempre disponibili quando necessario, tramite le seguenti funzionalità:
   
 - **Ridondanza e archiviazione dei dati:** i dati dei clienti vengono archiviati in un ambiente ridondante, dotato di affidabili funzioni di protezione dei dati che assicurano disponibilità, continuità aziendale e velocità di ripristino. Sono stati implementati più livelli di ridondanza dei dati, dall'uso di dischi ridondanti alla protezione dagli errori locali dei dischi, fino alla replica completa e continua dei dati in un data center geograficamente distante. 
-    
+
 - **Monitoraggio dei dati:** servizi Microsoft livelli elevati di prestazioni tramite il monitoraggio: 
-    
+
   - Database
-    
+
   - Processi bloccati
-    
+
   - Perdita di pacchetti
-    
+
   - Processi in coda
-    
+
   - Latenza delle query
-    
+
 - **Interventi di manutenzione preventiva:** la manutenzione preventiva include verifiche di coerenza dei database, compressione periodica dei dati e analisi dei log degli errori. 
-    
-## <a name="support"></a>Supporto
+
+## <a name="support"></a>Supporto tecnico
 
 I team di sviluppo e operazioni Microsoft sono integrati da un'organizzazione di supporto dedicata, che svolge un ruolo importante nel fornire ai clienti la continuità aziendale. Il personale di supporto possiede una conoscenza approfondita del servizio e delle applicazioni associate, oltre a disporre di accesso diretto agli esperti Microsoft in materia di architettura, sviluppo e testing.
   
 L'organizzazione di assistenza è perfettamente allineata con lo sviluppo di prodotti e operazioni, assicura tempi di risoluzione rapidi e fornisce ai clienti un canale per esprimere le proprie opinioni. Il feedback dei clienti fornisce l'input per la pianificazione, lo sviluppo e i processi operativi.
   
-- **Gestione dei problemi online:** i clienti devono sapere che i loro problemi sono in fase di risoluzione e devono essere in grado di verificare la tempestività del processo di risoluzione. L Microsoft 365 interno di amministrazione offre una singola interfaccia basata sul Web per il supporto. I clienti possono utilizzare il portale per aggiungere e monitorare le richieste di assistenza e per ricevere feedback dai team di supporto Microsoft. 
-    
+- **Gestione dei problemi online:** i clienti devono sapere che i loro problemi sono in fase di risoluzione e devono essere in grado di verificare la tempestività del processo di risoluzione. Il interfaccia di amministrazione di Microsoft 365 fornisce una singola interfaccia basata sul Web per il supporto. I clienti possono utilizzare il portale per aggiungere e monitorare le richieste di assistenza e per ricevere feedback dai team di supporto Microsoft. 
+
 - **Supporto in autonomia, supportato dal supporto continuo del personale:** Microsoft offre un'ampia gamma di risorse e strumenti di supporto in autonomia che possono aiutare i clienti a risolvere i problemi relativi ai servizi senza richiedere supporto Microsoft. 
-    
+
 Prima di immettere una richiesta di assistenza, i clienti possono accedere ad articoli della Knowledge Base e domande frequenti che forniscono soluzioni immediate ai problemi più comuni. Tali risorse vengono continuamente aggiornate con le ultime informazioni, e questo aiuta a evitare ritardi fornendo soluzioni ai problemi noti. Se tuttavia si verifica un problema che richiede l'intervento di un tecnico, il personale è disponibile per fornire assistenza immediata per telefono e tramite il portale di amministrazione, 24 ore al giorno per 7 giorni la settimana.
   
 Per ulteriori informazioni sul supporto, vedere [l'articolo supporto.](support.md) 
