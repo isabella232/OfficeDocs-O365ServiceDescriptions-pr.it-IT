@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Gli amministratori di Microsoft possono visualizzare i report che mostrano come l'organizzazione usa servizi Microsoft. È possibile utilizzare questi report per identificare i problemi, filtrare i dati e scaricare i dati Microsoft Excel. È inoltre possibile creare report personalizzati utilizzando i Microsoft 365 web services. Exchange Online e Exchange Online Protection (EOP) possono utilizzare i report di protezione della posta per visualizzare i dati sui rilevamenti di malware, posta indesiderata e regole.
-ms.openlocfilehash: d9c4b82952882e02142d386120347f7de554b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 7dc7dcea9a7d09304f06740157213705bf8ca73dfd42d21c9353d554de0525c3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652500"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702005"
 ---
 # <a name="reports"></a>Report
 

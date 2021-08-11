@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Leggere questo articolo per informazioni sui criteri di messaggistica e sulle funzionalità di conformità in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653348"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664109"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Criteri di messaggistica e conformità in Exchange Online Protection
 
@@ -51,7 +51,7 @@ Non disponibili per gli utenti EOP autonomi. Prevenzione della perdita di dati (
 
 - I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale dei documenti consente di creare facilmente tipi di informazioni riservate personalizzati basati su moduli basati su testo che è possibile utilizzare per definire le regole del flusso di posta e i criteri DLP.
 
-- Aggiungi Suggerimenti criteri, che consente di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2013, Outlook sul Web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi.
+- Aggiungere criteri Suggerimenti, che consente di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2013, Outlook sul web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi.
 
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
 

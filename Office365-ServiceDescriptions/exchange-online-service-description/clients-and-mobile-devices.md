@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online funziona con le versioni desktop e mobili di Outlook, nonché con Outlook sul Web.
-ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Exchange Online funziona con le versioni desktop e mobili di Outlook, nonché con Outlook sul web.
+ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653118"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664049"
 ---
 # <a name="clients-and-mobile-devices"></a>Client e dispositivi mobili
 
@@ -54,9 +54,9 @@ Outlook sul Web è una versione basata sul Web del programma di posta elettronic
   
 Outlook sul Web è disponibile in due versioni client, entrambe utilizzabili con Exchange Online:
   
-- **Outlook sul Web** - La versione standard di Outlook sul Web offre agli utenti Exchange Online un'esperienza di messaggistica più simile a quella degli Outlook utenti. Supporta la maggior parte dei Web browser più recenti ed è ottimizzata per l'uso con tablet e smartphone, oltre che in computer desktop e portatili. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
+- **Outlook sul web-** La versione standard di Outlook sul web fornisce agli Exchange Online un'esperienza di messaggistica più simile a quella degli Outlook utenti. Supporta la maggior parte dei Web browser più recenti ed è ottimizzata per l'uso con tablet e smartphone, oltre che in computer desktop e portatili. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
 
-- **La versione light di Outlook** sul Web - La versione light di Outlook sul Web consente agli Exchange Online di accedere alla cassetta postale utilizzando quasi tutti i Web browser. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, la versione light di OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
+- **La versione light di Outlook sul web** - La versione light di Outlook sul web consente agli Exchange Online utenti di accedere alla cassetta postale utilizzando quasi tutti i browser Web. Gli utenti possono leggere e inviare messaggi, organizzare i contatti e pianificare appuntamenti e riunioni. Il timeout predefinito basato sull'attività è impostato su sei ore ma può essere [configurato da un amministratore in Windows PowerShell](/powershell/module/exchange/set-organizationconfig) da 5 minuti a 8 ore. Questo timeout dipende dalle interazioni dell'utente all'interno dell'app Web, ad esempio la selezione di un pulsante o la selezione di un messaggio. È presente anche un timeout separato in base alla sicurezza, non configurabile e che si verifica indipendentemente dall'attività dell'utente. Se un utente ha effettuato l'accesso da 8 ore, la versione light di OWA chiude automaticamente la sessione e chiede di effettuare nuovamente l'autenticazione. 
 
 Outlook sul Web è disponibile anche in versioni per dispositivi mobili. Per ulteriori informazioni, vedere [questa pagina](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
@@ -72,7 +72,7 @@ Exchange Online funziona con Outlook disponibili per iOS, Android e Windows Phon
 |:-----|:-----|:-----|:-----|
 |Outlook disponibilità dell'app per dispositivi mobili  <br/> |Sì  <br/> [Ottenere Outlook per Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sì  <br/> [Ottenere Outlook per iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Built-in  <br/> |
 |App di posta elettronica integrate compatibili con Exchange Online  <br/> |App Gmail/App Di posta elettronica Samsung  <br/> |App Posta iOS  <br/> |Outlook Posta, calendario, contatti  <br/> |
-|Ulteriori informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone o iPad installazione](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone configurazione](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Altre informazioni  <br/> |[Configurazione per dispositivi mobili Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone o iPad installazione](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone configurazione](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 Sono inoltre disponibili opzioni per l'Exchange Online con i dispositivi, tra cui Blackberry.
   

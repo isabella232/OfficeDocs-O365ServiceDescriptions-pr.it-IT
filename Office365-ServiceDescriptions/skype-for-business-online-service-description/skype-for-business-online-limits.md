@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: In questo articolo vengono descritti i limiti applicati in Skype for Business Online.
-ms.openlocfilehash: cd21b8b1feb3547c529c4bcdaa73832e2e48e3f8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5004a27a5111d963e9dfdf3308c2ed7865a4b9972a1d4752342d59ea873e456c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653368"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702475"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti di Skype for Business Online
 

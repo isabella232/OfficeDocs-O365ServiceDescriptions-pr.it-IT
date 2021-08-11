@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: In Yammer sono disponibili le seguenti funzionalità di rilevazione.
-ms.openlocfilehash: 263a6b7cc3fd3a9ed51e0e22ff5b311478eb8fec
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b455a653b6b2e5f275b6eb8d84e70aa32bee1cef912fbb0b2c067315cb26cf3a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653548"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702395"
 ---
 # <a name="discovery-features-in-yammer"></a>Funzionalità individuazione in Yammer
 

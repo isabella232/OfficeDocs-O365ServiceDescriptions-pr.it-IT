@@ -7,21 +7,21 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: SharePoint Syntex in Microsoft 365 usa l'intelligenza artificiale avanzata (AI) e l'insegnamento automatico per amplificare l'esperienza umana, automatizzare l'elaborazione dei contenuti e trasformare il contenuto in conoscenza.
-ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: SharePoint Syntex in Microsoft 365 utilizza l'intelligenza artificiale avanzata (AI) e l'insegnamento automatico per amplificare le competenze umane, automatizzare l'elaborazione dei contenuti e trasformare il contenuto in conoscenza.
+ms.openlocfilehash: 79d145aa9efac09db8b6982ff8a11cf0282c1b66301b170b31cd3680c431af3b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653398"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702484"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Descrizione del servizio SharePoint Syntex 
 
-SharePoint Syntex in Microsoft 365 usa l'intelligenza artificiale avanzata (AI) e l'insegnamento automatico per amplificare l'esperienza umana, automatizzare l'elaborazione dei contenuti e trasformare il contenuto in conoscenza.
+SharePoint Syntex in Microsoft 365 utilizza l'intelligenza artificiale avanzata (AI) e l'insegnamento automatico per amplificare le competenze umane, automatizzare l'elaborazione dei contenuti e trasformare il contenuto in conoscenza.
 
 Syntex si basa su SharePoint per fornire funzionalità avanzate per l'elaborazione di contenuti di alto volume, l'estrazione di metadati per l'automazione dei processi e il miglioramento della sicurezza e della conformità. E si basa sull'intelligenza di Microsoft Search, con collegamenti a [Microsoft Graph connettori](/microsoftsearch/connectors-overview).
 
-Per una panoramica dettagliata e ulteriori dettagli sul prodotto, vedi la pagina SharePoint [prodotto Syntex.](https://aka.ms/sharepointsyntex)
+Per una panoramica dettagliata e ulteriori dettagli sul prodotto, vedi la pagina [SharePoint Syntex prodotto.](https://aka.ms/sharepointsyntex)
 
 ## <a name="available-plans"></a>Piani disponibili
 
@@ -50,7 +50,7 @@ La tabella seguente mostra i piani a cui è possibile aggiungere Syntex. Per ult
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Nella tabella seguente sono elencate le principali funzionalità syntex disponibili nei piani. Si applicano alcune avvertenze. Questa tabella può cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedi la pagina SharePoint piani e prezzi di [Syntex.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
+Nella tabella seguente sono elencate le principali funzionalità syntex disponibili nei piani. Si applicano alcune avvertenze. La tabella è soggetta a modifica senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedi la pagina SharePoint Syntex piani e [prezzi.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
 
 | Funzionalità | Piani per piccole imprese | Enterprise piani | Piani didattici |
 |--|--|--|--|
@@ -65,22 +65,22 @@ Nella tabella seguente sono elencate le principali funzionalità syntex disponib
 
 Per ulteriori informazioni su Syntex, vedere le risorse seguenti:
 
-  - Per iniziare a pianificare la distribuzione di Syntex, visitare la [pagina SharePoint Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) nel Microsoft Tech Community Resource Center.
+  - Per iniziare a pianificare la distribuzione di Syntex, visitare la [pagina SharePoint Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) nel Centro risorse di Microsoft Tech Community.
 
-  - Per ulteriori informazioni su Syntex e su come usarlo, vedere la documentazione del [SharePoint syntex.](/microsoft-365/contentunderstanding/)
+  - Per ulteriori informazioni su Syntex e su come usarlo, vedere la documentazione [SharePoint Syntex prodotto.](/microsoft-365/contentunderstanding/)
 
   - Per rimanere aggiornati sulle funzionalità e sulle funzionalità di Syntex, visita il nostro [blog Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2084915)
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
-Syntex è disponibile come componente aggiuntivo basato sull'utente per Microsoft 365 piani. Per iscriversi per una versione di valutazione gratuita o per acquistare Syntex, visitare la pagina SharePoint [prodotto Syntex.](https://aka.ms/sharepointsyntex)
+Syntex è disponibile come componente aggiuntivo basato sull'utente per Microsoft 365 piani. Per iscriversi per una versione di valutazione gratuita o per acquistare Syntex, visitare la pagina [SharePoint Syntex prodotto.](https://aka.ms/sharepointsyntex)
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Messaggistica
 
-Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il [Centro messaggi.](https://go.microsoft.com/fwlink/p/?linkid=2070717) Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il [Centro messaggi.](https://go.microsoft.com/fwlink/p/?linkid=2070717) Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

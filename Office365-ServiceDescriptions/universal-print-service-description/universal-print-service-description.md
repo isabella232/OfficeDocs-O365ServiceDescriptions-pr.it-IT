@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Universal Print, un Microsoft 365 di stampa cloud, elimina la necessità di server di stampa locali.
-ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653608"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702435"
 ---
 # <a name="universal-print-service-description"></a>Descrizione del servizio Stampa universale
 
@@ -56,7 +56,7 @@ Per ulteriori informazioni su Universal Print, vedere le risorse seguenti:
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/). 
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/). 
 
 ### <a name="service-updates"></a>Aggiornamenti dei servizi
 
@@ -64,4 +64,4 @@ Per tenere traccia delle modifiche imminenti, incluse funzionalità nuove e modi
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 gestito da 21Vianet è pensato per soddisfare le esigenze di servizi cloud sicuri, affidabili e scalabili in Cina. Il servizio è dotato di una tecnologia che Microsoft ha concesso in licenza a 21Vianet.
-ms.openlocfilehash: 78d6b6a448c1602bad52739aafa26512d5a90816
-ms.sourcegitcommit: 74fda292066b57169e19c846f0a315221f1a8334
+ms.openlocfilehash: 4d3f9ff8f649a748668c3f3156166cb913612acd6a72811a9870604de4d560d2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53590130"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701641"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 gestito da 21Vianet
 

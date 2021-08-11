@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, nonché un confronto delle funzionalità di tali piani.
-ms.openlocfilehash: fbfbe39931e6037b358bb76c124937904a408783
-ms.sourcegitcommit: 427dbb27426a12e8c5dba7d8b4cbaf2bedb3aaba
+ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53222483"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664229"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
@@ -64,7 +64,7 @@ Per i limiti in EOP, vedere [Exchange Online Protection limiti](exchange-online-
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Nella tabella seguente sono elencate le principali Exchange Online Protection disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella può cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedere [Potenti strumenti per supportare l'azienda.](https://products.office.com/business/compare-more-office-365-for-business-plans)
+Nella tabella seguente sono elencate le principali Exchange Online Protection disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedere [Potenti strumenti per supportare l'azienda.](https://products.office.com/business/compare-more-office-365-for-business-plans)
 
 | Funzionalità | EOP autonomo | EOP in edizione Enterprise CAL w/ Services | Funzionalità di EOP in Exchange Online |
 |:-----|:-----|:-----|:-----|
@@ -78,7 +78,7 @@ Nella tabella seguente sono elencate le principali Exchange Online Protection di
 |Eliminazione automatica a zero ore (ZAP) per i messaggi di malware, posta indesiderata e phishing recapitati<sup>10</sup>|No|No|Sì|
 |Preimpostare i criteri di sicurezza.|Sì|Sì|Sì|
 |Analizzatore della configurazione per i criteri di protezione|Sì|Sì|Sì|
-|Elenco tenant consentiti/bloccati|Sì|Sì|Sì|
+|Elenco di tenant consentiti/bloccati|Sì|Sì|Sì|
 |Elenchi di indirizzi bloccati per i mittenti dei messaggi|Sì|Sì|Sì|
 |Consenti elenchi per i mittenti dei messaggi|Sì|Sì|Sì|
 |Blocco edge|Sì|Sì|Sì|
@@ -131,7 +131,7 @@ Nella tabella seguente sono elencate le principali Exchange Online Protection di
 <sup>9</sup> È possibile acquistare Azure Information Protection come sottoscrizione di componente aggiuntivo e usare OME se si configura l'ambiente di posta elettronica locale per instradare la posta elettronica da e verso Internet tramite EOP. <br/>
 <sup>10</sup> Questa funzionalità richiede Exchange Online cassette postali. <br/>
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Altre informazioni
 
 Per informazioni tecniche su Exchange Online Protection, vedere le risorse seguenti:
 
@@ -139,12 +139,12 @@ La [Microsoft 365 roadmap è](https://office.microsoft.com/products/office-365-r
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Messaggistica
 
-Per tenere traccia delle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+Per tenere traccia delle modifiche imminenti, comprese le funzionalità nuove e modificate, la manutenzione pianificata o altri annunci importanti, visita il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

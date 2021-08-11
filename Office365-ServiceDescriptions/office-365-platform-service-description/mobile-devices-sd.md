@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Molti telefoni cellulari, tablet e altri dispositivi mobili possono essere usati con Microsoft Office 365.
-ms.openlocfilehash: 7286e4d639daaf3cd3960583474a0885f4967713
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d64fae3d2cbbe2cf7129c725df2bf87b2e4465ab49d3e74d700bc92e903b4d9
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653228"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663069"
 ---
 # <a name="mobile-devices-service-description"></a>Descrizione del servizio dispositivi mobili
 

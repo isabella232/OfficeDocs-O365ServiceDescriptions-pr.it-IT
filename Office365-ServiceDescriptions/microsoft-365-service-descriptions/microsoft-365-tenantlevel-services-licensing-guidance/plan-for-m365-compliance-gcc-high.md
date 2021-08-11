@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Queste indicazioni sono per i professionisti IT che guidano le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o in altre entità che gestiscono dati soggetti a normative e requisiti governativi, in cui l'uso di Microsoft 365 Government – GCC High è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: 357cf30350ff2a3b21d7d9326e91c2c01d119b21
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: ba60ebf026ed3985ead28abba1c426bd8de53e7ba1acf51501b63c1d4c6d1d27
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001912"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663289"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Pianificare la conformità Microsoft 365- GCC alta
 
@@ -96,21 +96,21 @@ Per soddisfare i requisiti dei clienti del cloud per enti pubblici, esistono alc
 | | Governance delle informazioni: criteri di conservazione per Teams canali condivisi | Backlog di progettazione |
 | | Governance delle informazioni: criteri di conservazione con classificatori addestrabili | In fase di sviluppo |
 | | Governance delle informazioni: criteri di conservazione per Yammer | Backlog di progettazione |
-| Gestione dei record | Possibilità di eliminare un'etichetta di record | In fase di sviluppo |
-| Gestione dei record | Applicare manualmente un'etichetta di record | Disponibile |
-| Gestione dei record | Applicare etichette di record predefinite SharePoint, OneDrive for Business raccolte, cartelle e set di documenti; e Office 365 gruppi | Disponibile |
-| Gestione dei record | Applicare i criteri di record automaticamente in base a condizioni specifiche (ad esempio, parole chiave o informazioni riservate); e in base a un evento | Disponibile |
+| Gestione record | Possibilità di eliminare un'etichetta di record | In fase di sviluppo |
+| Gestione record | Applicare manualmente un'etichetta di record | Disponibile |
+| Gestione record | Applicare etichette di record predefinite SharePoint, OneDrive for Business raccolte, cartelle e set di documenti; e Office 365 gruppi | Disponibile |
+| Gestione record | Applicare i criteri di record automaticamente in base a condizioni specifiche (ad esempio, parole chiave o informazioni riservate); e in base a un evento | Disponibile |
 | Gestione record | Applicare automaticamente i criteri di record con classificatori addestrabili | In fase di sviluppo |
-| Gestione dei record | Revisione per l'eliminazione | Disponibile |
+| Gestione record | Revisione per l'eliminazione | Disponibile |
 | Gestione dei record | Gestione del piano di archiviazione | Disponibile |
-| Gestione dei record | Revisione dell'eliminazione in più fasi | Backlog di progettazione |
-| Gestione dei record | Prova di eliminazione | Disponibile |
-| Gestione dei record | Power Automate Flow al termine del periodo di conservazione | Backlog di progettazione |
-| Gestione dei record | Conservazione e etichettatura automatica degli allegati cloud | Backlog di progettazione |
-| Gestione dei record | Controllo delle versioni dei record | Disponibile |
-| Gestione dei record | Record normativi | Disponibile |
-| Gestione dei record | Utilizzare SharePoint classificazione Syntex per applicare etichette di record | Backlog di progettazione |
-| **Gestione dei rischi insider** | Customer Lockbox | Disponibile |
+| Gestione record | Revisione dell'eliminazione in più fasi | Backlog di progettazione |
+| Gestione record | Prova di eliminazione | Disponibile |
+| Gestione record | Power Automate Flow al termine del periodo di conservazione | Backlog di progettazione |
+| Gestione record | Conservazione e etichettatura automatica degli allegati cloud | Backlog di progettazione |
+| Gestione record | Controllo delle versioni dei record | Disponibile |
+| Gestione record | Record normativi | Disponibile |
+| Gestione record | Utilizzare SharePoint Syntex classificazione per applicare etichette di record | Backlog di progettazione |
+| **Gestione dei rischi Insider** | Customer Lockbox | Disponibile |
 | Conformità delle comunicazioni | Possibilità di ignorare la firma di posta elettronica o la dichiarazione di non responsabilità | In fase di sviluppo |
 | Conformità delle comunicazioni | Possibilità di impostare un periodo di conservazione per un criterio di conformità delle comunicazioni | In fase di sviluppo |
 | Conformità delle comunicazioni | Avvisi di accesso; modelli di avviso; dashboard dei criteri di comunicazione | Disponibile |

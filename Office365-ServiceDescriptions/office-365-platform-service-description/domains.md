@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica e altri servizi nel nome dell'azienda. Al termine della procedura guidata, la posta elettronica aziendale inizia a essere inviata a Microsoft anziché al provider di posta elettronica corrente. Per ulteriori informazioni, vedere Aggiungere utenti e domini a Microsoft. Se si utilizza Office 365 gestito da 21Vianet, vedere Verificare il dominio.
-ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652570"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662989"
 ---
 # <a name="domains"></a>Domini
 
@@ -43,7 +43,7 @@ Se il dominio è registrato in GoDaddy, Microsoft può creare automaticamente i 
   
 Indipendentemente da dove sono ospitati i record DNS, è possibile configurare i record DNS per l'utilizzo del dominio per l'URL di un sito Web pubblico ospitato in Microsoft o con un provider di hosting diverso. 
   
-Microsoft controlla in modo proattivo i record DNS per individuare e risolvere i problemi DNS. Se i record DNS non corrispondono a quello previsto, si riceverà una notifica nell'interfaccia di amministrazione di Microsoft 365, insieme alle informazioni che spiegano come risolvere i possibili problemi identificati.
+Microsoft controlla in modo proattivo i record DNS per individuare e risolvere i problemi DNS. Se i record DNS non corrispondono a quanto previsto, si riceverà una notifica nel interfaccia di amministrazione di Microsoft 365, insieme alle informazioni che spiegano come risolvere i possibili problemi identificati.
   
 Per ulteriori informazioni, vedere How [Microsoft manages DNS records](/office365/admin/setup/domains-faq) or, for Office 365 operated by 21Vianet, see Create DNS records for Office 365 when you manage your DNS [records](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre un'ampia gamma di funzionalità di creazione di report sia all'Exchange admin center (EAC).
-ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fb6af583f9bb51954b57a92d907ab19a935f5f3c6ab9be196f7ca56240189571
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652690"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663659"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di creazione dei report e strumenti di risoluzione problemi
 
@@ -25,19 +25,19 @@ Microsoft Exchange Online offre un'ampia gamma di funzionalità di creazione di 
   
 ## <a name="reporting-features"></a>Funzionalità di creazione di report
 
-Exchange Online i clienti possono accedere ai report nell'interfaccia di amministrazione di Microsoft 365, scaricando una cartella Excel di report o utilizzando i servizi Web.
+Exchange Online i clienti possono accedere ai report nell'interfaccia di amministrazione di Microsoft 365, scaricando una cartella Excel di report oppure utilizzando i servizi Web.
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Creazione di report nell'Microsoft 365 di amministrazione
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Creazione di report nel interfaccia di amministrazione di Microsoft 365
 
-Nella pagina Report dell'interfaccia di amministrazione di Microsoft 365 sono disponibili report di riepilogo sulle cassette postali e sui gruppi. Ad esempio, un rapporto indica il numero di gruppi creati ed eliminati al giorno, alla settimana, al mese e all'anno. Sono disponibili anche dei rapporti sintetici per le cassette postali nuove ed eliminate e per le cassette postali attive e inattive. 
+Nella pagina Report della pagina Report sono disponibili interfaccia di amministrazione di Microsoft 365 informazioni di riepilogo sulle cassette postali e sui gruppi. Ad esempio, un rapporto indica il numero di gruppi creati ed eliminati al giorno, alla settimana, al mese e all'anno. Sono disponibili anche dei rapporti sintetici per le cassette postali nuove ed eliminate e per le cassette postali attive e inattive. 
   
-Inoltre, la pagina Report nell'interfaccia di amministrazione di Microsoft 365 contiene report sui dati di messaggistica, che forniscono informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole di trasporto di Exchange o dai criteri di prevenzione della perdita dei dati (DLP). I report migliorati per la protezione, le regole e DLP offrono un'esperienza di report interattiva agli amministratori di Exchange Online. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
+Inoltre, la pagina Report del interfaccia di amministrazione di Microsoft 365 contiene report sui dati di messaggistica, che forniscono informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole di trasporto di Exchange o dai criteri di prevenzione della perdita dei dati (DLP). I report migliorati per la protezione, le regole e DLP offrono un'esperienza di report interattiva agli amministratori di Exchange Online. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
   
-Per ulteriori informazioni sui report disponibili con ogni sottoscrizione, vedere [Reports](../office-365-platform-service-description/reports.md). Per informazioni più dettagliate sulla pagina Report nell'interfaccia di amministrazione di Microsoft 365, vedere View [and download reports about service usage in Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Use mail protection reports to view data about [malware, spam, and rule detections.](/exchange/monitoring/use-mail-protection-reports)
+Per ulteriori informazioni sui report disponibili con ogni sottoscrizione, vedere [Reports](../office-365-platform-service-description/reports.md). Per informazioni più dettagliate sulla pagina Report del interfaccia di amministrazione di Microsoft 365, vedere View [and download reports about service usage in Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Use mail protection reports to view data about [malware, spam, and rule detections.](/exchange/monitoring/use-mail-protection-reports)
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Reporting con la relativa cartella di lavoro Excel
 
-È anche possibile utilizzare la cartella di lavoro Excel 2013 per visualizzare rapporti di riepilogo con funzionalità di drill-down. Tuttavia, ti consigliamo di usare i report dell'interfaccia Microsoft 365'interfaccia di amministrazione avanzata. La cartella di lavoro per la creazione dei report di Excel 2013 diventerà obsoleta. Per una panoramica sulla cartella di lavoro e per i collegamenti per scaricarla e installarla, vedere la seguente [pagina di download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Per informazioni su come utilizzare la cartella di lavoro, vedere [Rapporti sulla protezione della posta utilizzando la cartella di lavoro per reporting di Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
+È anche possibile utilizzare la cartella di lavoro Excel 2013 per visualizzare rapporti di riepilogo con funzionalità di drill-down. Tuttavia, ti consigliamo di usare i report interfaccia di amministrazione di Microsoft 365 avanzato. La cartella di lavoro per la creazione dei report di Excel 2013 diventerà obsoleta. Per una panoramica sulla cartella di lavoro e per i collegamenti per scaricarla e installarla, vedere la seguente [pagina di download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Per informazioni su come utilizzare la cartella di lavoro, vedere [Rapporti sulla protezione della posta utilizzando la cartella di lavoro per reporting di Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
   
 ### <a name="reporting-using-web-services"></a>Reporting using web services
 

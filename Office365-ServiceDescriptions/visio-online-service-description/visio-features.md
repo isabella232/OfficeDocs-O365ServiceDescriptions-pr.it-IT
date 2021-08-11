@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio per il Web estende l'esperienza Visio Microsoft al browser, in cui è possibile creare e modificare diagrammi salvati nel cloud. Microsoft 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio.
-ms.openlocfilehash: 329909219647b4edc61495fd7deb70945d184af7
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53096343"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702235"
 ---
 # <a name="visio-features"></a>Visio Funzionalità
 
@@ -65,7 +65,7 @@ In Visio per il Web, è possibile cercare ogni occorrenza di una parola, un nume
 
 In Visio web è possibile accedere direttamente ai collegamenti ipertestuali selezionando la forma.
 
-## <a name="navigation"></a>Navigazione
+## <a name="navigation"></a>Spostamento
 
 In Visio per il Web, è possibile passare ad altre pagine selezionando le schede in basso a sinistra.
 
@@ -77,7 +77,7 @@ Office componenti aggiuntivi sono disponibili in Visio per desktop, ma non ancor
 
 Non disponibile in Visio per il Web. Office per il web richiede una connessione Internet e un browser Internet. È necessario che l'app desktop Visio sia installata sul computer per visualizzare e modificare un diagramma non collegato a Internet o al server Office Web Apps locale dell'organizzazione. Se l'applicazione desktop Visio è installata, è possibile utilizzare le funzionalità complete di Visio per visualizzare e modificare il diagramma offline. Quando viene salvato, il diagramma online viene aggiornato con le modifiche. È anche possibile scaricare e salvare con nome una copia non in linea del diagramma ma non verrà sincronizzato con la versione online. Per ulteriori informazioni su Office Web Apps Server, [vedere Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
 
-## <a name="print-to-pdf"></a>Print to PDF
+## <a name="print-to-pdf"></a>stampare su PDF
 
 È possibile stampare in formato PDF o stampanti con Visio per il Web.
 

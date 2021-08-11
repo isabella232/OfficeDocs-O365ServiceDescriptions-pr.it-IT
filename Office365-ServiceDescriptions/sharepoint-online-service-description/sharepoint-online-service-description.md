@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vedere quali SharePoint disponibili in quali piani.
-ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204853"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702585"
 ---
 # <a name="sharepoint-service-description"></a>Descrizione del servizio SharePoint
 
@@ -110,7 +110,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - [Governance del sito](/sharepoint/governance-overview) 
 - [Archivio termini - metadati gestiti](/sharepoint/managed-metadata)
 
-Per informazioni sulla disponibilità dei servizi di migrazione FastTrack, fare riferimento ai [piani e ai servizi idonei.](/fasttrack/m365-eligible-services-and-plans) 
+Per info sulla disponibilità dei servizi di FastTrack migrazione, fai riferimento a Servizi e piani [idonei.](/fasttrack/m365-eligible-services-and-plans) 
 
 Per info sulle funzionalità correlate alla condivisione, vedi la [descrizione OneDrive servizio.](../onedrive-for-business-service-description.md)
 
@@ -170,7 +170,7 @@ Se non diversamente specificato, le funzionalità seguenti sono disponibili in t
 - [Notizie dell'organizzazione](/sharepoint/organization-news-site)
 - [Approvazione pagina](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
 - [Pagine](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
-- Gestione dei record
+- Gestione record
 - [Cestino](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint app per dispositivi mobili](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [SharePoint iniziale](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)

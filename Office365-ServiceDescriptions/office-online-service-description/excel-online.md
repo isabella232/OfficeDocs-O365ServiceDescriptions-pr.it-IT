@@ -13,25 +13,25 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, dove è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente Office file utilizzando Office per il Web.
-ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+description: Excel per il web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente Office file utilizzando Office per il web.
+ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699072"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702015"
 ---
 # <a name="excel-for-the-web"></a>Excel per il Web
 
-Excel per il Web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, dove è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente Office file utilizzando Office per il Web.
+Excel per il web (in precedenza Excel Web App) estende l'esperienza di Microsoft Excel al Web browser, in cui è possibile utilizzare le cartelle di lavoro direttamente nel sito Web in cui è archiviata la cartella di lavoro. Tutti i clienti possono visualizzare e modificare leggermente Office file utilizzando Office per il web.
   
 > [!NOTE]
-> Le cartelle di lavoro che superano i 50 MEGABYTE (MB) non possono essere visualizzate Excel per il Web dall'Microsoft SharePoint Online. Per visualizzare i file di maggiori dimensioni, è necessario che sul computer sia installata l'app desktop Excel. 
+> Le cartelle di lavoro che superano i 50 megabyte (MB) non possono essere visualizzate Excel per il web dall'Microsoft SharePoint Online. Per visualizzare i file di maggiori dimensioni, è necessario che sul computer sia installata l'app desktop Excel. 
 
 > [!NOTE]
-> Per confrontare le offerte, le funzionalità avanzate elencate in questo articolo includono funzionalità delle app desktop Excel disponibili solo nella famiglia di prodotti Office (ad esempio Office Professional Plus, Office Standard o Microsoft 365 Apps for enterprise). Per un elenco di tutte le Office per le funzionalità Web, ad esempio Word per il Web e PowerPoint per il Web, vedere [Feature availability across Office for the web plans](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Per confrontare le offerte, le funzionalità avanzate elencate in questo articolo includono funzionalità delle app desktop Excel disponibili solo nella famiglia di prodotti Office (ad esempio Office Professional Plus, Office Standard o Microsoft 365 Apps for enterprise). Per un elenco di tutte le Office per il web, ad esempio Word per il web e PowerPoint per il web, vedere [Feature availability across Office per il web plans](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
-Per sapere quali tipi di file sono supportati Excel per il Web, vedere Tipi di file supportati Office [per il Web.](office-online-service-description.md#supported-file-types-for-office-for-the-web) Per ulteriori informazioni sulle differenze tra Excel per il Web e l'app desktop Excel, vedere Differenze tra l'utilizzo di una cartella di lavoro nel browser e [in Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
+Per sapere quali tipi di file sono supportati da Excel per il web, vedere [Tipi di file supportati per Office per il web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Per ulteriori informazioni sulle differenze tra Excel per il web e l'app desktop Excel, vedere Differenze tra l'utilizzo di una cartella di lavoro nel browser e [in Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Aggiungere il colore di sfondo alle schede dei fogli 
 
@@ -55,19 +55,19 @@ Utilizzare i pulsanti di Allineamento nella scheda Home per modificare l'allinea
   
 ## <a name="apply-conditional-formatting"></a>Applicazione della formattazione condizionale
 
-Usa un formato condizionale per esplorare e analizzare visivamente i dati, rilevare problemi critici e identificare modelli e tendenze. Ulteriori informazioni su come usare [la formattazione condizionale in Excel per il Web.](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?)
+Usa un formato condizionale per esplorare e analizzare visivamente i dati, rilevare problemi critici e identificare modelli e tendenze. Altre informazioni su come usare [la formattazione condizionale in Excel per il web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
-Questa funzionalità è disponibile in Excel per il Web. Altre funzionalità avanzate sono disponibili solo nell Excel app desktop.
+Questa funzionalità è disponibile in Excel per il web. Altre funzionalità avanzate sono disponibili solo nell Excel app desktop.
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-Non disponibile in Excel per il Web. Nell'app Excel desktop, i grafici consigliati ti consentono di scegliere tra un'ampia gamma di grafici più adatta per la presentazione dei dati. Altre informazioni su [come usare i suggerimenti per i grafici in Excel.](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)
+Non disponibile in Excel per il web. Nell'app Excel desktop, i grafici consigliati ti consentono di scegliere tra un'ampia gamma di grafici più adatta per la presentazione dei dati. Altre informazioni su [come usare i suggerimenti per i grafici in Excel.](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)
   
 ## <a name="autocomplete"></a>Completamento automatico
 
-Excel per il Web può completare ciò che si sta digitando in una cella e, se è presente più di un valore possibile, visualizzarli tutti in un elenco da cui è possibile scegliere.
+Excel per il web possibile completare ciò che si sta digitando in una cella e, se è presente più di un valore possibile, visualizzarli tutti in un elenco da cui è possibile scegliere.
   
 ## <a name="autosum"></a>Somma automatica
 
@@ -94,7 +94,7 @@ Per controllare l'ortografia di qualsiasi testo nel foglio di lavoro, selezionar
 
 ## <a name="comment-creation"></a>Comment creation
 
-È possibile inserire, modificare ed eliminare commenti Excel per il Web. È anche possibile risolvere un thread di commento, che lo chiude per le modifiche e i nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. [Usa @mentions nei commenti per](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) inviare messaggi di posta elettronica alla persona menzionata. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+È possibile inserire, modificare ed eliminare commenti in Excel per il web. È anche possibile risolvere un thread di commento, che lo chiude per le modifiche e i nuovi commenti, ma lo lascia sul posto. In questo modo è possibile riaprire il thread ai commenti, se necessario. [Usa @mentions nei commenti per](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) inviare messaggi di posta elettronica alla persona menzionata. Ulteriori informazioni sull'[aggiunta di un commento in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertire una tabella in un intervallo
 
@@ -102,11 +102,11 @@ Dopo aver creato una Excel tabella, è possibile che si desideri solo lo stile d
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-È possibile tagliare, copiare e incollare testo, collegamenti ipertestuali, numeri, formule, forme, grafici e immagini. Se sono presenti dati in colonne che è necessario ruotare per riorganizzare le righe, utilizzare la funzionalità **Trasponi** del menu **Incolla.** Ulteriori informazioni su [copia e incolla in Excel per il Web.](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline) Usando Edge o Chrome come browser, puoi copiare collegamenti ipertestuali da altre app e incollarli Excel per il Web. I collegamenti ipertestuali incollati funzioneranno normalmente.
+È possibile tagliare, copiare e incollare testo, collegamenti ipertestuali, numeri, formule, forme, grafici e immagini. Se sono presenti dati in colonne che è necessario ruotare per riorganizzare le righe, utilizzare la funzionalità **Trasponi** del menu **Incolla.** Ulteriori informazioni su [copia e incolla in Excel per il web.](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline) Usando Edge o Chrome come browser, puoi copiare collegamenti ipertestuali da altre app e incollarli in Excel per il web. I collegamenti ipertestuali incollati funzioneranno normalmente.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-È possibile utilizzare Excel per il Web per visualizzare le connessioni dati, ma non è possibile creare connessioni dati esterne utilizzando Excel per il Web. Avrai bisogno dell'Excel desktop per usare i dati esterni.
+È possibile utilizzare Excel per il web per visualizzare le connessioni dati, ma non è possibile creare connessioni dati esterne utilizzando Excel per il web. Avrai bisogno dell'Excel desktop per usare i dati esterni.
   
 ## <a name="create-tables"></a>Creazione di tabelle
 
@@ -114,7 +114,7 @@ Creare una tabella per organizzare e analizzare i dati correlati. Le tabelle fac
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Creazione di visualizzazioni di analisi avanzate (Power View, Power Pivot, Filtri dei dati)
 
-Le visualizzazioni di analisi avanzate, quali Power Pivot e Power View, sono disponibili solo nell'app desktop Excel. Queste funzionalità non sono supportate in Excel per il Web. Ulteriori informazioni su [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671).
+Le visualizzazioni di analisi avanzate, quali Power Pivot e Power View, sono disponibili solo nell'app desktop Excel. Queste funzionalità non sono supportate in Excel per il web. Ulteriori informazioni su [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671).
   
 ## <a name="data-validation"></a>Convalida dati
 
@@ -122,7 +122,7 @@ Le visualizzazioni di analisi avanzate, quali Power Pivot e Power View, sono dis
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
-È possibile spostare il valore della cella Excel per il Web trascinando e rilasciando le celle da una posizione all'altra.
+Puoi spostare il valore della cella in Excel per il web trascinando le celle da un punto all'altro.
 
 ## <a name="draw-cell-borders"></a>Disegnare i bordi delle celle
 
@@ -134,7 +134,7 @@ Dropbox è un servizio di hosting dei file che offre l'archiviazione sul cloud, 
   
 ## <a name="duplicate-copy-worksheets"></a>Fogli di lavoro duplicati (copia)
 
-È possibile duplicare (o copiare) fogli di lavoro all'interno di una cartella di lavoro o in un'altra cartella di lavoro Excel per il Web. Ulteriori informazioni sulla [copia di fogli di lavoro in Excel per il Web.](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web)
+È possibile duplicare (o copiare) fogli di lavoro all'interno di una cartella di lavoro o in un'altra cartella di lavoro Excel per il web. Ulteriori informazioni sulla [copia di fogli di lavoro in Excel per il web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Incorporare una cartella di lavoro nel Web o nella pagina di blog (OneDrive)
 
@@ -142,7 +142,7 @@ Se si archivia una cartella di lavoro OneDrive.com, è possibile incorporarla di
   
 ## <a name="external-references-links"></a>Riferimenti esterni (collegamenti)
 
-Un riferimento esterno (detto anche collegamento) è un riferimento a una cella o un intervallo di un foglio di lavoro in un'altra cartella di lavoro di Excel oppure un riferimento a un nome definito in un'altra cartella di lavoro. È possibile utilizzare Excel per il Web per visualizzare i riferimenti esterni, ma non è possibile crearli utilizzando Excel per il Web. Avrai bisogno dell'app desktop Excel per creare o aggiornare i riferimenti esterni. 
+Un riferimento esterno (detto anche collegamento) è un riferimento a una cella o un intervallo di un foglio di lavoro in un'altra cartella di lavoro di Excel oppure un riferimento a un nome definito in un'altra cartella di lavoro. È possibile utilizzare Excel per il web per visualizzare i riferimenti esterni, ma non è possibile crearli utilizzando Excel per il web. Avrai bisogno dell'app desktop Excel per creare o aggiornare i riferimenti esterni. 
   
 ## <a name="fill-handle"></a>Quadratini di riempimento
 
@@ -158,15 +158,15 @@ Personalizzare i propri dati per conferirgli l'aspetto desiderato. Scegliere tra
   
 ## <a name="formula-bar"></a>Formula bar
 
-Nella barra delle formule, è possibile visualizzare le formule che hanno prodotto i risultati presenti nelle celle. È possibile aggiungere, modificare ed eliminare parti della formula nel browser proprio come si farebbe nell'app desktop Excel. Excel per il Web evidenzia gli argomenti della formula con colori che forniscono un mapping visivo tra la formula e i dati del foglio di lavoro.
+Nella barra delle formule, è possibile visualizzare le formule che hanno prodotto i risultati presenti nelle celle. È possibile aggiungere, modificare ed eliminare parti della formula nel browser proprio come si farebbe nell'app desktop Excel. Excel per il web gli argomenti della formula vengono evidenziati con colori che forniscono un mapping visivo tra la formula e i dati del foglio di lavoro.
   
 ## <a name="formula-tools-advanced"></a>Strumenti formula, avanzati
 
-Microsoft Excel'app desktop offre gli strumenti formula più avanzati, ad esempio lo stile di riferimento 3D. Excel per il Web supporta un numero crescente di formule Excel avanzate, ad esempio le [formule di matrice dinamica.](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531) Ulteriori informazioni sulle [formule](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
+Microsoft Excel'app desktop offre gli strumenti formula più avanzati, ad esempio lo stile di riferimento 3D. Excel per il web supporta un numero crescente di formule Excel avanzate, ad esempio le [formule in forma di matrice dinamica.](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531) Ulteriori informazioni sulle [formule](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
-La funzionalità blocca riquadri è disponibile nella Excel per la barra multifunzione Web. Ulteriori informazioni sul [funzionamento del blocco dei](https://go.microsoft.com/fwlink/p/?LinkId=282331) riquadri Excel e vedere i suggerimenti per Excel per il [Web.](https://go.microsoft.com/fwlink/?linkid=869873)
+La funzionalità blocca riquadri è disponibile nella barra Excel per il web barra multifunzione. Ulteriori informazioni sul [funzionamento dei riquadri](https://go.microsoft.com/fwlink/p/?LinkId=282331) di blocco in Excel [e sui suggerimenti per Excel per il web](https://go.microsoft.com/fwlink/?linkid=869873).
   
 ## <a name="full-fidelity-reading-view"></a>Visualizzazione di lettura ad alta fedeltà
 
@@ -174,19 +174,19 @@ Tutti gli elementi visibili in una cartella di lavoro nel browser in modalità d
   
 ## <a name="functions"></a>Funzioni
 
-È possibile utilizzare la maggior parte delle oltre 400 funzioni del foglio di lavoro di Excel nelle formule di Excel per il Web, incluse le funzioni utilizzate [nelle](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)formule di matrice dinamica, ad esempio la funzione [FILTRO.](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
+È possibile utilizzare la maggior parte delle oltre 400 funzioni del foglio di lavoro Excel nelle formule di Excel per il web, incluse le funzioni utilizzate [nelle](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)formule di matrice dinamica, ad esempio la funzione [FILTRO.](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
   
 ## <a name="goto"></a>GoTo
 
-Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di lavoro. Basta digitare in una cella e andare in quella posizione nel foglio di lavoro. Ulteriori informazioni sui [tasti di scelta rapida in Excel per il Web.](https://go.microsoft.com/fwlink/p/?LinkID=272943)
+Con la funzionalità GoTo è possibile navigare rapidamente tra i tuoi fogli di lavoro. Basta digitare in una cella e andare in quella posizione nel foglio di lavoro. Altre informazioni sui [tasti di scelta rapida in Excel per il web](https://go.microsoft.com/fwlink/p/?LinkID=272943).
  
 ## <a name="group-data"></a>Dati del gruppo
 
-È possibile raggruppare o strutturare righe e colonne nell'Excel per il foglio di calcolo Web. I tasti di scelta rapida semplificano l'espansione o la compressione rapida dei gruppi creati. Ulteriori informazioni sul [raggruppamento dei dati in Excel per il Web.](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)
+È possibile raggruppare o strutturare righe e colonne nel foglio Excel per il web foglio di calcolo. I tasti di scelta rapida semplificano l'espansione o la compressione rapida dei gruppi creati. Ulteriori informazioni sul [raggruppamento dei dati in Excel per il web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
-È possibile nascondere e visualizzare righe, colonne e fogli in una cartella di lavoro Excel per il Web.
+È possibile nascondere e visualizzare righe, colonne e fogli in una cartella di lavoro in Excel per il web.
 
 ## <a name="ideas"></a>Idee
 
@@ -202,11 +202,11 @@ Selezionare una o più  righe  prima di selezionare Inserisci o Elimina nella sc
 
 ## <a name="insert-pictures"></a>Inserire immagini
 
-Aggiungi un certo interesse visivo inserendo immagini nel foglio di calcolo. Ulteriori informazioni [sull'inserimento di immagini in Excel per il Web.](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3)
+Aggiungi un certo interesse visivo inserendo immagini nel foglio di calcolo. Ulteriori informazioni [sull'inserimento di immagini in Excel per il web](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Inserire forme
 
-Aggiungere e formattare forme quali caselle, cerchi, linee, connettori o frecce all'Excel per il foglio di calcolo Web. Ulteriori informazioni [sull'aggiunta di forme.](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)
+Aggiungere e formattare forme come caselle, cerchi, linee, connettori o frecce al foglio Excel per il web foglio di calcolo. Ulteriori informazioni [sull'aggiunta di forme.](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)
 
 ## <a name="keyboard-shortcuts"></a>Tasti di scelta rapida
 
@@ -218,7 +218,7 @@ Utilizzare Unisci &amp; centra nella scheda Home per combinare e centrare il con
 
 ## <a name="named-ranges"></a>Intervalli denominati
 
-Non è possibile creare intervalli denominati in Excel per il Web, ma è possibile utilizzare gli intervalli denominati creati in Excel desktop nel foglio di calcolo in Excel per il Web. Quando si seleziona un intervallo denominato, il nome viene visualizzato appena prima della barra della formula.
+Non è possibile creare intervalli denominati in Excel per il web, ma è possibile utilizzare gli intervalli denominati creati in Excel desktop nel foglio di calcolo in Excel per il web. Quando si seleziona un intervallo denominato, il nome viene visualizzato appena prima della barra della formula.
 
 ## <a name="number-formatting"></a>Formattazione dei numeri
 
@@ -226,31 +226,31 @@ Modificare il formato dei numeri. Scegliere un formato (ad esempio, Valuta o Dat
   
 ## <a name="office-add-ins"></a>Componenti aggiuntivi di Office
 
- Alcuni, ma non Office componenti aggiuntivi sono disponibili in Excel per il Web. Dall'Office Store, è possibile scaricare un componente aggiuntivo per Excel. Ulteriori informazioni su [come ottenere un componente aggiuntivo per Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+ Alcuni, ma non Office componenti aggiuntivi sono disponibili in Excel per il web. Dall'Office Store, è possibile scaricare un componente aggiuntivo per Excel. Ulteriori informazioni su [come ottenere un componente aggiuntivo per Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
 
 ## <a name="offline-viewing-and-authoring"></a>Creazione e visualizzazione offline
 
-Excel per il Web viene avviato da un browser Internet e si basa su una connessione Internet. Per accedere ai fogli di calcolo offline, è necessario che sul computer sia installata l'app desktop Microsoft Excel utilizzata per visualizzare e modificare i fogli di lavoro Excel.
+Excel per il web viene avviato da un browser Internet e si basa su una connessione Internet. Per accedere ai fogli di calcolo offline, è necessario che sul computer sia installata l'app desktop Microsoft Excel utilizzata per visualizzare e modificare i fogli di lavoro Excel.
 
 ## <a name="pivottables"></a>Tabelle pivot
 
-È possibile inserire tabelle pivot nell'Excel per il foglio di calcolo Web e calcolare, riepilogare e analizzare i dati. Ulteriori informazioni su come inserire una [tabella pivot in Excel per il Web.](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)
+È possibile inserire tabelle pivot nel foglio Excel per il web e calcolare, riepilogare e analizzare i dati. Ulteriori informazioni su come inserire una [tabella pivot in Excel per il web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
 
 ## <a name="post-to-social-network-and-present-online"></a>Pubblicazione su un social network e presentazione online
 
-Parti selezionate dei fogli di calcolo possono essere condivise sul Web incorporandole nelle pagine di un social network o nell'ambito di riunioni o conversazioni Skype for Business. Excel per il Web non supporta queste funzionalità.
+Parti selezionate dei fogli di calcolo possono essere condivise sul Web incorporandole nelle pagine di un social network o nell'ambito di riunioni o conversazioni Skype for Business. Excel per il web non supporta queste funzionalità.
   
 ## <a name="power-pivot-viewing"></a>Visualizzazione Power Pivot
 
-Excel per il Web consente di visualizzare tabelle e grafici di PowerPivot, ma è necessaria l'app desktop Excel per creare modelli di dati PowerPivot.
+Excel per il web consente di visualizzare tabelle e grafici powerpivot, ma è necessaria l'app desktop Excel per creare modelli di dati PowerPivot.
   
 ## <a name="power-view-viewing"></a>Power View viewing
 
-È possibile visualizzare e interagire con Power View in una cartella di lavoro, ma non è possibile creare Power View utilizzando Excel per il Web. La creazione di Power View è disponibile solo con l'applicazione desktop. Power View consente di creare, condividere ed esplorare i dati in visualizzazioni interattive, pronte per la presentazione. È così possibile visualizzare le informazioni in mappe, tabelle e grafici interattivi collegati tra loro in un unico foglio di lavoro. Ulteriori informazioni su [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
+È possibile visualizzare e interagire con Power View in una cartella di lavoro, ma non è possibile creare Power View utilizzando Excel per il web. La creazione di Power View è disponibile solo con l'applicazione desktop. Power View consente di creare, condividere ed esplorare i dati in visualizzazioni interattive, pronte per la presentazione. È così possibile visualizzare le informazioni in mappe, tabelle e grafici interattivi collegati tra loro in un unico foglio di lavoro. Ulteriori informazioni su [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
 ## <a name="print"></a>Stampa
 
-Utilizzare il comando Stampa in Excel per il Web per inviare l'intero foglio di lavoro o la selezione corrente alla stampante. Ulteriori informazioni [su come stampare in Excel per il Web.](https://go.microsoft.com/fwlink/p/?LinkId=271676)
+Utilizzare il comando Stampa in Excel per il web per inviare l'intero foglio di lavoro o la selezione corrente alla stampante. Ulteriori informazioni [su come stampare in Excel per il web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
@@ -258,7 +258,7 @@ Due o più persone possono lavorare contemporaneamente sullo stesso foglio di ca
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Creazione e modifica consigliate dei grafici con i comandi di formattazione
 
-Solo l'app desktop Microsoft Excel supporta i grafici avanzati. Excel per il Web non supporta queste funzionalità. Ulteriori informazioni sui [tipi di grafici disponibili](https://go.microsoft.com/fwlink/p/?LinkId=271666).
+Solo l'app desktop Microsoft Excel supporta i grafici avanzati. Excel per il web non supporta queste funzionalità. Ulteriori informazioni sui [tipi di grafici disponibili](https://go.microsoft.com/fwlink/p/?LinkId=271666).
 
 ## <a name="remove-duplicate-values"></a>Rimuovere valori duplicati
 
@@ -270,15 +270,15 @@ Selezionare l'icona Nuovo foglio per aggiungere un foglio. Fare clic con il puls
   
 ## <a name="rename-file-while-workbook-is-open"></a>Rinominare il file mentre la cartella di lavoro è aperta
 
-In Excel per il Web, è possibile rinominare un file della cartella di lavoro senza chiuderlo selezionando il nome del file nell'intestazione e digitando un nuovo nome. Per rinominare un file Excel'app desktop, chiudi il file, passa alla relativa posizione nel dispositivo e rinomina il file.
+In Excel per il web è possibile rinominare un file della cartella di lavoro senza chiuderlo selezionando il nome del file nell'intestazione e digitando un nuovo nome. Per rinominare un file Excel'app desktop, chiudi il file, passa alla relativa posizione nel dispositivo e rinomina il file.
   
 ## <a name="replace"></a>Sostituisci
 
-Non disponibile in Excel per il Web. Se sul computer è installata l'app desktop Excel, è possibile utilizzare Excel per ricercare e sostituire il contenuto di un documento. Altre informazioni [sull'uso di Trova e sostituisci in Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
+Non disponibile in Excel per il web. Se sul computer è installata l'app desktop Excel, è possibile utilizzare Excel per ricercare e sostituire il contenuto di un documento. Altre informazioni [sull'uso di Trova e sostituisci in Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
 ## <a name="rights-management-irm-and-password-security"></a>Gestione dei diritti: IRM e sicurezza tramite password
 
- Proteggi le cartelle di lavoro usando password, autorizzazioni e altre restrizioni Excel'app desktop. In Excel per il Web, è possibile caricare e interagire con cartelle di lavoro contenenti Protezione foglio, impedendo agli utenti di selezionare o digitare celle protette. Ulteriori informazioni sulla [protezione Excel cartelle di lavoro.](https://go.microsoft.com/fwlink/p/?LinkId=271672)
+ Proteggi le cartelle di lavoro usando password, autorizzazioni e altre restrizioni Excel'app desktop. In Excel per il web, è possibile caricare e interagire con cartelle di lavoro contenenti Protezione foglio, impedendo agli utenti di selezionare o digitare celle protette. Ulteriori informazioni sulla [protezione Excel cartelle di lavoro.](https://go.microsoft.com/fwlink/p/?LinkId=271672)
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
@@ -290,7 +290,7 @@ Mantenere il controllo dell'accesso e della riservatezza dei documenti applicand
   
 ## <a name="share"></a>Condividere
 
-Con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Ulteriori informazioni [sull'Office web](https://go.microsoft.com/fwlink/p/?linkid=272770)per collaborare in Office 365 .
+Con un semplice clic del mouse è possibile inviare un collegamento ad altri utenti che potranno utilizzarlo per visualizzare o modificare il documento. Altre informazioni [sull'Office per il web per collaborare in Office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
 ## <a name="sheet-protection"></a>Protezione dei fogli
 
@@ -302,31 +302,31 @@ Quando si condivide un file Excel con altri utenti, è possibile proteggere un f
   
 ## <a name="slicers"></a>Filtro dei dati
 
-Visualizzare i filtri dei dati nel foglio di lavoro e filtrare i dati selezionando i pulsanti del filtro dei dati. Non è possibile creare o modificare filtri dei Excel per il Web, ma è possibile eliminare i filtri dei dati esistenti.
+Visualizzare i filtri dei dati nel foglio di lavoro e filtrare i dati selezionando i pulsanti del filtro dei dati. Non è possibile creare o modificare filtri dei dati in Excel per il web, ma è possibile eliminare i filtri dei dati esistenti.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel per il Web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati (dall'alto verso il basso o da sinistra a destra, più livelli) ed esaminare i dettagli delle tabelle pivot. Ordinare i dati formattati in modo condizionale che utilizzano set di icone o scale di colori utilizzando le relative icone o valori di colore. Ulteriori informazioni [sull'ordinamento e il filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
+In Excel per il web, è possibile visualizzare e riordinare tutti i fogli di lavoro, ordinare e filtrare i dati (dall'alto verso il basso o da sinistra a destra, più livelli) ed esaminare i dettagli delle tabelle pivot. Ordinare i dati formattati in modo condizionale che utilizzano set di icone o scale di colori utilizzando le relative icone o valori di colore. Ulteriori informazioni [sull'ordinamento e il filtro dei dati](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Conformità e verifica dei fogli di calcolo
 
-Nell'app desktop Microsoft Excel, è possibile utilizzare le funzionalità di interrogazione e confronto dei fogli di lavoro per confrontare le versioni di una cartella di lavoro, analizzarla per individuare eventuali problemi o incoerenze oppure visualizzare i collegamenti tra cartella di lavoro e fogli di lavoro. Excel per il Web non supporta queste funzionalità. Ulteriori informazioni sulla [funzionalità di verifica dei fogli di calcolo](https://go.microsoft.com/fwlink/p/?LinkId=271677).
+Nell'app desktop Microsoft Excel, è possibile utilizzare le funzionalità di interrogazione e confronto dei fogli di lavoro per confrontare le versioni di una cartella di lavoro, analizzarla per individuare eventuali problemi o incoerenze oppure visualizzare i collegamenti tra cartella di lavoro e fogli di lavoro. Excel per il web non supporta queste funzionalità. Ulteriori informazioni sulla [funzionalità di verifica dei fogli di calcolo](https://go.microsoft.com/fwlink/p/?LinkId=271677).
   
 ## <a name="status-bar-aggregates"></a>Status bar aggregates
 
-Quando si seleziona un gruppo di celle in Excel per il Web, è possibile visualizzare sum, AVERAGE e COUNT sulla barra di stato. Puoi anche personalizzare la barra di stato scegliendo quali aggregati visualizzare.
+Quando si seleziona un gruppo di celle in Excel per il web, è possibile visualizzare somma, media e CONTEGGIo sulla barra di stato. Puoi anche personalizzare la barra di stato scegliendo quali aggregati visualizzare.
   
 ## <a name="surveys"></a>Sondaggi
 
-Utilizzare Survey per inviare un Excel per il modulo Web agli utenti che possono compilare. Le risposte verranno compilate automaticamente in un foglio di lavoro online. Altre informazioni sui [sondaggi in Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
+Utilizzare Sondaggio per inviare un Excel per il web modulo agli utenti che possono compilare. Le risposte verranno compilate automaticamente in un foglio di lavoro online. Altre informazioni sui [sondaggi in Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
   
 ## <a name="tell-me"></a>Dimmi
 
-Quando è necessario eseguire qualcosa in Excel per il Web, ma non si sa come, è possibile utilizzare la funzionalità di ricerca Aiutami per trovare rapidamente ciò che si sta cercando. La funzionalità Informazioni comprende cosa si sta cercando di effettuare e ne velocizza l'esecuzione grazie a dei consigli.
+Quando è necessario eseguire un'operazione in Excel per il web ma non si sa come, è possibile utilizzare la funzionalità di ricerca Aiutami per trovare rapidamente ciò che si sta cercando. La funzionalità Informazioni comprende cosa si sta cercando di effettuare e ne velocizza l'esecuzione grazie a dei consigli.
 
 ## <a name="text-formatting"></a>Formattazione del testo
 
-È possibile applicare diverse opzioni di formattazione del testo, tra cui barrato, rientro crescente/decrescente Excel per il Web.
+È possibile applicare diverse opzioni di formattazione del testo, tra cui barrato, rientro crescente/decrescente Excel per il web.
 
 ## <a name="total-data"></a>Totale dati
 
@@ -334,19 +334,19 @@ Quando è necessario eseguire qualcosa in Excel per il Web, ma non si sa come, �
 
 ## <a name="undo-and-redo"></a>Undo and redo
 
-Excel web salva automaticamente il lavoro. Se si commette un errore, utilizzare Annulla o premere CTRL+Z e Ripeti oppure premere CTRL+Y. Ulteriori informazioni sui [tasti di scelta rapida in Excel per il Web.](https://go.microsoft.com/fwlink/p/?LinkId=272943)
+Excel per il web il lavoro viene salvato automaticamente. Se si commette un errore, utilizzare Annulla o premere CTRL+Z e Ripeti oppure premere CTRL+Y. Altre informazioni sui [tasti di scelta rapida in Excel per il web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
 ## <a name="vba-and-macro-scripting"></a>Script macro e VBA
 
-L'app desktop Microsoft Excel è uno strumento estremamente potente per modificare, analizzare e presentare i dati. A volte, nonostante le numerose funzionalità, l'organizzazione potrebbe ritenere più semplice utilizzare il linguaggio di programmazione VBA (Visual Basic for Applications) per creare una macro che esegua le attività comuni e ripetitive o alcune attività non disponibili tramite l'interfaccia utente. Non è possibile creare macro con VBA in Excel per il Web, ma è possibile aprire e modificare fogli di calcolo abilitati per VBA senza rimuovere (o danneggiare) vba contenuti nel file. Ulteriori informazioni sulla [guida introduttiva alle macro](https://go.microsoft.com/fwlink/p/?LinkId=271678).
+L'app desktop Microsoft Excel è uno strumento estremamente potente per modificare, analizzare e presentare i dati. A volte, nonostante le numerose funzionalità, l'organizzazione potrebbe ritenere più semplice utilizzare il linguaggio di programmazione VBA (Visual Basic for Applications) per creare una macro che esegua le attività comuni e ripetitive o alcune attività non disponibili tramite l'interfaccia utente. Non è possibile creare macro con VBA in Excel per il web, ma è possibile aprire e modificare fogli di calcolo abilitati per VBA senza rimuovere (o danneggiare) il vba contenuto nel file. Ulteriori informazioni sulla [guida introduttiva alle macro](https://go.microsoft.com/fwlink/p/?LinkId=271678).
   
 ## <a name="view-3d-charts"></a>Visualizzazione di grafici 3D
 
-È possibile visualizzare grafici 3D nel foglio di lavoro. Non è possibile creare o modificare grafici 3D in Excel per il Web.
+È possibile visualizzare grafici 3D nel foglio di lavoro. Non è possibile creare o modificare grafici 3D in Excel per il web.
   
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
-Non disponibile in Excel per il Web. È possibile visualizzare i risultati dell'analisi "What if" Excel per il Web, come previsto. Se si desidera utilizzare gli strumenti di analisi quali Ricerca obiettivo, Tabelle dati, Risolutore e Serie, sarà necessaria l'app desktop Excel. Ulteriori informazioni sulle [differenze tra l'utilizzo di una cartella di lavoro nel browser e nell'app desktop Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+Non disponibile in Excel per il web. È possibile visualizzare i risultati dell'analisi "What if" Excel per il web, come previsto. Se si desidera utilizzare gli strumenti di analisi quali Ricerca obiettivo, Tabelle dati, Risolutore e Serie, sarà necessaria l'app desktop Excel. Ulteriori informazioni sulle [differenze tra l'utilizzo di una cartella di lavoro nel browser e nell'app desktop Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
 
 ## <a name="workbook-statistics"></a>Workbook Statistics
 
@@ -354,4 +354,4 @@ La Workbook Statistics conta e identifica gli elementi di una cartella di lavoro
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Office per la descrizione [del servizio Web.](office-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Office per il web [descrizione del servizio.](office-online-service-description.md)

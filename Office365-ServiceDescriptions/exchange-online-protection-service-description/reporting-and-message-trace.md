@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Leggere questo articolo per informazioni su Reporting e traccia dei messaggi in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 383c222563e76d4a5613c9faac5b68417fa64b8a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653128"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664089"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Creazione di rapporti e traccia dei messaggi in Exchange Online Protection
 
-Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni report sono disponibili nell'Microsoft 365 di amministrazione, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
+Microsoft (EOP) Exchange Online Protection offre diversi rapporti che consentono di determinare lo stato generale e l'integrità dell'organizzazione. Alcuni report sono disponibili nella interfaccia di amministrazione di Microsoft 365, mentre altri sono disponibili nell'interfaccia di amministrazione di Exchange (EAC).
 
 Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione Exchange Online Protection servizio.](exchange-online-protection-service-description.md)
 
 ## <a name="microsoft-365-admin-center-reports"></a>Report nell'interfaccia di amministrazione di Microsoft 365
 
-La pagina Report nell'interfaccia di amministrazione di Microsoft 365 fornisce informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole del flusso di posta (note anche come regole di trasporto) o dai criteri di prevenzione della perdita dei dati (DLP). I report migliorati per la protezione, le regole e DLP forniscono un'esperienza di report interattiva agli amministratori di EOP. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
+La pagina Report del interfaccia di amministrazione di Microsoft 365 fornisce informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole del flusso di posta (note anche come regole di trasporto) o dai criteri di prevenzione della perdita dei dati (DLP). I report migliorati per la protezione, le regole e DLP forniscono un'esperienza di report interattiva agli amministratori di EOP. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
 
 Per informazioni più dettagliate su questi report, vedere [Use mail protection reports to view data about malware, spam, and rule detections](/exchange/monitoring/use-mail-protection-reports).
 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 23cc82d51d1afcbd2662e86dd6bc2aeebfb22346
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 42a92a444a49b19d4589dd733426505c92c59e563776728f2ecf02aef53a7b36
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652680"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663589"
 ---
 # <a name="voice-message-services"></a>Servizi di messaggistica vocale
 

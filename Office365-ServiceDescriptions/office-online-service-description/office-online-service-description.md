@@ -11,31 +11,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web rende più semplice lavorare e condividere Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+description: Office per il web(in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il web semplifica il lavoro e la condivisione Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
+ms.openlocfilehash: 6cc468d2d40b54a7f8a6b1bb4e8ba77bb917950142796e6976d3135c856297b2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699112"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702095"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
-Office web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il Web rende più semplice lavorare e condividere Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
+Office per il web(in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il web semplifica il lavoro e la condivisione Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
   
 ## <a name="available-plans"></a>Piani disponibili
 
 Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti Office per il Web, vedere la tabella di confronto [completa delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
-## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilità delle funzionalità tra Office per i piani Web
+## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilità delle funzionalità tra Office per il web piani
 
-Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazione? Le tabelle seguenti confrontano Office funzionalità Web con le app desktop Microsoft Office funzionalità avanzate. Utilizzare le tabelle per individuare le funzionalità disponibili in Office per il Web e quindi selezionare il nome della caratteristica per leggere una breve descrizione del funzionamento di tale funzionalità. È possibile che alcuni utenti dell'organizzazione necessitino della funzionalità avanzata di creazione di grafici dell'app desktop Excel, mentre altri devono solo visualizzare e modificare leggermente i documenti di Word e le presentazioni PowerPoint con Office per il Web. 
+Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazione? Le tabelle seguenti confrontano Office per il web funzionalità con le app desktop Microsoft Office funzionalità avanzate. Utilizzare le tabelle per individuare le funzionalità disponibili in Office per il web e quindi selezionare il nome della funzionalità per leggere una breve descrizione del funzionamento di tale funzionalità. È possibile che alcuni utenti dell'organizzazione necessitino della funzionalità avanzata di creazione di grafici dell'app desktop Excel, mentre altri devono solo visualizzare e modificare leggermente i documenti di Word e le presentazioni PowerPoint con Office per il web. 
   
 > [!NOTE]
->  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo di Microsoft Office funzionalità. <br/>  Microsoft Microsoft 365 Apps for enterprise è un'offerta di sottoscrizione mensile della famiglia di Office desktop più recente. <br/>  Microsoft Office I clienti locali di Online Server ottengono un Office per la licenza di modifica Web se hanno acquistato una licenza della famiglia di prodotti desktop Office (ad esempio una licenza Office Professional Plus, Office Standard o Microsoft 365 Apps for enterprise). 
+>  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo di Microsoft Office funzionalità. <br/>  Microsoft Microsoft 365 Apps for enterprise è un'offerta di sottoscrizione mensile della famiglia di Office desktop più recente. <br/>  Microsoft Office I clienti locali di Online Server ottengono una licenza di modifica di Office per il web se hanno acquistato una licenza della famiglia di prodotti desktop Office (ad esempio una licenza di Office Professional Plus, Office Standard o Microsoft 365 Apps for enterprise). 
   
 > [!NOTE]
-> Quando si apre un documento Office, come allegato di posta elettronica di Outlook o da una raccolta documenti di SharePoint, il documento verrà avviato in Office per il Web e sarà di sola lettura. Per modificare un documento in Office per il Web (modalità di modifica), è necessaria una licenza di famiglia di prodotti, ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza per la famiglia di prodotti desktop Office, ad esempio un abbonamento Microsoft 365 Apps for enterprise o una versione installata di Office Professional Plus 2010. 
+> Quando si apre un documento Office, come allegato di posta elettronica di Outlook o da una raccolta documenti di SharePoint, il documento verrà avviato in Office per il web e sarà di sola lettura. Per modificare un documento in Office per il web (modalità di modifica), è necessaria una licenza di famiglia di prodotti, ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza per la famiglia di prodotti desktop Office, ad esempio un abbonamento Microsoft 365 Apps for enterprise o una versione installata di Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 
@@ -109,7 +109,7 @@ Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazion
 |[Zoom](word-online.md#zoom) <br/> |Sì  <br/> |Sì  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Questi elementi vengono eseguono il rendering nel visualizzatore, ma non è possibile crearli o modificarli Office per il Web. <br/>
+> <sup>1</sup> Questi elementi vengono eseguono il rendering nel visualizzatore, ma non è possibile crearli o modificarli in Office per il web. <br/>
 > <sup>2</sup> Alcuni, ma non tutti, Office componenti aggiuntivi sono disponibili. <br/>
   
 ### <a name="excel"></a>Excel
@@ -191,9 +191,9 @@ Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazion
 
 > [!NOTE] 
 > <sup>1</sup> Impossibile creare grafici pivot, solo visualizzazione.
- <br/><sup>2</sup> A seconda della configurazione dell'ambiente, sono supportati alcuni tipi di connessioni dati per le cartelle di lavoro visualizzate Excel per il Web. Per ulteriori informazioni, vedere Aggiornamento dei dati in una cartella di lavoro in una finestra del browser. 
- <br/><sup>3</sup> Non è possibile creare o eseguire macro con VBA in Excel per il Web, ma è possibile aprire e modificare fogli di calcolo abilitati per VBA senza rimuovere (o danneggiare) vba contenuti nel file.
- <br/><sup>4</sup> In Excel per il Web, l'ultimo valore di riferimento noto viene visualizzato nella finestra del browser; tuttavia, deve essere aggiornato usando l'app desktop Excel app desktop. 
+ <br/><sup>2</sup> A seconda della configurazione dell'ambiente, sono supportati alcuni tipi di connessioni dati per le cartelle di lavoro visualizzate in Excel per il web. Per ulteriori informazioni, vedere Aggiornamento dei dati in una cartella di lavoro in una finestra del browser. 
+ <br/><sup>3</sup> Non è possibile creare o eseguire macro con VBA in Excel per il web, ma è possibile aprire e modificare fogli di calcolo abilitati per VBA senza rimuovere (o danneggiare) vba contenuti nel file.
+ <br/><sup>4</sup> In Excel per il web, l'ultimo valore di riferimento noto viene visualizzato nella finestra del browser; tuttavia, deve essere aggiornato usando l'app desktop Excel app desktop. 
  <br/><sup>5</sup> Alcuni, ma non tutti, Office componenti aggiuntivi sono disponibili. 
   
 ### <a name="onenote"></a>OneNote
@@ -239,7 +239,7 @@ Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazion
 |[Visualizzazione delle versioni precedenti delle pagine](onenote-online.md#view-previous-page-versions) <br/> |Sì  <br/> |Sì  <br/> |
 
 > [!NOTE]
-> <sup>1</sup> In OneNote per il Web, è possibile spostare sezioni all'interno di un blocco appunti e copiare e incollare pagine da una sezione a un'altra. 
+> <sup>1</sup> In OneNote per il web, è possibile spostare sezioni all'interno di un blocco appunti e copiare e incollare pagine da una sezione a un'altra. 
  <br/> <sup>2</sup> Alcuni, ma non tutti, Office componenti aggiuntivi sono disponibili. 
  <br/><sup>3</sup> È possibile eseguire ricerche nella pagina o nella sezione, ma non nell'intero blocco appunti o tra blocchi appunti (come nella versione desktop).
  <br/><sup>4</sup> Nella versione desktop non è disponibile un'opzione di "download", ma è possibile salvare con nome in un'altra posizione. 
@@ -293,13 +293,13 @@ Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazion
 |[Visualizzazione WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sì  <br/> |Sì  <br/> |
 
 > [!NOTE]
-><sup>1</sup> PowerPoint web supporta una raccolta di otto transizioni e 37 animazioni. Per una selezione più ampia o per creare animazioni personalizzate, usa l PowerPoint app desktop. 
+><sup>1</sup> PowerPoint per il web supporta una raccolta di otto transizioni e 37 animazioni. Per una selezione più ampia o per creare animazioni personalizzate, usa l PowerPoint app desktop. 
  <br/>
 <sup>2</sup> Il dispositivo su cui stai lavorando deve supportare l'input penna. <br/> 
 <sup>3</sup> Alcuni, ma non tutti, Office componenti aggiuntivi sono disponibili. <br/>
 <sup>4</sup> Non è possibile creare grafici pivot o tabelle pivot, ma è possibile vederli nel visualizzatore. 
   
-## <a name="supported-file-types-for-office-for-the-web"></a>Tipi di file supportati Office per il Web
+## <a name="supported-file-types-for-office-for-the-web"></a>Tipi di file supportati per Office per il web
 
 | Documenti Word creati in Word 2.0 o versioni successive | Modalità di visualizzazione | Modalità di modifica |
 |:-----|:-----|:-----|

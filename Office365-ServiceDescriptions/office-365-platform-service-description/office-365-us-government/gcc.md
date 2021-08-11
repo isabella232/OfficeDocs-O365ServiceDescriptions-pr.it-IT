@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Per soddisfare i requisiti univoci e in evoluzione dei governi federali, statali, locali e tribali degli Stati Uniti, nonché degli appaltatori che deteneno o elaborano dati per conto del governo statunitense, Microsoft offre servizi Office 365 US Government Community (GCC). Disponibili attraverso più canali che includono i contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, sono disponibili versioni di prova solo per gli enti governativi degli Stati Uniti.
-ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653168"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701885"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -41,7 +41,7 @@ Office 365 personale non ha accesso permanente ai contenuti dei clienti ospitati
 |Controllo della cronologia dell'impiego  <br/> |Verifica della storia professionale degli ultimi sette (7) anni  <br/> |
 |Verifica dell'istruzione  <br/> |Verifica del livello massimo raggiunto  <br/> |
 |Ricerca del numero di previdenza sociale (SSN)  <br/> |Verifica della validità del numero di previdenza sociale (SSN) fornito  <br/> |
-|Controllo della cronologia penale  <br/> |Un controllo dei precedenti penali relativo agli ultimi sette (7) anni per rilevare eventuali infrazioni o reati a livello statale, provinciale, locale e federale  <br/> |
+|controllo dei precedenti penali;  <br/> |Un controllo dei precedenti penali relativo agli ultimi sette (7) anni per rilevare eventuali infrazioni o reati a livello statale, provinciale, locale e federale  <br/> |
 |Office of Foreign Assets Control List (OFAC)  <br/> |Convalida relativa agli elenchi del Dipartimento del Tesoro degli Stati Uniti d'America dei gruppi con cui i cittadini statunitensi non possono avere transazioni commerciali o finanziarie  <br/> |
 |Bureau of Industry and Security List (BIS)  <br/> |Convalida rispetto all'elenco del Dipartimento del Commercio degli Stati Uniti d'America di soggetti ed entità che non possono effettuare attività di esportazione  <br/> |
 |Office of Defense Trade Controls Debarred Persons List (DDTC)  <br/> |Convalida rispetto all'elenco del Dipartimento di Stato di soggetti ed entità che non possono effettuare attività di esportazione correlate al settore della difesa  <br/> |

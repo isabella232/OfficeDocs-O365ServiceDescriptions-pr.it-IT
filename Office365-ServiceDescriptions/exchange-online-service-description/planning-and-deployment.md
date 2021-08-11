@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: Informazioni sulla pianificazione e la distribuzione in Microsoft Exchange Online.
-ms.openlocfilehash: eabef8014f64295058b4f41ccd9835a8dea473d8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652700"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663669"
 ---
 # <a name="planning-and-deployment"></a>Pianificazione e distribuzione
 
@@ -35,7 +35,7 @@ Per le organizzazioni, è preferibile scegliere le opzioni di migrazione basate 
 
 Per distribuzione "solo cloud" si intende una soluzione in cui nel servizio Exchange Online l'organizzazione non è connessa all'organizzazione Exchange locale. Tutti gli utenti e le cassette postali sono ospitate e gestite in Exchange Online e Office 365.
   
-### <a name="hybrid"></a>Configurazione ibrida
+### <a name="hybrid"></a>Ibrido
 
 Disponibile per le organizzazioni Microsoft Exchange 2003, Exchange 2007, Exchange 2010 ed Exchange 2013 locali, la distribuzione ibrida offre una configurazione di coesistenza a lungo termine con alcune cassette postali ospitate in Exchange Online o un percorso di migrazione verso l'hosting di tutte le cassette postali utente in Exchange Online. La distribuzione ibrida offre alle organizzazioni la possibilità di estendere al cloud le numerose funzionalità e il controllo amministrativo che hanno nell'organizzazione Microsoft Exchange locale. Le funzionalità di configurazione ibrida includono trasporto della posta sicuro, informazioni sulla disponibilità del calendario condiviso e verifica dei messaggi tra le organizzazioni locali ed Exchange Online.
   

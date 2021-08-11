@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender per Office 365 è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da malware e virus sconosciuti fornendo una protezione zero-day affidabile e include funzionalità per proteggere l'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 5781f34419eb697cb97634c55fa486fd141d76dd
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204843"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663099"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrizione del servizio Microsoft Defender per Office 365
 
@@ -37,7 +37,7 @@ Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli 
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Nella tabella seguente sono elencate le principali funzionalità di Microsoft Defender Office 365 disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella può cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità di Microsoft Defender per Office 365 tra piani, vedi Descrizione del servizio [Microsoft Defender for Office 365 Features.](microsoft-defender-for-office-365-features.md)
+Nella tabella seguente sono elencate le principali funzionalità di Microsoft Defender Office 365 disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Per l'elenco completo e aggiornato delle funzionalità di Microsoft Defender per Office 365 tra piani, vedi Descrizione del servizio [Microsoft Defender for Office 365 Features.](microsoft-defender-for-office-365-features.md)
 
 | Funzionalità | Defender per Office 365 Piano 1 | Defender per Office 365 Piano 2 | Microsoft 365 E5 / Sicurezza A5 |
 |---------|--------------------------------|--------------------------------|--------------------------------|
@@ -64,7 +64,7 @@ Nella tabella seguente sono elencate le principali funzionalità di Microsoft De
 > [!NOTE]
 > Microsoft Defender per Office 365 è un componente di Microsoft 365 Defender. Per ulteriori informazioni sulla sicurezza automatizzata tra domini con Microsoft 365 Defender, vedere [Microsoft 365 Defender requisiti.](/microsoft-365/security/mtp/prerequisites)
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Altre informazioni
 
 Per ulteriori informazioni su Microsoft Defender per Office 365, vedere le risorse seguenti:
 
@@ -75,12 +75,12 @@ Per ulteriori informazioni su Microsoft Defender per Office 365, vedere le risor
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Messaggistica
 
-Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

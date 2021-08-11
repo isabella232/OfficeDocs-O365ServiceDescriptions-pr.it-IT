@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 e Office 365 sono disponibili in un'ampia gamma di piani per soddisfare al meglio le esigenze dell'organizzazione. Se stai cercando le differenze tra i piani, inclusi i piani Exchange Online, questo articolo ti mostrerà quali funzionalità sono incluse in ognuno di essi.
-ms.openlocfilehash: 00223253b0115ef31f2b4a8db939061d154d11eb
-ms.sourcegitcommit: fc58d29a2429d04d3a1f8d51dbf6c2b063bc66a9
+ms.openlocfilehash: 801bc4baf71897360b6ed9753f541268f09785ab8c2f7f42417bb824f5bc609a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53383709"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701685"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrizione dei servizi delle piattaforme Office 365 e Microsoft 365
 

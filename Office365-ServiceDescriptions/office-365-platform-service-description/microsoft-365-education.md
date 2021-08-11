@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Informazioni sulle differenze tra i piani Microsoft 365 e Office 365 Education.
-ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290846"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662999"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 

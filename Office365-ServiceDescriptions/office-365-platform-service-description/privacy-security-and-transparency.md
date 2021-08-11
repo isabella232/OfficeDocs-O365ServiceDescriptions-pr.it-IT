@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft apprezza il suo rapporto con i clienti e considera fondamentale proteggere la privacy e la sicurezza dei dati dei clienti. Per ulteriori informazioni, visitare il Centro protezione Microsoft.
-ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652530"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701835"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -54,7 +54,7 @@ Customer Lockbox è incluso nel piano 5 di Office 365 Enterprise oppure è possi
   
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender per Office 365
 
-Defender for Office 365 aiuta a proteggere l'organizzazione da malware e virus. Defender per Office 365 include [collegamenti sicuri,](/office365/securitycompliance/atp-safe-links) [allegati sicuri,](/office365/securitycompliance/atp-safe-attachments) [anti-phishing](/office365/securitycompliance/atp-anti-phishing)e [funzionalità di spoofing intelligence.](/office365/securitycompliance/learn-about-spoof-intelligence) Collegamenti sicuri protegge in modo proattivo gli utenti da collegamenti ipertestuali dannosi in un messaggio, fornendo protezione ogni volta che viene selezionato il collegamento. Allegati sicuri protegge da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non hanno una firma virus/malware nota in un ambiente speciale in cui Defender per Office 365 può rilevare intenti dannosi. Per altre informazioni su Defender per Office 365, vedi [Microsoft Defender per Office 365 descrizione del servizio](../office-365-advanced-threat-protection-service-description.md).
+Defender for Office 365 aiuta a proteggere l'organizzazione da malware e virus. Defender per Office 365 include [Cassaforte,](/office365/securitycompliance/atp-safe-links) [Cassaforte allegati,](/office365/securitycompliance/atp-safe-attachments) [anti-phishing](/office365/securitycompliance/atp-anti-phishing)e [funzionalità di spoofing intelligence.](/office365/securitycompliance/learn-about-spoof-intelligence) Cassaforte I collegamenti proteggono in modo proattivo gli utenti da collegamenti ipertestuali dannosi in un messaggio, fornendo protezione ogni volta che viene selezionato il collegamento. Cassaforte Gli allegati proteggono da malware e virus sconosciuti, instradando tutti i messaggi e gli allegati che non hanno una firma virus/malware nota in un ambiente speciale in cui Defender per Office 365 può rilevare intenti dannosi. Per altre informazioni su Defender per Office 365, vedi [Microsoft Defender per Office 365 descrizione del servizio](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 

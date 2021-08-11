@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fornisce le risorse di formazione e guida seguenti.
-ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653238"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663009"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365 fornisce le risorse di formazione e guida seguenti.
   
 ## <a name="online-help"></a>Guida online
 
-Gli articoli e i video della Guida sono disponibili da qualsiasi collegamento alla Guida in linea nel servizio, inclusa l'icona della Guida nella barra di spostamento superiore del portale di Office 365 e dell Microsoft 365 intervana di amministrazione. Inoltre, la Guida di Office 365 è disponibile integralmente sul sito Web [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Gli articoli e i video della Guida sono disponibili da qualsiasi collegamento alla Guida in linea nel servizio, inclusa l'icona della Guida nella barra di spostamento superiore del portale di Office 365 e interfaccia di amministrazione di Microsoft 365. Inoltre, la Guida di Office 365 è disponibile integralmente sul sito Web [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formazione
 

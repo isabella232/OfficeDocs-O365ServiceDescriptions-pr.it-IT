@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Informazioni sui limiti del servizio in Yammer per Microsoft 365.
-ms.openlocfilehash: 390bb642e45e2ac4868069698530d7c43a171762
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: 6ce13069239cc0b7b39adf2e9850b0cd46a12910f9dca6b61aea2600d7591402
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661648"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702265"
 ---
 # <a name="limits-in-yammer"></a>Limiti in Yammer
 

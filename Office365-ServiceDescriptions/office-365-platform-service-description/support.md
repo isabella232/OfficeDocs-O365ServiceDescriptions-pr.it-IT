@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Con ogni Microsoft Office 365 per le aziende, le aziende, l'istruzione e l'abbonamento per enti pubblici, il supporto tecnico Microsoft fornisce supporto tecnico, pre-vendita, fatturazione e sottoscrizione globale. Il supporto è disponibile sia online tramite l'interfaccia Microsoft 365 e telefonicamente sia per le sottoscrizioni a pagamento che per le sottoscrizioni di valutazione. Per ulteriori informazioni, vedere Opzioni di supporto Microsoft.
-ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+description: Con ogni Microsoft Office 365 per le aziende, le aziende, l'istruzione e l'abbonamento per enti pubblici, il supporto tecnico Microsoft fornisce supporto tecnico, pre-vendita, fatturazione e sottoscrizione globale. Il supporto è disponibile sia online tramite il interfaccia di amministrazione di Microsoft 365 sia telefonicamente sia per le sottoscrizioni a pagamento che per le sottoscrizioni di valutazione. Per ulteriori informazioni, vedere Opzioni di supporto Microsoft.
+ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721200"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701655"
 ---
-# <a name="support"></a>Supporto
+# <a name="support"></a>Supporto tecnico
 
-Con ogni Microsoft 365 e Office 365 per aziende, aziende, frontline, istruzione e governo, il supporto tecnico Microsoft fornisce supporto tecnico, pre-vendita, fatturazione e sottoscrizione globale. Il supporto è disponibile sia online tramite l'interfaccia Microsoft 365 e telefonicamente sia per le sottoscrizioni a pagamento che per le sottoscrizioni di valutazione. Per ulteriori informazioni, vedere [Opzioni di supporto Microsoft.](/Office365/Admin/contact-support-for-business-products)
+Con ogni Microsoft 365 e Office 365 per aziende, aziende, frontline, istruzione e governo, il supporto tecnico Microsoft fornisce supporto tecnico, pre-vendita, fatturazione e sottoscrizione globale. Il supporto è disponibile sia online tramite il interfaccia di amministrazione di Microsoft 365 sia telefonicamente sia per le sottoscrizioni a pagamento che per le sottoscrizioni di valutazione. Per ulteriori informazioni, vedere [Opzioni di supporto Microsoft.](/Office365/Admin/contact-support-for-business-products)
 
-Gli amministratori autorizzati possono utilizzare l Microsoft 365 di amministrazione per inviare richieste di servizio online, accedere ai numeri di telefono del supporto tecnico e visualizzare tutte le richieste di servizio aperte e chiuse di recente. Le richieste di servizio inviate nell'interfaccia di amministrazione possono essere riaperte fino a 14 giorni dopo la chiusura della richiesta. Per istruzioni, vedere [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
+Gli amministratori autorizzati possono utilizzare il interfaccia di amministrazione di Microsoft 365 per inviare richieste di servizio online, accedere ai numeri di telefono del supporto tecnico e visualizzare tutte le richieste di servizio aperte e chiuse di recente. Le richieste di servizio inviate nell'interfaccia di amministrazione possono essere riaperte fino a 14 giorni dopo la chiusura della richiesta. Per istruzioni, vedere [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
   
 Il Microsoft 365 del supporto tecnico risolve solo i problemi correlati a Microsoft 365 e Office 365. I problemi che hanno origine nelle reti dei clienti non rientrano nei limiti del supporto e, in questi casi, i clienti devono collaborare con il team di rete o coinvolgere il [team di microsoft Networking](https://support.microsoft.com/gp/contactus81?Audience=Commercial) per assistenza.
   

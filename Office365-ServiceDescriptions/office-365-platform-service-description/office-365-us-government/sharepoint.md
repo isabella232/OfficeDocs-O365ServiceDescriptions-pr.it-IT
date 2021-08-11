@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle SharePoint per i clienti cloud del governo statunitense.
-ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900776"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701825"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint per ambienti governativi statunitensi
 
@@ -53,7 +53,7 @@ Ecco le differenze tra le funzionalità di amministrazione IT per i clienti comm
 - Mover.io non è ancora supportato
 - Multi-geo non è disponibile per tutti i clienti del cloud per enti pubblici
 
-Per info sulla migrazione di FastTrack, vedi la [descrizione](./office-365-us-government.md#data-migrations-performed-by-fasttrack)Office 365 servizio us government .
+Per info sulla FastTrack migrazione, vedi la [descrizione](./office-365-us-government.md#data-migrations-performed-by-fasttrack)Office 365 servizio us government .
 
 ## <a name="security-and-compliance-features"></a>Funzionalità di sicurezza e conformità
 
@@ -94,5 +94,5 @@ Il passaggio al cloud offre esperienze trasformative con i controlli di amminist
 ## <a name="deploy-sharepoint-for-collaboration"></a>Distribuire SharePoint per la collaborazione
 
 Dopo aver configurato l'organizzazione nel cloud microsoft us government, seguire il percorso di distribuzione consigliato descritto nel Centro risorse per l'adozione di [SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Assicurati di interagire con i tuoi campioni di adozione e gestione delle modifiche.
-Puoi anche collaborare con [FastTrack](https://www.microsoft.com/fasttrack) o il partner scelto per implementare il servizio agli utenti.
+Puoi anche collaborare [con](https://www.microsoft.com/fasttrack) FastTrack o con il partner scelto per implementare il servizio agli utenti.
 Visita il Centro protezione [Microsoft](https://www.microsoft.com/trust-center) per saperne di più su come Microsoft si approccia alla sicurezza, alla privacy e alla conformità, principi fondamentali per il modo in cui consentiamo alle organizzazioni di servire i propri clienti.

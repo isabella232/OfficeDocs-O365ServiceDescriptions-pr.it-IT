@@ -1,5 +1,5 @@
 ---
-title: Descrizione del servizio Microsoft Defender for Office 365 Features
+title: Descrizione del servizio Funzionalità di Microsoft Defender per Office 365
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Informazioni sulle funzionalità disponibili in Microsoft Defender per Office 365.
-ms.openlocfilehash: 620639a2c40d589123ebda33446411533798d2ec
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204866"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663049"
 ---
-# <a name="microsoft-defender-for-office-365-features-service-description"></a>Descrizione del servizio Microsoft Defender for Office 365 Features
+# <a name="microsoft-defender-for-office-365-features-service-description"></a>Descrizione del servizio Funzionalità di Microsoft Defender per Office 365
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Novità di Microsoft Defender per Office 365
 
@@ -63,7 +63,7 @@ I collegamenti sicuri sono disponibili per gli URL nelle seguenti app:
 
 La [Cassaforte documenti utilizza](/microsoft-365/security/office-365-security/safe-docs) [Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) per analizzare i documenti e i file aperti in Visualizzazione [protetta.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
 
-Che cosa è necessario sapere prima di iniziare?
+Informazioni necessarie prima di iniziare
 
 - Cassaforte I documenti sono ora disponibili per gli utenti con Office versione 2004 (12730.x) o successiva. Questa funzionalità è disattivata per impostazione predefinita e dovrà essere abilitata dall'amministratore della sicurezza.
 

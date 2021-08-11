@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle OneDrive per i clienti cloud del governo statunitense.
-ms.openlocfilehash: 61d7e178c1b3940ad8a3ba487b803c7e4cc0e197
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 2c53de0cbf02090dda7b29468dc1ffa302cd4e4cd7dda5c3c99af6774880623a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653438"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701975"
 ---
 # <a name="onedrive-for-us-government-environments"></a>OneDrive per ambienti governativi statunitensi
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 29e4a61a021f2b6a42d0a147ee9af595bdad6ae3
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: c966b23f0a2ef50bbec57ed1974e9ffb6f7926888481b38dc8bdd3daa227592c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537252"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664039"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 

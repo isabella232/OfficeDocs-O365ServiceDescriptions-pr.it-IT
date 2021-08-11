@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium è una soluzione integrata che riunisce la produttività ottimale con funzionalità avanzate di sicurezza e gestione dei dispositivi per proteggere l'azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 2822f93ce488c180b1cdb0bf6fefefb061138f5b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 658bfe634163bb7b0df423f65973c40a3289aec9cc81134ff97ea51403ae8ee4
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652670"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663349"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrizione del servizio Microsoft 365 Business Premium
 
@@ -91,7 +91,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Attivazione della sottoscrizione  <br/> |Sì  <br/> |
 |Controllo organizzativo dello schermo del dispositivo inattiva  <br/> |Sì  <br/> |
 |Controllo organizzativo dell'accesso degli utenti alle app da Microsoft Store  <br/> |Sì  <br/> |
-|Controllo organizzativo dell'accesso degli utenti a Cortana  <br/> |Sì  <br/> |
+|Controllo organizzativo dell'accesso degli utenti Cortana  <br/> |Sì  <br/> |
 |Controllo organizzativo Windows suggerimenti e pubblicità da Microsoft  <br/> |Sì  <br/> |
 |Aggiornamento automatico dei dispositivi Windows 10  <br/> |Sì  <br/> |
 |**Windows 10 Sicurezza** <br/> |**Microsoft 365 Business Premium** <br/> |
@@ -106,7 +106,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 <sup>2</sup> Azure Information Protection (AIP) abilita le funzionalità supportate di Information Rights Management (IRM). Il piano AIP 1 è incluso in Microsoft 365 Business Premium. <br/>
 <sup>3 Microsoft 365 Business Premium</sup> include Archiviazione Exchange Online abbonamento. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Per altre informazioni, vedere [Panoramica dell'archiviazione illimitata](/office365/securitycompliance/unlimited-archiving). <br/>
 <sup>4</sup> Disponibile all'indirizzo [https://securescore.office.com](https://securescore.office.com) . Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Microsoft Secure Score.](/office365/securitycompliance/microsoft-secure-score)<br/>
-<sup>5</sup> Gestione semplificata Windows 10 dispositivi integrata nell'Microsoft 365 di amministrazione. Funzionalità di gestione di Intune di iOS, Android, macOS e altre funzionalità di gestione dei dispositivi multipiattaforma integrate nell'interfaccia di amministrazione di Gestione dispositivi, anche con licenza per l'uso con Microsoft 365 Business Premium. Le app di terze parti e la configurazione di elementi come profili WiFi e certificati VPN possono essere gestiti anche nell'interfaccia di amministrazione di Gestione dispositivi. <br/>
+<sup>5</sup> Gestione Windows 10 dei dispositivi semplificata integrata nella interfaccia di amministrazione di Microsoft 365. Funzionalità di gestione di Intune di iOS, Android, macOS e altre funzionalità di gestione dei dispositivi multipiattaforma integrate nell'interfaccia di amministrazione di Gestione dispositivi, anche con licenza per l'uso con Microsoft 365 Business Premium. Le app di terze parti e la configurazione di elementi come profili WiFi e certificati VPN possono essere gestiti anche nell'interfaccia di amministrazione di Gestione dispositivi. <br/>
 <sup>6</sup> Questo piano viene fornito con Microsoft Stream Piano 2, che include portale video, trascrizione di testo vocale, ricerca approfondita e rilevamento faccia.<br/>
 <sup>7</sup> Microsoft 365 viene fornito con Microsoft Defender per Office 365 Piano 1. Per ulteriori informazioni, vedere Microsoft 365 Business Premium [sicurezza e conformità](/microsoft-365/business/security-features).<br/>
 <sup>8</sup> Microsoft 365 Business Premium sottoscrittori sono concessi in licenza per usare le funzionalità complete di Intune per iOS, Android, MacOS e altre funzionalità di gestione dei dispositivi multipiattaforma. Le funzionalità non disponibili nell'interfaccia di amministrazione in Microsoft 365 Business Premium, come la gestione delle app di terze parti e la configurazione di profili WiFi, certificati VPN e così via, possono essere gestite nella console completa di Intune.</br>

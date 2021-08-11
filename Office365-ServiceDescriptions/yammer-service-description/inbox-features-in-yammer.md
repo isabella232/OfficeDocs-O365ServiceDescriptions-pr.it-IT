@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: In Yammer sono disponibili le seguenti funzionalità della Posta in arrivo.
-ms.openlocfilehash: 2060f2debe7deae4f0297f71e227b7e3a17419c2
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: dd746709bee439c2629684a38a18d575819770d92153887a0f147365e4f4eb4a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653528"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702325"
 ---
 # <a name="inbox-features-in-yammer"></a>Funzionalità posta in arrivo in Yammer
 

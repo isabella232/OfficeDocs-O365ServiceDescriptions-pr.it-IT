@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: In Yammer sono disponibili le seguenti funzionalità di supporto.
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653518"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702175"
 ---
 # <a name="support-features-in-yammer"></a>Funzionalità supporto in Yammer
 
@@ -38,7 +38,7 @@ Il supporto tecnico è disponibile per rispondere alle domande dei clienti e ris
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-Il servizio Microsoft FastTrack può aiutare l'organizzazione a passare a Microsoft Cloud fornendo assistenza in ogni passaggio. FastTrack consente di pianificare strategicamente le implementazioni, di implementare rapidamente nuovi servizi e di eseguire l'onboarding di nuovi utenti. Per informazioni dettagliate, visitare [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Per informazioni sulla creazione della rete Yammer, inclusi documenti e attività di pre-avvio, avvio e supporto, passare alla pagina [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e quindi selezionare **Bring your organization together**.
+Il servizio microsoft FastTrack può aiutare l'organizzazione a passare a Microsoft Cloud fornendo assistenza in ogni passaggio. FastTrack consente di pianificare strategicamente le implementazioni, di implementare rapidamente nuovi servizi e di eseguire l'onboardmento di nuovi utenti. Per informazioni dettagliate, visitare [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Per informazioni sulla creazione della rete Yammer, inclusi documenti e attività di pre-avvio, avvio e supporto, passare alla pagina [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e quindi selezionare **Bring your organization together**.
 
 ## <a name="support-features-across-yammer-plans"></a>Funzionalità del supporto tra piani Yammer
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 e Office 365 sono servizi basati sul cloud progettati per soddisfare le esigenze dell'organizzazione in termini di sicurezza, affidabilità e produttività degli utenti.
-ms.openlocfilehash: 7a51d0914774455ad6f78bbd362633a48094ebf3
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 20470f92e036fe5f57e93ba7fd64bcf9d0fc0c9ff32122a88a2fe8fcc81decad
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652390"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702075"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrizione dei servizi di Office 365 e Microsoft 365 
 

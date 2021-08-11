@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Le seguenti funzionalità di gestione delle risorse sono disponibili in Project Online.
-ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 24764327b4714ab044252150f2acfcff61acdea3f828b974223409ca03d16464
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651206"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702645"
 ---
 # <a name="project-resource-management"></a>Gestione risorse di progetto
 

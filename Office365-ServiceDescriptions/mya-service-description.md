@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: Funzionalità, distribuzioni, privacy e prerequisiti di MyAnalytics
-ms.openlocfilehash: a63528b3cf3da8328380bbfd309675e49f099fab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652600"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663089"
 ---
 # <a name="myanalytics-service-description"></a>Descrizione del servizio MyAnalytics
 

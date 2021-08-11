@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: a649a71691d9d9c2b58667d9c63a95e0d4c7fedf
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f14798dc6bc2b227d7f5dfafdca19d4993bd4cdf659a54d0fbd22a5449739ae9
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652520"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701845"
 ---
 # <a name="product-use-rights"></a>Diritti di utilizzo del prodotto
 

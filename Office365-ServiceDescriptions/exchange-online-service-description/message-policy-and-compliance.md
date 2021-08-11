@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Informazioni sui criteri dei messaggi e sulla conformità in Exchange Online.
-ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652710"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663769"
 ---
 # <a name="message-policy-and-compliance"></a>Conformità e criteri dei messaggi
 
@@ -25,9 +25,9 @@ ms.locfileid: "51652710"
 
 Le cassette postali di Exchange Online risiedono nel cloud e la loro archiviazione richiede ambienti host univoci. In alcuni casi, è possibile utilizzare Exchange Online per archiviare le cassette postale locali nel cloud. In questa sezione vengono descritte le opzioni per l'archiviazione in Exchange Online.
   
-Exchange Online dispone di funzionalità di archiviazione integrate per le cassette postali basate su cloud, tra cui un Archivio in locale che consente agli utenti di archiviare comodamente i messaggi di posta elettronica meno recenti. Un In-Place è un tipo speciale di cassetta postale che viene visualizzato insieme alle cartelle principali delle cassette postali di un utente Outlook e Outlook sul Web. Gli utenti possono accedere all'archivio ed effettuarvi ricerche esattamente come fanno per le cassette postali principali. Le funzionalità disponibili dipendono dal client in uso:
+Exchange Online dispone di funzionalità di archiviazione integrate per le cassette postali basate su cloud, tra cui un Archivio in locale che consente agli utenti di archiviare comodamente i messaggi di posta elettronica meno recenti. Un In-Place archivio è un tipo speciale di cassetta postale che viene visualizzato insieme alle cartelle principali delle cassette postali di un utente Outlook e Outlook sul web. Gli utenti possono accedere all'archivio ed effettuarvi ricerche esattamente come fanno per le cassette postali principali. Le funzionalità disponibili dipendono dal client in uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010** e Outlook sul Web Gli utenti hanno accesso alle funzionalità complete dell'archivio, nonché alle funzionalità di conformità correlate, come il controllo sui criteri di conservazione e archiviazione. 
+- **Outlook 2016, Outlook 2013, Outlook 2010 e Outlook sul web** Gli utenti hanno accesso alle funzionalità complete dell'archivio, nonché alle funzionalità di conformità correlate, come il controllo sui criteri di conservazione e archiviazione. 
     
 - **Outlook 2007** Gli utenti dispongono di un supporto base per l'Archivio in locale e non tutte le funzionalità di archiviazione e conformità sono disponibili. Ad esempio, gli utenti non possono applicare i criteri di archiviazione o conservazione agli elementi di una cassetta postale e devono avvalersi invece dei criteri stabiliti dall'amministratore. 
     
@@ -57,13 +57,13 @@ L'utilizzo di Exchange Online per l'archiviazione su cloud di cassette postali l
   
 ## <a name="retention-tags-and-retention-policies"></a>Tag di conservazione e criteri di conservazione
 
-Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratori possono inoltre fornire agli utenti un menu di criteri di conservazione e consentire loro di applicare i criteri a elementi, conversazioni o cartelle specifici utilizzando Outlook 2010 o versioni successive o Outlook sul Web.
+Exchange Online fornisce dei criteri di conservazione che consentono alle organizzazioni di ridurre le responsabilità associate ai messaggi di posta elettronica e ad altre comunicazioni. Con questi criteri, gli amministratori possono applicare le impostazioni di conservazione a specifiche cartelle nelle cassette postali degli utenti. Gli amministratori possono inoltre fornire agli utenti un menu di criteri di conservazione e consentire loro di applicare i criteri a elementi, conversazioni o cartelle specifici utilizzando Outlook 2010 o versioni successive o Outlook sul web.
   
 In Exchange Online, gli amministratori gestiscono i criteri di conservazione tramite l'interfaccia di amministrazione di Exchange o tramite Windows PowerShell remoto.
   
 Exchange Online fornisce due tipi di criteri: i criteri di archiviazione e i criteri di eliminazione. Entrambi i tipi di criteri possono essere combinati nello stesso elemento o nella stessa cartella. Ad esempio, un utente può assegnare un tag a un messaggio di posta elettronica in modo che il messaggio venga automaticamente spostato dopo un dato numero di giorni ed eliminato dopo un ulteriore numero di giorni.
   
-Con Outlook 2010 o versioni successive e Outlook sul Web, gli utenti possono applicare criteri di conservazione a cartelle, conversazioni o singoli messaggi. Possono altresì visualizzare i criteri di conservazione applicati e le date di eliminazione previste per i messaggi. Gli utenti di altri client di posta elettronica possono solo eliminare o archiviare i propri messaggi di posta elettronica sulla base dei criteri di conservazione definiti dall'amministratore sul server.
+Con Outlook 2010 o versioni successive e Outlook sul web, gli utenti possono applicare criteri di conservazione a cartelle, conversazioni o singoli messaggi. Possono altresì visualizzare i criteri di conservazione applicati e le date di eliminazione previste per i messaggi. Gli utenti di altri client di posta elettronica possono solo eliminare o archiviare i propri messaggi di posta elettronica sulla base dei criteri di conservazione definiti dall'amministratore sul server.
   
 I criteri di conservazione disponibili Exchange Online sono gli stessi disponibili in Exchange Server 2010 Service Pack 2 RU4. Gli amministratori possono utilizzare Windows PowerShell in remoto per migrare i criteri di conservazione dagli ambienti Exchange Server 2010 in locale o versioni successive a Exchange Online.
   
@@ -78,7 +78,7 @@ La crittografia dei dati dei clienti in pausa è fornita da più tecnologie sul 
   
 ### <a name="bitlocker"></a>BitLocker
 
-I server Microsoft BitLocker per crittografare le unità disco contenenti i dati dei clienti in pausa a livello di volume. BitLocker è una funzionalità di protezione dei dati incorporata in Windows. BitLocker è una delle tecnologie utilizzate per la protezione dalle minacce in caso di problemi in altri processi o controlli (ad esempio, il controllo dell'accesso o il riciclo dell'hardware) che potrebbero portare a un utente che ottiene l'accesso fisico ai dischi contenenti i dati dei clienti. In questo caso, BitLocker il rischio di furto o esposizione dei dati a causa di computer e dischi smarriti, rubati o inappropriati. 
+I server Microsoft usano BitLocker per crittografare le unità disco contenenti i dati dei clienti in pausa a livello di volume. La crittografia BitLocker è una funzionalità di protezione dei dati incorporata Windows. BitLocker è una delle tecnologie utilizzate per la protezione dalle minacce in caso di problemi in altri processi o controlli (ad esempio, il controllo dell'accesso o il riciclo dell'hardware) che potrebbero portare qualcuno a ottenere l'accesso fisico ai dischi contenenti i dati dei clienti. In questo caso, BitLocker elimina il rischio di furto o esposizione dei dati a causa di computer e dischi smarriti, rubati o inappropriati. 
   
 ### <a name="distributed-key-manager"></a>Distributed Key Manager
 
@@ -192,7 +192,7 @@ La funzionalità di prevenzione della perdita dei dati consente di identificare,
     
 - I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale del documento facilita la creazione di tipi di informazione sensibili personalizzate basate su moduli di testo utilizzabili per definire le regole di trasporto e i criteri DLP.
     
-- Aggiungi Suggerimenti criteri, che consente di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2016, Outlook 2013, Outlook sul Web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi. 
+- Aggiungi Suggerimenti criteri, che consente di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2016, Outlook 2013, Outlook sul web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi. 
     
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
     

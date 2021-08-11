@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: a8ddf782fca857d81c91d717dffbcb774a31a2f0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 10275af517a64c9166a10f64f2737e5d47c6e305a38879e42473392d4147c318
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652440"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701805"
 ---
 # <a name="service-level-agreement"></a>Contratto di servizio
 

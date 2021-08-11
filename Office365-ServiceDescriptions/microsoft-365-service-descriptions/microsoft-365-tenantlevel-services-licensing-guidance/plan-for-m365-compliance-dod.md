@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Queste indicazioni sono per i professionisti IT che guidano le distribuzioni di Office 365 nelle entità del governo federale degli Stati Uniti o in altre entità che gestiscono dati soggetti a normative e requisiti governativi, dove l'uso di Microsoft 365 Government – DoD è appropriato per soddisfare questi requisiti.
-ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 039fef8da2de151828cf9aa3c2cb7e39efb4789012f70666811a8a2ae5d24238
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546003"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663329"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Pianificare la conformità Microsoft 365 - Distribuzion DoD
 
@@ -109,7 +109,7 @@ Per soddisfare i requisiti dei clienti cloud per enti pubblici, esistono alcune 
 | | Gestione record: controllo delle versioni dei record | Disponibile |
 | | Gestione dei record: record normativi | Disponibile |
 | | Gestione record: utilizzare la SharePoint Syntex per applicare etichette di record | Backlog di progettazione |
-| **Gestione dei rischi insider** | Customer Lockbox | Disponibile |
+| **Gestione dei rischi Insider** | Customer Lockbox | Disponibile |
 | | Gestione dei rischi insider: dashboard del caso, Esplora contenuto e modelli di avviso | In distribuzione |
 | | Insider Risk Management: inoltrare le indagini per Advanced eDiscovery | In distribuzione |
 | | Insider Risk Management: furto di dati da parte di utenti in partenza | In distribuzione |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: In Yammer sono disponibili le seguenti funzionalità della piattaforma Yammer.
-ms.openlocfilehash: ba5b499972f6b4c6e13d0ce08ca60214ed2241de
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 414144b5343ff774cd9f22e78faddf202557191dea2ed162cb4da7d08315b32c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653588"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702115"
 ---
 # <a name="yammer-platform-features"></a>Funzionalità piattaforma Yammer
 

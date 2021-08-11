@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Le funzionalità elencate in questo argomento sono una raccolta di strumenti basati sul Web che consentono di collaborare e comunicare in modo sicuro tra molti dispositivi e più Office 365 servizi. Tali funzionalità permettono di stabilire nuove connessioni all'interno della propria organizzazione unendo la creazione di contenuti digitali, l'archiviazione e la gestione a strumenti social per trovare e condividere informazioni con altri utenti.
-ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
-ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
+ms.openlocfilehash: c12977bc68ea8871779a3615b1f3f121541b01658b273c42736d67da4894d20e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275605"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664490"
 ---
 # <a name="microsoft-365-suite-features"></a>Funzionalità della famiglia di prodotti Microsoft 365
 
@@ -51,12 +51,12 @@ Usa l'API microsoft Graph per creare rapidamente app che si connettono a una vas
   
 ## <a name="microsoft-lists"></a>Microsoft Lists
 
-Microsoft Lists è un'app Microsoft 365 che consente di tenere traccia delle informazioni e organizzare il lavoro. Gli elenchi sono semplici, intelligenti e flessibili, in modo che tu possa rimanere al primo piano di ciò che conta di più per il tuo team. Tieni traccia di problemi, asset, routine, contatti, inventario e altro ancora usando visualizzazioni personalizzabili e regole intelligenti per mantenere tutti informati e sincronizzati. Con i modelli già pronti, puoi avviare rapidamente elenchi online, nella nuova app per dispositivi mobili o all'interno di Microsoft Teams. Poiché fa parte di Microsoft 365, è possibile fare affidamento sulla sicurezza e sulla conformità pronte per l'organizzazione.
+Elenchi Microsoft è un'app Microsoft 365 che consente di tenere traccia delle informazioni e organizzare il lavoro. Gli elenchi sono semplici, intelligenti e flessibili, in modo che tu possa rimanere al primo piano di ciò che conta di più per il tuo team. Tieni traccia di problemi, asset, routine, contatti, inventario e altro ancora usando visualizzazioni personalizzabili e regole intelligenti per mantenere tutti informati e sincronizzati. Con i modelli già pronti, puoi avviare rapidamente elenchi online, nella nuova app per dispositivi mobili o all'interno di Microsoft Teams. Poiché fa parte di Microsoft 365, è possibile fare affidamento sulla sicurezza e sulla conformità pronte per l'organizzazione.
 
 Per altre informazioni, vedere:
 
-* [Centro **risorse elenchi Microsoft pubblici**](https://aka.ms/MSLists)
-* [Centro **per l'adozione di elenchi Microsoft pubblici**](https://aka.ms/ListsAdoption)
+* [Centro **risorse Elenchi Microsoft pubbliche**](https://aka.ms/MSLists)
+* [Centro **Elenchi Microsoft adozioni pubbliche**](https://aka.ms/ListsAdoption)
 
 ## <a name="microsoft-planner"></a>Microsoft Planner
 

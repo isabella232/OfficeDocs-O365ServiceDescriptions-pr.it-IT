@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica delle differenze di funzionalità tra il cloud governativo statunitense e il cloud commerciale, come indicato nella descrizione Exchange Online servizio.
-ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721210"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664459"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online per ambienti governativi statunitensi
 
@@ -114,7 +114,7 @@ Nella tabella seguente viene indicato se le funzionalità Exchange Online sono d
 |**[Client e dispositivi mobili](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
 |To Do sul Web|Sì|No|No||
 |Outlook per Windows|Sì|Sì|Sì|Per soddisfare GCC requisiti di conformità High e DoD, è necessario eseguire almeno la versione 1803 di Office 365 ProPlus. Office 365 ProPlus non è incluso in G1 o F3.|
-|Outlook sul Web|Sì|Sì|Sì||
+|Outlook sul web<sup>1</sup>|Sì|Sì|Sì||
 |Outlook per Mac|Sì|Sì|Sì|Per soddisfare GCC requisiti di conformità High e DoD, è necessario eseguire almeno la versione 1803 di Office 365 ProPlus. Office 365 ProPlus non è incluso in G1 o F3.|
 |Outlook per iOS e Android|Sì|Sì|Sì||
 |Exchange ActiveSync|Sì|Sì|Sì||
@@ -139,13 +139,15 @@ Nella tabella seguente viene indicato se le funzionalità Exchange Online sono d
 |Supporto dell'inoltro SMTP|Sì|Sì|Sì||
 |**[Installazione e amministrazione di Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
 |Accesso al portale di Microsoft Office 365|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
-|Microsoft 365'accesso all'interfaccia di amministrazione|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
+|interfaccia di amministrazione di Microsoft 365 accesso|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
 |Accesso all'interfaccia di amministrazione di Exchange|Sì|Sì|Sì||
 |Accesso a Windows PowerShell remoto|Sì|Sì|Sì||
 |Criteri di ActiveSync per dispositivi mobili|Sì|Sì|Sì||
 |Report utilizzo|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
 |**[Estensione del servizio: personalizzazione, componenti aggiuntivi e risorse](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
 |Outlook componenti aggiuntivi e Outlook MAPI|Sì|Sì|Sì|Solo alcuni OWA e Outlook componenti aggiuntivi sono disponibili in GCC High e DoD. Vedere [Componenti aggiuntivi in Outlook e Outlook Web App](#add-insin-outlook-and-outlook-web-app) in questo articolo.|
+
+<sup>1</sup> Outlook sul Web può essere utilizzato in scenari in cui Outlook per Windows non è in grado di visualizzare i messaggi protetti da IRM a causa di restrizioni oltre i limiti (scenari GCC Alta / Non GCC Alta).
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Sfumature delle funzionalità in GCC high e dod
 
@@ -175,9 +177,9 @@ Se si prevede di utilizzare Office 365 Message Encryption in un ambiente GCC Hig
 
 - Quando si inviano messaggi di posta elettronica crittografati GCC High o DoD ai destinatari nello stesso ambiente:
     
-    - I mittenti possono crittografare manualmente i messaggi di posta elettronica in Outlook per PC e Mac e Outlook sul Web oppure le organizzazioni possono configurare un criterio per crittografare i messaggi di posta elettronica utilizzando regole del flusso di posta Exchange.
+    - I mittenti possono crittografare manualmente i messaggi di posta elettronica in Outlook per PC e Mac e Outlook sul web oppure le organizzazioni possono configurare un criterio per crittografare i messaggi di posta elettronica Exchange regole del flusso di posta.
     
-    - I destinatari all'interno di GCC High/DoD ricevono la stessa esperienza di lettura in linea in Outlook per PC e Mac e Outlook sul Web come tutti gli altri Office 365 utenti.
+    - I destinatari all'interno GCC High/DoD ricevono la stessa esperienza di lettura in linea in Outlook per PC e Mac e Outlook sul web come tutti gli altri Office 365 utenti.
 
 <!-- end list -->
 

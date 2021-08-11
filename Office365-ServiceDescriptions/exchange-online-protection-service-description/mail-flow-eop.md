@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Leggere questo articolo per informazioni sul flusso di posta in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 0923f31ccb639271303654cbdccf4890b2a55062
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 1391f5dcbc47bf9fa3ea6c7be84d97bd107a4c3bbde958694b182d2f32ee523e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653138"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664179"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>Flusso di posta in Exchange Online Protection
 

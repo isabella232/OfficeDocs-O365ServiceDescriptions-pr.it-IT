@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium è l'offerta microsoft di prima classe per i clienti di piccole e medie imprese. Microsoft 365 Business Premium è una soluzione integrata che riunisce Microsoft 365 produttività, sicurezza avanzata e gestione dei dispositivi.
-ms.openlocfilehash: 5b3c1b69135801699ba53b020f0461ed83d7bd90
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653278"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663569"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
@@ -44,7 +44,7 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |   | Aggiornare i diritti Windows 10 Pro per le licenze Pro Win 7/8.1 | No | Sì |
 |   | Desktop virtuale Windows | No | Sì |
 |**Azure Information Protection** | Prevenzione della perdita di dati Microsoft | No | Sì |
-|   | Azure Information Protection Piano 1, BitLocker sicurezza | No | Sì |
+|   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì |
 |**Conformità** | Archiviazione illimitata della<sup>posta elettronica 2</sup> | No | Sì |
 
 **Note**
@@ -74,13 +74,13 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |   | Aggiornare i diritti Windows 10 Pro per Win 7/8.1 Pro | No | Sì |
 |   | Desktop virtuale Windows | No | Sì |
 |**Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft | Sì | Sì |
-|   | Azure Information Protection Piano 1, BitLocker sicurezza | No | Sì |
+|   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì |
 |**Diritti CAL locali** | ECAL Suite (Exchange, SharePoint, Skype) | Sì | No |
 |**Conformità** | Archiviazione illimitata della posta<sup>elettronica 3</sup> | Sì | Sì |
 
 **Note**
 
-<sup>1</sup> Indica Microsoft 365 Business Standard ha il Piano 1 della funzionalità e Office 365 E3 ha piano 2.
+<sup>1</sup> Indica Microsoft 365 Business Standard è disponibile il Piano 1 della funzionalità e Office 365 E3 il Piano 2.
 
 <sup>2</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
@@ -107,13 +107,13 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |   | Aggiornare i diritti Windows 10 Pro per le licenze Pro Win 7/8.1 | No | Sì | No |
 |   | Desktop virtuale Windows | No | Sì | No |
 |**Protezione delle informazioni**  | Prevenzione della perdita di dati Microsoft | No | Sì | Sì |
-|   | Azure Information Protection Piano 1, BitLocker sicurezza | No | Sì | No |
+|   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì | No |
 |**Diritti CAL locali** | ECAL Suite (Exchange, SharePoint, Skype) | No | No | Sì |
 |**Conformità** | Archiviazione illimitata della posta<sup>elettronica 3</sup> | No | Sì | Sì |
 
 **Note**
 
-<sup>1</sup> Indica Microsoft 365 Business Standard ha il Piano 1 della funzionalità e Office 365 E3 ha piano 2.
+<sup>1</sup> Indica Microsoft 365 Business Standard è disponibile il Piano 1 della funzionalità e Office 365 E3 il Piano 2.
 
 <sup>2</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
@@ -134,7 +134,7 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |   | App aziendali &ndash; MileIQ<sup>1</sup> | Sì | Sì | No | No |
 |**Protezione dalle minacce** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise Data Protection | No | No | Sì | Sì |
 |   | Microsoft Defender per Office 365 | No | Sì | No | Sì |
-|   | Microsoft Defender per endpoint | No | No | No | Sì |
+|   | Microsoft Defender ATP | No | No | No | Sì |
 |   | Office 365 Threat Intelligence | No | No  | No | Sì |
 |**Gestione delle identità** | Reimpostazione della password self-service per gli account Azure Active Directory ibridi, Azure MFA, Accesso condizionale   | No | Sì | Sì | Sì |
 |   | Azure AD: Cloud App Discovery, Azure AD Connessione Health, SSO per più di 10 app | Sì | Sì | Sì | Sì |
@@ -148,7 +148,7 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |**Conformità** | Archiviazione illimitata della<sup>posta elettronica 2</sup> | No | Sì | Sì | Sì |
 |   | Advanced eDiscovery, Customer Lockbox, Advanced Data Governance | No | No | No | Sì |
 |**Analisi** | Power BI Pro, MyAnalytics | No | No | No | Sì |
-| | Dati analitici di MyAnalytics | Sì | Sì | Sì | Sì |
+| | Insights di MyAnalytics | Sì | Sì | Sì | Sì |
 |**Assistenza** | Briefing email | Sì | Sì | Sì | Sì |
 |**Voce** | Servizi di conferenza PSTN, Cloud PBX | No | No | No | Sì |
 

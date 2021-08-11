@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft supporta i metodi seguenti per la creazione, la gestione e l'autenticazione degli utenti.
-ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5a4b242046503df691587919284454a670f817821eab1b3a6692f542bdcefadb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652410"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702045"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -48,7 +48,7 @@ Il tipo di identità influisce sull'esperienza utente e sulle opzioni di gestion
   
 ### <a name="custom-domains-and-identity-options"></a>Domini personalizzati e opzioni di gestione delle identità
 
-Quando si crea un nuovo utente, il nome di accesso e l'indirizzo di posta elettronica dell'utente vengono assegnati al dominio predefinito, come impostato nell'interfaccia di amministrazione di Microsoft 365 locale. Per ulteriori informazioni, vedere [Aggiungere utenti e dominio.](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 
+Quando si crea un nuovo utente, il nome di accesso e l'indirizzo di posta elettronica dell'utente vengono assegnati al dominio predefinito come impostato nella interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni, vedere [Aggiungere utenti e dominio.](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 
   
 Per impostazione predefinita, la sottoscrizione utilizza il <.onmicrosoft.com aziendale creato >  con l'account. Se si utilizza un Office 365 gestito da 21Vianet in Cina, il dominio predefinito è <*companyname* > **.onmsChina.cn**. Se si utilizza Office 365 Germania, il dominio predefinito è <*companyname* > **.onmicrosoft.de**. È possibile aggiungere uno o più domini personalizzati a Microsoft anziché conservare il dominio onmicrosoft.com e assegnare agli utenti l'accesso **con** uno qualsiasi dei domini convalidati. Il dominio assegnato a ogni utente è l'indirizzo di posta elettronica che verrà visualizzato nei messaggi di posta elettronica inviati e ricevuti. 
   
@@ -74,7 +74,7 @@ Microsoft utilizza l'autenticazione basata su moduli e il traffico di autenticaz
   
 ### <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
-Con Multi-Factor Authentication, gli utenti devono confermare una chiamata telefonica, un SMS o una notifica dell'app sullo smartphone dopo aver immesso correttamente la password. L'utente può accedere solo dopo la seconda autenticazione. Gli amministratori Microsoft possono registrare gli utenti per l'autenticazione a più fattori nell'Microsoft 365 di amministrazione. Ulteriori informazioni su [Multi-Factor Authentication.](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)
+Con Multi-Factor Authentication, gli utenti devono confermare una chiamata telefonica, un SMS o una notifica dell'app sullo smartphone dopo aver immesso correttamente la password. L'utente può accedere solo dopo la seconda autenticazione. Gli amministratori Microsoft possono registrare gli utenti per l'autenticazione a più fattori nella interfaccia di amministrazione di Microsoft 365. Ulteriori informazioni su [Multi-Factor Authentication.](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)
   
 ### <a name="rich-client-authentication"></a>Autenticazione dei rich client
 
@@ -102,7 +102,7 @@ L'esperienza di accesso cambia a seconda del tipo di identità in uso:<br><br>
 |Outlook 2010 o Office Outlook 2007 in Windows Vista  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
 |POP, IMAP, Outlook per Mac  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
-|Esperienze Web: Microsoft 365 di amministrazione/Outlook sul Web/ SharePoint Online / Office per il Web  <br/> |Richiede l'accesso a ogni sessione del browser <sup>4</sup> <br/> |Richiede l'accesso a ogni sessione <sup>3</sup> <br/> |
+|Esperienze Web: interfaccia di amministrazione di Microsoft 365 / Outlook sul web/ SharePoint Online / Office per il web  <br/> |Richiede l'accesso a ogni sessione del browser <sup>4</sup> <br/> |Richiede l'accesso a ogni sessione <sup>3</sup> <br/> |
 |Office 2010 o Office 2007 con SharePoint Online  <br/> |Richiede l'accesso a ogni sessione SharePoint Online<sup>4</sup> <br/> |Richiede l'accesso a ogni sessione SharePoint Online<sup>3</sup> <br/> |
 |Skype for Business online  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Nessuna richiesta  <br/> |
 |Outlook per Mac  <br/> |Richiede l'accesso a ogni sessione <sup>1</sup> <br/> |Richiede l'accesso a ogni sessione <sup>2</sup> <br/> |
@@ -115,7 +115,7 @@ L'esperienza di accesso cambia a seconda del tipo di identità in uso:<br><br>
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-Esistono diversi modi per aggiungere utenti. Per ulteriori informazioni, vedere Aggiungere utenti singolarmente o in blocco [-](/office365/admin/add-users/add-users) Guida per l'amministratore e Aggiungere, rimuovere e gestire gli utenti [nell'Microsoft 365 di amministrazione.](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3) Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Creare o modificare gli account utente in Office 365 gestito da 21Vianet - Guida di Amministrazione](/office365/admin/add-users/add-users).
+Esistono diversi modi per aggiungere utenti. Per ulteriori informazioni, vedere Aggiungere utenti singolarmente o in blocco [-](/office365/admin/add-users/add-users) Guida per gli amministratori e Aggiungere, rimuovere e gestire gli utenti [in interfaccia di amministrazione di Microsoft 365 Preview.](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3) Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Creare o modificare gli account utente in Office 365 gestito da 21Vianet - Guida di Amministrazione](/office365/admin/add-users/add-users).
   
 ## <a name="delete-user-accounts"></a>Eliminare gli account utente
 
@@ -137,7 +137,7 @@ Quando si utilizzano identità cloud, le password vengono generate automaticamen
   
 - Per i requisiti di complessità delle password per le identità cloud, vedere [criterio password](/previous-versions/azure/jj943764(v=azure.100)).
     
-- Per aumentare la sicurezza, gli utenti devono modificare le password al primo accesso servizi Microsoft. Di conseguenza, prima che gli utenti possano accedere servizi Microsoft, devono accedere all'interfaccia di amministrazione di Microsoft 365, dove viene richiesto di modificare le password.
+- Per aumentare la sicurezza, gli utenti devono modificare le password al primo accesso servizi Microsoft. Di conseguenza, prima che gli utenti possano accedere servizi Microsoft, devono accedere al interfaccia di amministrazione di Microsoft 365, dove viene richiesto di modificare le password.
     
 - Gli amministratori possono impostare il criterio di scadenza per le password. Per ulteriori informazioni, vedere [Impostazione di criteri di scadenza della password per l'utente](/office365/admin/manage/set-password-expiration-policy).
     
@@ -145,9 +145,9 @@ Sono disponibili numerosi strumenti per la reimpostazione delle password per gli
   
 - **L'amministratore reimposta la password:** se gli utenti perdono o dimenticano le password, gli amministratori possono reimpostare le password degli utenti nell'interfaccia di amministrazione o usando Windows PowerShell. Gli utenti possono cambiare la password solo se conoscono quella corrente. 
     
-    Per i piani aziendali, se gli amministratori perdono o dimenticano le password, un amministratore diverso con il ruolo amministratore globale può reimpostare le password degli amministratori nell'interfaccia di amministrazione di Microsoft 365 o utilizzando Windows PowerShell. Per ulteriori informazioni, vedere [Reimpostare la password dell'amministratore](/office365/admin/add-users/reset-passwords). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Creare o ripristinare le password in Office 365 gestito da 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+    Per i piani aziendali, se gli amministratori perdono o dimenticano le password, un amministratore diverso con il ruolo amministratore globale può reimpostare le password degli amministratori nel interfaccia di amministrazione di Microsoft 365 o utilizzando Windows PowerShell. Per ulteriori informazioni, vedere [Reimpostare la password dell'amministratore](/office365/admin/add-users/reset-passwords). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Creare o ripristinare le password in Office 365 gestito da 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **User changes passwords with Outlook on the web** - The Outlook on the web options page includes a Change password hyperlink, which redirects users to the Change **Password** page. L'utente deve conoscere la password precedente. Per ulteriori informazioni, vedere [Modificare la password](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Modificare o ripristinare le password in Office 365 gestito da 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- **User changes passwords with Outlook sul web** - La pagina Outlook sul web opzioni include un collegamento ipertestuale Cambia password, che reindirizza gli utenti alla pagina **Cambia** password. L'utente deve conoscere la password precedente. Per ulteriori informazioni, vedere [Modificare la password](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se si utilizza Office 365 gestito da 21Vianet in Cina, vedere [Modificare o ripristinare le password in Office 365 gestito da 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 - Diritti per la **reimpostazione** della password basata sui ruoli - Per i piani aziendali, agli utenti autorizzati come il personale dell'helpdesk può essere assegnato il diritto utente Reimposta **password** e il diritto di modificare le password utilizzando ruoli predefiniti o personalizzati senza diventare amministratori di servizi completi. Per impostazione predefinita nei piani aziendali, gli amministratori con il ruolo Amministratore globale, Amministratore password o Amministratore gestione utenti possono modificare le password. Per ulteriori informazioni, vedere [Assegnazione di ruoli di amministratore](/office365/admin/add-users/assign-admin-roles).
     
@@ -155,7 +155,7 @@ Sono disponibili numerosi strumenti per la reimpostazione delle password per gli
     
 ### <a name="federated-identity-password-management"></a>Gestione delle password delle identità federate
   
-Quando si utilizza l'identità federata, le password vengono gestite in Active Directory. Il servizio token di sicurezza locale negozia l'autenticazione con Federation Gateway senza passare le password locali di Active Directory degli utenti tramite Internet Office 365. Vengono utilizzati criteri password locali o, per i client Web, l'identificazione a due fattori. Outlook sul Web non include un collegamento ipertestuale Cambia password. Gli utenti possono cambiare password utilizzando gli strumenti standard locali o tramite le opzioni di accesso del proprio PC desktop.
+Quando si utilizza l'identità federata, le password vengono gestite in Active Directory. Il servizio token di sicurezza locale negozia l'autenticazione con Federation Gateway senza passare le password locali di Active Directory degli utenti tramite Internet Office 365. Vengono utilizzati criteri password locali o, per i client Web, l'identificazione a due fattori. Outlook sul web non include un collegamento ipertestuale Cambia password. Gli utenti possono cambiare password utilizzando gli strumenti standard locali o tramite le opzioni di accesso del proprio PC desktop.
   
 Se nell'ambiente dell'organizzazione è abilitata la sincronizzazione della directory con [single sign-on (SSO)](/previous-versions/azure/azure-services/dn441213(v=azure.100)) e si verifica un'interruzione che influisce sul provider di identità federate, Il backup della sincronizzazione delle password per l'accesso federato consente di passare manualmente al dominio in Sincronizzazione password. L'utilizzo di Sincronizzazione password consentirà agli utenti di accedere mentre l'interruzione è stata corretta. Informazioni [su come passare da Single Sign-On a Sincronizzazione password](https://go.microsoft.com/fwlink/p/?LinkId=509832).
   
@@ -167,7 +167,7 @@ Gli amministratori della fatturazione Microsoft possono apportare modifiche ai d
   
 ## <a name="group-management"></a>Gestione dei gruppi
 
-SharePoint Online utilizza i gruppi di sicurezza per controllare l'accesso ai siti. I gruppi di sicurezza possono essere creati nell'Microsoft 365 di amministrazione. Per ulteriori informazioni sui gruppi di protezione, vedere [Creare, modificare o eliminare un gruppo di sicurezza](/office365/admin/email/create-edit-or-delete-a-security-group).
+SharePoint Online utilizza i gruppi di sicurezza per controllare l'accesso ai siti. I gruppi di sicurezza possono essere creati nella interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni sui gruppi di protezione, vedere [Creare, modificare o eliminare un gruppo di sicurezza](/office365/admin/email/create-edit-or-delete-a-security-group).
   
 ## <a name="administrator-roles"></a>Ruoli di amministratore
 

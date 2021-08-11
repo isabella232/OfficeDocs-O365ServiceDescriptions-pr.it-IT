@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Confronta le funzionalità in Visio per il Web con l'app desktop Visio desktop.
-ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53095560"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702425"
 ---
 # <a name="visio-service-description"></a>Visio servizio
 
@@ -29,7 +29,7 @@ Per ulteriori informazioni e per iniziare, vedere [Compare Visio Options](https:
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Nella tabella seguente sono elencate le principali Visio disponibili nelle app Web e desktop. Si applicano alcune avvertenze. Per ulteriori informazioni, vedere le note a piè di pagina. Questa tabella può cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità Visio tra i piani, vedere [Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options).<br><br> 
+Nella tabella seguente sono elencate le principali Visio disponibili nelle app Web e desktop. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Per l'elenco completo e aggiornato delle funzionalità Visio tra i piani, vedere [Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options).<br><br> 
 
 | Funzionalità dell'applicazione | Visio per il Web | Visio'applicazione desktop |
 |:-----|:-----|:-----|
@@ -84,12 +84,12 @@ Per ulteriori informazioni sulle Visio, vedere le risorse seguenti:
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Messaggistica
 
-Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Gli amministratori possono trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for Business Online in Configurare Skype for Business Online.
-ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651021"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702465"
 ---
 # <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business Online
 
@@ -89,7 +89,7 @@ In alcuni piani di sottoscrizione, Skype for Business può integrarsi con la mes
   
 - Combinare la messaggistica vocale e la messaggistica di posta elettronica in un'unica infrastruttura di messaggistica disponibile dal client Skype for Business messaggistica unificata. La messaggistica unificata di Exchange e Skype for Business interagiscono per fornire la risposta alle chiamate, Outlook Voice Access e i servizi di operatore automatico.
     
-- Abilitare Outlook sul Web per fornire messaggistica istantanea, presenza, aggiornamenti dello stato in base alle Exchange calendario e Skype for Business pianificazione delle riunioni.
+- Abilitare Outlook sul web per fornire messaggistica istantanea, presenza, aggiornamenti dello stato in base Exchange informazioni del calendario e Skype for Business pianificazione delle riunioni.
     
 Skype for Business interagisce con Microsoft SharePoint Server locale per le informazioni sulla presenza e della funzionalità un-clic-per-comunicare nei siti di SharePoint. Questa interoperabilità richiede che il client Skype for Business sia in esecuzione desktop dell'utente. 
   

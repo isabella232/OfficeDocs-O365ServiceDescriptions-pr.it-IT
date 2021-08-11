@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory servizio
+title: " Descrizione del servizio Azure Active Directory"
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Azure Active Directory è la soluzione di gestione delle identità e degli accessi basata sul cloud di Microsoft, che consente ai dipendenti e agli utenti guest di accedere in modo sicuro alle risorse.
-ms.openlocfilehash: f637c202b4023584a88e9cb5688278309743efe2
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 9620f98fd241016748908d74b6644b3208e3418064fb6b296c433836bc8c31d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077533"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701615"
 ---
-# <a name="azure-active-directory-service-description"></a>Azure Active Directory servizio
+# <a name="azure-active-directory-service-description"></a> Descrizione del servizio Azure Active Directory
 
 Azure Active Directory è la soluzione di gestione delle identità e degli accessi basata su cloud di Microsoft, che consente ai dipendenti e agli utenti guest di accedere in modo sicuro e accedere a risorse quali le app Microsoft (ad esempio, Microsoft 365 e Azure), migliaia di app SaaS popolari pre-integrate (ad esempio, ServiceNow, Google Apps) e qualsiasi app Web cloud o locale a compilazione personalizzata. Offre funzionalità di sicurezza come single sign-on, autenticazione a più fattori, accesso condizionale e gestione del ciclo di vita per proteggere le organizzazioni dalla compromissione dell'identità.
 
@@ -30,17 +30,17 @@ Azure Active Directory funzionalità sono sempre in continua evoluzione ed espan
 
 ## <a name="messaging"></a>Messaggistica
 
-Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedere [Centro messaggi.](/microsoft-365/admin/manage/message-center)
+Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ## <a name="licensing-terms"></a>Condizioni di licenza
 
-Per le condizioni e le condizioni di licenza per i prodotti e i servizi acquistati tramite i Programmi Microsoft Commercial Volume Licensing, vedere il [sito condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
+Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
 
 ## <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center) e Centro [Office Accessibilità.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Altre informazioni
 
 Per ulteriori informazioni sulle Azure Active Directory, vedere le risorse seguenti:
 

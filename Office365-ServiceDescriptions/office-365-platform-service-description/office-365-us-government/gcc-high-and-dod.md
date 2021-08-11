@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Informazioni sugli impegni e sulle differenze univoci degli Office 365 GCC High e DoD rispetto all'ambiente Office 365 commerciale.
-ms.openlocfilehash: 5446d5d1e6e10649a75f001c92f0d970e2fae842
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653458"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664409"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -83,7 +83,7 @@ Gli utenti hanno più opzioni per la condivisione di file e cartelle in SharePoi
 - [Sistema telefonico tramite routing diretto](/microsoftteams/here-s-what-you-get-with-phone-system)
 - [Audioconferenza con Instradamento diretto per GCC High e DoD](/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
-### <a name="identity"></a>Identity
+### <a name="identity"></a>Identità
 
 L'autenticazione a più fattori che utilizza un modello di identità federata consente di utilizzare le schede PIV e CAC.
   

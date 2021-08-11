@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Leggere questo articolo per informazioni sulle funzionalità client disponibili in Microsoft Exchange Online archiviazione.
-ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293638"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664669"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Funzionalità client in Archiviazione Exchange Online
 
@@ -32,7 +32,7 @@ Microsoft Outlook è un programma di posta elettronica arricchito che include il
 - **Outlook via Internet** - Outlook via Internet consente agli Outlook di connettersi a Exchange Server e Archiviazione Exchange Online tramite Internet senza bisogno di una connessione VPN. La comunicazione tra Outlook e Archiviazione Exchange Online avviene tramite un tunnel protetto da SSL, utilizzando il componente di rete di Windows RPC su HTTP.    
 - **Individuazione** automatica : il Exchange di individuazione automatica configura automaticamente Outlook per l'utilizzo con Archiviazione Exchange Online. L'individuazione Outlook consente agli utenti di ricevere le impostazioni del profilo richieste direttamente da Exchange la prima volta (e Exchange intervalli fissi successivi) di accedere con il proprio indirizzo di posta elettronica e la password. 
 
-Outlook 2010 e versioni successive e Outlook sul Web forniscono agli utenti tutte le funzionalità dell'archivio, nonché funzionalità correlate come i criteri di conservazione e archiviazione.
+Outlook 2010 e versioni successive e Outlook sul web fornire agli utenti tutte le funzionalità dell'archivio, nonché funzionalità correlate come i criteri di conservazione e archiviazione.
   
 Outlook 2007 offre funzionalità di supporto di base per l'archivio, ma non include tutte le funzionalità di archiviazione e conformità. In Outlook 2007, ad esempio, gli utenti non possono applicare criteri di conservazione o di archiviazione agli elementi nelle loro cassette postali, ma devono basarsi su criteri configurati dall'amministratore. Gli utenti di Outlook 2007 devono disporre dell'aggiornamento cumulativo di Office 2007 del febbraio 2011 per poter accedere all'archivio.
   
@@ -62,9 +62,9 @@ Nella tabella seguente sono elencati i client supportati da Archiviazione Exchan
 
 ## <a name="outlook-on-the-web"></a>Outlook sul Web
 
-Outlook sul Web è una versione basata sul Web del programma di posta elettronica Outlook, che viene utilizzata con Exchange Online. Ovunque gli utenti siano connessi a Internet a casa, in ufficio o in viaggio, possono accedere alla posta elettronica tramite Outlook &mdash; &mdash; sul Web.
+Outlook sul Web è una versione basata sul Web del programma di posta elettronica Outlook, che viene utilizzata con Exchange Online. Ovunque gli utenti siano connessi a Internet a casa, in ufficio o in viaggio, possono accedere alla posta elettronica &mdash; &mdash; tramite Outlook sul web.
   
-Gli utenti possono accedere all'archivio accedendo a Outlook sul Web locale (usando lo stesso URL). L'archivio viene visualizzato insieme alla cassetta postale principale Outlook sul Web. Non esiste un modo esplicito per accedere all'archivio direttamente Outlook sul Web.
+Gli utenti possono accedere all'archivio accedendo Outlook sul web locale (usando lo stesso URL). L'archivio viene visualizzato insieme alla cassetta postale principale in Outlook sul web. Non esiste un modo esplicito per accedere all'archivio direttamente da Outlook sul web.
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
