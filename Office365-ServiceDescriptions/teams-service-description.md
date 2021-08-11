@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Informazioni sulla disponibilità Microsoft Teams servizio e funzionalità tra Microsoft 365 e Office 365 piani.
-ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
-ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
+ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409683"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702905"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrizione del servizio Microsoft Teams
 
@@ -27,7 +27,7 @@ Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli 
 
 Nella tabella seguente sono elencate le principali Microsoft Teams disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Fare riferimento a Microsoft 365 notifiche del Centro messaggi per la messaggistica di modifica del servizio di base e alla documentazione di riferimento sulle condizioni [di licenza Microsoft.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
-| Funzionalità | Azienda di piccole dimensioni | Enterprise piani | GCC | GCC - Alta | DOD | Istruzione |
+| Funzionalità | Azienda di piccole dimensioni | Enterprise piani | GCC | GCC - Alta | DOD | Formazione |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Chat |Sì |Sì |Sì |Sì |Sì |Sì |
 |Teams |Sì|Sì|Sì|Sì<sup>1</sup> |Sì<sup>1</sup> |Sì |
@@ -48,7 +48,7 @@ Nella tabella seguente sono elencate le principali Microsoft Teams disponibili t
 <sup>5</sup> Le applicazioni di terze parti e la pubblicazione di applicazioni non sono attualmente disponibili in questi cloud.<br/>
 <sup>6</sup> Gli eventi live non sono disponibili in GCC-High o DOD al momento.<br/>
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Altre informazioni
 
 Skype for Business Online verrà ritirato il 31 luglio 2021, annunciato il 30 luglio 2019. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams è un servizio completamente nuovo, creato per il cloud da zero sfruttando Azure e altre innovazioni di servizio di Microsoft. Microsoft Teams è basato su Microsoft 365, Microsoft Graph e con la stessa sicurezza, conformità e gestibilità a livello aziendale del resto della Office 365. Teams sfrutta le identità archiviate in Azure Active Directory (Azure AD). Questi servizi sono disponibili dai data center Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o tramite Internet. Per ulteriori informazioni, vedere i poster relativi [Microsoft Teams'architettura IT e alle soluzioni di telefonia.](/microsoftteams/teams-architecture-solutions-posters)
 

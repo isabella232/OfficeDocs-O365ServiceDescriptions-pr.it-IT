@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Le seguenti funzionalità di gestione dei progetti sono disponibili in Project Online.
-ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 0f737ad27b5735d794b9f9900dc8dca426a89d2b5b3a697e5bdb6762943975ff
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652270"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702685"
 ---
 # <a name="project-management"></a>Gestione dei progetti
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Informazioni sulle funzionalità di archiviazione disponibili in Microsoft Exchange Online archiviazione.
-ms.openlocfilehash: cfc5832e3167f29465f387253694e56b66b932fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: c31b231833e7ce06aa772addfe7ead622a9507c0f42604df663c66dc01cf6847
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653098"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664749"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione in Archiviazione Exchange Online
 
@@ -27,7 +27,7 @@ Nelle sezioni seguenti vengono descritte le funzionalità di archiviazione Micro
   
 ## <a name="archive-mailbox"></a>Cassetta postale di archiviazione
 
-Archiviazione Exchange Online offre agli utenti funzionalità di archiviazione avanzate tramite la funzionalità della cassetta postale di archiviazione. Una cassetta postale di archiviazione è una cassetta postale specializzata che viene visualizzata insieme alle cartelle principali delle cassette postali degli utenti Outlook o Outlook sul Web. Gli utenti possono accedere all'archivio esattamente come fanno per le cassette postali principali. Inoltre, possono ricercare sia gli archivi che le cassette postali principali.
+Archiviazione Exchange Online offre agli utenti funzionalità di archiviazione avanzate tramite la funzionalità della cassetta postale di archiviazione. Una cassetta postale di archiviazione è una cassetta postale specializzata che viene visualizzata insieme alle cartelle principali delle cassette postali degli utenti in Outlook o Outlook sul web. Gli utenti possono accedere all'archivio esattamente come fanno per le cassette postali principali. Inoltre, possono ricercare sia gli archivi che le cassette postali principali.
   
 Gli amministratori possono utilizzare l'interfaccia di amministrazione di Exchange (EAC, Exchange Admin Center) o Windows PowerShell remoto per abilitare la funzionalità di archiviazione per specifici utenti. Per ulteriori informazioni, vedere [Abilitare o disabilitare una cassetta postale di archiviazione in Exchange Online](/office365/securitycompliance/enable-archive-mailboxes).
   
@@ -58,7 +58,7 @@ Gli utenti possono importare i dati nell'archivio nei modi riportati di seguito:
 
 Gli utenti possono recuperare elementi eliminati da qualsiasi cartella di posta elettronica presente nei loro archivi. Quando un elemento viene eliminato, va a finire nella cartella Posta eliminata dell'archivio. L'elemento rimane in quella cartella fino a quando non viene eliminato manualmente dall'utente o automaticamente a seguito dei criteri di conservazione impostati.
   
-Dopo che un elemento è stato rimosso dalla cartella Posta eliminata dell'archivio, viene conservato in una cartella Elementi ripristinabili dell'archivio per altri 14 giorni prima di essere rimosso definitivamente. Gli utenti possono ripristinare questi elementi utilizzando **la** funzionalità Recupera posta eliminata in Microsoft Outlook o Outlook sul Web. 
+Dopo che un elemento è stato rimosso dalla cartella Posta eliminata dell'archivio, viene conservato in una cartella Elementi ripristinabili dell'archivio per altri 14 giorni prima di essere rimosso definitivamente. Gli utenti possono ripristinare questi elementi utilizzando **la funzionalità** Recupera elementi eliminati in Microsoft Outlook o Outlook sul web. 
   
 Se un utente ha rimosso manualmente un elemento dalla cartella Elementi recuperabili, un amministratore è in grado di recuperare quell'elemento entro lo stesso periodo di 14 giorni tramite la funzionalità di recupero di un singolo elemento. Questa funzionalità consente agli amministratori di effettuare una ricerca su più cassette postali per trovare gli elementi eliminati e utilizzare il cmdlet  `Search-Mailbox` di Windows PowerShell per spostare gli elementi dalla cassetta postale di individuazione a quella degli utenti. Per ulteriori informazioni, vedere [Abilitare o disabilitare il ripristino di un singolo elemento per una cassetta postale](/office365/securitycompliance/use-network-upload-to-import-pst-files).
   

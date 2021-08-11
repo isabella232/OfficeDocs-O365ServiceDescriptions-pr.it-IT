@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Le funzionalità di base seguenti sono disponibili in Project Online.
-ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9a4592847d861e3bac8912d0b9a7134034c5318202e17fb9a74c14fdc4a9aeaf
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652300"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702855"
 ---
 # <a name="core-functionality"></a>Funzionalità di base
 

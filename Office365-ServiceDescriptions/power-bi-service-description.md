@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI è una famiglia di strumenti di analisi aziendale basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
-ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661614"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702865"
 ---
 # <a name="power-bi-service-description"></a>Descrizione del servizio Power BI
 
@@ -65,7 +65,7 @@ Nella tabella seguente sono elencate le principali Power BI disponibili tra i pi
 
 *Potrebbe essere necessaria una licenza aggiuntiva per incorporare applicazioni o contesti. Per ulteriori informazioni, vedere [Analisi incorporata con Power BI](/power-bi/developer/embedded/embedding).
 
-## <a name="learn-more"></a>Per approfondire
+## <a name="learn-more"></a>Altre informazioni
 
 Per informazioni tecniche su Power BI, vedere le risorse seguenti:
 

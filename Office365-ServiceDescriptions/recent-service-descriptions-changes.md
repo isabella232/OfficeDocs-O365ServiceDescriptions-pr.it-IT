@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai contenuti delle descrizioni dei servizi.
-ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651041"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702895"
 ---
 # <a name="recent-service-descriptions-changes"></a>Modifiche recenti delle descrizioni di servizio
 
@@ -41,7 +41,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 |:-----|:-----|:-----|
 |**Descrizione servizio** <br/> |**Argomento** <br/> |**Modifica** <br/> |
 |Piattaforma Office 365  <br/> |[Descrizione dei servizi della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Sono stati chiariti GCC funzionalità di condivisione High e DoD.  <br/> |
-||[Descrizione del servizio della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |È stata aggiunta la sezione FastTrack GCC argomento.  <br/> |
+||[Descrizione del servizio della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Aggiunta FastTrack sezione a GCC argomento.  <br/> |
    
 ## <a name="april-2018"></a>Aprile 2018
 
@@ -52,7 +52,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 ||[Descrizione del servizio della piattaforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Aggiunta Microsoft 365 Business.  <br/> |
 ||[Centro &amp; sicurezza e conformità](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |È stata modificata la voce del limite di archiviazione su "Sì" per Microsoft 365 Business Basic e Microsoft 365 Business Standard.  <br/> |
 ||[Centro &amp; sicurezza e conformità](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Modificato "Advanced Security Management" in "Office 365 Cloud App Security".  <br/> |
-|Office per il web  <br/> |[Excel per il Web](office-online-service-description/excel-online.md) <br/> |La prima nota dell'argomento è stata modificata in "Le cartelle di lavoro che superano i 30 megabyte (MB) non possono essere visualizzate in Excel per il Web dall'Microsoft SharePoint Online". In precedenza la nota ha detto 10 MB.  <br/> |
+|Office per il web  <br/> |[Excel per il Web](office-online-service-description/excel-online.md) <br/> |La prima nota dell'argomento è stata modificata in "Le cartelle di lavoro che superano i 30 megabyte (MB) non possono essere visualizzate in Excel per il web dall'Microsoft SharePoint Online". In precedenza la nota ha detto 10 MB.  <br/> |
 |OneDrive for Business  <br/> |[Descrizione del servizio OneDrive for Business](onedrive-for-business-service-description.md) <br/> |Aggiornamento principale della descrizione OneDrive for Business servizio.  <br/> |
    
 ## <a name="march-2018"></a>Marzo 2018
@@ -62,7 +62,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 |**Descrizione servizio** <br/> |**Argomento** <br/> |**Modifica** <br/> |
 |Exchange Online  <br/> |[Descrizione del servizio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Aggiornamenti per la crittografia dei dati in pausa nel datacenter e Office 365 Message Encryption (OME).  <br/> |
 ||[Conformità e criteri dei messaggi](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Aggiornamenti per la crittografia dei dati in pausa nel datacenter e Office 365 Message Encryption (OME).  <br/> |
-|Office per il web  <br/> |[Excel per il Web](office-online-service-description/excel-online.md) <br/> |L'aggiornamento al blocco dei riquadri è Excel per il Web.  <br/> |
+|Office per il web  <br/> |[Excel per il Web](office-online-service-description/excel-online.md) <br/> |Aggiornamento al supporto dei riquadri di blocco in Excel per il web.  <br/> |
 |SharePoint Online  <br/> |[Descrizione del servizio SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Più aggiornamenti e ristrutturazioni.  <br/> |
 ||[Limiti di SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Più aggiornamenti.  <br/> |
 |Yammer  <br/> |[Funzionalità di amministrazione e sicurezza in Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Note rimosse e chiavi flusso attività.  <br/> |
@@ -126,7 +126,7 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 |:-----|:-----|:-----|
 |**Descrizione servizio** <br/> |**Argomento** <br/> |**Modifica** <br/> |
 |Piattaforma Office 365  <br/> |[Centro &amp; sicurezza e conformità](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Sono stati aggiunti dettagli sulla governance avanzata.  <br/> |
-||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Sono state aggiunte migrazioni di dati eseguite dalla tabella FastTrack.  <br/> |
+||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Sono state aggiunte le migrazioni di dati eseguite FastTrack tabella .  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |È stato aggiunto che la condivisione federata richiede l'uso dello spazio di indirizzi di disponibilità per supportare la condivisione con altri tenant.  <br/> |
 |Exchange Online  <br/> |[Limiti di Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Sono stati aggiunti limiti per Office 365 Message Encryption (OME) legacy e Office 365 Message Encryption (OME) con nuove funzionalità.  <br/> |
 |Skype for Business  <br/> |[Descrizione del servizio Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |È stato aggiunto che le audioconferenze possono essere aggiunte Microsoft 365 Business Standard, Office 365 Enterprise E1 e Office 365 Enterprise piani di sottoscrizione E3 come componente aggiuntivo.  <br/> |
@@ -186,4 +186,4 @@ Nelle tabelle seguenti vengono elencate le modifiche apportate recentemente ai c
 ||[Servizi di messaggistica vocale](exchange-online-service-description/voice-message-services.md) <br/> |Aggiornato per includere un annuncio finale per la messaggistica unificata di Exchange Online tramite SBC.  <br/> |
 | Workplace Analytics  <br/> |[Descrizione del servizio Workplace Analytics](workplace-analytics-service-description.md) <br/> |Aggiunta della descrizione di un nuovo servizio  <br/> |
 |Multiplo  <br/> |Multiplo  <br/> |Azure RMS rinominato Azure Information Protection (AIP).  <br/> |
-|Multiplo  <br/> |Multiplo  <br/> |Rimosso Office per il Web e Office di confronto desktop da Office 365 Germania e Office 365 gestito da 21 pagineVianet. È stato aggiunto un puntatore allo stesso Office per la pagina Descrizione servizio Web.  <br/> |
+|Multiplo  <br/> |Multiplo  <br/> |Rimosso Office per il web confronto tra Office desktop da Office 365 Germania e Office 365 gestito da 21 pagineVianet. È stato aggiunto un puntatore allo stesso contenuto nella Office per il web Descrizione servizio.  <br/> |
