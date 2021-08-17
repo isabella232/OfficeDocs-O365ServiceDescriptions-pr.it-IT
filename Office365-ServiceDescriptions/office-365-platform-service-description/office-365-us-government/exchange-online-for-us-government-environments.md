@@ -9,22 +9,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica delle differenze di funzionalità tra il cloud governativo statunitense e il cloud commerciale, come indicato nella descrizione Exchange Online servizio.
-ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664459"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363612"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online per ambienti governativi statunitensi
 
 In questo articolo viene fornita una panoramica delle differenze di funzionalità tra il cloud governativo statunitense e il cloud commerciale, come indicato nella descrizione Exchange Online [servizio.](../../exchange-online-service-description/exchange-online-service-description.md) Exchange Online è disponibile per gli ambienti Government Community Cloud (GCC), GCC High e Department of Defense (DoD).
 
-Per ulteriori informazioni sul cloud per enti pubblici, inclusi l'idoneità e l'acquisto, [vedere Microsoft 365 Government - come acquistare](./microsoft-365-government-how-to-buy.md). Per confrontare Office 365 Government piani, vedere [Office 365 Government piani.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Per altre informazioni sul cloud per enti pubblici, inclusi l'idoneità e l'acquisto, [vedi Microsoft 365 Government - come acquistare](./microsoft-365-government-how-to-buy.md). Per confrontare Office 365 Government piani, vedere [Office 365 Government piani.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
 Per informazioni sugli endpoint necessari per la gestione della connettività di rete, vedere Office 365 [U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) o [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
-Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le organizzazioni traggono vantaggio dalle seguenti funzionalità specifiche degli ambienti cloud del governo statunitense:
+Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le organizzazioni traggono vantaggio dalle seguenti funzionalità specifiche degli ambienti cloud governativi statunitensi:
 
 - Il contenuto dei clienti dell'organizzazione è logicamente segregato dal contenuto dei clienti nei servizi Office 365 commerciali.
 
@@ -34,11 +34,11 @@ Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le or
 
 - Gli ambienti cloud governativi sono conformi a certificazioni e accreditamenti spesso necessari per i clienti del settore pubblico statunitense.
 
-È nostro intento generale fornire tutte le Exchange e le funzionalità commerciali all'ambiente cloud per enti pubblici. Ciò detto, alcune funzionalità non sono disponibili a causa dei requisiti dei clienti cloud governativi. Altre funzionalità sono disponibili negli ambienti governativi, ma non sono ancora disponibili. Fare riferimento alle sezioni seguenti per informazioni sulla disponibilità delle funzionalità negli ambienti cloud per enti pubblici.
+È nostro intento generale fornire tutte le Exchange e le funzionalità commerciali all'ambiente cloud per enti pubblici. Ciò detto, alcune funzionalità non sono disponibili a causa dei requisiti dei clienti cloud per enti pubblici. Altre funzionalità sono disponibili negli ambienti governativi, ma non sono ancora disponibili. Fare riferimento alle sezioni seguenti per informazioni sulla disponibilità delle funzionalità negli ambienti cloud per enti pubblici.
 
 ## <a name="exchange-online-features"></a>Funzionalità di Exchange Online 
 
-Nella tabella seguente viene indicato se le funzionalità Exchange Online sono disponibili negli ambienti GCC, GCC High e DoD. In caso di sfumature relative all'affermazione di supporto (o mancanza di tale supporto), viene fornito un contesto aggiuntivo.<br><br>
+Nella tabella seguente viene indicato se le funzionalità Exchange Online sono disponibili negli ambienti GCC, GCC High e DoD. In caso di sfumature relative all'affermazione del supporto (o della loro mancanza), viene fornito un contesto aggiuntivo.<br><br>
 
 | Funzionalità | GCC | GCC High | DoD | Considerazioni chiave |
 |:-----|:-----|:-----|:-----|:-----|
@@ -51,7 +51,7 @@ Nella tabella seguente viene indicato se le funzionalità Exchange Online sono d
 |Autorizzazioni basate sui ruoli|Sì|Sì|Sì||
 |Gruppi di ruoli|Sì|Sì|Sì||
 |Criteri di assegnazione dei ruoli|Sì|Sì|Sì||
-|**[Conformità e criteri dei messaggi](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
+|**[Criteri e conformità dei messaggi](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
 |Archiviazione di cassette postali di Exchange Online|Sì|Sì|Sì||
 |Archiviazione basata su cloud delle cassette postali locali|Sì|Sì|Sì||
 |Messaging Records Management (MRM) |Sì|Sì|Sì||
@@ -59,7 +59,7 @@ Nella tabella seguente viene indicato se le funzionalità Exchange Online sono d
 |Crittografia dei dati inattivi (BitLocker)|Sì|Sì|Sì||
 |IRM con Protezione delle informazioni di Azure|Sì|Sì|Sì|Per ulteriori informazioni sulle limitazioni di AIP in GCC High e DoD, vedere <a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium Government Service Description</a>.<br><br>Azure Information Protection non è incluso in G1/F3, ma può essere acquistato come componente aggiuntivo separato e abiliterà le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono una sottoscrizione a Office 365 ProPlus, che non è inclusa in Office 365 Government G1 o Office 365 Government F3.|
 |IRM mediante Windows Server AD RMS|Sì|Sì|Sì|Windows Server AD RMS è un server locale che deve essere acquistato e gestito separatamente per abilitare le funzionalità IRM supportate.|
-|Crittografia dei messaggi di Office 365|Sì|Sì|Sì|Vedere Office 365 Message Encryption comportamento tra i limiti [High/DoD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) di GCC in questo articolo e Caratteristiche univoche di Office 365 Message Encryption in una distribuzione di <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC High</a>, che documenta sfumature comportamentali di Office 365 Message Encryption durante l'invio di messaggi tra utenti GCC high/dod e non GCC High/DoD.|
+|Crittografia dei messaggi di Office 365|Sì|Sì|Sì|Vedere Office 365 Message Encryption comportamento tra i limiti [high/doD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) di GCC in questo articolo e Caratteristiche univoche di Office 365 Message Encryption in una distribuzione di <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC High</a>, che documenta sfumature comportamentali di Office 365 Message Encryption quando si inviano messaggi tra utenti GCC high/dod e non GCC high/doD.|
 |Customer Key|Sì|Sì|Sì|Richiede il piano di servizio G5.|
 |S/MIME|Sì|Sì|Sì||
 |Archiviazione sul posto e conservazione per controversia legale|Sì|Sì|Sì|Richiede il piano di servizio G3 o G5.|
@@ -100,9 +100,9 @@ Nella tabella seguente viene indicato se le funzionalità Exchange Online sono d
 |Cassette postali per le risorse|Sì|Sì|Sì||
 |Gestione delle sale riunioni|Sì|Sì|Sì||
 |Risposte Fuori sede|Sì|Sì|Sì||
-|Condivisione calendario Internet|Sì|No|No|In GCC High, la pubblicazione/condivisione del calendario Internet funziona per la connessione in ingresso ai calendari condivisi da utenti GCC High, ma non per gli utenti di GCC High che si connettono in uscita a un calendario condiviso al di fuori di GCC High.<br><br>In DoD- La condivisione del calendario Internet non è supportata a causa del requisito per l'inserimento di connessioni in ingresso/in uscita consentite in tale ambiente.|
+|Condivisione calendario Internet|Sì|No|No|In GCC High, la pubblicazione/condivisione del calendario Internet funziona per la connessione in ingresso ai calendari condivisi da utenti di GCC Utenti elevati, ma non per gli utenti di GCC Utenti elevati che si connettono in uscita a un calendario condiviso al di fuori di GCC High.<br><br>In DoD- La condivisione del calendario Internet non è supportata a causa del requisito per l'inserimento di connessioni in ingresso/in uscita consentite in tale ambiente.|
 |**[Funzionalità di creazione dei report e strumenti di risoluzione problemi](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
-|Report nell'interfaccia di amministrazione di Microsoft 365|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
+|Report nell'interfaccia di amministrazione di Microsoft 365|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
 |Report servizi Web|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
 |Message trace|Sì|Sì|Sì||
 |Report di controllo|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
@@ -123,9 +123,9 @@ Nella tabella seguente viene indicato se le funzionalità Exchange Online sono d
 |SMTP|Sì|Sì|Sì||
 |Supporto delle applicazioni EWS|Sì|Sì|Sì||
 |**[Servizi di messaggistica vocale](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
-|Posta vocale|No|No|No|L'integrazione dei sistemi IP-PBX locali con Exchange Online messaggistica unificata non è supportata.|
-|Integrazione tra segreteria telefonica e FAX di terze parti|No|No|No|L'integrazione dei sistemi IP-PBX locali con Exchange Online messaggistica unificata non è supportata.|
-|Interoperabilità posta vocale di terze parti|No|No|No|L'integrazione dei sistemi IP-PBX locali con Exchange Online messaggistica unificata non è supportata.|
+|Posta vocale|No|No|No|L'integrazione di sistemi IP-PBX locali con Exchange Online messaggistica unificata non è supportata.|
+|Integrazione tra segreteria telefonica e FAX di terze parti|No|No|No|L'integrazione di sistemi IP-PBX locali con Exchange Online messaggistica unificata non è supportata.|
+|Interoperabilità posta vocale di terze parti|No|No|No|L'integrazione di sistemi IP-PBX locali con Exchange Online messaggistica unificata non è supportata.|
 |Skype for Business integrazione|Sì|Sì|Sì||
 |**[Disponibilità elevata e continuità aziendale](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
 |Replica delle cassette postali nei datacenter|Sì|Sì|Sì||
@@ -138,18 +138,18 @@ Nella tabella seguente viene indicato se le funzionalità Exchange Online sono d
 |Supporto della connettività EWS|Sì|Sì|Sì||
 |Supporto dell'inoltro SMTP|Sì|Sì|Sì||
 |**[Installazione e amministrazione di Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
-|Accesso al portale di Microsoft Office 365|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
-|interfaccia di amministrazione di Microsoft 365 accesso|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
+|Accesso al portale di Microsoft Office 365|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
+|interfaccia di amministrazione di Microsoft 365 accesso|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
 |Accesso all'interfaccia di amministrazione di Exchange|Sì|Sì|Sì||
 |Accesso a Windows PowerShell remoto|Sì|Sì|Sì||
-|Criteri di ActiveSync per dispositivi mobili|Sì|Sì|Sì||
-|Report utilizzo|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della descrizione Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
+|Criteri di ActiveSync per i dispositivi mobili|Sì|Sì|Sì||
+|Report utilizzo|Sì|Sì|No|Report non disponibili per DoD. Fai riferimento alla sezione <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">relativa alle funzionalità della</a> piattaforma della Office 365 servizio us government per aggiornamenti/disponibilità corrente.|
 |**[Estensione del servizio: personalizzazione, componenti aggiuntivi e risorse](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Considerazioni chiave**|
 |Outlook componenti aggiuntivi e Outlook MAPI|Sì|Sì|Sì|Solo alcuni OWA e Outlook componenti aggiuntivi sono disponibili in GCC High e DoD. Vedere [Componenti aggiuntivi in Outlook e Outlook Web App](#add-insin-outlook-and-outlook-web-app) in questo articolo.|
 
-<sup>1</sup> Outlook sul Web può essere utilizzato in scenari in cui Outlook per Windows non è in grado di visualizzare i messaggi protetti da IRM a causa di restrizioni oltre i limiti (scenari GCC Alta / Non GCC Alta).
+<sup>1</sup> Outlook sul Web può essere utilizzato in scenari in cui Outlook per Windows non è in grado di visualizzare i messaggi protetti da IRM a causa di restrizioni oltre i limiti (scenari GCC High / Non-GCC High).
 
-## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Sfumature delle funzionalità in GCC high e dod
+## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Sfumature delle funzionalità in GCC High e DoD
 
 ### <a name="connectivity-with-third-party-services"></a>Connettività con servizi di terze parti  
 
@@ -159,7 +159,7 @@ A causa di queste restrizioni, le funzionalità che si basano su questa connetti
 
 - Account connessi: gli utenti non possono aggiungere/sincronizzare account (Google, POP/IMAP e così via).
 
-- Supporto per provider di archiviazione file di terze parti - Solo l'account OneDrive for Business dell'utente all'interno di *GCC High/DoD* è accessibile dall'interno dei vari client Outlook allo scopo di allegare/condividere file. Gli account di archiviazione di terze parti (Dropbox, Box, Google Drive) non possono essere aggiunti.
+- Supporto per provider di archiviazione file di terze parti- Solo l'account OneDrive for Business dell'utente all'interno di *GCC High/DoD* può essere accessibile dall'interno dei vari client Outlook allo scopo di allegare/condividere file. Non è possibile aggiungere account di archiviazione di terze parti (Dropbox, Box, Google Drive).
 
 - Connettività con i social network, ad esempio Facebook o LinkedIn.
 
@@ -167,7 +167,7 @@ A causa di queste restrizioni, le funzionalità che si basano su questa connetti
 
 Azure Active Directory La collaborazione B2B è attualmente supportata solo tra organizzazioni che sono entrambe nel cloud di Azure US Government e che supportano entrambe la collaborazione B2B
 
-Inoltre, gli utenti B2B come guest in Office 365 non sono supportati negli ambienti GCC High e DoD. 
+Inoltre, gli utenti B2B come utenti guest in Office 365 non sono supportati in ambienti GCC High e DoD. 
 
 Per altre informazioni e gli aggiornamenti più recenti, vedi [Azure Government Security + Identity.](/azure/azure-government/documentation-government-services-securityandidentity)
 
@@ -177,7 +177,7 @@ Se si prevede di utilizzare Office 365 Message Encryption in un ambiente GCC Hig
 
 - Quando si inviano messaggi di posta elettronica crittografati GCC High o DoD ai destinatari nello stesso ambiente:
     
-    - I mittenti possono crittografare manualmente i messaggi di posta elettronica in Outlook per PC e Mac e Outlook sul web oppure le organizzazioni possono configurare un criterio per crittografare i messaggi di posta elettronica Exchange regole del flusso di posta.
+    - I mittenti possono crittografare manualmente i messaggi di posta elettronica in Outlook per PC e Mac e Outlook sul web oppure le organizzazioni possono configurare un criterio per crittografare i messaggi di posta elettronica usando Exchange del flusso di posta.
     
     - I destinatari all'interno GCC High/DoD ricevono la stessa esperienza di lettura in linea in Outlook per PC e Mac e Outlook sul web come tutti gli altri Office 365 utenti.
 
@@ -187,7 +187,7 @@ Se si prevede di utilizzare Office 365 Message Encryption in un ambiente GCC Hig
     
     - I mittenti interni GCC High/DoD possono inviare messaggi di posta elettronica crittografati all'esterno GCC limite High/DoD.
     
-    - Tutti i destinatari esterni GCC High/DoD, inclusi gli utenti Office 365 commerciali, gli utenti di Outlook.com e altri utenti di altri provider di posta elettronica, ricevono una posta wrapper. Questa posta wrapper reindirizza il destinatario al portale OME dove il destinatario può leggere e rispondere al messaggio.
+    - Tutti i destinatari esterni GCC High/DoD, inclusi gli utenti Office 365 commerciali, gli utenti Outlook.com e altri utenti di altri provider di posta elettronica, ricevono una posta wrapper. Questa posta wrapper reindirizza il destinatario al portale OME dove il destinatario può leggere e rispondere al messaggio.
 
 Per ulteriori informazioni e gli aggiornamenti più recenti, vedere [Confrontare le versioni di OME.](/microsoft-365/compliance/ome-version-comparison)
 
@@ -205,7 +205,7 @@ Nell'ambiente DoD:
 
 ### <a name="client-configuration"></a>Configurazione client
 
-Ulteriori passaggi sono necessari per la distribuzione e la configurazione di Office ProPlus (incluso Outlook). Per una descrizione dettagliata di questi passaggi, vedere [Guidance for deploying Microsoft 365 Apps for enterprise in a GCC High or DoD environment](/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
+Ulteriori passaggi sono coinvolti nella distribuzione e nella configurazione di Office ProPlus (incluso Outlook). Per una descrizione dettagliata di questi passaggi, vedere [Guidance for deploying Microsoft 365 Apps for enterprise in a GCC High or DoD environment](/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
 
 Outlook per iOS e Android è disponibile anche per gli GCC High e DoD. Per altre informazioni sulle limitazioni delle funzionalità e sulla gestione in tali ambienti, vedi Uso di [Outlook per iOS](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)e Android in Government Community Cloud .
 
@@ -217,8 +217,8 @@ Solo alcuni OWA e Outlook componenti aggiuntivi sono disponibili in GCC High e D
 
 | Funzionalità | Descrizione | WW | Disponibilità in GCC |
 |:-----|:-----|:-----|:-----|
-|Piattaforme supportate|Web, Android, iOS, Mac, Windows|Tutti|Solo Web|
-|Hub M365 supporta|Integrazioni con Outlook, Teams, Planner|Tutti|Outlook, Planner (Teams disponibile con l'app Teams attività)|
+|Piattaforme supportate|Web, Android, iOS, Mac, Windows|Tutto|Solo Web|
+|Hub M365 supporta|Integrazioni con Outlook, Teams, Planner|Tutto|Outlook, Planner (Teams disponibile con l'app Teams attività)|
 |Wunderlist Migrazione|Consentire agli utenti wunderlist di eseguire la migrazione dei dati To Do sul Web|Sì|No|
 |Notifiche Push|Invia notifiche Push agli utenti finali per promemoria e così via.|Sì|No|
 |Supporto helpshift|Usare l'interfaccia helpshift per creare una richiesta di supporto|Sì|No|

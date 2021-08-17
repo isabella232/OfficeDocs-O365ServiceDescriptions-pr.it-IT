@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Il Centro sicurezza e conformità è progettato per facilitare la gestione delle funzionalità di &amp; conformità Office 365 per l'organizzazione. Nei collegamenti relativi alle funzionalità di conformità per SharePoint ed Exchange vengono raggruppate le funzionalità di conformità di Office 365.
-ms.openlocfilehash: a04ba0cb7c9160bc929c02475edd68146cc9a1de11648b75ea5d50df9cc8b974
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 53b1c2c0f9f2af8fd287a2466d33b076ae4ba039
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701625"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363603"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Progettato in base all'accessibilità e all'usabilità, il Centro sicurezza [Microsoft 365,](https://sip.security.microsoft.com/homepage) [Centro conformità Microsoft 365](https://sip.compliance.microsoft.com/homepage)e [l'interfaccia](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) di amministrazione di Exchange includono funzionalità esistenti ed esperienze nuove e migliorate per la sicurezza unificata, la conformità e la gestione del flusso di posta nei servizi Microsoft 365. Questi nuovi centri sostituiranno gradualmente Office 365 Centro &amp; sicurezza e conformità (protection.office.com). È possibile attivare il reindirizzamento [](https://sip.security.microsoft.com/homepage) automatico [](https://sip.compliance.microsoft.com/homepage)ora nel Centro sicurezza o nel Centro conformità, in modo che gli amministratori dell'organizzazione siano immediatamente reindirizzati dalle funzionalità del Centro sicurezza e conformità di Office 365 alla funzionalità corrispondente nei nuovi &amp; centri.
+Progettato in base [all'accessibilità](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) e all'usabilità, il Centro sicurezza [Microsoft 365,](https://sip.security.microsoft.com/homepage) [Centro conformità Microsoft 365](https://sip.compliance.microsoft.com/homepage)e l'interfaccia di amministrazione di Exchange includono funzionalità esistenti ed esperienze nuove e migliorate per la sicurezza unificata, la conformità e la gestione del flusso di posta tra i servizi Microsoft 365. Questi nuovi centri sostituiranno gradualmente Office 365 Centro sicurezza &amp; e conformità (protection.office.com). È possibile attivare il reindirizzamento [](https://sip.security.microsoft.com/homepage) automatico ora nel Centro sicurezza o nel Centro [conformità,](https://sip.compliance.microsoft.com/homepage)in modo che gli amministratori dell'organizzazione siano immediatamente reindirizzati dalle funzionalità del Centro sicurezza e conformità di Office 365 alla funzionalità corrispondente nei nuovi &amp; centri.
 
-Per visualizzare le opzioni per la concessione delle licenze agli utenti per trarre vantaggio dalle Microsoft 365 di conformità, scaricare la tabella Microsoft 365 [Comparison.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Per visualizzare le opzioni per la concessione delle licenze agli utenti per trarre vantaggio dalle Microsoft 365 di conformità, scaricare la tabella [Microsoft 365 Comparison.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilità &amp; del Centro sicurezza e conformità per i piani aziendali e aziendali
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 us government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |Sì   |
 |[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security) | No | No |No | No | No | Sì | Sì  |   |
@@ -35,7 +35,7 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per tra
 |[Gestione dei dispositivi mobili](/microsoft-365/admin/basic-mobility-security/set-up) | Sì | Sì | Sì | Sì | Sì | Sì | Sì | Sì |
 |[Prevenzione della perdita dei dati Exchange Online, SharePoint Online e OneDrive for Business](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | No | Sì | Sì | No | Sì | Sì | No | No |
 |[Prevenzione della perdita dei dati di comunicazione per Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | No | No | No | No | No | Sì | No |  |
-|[Etichette di riservatezza manuali](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No | No | Sì | Sì | Sì | Sì | No |
+|[Etichette di riservatezza manuali](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No | Sì | Sì | Sì | Sì | Sì | No |
 |Etichette di riservatezza automatiche | No | No |No | No | No | Sì | Sì | No |
 |[Barriere informative](/microsoft-365/compliance/information-barriers) | No | No  |No  | No | No | Sì | No  | No  |
 |[Governance delle](/microsoft-365/compliance/manage-information-governance)<sup>informazioni 1</sup> | Sì<sup>11</sup> | Sì<sup>11</sup>  |Sì<sup>11</sup>  | Sì | Sì | Sì | Sì | Sì<sup>11</sup>  |
@@ -50,12 +50,12 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per tra
 |[Controllo di base](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sì |Sì |Sì |Sì |Sì |Sì |Sì |Sì |
 |[Audit avanzato](/microsoft-365/compliance/advanced-audit) |No |No |No |No |No |Sì |Sì |No |
 |[Conformità delle comunicazioni (criteri di supervisione)](/microsoft-365/compliance/supervision-policies) |No |No |No |No |No |Sì |Sì |No |
-|[Office 365 Message Encryption (OME) Basic](/microsoft-365/compliance/ome)  |No |No |No |No |Sì |Sì |Sì |No |
+|[Office 365 Message Encryption (OME) Basic](/microsoft-365/compliance/ome)  |No |No |Sì |No |Sì |Sì |Sì |No |
 |[Office 365 Advanced Message Encryption](/microsoft-365/compliance/ome-advanced-message-encryption)  |No |No |No |No |No |Sì |Sì |No |
 |[Gestione degli accessi con privilegi](/microsoft-365/compliance/privileged-access-management-overview)  |No |No |No |No |No |Sì |No |No |
 |[Customer Key](/microsoft-365/compliance/customer-key-overview)  |No |No |No |No |No |Sì |No |No |
 
-<sup>1</sup> I registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include advanced audit, i log di controllo vengono conservati per un massimo di un anno. Puoi anche usare [l'API](/office/office-365-management-api/office-365-management-activity-api-reference) di Office 365 gestione degli eventi per recuperare gli eventi dal log di controllo unificato.
+<sup>1</sup> I registri di controllo per tutti i piani che includono il controllo di base (ad eccezione di E5) vengono conservati per 90 giorni. Poiché E5 include advanced audit, i log di controllo vengono conservati per un massimo di un anno. Inoltre, puoi usare l'API Office 365 [management per](/office/office-365-management-api/office-365-management-activity-api-reference) recuperare gli eventi dal log di controllo unificato.
 
 <sup>2</sup> Richiede Office 365 di prevenzione della perdita dei dati.
 
@@ -103,13 +103,13 @@ Per visualizzare le opzioni per la concessione delle licenze agli utenti per tra
 
 <sup>7</sup> Include i file archiviati Microsoft Teams repository.
 
-<sup>8</sup> I registri di controllo per tutti i piani che includono il controllo di base vengono conservati per 90 giorni. Puoi anche usare [l'API](/office/office-365-management-api/office-365-management-activity-api-reference) di Office 365 gestione degli eventi per recuperare gli eventi dal log di controllo unificato.
+<sup>8</sup> I registri di controllo per tutti i piani che includono il controllo di base vengono conservati per 90 giorni. Inoltre, puoi usare l'API Office 365 [management per](/office/office-365-management-api/office-365-management-activity-api-reference) recuperare gli eventi dal log di controllo unificato.
 
-<sup>9</sup> Richiede Office 365 componente aggiuntivo per la prevenzione della perdita di dati.
+<sup>9</sup> Richiede Office 365 componente aggiuntivo per la prevenzione della perdita dei dati.
 
 <sup>10</sup> Limitato ai file archiviati in OneDrive for Business.
 
-<sup>11</sup> Una licenza Exchange Online piano 2 o Archiviazione Exchange Online per mettere in attesa una cassetta postale utente utilizzando un criterio di conservazione.
+<sup>11</sup> È necessaria una Exchange Online piano 2 o Archiviazione Exchange Online per mettere in attesa una cassetta postale utente utilizzando un criterio di conservazione.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 

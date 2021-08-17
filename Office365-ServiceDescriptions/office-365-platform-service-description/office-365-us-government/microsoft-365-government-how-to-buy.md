@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: In questo articolo viene fornita una panoramica Microsoft 365 per enti pubblici e vengono descritte le opzioni di acquisto.
-ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701905"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363583"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - Come acquistare
 
@@ -24,7 +24,7 @@ In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stat
 
 Microsoft 365 Government è un insieme di funzionalità software cloud di produttività, sicurezza e mobilità personalizzate per le agenzie governative e gli appaltatori statunitensi sponsorizzati per contenere informazioni controllate e non classificate. Fornito tramite ambienti univoci che soddisfano i requisiti di conformità più stringenti, Microsoft 365 Government è un'offerta cloud per i clienti del governo statunitense che corrisponde il più possibile alle funzionalità e alle funzionalità delle offerte aziendali cloud commerciali Microsoft.
   
-## <a name="whats-the-value-of-microsoft-365-government"></a>Qual è il valore di Microsoft 365 governo?
+## <a name="whats-the-value-of-microsoft-365-government"></a>Qual è il valore di Microsoft 365 Government?
 
 Microsoft 365 Il governo aiuta i dirigenti e i lavoratori del governo statunitense a essere produttivi ovunque e in qualsiasi momento, consentendo la produttività mobile e proteggendo la collaborazione con la conformità, aiutando le agenzie a gestire in modo efficace i requisiti normativi di conformità dei dati. Nella tabella seguente sono riportati esempi di ruoli governativi chiave.<br><br>
  
@@ -35,11 +35,11 @@ Microsoft 365 Il governo aiuta i dirigenti e i lavoratori del governo statuniten
 |Rimanere informati e connessi con il personale e i cittadini, in ufficio o in viaggio  <br/> |Creare un coinvolgimento più approfondito con i dipendenti pubblici per migliorare i tassi di conservazione dei dipendenti  <br/> | Creare un senso di community più forte in tutte le sedi delle agenzie  <br/> |
 |Garantire una soluzione conforme al governo degli Stati Uniti che consente di ridurre i costi e migliorare l'agilità  <br/> |||
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Cosa rende Microsoft 365 governo diverso da quello Microsoft 365 per le offerte aziendali?
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Cosa rende Microsoft 365 governo diverso dalle Microsoft 365 per le offerte aziendali?
 
 Microsoft 365 Government è progettato in modo univoco per soddisfare i requisiti di conformità delle agenzie governative statunitensi in quattro aree chiave:
 
-**Community esclusiva.** I data center governativi sono disponibili solo per enti pubblici o reparti o società commerciali autorizzate a contenere ed elaborare informazioni controllate per conto del governo degli Stati Uniti.
+**Community esclusiva.** I data center governativi sono disponibili solo per agenzie governative o reparti o società commerciali autorizzate a contenere ed elaborare informazioni controllate per conto del governo degli Stati Uniti.
 
 **Personale schermato.** L'accesso ai contenuti dei clienti dell'organizzazione è limitato al personale Microsoft controllato che è cittadino degli Stati Uniti e ha superato i controlli in background necessari.
 Controlli di terze parti. Tutta l'infrastruttura viene verificata da un revisore di terze parti certificato che fornisce un report di valutazione della sicurezza o una lettera di attestazione utilizzata dalle agenzie federali per rilasciare un'autorizzazione per operare (ATO). 
@@ -65,9 +65,9 @@ Un cliente governativo idoneo è definito da uno dei seguenti:
 - Un'agenzia federale, definita come un ufficio, un ufficio, un'agenzia, un reparto o un'altra entità del governo degli Stati Uniti
 - Un'entità di stato/locale, definita come una delle seguenti:
     - Qualsiasi agenzia di uno Stato o di un governo locale negli Stati Uniti
-    - Qualsiasi provincia, distretto, commonwealth, città, città, distretto a scopo speciale o altro tipo simile di strumentalità governativa stabilita dalle leggi dello stato di un cliente e situata all'interno della giurisdizione e dei confini geografici del cliente
+    - Qualsiasi provincia, distretto, commonwealth, città, città, città, città, distretto a scopo speciale o altro tipo simile di strumentalità governativa stabilita dalle leggi dello stato di un cliente e situata all'interno della giurisdizione e dei confini geografici del cliente
     - Distretto di Columbia, Commonwealth di PortoRico, Guam, Samoa americane, Isole Vergini americane e Isole Marianne settentrionali
-- Entità tribale, definita come un'entità tribale riconosciuta a livello federale idonea per i fondi e i servizi del Dipartimento degli Interni degli Stati Uniti in virtù del suo status di una tribù indiana o, in Alaska, di un paese nativo o di un'azienda nativa dell'Alaska
+- Entità tribale, definita come entità tribale riconosciuta a livello federale e idonea per i fondi e i servizi del Dipartimento degli Interni degli Stati Uniti in virtù del suo status di una tribù indiana o, in Alaska, di un paese nativo o di un'azienda nativa dell'Alaska
 
 Le organizzazioni non governative che contengono i seguenti tipi di dati e possono fornire le prove elencate sono idonee per il processo di convalida di Microsoft Government Cloud:
 
@@ -109,14 +109,14 @@ La tabella seguente mostra le opzioni che possono soddisfare le esigenze di ogni
 |**SKU** |Gov for government, GOVCON for commercial |GCC-High |DOD | 
 |**Canale** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |EA |
 
-## <a name="how-do-i-buy-microsoft-365-government"></a>Come si acquista Microsoft 365 Government?
+## <a name="how-do-i-buy-microsoft-365-government"></a>Come posso acquistare Microsoft 365 Government?
 
 Segui questi passaggi per acquistare licenze Microsoft 365 per enti pubblici:
 
 1. Completare e inviare il modulo [GCC](https://www.microsoft.com/microsoft-365/government/eligibility-validation) o [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) per convalidare l'idoneità dell'organizzazione.
 2. Collaborare con il team dell'account Microsoft o con un partner qualificato per eseguire un ordine. I clienti possono acquistare Microsoft 365 licenze per il governo degli Stati Uniti solo tramite partner selezionati.
 
-**LSP GCC e GCC alta (+500 postazioni)**
+**LSP GCC e GCC high (+500 postazioni)**
 
 - CDW
 - Connessione (in precedenza CONNESSIONE PC)
@@ -134,41 +134,50 @@ Segui questi passaggi per acquistare licenze Microsoft 365 per enti pubblici:
 **Partner AOS-G GCC e GCC High (meno di 500 postazioni)**
 
 - Accenture Federal Services, LLC
-- Agile IT, Inc.
+- Agile IT, Inc
+- American Technology Services, Inc.
 - Applied Information Sciences, Inc.
-- Booz Allen Hamilton, Inc.
+- Arctic Information Technology, Inc.
+- BAH
 - Soluzioni integrate C3
 - CACI
 - Carahsoft
+- Catapult Systems, Inc.
 - CGI Federal Inc.
-- Conquest Cyber
-- CyberSheath Services International, LLC
+- Conquest Cyber (UDT)
+- CyberSheath
+- Daymark Solutions, Inc.
 - Dox Electronics Inc.
-- Enlighten IT Consulting, LLC
+- Illuminismo
 - F1 Solutions Inc.
 - Tecnologia a quattro punti, LLC
-- General Dynamics Information Technology, Inc.
+- GDIT
+- Golden Five LLC
 - Hypori, Inc.
 - Imager Software, Inc. d.b.a ISC
 - Jackpine
 - Jasper
 - Johnson Technology Systems, Inc.
-- Kamind IT, Inc.
+- KAMIND IT, Inc.
 - KTL Solutions, Inc.
 - LiftOff, LLC
-- ManTech Advanced Systems International, Inc.
-- LOGICA NIMBUS, LLC
+- ManTech
+- MicroTechnologies, Inc.
+- Nimbus Logic LLC
 - Northrop
 - Novetta
-- Perspecta Enterprise Solutions LLC
+- Permuta Technologies, Inc.
+- Perspecta
 - Planet Technologies, Inc.
 - Professionisti silenziosi, LLC
 - R3, LLC
 - Red River
 - SAIC
 - Smartronix
-- Vertice 7
+- Sistemi Vertice 7
 - TechTrend, Inc.
+- Valcom Salt Lake City, LC dba VCLM
+- VC3, INC
 - Vexcel
 
 **Nota:** Tutti i provider di soluzioni di gestione delle licenze Microsoft (LSP) nell'elenco precedente possono eseguire transazioni sia GCC che GCC High through Enterprise Agreement (EA) per creare il listino prezzi dei clienti (CPS). Le organizzazioni che non sono idonee per EA possono acquistare GCC licenze tramite i partner AOS-G elencati o il programma partner CSP.
@@ -177,7 +186,7 @@ Segui questi passaggi per acquistare licenze Microsoft 365 per enti pubblici:
 
 ## <a name="what-trials-are-available"></a>Quali versioni di valutazione sono disponibili?
 
-- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) I clienti possono selezionare il pulsante Prova ora nella parte superiore destra della pagina EMS per eseguire un processo di iscrizione con gate nel portale di Office Commerce, che li instrada al portale di Azure Active Directory (AAD).
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) I clienti possono selezionare il pulsante Prova ora nella parte superiore destra della pagina EMS per eseguire un processo di iscrizione con gate nel portale di Office Commerce Portal, che li instrada al portale di Azure Active Directory (AAD).
 - [Office 365.](https://aka.ms/gcctrial) Una versione di valutazione gratuita di un mese è disponibile solo per GCC versione.  
 - Microsoft non offre versioni di Office 365 GCC per i clienti commerciali e non sono disponibili versioni di valutazione di GCC High o DoD.
 
