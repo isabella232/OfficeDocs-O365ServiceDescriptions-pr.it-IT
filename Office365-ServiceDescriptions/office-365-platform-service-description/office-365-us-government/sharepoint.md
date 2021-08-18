@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle SharePoint per i clienti cloud del governo statunitense.
-ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701825"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371772"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint per ambienti governativi statunitensi
 
@@ -27,7 +27,7 @@ Per informazioni sugli endpoint necessari per la gestione della connettività di
 
 Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le organizzazioni traggono vantaggio dalle seguenti funzionalità specifiche degli ambienti cloud governativi statunitensi:
 
--   Il contenuto dei clienti dell'organizzazione è logicamente segregato dal contenuto dei clienti nei servizi Office 365 commerciali da Microsoft.
+-   I contenuti dei clienti dell'organizzazione sono logicamente separati dal contenuto dei clienti nei servizi Office 365 commerciali da Microsoft.
 -   Il contenuto del cliente dell'organizzazione viene archiviato negli Stati Uniti.
 -   L'accesso al contenuto del cliente dell'organizzazione è limitato a personale Microsoft selezionato.
 -   Gli ambienti cloud governativi sono conformi alle certificazioni e accreditamenti necessari per i clienti del settore pubblico statunitense.
@@ -47,13 +47,13 @@ Se si utilizzano applicazioni di terze parti nei siti, esaminare le istruzioni s
 
 Ecco le differenze tra le funzionalità di amministrazione IT per i clienti commerciali e quelle per i clienti cloud governativi.
 
-- La modifica dell'indirizzo di un sito non è disponibile GCC clienti high
+- La modifica dell'indirizzo di un sito non è disponibile per GCC clienti elevati
 - Hybrid SharePoint Server non è disponibile per tutti i clienti del cloud per enti pubblici
-- Lo strumento SharePoint migrazione e Gestione migrazione richiedono una modifica della configurazione. Per info, vedi [Supporto del cloud per enti pubblici di SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
+- Lo strumento SharePoint migrazione e Gestione migrazione richiedono una modifica della configurazione. Per info, vedi Supporto del cloud per enti [pubblici di SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
 - Mover.io non è ancora supportato
 - Multi-geo non è disponibile per tutti i clienti del cloud per enti pubblici
 
-Per info sulla FastTrack migrazione, vedi la [descrizione](./office-365-us-government.md#data-migrations-performed-by-fasttrack)Office 365 servizio us government .
+Per info sulla FastTrack migrazione, vedi la [descrizione](./office-365-us-government.md#data-migrations-performed-by-fasttrack)del Office 365 us government .
 
 ## <a name="security-and-compliance-features"></a>Funzionalità di sicurezza e conformità
 
@@ -63,7 +63,9 @@ Per informazioni sulle funzionalità di sicurezza e conformità, vedere [il Cent
 
 Per informazioni sulle Azure Active Directory per enti pubblici, vedere la documentazione relativa a [Azure Government Security + Identity.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
-Per informazioni sulle funzionalità di Azure Information Protection per enti pubblici, vedere Azure [Information Protection Premium Government Service Description](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description). 
+Per informazioni sulle funzionalità di Azure Information Protection per enti pubblici, vedere Descrizione del servizio [Azure Information Protection Premium Government](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description). 
+
+Per informazioni sulle SharePoint Syntex, vedere l'articolo [SharePoint Syntex Descrizione del servizio.](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-features)
 
 ## <a name="sites-and-content"></a>Siti e contenuto
 
@@ -72,7 +74,7 @@ Ecco le differenze tra i siti e le funzionalità di contenuto per i clienti comm
 - Le web part che si basano su connessioni a servizi Internet, ad esempio le web part Amazon Kindle, Bing Maps, Twitter e YouTube, non funzionano come previsto
 - La raccolta risorse dell'organizzazione non è disponibile
 - L'aggiunta di elenchi e pagine Teams non è disponibile per GCC clienti High e DoD
-- Graph funzionalità all'interno di SharePoint Online per GCC High è attualmente disabilitata. Qualsiasi servizio che si basa su Microsoft Graph potrebbe non essere attualmente disponibile
+- Graph funzionalità all'interno SharePoint Online per GCC High è attualmente disabilitata. Qualsiasi servizio che si basa su Microsoft Graph potrebbe non essere attualmente disponibile
 - Le funzionalità che si basano sulle connessioni ai servizi Internet, ad esempio la scheda Immagini azionarie, non funzionano come previsto
 - Le notifiche per le attività di file e siti non sono disponibili
 - La web part notizie estrarrà solo le notizie dal sito corrente. Le notizie dai siti selezionati o dagli aggiornamenti cumulativi delle notizie hub dai siti associati non sono disponibili per i clienti GCC High e DoD
@@ -89,10 +91,10 @@ Per le differenze di funzionalità tra il cloud commerciale e gli ambienti cloud
 
 ## <a name="plan-for-governance"></a>Pianificare la governance
 
-Il passaggio al cloud offre esperienze trasformative con i controlli di amministrazione incorporati. Determinare i requisiti per la governance e come soddisfarli. Per ulteriori [informazioni, vedere Plan for governance to transform teamwork with Microsoft 365.](https://resources.techcommunity.microsoft.com/teamwork-governance/) Troverai indicazioni su Office 365 gruppi, SharePoint, Teams e altro ancora.
+Il passaggio al cloud offre esperienze trasformative con i controlli di amministrazione incorporati. Determinare i requisiti per la governance e come soddisfarli. Vai a [Pianificare la governance per trasformare il lavoro in team con Microsoft 365](https://resources.techcommunity.microsoft.com/teamwork-governance/) per altre informazioni. Troverai indicazioni su Office 365, SharePoint, Teams e altro ancora.
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>Distribuire SharePoint per la collaborazione
 
-Dopo aver configurato l'organizzazione nel cloud microsoft us government, seguire il percorso di distribuzione consigliato descritto nel Centro risorse per l'adozione di [SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Assicurati di interagire con i tuoi campioni di adozione e gestione delle modifiche.
-Puoi anche collaborare [con](https://www.microsoft.com/fasttrack) FastTrack o con il partner scelto per implementare il servizio agli utenti.
+Dopo aver configurato l'organizzazione nel cloud di Microsoft US Government, seguire il percorso di distribuzione consigliato descritto nel Centro risorse per l'adozione SharePoint [di distribuzione.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Assicurati di interagire con i tuoi campioni di adozione e gestione delle modifiche.
+È inoltre possibile collaborare con [FastTrack](https://www.microsoft.com/fasttrack) o con il partner scelto per implementare il servizio agli utenti.
 Visita il Centro protezione [Microsoft](https://www.microsoft.com/trust-center) per saperne di più su come Microsoft si approccia alla sicurezza, alla privacy e alla conformità, principi fondamentali per il modo in cui consentiamo alle organizzazioni di servire i propri clienti.
