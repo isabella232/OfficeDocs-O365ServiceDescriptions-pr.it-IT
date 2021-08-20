@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stati Uniti, Microsoft ha creato piani Office 365 US Government (o Office 365 Government). In questo articolo viene fornita una panoramica delle funzionalità specifiche per gli Office 365 Government stati Uniti.
-ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
+ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371783"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58402760"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
 > [!IMPORTANT]
-> Microsoft Teams si sta verificando un enorme picco nelle chiamate online e nelle conferenze audio/video a causa della pandemia del coronavirus (COVID-19).<br/>
+> Microsoft Teams sta riscontrando un enorme picco di chiamate online e conferenze audio/video a causa della pandemia del coronavirus (COVID-19).<br/>
 >
 >In risposta all'aumento senza precedenti delle chiamate e per garantire continuità e disponibilità, Microsoft consente ai server audio/video di Microsoft Teams GCC di sfruttare la capacità di elaborazione nei datacenter commerciali e nei datacenter governativi.<br/>
 >
 >Questi server audio/video risiedono nei Microsoft Azure fedRAMP High accreditation boundary negli Stati Uniti e non archiviano alcun contenuto del cliente. Tuttavia, questi server elaborano audio e video per chiamate e conferenze e operano sotto il nostro personale commerciale durante questo periodo intermedio.<br/>
 >
->Personale qualificato e schermato sta monitorando questi server per l'accesso potenziale ai dati dei clienti esaminando eventuali accessi interattivi a questi server. Il personale qualificato soddisfa GCC requisiti per l'accesso ai contenuti dei clienti. Per informazioni dettagliate sui requisiti di screening, vedere la [descrizione GCC del servizio.](gcc.md)<br/>
+>Personale qualificato e schermato sta monitorando questi server per l'accesso potenziale ai dati dei clienti esaminando eventuali accessi interattivi a questi server. Il personale qualificato soddisfa GCC requisiti per l'accesso ai contenuti dei clienti. Per informazioni dettagliate sui requisiti di screening, vedere la [descrizione GCC servizio.](gcc.md)<br/>
 >
 >Grazie per il supporto dato che microsoft prende misure per garantire che i nostri servizi rimangano disponibili e affidabili in questi tempi straordinari.<br/>
 
@@ -34,7 +34,7 @@ In risposta ai requisiti univoci e in evoluzione del settore pubblico degli Stat
 
 ## <a name="how-to-use-this-service-description"></a>Come utilizzare la descrizione del servizio
 
-La Office 365 Government del servizio è progettata per fungere da sovrimpressione alla descrizione Office 365 servizio generale. Il documento definisce gli impegni univoci ed evidenzia le differenze rispetto alle offerte Office 365 Enterprise.
+La Office 365 Government del servizio è progettata per fungere da sovrimpressione alla descrizione generale Office 365 servizio. Il documento definisce gli impegni univoci ed evidenzia le differenze rispetto alle offerte Office 365 Enterprise.
 
 ## <a name="about-office-365-government-environments"></a>Informazioni Office 365 Government ambienti
 
@@ -42,9 +42,9 @@ Office 365 Government piani sono abbonamenti mensili e possono essere concessi i
 
 - **L'ambiente Office 365 GCC** fornisce la conformità ai requisiti federali per i servizi cloud, tra cui FedRAMP High, e ai requisiti per la giustizia penale e i sistemi di informazioni fiscali federali (tipi di dati CJI e FTI).
 
-- Gli ambienti Office 365 GCC High e **DoD** forniscono la conformità alle linee guida per i requisiti di sicurezza del Dipartimento della Difesa, al Supplemento per le normative per le acquisizioni federali della difesa (DFARS) e alle normative ITAR (International Traffic in Arms Regulations).
+- Gli ambienti Office 365 GCC High and **DoD** offrono conformità alle linee guida per i requisiti di sicurezza del Dipartimento della Difesa, al DFARS (Defense Federal Acquisition Regulations Supplement) e alle normative ITAR (International Traffic in Arms Regulations).
 
-Oltre alle funzionalità e alle funzionalità di Office 365, le organizzazioni che utilizzano Office 365 Government traggono vantaggio dalle seguenti funzionalità specifiche per Office 365 Government:
+Oltre alle funzionalità e alle funzionalità di Office 365, le organizzazioni che utilizzano Office 365 Government beneficiano delle seguenti funzionalità specifiche per Office 365 Government:
 
 - Il contenuto del cliente dell'organizzazione è logicamente separato dal contenuto del cliente nei servizi Office 365 commerciali di Microsoft.
 
@@ -66,9 +66,9 @@ Al rinnovo del contratto di un cliente per Office 365 Government, è necessaria 
 
 ## <a name="customer-content-located-within-the-united-states"></a>Il contenuto del cliente si trova all'interno del territorio degli Stati Uniti
 
-Office 365 Government sono forniti da datacenter fisicamente situati negli Stati Uniti. Il seguente contenuto del cliente viene archiviato da centri dati che si trovano fisicamente negli Stati Uniti:
+Office 365 Government servizi vengono forniti da datacenter situati fisicamente negli Stati Uniti. Il seguente contenuto del cliente viene archiviato da centri dati che si trovano fisicamente negli Stati Uniti:
 
-- Exchange Online della cassetta postale (corpi di posta elettronica, voci del calendario e contenuto di allegati di posta elettronica)
+- Exchange Online contenuto della cassetta postale (corpo della posta elettronica, voci del calendario e contenuto degli allegati di posta elettronica)
 
 - SharePoint Contenuto del sito online e file archiviati in tale sito
 
@@ -79,9 +79,9 @@ Office 365 Government sono forniti da datacenter fisicamente situati negli Stati
 > [!NOTE]
 > Con uso tipico, Skype for Business non archivia contenuto, ma se avvenisse un'archiviazione, sarebbe nei centri dati degli Stati Uniti.
 
-Se gli utenti si trovano negli Stati Uniti durante l'utilizzo di Office per il web (in precedenza noto come app Web Office) o se si adotta l'utilizzo di Active Directory Federation Services (AD FS) 2.0 e si configurano criteri per garantire che gli utenti si connettono ai servizi tramite single sign-on, tutti i contenuti dei clienti temporaneamente memorizzati nella cache in Office per il web si trovano negli Stati Uniti.
+Se gli utenti si trovano negli Stati Uniti durante l'utilizzo di Office per il web (in precedenza noto come Office Web Apps) o se si adotta l'utilizzo di Active Directory Federation Services (AD FS) 2.0 e si configurano criteri per garantire che gli utenti si connettono ai servizi tramite single sign-on, tutti i contenuti dei clienti temporaneamente memorizzati nella cache in Office per il web si trovano negli Stati Uniti.
 
-La pagina Utilizzo sito per i siti SharePoint è disponibile per i piani governativi, anche se per conformità, esistono alcune caratteristiche di questa pagina che sono disponibili solo per i clienti commerciali. Per ulteriori informazioni, vedere [Site usage page for SharePoint sites in Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
+La pagina Utilizzo sito per i siti SharePoint è disponibile per i piani governativi, anche se per conformità esistono alcune caratteristiche di questa pagina che sono disponibili solo per i clienti commerciali. Per ulteriori informazioni, vedere [Site usage page for SharePoint sites in Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 Government e servizi di terze parti
 
@@ -89,7 +89,7 @@ Office 365 consente di integrare applicazioni di terze parti in siti di SharePoi
 
 ## <a name="restricted-data-access-by-administrators"></a>Accesso ai dati riservati da parte degli amministratori
 
-L'accesso Office 365 Government contenuto dei clienti da parte degli amministratori Microsoft è limitato al personale schermato. Per i dettagli sui livelli di screening, fare riferimento alla pagina di descrizione del servizio per ogni ambiente (GCC o GCC High e DoD).
+L'accesso Office 365 Government contenuto dei clienti da parte degli amministratori Microsoft è limitato al personale selezionato. Per i dettagli sui livelli di screening, fare riferimento alla pagina di descrizione del servizio per ogni ambiente (GCC o GCC High e DoD).
 
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack Assistenza per l'onboarding del centro
 
@@ -103,14 +103,14 @@ L'onboarding consiste di:
 
 I servizi di adozione degli utenti sono costituiti da attività che forniscono indicazioni per assicurarsi che gli utenti siano a conoscenza dei servizi idonei e possano usarli per guidare il valore aziendale. Questa assistenza viene fornita parallelamente alle attività di onboarding.
 
-Informazioni specifiche sul processo FastTrack Center sono disponibili [qui.](/FastTrack/us-gov-appendix-overview) Per una suddivisione dei ruoli e delle responsabilità di coinvolgimento, FastTrack [responsabilità](/FastTrack/us-gov-appendix-fasttrack-responsibilities) e [Responsabilità dell'utente](/FastTrack/us-gov-appendix-your-responsibilities).
+Informazioni specifiche sul processo FastTrack Center sono disponibili [qui.](/FastTrack/us-gov-appendix-overview) Per una suddivisione dei ruoli e delle responsabilità di coinvolgimento, FastTrack [responsabilità](/FastTrack/us-gov-appendix-fasttrack-responsibilities) e [responsabilità dell'utente.](/FastTrack/us-gov-appendix-your-responsibilities)
 
 > <sup>1</sup> È necessario acquistare almeno 150 licenze [](/fasttrack/eligibility) dall'elenco dei piani idonei per ricevere FastTrack servizi.
 <br/><sup>2</sup> I servizi di migrazione dei dati sono disponibili Office 365 tenant con 500 o più licenze.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrazioni dei dati eseguite da FastTrack
 
-I clienti che scelgono il [vantaggio FastTrack](https://fasttrack.microsoft.com/) migrazione dei dati dovranno concedere l'accesso al team che gestisce le migrazioni dei dati. Questi dipendenti sono cittadini statunitensi e vengono sottoposti ai seguenti controlli in background prima di eseguire le migrazioni per i clienti Office 365 servizi del governo statunitense.<br><br>
+I clienti che scelgono il [vantaggio FastTrack](https://fasttrack.microsoft.com/) migrazione dovranno concedere l'accesso al team che gestisce le migrazioni dei dati. Questi membri del personale sono cittadini statunitensi e vengono sottoposti ai seguenti controlli in background prima di eseguire le migrazioni per i clienti Office 365 servizi del governo statunitense.<br><br>
 
 |Screening in background|GCC|GCC High e DoD|
 |---|---|---|
@@ -194,7 +194,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Identità federata (Single Sign-On)|Sì|Sì|Sì|Sì|
 |Autenticazione a più fattori|Sì|Sì|Sì|Sì|
 |Telefono factor authentication|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì|Sì<sup>9</sup>|
-|Strumento di configurazione desktop Office 365|Sì|Sì|Sì|Sì|
+|Strumento di configurazione desktop Office 365|No|Sì|Sì|No|
 |Gestione degli utenti con Office 365|Sì|Sì|Sì|Sì|
 |Caricamento in massa tramite file csv|Sì<sup>9</sup>|Sì<sup>9</sup>|Sì|Sì<sup>9</sup>|
 |Strumento di sincronizzazione della directory|Sì|Sì|Sì|Sì|
@@ -214,7 +214,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Verifica della proprietà obbligatoria per i domini personalizzati|Sì|Sì|Sì|Sì|
 |**[Continuità e integrità del servizio](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Le informazioni sullo stato sono disponibili sulla pagina **Integrità dei servizi** o **Stato dei servizi**|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|
-|Stato dei singoli avvisi disponibili nel dashboard di interfaccia di amministrazione di Microsoft 365|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|
+|Stato dei singoli avvisi disponibili nel dashboard interfaccia di amministrazione di Microsoft 365 utente|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|Sì<sup>9, 15</sup>|
 |Feed RSS per l' **integrità dei servizi**|Sì|Sì|Sì|Sì|
 |**[Report](../../office-365-platform-service-description/reports.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Cassette postali attive e inattive|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
@@ -240,7 +240,7 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 |Rapporti sulla protezione della posta scaricabile|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Browser utilizzato|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |Sistema operativo utilizzato|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
-|Creare report personalizzati utilizzando i Microsoft 365 web services|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
+|Creare report personalizzati utilizzando i servizi Web Microsoft 365 report|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
 |**[Aggiornamenti dei servizi](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Aggiornamenti regolari forniti a tutti i clienti|Sì|Sì|Sì|Sì|
 |Notifiche inviate a Centro messaggi quando l'azione è obbligatoria|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|Sì<sup>15</sup>|
@@ -295,10 +295,10 @@ Nella tabella seguente sono elencati i servizi e le funzionalità della piattafo
 <br/><sup>11</sup> Non ancora disponibile nelle Office 365 Government, ma presto disponibile.
 <br/><sup>12</sup> Non incluso, ma può essere acquistato come componente aggiuntivo separato GCC.
 <br/><sup>13</sup> Non supportato per Office 365 Government offerte.
-<br/><sup>14</sup> Disponibile all'indirizzo [https://securescore.office.com](https://securescore.office.com) . Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Introduzione al Office 365 secure score](/microsoft-365/security/mtp/microsoft-secure-score).
+<br/><sup>14</sup> Disponibile all'indirizzo [https://securescore.office.com](https://securescore.office.com) . Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Introduzione al Office 365 punteggio sicuro](/microsoft-365/security/mtp/microsoft-secure-score).
 ).
 <br/><sup>15</sup> Non ancora disponibile in ambiente DoD, ma presto disponibile.
-<br/><sup>16</sup> L'interfaccia di amministrazione non include l'analisi dei dati di utilizzo in ambienti DoD GCC High.
+<br/><sup>16</sup> L'interfaccia di amministrazione non include l'analisi dei dati di utilizzo negli ambienti DoD GCC High.
 <br/><sup>17</sup> Non supportato per gli GCC High o DoD.
 <br/><sup>18</sup> L'anti-phishing per la rappresentazione di utenti e domini e l'intelligence di spoofing non sono ancora disponibili in GCC High e DoD.
 <br/><sup>19</sup> Non ancora disponibile in GCC, ma presto disponibile.
@@ -364,13 +364,13 @@ Nella tabella seguente vengono mostrate le funzionalità delle applicazioni di O
 <br/><sup>2</sup> Windows Server AD RMS è un server locale che deve essere acquistato e gestito separatamente per abilitare le funzionalità IRM supportate.
 <br/><sup>3</sup>Skype for Business Basic è disponibile per tutti i clienti. Il client desktop Skype for Business è un'applicazione installata localmente che fornisce funzionalità di presenza, messaggistica istantanea e conferenza per i piani di Office 365 contenenti Skype for Business online. Microsoft 365 Apps for enterprise e Office 365 Enterprise E3 includono l'applicazione Skype completa, che include funzionalità aggiuntive come il supporto avanzato della telefonia, le funzionalità di archiviazione e conformità. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup> Non ancora disponibile in GCC High o DoD, ma presto disponibile.
-<br/><sup>5</sup> Per altri dettagli, Outlook usare Outlook [per iOS e Android nella](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) Government Community Cloud.
+<br/><sup>5</sup> Vedere [Uso Outlook per iOS e Android](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) nella Government Community Cloud per altri dettagli.
 <br/><sup>6</sup> Non ancora disponibile in Office 365 DoD, ma presto disponibile.
-<br/><sup>7</sup> Le applicazioni sono completamente disponibili nei cloud per enti pubblici, ad eccezione delle funzionalità specifiche non disponibili al momento. Per [informazioni dettagliate, Office disponibilità delle funzionalità dell'applicazione.](#office-application-and-feature-availability-in-government-plans)
+<br/><sup>7</sup> Le applicazioni sono completamente disponibili nei cloud per enti pubblici, ad eccezione delle funzionalità specifiche non disponibili al momento. Per [informazioni Office sulla disponibilità delle funzionalità dell'applicazione,](#office-application-and-feature-availability-in-government-plans) vedere .
 
-## <a name="office-application-and-feature-availability-in-government-plans"></a>Office disponibilità di applicazioni e funzionalità nei piani per enti pubblici
+## <a name="office-application-and-feature-availability-in-government-plans"></a>Office delle applicazioni e delle funzionalità nei piani per enti pubblici
 
-Le applicazioni Office seguenti sono disponibili nei cloud per enti pubblici. tuttavia, alcune funzionalità basate sul cloud potrebbero non essere attualmente disponibili, come indicato nella tabella.<br><br>
+Le applicazioni Office seguenti sono disponibili nei cloud governativi; tuttavia, alcune funzionalità basate sul cloud potrebbero non essere attualmente disponibili, come indicato nella tabella.<br><br>
 
 |Applicazione/funzionalità|Funzionalità di accessibilità|GCC|GCC High|DOD|
 |---|---|---|---|---|
@@ -436,12 +436,12 @@ Le applicazioni Office seguenti sono disponibili nei cloud per enti pubblici. tu
 |Presenza in tempo reale|Sì|No|No|No|
 |Reazioni sul contenuto|Sì|No|No|No|
 |Raccolta bacheche di lavagne, inclusa la condivisione con l'utente||No|No|No|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) è completamente disponibile nei cloud per enti pubblici ad eccezione delle funzionalità seguenti, che non sono disponibili in tutti i cloud per enti pubblici, come indicato nella tabella seguente.||**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) è completamente disponibile nei cloud per enti pubblici, ad eccezione delle funzionalità seguenti, che non sono disponibili in tutti i cloud per enti pubblici, come indicato nella tabella seguente.||**GCC**|**GCC High**|**DOD**|
 |Ricerca intelligente|Sì|No|No|No|
 |Strumento ricerche|Sì|No|No|No|
 |Office suoni||No|No|No|
 |Modelli 3D||No|No|No|
-|Animazioni incorporate 3D||No|No|No|
+|Animazioni 3D incorporate||No|No|No|
 |Tocco||No|No|No|
 |Assistente curriculum|Sì|No|No|No|
 |Grafici mappa||No|No|No|
@@ -454,7 +454,7 @@ Le applicazioni Office seguenti sono disponibili nei cloud per enti pubblici. tu
 |Chat contestuale con co-autori: chat con co-autori all'interno del documento||No|No|No|
 |Dettatura|Sì|Sì|Sì|No<sup>1</sup>|
 
-Per la disponibilità delle funzionalità Microsoft Teams all'interno GCC/GCC High/DoD, visitare la Microsoft Teams [service description](../../teams-service-description.md).
+Per la disponibilità delle funzionalità Microsoft Teams in GCC/GCC High/DoD, visitare la Microsoft Teams [service description](../../teams-service-description.md).
 > <sup>1</sup> Disponibilità in arrivo.
 <br/><sup>2</sup> Disponibilità in Surface Hub locale (non connesso).
 <br/><sup>3</sup> La condivisione esterna è disponibile per l'GCC locale. Ulteriori informazioni su come [disattivare o attivare Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) per l'organizzazione. La condivisione esterna è disabilitata per GCC high e dod; Gli utenti all'interno dell'organizzazione possono eseguire le operazioni seguenti: compilare un modulo e inviare [risposte,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)duplicare e condividere un modulo come modello, creare insieme o collaborare [a](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)un modulo e accedere ai risultati [del modulo.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
