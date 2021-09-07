@@ -134,6 +134,56 @@
       "source_path": "Office365-ServiceDescriptions/microsoft-dynamics-365-online-service-description.md",
       "redirect_url": "/dynamics365/",
       "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/group-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": true
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/profile-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/message-and-conversation-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/document-collaboration-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/inbox-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/discovery-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/external-network-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/yammer-platform-features.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/administration-and-security-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/support-features-in-yammer.md",
+      "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
+      "redirect_document_id": false
     }
   ]
 }
