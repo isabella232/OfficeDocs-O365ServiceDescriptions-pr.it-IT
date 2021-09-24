@@ -6,14 +6,14 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Informazioni sulle opzioni e sulle funzionalità del piano disponibili in Microsoft Bookings.
-ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77454f65643fee7892a0c0d7fd9b8c4750e87bd7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663249"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670368"
 ---
 # <a name="microsoft-bookings-service-description"></a>Descrizione del servizio Microsoft Bookings
 
@@ -27,7 +27,7 @@ Per informazioni dettagliate sulle sottoscrizioni che consentono agli utenti di 
 
 Nella tabella seguente sono elencate le principali funzionalità di Microsoft Bookings disponibili tra i piani. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso.
 
-| Funzionalità principale | Small Business | Enterprise piani | GCC | GCC-High | DOD | Formazione |
+| Funzionalità principale | Small Business | Enterprise piani | GCC | GCC-High | DOD | Istruzione |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pagina di pianificazione basata sul Web (pagina di prenotazione) | Sì | Sì | Sì | No | No | Sì |
 | Controllo di accesso alla pagina di prenotazione (solo tenant) | Sì | Sì | Sì | No | No | Sì |
@@ -43,7 +43,7 @@ Nella tabella seguente sono elencate le principali funzionalità di Microsoft Bo
 <sup>1</sup> Le riunioni online richiedono che il membro del personale prenotato abbia una licenza Microsoft Teams o Skype for Business che consenta la creazione di riunioni.
 <br/><sup>2</sup> Notifiche SMS sono attualmente in versione beta e sono disponibili solo in Nord America.
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per informazioni tecniche su Microsoft Bookings, consultare le risorse seguenti:
 

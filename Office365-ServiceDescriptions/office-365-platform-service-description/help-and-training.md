@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fornisce le risorse di formazione e guida seguenti.
-ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e1d88e1bbebd899ffffe7ccee8824107346d1336
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663009"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671399"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -92,7 +92,7 @@ Per ulteriori informazioni, visitare il sito Web [Community di Office 365](https
   
 ## <a name="manage-office-365-guidance"></a>Gestire Office 365 guida
 
-I professionisti IT delle organizzazioni di grandi dimensioni possono visitare la home page Della Office 365 di gestione. In questa pagina sono disponibili collegamenti a linee guida per la distribuzione complesse destinate a organizzazioni di grandi dimensioni.
+I professionisti IT delle organizzazioni di grandi dimensioni possono visitare la home page Della Office 365 gestione. In questa pagina sono disponibili collegamenti a linee guida per la distribuzione complesse destinate a organizzazioni di grandi dimensioni.
   
 Per ulteriori informazioni, vedere [Manage Office 365](/Office365/).
   

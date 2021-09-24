@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-networking
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft supporta le seguenti funzionalità di rete.
-ms.openlocfilehash: 9a10afd58fb61aafc4513baff25b9b6e4c0bb122808c56c12c98f5d62637ea76
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 63222b4554ed6abc9c20392061359bf849ca6518
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663079"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673080"
 ---
 # <a name="networking"></a>Rete
 
@@ -64,4 +64,4 @@ Per ulteriori informazioni, visitare il [Centro protezione di Office 365](https:
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 del servizio della piattaforma.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)

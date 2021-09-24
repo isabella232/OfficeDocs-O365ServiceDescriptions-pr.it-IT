@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 e Office 365 sono servizi basati sul cloud progettati per soddisfare le esigenze dell'organizzazione in termini di sicurezza, affidabilità e produttività degli utenti.
-ms.openlocfilehash: 20470f92e036fe5f57e93ba7fd64bcf9d0fc0c9ff32122a88a2fe8fcc81decad
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 95594a456d6c0c5ef10c7133ffb4b2298866ec76
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702075"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669991"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrizione dei servizi di Office 365 e Microsoft 365 
 
@@ -29,10 +29,10 @@ Gli articoli in questa raccolta forniscono descrizioni dettagliate dei servizi e
 
 Per confrontare le funzionalità tra i piani, vedere [Potenti strumenti per supportare l'azienda](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descrizione del servizio pertinente nell'elenco seguente. 
   
-Per articoli e informazioni sul supporto, vedere Office Help & Training , [Office documentation for admins and IT professionals](/office/)e Microsoft 365 [help](https://support.office.com/) [center for admins and IT pros](/microsoft-365/).
+Per articoli e informazioni sul supporto, vedere Office [Help & Training](https://support.office.com/), Office [documentation for admins and IT professionals](/office/)e Microsoft 365 help center for [admins and IT pros](/microsoft-365/).
   
 > [!NOTE]
-> Se si sta cercando il foglio di calcolo per il confronto delle descrizioni dei servizi, è stato ritirato. Le tabelle sulla disponibilità delle funzionalità del prodotto in ogni pagina della descrizione del servizio sono state aggiornate per aiutarti a scegliere meglio la versione di Office 365 più adatta alle tue esigenze. 
+> Se si sta cercando il foglio di calcolo per il confronto delle descrizioni dei servizi, è stato ritirato. Le tabelle sulla disponibilità delle funzionalità del prodotto in ogni pagina della descrizione del servizio sono state aggiornate per facilitare la scelta della versione di Office 365 più adatta alle proprie esigenze. 
   
 Microsoft offre il vantaggio FastTrack Center per Office 365 per i servizi idonei nei piani idonei. Il vantaggio consente di collaborare in remoto con gli esperti Microsoft per ottenere l'ambiente Office 365 pronto per l'uso. Per altre informazioni, vedere [FastTrack Center Benefit per Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   

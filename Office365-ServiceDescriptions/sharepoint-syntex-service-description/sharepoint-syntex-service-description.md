@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SharePoint Syntex in Microsoft 365 utilizza l'intelligenza artificiale avanzata (AI) e l'insegnamento automatico per amplificare le competenze umane, automatizzare l'elaborazione del contenuto e trasformare il contenuto in conoscenza.
-ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: a29e191b6200317c280601e66a01c64a6ec91ee3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371753"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672399"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Descrizione del servizio SharePoint Syntex 
 
@@ -21,7 +21,7 @@ SharePoint Syntex in Microsoft 365 utilizza l'intelligenza artificiale avanzata 
 
 Syntex si basa su SharePoint per fornire funzionalità avanzate per l'elaborazione di contenuti di alto volume, l'estrazione di metadati per l'automazione dei processi e il miglioramento della sicurezza e della conformità. E si basa sull'intelligenza di Microsoft Search, con collegamenti [a Microsoft Graph connettori](/microsoftsearch/connectors-overview).
 
-Per una panoramica dettagliata e ulteriori dettagli sul prodotto, vedi la pagina [SharePoint Syntex prodotto.](https://aka.ms/sharepointsyntex)
+Per una panoramica dettagliata e ulteriori dettagli sul prodotto, vedere la pagina [SharePoint Syntex prodotto.](https://aka.ms/sharepointsyntex)
 
 ## <a name="available-plans"></a>Piani disponibili
 
@@ -29,7 +29,7 @@ Syntex è disponibile tramite più piani di sottoscrizione per soddisfare al meg
 
 Gli utenti devono disporre di una licenza Office 365, Microsoft 365 o SharePoint Online valida per poter usare Syntex con una licenza Syntex.
 
-Per Microsoft PowerApps'elaborazione dei moduli di GENERATORE DI INTELLIGENZA, i tenant con 300 o più utenti con licenza di Syntex riceveranno 1M di crediti di Generatore di intelligenza artificiale mensile, nonché l'accesso a Microsoft Dataverse. Questi crediti vengono allocati per tenant, non per utente, quindi non verranno ridimensionati con l'aumentare del numero di utenti.
+Per Microsoft PowerApps'elaborazione dei moduli di GENERATORE DI INTELLIGENZA, i tenant con 300 o più utenti con licenza di Syntex riceveranno crediti di 1M AI Builder mensili, nonché l'accesso a Microsoft Dataverse. Questi crediti vengono allocati per tenant, non per utente, quindi non verranno ridimensionati con l'aumentare del numero di utenti.
 
 La tabella seguente mostra i piani a cui è possibile aggiungere Syntex. Per ulteriori dettagli sul piano, vedere [Microsoft 365 e Office 365 opzioni del piano.](../office-365-platform-service-description/office-365-plan-options.md)<br><br>
 
@@ -38,7 +38,7 @@ La tabella seguente mostra i piani a cui è possibile aggiungere Syntex. Per ult
 | ------------------------------- | ------------------------ | ------------------- | ------------------------ |
 | Microsoft 365 Business Basic    | Office 365 E1            | Office 365 A1       | Office 365 Government G1 |
 | Microsoft 365 Business Standard | Office 365 E3            | Office 365 A3       | Office 365 Government G3 |
-| Microsoft 365 Business Premium  | Office 365 E5            | Office 365 A5       | Office 365 Government G5 |
+| Microsoft Office 365 Business Premium  | Office 365 E5            | Office 365 A5       | Office 365 Government G5 |
 |                                 | Office 365 F3            |                     | Office 365 Government F3 |
 |                                 | Microsoft 365 F1         |                     |                          |
 |                                 | Microsoft 365 F3         |                     |                          |
@@ -65,7 +65,7 @@ Nella tabella seguente sono elencate le principali funzionalità syntex disponib
 
 Per ulteriori informazioni su Syntex, vedere le risorse seguenti:
 
-  - Per iniziare a pianificare la distribuzione di Syntex, visitare la [pagina SharePoint Syntex nel](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) Microsoft Tech Community Resource Center.
+  - Per iniziare a pianificare la distribuzione di Syntex, visitare la [pagina SharePoint Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) nel Centro risorse di Microsoft Tech Community.
 
   - Per ulteriori informazioni su Syntex e su come usarlo, vedere la documentazione [SharePoint Syntex prodotto.](/microsoft-365/contentunderstanding/)
 

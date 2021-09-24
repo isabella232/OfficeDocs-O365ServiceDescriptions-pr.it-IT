@@ -7,23 +7,23 @@ ms.reviewer: ankirti
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Informazioni sulla disponibilità delle OneDrive per i clienti cloud del governo statunitense.
-ms.openlocfilehash: 2c53de0cbf02090dda7b29468dc1ffa302cd4e4cd7dda5c3c99af6774880623a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a2fc0aaa86f84a6a30bc09fec9ffa71ddcb441be
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701975"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670161"
 ---
 # <a name="onedrive-for-us-government-environments"></a>OneDrive per ambienti governativi statunitensi
 
 In questo articolo viene fornita una panoramica delle differenze di funzionalità tra il cloud governativo statunitense e il cloud commerciale, come indicato nella descrizione OneDrive [servizio.](../../onedrive-for-business-service-description.md) OneDrive è disponibile per gli ambienti Government Community Cloud (GCC), GCC High e DoD. 
 
-Per altre info sul cloud per enti pubblici, inclusi l'idoneità e l'acquisto, [vedi Microsoft 365 Government - come acquistare](./microsoft-365-government-how-to-buy.md). Per confrontare Office 365 Government piani, vedere [Office 365 Government piani.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Per altre info sul cloud per enti pubblici, inclusi l'idoneità e l'acquisto, vedi [Microsoft 365 Government - come acquistare](./microsoft-365-government-how-to-buy.md). Per confrontare Office 365 Government piani, vedere [Office 365 Government piani.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
-Per informazioni sugli endpoint necessari per la gestione della connettività di rete, vedere Office 365 [U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) o [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Per informazioni sugli endpoint necessari per la gestione della connettività di rete, vedere la pagina Office 365 [U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) o [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le organizzazioni traggono vantaggio dalle seguenti funzionalità specifiche degli ambienti cloud governativi statunitensi:
 
@@ -32,7 +32,7 @@ Oltre a usufruire delle funzionalità e delle funzionalità di Office 365, le or
 -   L'accesso al contenuto del cliente dell'organizzazione è limitato a personale Microsoft selezionato.
 -   Gli ambienti cloud governativi sono conformi alle certificazioni e accreditamenti necessari per i clienti del settore pubblico statunitense.
 
-L'obiettivo è fornire tutte le funzionalità OneDrive e commerciali agli ambienti cloud governativi. Alcune funzionalità non sono disponibili a causa dei requisiti dei clienti cloud per enti pubblici. Altre funzionalità sono disponibili negli ambienti governativi, ma non sono ancora disponibili. Fare riferimento alle sezioni seguenti per informazioni sulla disponibilità delle funzionalità negli ambienti cloud per enti pubblici.
+L'obiettivo è fornire tutte le funzionalità OneDrive commerciali agli ambienti cloud governativi. Alcune funzionalità non sono disponibili a causa dei requisiti dei clienti cloud per enti pubblici. Altre funzionalità sono disponibili negli ambienti governativi, ma non sono ancora disponibili. Fare riferimento alle sezioni seguenti per informazioni sulla disponibilità delle funzionalità negli ambienti cloud per enti pubblici.
 
 ## <a name="sharing-features"></a>Funzionalità di condivisione
 

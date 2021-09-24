@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - reporting-and-message-trace-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: Leggere questo articolo per informazioni su Reporting e traccia dei messaggi in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Leggere questo articolo per informazioni su Reporting and message trace in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 2a920ba65c98a612d4343b893458b5bb34a4959e
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664089"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672205"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Creazione di rapporti e traccia dei messaggi in Exchange Online Protection
 
@@ -29,16 +29,16 @@ Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione Exchan
 
 La pagina Report del interfaccia di amministrazione di Microsoft 365 fornisce informazioni sul traffico dei messaggi, sui rilevamenti di posta indesiderata e malware e sui messaggi interessati dalle regole del flusso di posta (note anche come regole di trasporto) o dai criteri di prevenzione della perdita dei dati (DLP). I report migliorati per la protezione, le regole e DLP forniscono un'esperienza di report interattiva agli amministratori di EOP. Tali report forniscono i dati di riepilogo e la capacità di eseguire il drill-down dei dettagli sui singoli messaggi.
 
-Per informazioni più dettagliate su questi report, vedere [Use mail protection reports to view data about malware, spam, and rule detections](/exchange/monitoring/use-mail-protection-reports).
+Per informazioni più dettagliate su questi report, vedere [Use mail protection reports to view data about malware, spam, and rule detections.](/exchange/monitoring/use-mail-protection-reports)
 
 ## <a name="reporting-using-web-services"></a>Reporting using web services
 
 > [!NOTE]
-> Molte delle funzionalità di creazione di report basate su REST e i cmdlet correlati sono stati deprecati a gennaio 2018. Per informazioni sui report di Microsoft Graph di sostituzione disponibili in Office 365, vedere i sottoargomenti di Utilizzo dei report di utilizzo [in Microsoft Graph](/graph/api/resources/report).
+> Molte delle funzionalità di creazione di report basate su REST e i cmdlet correlati sono stati deprecati a gennaio 2018. Per informazioni sui report di Microsoft Graph sostitutivi disponibili in Office 365, vedere i sottoargomenti di Utilizzo dei report di utilizzo [in Microsoft Graph](/graph/api/resources/report).
 
 Non disponibili per gli utenti EOP autonomi. È possibile utilizzare il servizio Web REST/OData Tenant Reporting per raccogliere a livello di programmazione report di riepilogo e dettagliati sui dati di messaggistica e visualizzare i dati in una pagina Web in un portale di gestione Web personalizzato.
 
-## <a name="message-trace"></a>Traccia dei messaggi
+## <a name="message-trace"></a>Traccia messaggio
 
 La funzionalità di traccia dei messaggi nell'interfaccia di amministrazione di Exchange consente all'amministratore di seguire i messaggi di posta elettronica mentre passano attraverso EOP. Questa funzionalità consente di stabilire se un determinato messaggio di posta elettronica è stato ricevuto, rifiutato, differito o recapitato dal servizio. Mostra inoltre quali azioni sono state eseguite sul messaggio prima del raggiungimento dello stato finale. La disponibilità di informazioni dettagliate su un messaggio specifico consente di rispondere in modo efficiente alle domande dell'utente, risolvere i problemi relativi al flusso di posta, convalidare le modifiche apportate ai criteri e ridurre la necessità di contattare il supporto tecnico per assistenza. Per ulteriori informazioni, vedere [Run a message trace and view the results in the Exchange admin center](/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
 

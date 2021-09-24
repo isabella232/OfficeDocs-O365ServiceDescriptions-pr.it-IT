@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Le seguenti funzionalità di gestione dei progetti sono disponibili in Project Online.
-ms.openlocfilehash: 0f737ad27b5735d794b9f9900dc8dca426a89d2b5b3a697e5bdb6762943975ff
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: d7143bd099d761f2334e6cadce146bc8852047fa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702685"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672627"
 ---
 # <a name="project-management"></a>Gestione dei progetti
 

@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - recipient-domain-and-company-management-features-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Leggere questo articolo per informazioni sulla gestione di destinatari, domini e società in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: fc2b9f6fbd797e8e765758c11c486ce6afaba5a5855602e79f5418c1e80bb1ea
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 928f94153f91c5067bc5e7ea80525a36cc8e7de3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664059"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672229"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gestione di destinatari, domini e società in Exchange Online Protection
 
@@ -27,7 +27,7 @@ Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione Exchan
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-I destinatari di posta elettronica vengono classificati come utenti o gruppi di posta elettronica e possono essere gestiti attraverso la sincronizzazione di directory, direttamente nella EAC o in remoto Windows PowerShell. Se i destinatari vengono gestiti in locale, è necessario eseguire la sincronizzazione della directory affinché i destinatari di posta elettronica vengano visualizzati nell'interfaccia di amministrazione di Exchange. Gli utenti gestiti solo nell'interfaccia di amministrazione di Microsoft 365 non sono visualizzabili nell'interfaccia di amministrazione di Exchange, ma possono essere aggiunti o rimossi dall'appartenenza a un gruppo di ruoli amministratore nell'interfaccia di amministrazione di Exchange. Per ulteriori informazioni sui destinatari in EOP, vedere [Destinatario in EOP](/microsoft-365/security/office-365-security/manage-recipients-in-eop).
+I destinatari di posta elettronica vengono classificati come utenti o gruppi di posta elettronica e possono essere gestiti attraverso la sincronizzazione di directory, direttamente nella EAC o in remoto Windows PowerShell. Se i destinatari vengono gestiti in locale, è necessario eseguire la sincronizzazione della directory affinché i destinatari di posta elettronica vengano visualizzati nell'interfaccia di amministrazione di Exchange. Gli utenti gestiti esclusivamente nell'interfaccia di amministrazione di Microsoft 365 non sono visualizzabili nell'interfaccia di amministrazione di Exchange, ma possono essere aggiunti o rimossi dall'appartenenza a un gruppo di ruoli amministratore nell'interfaccia di amministrazione di Exchange. Per ulteriori informazioni sui destinatari in EOP, vedere [Destinatario in EOP](/microsoft-365/security/office-365-security/manage-recipients-in-eop).
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
@@ -35,7 +35,7 @@ In EOP, è possibile configurare solo ruoli amministrativi. Gli utenti possono e
   
 ## <a name="domain-management"></a>Gestione del dominio
 
-I domini gestiti sono quelli protetti da EOP. I domini gestiti possono essere visualizzati e i tipi di domini possono essere modificati nell'interfaccia di amministrazione di Exchange. Il provisioning e la gestione del dominio si verificano interfaccia di amministrazione di Microsoft 365 e le modifiche si riflettono nell'interfaccia di amministrazione di Exchange. Per ulteriori informazioni, vedere [Visualizza o modifica domini gestiti in EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
+I domini gestiti sono quelli protetti da EOP. I domini gestiti possono essere visualizzati e i tipi di domini possono essere modificati nell'interfaccia di amministrazione di Exchange. Il provisioning e la gestione dei domini si verificano interfaccia di amministrazione di Microsoft 365 e le modifiche si riflettono nell'interfaccia di amministrazione di Exchange. Per ulteriori informazioni, vedere [Visualizza o modifica domini gestiti in EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
   
 ## <a name="match-subdomains"></a>Corrispondenza sottodomini
 

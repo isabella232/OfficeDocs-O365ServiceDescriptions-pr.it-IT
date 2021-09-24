@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - yammer-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Vedere quali funzionalità sono disponibili nei diversi Yammer piani.
-ms.openlocfilehash: 3b899a5f17ef501305d5057268053e843ad4c383
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363563"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673090"
 ---
 # <a name="yammer-service-description"></a>Descrizione del servizio Yammer
 
@@ -52,7 +52,7 @@ Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e 
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer di comunicazione dei servizi aziendali
 
-Yammer rispetta i criteri di Microsoft 365 [gestione](https://aka.ms/ManageChange)delle modifiche, ma usa la versione mirata per implementare alcuni Microsoft 365 aggiornamenti. Yammer utenti sono soggetti a test o versioni di prova delle funzionalità A/B. Ciò consente a Microsoft di testare le funzionalità per la stabilità, le prestazioni e il miglioramento dell'esperienza in molti ambienti e dispositivi. Gli utenti all'interno della stessa rete possono avere diverse esperienze a causa dei test. Non è possibile rifiutarsi di essere sottoposti al test A/B.
+Yammer rispetta i criteri di Microsoft 365 [gestione](https://aka.ms/ManageChange)delle modifiche, ma usa La versione mirata per implementare alcuni Microsoft 365 aggiornamenti. Yammer utenti sono soggetti a test o versioni di prova delle funzionalità A/B. Ciò consente a Microsoft di testare le funzionalità per la stabilità, le prestazioni e il miglioramento dell'esperienza in molti ambienti e dispositivi. Gli utenti all'interno della stessa rete possono avere diverse esperienze a causa dei test. Non è possibile rifiutarsi di essere sottoposti al test A/B.
 
 ## <a name="licensing-terms"></a>Condizioni di licenza
 
@@ -62,14 +62,14 @@ Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratt
 
 Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per ulteriori informazioni sulle Yammer, vedere le risorse seguenti:
 
 - [Limiti in Yammer](/office365/servicedescriptions/yammer-service-description/yammer-limits)
 - [Yammer Adozione](https://adoption.microsoft.com/yammer/)
 - [Yammer supporto & apprendimento - Supporto Tecnico Microsoft](https://support.microsoft.com/yammer)
-- [Yammer formazione video - supporto Office (microsoft.com)](https://support.microsoft.com/office/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a)
+- [Yammer formazione video - Office supporto tecnico (microsoft.com)](https://support.microsoft.com/office/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a)
 - [Yammer Blog (microsoft.com)](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
 
 ## <a name="system-requirements"></a>Requisiti di sistema
@@ -85,7 +85,7 @@ Oggi sono disponibili le seguenti funzionalità:
 - [App Community per](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21) Microsoft Teams
 - Nuova Yammer [app desktop](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
 - [SharePoint Web part Evidenziazioni e conversazioni](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
-- [Yammer Embed (nuovo e classico Yammer)](https://developer.yammer.com/docs/new-embed-feed)
+- [Yammer Embed (nuovo e Yammer)](https://developer.yammer.com/docs/new-embed-feed)
 - [Messaggi di posta elettronica interattivi Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
 - [Yammer app per dispositivi mobili iPhone, iPad e Android](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
 

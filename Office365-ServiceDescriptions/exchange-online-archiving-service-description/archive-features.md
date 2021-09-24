@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - archive-features-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Informazioni sulle funzionalità di archiviazione disponibili in Microsoft Exchange Online archiviazione.
-ms.openlocfilehash: c31b231833e7ce06aa772addfe7ead622a9507c0f42604df663c66dc01cf6847
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6f342899722b3d411c9eb0f45ef40237ca05bc9f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664749"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670868"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione in Archiviazione Exchange Online
 
@@ -37,7 +37,7 @@ Gli amministratori possono utilizzare l'interfaccia di amministrazione di Exchan
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Spostamento dei messaggi su Archiviazione Exchange Online
 
-Gli utenti possono trascinare i messaggi dai file .pst nell'archivio, per un facile accesso online. Gli utenti possono anche spostare automaticamente gli elementi di posta elettronica dalla cassetta postale principale alla cassetta postale di archiviazione, utilizzando i criteri di archiviazione, per ridurre le dimensioni e migliorare le prestazioni della cassetta postale principale. 
+Gli utenti possono trascinare i messaggi dai file PST nell'archivio per un facile accesso online. Gli utenti possono anche spostare automaticamente gli elementi di posta elettronica dalla cassetta postale principale alla cassetta postale di archiviazione, utilizzando i criteri di archiviazione, per ridurre le dimensioni e migliorare le prestazioni della cassetta postale principale. 
   
 ### <a name="import-data-to-the-archive"></a>Importazione di dati nell'archivio
 
@@ -79,4 +79,4 @@ Le cassette postali di archiviazione in Archiviazione Exchange Online vengono re
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Archiviazione Exchange Online [service description](exchange-online-archiving-service-description.md).
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Archiviazione Exchange Online [descrizione del servizio.](exchange-online-archiving-service-description.md)

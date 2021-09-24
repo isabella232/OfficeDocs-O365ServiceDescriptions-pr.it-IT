@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online è una soluzione online flessibile per la gestione del portfolio di progetti (PPM) e il lavoro quotidiano. Grazie a Office 365, Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti nel portfolio di progetti, da quasi ovunque su quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
-ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
+ms.openlocfilehash: df6f4ffc3d8c95ab3b4882a7d337e7f880f3b368
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505705"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672559"
 ---
 # <a name="microsoft-project-service-description"></a>Descrizione del servizio Microsoft Project
 
@@ -27,23 +27,23 @@ ms.locfileid: "58505705"
 
 Microsoft Project offre le applicazioni seguenti per soddisfare le esigenze dell'organizzazione per la gestione di progetti e lavoro:
 
-- Project per il web
+- Project per il Web
 - Project Online 
 - Project Online client desktop
 
 Questo articolo consente di comprendere quali applicazioni vengono fornite in ogni sottoscrizione Project e quali funzionalità offre ogni applicazione.
 
-### <a name="project-for-the-web"></a>Project per il web
+### <a name="project-for-the-web"></a>Project per il Web
 
-Project per il Web è l'offerta più recente di Microsoft per la gestione del lavoro e dei progetti basata sul cloud. Project per il Web offre funzionalità di gestione del lavoro semplici e potenti per soddisfare la maggior parte delle esigenze e dei ruoli. Project manager e membri del team possono usare Project per il Web per pianificare e gestire il lavoro di qualsiasi dimensione.
+Project per il Web è l'offerta più recente di Microsoft per la gestione dei progetti e del lavoro basata sul cloud. Project per il Web offre funzionalità di gestione del lavoro semplici e potenti per soddisfare la maggior parte delle esigenze e dei ruoli. Project manager e membri del team possono usare Project per il Web per pianificare e gestire il lavoro di qualsiasi dimensione.
 
-Project per il Web è basato sulla piattaforma Microsoft Power. Power Platform è costituita da PowerApps, Power Automate, Power BI e Microsoft Dataverse. Project per i dati Web viene archiviato in Microsoft Dataverse. 
+Project per il Web è basato sulla piattaforma Microsoft Power. Power Platform è costituita da PowerApps, Power Automate, Power BI e Microsoft Dataverse. Project i dati Web vengono archiviati in Microsoft Dataverse. 
 
 Project per il Web è disponibile tramite tre sottoscrizioni: Project - Piano 1, Project - Piano 3 e Project - Piano 5. Le funzionalità elencate Project [per le funzionalità Web](#project-for-the-web-features) interagiscono solo con i dati nell'Project per l'archivio dati Web.
 
 ### <a name="project-online"></a>Project Online
  
-Project Online è una soluzione online flessibile per Project portfolio management (PPM) e il lavoro quotidiano. Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti del portfolio di progetti praticamente ovunque su &mdash; quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
+Project Online è una soluzione online flessibile per Project Portfolio Management (PPM) e il lavoro quotidiano. Project Online offre potenti funzionalità di gestione dei progetti per la pianificazione, la definizione delle priorità e la gestione dei progetti e degli investimenti del portfolio di progetti praticamente ovunque su &mdash; quasi tutti i dispositivi. Project Online può essere usato dagli amministratori, dai responsabili e dagli utenti di portfolio, dai responsabili e dalle risorse dei progetti, nonché dai team leader e dai membri dei team.
 
 Project Online è basato sulla piattaforma SharePoint e archivia i dati nell'SharePoint di dati.
 
@@ -66,13 +66,13 @@ Microsoft Project Online client desktop è un programma di gestione dei progetti
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Utilizzo Project per il Web e Project Online insieme
 
-Sebbene Project web e Project Online siano applicazioni separate, è possibile utilizzarle affiancate. È possibile visualizzare tutti i progetti da entrambe le applicazioni in Project Home. È possibile utilizzare la funzionalità Project roadmap per creare roadmap che includono progetti di entrambe le applicazioni. È inoltre possibile utilizzare Power BI e il Project per il pacchetto di Power BI Web per ottenere informazioni dettagliate sui progetti e sulle risorse tra le due applicazioni. <sup>3</sup>
+Sebbene Project web e Project Online siano applicazioni separate, è possibile utilizzarle affiancate. È possibile visualizzare tutti i progetti da entrambe le applicazioni in Project Home. È possibile utilizzare la funzionalità Project roadmap per creare roadmap che includono progetti di entrambe le applicazioni. È inoltre possibile utilizzare Power BI e il Project per il pacchetto di contenuto Power BI web per ottenere informazioni dettagliate sui progetti e le risorse tra le due applicazioni. <sup>3</sup>
 
 Questo diagramma mostra il modo in cui le applicazioni possono lavorare insieme.
 
 ![Diagramma che Project sul Web e Project Online insieme.](../media/project-online-applications.png)
 
-In futuro, Microsoft si concentrerà sulla Project per le innovazioni web. Tuttavia, è possibile continuare a usare Project Online sicurezza in quanto continuerà a ricevere miglioramenti chiave delle prestazioni e della sicurezza.
+In futuro, Microsoft si concentrerà sulla Project per le innovazioni web. Tuttavia, è possibile continuare a usare Project Online sicurezza perché continuerà a ricevere miglioramenti chiave delle prestazioni e della sicurezza.
 
 ## <a name="microsoft-project-subscriptions"></a>Microsoft Project sottoscrizioni
 
@@ -80,7 +80,7 @@ Microsoft Project è disponibile tramite tre diverse sottoscrizioni per soddisfa
 
 |Prodotto | Piano 1 | Piano 3 | Piano 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project per il web |**x**  | **x x x** | **x x x** |
+|Project per il Web |**x**  | **x x x** | **x x x** |
 |Project Online |**x** |**x x x**| **x x x x** |
 |Project Online client desktop | |**x**|**x**|
 
@@ -107,14 +107,14 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati Projec
 |**Collaborazione** ||||||
 |Microsoft Teams integrazione | Collaborare ai progetti in Microsoft Teams. <sup>1</sup> | Sì | Sì | Sì | Sì |
 |**Gestione delle risorse e dei programmi** ||||||
-|Project configurazione del team | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro. | No | Sì | Sì | Sì |
+|Project del team | Gestire un team di progetto aggiungendo e rimuovendo membri e impostando il calendario di lavoro. | No | Sì | Sì | Sì |
 |Creare richieste di risorse<sup>12</sup> |  | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |Accettare una proposta di prenotazione<sup>12</sup> |  | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |Creare e aggiornare prenotazioni per soddisfare le richieste di risorse<sup>12</sup> |  | Solo visualizzazione | Solo visualizzazione | Solo visualizzazione | Sì |
 |Gestire competenze/competenze nelle risorse |  | Solo visualizzazione | Solo visualizzazione | Solo visualizzazione | Sì |
 |Roadmap | Crea roadmap visive e interattive tra progetti Microsoft Project Online, Microsoft Project per il Web e Azure Boards progetti. <sup>2</sup> Con Project - Piano 1 si ottiene l'accesso in sola lettura alle roadmap. Con Project - Piano 3 o Project - Piano 5, è anche possibile creare roadmap. | Solo visualizzazione | Solo visualizzazione | Sì | Sì |
 |**Reporting**<sup>3</sup> ||||||
-|Leggere i report *Project per i dati Web* | Visualizzare report predefiniti o personalizzati e dashboard per comprendere i dati relativi a progetti, programmi, portfolio e risorse. | Sì | Sì | Sì | Sì |
+|Leggere report da *Project per i dati Web* | Visualizzare report predefiniti o personalizzati e dashboard per comprendere i dati relativi a progetti, programmi, portfolio e risorse. | Sì | Sì | Sì | Sì |
 |Creare report utilizzando *Project per i dati Web* | Comprendere i dati importanti per l'organizzazione creando report personalizzati basati su report predefiniti o da zero. <br>Creare dashboard personalizzati per soddisfare esigenze specifiche dell'organizzazione. | No | Sì | Sì | Sì |
 |**Usabilità** ||||||
 |Creazione condivisa | Collaborare con le parti interessate e i membri del team per creare, modificare e aggiornare contemporaneamente elenchi di attività, pianificazioni di progetti e altro ancora.| Sola visualizzazione | Sì | Sì | Sì |
@@ -125,13 +125,13 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati Projec
 |Usare colonne personalizzate | Visualizzare, aggiungere, aggiornare o eliminare dati in una colonna aggiunta a una tabella. | Solo visualizzazione | Sì | Sì | Sì |
 |Utilizzare tabelle personalizzate <sup>5</sup> | Creare e definire tabelle personalizzate per contenere dati aggiuntivi necessari per progetti, portfolio e così via. | Solo visualizzazione | Sì | Sì | Sì |
 |**Power Automate flussi di lavoro e processi aziendali** <sup>7</sup> ||||||
-| | Definire e usare Power Automate cloud che utilizzano Project dati, incluse tabelle e colonne personalizzate. | No | Sì | Sì | Sì |
+| | Definire e usare Power Automate cloud che utilizzano Project dati, tra cui tabelle e colonne personalizzate. | No | Sì | Sì | Sì |
 | | Definire Power Automate processi aziendali che utilizzano Project dati, incluse tabelle e colonne personalizzate. | No | No | Sì | Sì |
 | | Utilizzare Power Automate processi aziendali che utilizzano Project dati. | No | Sì | Sì | Sì |
 |**Sicurezza e gestione degli utenti**||||||
 |Office Gruppi moderni | Creare un team di progetto per collaborare e configurare facilmente una raccolta di risorse da condividere con i membri del team. | Sì | Sì | Sì | Sì |
 |**App di terze parti**||||||
-|Connessione per *Project per il Web* con app di terze parti <sup>4</sup> | Utilizzare un'applicazione personalizzata o di terze parti per visualizzare, creare, aggiornare o eliminare Project dati in qualsiasi tabella Project nativa. | Solo visualizzazione<sup>11</sup> | Sì | Sì | Sì |
+|Connessione per *Project web con* app di terze parti <sup>4</sup> | Utilizzare un'applicazione personalizzata o di terze parti per visualizzare, creare, aggiornare o eliminare Project dati in qualsiasi tabella Project nativa. | Solo visualizzazione<sup>11</sup> | Sì | Sì | Sì |
 
 ### <a name="project-online-features"></a>Funzionalità di Project Online
 
@@ -140,21 +140,21 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell P
 |Funzionalità | Descrizione | Project - Piano 3 | Project - Piano 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**Project, attività e gestione del tempo**||||
-|Avvisi e promemoria | Tieniti in programma per le attività imminenti importanti e gli eventi di progetto con promemoria in Outlook e Microsoft Teams. <sup>1</sup>| Sì | Sì |
+|Avvisi e promemoria | È possibile pianificare attività ed eventi di progetto importanti con promemoria in Outlook e Microsoft Teams. <sup>1</sup>| Sì | Sì |
 |Linee di base | Impostare le previsioni di progetto per monitorare le prestazioni correnti rispetto alle prestazioni precedenti utilizzando il Project Web App.| Sì | Sì |
 |Visualizzazione Bacheca | Tenere traccia visivamente delle attività di progetto per migliorare il flusso di lavoro e il monitoraggio dello stato. | Sì | Sì |
-|Percorso critico | Tenere traccia visivamente delle attività che rappresentano il percorso più lungo del progetto utilizzando il Project Web App.| Sì | Sì |
+|Percorso critico | Tieni traccia visivamente delle attività che rappresentano il percorso più lungo del progetto usando il Project Web App.| Sì | Sì |
 |Gestione risultati finali | Tenere traccia e gestire i risultati finali utilizzando le date di inizio e fine e la programmazione automatica.| Sì | Sì |
 |Dipendenze | Impostare e tenere traccia visivamente delle dipendenze tra le attività.| Sì | Sì |
 |Visualizzazione Gantt | Tenere traccia visivamente e comprendere le date, le dipendenze e le assegnazioni del progetto in un diagramma di Gantt gerarchico utilizzando il Project Web App.| Sì | Sì |
-|Visualizzazione Griglia | Pianificare e gestire i progetti utilizzando una visualizzazione gerarchica a griglia delle attività utilizzando il Project Web App.| Sì | Sì |
+|Visualizzazione Griglia | Pianificare e gestire i progetti utilizzando una visualizzazione gerarchica a griglia delle attività tramite il Project Web App.| Sì | Sì |
 |Gestione dei problemi e dei rischi | Identificare e tenere traccia di problemi e rischi a livello di progetto e attività.| Sì | Sì |
 |Progetti principali | Raggruppare progetti correlati più piccoli in un singolo progetto principale utilizzando il Project Web App. | Sì | Sì |
 |Notifiche | Tieniti al passo con le assegnazioni di attività, lo stato e gli eventi importanti del progetto con Outlook e Teams notifiche. <sup>1</sup> | Sì | Sì |
 |Project Home | Ottieni una visione a volo d'occhio dei progetti a cui hai lavorato di recente, oltre a progetti importanti da monitorare da vicino.| Sì | Sì |
 |Project delle versioni | Confrontare versioni diverse di un progetto con un report che mostra cosa è cambiato tra le versioni. | Sì | Sì |
 |Attività di riepilogo | Pianificare, gestire e tenere traccia dei risultati finali e delle fasi utilizzando le attività di riepilogo nella Project Web App. | Sì | Sì |
-|Pianificazione delle attività | Usa le date di inizio e di fine delle attività, le attività, il lavoro, i tempi di ritardo e i lead e le dipendenze per ottenere una programmazione accurata delle date di progetto utilizzando il Project Web App. | Sì | Sì |
+|Pianificazione delle attività | Usa le date di inizio e di fine delle attività, il lavoro, i tempi di lead e ritardo e le dipendenze per ottenere una programmazione accurata delle date del progetto utilizzando il Project Web App. | Sì | Sì |
 |Aggiornamenti delle attività | Acquisisci tempo e stato con commenti sulle attività del progetto, sul lavoro non di progetto e sull'orario non lavorativo. | Sì | Sì |
 |Sequenze temporali | Tieni traccia visivamente e comprendi le date, le dipendenze e le assegnazioni del progetto in una visualizzazione sequenza temporale usando il Project Web App. | Sì | Sì |
 |Schede attività | I membri del team possono immettere il tempo e lo stato in base alle attività, al lavoro non di progetto e all'orario non lavorativo. | Sì | Sì |
@@ -166,7 +166,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell P
 |Siti di progetto | Creare e personalizzare un hub per la collaborazione e i documenti per un progetto. | Sì | Sì |
 |Microsoft Teams integrazione | Collaborare ai progetti in Microsoft Teams. <sup>1</sup> | Sì | Sì |
 |**Gestione delle richieste** ||||
-|Project del flusso di lavoro di approvazione della richiesta | Creare i flussi di lavoro necessari per valutare, definire le priorità e approvare la domanda in arrivo. | No | Sì |
+|Project del flusso di lavoro per la richiesta di approvazione | Creare i flussi di lavoro necessari per valutare, definire le priorità e approvare la domanda in arrivo. | No | Sì |
 |Project moduli di richiesta | Acquisire dati importanti sulla domanda in arrivo per valutare e definire le priorità per il nuovo lavoro. | No | Sì |
 |Project richieste | Tenere traccia, gestire, valutare e definire le priorità della domanda in arrivo dall'organizzazione e da clienti e partner esterni. | Sì | Sì |
 |**Gestione di risorse, programmi e portfolio** ||||
@@ -185,7 +185,7 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell P
 |Report personalizzati | Comprendere i dati importanti per l'organizzazione creando report personalizzati basati su report predefiniti o da zero. | Sì | Sì |
 |Dashboard e portali | Creare dashboard e portali personalizzati per soddisfare esigenze specifiche dell'organizzazione. | Sì | Sì |
 |**Personalizzazione e integrazione**||||
-|Marchio personalizzato | Personalizza la Project distribuzione usando il tuo marchio, logo e colori. | No | Sì |
+|Marchio personalizzato | Personalizza la Project distribuzione usando il tuo marchio, il tuo logo e i tuoi colori. | No | Sì |
 |Custom fields | Aggiungere campi personalizzati a livello di progetto, attività e risorsa per tenere traccia dei dati importanti per l'organizzazione e i progetti. | Sì | Sì |
 |Formule | Calcolare e acquisire dati importanti utilizzando formule tra attività e progetti. | Sì | Sì |
 |PowerApps | Crea e usa soluzioni per web e dispositivi mobili (tramite OData) con PowerApps. <sup>4</sup> | Sì | Sì |
@@ -202,15 +202,15 @@ Le funzionalità elencate in questa sezione interagiscono solo con i dati nell P
 <sup>1</sup> Richiede una sottoscrizione Office o Microsoft 365 commerciale.<br/>
 <sup>2 Azure Boards</sup> acquistati separatamente.<br/>
 <sup>3</sup> Reporting for Project for the web and Project Online using Power BI requires a Power BI license.<br/>
-<sup>4</sup> La creazione e l'utilizzo di Power Apps separati oltre all'applicazione Project che accede a Project per il Web o ai dati dei clienti di Project Online richiede una sottoscrizione Power Apps separata.<br/>
+<sup>4</sup> La creazione e l'utilizzo di Power Apps separati oltre all'applicazione Project che accede a Project per i dati dei clienti web o Project Online richiede una sottoscrizione Power Apps separata.<br/>
 <sup>5</sup> Limitato a 5 tabelle personalizzate.<br/>
-<sup>6</sup> Project Online per gli utenti esterni segue lo stesso criterio per gli utenti interni. Qualsiasi interazione in un Project Online sito richiede una Project - Piano 3 o Project - Piano 5 sottoscrizione.<br/>
-<sup>7</sup> Power Automate all'Project è limitato al contesto dell'Project appalto. Ciò significa che, sia per i trigger che per le azioni, i diritti di flusso inclusi in Project possono:
+<sup>6</sup> Project Online licenze per gli utenti esterni seguono lo stesso criterio per gli utenti interni. Qualsiasi interazione in un Project Online sito richiede una Project - Piano 3 o Project - Piano 5 sottoscrizione.<br/>
+<sup>7</sup> Power Automate all'interno Project è limitato al contesto dell'Project applicazione. Ciò significa che, sia per i trigger che per le azioni, i diritti di flusso inclusi Project possono:
 
-- Connessione a qualsiasi origine dati all'interno dei diritti di utilizzo dell Project appalto:
+- Connessione a qualsiasi origine dati all'interno dei diritti di utilizzo dell'Project applicazione:
   - Origini dati disponibili tramite connettori standard
   - Project dati tramite il connettore Microsoft Dataverse
-- Essere attivato direttamente dall'applicazione Project (tramite trigger/azione incorporati)
+- Essere attivati direttamente dall'Project applicazione (tramite trigger/azione incorporati)
 
 Se il flusso è isolato e non ha nulla a che fare con l Project appliczione, sarà necessario acquistare una licenza della piattaforma.<br/>
 <sup>8</sup> Gli utenti con una sottoscrizione Project - Piano 3 o Project - Piano 5 possono inviare richieste di coinvolgimento delle risorse. Non possono rivedere, soddisfare o approvare le richieste di coinvolgimento delle risorse.<br/>
@@ -267,15 +267,15 @@ Se il flusso è isolato e non ha nulla a che fare con l Project appliczione, sar
 ## <a name="service-considerations"></a>Considerazioni sui servizi
 
 > [!NOTE]
-> Project per il Web non è attualmente disponibile per GCC, GCC High e DoD. Stiamo lavorando alla distribuzione di Project per il Web, ma al momento non è possibile condividere un periodo di tempo specifico.
+> Project per il Web non è attualmente disponibile per GCC, GCC High e DoD. Stiamo lavorando alla distribuzione di Project web, ma al momento non è possibile condividere un periodo di tempo specifico.
 
 ### <a name="licensing-considerations"></a>Considerazioni sulle licenze
 
 - Qualsiasi interazione in un Project Online sito richiede almeno una sottoscrizione Project - Piano 3 o Project - Piano 5 nel tenant.
 - Quando l'ultimo Project - Piano 1, Project - Piano 3 o Project - Piano 5 scade, il Project per le istanze Web non verrà eliminato automaticamente finché non si dispone di sottoscrizioni attive che dipendono da Microsoft Dataverse.
-- Quando l'ultima Project - Piano 3 o Project - Piano 5 scade, le istanze Project Online verranno eliminate dopo 120 giorni.
+- Quando l'Project - Piano 3 o Project - Piano 5 scade, le istanze Project Online verranno eliminate dopo 120 giorni.
 - Per Project Online di valutazione, le istanze di valutazione verranno eliminate 30 giorni dopo il termine del periodo di valutazione.
-- Ad Project per le sottoscrizioni di valutazione Web, le istanze di valutazione non verranno eliminate finché non si dispone di sottoscrizioni attive che dipendono da Microsoft Dataverse.
+- Per Project per le sottoscrizioni di valutazione Web, le istanze di valutazione non verranno eliminate finché non si dispone di sottoscrizioni attive che dipendono da Microsoft Dataverse.
 
 ### <a name="use-of-sharepoint-online"></a>Utilizzo di SharePoint Online
 
@@ -283,23 +283,23 @@ Project Online richiede l'uso di SharePoint Online, di cui viene eseguito il pro
 
 ### <a name="project-roadmap-and-power-automate"></a>Project Roadmap e Power Automate
 
-Project Roadmap richiede l'uso di Power Automate, di cui viene eseguito il provisioning come parte dell'Project abbonamento. I diritti Power Automate funzionalità sono limitati a quelle Power Automate necessarie per Project roadmap. Power Automate funzionalità necessarie per Project roadmap viene visualizzata come piano di servizio Integrazione dati per  Project **con Flow** nella sezione App della interfaccia di amministrazione di Microsoft 365.
+Project La roadmap richiede l'uso di Power Automate, di cui viene eseguito il provisioning come parte della sottoscrizione Project abbonamento. I diritti Power Automate funzionalità sono limitati a quelle Power Automate necessarie per Project roadmap. Power Automate funzionalità necessarie per Project roadmap viene visualizzata come integrazione dei dati per Project con  il piano di servizio **Flow** nella sezione App della interfaccia di amministrazione di Microsoft 365.
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project per il Web e Microsoft Dataverse
 
-Project per il Web richiede l'uso di Microsoft Dataverse per l'archiviazione dei dati. Viene eseguito il provisioning di un database di Microsoft Dataverse nell'ambito della sottoscrizione Project microsoft. I diritti per la funzionalità Microsoft Dataverse sono limitati all'archiviazione e all'accesso ai dati per supportare Project per il Web. La funzionalità Microsoft Dataverse richiesta Project viene visualizzata come piano di servizio **Common Data Service per** Project nella sezione **App** della interfaccia di amministrazione di Microsoft 365.
+Project per il Web richiede l'uso di Microsoft Dataverse per l'archiviazione dei dati. Viene eseguito il provisioning di un database Microsoft Dataverse nell'ambito della sottoscrizione Project microsoft. I diritti per la funzionalità Microsoft Dataverse sono limitati all'archiviazione e all'accesso ai dati per supportare Project per il Web. La funzionalità Microsoft Dataverse richiesta Project viene visualizzata come **common data service per** il piano di servizio Project nella sezione **App** del interfaccia di amministrazione di Microsoft 365.
 
-Per Project clienti con cinque (5) o più Project per le licenze Web, i Project per i clienti Web possono distribuire in ambienti di produzione power platform e sandbox.
+Per Project i clienti con cinque (5) o più Project per le licenze Web, Project per i clienti Web possono distribuire in ambienti di produzione power platform e sandbox.
 
 | Capacità inclusa/sospesa                                      | Project P1 | Project P3 | Project P5 |
 |--------------------------------------------------------------------|------------|------------|------------|
 | Database Dataverse (in precedenza Common Data Service): incluso/tenant | 3 GB        | 5 GB        | 5 GB        |
 | Database dataverse: licenza di sottoscrizione maturata/utente (USL)        | 50 MB       | 250 MB      | 250 MB      |
-| Log dataverse: incluso/tenant                                     | 2 GB        | 2 GB        | 2 GB        |
+| Registro dataverse: incluso/tenant                                     | 2 GB        | 2 GB        | 2 GB        |
 | File dataverse: incluso/tenant                                    | 20 GB       | 20 GB       | 20 GB       |
 | Dataverse File: Accrued/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
-Esistono altre sottoscrizioni Microsoft oltre a Project che autorizzano la capacità di archiviazione dataverse. Vedi la Guida alle licenze di [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) e la guida [Power Apps, Power Automate](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409) e Power Virtual Agents licensing per altri diritti di capacità di archiviazione dataverse.
+Sono disponibili ulteriori sottoscrizioni Microsoft oltre Project che autorizzano la capacità di archiviazione dataverse. Vedi la Guida alle licenze di [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) e la guida [Power Apps, Power Automate e Power Virtual Agents licensing per](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409) altri diritti di capacità di archiviazione dataverse.
 
 ### <a name="data-backup-and-retention"></a>Backup e conservazione dei dati
 
@@ -307,7 +307,7 @@ Project per il Web e Project Online hanno entrambi gli stessi criteri di backup 
 
 ### <a name="data-encryption"></a>Crittografia dei dati
 
-- Per ulteriori informazioni sulla crittografia dei dati in Project Online vedere Crittografia dei dati [in OneDrive for Business e SharePoint Online - Microsoft 365 conformità | Documenti Microsoft](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
+- Per ulteriori informazioni sulla crittografia dei dati in Project Online, vedere Crittografia dei dati in OneDrive for Business e SharePoint Online - Microsoft 365 [conformità | Documenti Microsoft](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
 - Per ulteriori informazioni sulla crittografia dei dati in Project per il Web, vedere [Crittografia in Microsoft Dynamics 365 - Microsoft 365 conformità | Documenti Microsoft](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Project per i limiti e le limitazioni del Web

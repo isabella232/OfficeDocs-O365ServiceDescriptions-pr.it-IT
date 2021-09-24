@@ -6,20 +6,20 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium è una soluzione integrata che riunisce la produttività ottimale con funzionalità avanzate di sicurezza e gestione dei dispositivi per proteggere l'azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 658bfe634163bb7b0df423f65973c40a3289aec9cc81134ff97ea51403ae8ee4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663349"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671661"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrizione del servizio Microsoft 365 Business Premium
 
-Microsoft 365 Business Premium è una soluzione integrata che riunisce la produttività ottimale di Microsoft 365 con sicurezza avanzata e gestione dei dispositivi per proteggere l'azienda dalle minacce avanzate. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni sulle Office 365, vedere [Microsoft 365 e Office 365 servizio.](../office-365-service-descriptions-technet-library.md)
+Microsoft 365 Business Premium è una soluzione integrata che riunisce la migliore produttività di Microsoft 365 con sicurezza avanzata e gestione dei dispositivi per proteggere l'azienda dalle minacce avanzate. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano. Per ulteriori informazioni sulle Office 365, vedere [Microsoft 365 e Office 365 servizio.](../office-365-service-descriptions-technet-library.md)
   
 ## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>Disponibilità delle funzionalità tra Microsoft 365 Business Standard e Microsoft 365 Business Premium piani
 
@@ -59,7 +59,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Microsoft Defender per Office 365 Piano 1 <br/> |No  <br/> |Sì<sup>7</sup> <br/> |
 |Secure Score<sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Defender per Office 365 Piano 2 <br/> |No  <br/> |No <br/> |
-|**Azure AD Premium P1 è disponibile per Microsoft 365 Business Premium clienti.**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|**Azure AD Premium P1 è disponibile per i Microsoft 365 Business Premium clienti.**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |No  <br/> |Sì <br/> |Sì  <br/> |
 |Unità amministrative  <br/> |No  <br/> |Sì <br/> |Sì  <br/> |
 |Individuazione di app per cloud  <br/> |No  <br/> |Sì <br/> |Sì  <br/> |
@@ -86,13 +86,13 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Enterprise State Roaming per Windows 10 con aggiunta ad Azure AD  <br/> |No  <br/> |Sì  <br/> |
 |Ripristino di BitLocker in modalità self-service  <br/> |No  <br/> |Sì  <br/> |
 |Desktop virtuale Windows <br/> |No <br/> |Sì <br/> |
-|**Windows 10 Pro gestione** <br/>Se hai dispositivi concessi in licenza per Windows 7 e 8.1 Professional, Microsoft 365 Business Premium fornisce un aggiornamento a Windows 10 Pro. <sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
+|**Windows 10 Pro gestione** <br/>Se hai dispositivi con licenza per Windows 7 e 8.1 Professional, Microsoft 365 Business Premium fornisce un aggiornamento a Windows 10 Pro. <sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Distribuzione semplificata con Windows AutoPilot  <br/> |Sì  <br/> |
 |Attivazione della sottoscrizione  <br/> |Sì  <br/> |
 |Controllo organizzativo dello schermo del dispositivo inattiva  <br/> |Sì  <br/> |
 |Controllo organizzativo dell'accesso degli utenti alle app da Microsoft Store  <br/> |Sì  <br/> |
 |Controllo organizzativo dell'accesso degli utenti Cortana  <br/> |Sì  <br/> |
-|Controllo organizzativo Windows suggerimenti e pubblicità da Microsoft  <br/> |Sì  <br/> |
+|Controllo organizzativo Windows suggerimenti e pubblicità di Microsoft  <br/> |Sì  <br/> |
 |Aggiornamento automatico dei dispositivi Windows 10  <br/> |Sì  <br/> |
 |**Windows 10 Sicurezza** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Proteggere i PC da virus e altre minacce tramite Windows Defender Antivirus  <br/> |Sì  <br/> |

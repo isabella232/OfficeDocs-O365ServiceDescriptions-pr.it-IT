@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Gli amministratori possono trovare istruzioni dettagliate per la configurazione delle funzionalità di Skype for Business Online in Configurare Skype for Business Online.
-ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 483b16473d13dbd517ba91eb83ea0f03aea59414
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702465"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672327"
 ---
 # <a name="skype-for-business-online-features"></a>Funzionalità di Skype for Business Online
 
@@ -32,7 +32,7 @@ Gli amministratori possono trovare istruzioni dettagliate per la configurazione 
     
 - Per confrontare singole funzionalità dei client Web e desktop di Skype for Business, vedere le [tabelle di confronto dei client per Skype for Business Server 2015](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). Per un confronto dettagliato dei client mobili di Skype for Business, vedere le [tabelle di confronto dei client mobili](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison).
     
-Per scaricare il client per il dispositivo mobile, il PC o il Mac, vai a [Download Skype for Business su tutti i dispositivi.](https://go.microsoft.com/fwlink/?linkid=846929)
+Per scaricare il client per il tuo dispositivo mobile, PC o Mac, vai a [Download Skype for Business su tutti i dispositivi.](https://go.microsoft.com/fwlink/?linkid=846929)
   
 Skype for Business fornisce supporto per i dispositivi di sale riunioni elencati qui. Per ulteriori informazioni, collaborare con il team dell'account o chiamare il [supporto Tecnico Microsoft.](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) Per ottenere un numero locale, è possibile scegliere il proprio paese dall'elenco a discesa.
   
@@ -46,7 +46,7 @@ Con Skype for Business gli utenti possono:
     
 - Configurare in che modo far visualizzare la propria scheda di contatto Skype for Business agli altri utenti.
     
-Per ulteriori informazioni sulla messaggistica istantanea, sulla presenza e sui contatti, [vedere Send an IM in Skype for Business](https://support.office.com/article/b3aefb9b-dec8-4be8-a1ee-1eab12144d05).
+Per ulteriori informazioni sulla messaggistica istantanea, sulla presenza e sui contatti, vedere [Send an IM in Skype for Business](https://support.office.com/article/b3aefb9b-dec8-4be8-a1ee-1eab12144d05).
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Elementi audio, video e multimediali Skype su Skype
 
@@ -56,13 +56,13 @@ Vedi [Impostare le opzioni dei dispositivi audio in Skype for Business](https://
   
 ## <a name="federation-and-public-im-connectivity"></a>Federazione e connettività per la messaggistica istantanea pubblica
 
-Skype for Business connettività esterna (federazione) consente agli utenti di Skype for Business di connettersi con utenti di altre organizzazioni che usano Skype for Business, nonché con quelli che ospitano i propri Skype for Business Server locali. I contatti federati possono vedere la presenza, comunicare con la messaggistica istantanea ed effettuare chiamate audio e video con Skype su Skype. Tutte le comunicazioni federate tra i sistemi di messaggistica istantanea che utilizzano i server proxy di accesso vengono crittografate. Una volta che i messaggi vengono passati alla rete dei partner federati (se il partner è federato con una rete Skype for Business Server locale o di terze parti), Microsoft non controlla la crittografia.
+Skype for Business connettività esterna (federazione) consente agli utenti di Skype for Business di connettersi con utenti di altre organizzazioni che utilizzano Skype for Business, nonché con quelli che ospitano i propri Skype for Business Server locali. I contatti federati possono vedere la presenza, comunicare con la messaggistica istantanea ed effettuare chiamate audio e video con Skype su Skype. Tutte le comunicazioni federate tra i sistemi di messaggistica istantanea che utilizzano i server proxy di accesso vengono crittografate. Una volta che i messaggi vengono passati alla rete dei partner federati (se il partner è federato con una rete Skype for Business Server locale o di terze parti), Microsoft non controlla la crittografia.
   
 La connettività esterna di Skype for Business richiede il consenso e la configurazione corretta di entrambe le parti della relazione di federazione. Dopo la configurazione della federazione da parte degli amministratori di entrambe le parti, gli utenti di ogni organizzazione possono visualizzare la presenza e comunicare con gli utenti dell'altra organizzazione. La federazione è supportata solo tra altri Skype for Business, con proxy di accesso o server perimetrali configurati in modo appropriato. Per ulteriori informazioni sulla configurazione dei server perimetrali, vedere Componenti necessari per l'accesso degli utenti [esterni in Lync Server 2013.](/lyncserver/lync-server-2013-components-required-for-external-user-access)
   
 ## <a name="skype-for-business-online-meetings"></a>Riunioni in Skype for Business Online
 
-Gli utenti possono avviare o partecipare a una Skype for Business ad hoc facilmente nel client Skype for Business o in Office. Skype for Business consente agli utenti di trasformare semplici conversazioni di messaggistica istantanea o tramite posta elettronica in riunioni audio e video basate su PC con più partecipanti (tre o più) che possono condividere desktop, applicazioni e documenti.
+Gli utenti possono avviare o partecipare a una riunione Skype for Business ad hoc facilmente nel client Skype for Business o in Office. Skype for Business consente agli utenti di trasformare semplici conversazioni di messaggistica istantanea o tramite posta elettronica in riunioni audio e video basate su PC con più partecipanti (tre o più) che possono condividere desktop, applicazioni e documenti.
   
 L'audio Skype for Business tra più partecipanti fornisce agli utenti un codec audio adattivo per prestazioni ottimali in varie condizioni di larghezza di banda, controlli di servizio e chiamate video, indicatori della qualità di rete e ottime funzionalità per la gestione degli utenti (ad esempio, la possibilità di aggiungere un utente a una riunione semplicemente trascinando e rilasciando il suo nome).
   
@@ -89,7 +89,7 @@ In alcuni piani di sottoscrizione, Skype for Business può integrarsi con la mes
   
 - Combinare la messaggistica vocale e la messaggistica di posta elettronica in un'unica infrastruttura di messaggistica disponibile dal client Skype for Business messaggistica unificata. La messaggistica unificata di Exchange e Skype for Business interagiscono per fornire la risposta alle chiamate, Outlook Voice Access e i servizi di operatore automatico.
     
-- Abilitare Outlook sul web per fornire messaggistica istantanea, presenza, aggiornamenti dello stato in base Exchange informazioni del calendario e Skype for Business pianificazione delle riunioni.
+- Abilitare Outlook sul web per fornire aggiornamenti di messaggistica istantanea, presenza, stato in base Exchange informazioni del calendario e Skype for Business pianificazione delle riunioni.
     
 Skype for Business interagisce con Microsoft SharePoint Server locale per le informazioni sulla presenza e della funzionalità un-clic-per-comunicare nei siti di SharePoint. Questa interoperabilità richiede che il client Skype for Business sia in esecuzione desktop dell'utente. 
   
@@ -107,7 +107,7 @@ Pertanto, Skype for Business Online fornisce agli amministratori dei clienti i s
     
 - Windows PowerShell
     
-Per visualizzare gli articoli più Skype for Business guida per gli amministratori online e le procedure, [vedere Skype for Business Online - Guida per gli amministratori.](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59)
+Per visualizzare gli argomenti più Skype for Business guida dell'amministratore online e gli articoli sulle procedure, [vedere Skype for Business Online - Guida per gli amministratori.](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59)
   
 ## <a name="audio-conferencing-in-office-365"></a>Audio conferenze in Office 365
 
@@ -121,7 +121,7 @@ I servizi di audio conferenza sono disponibili in tutti i paesi. Per consultare 
   
 ## <a name="calling-plans"></a>Piani di chiamata
 
-Skype for Business include chiamate PSTN (Public Switched Telephone Network). I piani di chiamata sono un componente aggiuntivo del [Sistema telefonico](#phone-system) che consente di cercare, acquisire e assegnare numeri di telefono agli utenti dell'organizzazione in modo che possano effettuare chiamate e ricevere chiamate da persone interne ed esterne all'organizzazione, direttamente da Office 365. Gli utenti assegnati ai numeri di telefono possono effettuare chiamate vocali su tutti i dispositivi dotati di Skype for Business, inclusi telefoni VoIP, PC e dispositivi mobili. Inoltre, possono controllare le chiamate grazie alle funzioni di attivazione/disattivazione dell'audio, sospensione/ripresa della telefonata, di trasferimento della chiamata e, se necessario, di esecuzione delle chiamate di emergenza. 
+Skype for Business include chiamate PSTN (Public Switched Telephone Network). I piani di chiamata sono un componente aggiuntivo del [Sistema telefonico che](#phone-system) consente di cercare, acquisire e assegnare numeri di telefono agli utenti dell'organizzazione in modo che possano effettuare chiamate e ricevere chiamate da persone interne ed esterne all'organizzazione, direttamente da Office 365. Gli utenti assegnati ai numeri di telefono possono effettuare chiamate vocali su tutti i dispositivi dotati di Skype for Business, inclusi telefoni VoIP, PC e dispositivi mobili. Inoltre, possono controllare le chiamate grazie alle funzioni di attivazione/disattivazione dell'audio, sospensione/ripresa della telefonata, di trasferimento della chiamata e, se necessario, di esecuzione delle chiamate di emergenza. 
   
 Per informazioni sui piani di chiamata, vedere [Calling Plans for Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Per ulteriori informazioni e per configurare un piano di chiamata, vedere Quale piano di [chiamata fa per te?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

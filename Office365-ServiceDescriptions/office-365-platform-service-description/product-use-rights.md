@@ -8,15 +8,15 @@ ms.topic: reference
 f1_keywords:
 - office-365-product-use-rights
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: f14798dc6bc2b227d7f5dfafdca19d4993bd4cdf659a54d0fbd22a5449739ae9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 95b12d5d8423af41e5c86f835ecf38945ad025e9
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701845"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670001"
 ---
 # <a name="product-use-rights"></a>Diritti di utilizzo del prodotto
 
@@ -34,6 +34,6 @@ Per ulteriori informazioni sui programmi di licenza per la propria organizzazion
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 del servizio della piattaforma.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)
   
 

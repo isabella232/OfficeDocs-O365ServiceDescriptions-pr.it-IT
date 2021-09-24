@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - word-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word per il web (in precedenza Word Web App) estende l'esperienza di Microsoft Word al Web browser, dove è possibile utilizzare i documenti direttamente nel sito Web in cui è archiviato il documento.
-ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a499343c40c97f4d16575a0670dacbc4b9e5c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702885"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672726"
 ---
 # <a name="word-for-the-web"></a>Word per il Web
 
@@ -63,7 +63,7 @@ Non disponibile in Word per il web. È possibile visualizzare le citazioni esist
   
 ## <a name="clipboard"></a>Appunti
 
-A causa delle limitazioni della tecnologia del web browser, copiare e incollare testo in Office per il web è diverso dal copiare e incollare testo nelle applicazioni desktop Office desktop. Ulteriori informazioni su [copia e incolla in Office per il web.](https://go.microsoft.com/fwlink/p/?LinkId=282321)
+A causa delle limitazioni della tecnologia del Web browser, copiare e incollare testo in Office per il web è diverso dal copiare e incollare testo nelle applicazioni desktop Office desktop. Ulteriori informazioni su [copia e incolla in Office per il web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
   
 ## <a name="collaboration-advanced"></a>Collaborazione avanzata
 
@@ -99,7 +99,7 @@ Microsoft Word include il supporto incorporato per la scrittura e la modifica di
   
 ## <a name="find-and-replace"></a>Trova e sostituisci
 
-Trova e sostituisci il testo nel documento usando lo strumento Trova e sostituisci sia nell'app Word per il web che nell'app desktop Word. Per ulteriori informazioni sull'utilizzo di Trova e sostituisci in Word per il web, vedere [Trovare e sostituire testo.](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)
+Trova e sostituisci il testo nel documento usando lo strumento Trova e sostituisci sia nell'app desktop Word per il web word. Per ulteriori informazioni sull'utilizzo di Trova e sostituisci in Word per il web, vedere [Trovare e sostituire testo.](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)
   
 ## <a name="font-formatting"></a>Font formatting
 
@@ -107,7 +107,7 @@ Con Word per il web, è possibile applicare il tipo di carattere, la dimensione 
   
 ## <a name="footnotes-and-endnotes"></a>Footnotes and endnotes
 
-È possibile aggiungere note a piè di pagina e note di chiusura ai documenti in Word per il web. Ulteriori informazioni [sull'aggiunta di note a piè di pagina](https://go.microsoft.com/fwlink/p/?LinkId=397306)e note di chiusura in Word per il web .
+È possibile aggiungere note a piè di pagina e note di chiusura ai documenti in Word per il web. Altre informazioni [sull'aggiunta di note a piè di pagina](https://go.microsoft.com/fwlink/p/?LinkId=397306)e note di chiusura in Word per il web .
   
 ## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 
@@ -119,7 +119,7 @@ Quando si apre il documento in OneDrive o SharePoint, Word per il web il documen
   
 ## <a name="headers-and-footers"></a>Intestazioni e piè di pagina
 
-Inserire un'intestazione e un piè di pagina nel documento sia Word per il web'app desktop Word. È disponibile anche la possibilità di applicare intestazioni e piè di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni [sull'utilizzo](https://go.microsoft.com/fwlink/?LinkId=389520)di intestazioni e piè di Word per il web, vedere Novità di Word per il web .
+Inserisci un'intestazione e un piè di pagina nel documento sia nell Word per il web'app desktop Word. È disponibile anche la possibilità di applicare intestazioni e piè di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni [sull'utilizzo](https://go.microsoft.com/fwlink/?LinkId=389520)di intestazioni e piè di pagina in Word per il web, vedere Novità di Word per il web .
   
 ## <a name="hyperlinks"></a>Collegamenti ipertestuali
 
@@ -139,7 +139,7 @@ Word per il web i documenti protetti con Information Rights Management (IRM). Tu
   
 ## <a name="learning-tools"></a>Strumenti di apprendimento
 
-Learning Gli strumenti sono progettati per aiutarti a migliorare le tue capacità di lettura aumentando la capacità di pronunciare le parole correttamente, leggere in modo rapido e accurato e comprendere ciò che leggi. 
+Learning Gli strumenti sono progettati per aiutarti a migliorare le tue capacità di lettura potenziando la capacità di pronunciare correttamente le parole, leggere rapidamente e accuratamente e comprendere ciò che leggi. 
   
 ## <a name="lists"></a>Elenchi
 
@@ -159,7 +159,7 @@ Inserire interruzioni di pagina sia Word per il web'app desktop Word.
   
 ## <a name="page-layout-tools"></a>Page layout tools
 
-Con Word per il web, è possibile regolare i margini, le dimensioni del foglio e se la pagina è disposte verticalmente o orizzontalmente nei documenti. Word per il web non visualizza righelli e griglie. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
+Con Word per il web, è possibile regolare i margini, le dimensioni del foglio e se la pagina è disposte verticalmente o orizzontalmente nei documenti. Word per il web non vengono visualizzati righelli e griglie. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
 Informazioni su come [eliminare una pagina vuota in Word per il web](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1).
   
@@ -169,7 +169,7 @@ Non disponibile in Word per il web. Le funzionalità avanzate come bordi pagina 
   
 ## <a name="page-numbers"></a>Page numbers
 
-Inserisci i numeri di pagina nel documento sia nell Word per il web'app desktop Word. È disponibile anche la possibilità di applicare i numeri di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni [sull'utilizzo](https://go.microsoft.com/fwlink/?LinkId=389520)dei numeri di pagina in Word per il web, vedere Novità di Word per il web .
+Inserire i numeri di pagina nel documento sia nell Word per il web'app desktop Word. È disponibile anche la possibilità di applicare i numeri di pagina su tutte le pagine del documento tranne la prima. Per ulteriori informazioni [sull'uso](https://go.microsoft.com/fwlink/?LinkId=389520)dei numeri di pagina in Word per il web, vedere Novità di Word per il web .
   
 ## <a name="paragraph-formatting"></a>Formattazione dei paragrafi
 
@@ -197,7 +197,7 @@ Non disponibile in Word per il web. Le funzionalità avanzate di stampa (ad esem
   
 ## <a name="proofing-tools"></a>Strumenti di correzione
 
-Word per il web controllo ortografico durante la digitazione e viene applicata una sottolineatura rossa ondulata al testo con errori di ortografia. Sono incluse le azioni di correzione automatica standard, quali la correzione dei comuni errori ortografici e la conversione dei caratteri in simboli. Inoltre, è possibile impostare la lingua di modifica o disattivare il controllo ortografico per il testo selezionato. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Word per il web controllo ortografico durante la digitazione e applica una sottolineatura rossa ondulata al testo con errori di ortografia. Sono incluse le azioni di correzione automatica standard, quali la correzione dei comuni errori ortografici e la conversione dei caratteri in simboli. Inoltre, è possibile impostare la lingua di modifica o disattivare il controllo ortografico per il testo selezionato. Ulteriori informazioni sulle [differenze tra l'utilizzo di un documento nel browser e in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="proofing-tools-advanced"></a>Strumenti di correzione avanzati
 
@@ -233,7 +233,7 @@ Con Word per il web, è possibile salvare una copia del documento in locale.
   
 ## <a name="save-as-pdf"></a>Salva come PDF
 
-Puoi usare Word per il web per salvare o convertire i file in PDF in modo da poterli condividere o stampare con stampanti commerciali. E non occorre usare altri software o componenti aggiuntivi.
+È possibile utilizzare Word per il web per salvare o convertire i file in PDF in modo da poterli condividere o stampare utilizzando stampanti commerciali. E non occorre usare altri software o componenti aggiuntivi.
   
 ## <a name="share"></a>Condividere
 
@@ -249,11 +249,11 @@ Con Word per il web, i documenti esistenti con SmartArt vengono visualizzati cor
   
 ## <a name="table-of-contents"></a>Sommario
 
-Non disponibile in Word per il web. È possibile visualizzare un sommario esistente, ma non crearne uno usando Word per il web. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per creare un sommario nel documento. Ulteriori informazioni su [creare un sommario](https://go.microsoft.com/fwlink/p/?LinkId=324414). 
+Non disponibile in Word per il web. È possibile visualizzare un sommario esistente, ma non crearne uno utilizzando Word per il web. Se sul computer è installata l'app desktop Word, è possibile utilizzare Word per creare un sommario nel documento. Ulteriori informazioni su [creare un sommario](https://go.microsoft.com/fwlink/p/?LinkId=324414). 
   
 ## <a name="table-of-authority"></a>Indice delle autorità
 
-Non disponibile in Word per il web. È possibile visualizzare un indice delle autorità esistente, ma non crearne uno utilizzando Word per il web.
+Non disponibile in Word per il web. È possibile visualizzare un indice delle autorità esistente, ma non crearne uno usando Word per il web.
   
 ## <a name="tap"></a>Tocco
 
@@ -293,8 +293,8 @@ La funzionalità di zoom è disponibile in modalità di visualizzazione. Con Wor
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Office per il web [descrizione del servizio.](office-online-service-description.md) 
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Office per il web [service description](office-online-service-description.md). 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>Limitazioni e specifiche dei parametri operativi
 
-Per informazioni sui limiti dei parametri operativi, vedere Limitazioni e specifiche dei parametri operativi [in Word.](/office/troubleshoot/word/operating-parameter-limitation)
+Per informazioni sui limiti dei parametri operativi, vedere Limitazioni e specifiche dei [parametri operativi in Word.](/office/troubleshoot/word/operating-parameter-limitation)

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-mail-flow
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Per la maggior parte delle organizzazioni, microsoft ospita le cassette postali e si occupa del flusso di posta. Si tratta della configurazione più semplice e significa che Microsoft gestisce tutte le cassette postali e il filtro. Tuttavia, alcune organizzazioni necessitano di configurazioni del flusso di posta più complesse per garantire la conformità con esigenze aziendali o normative specifiche. Opzioni con tali caratteristiche sono presenti in questa sezione.
-ms.openlocfilehash: fafaab4b4bec705c00df5fd47d80fd30138a8a9b6da1c1707ae4e087de8b617e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b51c3f6661047e3e3ea446dbac6f81866c5db27b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663789"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671889"
 ---
 # <a name="mail-flow"></a>Flusso di posta
 
@@ -27,7 +27,7 @@ Per la maggior parte delle organizzazioni, microsoft ospita le cassette postali 
   
 ## <a name="custom-routing-of-outbound-email"></a>Routing personalizzato della posta in uscita
 
-Microsoft Exchange Online può effettuare il routing del flusso di posta dall'organizzazione tramite un server locale o un servizio ospitato (talvolta denominato "smart hosting"). In questo modo l'organizzazione può utilizzare le appliance di prevenzione della perdita dei dati (DLP), eseguire post-elaborazione personalizzata della posta elettronica in uscita e recapitare la posta elettronica ai partner aziendali tramite reti private. Exchange Online supporta anche la funzionalità di riscrittura degli indirizzi, nella quale la posta in uscita viene inviata attraverso un gateway locale che ne modifica gli indirizzi. Questa funzionalità consente di nascondere i sottodomini, fare in modo che la posta elettronica di un'organizzazione multidominio venga visualizzata come un singolo dominio o che la posta elettronica inoltrata dal partner venga visualizzata come se fosse stata inviata dall'interno dell'organizzazione. Gli amministratori possono personalizzare il routing della posta dall'interfaccia di amministrazione di Exchange.
+Microsoft Exchange Online può effettuare il routing del flusso di posta dall'organizzazione tramite un server locale o un servizio ospitato (talvolta denominato "smart hosting"). In questo modo l'organizzazione può usare le appliance di prevenzione della perdita dei dati (DLP), eseguire post-elaborazione personalizzata della posta elettronica in uscita e recapitare la posta elettronica ai partner aziendali tramite reti private. Exchange Online supporta anche la funzionalità di riscrittura degli indirizzi, nella quale la posta in uscita viene inviata attraverso un gateway locale che ne modifica gli indirizzi. Questa funzionalità consente di nascondere i sottodomini, fare in modo che la posta elettronica di un'organizzazione multidominio venga visualizzata come un singolo dominio o che la posta elettronica inoltrata dal partner venga visualizzata come se fosse stata inviata dall'interno dell'organizzazione. Gli amministratori possono personalizzare il routing della posta dall'interfaccia di amministrazione di Exchange.
   
 Per ulteriori informazioni, vedere [Set up connectors to route mail between Microsoft and your own email servers](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   

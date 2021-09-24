@@ -8,24 +8,24 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender per Office 365 è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da malware e virus sconosciuti fornendo una protezione zero-day affidabile e include funzionalità per proteggere l'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663099"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670341"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrizione del servizio Microsoft Defender per Office 365
 
-Microsoft Defender per Office 365 è un servizio di filtro della posta elettronica basato sul cloud che consente di proteggere l'organizzazione da minacce avanzate agli strumenti di posta elettronica e collaborazione, ad esempio phishing, compromissione della posta elettronica aziendale e attacchi di malware. Defender for Office 365 offre anche funzionalità di analisi, ricerca e correzione per aiutare i team di sicurezza a identificare, definire le priorità, analizzare e rispondere in modo efficiente alle minacce.
+Microsoft Defender per Office 365 è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da minacce avanzate agli strumenti di posta elettronica e collaborazione, ad esempio phishing, compromissione della posta elettronica aziendale e attacchi di malware. Defender for Office 365 offre anche funzionalità di analisi, ricerca e correzione per aiutare i team di sicurezza a identificare, definire le priorità, analizzare e rispondere in modo efficiente alle minacce.
 
 Di seguito sono riportati i modi principali per usare Defender per Office 365 protezione dei messaggi:
 
-- In uno scenario defender per Office 365 solo filtro, Defender per Office 365 fornisce protezione della posta elettronica basata su cloud per l'ambiente Exchange Server locale o qualsiasi altra soluzione di posta elettronica SMTP locale.
+- In uno scenario di solo filtro di Defender per Office 365, Defender per Office 365 fornisce protezione della posta elettronica basata su cloud per l'ambiente Exchange Server locale o qualsiasi altra soluzione di posta elettronica SMTP locale.
 
 - Defender for Office 365 può essere abilitato per proteggere Exchange Online cassette postali ospitate nel cloud. Per ulteriori informazioni sulle Exchange Online, vedere la [descrizione Exchange Online servizio.](exchange-online-service-description/exchange-online-service-description.md)
 
@@ -64,14 +64,14 @@ Nella tabella seguente sono elencate le principali funzionalità di Microsoft De
 > [!NOTE]
 > Microsoft Defender per Office 365 è un componente di Microsoft 365 Defender. Per ulteriori informazioni sulla sicurezza automatizzata tra domini con Microsoft 365 Defender, vedere [Microsoft 365 Defender requisiti.](/microsoft-365/security/mtp/prerequisites)
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per ulteriori informazioni su Microsoft Defender per Office 365, vedere le risorse seguenti:
 
 - [Microsoft Defender per Office 365 documenti Microsoft](/microsoft-365/security/office-365-security/defender-for-office-365)
 - [Sito Web Microsoft Defender per Office 365](https://www.microsoft.com/security/business/threat-protection/office-365-defender)
 - [Blog di Microsoft Defender Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)
-- [Forum di Microsoft Defender Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bd-p/MicrosoftDefenderforOffice365)
+- [Microsoft Defender for Office 365 Forum](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bd-p/MicrosoftDefenderforOffice365)
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 

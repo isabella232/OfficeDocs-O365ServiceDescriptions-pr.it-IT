@@ -6,23 +6,23 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Azure Active Directory è la soluzione di gestione delle identità e degli accessi basata sul cloud di Microsoft, che consente ai dipendenti e agli utenti guest di accedere in modo sicuro alle risorse.
-ms.openlocfilehash: 9620f98fd241016748908d74b6644b3208e3418064fb6b296c433836bc8c31d0
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 7d2818cebaff746da0385f9f0294ede3a0674d14
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701615"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670998"
 ---
 # <a name="azure-active-directory-service-description"></a> Descrizione del servizio Azure Active Directory
 
-Azure Active Directory è la soluzione di gestione delle identità e degli accessi basata su cloud di Microsoft, che consente ai dipendenti e agli utenti guest di accedere in modo sicuro e accedere a risorse quali le app Microsoft (ad esempio, Microsoft 365 e Azure), migliaia di app SaaS popolari pre-integrate (ad esempio, ServiceNow, Google Apps) e qualsiasi app Web cloud o locale a compilazione personalizzata. Offre funzionalità di sicurezza come single sign-on, autenticazione a più fattori, accesso condizionale e gestione del ciclo di vita per proteggere le organizzazioni dalla compromissione dell'identità.
+Azure Active Directory è la soluzione di gestione delle identità e degli accessi basata sul cloud di Microsoft, che consente ai dipendenti e agli utenti guest di accedere in modo sicuro a risorse quali le app Microsoft (ad esempio, Microsoft 365 e Azure), migliaia di app SaaS popolari pre-integrate (ad esempio ServiceNow, Google Apps) e qualsiasi app Web cloud o locale a compilazione personalizzata. Offre funzionalità di sicurezza come single sign-on, autenticazione a più fattori, accesso condizionale e gestione del ciclo di vita per proteggere le organizzazioni dalla compromissione dell'identità.
 
 ## <a name="available-plans"></a>Piani disponibili
 
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Azure Active Directory, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Per informazioni dettagliate sulle sottoscrizioni che consentono agli utenti di Azure Active Directory, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
@@ -40,11 +40,11 @@ Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratt
 
 Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per ulteriori informazioni sulle Azure Active Directory, vedere le risorse seguenti:
 
 - [Cos'è Azure Active Directory?](/azure/active-directory/fundamentals/active-directory-whatis)
 - [Guida introduttiva: Creare un nuovo tenant in Azure Active Directory](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)
-- [Novità di Azure Active Directory](/azure/active-directory/fundamentals/whats-new)
-- [Azure Active Directory e restrizioni del servizio](/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
+- [Novità di Azure Active Directory?](/azure/active-directory/fundamentals/whats-new)
+- [Azure Active Directory dei servizi e delle restrizioni](/azure/active-directory/enterprise-users/directory-service-limits-restrictions)

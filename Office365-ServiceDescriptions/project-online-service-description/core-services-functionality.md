@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Le funzionalità di base dei servizi seguenti sono disponibili in Project Online.
-ms.openlocfilehash: 026f33890716fd22f7d7b8c402e97244b0a7b851bef0702bc1eb82273c26d15b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c4722336b394a61fe2613dcfb15f3b71b501d46b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702845"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672647"
 ---
 # <a name="core-services-functionality"></a>Funzionalità dei servizi di base
 

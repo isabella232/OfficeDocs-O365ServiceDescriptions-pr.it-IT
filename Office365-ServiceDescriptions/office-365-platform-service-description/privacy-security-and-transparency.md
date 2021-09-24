@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-privacy-security-transparency
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft apprezza il suo rapporto con i clienti e considera fondamentale proteggere la privacy e la sicurezza dei dati dei clienti. Per ulteriori informazioni, visitare il Centro protezione Microsoft.
-ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b25a747d5ebb4c8941d2c3e1f592f57d964f7e98
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701835"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672984"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -40,7 +40,7 @@ Per informazioni sulle modalità adottate da Microsoft per fornire i servizi Off
   
 ## <a name="transparency"></a>Trasparenza
 
-In quanto cliente, è possibile scoprire dove risiedono i dati, chi presso Microsoft può accedervi e cosa facciamo con queste informazioni internamente. Per ulteriori informazioni, vedere [Trasparenza](https://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
+In quanto cliente, puoi scoprire dove risiedono i dati, chi può accedervi da Microsoft e cosa facciamo con queste informazioni internamente. Per ulteriori informazioni, vedere [Trasparenza](https://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
   
 ## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
@@ -58,4 +58,4 @@ Defender for Office 365 aiuta a proteggere l'organizzazione da malware e virus. 
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 del servizio della piattaforma.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)

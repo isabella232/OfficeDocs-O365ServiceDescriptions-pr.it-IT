@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Leggere questo articolo per informazioni sui criteri di messaggistica e sulle funzionalità di conformità in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664109"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672307"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Criteri di messaggistica e conformità in Exchange Online Protection
 
@@ -27,7 +27,7 @@ Per informazioni su tutte le funzionalità di EOP? Vedere la [descrizione Exchan
 
 ## <a name="mail-flow-rules"></a>Regole del flusso di posta
 
-Le regole del flusso di posta (note anche come regole di trasporto) offrono la flessibilità di applicare criteri specifici dell'azienda alla posta elettronica. Le regole del flusso di posta sono basate su criteri flessibili, che consentono di definire condizioni, eccezioni e azioni da eseguire in base ai criteri. Per ulteriori informazioni, vedere [Mail flow rules (transport rules) in Exchange Online Protection.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)
+Le regole del flusso di posta (note anche come regole di trasporto) offrono la flessibilità di applicare criteri specifici dell'azienda alla posta elettronica. Le regole del flusso di posta sono basate su criteri flessibili, che consentono di definire condizioni, eccezioni e azioni da eseguire in base ai criteri. Per ulteriori informazioni, vedere [Mail flow rules (transport rules) in Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
 
 ## <a name="audit-logging"></a>Registrazione di controllo
 
@@ -51,7 +51,7 @@ Non disponibili per gli utenti EOP autonomi. Prevenzione della perdita di dati (
 
 - I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale dei documenti consente di creare facilmente tipi di informazioni riservate personalizzati basati su moduli basati su testo che è possibile utilizzare per definire le regole del flusso di posta e i criteri DLP.
 
-- Aggiungere criteri Suggerimenti, che consente di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2013, Outlook sul web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi.
+- Aggiungi Suggerimenti criteri, che consente di ridurre la perdita di dati visualizzando un avviso per gli utenti di Outlook 2013, Outlook sul web e OWA per dispositivi e può anche migliorare l'efficacia dei criteri consentendo la segnalazione di falsi positivi.
 
 - Analizzare i dati delle operazioni non consentite nei rapporti sulla prevenzione della perdita dei dati oppure aggiungere rapporti personalizzati tramite l'azione di creazione dei rapporti operazioni non consentite.
 
@@ -62,7 +62,7 @@ Per ulteriori informazioni sulla prevenzione della perdita dei dati, vedere Prev
 
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 
-Office 365 Message Encryption, parte di Azure Information Protection, è un servizio online che consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. I clienti locali possono accedere alle Office 365 Message Encryption acquistando Azure Information Protection e usando Exchange Online Protection per configurare il flusso di posta attraverso Exchange Online. Per ulteriori informazioni sulle Office 365 Message Encryption in Exchange Online, vedere [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) nella descrizione Exchange Online servizio.
+Office 365 Message Encryption, parte di Azure Information Protection, è un servizio online che consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. I clienti locali possono accedere Office 365 Message Encryption acquistando Azure Information Protection e usando Exchange Online Protection per configurare il flusso di posta attraverso Exchange Online. Per altre informazioni sulle Office 365 Message Encryption in Exchange Online, vedere [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) nella descrizione Exchange Online servizio.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Funzionalità di conformità e criteri di messaggistica tra opzioni EOP
 
@@ -77,4 +77,4 @@ Office 365 Message Encryption, parte di Azure Information Protection, è un serv
 > <sup>1</sup> Le condizioni, le eccezioni e le azioni delle regole del flusso di posta disponibili sono leggermente diverse tra EOP e Exchange Online. Queste differenze vengono notate nelle condizioni e nelle eccezioni delle regole del flusso di posta [(predicati) in](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) Exchange Online e nelle azioni delle regole del flusso di posta [in Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
 > <sup>2</sup> I report di controllo di EOP corrispondono a un sottoinsieme dei report di controllo di Exchange Online che non includono informazioni sulle cassette postali.<br/>
 > <sup>3</sup> I suggerimenti relativi ai criteri DLP non sono disponibili per i clienti che dispongono di Exchange Enterprise CAL with Services.<br/>
-> <sup>4</sup> Supportato per i clienti locali che acquistano il componente aggiuntivo Azure Information Protection e usano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre al componente aggiuntivo Azure Information Protection, è Microsoft 365 Apps for enterprise necessario acquistare. <br/>
+> <sup>4</sup> Supportato per i clienti locali che acquistano il componente aggiuntivo Azure Information Protection e usano Exchange Online Protection per instradare la posta elettronica tramite Exchange Online. Per l'esperienza desktop, oltre al componente aggiuntivo Azure Information Protection, è necessario Microsoft 365 Apps for enterprise acquisto. <br/>

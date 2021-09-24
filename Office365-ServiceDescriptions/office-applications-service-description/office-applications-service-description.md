@@ -8,28 +8,28 @@ ms.topic: reference
 f1_keywords:
 - office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 è un servizio di sottoscrizione che fornisce la versione più recente delle applicazioni desktop di Office già familiari, ad esempio Word, Excel e PowerPoint.
-ms.openlocfilehash: 83ccebfd18bc95694f641d02b4eb56c4bcf34e3859d408ef9550881f2b2fe873
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702025"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672777"
 ---
 # <a name="office-applications-service-description"></a>Descrizione del servizio applicazioni Office
 
 Microsoft 365 è un servizio di sottoscrizione che fornisce la versione più recente delle applicazioni desktop di Office già familiari, ad esempio Word, Excel e PowerPoint.
   
-Anche se Office è un servizio basato su cloud, Office applicazioni non vengono eseguite nel cloud. Gli utenti possono invece scaricare Office 365 dal portale di Office 365 e installarlo nel computer locale. Microsoft utilizza la tecnologia "a portata di clic" per eseguire rapidamente e con facilità il download e l'installazione di Office. La tecnologia A portata di clic, che si avvale della tecnologia di virtualizzazione per eseguire applicazioni Office, è un ambiente autonomo nel computer locale che consente agli utenti di eseguire applicazioni Office insieme a una versione precedente del programma.
+Anche se Office è un servizio basato sul cloud, Office applicazioni non vengono eseguite nel cloud. Gli utenti possono invece scaricare Office 365 dal portale di Office 365 e installarlo nel computer locale. Microsoft utilizza la tecnologia "a portata di clic" per eseguire rapidamente e con facilità il download e l'installazione di Office. La tecnologia A portata di clic, che si avvale della tecnologia di virtualizzazione per eseguire applicazioni Office, è un ambiente autonomo nel computer locale che consente agli utenti di eseguire applicazioni Office insieme a una versione precedente del programma.
   
 Le applicazioni Office sono disponibili in edizioni a 32 e 64 bit.
   
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Office descrizione del servizio, vedere la tabella di confronto completa [delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Office descrizione del servizio delle applicazioni, vedere la tabella di confronto delle sottoscrizioni [completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 ## <a name="feature-availability-across-plans"></a>Disponibilità delle funzionalità tra piani
 
@@ -95,11 +95,11 @@ Molti dei piani Microsoft 365 per le aziende dispongono di componenti aggiuntivi
 ><sup>1</sup> Con la presente versione di Office sono supportate le funzionalità di archiviazione e conformità ma i piani Exchange Online e SharePoint Online non sono inclusi e devono essere acquistati separatamente o utilizzati con un server equivalente supportato in locale.<br/>
 <sup>2</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e abiliterà le funzionalità supportate di Information Rights Management (IRM). Alcune funzionalità di Azure Information Protection richiedono una sottoscrizione a Microsoft 365 Apps for enterprise, che non è inclusa in Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Education o Office 365 F3.<br/>
 <sup>3</sup> Windows Server AD RMS è un server in locale che deve essere acquistato e gestito separatamente per poter abilitare le funzionalità IRM supportate.<br/>
-<sup>4</sup> Se si dispone di Office 2013 Professional Plus o di una versione autonoma di Excel 2013, è possibile utilizzare Power Map Preview per Excel 2013, che è un componente aggiuntivo non supportato. La versione precedente di Power Map Preview è scaduta e non funziona con nessuna versione di Excel. Se è stata installata la versione precedente, disinstallarla dal Pannello di controllo, quindi scaricare e installare la versione corrente di Power Map Preview. Questa versione ha le stesse funzionalità della versione di Power Map rilasciata con Microsoft 365 SP1.<br/> 
+<sup>4</sup> Se si dispone di Office 2013 Professional Plus o di una versione autonoma di Excel 2013, è possibile utilizzare Power Map Preview per Excel 2013, che è un componente aggiuntivo non supportato. La versione precedente di Power Map Preview è scaduta e non funziona con alcuna versione di Excel. Se è stata installata la versione precedente, disinstallarla dal Pannello di controllo, quindi scaricare e installare la versione corrente di Power Map Preview. Questa versione ha le stesse funzionalità della versione di Power Map rilasciata con Microsoft 365 SP1.<br/> 
 <sup>5</sup> Skype for Business Basic è disponibile per tutti i clienti. Il Skype for Business desktop è un'applicazione installata localmente che fornisce funzionalità di presenza, messaggistica istantanea e conferenze per i piani che includono Skype for Business Online. Microsoft 365 Apps for enterprise e Office 365 E3 includono l'applicazione Skype completa, che include funzionalità aggiuntive, tra cui il supporto avanzato della telefonia, le funzionalità di archiviazione e conformità. A Skype for Business Online license must be assigned for each user. Per un confronto tra funzionalità e funzionalità, vedere [Tabelle di confronto dei client desktop per Lync Server 2013.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
 <sup>6</sup> Alcune scuole sono idonee per Education Plus, che include Microsoft 365 Apps for enterprise, e consente a studenti, docenti e personale di installare la versione più recente di Office su un massimo di cinque computer PC o Mac e su altri dispositivi mobili, inclusi tablet Windows e iPad. Gli istituti scolastici si qualificano per Office 365 Education Plus quando richiedono una licenza di Office per tutti i docenti e i membri del personale tramite Enrollment for Education Solutions, Open Value Subscription Education Solutions o un contratto scolastico. Access e Publisher sono disponibili solo su PC. OneNote per Mac è disponibile come download separato dal Mac App Store. <br/>
 <sup>7</sup> Office per Mac 2011 può essere installato, ma non attivato. <br/>
-<sup>8</sup> Microsoft 365 Apps for enterprise è supportato nell'infrastruttura VDI (Virtual Desktop Infrastructure) dedicata all'utente. Microsoft 365 Apps for enterprise supporta Servizi Desktop remoto solo se acquistato tramite un programma per contratti multilicenza.<br/>
+<sup>8</sup> Microsoft 365 Apps for enterprise è supportata nell'infrastruttura VDI (Virtual Desktop Infrastructure) dedicata all'utente. Microsoft 365 Apps for enterprise supporta Servizi Desktop remoto solo se acquistato tramite un programma per contratti multilicenza.<br/>
 <sup>9</sup> L'attivazione dei contratti multilicenza per Office 365 E3 e Microsoft 365 Apps for enterprise è limitata alle installazioni in Windows Server 2008 R2 e versioni più nuove con il ruolo RDS abilitato o le installazioni Windows To Go. In entrambi i casi, gli utenti che accedono a queste installazioni devono essere utenti con licenza di Office 365 E3 o Microsoft 365 Apps for enterprise.<br/> 
 <sup>10</sup> Skype for Business funzionalità in Office 365 F3 includono Skype for Business Piano 1 (nessuna condivisione desktop, nessuna condivisione di app, non è possibile avviare conferenze audio, video o Web tra più parti, non è possibile pianificare riunioni).<br/> 
 <sup>11</sup> L'accesso è attualmente disponibile se sei nel Canale corrente o nella versione di destinazione per Deferred Channel. Per gli utenti di Deferred Channel, Access sarà disponibile a giugno 2017. Per ulteriori informazioni, vedere [Access included as part of Microsoft 365 and Office 365 subscriptions](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
@@ -129,4 +129,4 @@ Molti dei piani Microsoft 365 per le aziende dispongono di componenti aggiuntivi
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>Office delle applicazioni e delle funzionalità nei piani per enti pubblici
 
-Le applicazioni Office seguenti sono disponibili nei cloud per enti pubblici; tuttavia, alcune funzionalità basate sul cloud potrebbero non essere attualmente disponibili, come indicato in Office applicazioni e funzionalità disponibili [nei piani per enti pubblici.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#office-application-and-feature-availability-in-government-plans)
+Le applicazioni Office seguenti sono disponibili nei cloud per enti pubblici; tuttavia, alcune funzionalità basate sul cloud potrebbero non essere attualmente disponibili, come indicato in Office disponibilità di applicazioni e funzionalità [nei piani per enti pubblici.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#office-application-and-feature-availability-in-government-plans)

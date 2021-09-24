@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - office-365-proplus-office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: "Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate."
-ms.openlocfilehash: 8d52eb1950b9a1c3cc49a98ffaeb156357c65ccf8b56275c6e11b608aaafc246
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9d936a8c7e9c474aec05a39de879a74dd57c5a72
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702055"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669981"
 ---
 # <a name="office-applications"></a>Applicazioni di Office
 
 Microsoft Office è un potente servizio che aiuta a dare libero sfogo alle idee migliori, organizzare attività e rimanere connessi quando si è in viaggio. Basta registrarsi per usufruire di un'esperienza personalizzata: verranno continuamente aggiunte tutte le applicazioni di Office più aggiornate, insieme alle nuove funzionalità avanzate.
   
-Per i requisiti di sistema, il servizio mensile basato su sottoscrizione disponibile per le organizzazioni aziendali, didattiche e governative, vedere Microsoft 365 [di sistema](https://products.office.com/office-system-requirements/#Office365forBEG).
+Per i requisiti di sistema, il servizio mensile basato su sottoscrizione disponibile per le organizzazioni aziendali, dell'istruzione e delle organizzazioni [governative,](https://products.office.com/office-system-requirements/#Office365forBEG)vedere Microsoft 365 di sistema .
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,7 +69,7 @@ Alcune Office, ad esempio Excel e Word, dispongono di riquadri aggiunti alla sch
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile per iPad e iPhone include le tue app Office preferite, come Word per iPad/iPhone, Excel per iPad/iPhone e PowerPoint per iPad/iPhone. Le app sono disponibili per il download gratuito e, con i piani applicabili, puoi creare e modificare documenti nel tuo iPad o iPhone. Per altre informazioni, vedi [Configurare le app Office e Outlook nei dispositivi iOS.](https://support.microsoft.com/office/0402b37e-49c4-4419-a030-f34c2013041f)
+Office Mobile per iPad e iPhone include le app Office preferite, ad esempio Word per iPad/iPhone, Excel per iPad/iPhone e PowerPoint per iPad/iPhone. Le app sono disponibili per il download gratuito e, con i piani applicabili, puoi creare e modificare documenti nel tuo iPad o iPhone. Per altre informazioni, vedi [Configurare le app Office e Outlook nei dispositivi iOS.](https://support.microsoft.com/office/0402b37e-49c4-4419-a030-f34c2013041f)
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
@@ -77,12 +77,12 @@ Office Mobile per Android include le app Office preferite, ad esempio Word per A
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile per Windows Telefono include le app Office preferite, ad esempio Word per Windows Phone, Excel per Windows Phone e PowerPoint per Windows Phone. Le app sono disponibili per il download gratuito e, con i piani applicabili, puoi creare e modificare documenti nel tuo Windows Phone. Per altre informazioni, vedi [Configurare le app Office e la posta elettronica Windows Phone](https://support.office.com/article/9bccc8b8-a321-4d0d-a45e-6e06a3438e43).
+Office Mobile per Windows Telefono include le app Office preferite, ad esempio Word per Windows Phone, Excel per Windows Phone e PowerPoint per Windows Phone. Le app sono disponibili per il download gratuito e, con i piani applicabili, puoi creare e modificare documenti nel tuo Windows Phone. Per altre informazioni, vedi [Configurare app Office e posta elettronica Windows Phone](https://support.office.com/article/9bccc8b8-a321-4d0d-a45e-6e06a3438e43).
 
 ## <a name="office-for-windows-10-mobile"></a>Office per Windows 10 Mobile
 
-Office per Windows 10 Mobile sono ottimizzate per il tocco e schermi più piccoli Windows 10 telefoni e tablet. È possibile scaricare le app gratuitamente da Windows Store. Per ulteriori informazioni, vedere [Get Office for Windows 10 Mobile](https://products.office.com/mobile/office-mobile-apps-for-windows).
+Office per Windows 10 Mobile app sono ottimizzate per il tocco e schermi più piccoli Windows 10 telefoni e tablet. È possibile scaricare le app gratuitamente da Windows Store. Per ulteriori informazioni, vedere [Get Office for Windows 10 Mobile](https://products.office.com/mobile/office-mobile-apps-for-windows).
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Descrizione del servizio Office [applicazioni locali.](office-applications-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere la [descrizione](office-applications-service-description.md)del servizio Office applicazioni locali .

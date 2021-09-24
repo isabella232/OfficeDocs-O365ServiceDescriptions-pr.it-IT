@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-partners
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: In quanto partner autorizzato di Microsoft, Microsoft Office 365 offre l'opportunità di incrementare la base di clienti e creare con essi relazioni durature. A fronte di un canone mensile o annuale, i clienti possono utilizzare i servizi basati su cloud, evitando in tal modo di dover gestire backup dei dati, hardware per i server e relativi aggiornamenti. I servizi effettivamente disponibili dipendono dal tipo di servizi che si è autorizzati a fornire.
-ms.openlocfilehash: 4a46a7b49573520574d904bb4891f4091b12e6b7810a345c3aa7227be4907c57
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b4a0e551de714883aa5b30c248f0987d66f78f71
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701855"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670015"
 ---
 # <a name="partners"></a>Partner
 
@@ -53,5 +53,5 @@ Microsoft Partner Network è impegnata a rispondere a tutte le esigenze dei part
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra Microsoft 365 e Office 365, vedere Microsoft 365 [e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra Microsoft 365 e Office 365, vedere [Microsoft 365 e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)
   

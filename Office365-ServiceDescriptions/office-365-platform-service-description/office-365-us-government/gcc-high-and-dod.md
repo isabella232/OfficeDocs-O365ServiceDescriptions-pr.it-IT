@@ -6,26 +6,26 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Informazioni sugli impegni e sulle differenze univoci degli Office 365 GCC High e DoD rispetto all'ambiente Office 365 commerciale.
-ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e23093e2fdebad45175746aa57bedc0c87728d4b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664409"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670331"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
-Per soddisfare i requisiti univoci e in evoluzione del Dipartimento della Difesa degli Stati Uniti, nonché degli appaltatori che deteneno o elaborano informazioni non classificate controllate da DoD (CUI) o soggette alle normative ITAR (International Traffic in Arms Regulations), Microsoft offre ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. 
+Per soddisfare i requisiti univoci e in evoluzione del Dipartimento della Difesa degli Stati Uniti, così come gli appaltatori che deteneno o elaborano informazioni non classificate controllate da DoD (CUI) o soggetti alle normative ITAR (International Traffic in Arms Regulations), Microsoft offre ambienti GCC High e DoD. Disponibili attraverso contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, non sono disponibili versioni di valutazione. 
   
 Coinvolgere il team dell'account o il partner preferito per saperne di più o avviare il processo di convalida. Per ulteriori informazioni su come acquistare, [vedere Microsoft 365 Government - How to Buy](./microsoft-365-government-how-to-buy.md).
   
 ## <a name="how-to-use-this-service-description"></a>Come utilizzare la descrizione del servizio
 
-La Office 365 del servizio us government è progettata per fungere da sovrimpressione alla descrizione generale Office 365 servizio. Definisce gli impegni e le differenze univoci rispetto alle Office 365 offerte aziendali.
+La Office 365 descrizione del servizio us government è progettata per fungere da sovrimpressione alla descrizione generale Office 365 servizio. Definisce gli impegni e le differenze univoci rispetto alle Office 365 offerte aziendali.
   
 ## <a name="compliance"></a>Conformità
 
@@ -95,4 +95,4 @@ Yammer per le aziende non è disponibile negli ambienti GCC High e DoD.
 
 Microsoft ricorda all'utente di non condividere informazioni controllate, riservate o riservate con il personale del supporto tecnico nell'ambito dell'evento imprevisto di supporto quando si utilizza Office 365 GCC High/DOD, almeno fino a quando non si conferma l'autorizzazione dell'agente di supporto per visualizzare o accedere a tali dati.
 
-Microsoft si impegna a proteggere la [privacy dell'utente](https://privacy.microsoft.com/privacystatement). Tuttavia, Office 365 GCC supporto High/DoD non è incluso nel limite di accreditamento del servizio e non fornisce fedRAMP, DOD SRG, ITAR, IRS 1075 o garanzia di conformità per la gestione dei dati CJIS.
+Microsoft si impegna a proteggere la [privacy dell'utente](https://privacy.microsoft.com/privacystatement). Tuttavia, Office 365 GCC supporto High/DoD non è incluso nel limite di accreditamento del servizio e non fornisce fedRAMP, DOD SRG, ITAR, IRS 1075 o garanzie di conformità per la gestione dei dati CJIS.

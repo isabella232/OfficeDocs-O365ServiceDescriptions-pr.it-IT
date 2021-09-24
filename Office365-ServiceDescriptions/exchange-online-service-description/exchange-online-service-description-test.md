@@ -5,21 +5,21 @@ author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 description: Informazioni sulla disponibilità Microsoft Exchange Online servizio e funzionalità tra Microsoft 365 e Office 365 piani.
-ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664009"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672096"
 ---
 # <a name="exchange-online-service-description"></a>Descrizione del servizio Exchange Online
 
 Microsoft Exchange Online è una soluzione di messaggistica ospitata che offre le funzionalità di Microsoft Exchange Server sotto forma di servizio basato sul cloud. Questo servizio fornisce agli utenti un accesso alla posta elettronica, al calendario, ai contatti e alle attività dai PC, dal Web e dai dispositivi mobili. Si integra perfettamente con Active Directory, permettendo agli amministratori di utilizzare i criteri di gruppo, insieme ad altri strumenti di amministrazione, per gestire le funzionalità di Exchange Online nel proprio ambiente.
   
-Le organizzazioni che sottoscrivino Exchange Online mantengono il controllo sui servizi di messaggistica offerti agli utenti, ma non hanno l'onere operativo del software server locale. Con i Exchange Online piani ospitati descritti in questa descrizione del servizio, la posta elettronica è ospitata su server che supportano più clienti contemporaneamente. Questi server sono ospitati nei data center Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o tramite Internet.
+Le organizzazioni che sottoscrivino Exchange Online mantengono il controllo sui servizi di messaggistica che offrono agli utenti, ma non hanno il carico operativo del software server locale. Con i Exchange Online ospitati descritti in questa descrizione del servizio, la posta elettronica è ospitata su server che supportano più clienti contemporaneamente. Questi server sono ospitati nei data center Microsoft e sono accessibili agli utenti su un'ampia gamma di dispositivi dall'interno di una rete aziendale o tramite Internet.
 
 Questa descrizione del servizio dettaglia le differenze principali tra i servizi forniti nelle varie installazioni cloud. Exchange Online funzionalità principali non differiscono tra le sottoscrizioni. La disponibilità delle funzionalità di conformità dipende dal livello di sottoscrizione.
   

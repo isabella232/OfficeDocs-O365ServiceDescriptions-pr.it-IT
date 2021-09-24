@@ -1,5 +1,5 @@
 ---
-title: Conformità e criteri dei messaggi
+title: Criteri e conformità dei messaggi
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -8,24 +8,24 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-message-policy-recovery-and-compliance
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Informazioni sui criteri dei messaggi e sulla conformità in Exchange Online.
-ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663769"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671872"
 ---
-# <a name="message-policy-and-compliance"></a>Conformità e criteri dei messaggi
+# <a name="message-policy-and-compliance"></a>Criteri e conformità dei messaggi
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archiviazione di cassette postali di Exchange Online
 
 Le cassette postali di Exchange Online risiedono nel cloud e la loro archiviazione richiede ambienti host univoci. In alcuni casi, è possibile utilizzare Exchange Online per archiviare le cassette postale locali nel cloud. In questa sezione vengono descritte le opzioni per l'archiviazione in Exchange Online.
   
-Exchange Online dispone di funzionalità di archiviazione integrate per le cassette postali basate su cloud, tra cui un Archivio in locale che consente agli utenti di archiviare comodamente i messaggi di posta elettronica meno recenti. Un In-Place archivio è un tipo speciale di cassetta postale che viene visualizzato insieme alle cartelle principali delle cassette postali di un utente Outlook e Outlook sul web. Gli utenti possono accedere all'archivio ed effettuarvi ricerche esattamente come fanno per le cassette postali principali. Le funzionalità disponibili dipendono dal client in uso:
+Exchange Online dispone di funzionalità di archiviazione integrate per le cassette postali basate su cloud, tra cui un Archivio in locale che consente agli utenti di archiviare comodamente i messaggi di posta elettronica meno recenti. Un In-Place è un tipo speciale di cassetta postale che viene visualizzato insieme alle cartelle principali delle cassette postali di un utente in Outlook e Outlook sul web. Gli utenti possono accedere all'archivio ed effettuarvi ricerche esattamente come fanno per le cassette postali principali. Le funzionalità disponibili dipendono dal client in uso:
   
 - **Outlook 2016, Outlook 2013, Outlook 2010 e Outlook sul web** Gli utenti hanno accesso alle funzionalità complete dell'archivio, nonché alle funzionalità di conformità correlate, come il controllo sui criteri di conservazione e archiviazione. 
     
@@ -78,7 +78,7 @@ La crittografia dei dati dei clienti in pausa è fornita da più tecnologie sul 
   
 ### <a name="bitlocker"></a>BitLocker
 
-I server Microsoft usano BitLocker per crittografare le unità disco contenenti i dati dei clienti in pausa a livello di volume. La crittografia BitLocker è una funzionalità di protezione dei dati incorporata Windows. BitLocker è una delle tecnologie utilizzate per la protezione dalle minacce in caso di problemi in altri processi o controlli (ad esempio, il controllo dell'accesso o il riciclo dell'hardware) che potrebbero portare qualcuno a ottenere l'accesso fisico ai dischi contenenti i dati dei clienti. In questo caso, BitLocker elimina il rischio di furto o esposizione dei dati a causa di computer e dischi smarriti, rubati o inappropriati. 
+I server Microsoft usano BitLocker per crittografare le unità disco contenenti i dati dei clienti in pausa a livello di volume. La crittografia BitLocker è una funzionalità di protezione dei dati incorporata Windows. BitLocker è una delle tecnologie utilizzate per la protezione dalle minacce in caso di problemi in altri processi o controlli (ad esempio, il controllo dell'accesso o il riciclo dell'hardware) che potrebbero portare a un utente che ottiene l'accesso fisico ai dischi contenenti i dati dei clienti. In questo caso, BitLocker elimina il rischio di furto o esposizione dei dati a causa di computer e dischi smarriti, rubati o inappropriati. 
   
 ### <a name="distributed-key-manager"></a>Distributed Key Manager
 
@@ -90,9 +90,9 @@ Con Customer Key, puoi controllare le chiavi di crittografia dell'organizzazione
   
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 
-Office 365 Message Encryption consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. Sono stati annunciati nuovi Office crittografia dei messaggi che sfruttano le funzionalità di protezione in Crittografia delle informazioni di Azure. Queste nuove funzionalità hanno fornito esperienze utente finali avanzate che semplificano la condivisione e la collaborazione su messaggi protetti con chiunque all'interno o all'esterno dell'organizzazione. Le nuove funzionalità Office crittografia dei messaggi hanno alcuni requisiti di configurazione. Vedi Configurare nuove funzionalità Office 365 Message Encryption integrate in Azure Information Protection. I clienti con Office 365 Message Encryption non ottengono le nuove funzionalità senza seguire le indicazioni di configurazione fornite in precedenza. Leggi le domande [frequenti](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) per altri dettagli su cosa è incluso nelle funzionalità di Office 365 Message Encryption legacy. 
+Office 365 Message Encryption consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. Sono stati annunciati nuovi Office crittografia dei messaggi che sfruttano le funzionalità di protezione in Crittografia delle informazioni di Azure. Queste nuove funzionalità hanno fornito esperienze utente finali avanzate che semplificano la condivisione e la collaborazione su messaggi protetti con chiunque all'interno o all'esterno dell'organizzazione. Le nuove funzionalità Office crittografia dei messaggi hanno alcuni requisiti di configurazione. Vedere Configurare nuove funzionalità Office 365 Message Encryption integrate in Azure Information Protection. I clienti con Office 365 Message Encryption legacy non ottengono le nuove funzionalità senza seguire le indicazioni di configurazione fornite in precedenza. Leggi le domande [frequenti](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) per ulteriori dettagli su ciò che è incluso nelle nuove funzionalità Office 365 Message Encryption legacy. 
 
-Office 365 Advanced Message Encryption protezione aggiuntiva consentendo la scadenza e la revoca dei messaggi.  È inoltre possibile creare più modelli per i messaggi di posta elettronica crittografati provenienti dall'organizzazione.  La crittografia avanzata dei messaggi è inclusa in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (prezzi del personale no profit), Office 365 Enterprise E5 (prezzi del personale no profit) o Office 365 Education A5. Se l'organizzazione ha una sottoscrizione che non include Office 365 Advanced Message Encryption, è possibile acquistare Microsoft 365 E5 Compliance o lo SKU Office 365 Advanced Compliance come componente aggiuntivo.
+Office 365 Advanced Message Encryption protezione aggiuntiva consentendo la scadenza e la revoca dei messaggi.  È inoltre possibile creare più modelli per i messaggi di posta elettronica crittografati provenienti dall'organizzazione.  La crittografia avanzata dei messaggi è inclusa in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Prezzi per il personale non profit), Office 365 Enterprise E5 (Prezzi del personale nonprofit) o Office 365 Education A5. Se l'organizzazione ha una sottoscrizione che non include Office 365 Advanced Message Encryption, è possibile acquistare Microsoft 365 E5 Compliance o lo SKU Office 365 Advanced Compliance come componente aggiuntivo.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 
@@ -188,7 +188,7 @@ La funzionalità di prevenzione della perdita dei dati consente di identificare,
     
 - Incorporare i propri modelli dei criteri di prevenzione della perdita dei dati e i propri tipi di informazioni sensibili.
     
-- Rilevare le informazioni riservate negli allegati dei messaggi, nel corpo del testo o nelle righe dell'oggetto e regolare il livello di confidenza a cui Exchange Online messaggi.
+- Rilevare le informazioni riservate negli allegati dei messaggi, nel corpo del testo o nelle righe dell'oggetto e regolare il livello di probabilità a cui Exchange Online messaggi.
     
 - I dati sensibili vengono rilevati mediante l'impronta digitale del documento. L'impronta digitale del documento facilita la creazione di tipi di informazione sensibili personalizzate basate su moduli di testo utilizzabili per definire le regole di trasporto e i criteri DLP.
     

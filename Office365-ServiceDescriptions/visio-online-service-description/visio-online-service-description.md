@@ -6,22 +6,22 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Confronta le funzionalità in Visio per il Web con l'app desktop Visio desktop.
-ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b41300ef104cfde8619b29154a9bb25e6720a936
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702425"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673110"
 ---
 # <a name="visio-service-description"></a>Visio servizio
 
-Con le Visio desktop e web, è possibile visualizzare, modificare e condividere Visio diagrammi sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È semplice e semplice creare diagrammi di prima classe con tipi di diagramma di uso comune e set di forme complessi. Visio gli utenti desktop possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for Business Online.
+Con le Visio desktop e web, è possibile visualizzare, modificare e condividere Visio diagrammi sul Web. Iniziare con un diagramma di base per esprimere idee comuni, come illustrare un piano, effettuare una proposta o descrivere i passaggi di una procedura. È semplice e semplice creare diagrammi di prima classe con tipi di diagramma di uso comune e set di forme complessi. Visio utenti desktop possono visualizzare e collaborare condividendo diagrammi e inserendo commenti nei file caricati in SharePoint Online o OneDrive for Business Online.
 
-Per informazioni sull'Visio, vedere Visio [guida & learning](https://support.office.com/visio).
+Per informazioni sull'Visio, [vedere](https://support.office.com/visio)Visio guida & apprendimento .
 
 ## <a name="available-plans"></a>Piani disponibili
 
@@ -31,7 +31,7 @@ Per ulteriori informazioni e per iniziare, vedere [Compare Visio Options](https:
 
 Nella tabella seguente sono elencate le principali Visio disponibili nelle app Web e desktop. Si applicano alcune avvertenze. Per ulteriori informazioni, vedi le note a piè di pagina. La tabella è soggetta a modifica senza preavviso. Per l'elenco completo e aggiornato delle funzionalità Visio tra i piani, vedere [Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options).<br><br> 
 
-| Funzionalità dell'applicazione | Visio per il Web | Visio'applicazione desktop |
+| Funzionalità dell'applicazione | Visio per il Web | Visio desktop |
 |:-----|:-----|:-----|
 |[Applicazione della formattazione avanzata a testo e forme](visio-features.md#apply-rich-formatting-to-text-and-shapes)|Sì |Sì |
 |[Disposizione degli oggetti](visio-features.md#arrange-objects)|Sì |Sì |
@@ -64,7 +64,7 @@ Nella tabella seguente sono elencate le principali Visio disponibili nelle app W
 <br/><sup>4</sup> Non disponibile in Visio visualizzatore Web.
 <br/><sup>5</sup> Disponibile in Visio per l'editor Web.
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Per approfondire
 
 ### <a name="supported-file-types-in-visio-for-the-web"></a>Tipi di file supportati in Visio per il Web
 

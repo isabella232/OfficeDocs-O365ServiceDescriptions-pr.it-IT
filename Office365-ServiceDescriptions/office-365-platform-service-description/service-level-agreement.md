@@ -8,17 +8,17 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-level-agreement
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 10275af517a64c9166a10f64f2737e5d47c6e305a38879e42473392d4147c318
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8cfbfc48b9244ebb009028ff73cd8b86e87eba28
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701805"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671045"
 ---
 # <a name="service-level-agreement"></a>Contratto di servizio
 
@@ -35,4 +35,4 @@ Vedere il [contratto di servizio di 21Vianet](https://go.microsoft.com/fwlink/?l
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 del servizio della piattaforma.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)

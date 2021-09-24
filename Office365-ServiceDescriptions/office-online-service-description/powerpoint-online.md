@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint per il web (in precedenza PowerPoint Web App) estende l'esperienza di Microsoft PowerPoint al Web browser, dove è possibile utilizzare le presentazioni direttamente nel sito Web in cui è archiviata la presentazione. Microsoft 365 clienti con Office per il web possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702255"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669968"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint per il Web
 
@@ -41,7 +41,7 @@ Scegliere da una galleria di effetti di animazione e transizione. PowerPoint per
   
 ## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Apply rich formatting to text, shapes, and pictures
 
-Non disponibile in PowerPoint per il web. Le funzionalità di formattazione avanzata che prevedono maggiori colori, sfumature, contagocce, effetti e stili sono disponibili nell'app desktop PowerPoint. Con PowerPoint per il web, è possibile aggiungere una casella di testo o scegliere da una raccolta di forme e applicare stili che definiscono gli effetti di riempimento, struttura ed ombreggiatura. 
+Non disponibile in PowerPoint per il web. Le funzionalità di formattazione avanzata che prevedono maggiori colori, sfumature, contagocce, effetti e stili sono disponibili nell'app desktop PowerPoint. Con PowerPoint per il web, è possibile aggiungere una casella di testo o scegliere da una raccolta di forme e applicare stili, che definiscono gli effetti di riempimento, contorno ed ombreggiatura. 
   
 ## <a name="apply-themes-and-theme-variants"></a>Applicazioni di temi e varianti del tema
 
@@ -49,7 +49,7 @@ Quando si aggiunge una nuova diapositiva alla presentazione, scegliere in una ra
   
 ## <a name="office-add-ins"></a>Componenti aggiuntivi di Office
 
-PowerPoint per il web supporta solo componenti aggiuntivi di contenuto per Office. I componenti aggiuntivi di contenuto integrano le funzionalità basate su Web sotto forma di contenuto che può essere visualizzato in linea con una presentazione. Ulteriori informazioni sui [tipi di componenti aggiuntivi per Office](/previous-versions/office/office-2013-resource-kit/jj219429(v=office.15)).
+PowerPoint per il web supporta solo i componenti aggiuntivi di contenuto per Office. I componenti aggiuntivi di contenuto integrano le funzionalità basate su Web sotto forma di contenuto che può essere visualizzato in linea con una presentazione. Ulteriori informazioni sui [tipi di componenti aggiuntivi per Office](/previous-versions/office/office-2013-resource-kit/jj219429(v=office.15)).
   
 ## <a name="arrange-objects"></a>Arrange objects
 
@@ -61,7 +61,7 @@ L PowerPoint app desktop è necessaria per trasmettere una presentazione a un pu
   
 ## <a name="clipboard"></a>Appunti
 
-Con PowerPoint per il web, è possibile tagliare, copiare e incollare il contenuto di una presentazione. Un utente può copiare e incollare testo tra Office per il web e tra Office per il web e le Microsoft Office desktop nel computer. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Con PowerPoint per il web, è possibile tagliare, copiare e incollare il contenuto di una presentazione. Un utente può copiare e incollare testo tra Office per il web programmi e tra Office per il web e le Microsoft Office desktop nel computer. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="create-and-manage-slides"></a>Create and manage slides
 
@@ -73,7 +73,7 @@ PowerPoint per il web include una raccolta di effetti di animazione. Le animazio
   
 ## <a name="design-tools-advanced"></a>Strumenti di progettazione avanzati
 
-Non disponibile in PowerPoint per il web. Le funzionalità di progettazione avanzate, quali la creazione di schemi di diapositive e la modifica dei layout, sono disponibili solo nell'app desktop PowerPoint. Con PowerPoint per il web, puoi usare il tuo file modello come base per la creazione di nuovi file o scegliere da un elenco predefinito di temi.
+Non disponibile in PowerPoint per il web. Le funzionalità di progettazione avanzate, quali la creazione di schemi di diapositive e la modifica dei layout, sono disponibili solo nell'app desktop PowerPoint. Con PowerPoint per il web, puoi usare il tuo file modello come base per la creazione di nuovi file o scegliere tra un elenco predefinito di temi.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -133,7 +133,7 @@ Con PowerPoint per il web, è possibile inserire immagini archiviate nel compute
   
 ## <a name="present-online-through-skype-for-business-or-the-office-presentation-service"></a>Presentazione online tramite Skype for Business o il Servizio presentazioni Office
 
-Non disponibile in PowerPoint per il web. Microsoft PowerPoint'app desktop ti consente di distribuire le presentazioni usando il Servizio presentazioni Office, un servizio pubblico gratuito che consente ad altri utenti di seguirlo nel browser Web. Ulteriori informazioni sul [Servizio presentazioni Office](https://go.microsoft.com/fwlink/?LinkId=272774).
+Non disponibile in PowerPoint per il web. Microsoft PowerPoint'app desktop consente di distribuire le presentazioni usando il Servizio presentazioni Office, un servizio pubblico gratuito che consente ad altri utenti di seguirsi nel browser Web. Ulteriori informazioni sul [Servizio presentazioni Office](https://go.microsoft.com/fwlink/?LinkId=272774).
   
 ## <a name="presenter-view"></a>Presenter view
 
@@ -145,11 +145,11 @@ Con PowerPoint per il web, è possibile stampare la presentazione in un lettore 
   
 ## <a name="proofing-tools"></a>Strumenti di correzione
 
-È possibile eseguire il controllo ortografico e impostare la lingua degli strumenti di correzione utilizzando il dizionario incorporato con PowerPoint per il web. Ma PowerPoint per il web non usa un dizionario personalizzato e non include la traduzione o un thesaurus.
+È possibile eseguire il controllo ortografico e impostare la lingua degli strumenti di correzione utilizzando il dizionario predefinito con PowerPoint per il web. Ma PowerPoint per il web non utilizza un dizionario personalizzato e non include la traduzione o un thesaurus.
   
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
-Più autori possono lavorare contemporaneamente in PowerPoint per il web e PowerPoint 2016. La presenza in tempo reale consente di vedere dove stanno lavorando i co-autori nella presentazione in modo da non creare conflitti durante la modifica e di visualizzare le modifiche in corso. PowerPoint 2013 supporta la modifica simultanea, ma non esiste alcuna indicazione di presenza e le modifiche non possono essere visibili a più autori fino al salvataggio del documento. Per ulteriori informazioni sulla creazione condivisa in tempo reale in PowerPoint, vedere Collaborare PowerPoint [presentazioni.](https://go.microsoft.com/fwlink/?linkid=844014)
+Più autori possono lavorare contemporaneamente in PowerPoint per il web e PowerPoint 2016. La presenza in tempo reale consente di vedere dove stanno lavorando i co-autori nella presentazione in modo da non creare conflitti durante la modifica e di visualizzare le modifiche mentre vengono apportate. PowerPoint 2013 supporta la modifica simultanea, ma non è disponibile alcuna indicazione di presenza e le modifiche non possono essere viste da più autori finché il documento non viene salvato. Per ulteriori informazioni sulla creazione condivisa in tempo reale in PowerPoint, vedere [Work together on PowerPoint presentations](https://go.microsoft.com/fwlink/?linkid=844014).
   
 ## <a name="reviewer-tools-advanced"></a>Strumenti revisore, avanzati
 
@@ -169,7 +169,7 @@ PowerPoint per il web il lavoro viene salvato ogni volta che si apporta una modi
   
 ## <a name="shapes"></a>Forme
 
-WordArt e grafici non possono essere inseriti in PowerPoint per il web, ma PowerPoint per il web vengono visualizzati come previsto. Nella visualizzazione di modifica, modificare e formattare il testo. Se si desidera applicare effetti di testo a Word Art, è necessaria l'app desktop Microsoft PowerPoint desktop.
+WordArt e grafici non possono essere inseriti in PowerPoint per il web, ma PowerPoint per il web vengono visualizzati come previsto. Nella visualizzazione di modifica, modificare e formattare il testo. Se si desidera applicare effetti di testo a Word Art, è necessaria l'app desktop Microsoft PowerPoint.
   
 ## <a name="share"></a>Condividere
 
@@ -177,7 +177,7 @@ Se viene salvata in una raccolta di documenti di SharePoint, la presentazione è
   
 ## <a name="slide-show"></a>Slide show
 
-PowerPoint per il web le presentazioni vengono riprodotte in una finestra a schermo intero. Premere la barra spaziatrice per far avanzare le diapositive. Le animazioni nelle diapositive vengono riprodotte, ma sono supportati solamente gli effetti di transizione Dissolvenza da sinistra a destra tra le diapositive. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+PowerPoint per il web le presentazioni in una finestra a schermo intero. Premere la barra spaziatrice per far avanzare le diapositive. Le animazioni nelle diapositive vengono riprodotte, ma sono supportati solamente gli effetti di transizione Dissolvenza da sinistra a destra tra le diapositive. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="smartart"></a>SmartArt
 
@@ -185,7 +185,7 @@ PowerPoint per il web le presentazioni vengono riprodotte in una finestra a sche
   
 ## <a name="table-creation-editing-and-formatting"></a>Creazione, modifica e formattazione di tabelle
 
-Le tabelle possono essere create e modificate in PowerPoint per il web e PowerPoint per il web supportano la maggior parte delle funzioni di tabella. Per le funzioni avanzate, come l'unione e la separazione delle celle, utilizzare l'app desktop PowerPoint. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Le tabelle possono essere create e modificate in PowerPoint per il web e PowerPoint per il web supporta la maggior parte delle funzioni di tabella. Per le funzioni avanzate, come l'unione e la separazione delle celle, utilizzare l'app desktop PowerPoint. Ulteriori informazioni sulle [differenze tra l'utilizzo di una presentazione nel browser e nell'app desktop PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="tell-me"></a>Dimmi
 
@@ -211,4 +211,4 @@ Modificare la presentazione in un modulo che si avvicini molto al suo aspetto qu
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Office per il web [descrizione del servizio.](office-online-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra piani, opzioni autonome e soluzioni locali, vedere Office per il web [service description](office-online-service-description.md).

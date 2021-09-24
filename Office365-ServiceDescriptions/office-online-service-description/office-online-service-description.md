@@ -8,20 +8,20 @@ ms.topic: reference
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office per il web(in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il web semplifica il lavoro e la condivisione Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
-ms.openlocfilehash: 6cc468d2d40b54a7f8a6b1bb4e8ba77bb917950142796e6976d3135c856297b2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Office per il web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il web semplifica il lavoro e la condivisione Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio.
+ms.openlocfilehash: e40f65fb3271720bd2cd6ea5d275a3f1e32cb639
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702095"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670008"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrizione del servizio Office per il Web
 
-Office per il web(in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il web semplifica il lavoro e la condivisione Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
+Office per il web (in precedenza Office Web Apps) apre i documenti di Word, Excel, OneNote e PowerPoint nel Web browser. Office per il web semplifica il lavoro e la condivisione Office file da qualsiasi luogo con una connessione Internet, da quasi tutti i dispositivi. Microsoft 365 clienti con Word, Excel, OneNote o PowerPoint possono visualizzare, creare e modificare file in viaggio. 
   
 ## <a name="available-plans"></a>Piani disponibili
 
@@ -32,10 +32,10 @@ Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli 
 Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazione? Le tabelle seguenti confrontano Office per il web funzionalità con le app desktop Microsoft Office funzionalità avanzate. Utilizzare le tabelle per individuare le funzionalità disponibili in Office per il web e quindi selezionare il nome della funzionalità per leggere una breve descrizione del funzionamento di tale funzionalità. È possibile che alcuni utenti dell'organizzazione necessitino della funzionalità avanzata di creazione di grafici dell'app desktop Excel, mentre altri devono solo visualizzare e modificare leggermente i documenti di Word e le presentazioni PowerPoint con Office per il web. 
   
 > [!NOTE]
->  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo di Microsoft Office funzionalità. <br/>  Microsoft Microsoft 365 Apps for enterprise è un'offerta di sottoscrizione mensile della famiglia di Office desktop più recente. <br/>  Microsoft Office I clienti locali di Online Server ottengono una licenza di modifica di Office per il web se hanno acquistato una licenza della famiglia di prodotti desktop Office (ad esempio una licenza di Office Professional Plus, Office Standard o Microsoft 365 Apps for enterprise). 
+>  È stata scelta una selezione limitata di funzioni di Office per rappresentare le funzionalità avanzate disponibili nella famiglia di prodotti desktop Office. Le tabelle non sono un elenco completo di Microsoft Office funzionalità. <br/>  Microsoft Microsoft 365 Apps for enterprise è un'offerta di sottoscrizione mensile della famiglia di Office desktop più recente. <br/>  Microsoft Office I clienti locali di Online Server ottengono una licenza di modifica di Office per il web se hanno acquistato una licenza della famiglia di prodotti desktop Office (ad esempio una licenza Office Professional Plus, Office Standard o Microsoft 365 Apps for enterprise). 
   
 > [!NOTE]
-> Quando si apre un documento Office, come allegato di posta elettronica di Outlook o da una raccolta documenti di SharePoint, il documento verrà avviato in Office per il web e sarà di sola lettura. Per modificare un documento in Office per il web (modalità di modifica), è necessaria una licenza di famiglia di prodotti, ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza per la famiglia di prodotti desktop Office, ad esempio un abbonamento Microsoft 365 Apps for enterprise o una versione installata di Office Professional Plus 2010. 
+> Quando si apre un documento Office, come allegato di posta elettronica di Outlook o da una raccolta documenti di SharePoint, il documento verrà avviato in Office per il web e sarà di sola lettura. Per modificare un documento in Office per il web (modalità di modifica), è necessaria una licenza di famiglia di prodotti, ad esempio Office 365 Enterprise E1. Per modificare un documento nell'app desktop, è necessaria una licenza della famiglia di prodotti desktop Office, ad esempio una sottoscrizione Microsoft 365 Apps for enterprise o una versione installata di Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 
@@ -278,7 +278,7 @@ Serve aiuto per capire quale soluzione Office più adatta alla tua organizzazion
 |[Strumenti di correzione](powerpoint-online.md#proofing-tools) <br/> |Sì  <br/> |Sì  <br/> |
 |[Creazione condivisa in tempo reale](powerpoint-online.md#real-time-co-authoring) <br/> |Sì  <br/> |Sì<sup>4</sup> <br/> |
 |[Strumenti revisore, avanzati](powerpoint-online.md#reviewer-tools-advanced) <br/> |No  <br/> |Sì  <br/> |
-|Rights management: sicurezza IRM e password <br/> |No  <br/> |Sì  <br/> |
+|Rights management: IRM e sicurezza delle password <br/> |No  <br/> |Sì  <br/> |
 |[Esecuzione di una presentazione](powerpoint-online.md#run-slide-show) <br/> |Sì  <br/> |Sì  <br/> |
 |[Salva con nome o scarica una copia](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Sì  <br/> |Sì  <br/> |
 |[Forme](powerpoint-online.md#shapes) <br/> |Sì  <br/> |Sì  <br/> |

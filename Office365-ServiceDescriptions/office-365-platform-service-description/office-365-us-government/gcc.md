@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Per soddisfare i requisiti univoci e in evoluzione dei governi federali, statali, locali e tribali degli Stati Uniti, nonché degli appaltatori che deteneno o elaborano dati per conto del governo statunitense, Microsoft offre servizi Office 365 US Government Community (GCC). Disponibili attraverso più canali che includono i contratti multilicenza, le organizzazioni interessate portano avanti una procedura di convalida per verificare l'idoneità prima che venga definito un ambiente. Al momento, sono disponibili versioni di prova solo per gli enti governativi degli Stati Uniti.
-ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: fedaed2bc6f0e4aea2d4cc1d92584b7e7c2f3c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701885"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671065"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -54,12 +54,12 @@ Office 365 personale non ha accesso permanente ai contenuti dei clienti ospitati
 
 Yammer per le aziende non è un componente di Office 365 Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 Government Piano E1 ed E3. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 Government in Enterprise Agreement e Enterprise contratti di sottoscrizione.
   
-Attualmente, Yammer fornisce la separazione logica dei dati clienti a livello di applicazione. Tuttavia, Yammer non fornisce la stessa posizione dei dati e le stesse funzionalità di accesso ai dati di Office 365 Government, non supporta l'accreditamento FedRAMP ed è soggetto a condizioni contrattuali diverse rispetto ai servizi Office 365. È consigliabile esaminare [](../../yammer-service-description/yammer-service-description.md) la descrizione Yammer servizio e le condizioni di privacy per valutare l'uso appropriato Yammer per l'organizzazione. Per informazioni sui Office 365 Government piani di Yammer, vedere [Office 365 Government](office-365-us-government.md).
+Attualmente, Yammer fornisce la separazione logica dei dati clienti a livello di applicazione. Tuttavia, Yammer non fornisce la stessa posizione dei dati e le stesse funzionalità di accesso ai dati di Office 365 Government, non supporta l'accreditamento FedRAMP ed è soggetta a condizioni contrattuali diverse da Office 365 services. È consigliabile esaminare [](../../yammer-service-description/yammer-service-description.md) la descrizione Yammer servizio e le condizioni di privacy quando si valuta l'uso appropriato Yammer per l'organizzazione. Per informazioni sui Office 365 Government piani di Yammer, vedere [Office 365 Government](office-365-us-government.md).
   
-Se si decide che l'utilizzo di Yammer è appropriato per l'organizzazione nell'ambito dell'abbonamento a Office 365 Government ed è stato acquistato uno dei piani di cui sopra che include Yammer, sotto la registrazione di Enterprise, è possibile richiedere una modifica per abilitare l'abbonamento Yammer for Enterprise.
+Se si decide che l'utilizzo di Yammer è appropriato per l'organizzazione nell'ambito dell'abbonamento a Office 365 Government ed è stato acquistato uno dei piani di cui sopra che include Yammer, sotto la registrazione di Enterprise, è possibile richiedere una modifica per abilitare l'abbonamento Yammer for enterprise .
   
 ## <a name="office-365-government-gcc-customer-support"></a>Office 365 Government GCC supporto tecnico
 
-Office 365 GCC il supporto tecnico viene fornito alle stesse condizioni offerte alle versioni globali di [Office 365,](../support.md)incluse le garanzie di cittadinanza o la posizione fisica dell'agente di supporto. Office 365 GCC opera in combinazione con Azure Public Cloud, che è supportato nei termini [e nelle condizioni seguenti.](https://azure.microsoft.com/support/plans/)
+Office 365 GCC il supporto tecnico viene fornito in base alle stesse condizioni offerte alle versioni globali di [Office 365](../support.md), incluse le garanzie di cittadinanza o la posizione fisica dell'agente di supporto. Office 365 GCC opera in combinazione con Azure Public Cloud, supportato nei termini [e nelle condizioni seguenti.](https://azure.microsoft.com/support/plans/)
 
-Microsoft ricorda all'utente di non condividere informazioni controllate, riservate o riservate con il personale di supporto nell'ambito dell'incidente di supporto correlato Office 365 GCC, fino a quando non si conferma l'autorizzazione per visualizzare o accedere a tali dati. Microsoft si impegna a [proteggere la privacy.](https://privacy.microsoft.com/privacystatement) Office 365 GCC Il supporto clienti non è incluso nel limite di accreditamento del servizio e non fornisce fedRAMP, SRG, ITAR, IRS 1075 o CJIS per la gestione e/o le garanzie di conformità.
+Microsoft ricorda all'utente di non condividere informazioni controllate, riservate o riservate con il personale di supporto nell'ambito dell'incidente di supporto correlato Office 365 GCC, finché non si conferma l'autorizzazione per visualizzare o accedere a tali dati. Microsoft si impegna a [proteggere la privacy.](https://privacy.microsoft.com/privacystatement) Office 365 GCC Il supporto clienti non è incluso nel limite di accreditamento del servizio e non fornisce fedRAMP, SRG, ITAR, IRS 1075 o CJIS per la gestione e/o le garanzie di conformità.

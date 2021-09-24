@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-domains
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando si aggiunge un dominio, una procedura guidata dettagliata consente di aggiungere utenti e convertire gli indirizzi di posta elettronica e altri servizi nel nome dell'azienda. Al termine della procedura guidata, la posta elettronica aziendale inizia a essere inviata a Microsoft anziché al provider di posta elettronica corrente. Per ulteriori informazioni, vedere Aggiungere utenti e domini a Microsoft. Se si utilizza Office 365 gestito da 21Vianet, vedere Verificare il dominio.
-ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 730165d82298a43af1cd9903e6bb5726e98f8ec5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662989"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670321"
 ---
 # <a name="domains"></a>Domini
 
@@ -35,7 +35,7 @@ Con Office 365 Enterprise e Microsoft 365 Apps for business, è possibile aggiun
   
 ## <a name="domain-verification-and-managing-dns-records"></a>Verifica e gestione dei record DNS
 
-Con Microsoft 365, è possibile gestire tutti i record DNS presso il provider di hosting DNS oppure scegliere di configurare e gestire automaticamente i record DNS del dominio. Se si continua a gestire i record, si modificano record specifici in modo che puntino a servizi Microsoft in base alle esigenze. Per un elenco dei registrar per i quali vengono fornite istruzioni dettagliate per l'aggiunta dei record, inclusi i valori specifici da utilizzare per ogni record, vedere [Create DNS records](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) or, if you are using Office 365 operated by 21Vianet, see Create DNS records at any provider for Office 365 operated by 21Vianet. 
+Con Microsoft 365, è possibile gestire tutti i record DNS presso il provider di hosting DNS oppure scegliere di configurare e gestire automaticamente i record DNS del dominio. Se si continua a gestire i record, si modificano record specifici in modo che puntino servizi Microsoft in base alle esigenze. Per un elenco dei registrar per i quali vengono fornite istruzioni dettagliate per l'aggiunta dei record, inclusi i valori specifici da utilizzare per ogni record, vedere [Create DNS records](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) or, if you are using Office 365 operated by 21Vianet, see Create DNS records at any provider for Office 365 operated by 21Vianet. 
   
 Se Microsoft gestisce automaticamente i record DNS del dominio, è innanzitutto necessario cambiare i record del server dei nomi del dominio in modo che puntino a Microsoft e quindi Microsoft configura i servizi e quindi i record DNS del dominio vengono gestiti in Microsoft.
   
@@ -49,9 +49,9 @@ Per ulteriori informazioni, vedere How [Microsoft manages DNS records](/office36
   
 ## <a name="sharing-a-domain"></a>Condivisione di un dominio
 
-È possibile pilotare alcuni indirizzi di posta elettronica per un dominio in Microsoft e altri nel provider di posta elettronica precedente. Questa opzione è consigliata solo per l'utilizzo durante un progetto pilota, perché richiede passaggi di configurazione aggiuntivi e presenta alcune limitazioni per servizi Microsoft. Per altre informazioni, vedere:
+È possibile pilotare alcuni indirizzi di posta elettronica per un dominio in Microsoft e altri nel provider di posta elettronica precedente. Questa opzione è consigliata solo per l'utilizzo durante un progetto pilota, perché richiede passaggi di configurazione aggiuntivi e presenta alcune limitazioni per servizi Microsoft. Per ulteriori informazioni, vedere:
   
-- [Progetti pilota Microsoft 365 per una piccola azienda](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
+- [Progetti Microsoft 365 pilota per una piccola azienda](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
 - [Progetti Microsoft 365 per un'azienda di grandi dimensioni (con FastTrack)](https://fasttrack.office.com/onboard)
     

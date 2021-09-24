@@ -6,22 +6,22 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
-description: Power BI è una famiglia di strumenti di analisi aziendale basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
-ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Power BI è una famiglia di strumenti di analisi business basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Permette agli utenti di connettersi a una vasta gamma di dati dinamici attraverso dashboard intuitive, fornisce report interattivi e offre visualizzazioni molto efficaci.
+ms.openlocfilehash: bf1a543008dcfb92496f25ab42c11abcd4d706ea
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702865"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672716"
 ---
 # <a name="power-bi-service-description"></a>Descrizione del servizio Power BI
 
-Power BI è una famiglia di strumenti di analisi aziendale basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Connette gli utenti a un'ampia gamma di dati in tempo reale tramite dashboard facili da usare, fornisce informazioni automatizzate, report incorporati e interattivi in grado di fornire visualizzazioni accattivanti che consentono di dare vita a dati grandi e piccoli.
+Power BI è una famiglia di strumenti di analisi business basata sul cloud che consente a chiunque di connettersi, visualizzare e analizzare i dati con maggiore velocità, efficienza e comprensione. Connette gli utenti a un'ampia gamma di dati in tempo reale tramite dashboard facili da usare, fornisce informazioni automatizzate, report incorporati e interattivi in grado di fornire visualizzazioni accattivanti che consentono di dare vita a dati grandi e piccoli.
 
 Power BI è attualmente disponibile come parte della versione Office 365 Enterprise E5. Per ulteriori informazioni, visitare [Power BI](https://powerbi.microsoft.com).
 
@@ -29,7 +29,7 @@ Power BI è attualmente disponibile come parte della versione Office 365 Enterpr
 
 La tabella seguente mostra i piani che includono Power BI in modo da poter scegliere la soluzione più adatta alle esigenze dell'organizzazione. Per informazioni dettagliate sul piano, vedere [Potenti strumenti per supportare l'azienda.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)
 
-Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Power BI, vedere la tabella di confronto completa [delle sottoscrizioni.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Per informazioni dettagliate sui piani sulle sottoscrizioni che consentono agli utenti di Power BI, vedere la tabella di confronto [completa delle sottoscrizioni.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
 
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
@@ -50,7 +50,7 @@ Nella tabella seguente sono elencate le principali Power BI disponibili tra i pi
 | Creare report e visualizzazioni con Power BI Desktop | Sì | Sì | Sì |
 | Incorporamento di API e controlli | Sì* | Sì* | Sì* |
 | Elementi visivi ai | Sì | Sì | Sì |
-| IA avanzata (analisi del testo, rilevamento delle immagini, apprendimento automatico del computer) | No | Sì | Sì |
+| Ai avanzata (analisi del testo, rilevamento delle immagini, apprendimento automatico del computer) | No | Sì | Sì |
 | Connettività di lettura/scrittura endpoint XMLA | No | Sì | Sì |
 | Flussi di dati (query diretta, entità collegate e calcolate, motore di calcolo avanzato) | No | Sì | Sì |
 | Analizzare i dati archiviati in Azure Data Lake Archiviazione | No | Sì | Sì |
@@ -65,14 +65,14 @@ Nella tabella seguente sono elencate le principali Power BI disponibili tra i pi
 
 *Potrebbe essere necessaria una licenza aggiuntiva per incorporare applicazioni o contesti. Per ulteriori informazioni, vedere [Analisi incorporata con Power BI](/power-bi/developer/embedded/embedding).
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per informazioni tecniche su Power BI, vedere le risorse seguenti:
 
 - Tutta Power BI documentazione: [Power BI documentazione - Power BI | Documenti Microsoft](/power-bi/)
-- Power BI per sviluppatori: documentazione [Power BI per sviluppatori - Power BI | Documenti Microsoft](/power-bi/developer/)
-- Power BI documentazione per amministratori e aziende: Power BI di amministrazione e [aziendale - Power BI | Documenti Microsoft](/power-bi/admin/)
-- Power BI blog: [Power BI Blog- Aggiornamenti e notizie | Microsoft Power BI](https://powerbi.microsoft.com/blog/)
+- Power BI per sviluppatori: Power BI per sviluppatori [- Power BI | Documenti Microsoft](/power-bi/developer/)
+- Power BI per amministratori e aziende: Power BI di amministrazione e [aziendale - Power BI | Documenti Microsoft](/power-bi/admin/)
+- Power BI blog: [blog Power BI: Aggiornamenti e | Microsoft Power BI](https://powerbi.microsoft.com/blog/)
 - Power BI community: [Home - Microsoft Power BI Community](https://community.powerbi.com/)
 
 ### <a name="licensing-terms"></a>Condizioni di licenza

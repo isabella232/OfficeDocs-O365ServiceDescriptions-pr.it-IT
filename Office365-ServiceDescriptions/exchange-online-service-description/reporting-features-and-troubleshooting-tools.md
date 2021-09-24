@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-reporting-features-and-troubleshooting-tools
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre un'ampia gamma di funzionalità di creazione di report sia all'Exchange admin center (EAC).
-ms.openlocfilehash: fb6af583f9bb51954b57a92d907ab19a935f5f3c6ab9be196f7ca56240189571
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a2a0f2f749733b32b9b0996fb368739bb42b523f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663659"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671800"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Funzionalità di creazione dei report e strumenti di risoluzione problemi
 

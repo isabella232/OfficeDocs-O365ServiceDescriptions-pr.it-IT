@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-health
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Gli amministratori Microsoft possono visualizzare lo stato dei servizi e scoprire quando è pianificata la manutenzione. Le informazioni sull'integrità del servizio sono disponibili in qualsiasi momento accedendo.
-ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 497568f54fc5a761278902eb26e92bc52789c9b5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701815"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672967"
 ---
 # <a name="service-health-and-continuity"></a>Integrità dei servizi e continuità
 
@@ -32,7 +32,7 @@ La sezione Integrità servizio mostra lo stato corrente del servizio e i dettagl
   
 ## <a name="service-incidents"></a>Incidenti di servizio
 
-Un incidente di servizio è un evento che influisce sulla fornitura di un servizio. Gli incidenti di servizio possono essere causati da un errore hardware o software nel data center Microsoft, da una connessione di rete difettosa tra il cliente e Microsoft o da una grave sfida del data center, ad esempio incendio, alluvioni o catastrofi regionali. La maggior parte degli incidenti può essere affrontata tramite le tecnologie e le soluzioni di elaborazione Microsoft e viene risolta entro breve tempo. Tuttavia, alcuni incidenti sono più gravi e possono determinare interruzioni a lungo termine.
+Un incidente di servizio è un evento che influisce sulla fornitura di un servizio. Gli incidenti di servizio possono essere causati da un errore hardware o software nel data center Microsoft, da una connessione di rete difettosa tra il cliente e Microsoft o da una grave difficoltà del data center, ad esempio incendio, alluvioni o catastrofi regionali. La maggior parte degli incidenti può essere affrontata tramite le tecnologie e le soluzioni di elaborazione Microsoft e viene risolta entro breve tempo. Tuttavia, alcuni incidenti sono più gravi e possono determinare interruzioni a lungo termine.
   
 Esistono due tipi di notifiche sui casi in cui i servizi potrebbero non essere disponibili:
   
@@ -90,11 +90,11 @@ Quando si verifica un incidente di servizio, Microsoft riconosce che per i clien
 
 ### <a name="admin-app"></a>App di amministrazione
 
-L'app Amministratore per gli amministratori dell'organizzazione consente di connettersi con lo stato del servizio Microsoft dell'organizzazione in viaggio. Gli amministratori Microsoft avranno la possibilità di visualizzare le informazioni sull'integrità del servizio e gli aggiornamenti dello stato di manutenzione dai dispositivi mobili. Per altre informazioni consultare le [Domande frequenti dell’app Amministrazione](/office365/admin/admin-overview/admin-mobile-app).
+L'app amministratore per gli amministratori dell'organizzazione consente di connettersi con lo stato del servizio Microsoft dell'organizzazione in viaggio. Gli amministratori Microsoft avranno la possibilità di visualizzare le informazioni sull'integrità del servizio e gli aggiornamenti dello stato di manutenzione dai dispositivi mobili. Per altre informazioni consultare le [Domande frequenti dell’app Amministrazione](/office365/admin/admin-overview/admin-mobile-app).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Management Pack di Office 365 per Microsoft System Center 2012 R2
 
-Microsoft System Center è una piattaforma di gestione integrata che consente di gestire data center, dispositivi client e ambienti IT cloud ibridi. Gli amministratori Microsoft che usano System Center ora hanno la possibilità di importare il Management Pack di Office 365, che consente loro di visualizzare tutte le comunicazioni di servizio all'interno di Operations Manager in System Center. Utilizzando questo strumento è possibile accedere allo stato dei servizi sottoscritti, agli incidenti di servizio attivi e risolti e alle comunicazioni del Centro messaggi. Per ulteriori informazioni, ottenere [Microsoft System Center Management Pack per](https://www.microsoft.com/download/details.aspx?id=43708) Office 365 nell'Area download Microsoft. 
+Microsoft System Center è una piattaforma di gestione integrata che consente di gestire data center, dispositivi client e ambienti IT cloud ibridi. Gli amministratori Microsoft che usano System Center ora hanno la possibilità di importare il Management Pack di Office 365, che consente loro di visualizzare tutte le comunicazioni di servizio all'interno di Operations Manager in System Center. Utilizzando questo strumento è possibile accedere allo stato dei servizi sottoscritti, agli incidenti di servizio attivi e risolti e alle comunicazioni del Centro messaggi. Per ulteriori informazioni, ottenere [Microsoft System Center Management Pack per Office 365](https://www.microsoft.com/download/details.aspx?id=43708) nell'Area download Microsoft. 
   
 ### <a name="office-365-service-communications-api"></a>API delle comunicazioni del servizio di Office 365
 
@@ -122,7 +122,7 @@ Gli incidenti di servizio non pianificati sono definiti come interruzioni del se
 
 - Analisi e misure adottate per il miglioramento continuo delle cause
 
-Per tutti gli altri eventi imprevisti del servizio, il dashboard di integrità del servizio fornirà un riepilogo della chiusura degli eventi, incluso un riepilogo finale dell'evento, la causa principale preliminare, l'ora di inizio e di fine e le informazioni dettagliate sui passaggi successivi. Per questa categoria di incidente di servizio, non verrà generato un report PIR. 
+Per tutti gli altri incidenti di servizio, il dashboard di integrità del servizio fornirà un riepilogo della chiusura degli eventi imprevisti, incluso un riepilogo finale dell'evento, la causa principale preliminare, l'ora di inizio e fine e le informazioni dettagliate sui passaggi successivi. Per questa categoria di incidente di servizio, non verrà generato un report PIR. 
   
 ## <a name="service-continuity"></a>Service continuity
 
@@ -136,7 +136,7 @@ Microsoft assicura che i dati dei clienti saranno sempre disponibili quando nece
   
 - **Ridondanza e archiviazione dei dati:** i dati dei clienti vengono archiviati in un ambiente ridondante, dotato di affidabili funzioni di protezione dei dati che assicurano disponibilità, continuità aziendale e velocità di ripristino. Sono stati implementati più livelli di ridondanza dei dati, dall'uso di dischi ridondanti alla protezione dagli errori locali dei dischi, fino alla replica completa e continua dei dati in un data center geograficamente distante. 
 
-- **Monitoraggio dei dati:** servizi Microsoft livelli elevati di prestazioni tramite il monitoraggio: 
+- **Monitoraggio dei dati:** servizi Microsoft livelli elevati di prestazioni tramite monitoraggio: 
 
   - Database
 
@@ -152,7 +152,7 @@ Microsoft assicura che i dati dei clienti saranno sempre disponibili quando nece
 
 ## <a name="support"></a>Supporto tecnico
 
-I team di sviluppo e operazioni Microsoft sono integrati da un'organizzazione di supporto dedicata, che svolge un ruolo importante nel fornire ai clienti la continuità aziendale. Il personale di supporto possiede una conoscenza approfondita del servizio e delle applicazioni associate, oltre a disporre di accesso diretto agli esperti Microsoft in materia di architettura, sviluppo e testing.
+I team di sviluppo e gestione di Microsoft sono integrati da un'organizzazione di supporto dedicata, che svolge un ruolo importante nel fornire ai clienti la continuità aziendale. Il personale di supporto possiede una conoscenza approfondita del servizio e delle applicazioni associate, oltre a disporre di accesso diretto agli esperti Microsoft in materia di architettura, sviluppo e testing.
   
 L'organizzazione di assistenza è perfettamente allineata con lo sviluppo di prodotti e operazioni, assicura tempi di risoluzione rapidi e fornisce ai clienti un canale per esprimere le proprie opinioni. Il feedback dei clienti fornisce l'input per la pianificazione, lo sviluppo e i processi operativi.
   
@@ -166,4 +166,4 @@ Per ulteriori informazioni sul supporto, vedere [l'articolo supporto.](support.m
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 del servizio della piattaforma.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra i piani, vedere [Microsoft 365 e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)

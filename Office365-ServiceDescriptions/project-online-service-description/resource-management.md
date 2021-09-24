@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
 description: Le seguenti funzionalità di gestione delle risorse sono disponibili in Project Online.
-ms.openlocfilehash: 6b282d5b1d0d34dccc3d2940adde7b3c15b59db446fee1cd37d062aad3923e9a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: ea0ed45536180827176d02608e2a984e9d137e30
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702625"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672443"
 ---
 # <a name="resource-management"></a>Gestione delle risorse
 

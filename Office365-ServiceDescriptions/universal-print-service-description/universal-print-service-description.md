@@ -6,18 +6,18 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
-description: Universal Print, un Microsoft 365 di stampa cloud, elimina la necessità di server di stampa locali.
-ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.localizationpriority: medium
+description: Universal Print, un Microsoft 365 servizio di stampa cloud, elimina la necessità di server di stampa locali.
+ms.openlocfilehash: 85a388f811d149be6ae436c3f94421dbc1ec9284
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702435"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673127"
 ---
 # <a name="universal-print-service-description"></a>Descrizione del servizio Stampa universale
 
-[Universal Print](https://www.microsoft.com/microsoft-365/windows/universal-print), un Microsoft 365 servizio di stampa cloud, elimina la necessità di server di stampa locali. Questo servizio consente agli endpoint Windows 10 aziendali di selezionare e stampare su stampanti registrate in Azure AD senza dover installare un altro software client.
+[Universal Print](https://www.microsoft.com/microsoft-365/windows/universal-print), un Microsoft 365 di stampa cloud, elimina la necessità di server di stampa locali. Questo servizio consente agli endpoint Windows 10 aziendali di selezionare e stampare su stampanti registrate in Azure AD senza dover installare un altro software client.
 
 Gli utenti traggono vantaggio dalla stampa senza driver, dall'individuazione semplificata della stampante basata sulla posizione e da un'esperienza di stampa intuitiva senza curva di apprendimento che sfrutta il flusso di stampa esistente nel dispositivo.
 
@@ -29,7 +29,7 @@ Universal Print è incluso nelle sottoscrizioni seguenti, per soddisfare al megl
 
 | Small Business                 | Enterprise Microsoft 365     | Formazione Microsoft 365 |
 |--------------------------------|------------------------------|-------------------------|
-| Microsoft 365 Business Premium | Windows 10 Enterprise E3     | Windows 10 Education E3 |
+| Microsoft Office 365 Business Premium | Windows 10 Enterprise E3     | Windows 10 Education E3 |
 |                                | Windows 10 Enterprise E5     | Windows 10 Education E5 |
 |                                | Microsoft 365 F3             | Microsoft 365 A3        |
 |                                | Microsoft 365 E3             | Microsoft 365 A5        |
