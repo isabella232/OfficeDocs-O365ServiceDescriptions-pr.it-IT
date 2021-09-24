@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: In questo articolo vengono descritti i limiti applicati in Skype for Business Online.
-ms.openlocfilehash: 5004a27a5111d963e9dfdf3308c2ed7865a4b9972a1d4752342d59ea873e456c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a3e39caae437610e48e8a19fa699a4cdca279c7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702475"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669605"
 ---
 # <a name="skype-for-business-online-limits"></a>Limiti di Skype for Business Online
 
@@ -40,7 +40,7 @@ I limiti in Skype for Business Online rientrano nelle categorie seguenti:
 
 - **Limite di trasferimento file** : dimensione massima di un file che può essere trasferito in una Skype for Business di messaggistica istantanea online. Per informazioni sui tipi di file per i quali è stato bloccato il trasferimento file, vedere l'articolo del supporto Microsoft relativo all' [invio e ricezione di file o allegati in Skype for Business Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
-- **Limite per le conversazioni a schede aperte** - Numero massimo di schede di conversazione che un Skype for Business può aprire contemporaneamente. 
+- **Limite per le conversazioni a schede aperte** - Numero massimo di schede di conversazione che un Skype for Business utente può aprire contemporaneamente. 
     
 ### <a name="peer-to-peer-limits"></a>Limiti peer-to-peer 
 
@@ -74,7 +74,7 @@ I limiti in Skype for Business Online rientrano nelle categorie seguenti:
     
 - Skype for Business partecipanti alla **riunione dell'app Web** - Numero massimo di Skype for Business partecipanti alla riunione dell'app Web che possono partecipare a una riunione. 
     
-- **Skype for Business partecipanti anonimi dell'app Web** - Numero massimo di Skype for Business partecipanti alla riunione dell'app Web che possono partecipare a una riunione in modo anonimo. 
+- **Skype for Business partecipanti anonimi dell'app Web** - Numero massimo di Skype for Business partecipanti alla riunione dell'app Web che possono partecipare in modo anonimo a una riunione. 
     
 - **Guest che si uniscono per telefono** - Numero massimo di utenti che possono chiamare a una riunione. 
     
@@ -119,8 +119,8 @@ I limiti in Skype for Business Online rientrano nelle categorie seguenti:
 | Tipo riunione | Descrizione |
 |:-----|:-----|
 |Riunione singola| La riunione sarà accessibile almeno fino a 14 giorni dopo l'ora pianificata o l'ultima attivazione della riunione o l'ultimo aggiornamento della riunione, a seconda di quale sia l'ultima.
-|Riunione ricorrente con data di fine| La riunione sarà accessibile almeno fino a 14 giorni dopo l'ora di fine pianificata dell'ultima occorrenza della riunione, l'ultima attivazione della riunione o l'ultimo aggiornamento della riunione, a seconda di quale sia l'ultima.
-|Riunione ricorrente senza data di fine| La riunione sarà sempre accessibile, purché ci siano nuovi partecipanti alla conferenza (attivazioni) o la pianificazione degli aggiornamenti almeno una volta all'anno
+|Riunione ricorrente con data di fine| La riunione sarà accessibile almeno fino a 14 giorni dopo l'ora di fine pianificata dell'ultima occorrenza della riunione o l'ultima attivazione della riunione o l'ultimo aggiornamento della riunione, a seconda di quale sia l'ultima.
+|Riunione ricorrente senza data di fine| La riunione sarà sempre accessibile, purché siano presenti nuovi partecipanti alla conferenza (attivazioni) o la pianificazione degli aggiornamenti almeno una volta all'anno
 |Meet Now|La riunione sarà accessibile per almeno 8 ore.
 
 ## <a name="minute-limits"></a>Limiti di minuti

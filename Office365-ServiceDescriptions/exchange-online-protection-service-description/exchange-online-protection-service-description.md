@@ -8,20 +8,20 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, nonché un confronto delle funzionalità di tali piani.
-ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection e un confronto delle funzionalità di tali piani.
+ms.openlocfilehash: a82468c95f8d674bb2e4b27abc668074f222b419
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664229"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670712"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrizione del servizio Exchange Online Protection
 
-Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection, nonché un confronto delle funzionalità di tali piani.
+Sono disponibili informazioni sulle funzionalità e sui requisiti per Exchange Online Protection. È incluso un elenco di piani che forniscono Exchange Online Protection e un confronto delle funzionalità di tali piani.
 
 Microsoft Exchange Online Protection (EOP) è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da posta indesiderata e malware e include funzionalità per proteggere l'organizzazione dalle violazioni dei criteri di messaggistica. EOP può semplificare la gestione dell'ambiente di messaggistica e ridurre molte delle responsabilità associate alla gestione di componenti hardware e software locali.
 
@@ -47,7 +47,7 @@ Microsoft Exchange Enterprise CAL with Services offre le funzionalità di protez
 
 - [Creazione di report tramite i servizi Web](reporting-and-message-trace.md#reporting-using-web-services)
 
-Per ulteriori informazioni sulla licenza CAL Exchange Enterprise servizi, vedere domande Exchange [domande frequenti sulle licenze.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
+Per ulteriori informazioni sulle Exchange Enterprise licenze CAL con servizi, vedere domande Exchange [domande frequenti sulle licenze.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
 
 Se si dispone Exchange Enterprise licenze CAL con servizi e si desidera effettuare il provisioning di EOP, seguire le istruzioni in [Configurare il servizio EOP.](/microsoft-365/security/office-365-security/set-up-your-eop-service) I passaggi di configurazione sono gli stessi dello scenario autonomo di EOP.
 
@@ -77,7 +77,7 @@ Nella tabella seguente sono elencate le principali Exchange Online Protection di
 |Protezione anti-spoofing (incorporata e personalizzata)|Sì|Sì|Sì|
 |Eliminazione automatica a zero ore (ZAP) per i messaggi di malware, posta indesiderata e phishing recapitati<sup>10</sup>|No|No|Sì|
 |Preimpostare i criteri di sicurezza.|Sì|Sì|Sì|
-|Analizzatore della configurazione per i criteri di protezione|Sì|Sì|Sì|
+|Analizzatore della configurazione per criteri di protezione|Sì|Sì|Sì|
 |Elenco di tenant consentiti/bloccati|Sì|Sì|Sì|
 |Elenchi di indirizzi bloccati per i mittenti dei messaggi|Sì|Sì|Sì|
 |Consenti elenchi per i mittenti dei messaggi|Sì|Sì|Sì|
@@ -96,7 +96,7 @@ Nella tabella seguente sono elencate le principali Exchange Online Protection di
 |Filtro avanzato per i connettori (ignora elenco)|Sì|Sì|Sì|
 |**Monitoraggio**||||
 |Message trace|Sì|Sì|Sì|
-|Report di posta elettronica e sicurezza nella interfaccia di amministrazione di Microsoft 365|Sì<sup>7</sup>|Sì<sup>7,8</sup>|Sì<sup>8</sup>|
+|Report di posta elettronica e sicurezza nell'interfaccia di amministrazione di Microsoft 365|Sì<sup>7</sup>|Sì<sup>7,8</sup>|Sì<sup>8</sup>|
 |Report di sicurezza nel Centro sicurezza Microsoft 365 sicurezza|Sì<sup>7</sup>|Sì<sup>7,8</sup>|Sì<sup>8</sup>|
 |Rapporti di posta elettronica nell'interfaccia di amministrazione di Exchange|Sì<sup>7</sup>|Sì<sup>7,8</sup>|Sì<sup>8</sup>|
 |Registrazione di controllo<sup>dell'amministratore 5</sup>|Sì|Sì|Sì|
@@ -116,9 +116,9 @@ Nella tabella seguente sono elencate le principali Exchange Online Protection di
 
 <sup>1</sup> Creare, rimuovere e modificare utenti di posta e contatti di posta nell'interfaccia di amministrazione di Exchange. <br/>
 <sup>1a</sup> Si creano e rimuovono cassette postali nel interfaccia di amministrazione di Microsoft 365. È possibile modificare le cassette postali esistenti nell'interfaccia di amministrazione di Exchange. <br/>
-<sup>2</sup> In EOP autonomo e edizione Enterprise cal con servizi, non sono disponibili ruoli dell'utente finale o criteri di assegnazione dei ruoli.<br/>
+<sup>2</sup> In EOP autonomo e edizione Enterprise cal con Servizi, non sono disponibili ruoli dell'utente finale o criteri di assegnazione dei ruoli.<br/>
 <sup>3</sup> Aggiungere e rimuovere domini nella interfaccia di amministrazione di Microsoft 365.  Nell'interfaccia di amministrazione di Exchange, configurare i domini come autorevoli o non autorevoli.<br/>
-<sup>4</sup> Alcune condizioni, eccezioni e azioni delle regole non sono disponibili in EOP autonomo o in EOP in edizione Enterprise CAL con servizi. Queste differenze sono chiaramente notate nel contenuto Exchange Online delle regole del flusso di posta. <br/>
+<sup>4</sup> Alcune condizioni, eccezioni e azioni delle regole non sono disponibili in EOP autonomo o in EOP in edizione Enterprise CAL con servizi. Queste differenze sono chiaramente notate nel contenuto Exchange Online regola del flusso di posta. <br/>
 <sup>5</sup> In EOP autonomo e edizione Enterprise cal con servizi:
 
 - I report di controllo delle cassette postali non sono disponibili.
@@ -126,12 +126,12 @@ Nella tabella seguente sono elencate le principali Exchange Online Protection di
 - Esportazione del log di controllo disponibile solo tramite PowerShell. <br/>
 
 <sup>6</sup> I suggerimenti per i criteri DLP non sono disponibili in edizione Enterprise cal with Services. <br/>
-<sup>7</sup> I report in EOP autonomo e edizione Enterprise CAL con servizi sono un sottoinsieme di Exchange Online report (report che si occupano delle cassette postali).<br/>
+<sup>7</sup> I report in EOP autonomo e edizione Enterprise cal con i servizi sono un sottoinsieme dei report Exchange Online (report che si occupano delle cassette postali).<br/>
 <sup>8</sup> Include report DLP. <br/>
-<sup>9</sup> È possibile acquistare Azure Information Protection come sottoscrizione di componente aggiuntivo e usare OME se si configura l'ambiente di posta elettronica locale per instradare la posta elettronica da e verso Internet tramite EOP. <br/>
+<sup>9</sup> È possibile acquistare Azure Information Protection come abbonamento a un componente aggiuntivo e usare OME se si configura l'ambiente di posta elettronica locale per instradare la posta elettronica da e verso Internet tramite EOP. <br/>
 <sup>10</sup> Questa funzionalità richiede Exchange Online cassette postali. <br/>
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per informazioni tecniche su Exchange Online Protection, vedere le risorse seguenti:
 

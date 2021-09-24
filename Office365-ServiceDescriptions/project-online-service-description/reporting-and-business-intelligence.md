@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: Le funzionalità di report e business intelligence seguenti sono disponibili in Project Online.
-ms.openlocfilehash: 3062ff202d379e636c4c3d68d507f9e28f900694b83724566d9899956a0f7374
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1e08d1d2e8b7e82f7c3b78b127fdfb60019571e5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702635"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669615"
 ---
 # <a name="reporting-and-business-intelligence"></a>Reporting e business intelligence
 
@@ -27,7 +27,7 @@ I feed OData abilitano le query REST e una serie di raccolte client OData per cr
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Dashboard predefinita del portfolio
 
-I report predefiniti sono progettati per essere immediatamente utili per molti clienti e l'app Web consente anche la personalizzazione del dashboard del portfolio per soddisfare esigenze specifiche dell'organizzazione. È possibile scegliere tra un'ampia gamma di report basati su progetti, attività e risorse, inclusi report su problemi/rischi/risultati finali, nonché diverse opzioni di filtro, tra cui il filtro in base ai campi personalizzati. I report possono essere personalizzati facilmente senza uscire dall'app. 
+I report predefiniti sono progettati per essere immediatamente utili per molti clienti e l'app Web consente anche la personalizzazione del dashboard del portfolio per soddisfare esigenze specifiche dell'organizzazione. È possibile scegliere tra un'ampia gamma di report basati su progetti, attività e risorse, tra cui report su problemi/rischi/risultati finali, nonché diverse opzioni di filtro, tra cui il filtro in base ai campi personalizzati. I report possono essere personalizzati facilmente senza uscire dall'app. 
   
 ## <a name="project-desktop-reporting"></a>Creazione di report per Project desktop
 

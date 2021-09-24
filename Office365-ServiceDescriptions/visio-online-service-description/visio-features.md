@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio per il Web estende l'esperienza Visio Microsoft al browser, in cui è possibile creare e modificare diagrammi salvati nel cloud. Microsoft 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio.
-ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 35c801c4753676b9a1e0674972ce0c5a6c222b2c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702235"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670644"
 ---
 # <a name="visio-features"></a>Visio Funzionalità
 
-Visio web e desktop consentono agli utenti di creare e modificare diagrammi dal browser o dal desktop e di salvarli nel cloud. Microsoft 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio. Visio utenti possono utilizzare funzionalità avanzate, come quelle descritte nelle sezioni seguenti.
+Visio web e desktop consentono agli utenti di creare e modificare diagrammi dal browser o dal desktop e di salvarli nel cloud. Microsoft 365 i clienti possono visualizzare, stampare e condividere diagrammi e inserire commenti in viaggio. Visio utenti possono usare funzionalità avanzate, come quelle descritte nelle sezioni seguenti.
 
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Applicazione della formattazione avanzata a testo e forme
 
@@ -47,7 +47,7 @@ Le funzionalità taglia, copia e incolla sono disponibili in Visio. È possibile
 
 ## <a name="edit-diagrams"></a>Modifica di diagrammi
 
-Visio include funzionalità avanzate di modifica, che è possibile utilizzare per apportare modifiche al diagramma. È inoltre possibile modificare la struttura del diagramma con un'ampia gamma di colori e layout del tema.
+Visio include funzionalità di modifica avanzate, che è possibile utilizzare per apportare modifiche al diagramma. È inoltre possibile modificare la struttura del diagramma con un'ampia gamma di colori e layout del tema.
 
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>Incorporare un diagramma in una pagina Web, SharePoint o blog
 
@@ -65,7 +65,7 @@ In Visio per il Web, è possibile cercare ogni occorrenza di una parola, un nume
 
 In Visio web è possibile accedere direttamente ai collegamenti ipertestuali selezionando la forma.
 
-## <a name="navigation"></a>Spostamento
+## <a name="navigation"></a>Struttura di navigazione
 
 In Visio per il Web, è possibile passare ad altre pagine selezionando le schede in basso a sinistra.
 
@@ -79,11 +79,11 @@ Non disponibile in Visio per il Web. Office per il web richiede una connessione 
 
 ## <a name="print-to-pdf"></a>stampare su PDF
 
-È possibile stampare in formato PDF o stampanti con Visio per il Web.
+È possibile stampare su PDF o stampanti con Visio per il Web.
 
 ## <a name="proofing-tools"></a>Strumenti di correzione
 
-Gli strumenti di correzione, ad esempio il controllo ortografico, la traduzione e i dizionari personalizzati, non sono disponibili Visio per il Web. Tuttavia, sono disponibili un controllo di accessibilità e descrizioni di testo alternativo.
+Gli strumenti di correzione come il controllo ortografico, la traduzione e i dizionari personalizzati non sono disponibili Visio per il Web. Tuttavia, sono disponibili un controllo di accessibilità e descrizioni di testo alternativo.
 
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
@@ -115,8 +115,8 @@ In Visio per il Web, è possibile collaborare con altri utenti visualizzando, ag
 
 ## <a name="view-visio-files-in-the-browser"></a>Visualizzare i file di Visio nel browser
 
-Poiché il diagramma di Visio viene salvato online, è possibile inviarvi un collegamento. Gli utenti possono quindi visualizzarlo in tutti i browser. Non è necessario che sia installata l Visio appliczione desktop o una licenza Visio per visualizzare un diagramma nel browser.
+Poiché il diagramma di Visio viene salvato online, è possibile inviarvi un collegamento. Gli utenti possono quindi visualizzarlo in tutti i browser. Non è necessario che l'applicazione desktop Visio o una licenza Visio per visualizzare un diagramma nel browser.
 
 ## <a name="zoom"></a>Zoom
 
-Visio web include un dispositivo di scorrimento che consente di eseguire lo zoom avanti e indietro. È inoltre possibile utilizzare la funzionalità &amp; Zoom panoramica per ingrandire un'area del diagramma.
+Visio web include un dispositivo di scorrimento che ti consente di eseguire lo zoom avanti e indietro. È inoltre possibile utilizzare la funzionalità &amp; Zoom panoramica per ingrandire un'area del diagramma.

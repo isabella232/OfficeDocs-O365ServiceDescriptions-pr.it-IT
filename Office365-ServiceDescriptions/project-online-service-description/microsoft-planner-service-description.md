@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Planner è uno strumento di gestione delle attività intuitivo e collaborativo che consente agli utenti di pianificare, gestire e completare iniziative basate sulle attività.
-ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: ee07c27be65b49b6f2bd89005c8a07a54021bff0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702835"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669833"
 ---
 # <a name="microsoft-planner-service-description"></a>Descrizione del servizio Microsoft Planner
 
-Microsoft Planner è uno strumento di gestione delle attività intuitivo e collaborativo che consente agli utenti di pianificare, gestire e completare iniziative basate sulle attività. Gli utenti assegnano e gestiscono le attività in una lavagna Kanban utilizzando schede attività, che possono popolare con varie importanti informazioni sul piano, ad esempio date di scadenza, stato, elenchi di controllo, etichette e file allegati. Planner si integra con diverse soluzioni Microsoft, tra cui Microsoft Teams. In quanto strumento basato sul Web, Planner è accessibile da qualsiasi luogo e disponibile come app per dispositivi mobili sia per iOS che per Android.
+Microsoft Planner è uno strumento di gestione delle attività intuitivo e collaborativo che consente agli utenti di pianificare, gestire e completare iniziative basate sulle attività. Gli utenti assegnano e gestiscono le attività in una bacheca Kanban utilizzando schede attività, che possono popolare con diverse importanti informazioni sul piano, ad esempio date di scadenza, stato, elenchi di controllo, etichette e file allegati. Planner si integra con diverse soluzioni Microsoft, tra cui Microsoft Teams. In quanto strumento basato sul Web, Planner è accessibile da qualsiasi luogo e disponibile come app per dispositivi mobili sia per iOS che per Android.
 
 ## <a name="available-plans"></a>Piani disponibili
 
@@ -39,7 +39,7 @@ Nella tabella seguente sono elencate le principali funzionalità di Microsoft Pl
 | Aggiungere etichette, elenco di controllo, allegati alle attività  | Sì  | Sì  | Sì  | Sì  | Sì  | Sì  |
 | Filtrare e raggruppare le attività  | Sì  | Sì  | Sì  | Sì  | Sì  | Sì  |
 | Copia piano  | Sì  | Sì  | Sì  | Sì  | Sì  | Sì  |
-| Esportare il piano in Excel  | Sì  | Sì  | Sì  | Sì  | Sì  | Sì  |
+| Esportare il piano Excel  | Sì  | Sì  | Sì  | Sì  | Sì  | Sì  |
 | Visualizzare le attività di Planner nella visualizzazione Grafici  | Sì  | Sì  | Sì  | Sì  | Sì  | Sì  |
 | Visualizzare le attività di Planner nella visualizzazione Pianificazione  | Sì  | Sì  | Sì  | Sì  | Sì  | Sì  |
 | Vedere Attività di Planner nel Outlook calendario  | Sì  | Sì  | Sì  | [Pianificato](https://www.microsoft.com/microsoft-365/roadmap)  | [Pianificato](https://www.microsoft.com/microsoft-365/roadmap)  | [Pianificato](https://www.microsoft.com/microsoft-365/roadmap)  |
@@ -48,7 +48,7 @@ Nella tabella seguente sono elencate le principali funzionalità di Microsoft Pl
 | App Attività in Teams  | Sì  | Sì  | Sì  | No  | No  | No  |
 | SharePoint integrazione (web part Planner e app a pagina intera)  | Sì  | Sì  | Sì  | Sì  | No  | No  |
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Per approfondire
 
 Per ulteriori informazioni su Microsoft Planner, vedere le risorse seguenti:
 
@@ -68,4 +68,4 @@ Per tenere traccia delle modifiche imminenti, comprese le funzionalità nuove e 
 
 ### <a name="accessibility"></a>Accessibilità
 
-Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility)   dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center)   e Centro Office [Accessibilità.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft continua a impegnarsi per la sicurezza dei dati e [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility)   dei nostri servizi. Per ulteriori informazioni, vedere Centro protezione [Microsoft](https://www.microsoft.com/trust-center)e centro   Office [Accessibilità.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)

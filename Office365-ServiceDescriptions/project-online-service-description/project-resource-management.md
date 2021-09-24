@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - resource-management
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Le seguenti funzionalità di gestione delle risorse sono disponibili in Project Online.
-ms.openlocfilehash: 24764327b4714ab044252150f2acfcff61acdea3f828b974223409ca03d16464
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 55c5b0b0b1d1a183e2d015adab1247e5167e7cd6
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702645"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669578"
 ---
 # <a name="project-resource-management"></a>Gestione risorse di progetto
 

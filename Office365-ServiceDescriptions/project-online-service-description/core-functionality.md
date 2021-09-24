@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - core-functionality
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Le funzionalità di base seguenti sono disponibili in Project Online.
-ms.openlocfilehash: 9a4592847d861e3bac8912d0b9a7134034c5318202e17fb9a74c14fdc4a9aeaf
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 3807af035ce2203a1f45862a3b880c67cf0716c6
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702855"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669871"
 ---
 # <a name="core-functionality"></a>Funzionalità di base
 
@@ -35,7 +35,7 @@ Selezionare **File** per usare le funzionalità nella backstage, in cui è possi
   
 ## <a name="click-to-run"></a>A portata di clic
 
-Installa rapidamente Project Online su Internet, reti interne, file system locali o da supporti offline per assicurarti di essere aggiornato con la versione più recente di un'applicazione desktop Project. Per ulteriori informazioni, vedere [A portata di clic](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
+Installa rapidamente Project Online su Internet, reti interne, file system locali o da supporti offline per assicurarti di essere aggiornato con la versione più recente di Project desktop. Per ulteriori informazioni, vedere [A portata di clic](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Menu contestuali del pulsante destro del mouse
 

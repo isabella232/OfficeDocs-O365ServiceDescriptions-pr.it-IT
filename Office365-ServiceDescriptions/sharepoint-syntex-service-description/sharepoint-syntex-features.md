@@ -6,34 +6,34 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Informazioni sulle principali funzionalità SharePoint Syntex disponibili nei piani Microsoft 365, Office 365 e SharePoint Online idonei.
-ms.openlocfilehash: 7febd3615d61fd2aa219ea8a5075f0d591fe41df5a179a8ca2f2f0d74007f5e7
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 05e208a2e1e37a2b4be6d63bdf32d46085e53fef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702525"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669625"
 ---
 # <a name="sharepoint-syntex-features"></a>Funzionalità di SharePoint Syntex 
 
-Le sezioni seguenti descrivono le principali [SharePoint Syntex](sharepoint-syntex-service-description.md) disponibili nei piani Microsoft 365, Office 365 e SharePoint Online idonei. Le funzionalità disponibili possono cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedi la pagina SharePoint Syntex piani e [prezzi.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)
+Le sezioni seguenti descrivono le principali [SharePoint Syntex](sharepoint-syntex-service-description.md) disponibili nei piani Microsoft 365, Office 365 e SharePoint Online idonei. Le funzionalità disponibili possono cambiare senza preavviso. Per l'elenco completo e aggiornato delle funzionalità, vedere la pagina SharePoint Syntex piani e [prezzi più aggiornati.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)
 
 ## <a name="syntex-content-center"></a>Centro contenuti Syntex
 
 Syntex fornisce un modello di sito denominato centro contenuto per la gestione del contenuto su larga scala, l'integrazione di metadati e flussi di lavoro &mdash;  &mdash; e la distribuzione dell'automazione della conformità. I centri contenuti forniscono funzionalità per insegnare al cloud come leggere ed elaborare i documenti come si farebbe manualmente. Syntex usa queste informazioni dettagliate per riconoscere automaticamente il contenuto, estrarre informazioni importanti e applicare tag di metadati. Inoltre, è possibile tenere traccia dell'efficacia dei modelli con l'analisi visiva integrata.
 
-Per ulteriori informazioni sui Centri contenuti e su come crearli, vedere [Create a content center in SharePoint Syntex.](/microsoft-365/contentunderstanding/create-a-content-center)
+Per ulteriori informazioni sui Centri contenuti e su come crearli, vedere [Create a content center in SharePoint Syntex](/microsoft-365/contentunderstanding/create-a-content-center).
 
 ## <a name="object-recognition"></a>Riconoscimento oggetti
 
 Syntex può contrassegnare automaticamente le immagini usando un nuovo dizionario visivo con migliaia di oggetti comunemente riconosciuti. Inoltre, Syntex può riconoscere e convertire il testo scritto a mano in tag da utilizzare per la ricerca e per ulteriori elaborazioni.
 
-Per altre informazioni sul riconoscimento degli oggetti in Syntex e su come configurare il tagging delle immagini, [vedi Tagging delle immagini in SharePoint Syntex](/microsoft-365/contentunderstanding/image-tagging).
+Per altre informazioni sul riconoscimento degli oggetti in Syntex e su come configurare il tagging delle immagini, vedi [Tagging delle immagini in SharePoint Syntex](/microsoft-365/contentunderstanding/image-tagging).
 
 ## <a name="document-understanding"></a>Analisi dei documenti
 
-Puoi insegnare a Syntex a leggere il contenuto nel modo in cui userei l'insegnamento automatico per creare modelli di intelligenza artificiale senza codice. Syntex può suggerire o creare automaticamente metadati, richiamare flussi di lavoro Power Automate personalizzati e allegare etichette di conformità per applicare criteri di conservazione o gestione dei record.
+Puoi insegnare a Syntex a leggere il contenuto nel modo in cui usi l'insegnamento automatico per creare modelli di intelligenza artificiale senza codice. Syntex può suggerire o creare automaticamente metadati, richiamare flussi di lavoro Power Automate personalizzati e allegare etichette di conformità per applicare criteri di conservazione o gestione dei record.
 
 I modelli di comprensione dei documenti si basano sui modelli Di comprensione del linguaggio in Servizi cognitivi di Azure. Questi modelli vengono creati e gestiti in un centro contenuti Syntex ed è possibile pubblicare e aggiornare i modelli in qualsiasi raccolta in qualsiasi centro contenuto in Syntex.
 
@@ -49,7 +49,7 @@ Per ulteriori informazioni sull'elaborazione dei moduli, vedere [Form processing
 
 Syntex usa i connettori di Microsoft Graph per integrare origini remote come condivisioni file, Azure SQL o origini di terze parti come Box e IBM FileNet in Microsoft Graph, rendendola ricercabile e utilizzabile in tutta la &mdash; &mdash; Microsoft 365.
 
-Con i connettori Graph Microsoft, i clienti possono indicizzare gli elementi in archivi esterni per l'inclusione nei Microsoft Search risultati. Microsoft 365 E5 e Office 365 E5 includono la possibilità di indicizzare fino a 500 elementi utilizzando i connettori microsoft Graph per Microsoft Search (non incluso con A5). Qualsiasi utente con una famiglia di prodotti o una licenza autonoma che include un piano SharePoint o OneDrive può visualizzare i risultati della ricerca dai connettori microsoft Graph per Microsoft Search.
+Con i connettori Graph Microsoft, i clienti possono indicizzare gli elementi in archivi esterni per l'inclusione nei Microsoft Search esterni. Microsoft 365 E5 e Office 365 E5 includono la possibilità di indicizzare fino a 500 elementi utilizzando i connettori microsoft Graph per Microsoft Search (non incluso con A5). Qualsiasi utente con una famiglia di prodotti o una licenza autonoma che include un piano SharePoint o OneDrive può visualizzare i risultati della ricerca dai connettori microsoft Graph per Microsoft Search.
 
 Oggi, i connettori a più di 130 origini sono disponibili da Microsoft o da uno dei nostri partner. Per ulteriori informazioni, vedere [Overview of Microsoft Graph connectors](/MicrosoftSearch/connectors-overview).
 

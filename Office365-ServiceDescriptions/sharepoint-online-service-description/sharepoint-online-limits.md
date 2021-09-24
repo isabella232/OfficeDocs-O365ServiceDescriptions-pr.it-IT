@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Informazioni sui limiti di SharePoint per Microsoft 365 e i piani autonomi.
-ms.openlocfilehash: 5dd9a0d414c5b5ddaac1d92254b73660fab0ac4725dbe656868df8889faa674d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 21034e34d483e63a474533e4c02444749e736936
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702605"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669545"
 ---
 # <a name="sharepoint-limits"></a>Limiti di SharePoint
 

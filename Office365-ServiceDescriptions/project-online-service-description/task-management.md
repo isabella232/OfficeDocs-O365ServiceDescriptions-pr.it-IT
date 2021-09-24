@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - task-management
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Le seguenti funzionalità di gestione delle attività sono disponibili in Project Online.
-ms.openlocfilehash: 9c6af8082baa155f0e48652260e2a16ca697fadab27d479c7449131ad6b567ab
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: ebd8b10c04a5ae9ba49e305cb52f44bdb811f00c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702615"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669595"
 ---
 # <a name="task-management"></a>Gestione attività
 

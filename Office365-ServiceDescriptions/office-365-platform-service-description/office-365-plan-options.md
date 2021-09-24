@@ -10,18 +10,18 @@ f1_keywords:
 keywords:
 - office 365 for business,Office 365
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 è disponibile in svariate opzioni di piani per soddisfare al meglio le esigenze dell'organizzazione.
-ms.openlocfilehash: d06ab7f8f172c1f72ad195b9e2e5951f19dcaff8c6fa75eb476e748d97212c18
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bd2b27b046a14dd9d4ba4272d699cc5b5d8d4b73
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701665"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670634"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Opzioni dei piani di Microsoft 365 e Office 365
 
@@ -63,8 +63,8 @@ Ogni Microsoft 365 o Office 365 include una serie di singoli servizi, ad esempio
 |Microsoft Kaizala <br/> |No <br/> |Sì  <br/> |Sì <br/> |Sì <br/> |Sì  <br/> |Sì  <br/> |Sì <br/> |Sì  <br/> |No  <br/> |
    
 <sup>1</sup> Azure Information Protection non è incluso, ma può essere acquistato come componente aggiuntivo separato e abiliterà le funzionalità di Information Rights Management (IRM) supportate. Alcune funzionalità di Azure Information Protection richiedono una sottoscrizione a Microsoft 365 Apps for enterprise, che non è inclusa in Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 F1, Microsoft 365 F3, Office 365 E1, Office 365 A1 o Office 365 F3.<br/>
-<sup>2</sup> Per ulteriori informazioni sulle funzionalità di Azure Information Protection incluse nei piani Microsoft 365 e Office 365, vedere [Azure Information Protection.](https://azure.microsoft.com/services/information-protection/)<br/>
-<sup>3 Office 365 E5</sup> e Microsoft 365 E5 contengono Sistema telefonico audioconferenza. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (nazionale o internazionale).<br/>
+<sup>2</sup> Per ulteriori informazioni sulle funzionalità di Azure Information Protection incluse nei piani di Microsoft 365 e Office 365, vedere [Azure Information Protection.](https://azure.microsoft.com/services/information-protection/)<br/>
+<sup>3</sup> Office 365 E5 e Microsoft 365 E5 contengono Sistema telefonico audioconferenza. L'implementazione di Piano di chiamata richiede l'acquisto di un piano aggiuntivo (nazionale o internazionale).<br/>
 <sup>4</sup> Include 2 GB di spazio di archiviazione. <br/>
 <sup>5</sup> Include Exchange Online piano 1. <br/>
 <sup>6</sup> Include Exchange Online piano 2. <br/>
@@ -75,9 +75,9 @@ Ogni Microsoft 365 o Office 365 include una serie di singoli servizi, ad esempio
 <sup>11</sup> Include Skype for Business Online Piano 1 più funzionalità aggiuntive. <br/>
 <sup>12</sup> Include Skype for Business Online Piano 2 con supporto vocale e senza limitazioni del client.  <br/>
 <sup>13</sup> Include Skype for Business Online Piano 1.<br>
-<sup>14</sup> Microsoft Teams è ora il client principale per la messaggistica, le riunioni e le chiamate in Microsoft 365. Dal 1° ottobre 2018, i nuovi clienti con 500 postazioni o meno vengono onboarded a Microsoft Teams e non hanno accesso a Skype for Business Online. I tenant che usano già Skype for Business Online possono continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completano la transizione a Microsoft Teams.<br>
-<sup>15</sup> Include Microsoft 365 E5 Compliance, che fornisce la classificazione e la conservazione automatiche, la chiave del cliente, la crittografia avanzata dei messaggi, la gestione dei rischi insider, la conformità alle comunicazioni, le barriere alle informazioni, la customer lockbox, la gestione degli accessi privilegiati, il controllo avanzato, la gestione dei record e Advanced eDiscovery; e Microsoft 365 E5 Security, che include Microsoft Defender for Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security e Cassaforte Documents.<br>
-<sup>16</sup> Microsoft 365 F1 non include i diritti per una Exchange cassetta postale. Per abilitare un'esperienza Teams completa, le licenze M365 F1 possono venire con il piano di servizio Exchange Online K1 abilitato. Anche se Exchange Online piano di servizio K1 eseguirà il provisioning di una cassetta postale per l'utente, gli utenti M365 F1 non sono autorizzati a utilizzare la cassetta postale. Si consiglia ai clienti di disabilitare Outlook sul web questi passaggi e chiedere agli utenti di non accedere alla cassetta postale Exchange tramite altri metodi. [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)<br>
+<sup>14</sup> Microsoft Teams è ora il client principale per la messaggistica, le riunioni e le chiamate Microsoft 365. Dal 1° ottobre 2018, i nuovi clienti con 500 postazioni o meno vengono onboarded a Microsoft Teams e non hanno accesso a Skype for Business Online. I tenant che usano già Skype for Business Online possono continuare a farlo (incluso il provisioning di nuovi utenti) fino a quando non completano la transizione a Microsoft Teams.<br>
+<sup>15</sup> Include Microsoft 365 E5 Compliance, che fornisce la classificazione e la conservazione automatiche, la chiave del cliente, la crittografia avanzata dei messaggi, la gestione dei rischi insider, la conformità alle comunicazioni, le barriere alle informazioni, la customer lockbox, la gestione degli accessi privilegiati, il controllo avanzato, la gestione dei record e Advanced eDiscovery; e Microsoft 365 E5 Security, che include Microsoft Defender per Office 365 Piano 2, Microsoft Defender for Endpoint, Azure Active Directory Piano 2, Microsoft Defender for Identity, Microsoft Cloud App Security e Cassaforte Documents.<br>
+<sup>16</sup> Microsoft 365 F1 non include i diritti per una Exchange cassetta postale. Per abilitare un'esperienza Teams completa, le licenze M365 F1 potrebbero venire con il piano di servizio Exchange Online K1 abilitato. Anche se Exchange Online piano di servizio K1 eseguirà il provisioning di una cassetta postale per l'utente, gli utenti M365 F1 non hanno diritto di utilizzare la cassetta postale. Si consiglia ai clienti di disabilitare Outlook sul web questi passaggi e chiedere agli utenti di non accedere alla cassetta postale Exchange tramite altri metodi. [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)<br>
 <sup>17</sup> Include chiosco SharePoint Online. Non possono essere amministratori. Nessuna cassetta postale del sito. Nessun sito personale.<br>
 <sup>18 Microsoft 365 F1</sup> utenti possono leggere i file usando Office per il web, ma non hanno diritti di creazione/modifica/salvataggio. 
   
@@ -103,7 +103,7 @@ In base alle esigenze dell'organizzazione, potrebbe essere necessario modificare
 - **Per un'altra famiglia di servizi:** Ad esempio, è possibile passare da Microsoft 365 Business Basic a Office 365 E3.     
 Per informazioni su come modificare le sottoscrizioni, incluso il passaggio da una sottoscrizione di valutazione a una a pagamento, vedere [Passare a](https://support.office.com/article/HA104031833)un piano o a un abbonamento Microsoft 365 diverso.
   
-È possibile combinare i piani Enterprise, Business e autonomi (ad esempio Exchange Online, piano 1) in un singolo account. Tuttavia, le limitazioni esistenti relative al numero di postazioni per ciascun piano rimangono invariate. Ad esempio, è possibile avere fino a 300 postazioni per piano su Microsoft 365 Business Basic e Microsoft 365 Business Standard, ma un numero illimitato di utenti in Exchange Online Piano 1.
+È possibile combinare i piani Enterprise, Business e autonomi (ad esempio Exchange Online, piano 1) in un singolo account. Tuttavia, le limitazioni esistenti relative al numero di postazioni per ciascun piano rimangono invariate. Ad esempio, è possibile avere fino a 300 postazioni per piano sia per Microsoft 365 Business Basic che per Microsoft 365 Business Standard, ma un numero illimitato di utenti in Exchange Online Piano 1.
   
 ## <a name="standalone-services"></a>Servizi autonomi
 
@@ -124,4 +124,4 @@ I seguenti servizi online sono disponibili singolarmente come piani autonomi. Po
    
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
-Per visualizzare la disponibilità delle funzionalità tra Microsoft 365 e Office 365, vedere Microsoft 365 [e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)
+Per visualizzare la disponibilità delle funzionalità tra Microsoft 365 e Office 365, vedere [Microsoft 365 e Office 365 descrizione del servizio della piattaforma.](office-365-platform-service-description.md)
