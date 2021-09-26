@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Scoprire quali sono le funzionalità di OneDrive disponibili nel piano.
-ms.openlocfilehash: ebb2edb87a4f75ac8fafcaae5625f9431aaff1d3
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204833"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669963"
 ---
 # <a name="onedrive-service-description"></a>Descrizione del servizio OneDrive
 
@@ -37,12 +37,14 @@ Nella tabella seguente sono elencate le funzionalità principali di OneDrive dis
 
 | Funzionalità | Piani autonomi | Azienda di piccole dimensioni | Grandi aziende | Istruzione | Enti pubblici | Organizzazioni no profit  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
-| Archiviazione | Sì | Sì | Sì | Sì | Sì | Sì |
+| Archiviazione<sup>1</sup> | Sì | Sì | Sì | Sì | Sì | Sì |
 | Funzionalità di sincronizzazione | Sì | Sì | Sì | Sì | Sì | Sì |
 | Funzionalità di condivisione e collaborazione | Sì | Sì | Sì | Sì | Sì | Sì |
 | Funzionalità Web | Sì | Sì | Sì | Sì | Sì | Sì |
 | Funzionalità per dispositivi mobili | Sì | Sì | Sì | Sì | Sì | Sì |
 | Funzionalità per la sicurezza, la conformità e l'amministratore IT | Sì | Sì | Sì | Sì | Sì | Sì |
+
+<sup>1</sup> Per informazioni sull'archiviazione di OneDrive per utente, vedi OneDrive in [Confronto tra piani di lavoro moderni](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="learn-more"></a>Ulteriori informazioni
 
@@ -50,6 +52,7 @@ Per informazioni tecniche su [OneDrive](https://www.microsoft.com/microsoft-365/
 
 - [OneDrive](/onedrive/onedrive)
 - [Blog di Microsoft OneDrive](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
+- Per la maggior parte dei piani di abbonamento lo spazio di archiviazione predefinito per OneDrive di ogni utente è 1 TB. A seconda del piano e del numero di utenti con licenza, è possibile aumentare lo spazio di archiviazione fino a 5 TB. Per altre informazioni, vedi le **funzionalità di base** in [Confronta piani e prezzi dello spazio di archiviazione nel cloud OneDrive](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2).
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
@@ -57,7 +60,7 @@ Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratt
 
 ### <a name="messaging"></a>Messaggistica
 
-Per tenere traccia delle modifiche imminenti, comprese le funzionalità nuove e modificate, la manutenzione pianificata o altri annunci importanti, visita il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
+Per tenere traccia delle modifiche imminenti, comprese le funzionalità nuove e modificate, la manutenzione pianificata o altri annunci importanti, visita il Centro messaggi. Per altre informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilità
 
