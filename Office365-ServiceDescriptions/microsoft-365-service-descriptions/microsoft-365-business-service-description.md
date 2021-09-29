@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium è una soluzione integrata che riunisce la produttività ottimale con funzionalità avanzate di sicurezza e gestione dei dispositivi per proteggere l'azienda. La descrizione di questo servizio delinea le opzioni e le caratteristiche del piano.
-ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 0699b9a6841f1972e141bb52642c10e25dd141a2
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671661"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986152"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrizione del servizio Microsoft 365 Business Premium
 
@@ -44,7 +44,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Microsoft Stream  <br/> |Sì<sup>6</sup>  <br/> |Sì<sup>6</sup>  <br/> |
 |[Microsoft 365 amministrazione](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Strumento di sincronizzazione Connessione Azure AD<br/> |Sì  <br/> |Sì  <br/> |
-|[Attivazione di computer condivisi](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |No <br/> |Sì  <br/> |
+|[Attivazione di computer condivisi](/DeployOffice/overview-shared-computer-activation) <br/> |No <br/> |Sì  <br/> |
 |[Conformità e criteri dei messaggi](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Archiviazione a lungo termine delle cassette postali Exchange Online basate su server  <br/> |No  <br/> |Sì<sup>3</sup> <br/> |
 |Protezione delle informazioni di Azure Piano 1 |No <br/>|Sì<sup>2</sup> </br>|
@@ -59,7 +59,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 |Microsoft Defender per Office 365 Piano 1 <br/> |No  <br/> |Sì<sup>7</sup> <br/> |
 |Secure Score<sup>4</sup> <br/> |Sì  <br/> |Sì  <br/> |
 |Microsoft Defender per Office 365 Piano 2 <br/> |No  <br/> |No <br/> |
-|**Azure AD Premium P1 è disponibile per i Microsoft 365 Business Premium clienti.**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|**Azure AD Premium P1 è disponibile per Microsoft 365 Business Premium clienti.**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |No  <br/> |Sì <br/> |Sì  <br/> |
 |Unità amministrative  <br/> |No  <br/> |Sì <br/> |Sì  <br/> |
 |Individuazione di app per cloud  <br/> |No  <br/> |Sì <br/> |Sì  <br/> |
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium include essenzialmente tutte le funzionalità dis
 ### <a name="notes"></a>Note
 <sup>1</sup> Include Exchange Online piano 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) abilita le funzionalità supportate di Information Rights Management (IRM). Il piano AIP 1 è incluso in Microsoft 365 Business Premium. <br/>
-<sup>3 Microsoft 365 Business Premium</sup> include Archiviazione Exchange Online abbonamento. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Per altre informazioni, vedere [Panoramica dell'archiviazione illimitata](/office365/securitycompliance/unlimited-archiving). <br/>
+<sup>3</sup> Microsoft 365 Business Premium include Exchange piano 1 e Archiviazione Exchange Online è incluso solo in Exchange Piano 2 (E3/E5). L'archivio basato sul cloud e il blocco sul posto possono essere acquistati come componente aggiuntivo. Inizialmente, ogni sottoscrittore di Archiviazione Exchange Online riceve 100 GB di spazio nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Per altre informazioni, vedere [Panoramica dell'archiviazione illimitata](/office365/securitycompliance/unlimited-archiving). <br/>
 <sup>4</sup> Disponibile all'indirizzo [https://securescore.office.com](https://securescore.office.com) . Richiede autorizzazioni amministrative. Per ulteriori informazioni, vedere [Microsoft Secure Score.](/office365/securitycompliance/microsoft-secure-score)<br/>
 <sup>5</sup> Gestione Windows 10 dei dispositivi semplificata integrata nella interfaccia di amministrazione di Microsoft 365. Funzionalità di gestione di Intune di iOS, Android, macOS e altre funzionalità di gestione dei dispositivi multipiattaforma integrate nell'interfaccia di amministrazione di Gestione dispositivi, anche con licenza per l'uso con Microsoft 365 Business Premium. Le app di terze parti e la configurazione di elementi come profili WiFi e certificati VPN possono essere gestiti anche nell'interfaccia di amministrazione di Gestione dispositivi. <br/>
 <sup>6</sup> Questo piano viene fornito con Microsoft Stream Piano 2, che include portale video, trascrizione di testo vocale, ricerca approfondita e rilevamento faccia.<br/>

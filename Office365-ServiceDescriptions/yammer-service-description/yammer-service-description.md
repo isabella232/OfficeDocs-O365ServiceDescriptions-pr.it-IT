@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Vedere quali funzionalità sono disponibili nei diversi Yammer piani.
-ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673090"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986142"
 ---
 # <a name="yammer-service-description"></a>Descrizione del servizio Yammer
 
@@ -25,7 +25,7 @@ Coinvolgere le persone è più importante che mai. Yammer connette leader, comun
   
 ## <a name="available-plans"></a>Piani disponibili
   
-Per l'elenco completo dei piani che includono informazioni sul piano sulle sottoscrizioni che consentono agli utenti di Yammer, vedere la tabella di confronto delle sottoscrizioni [completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Per l'elenco completo dei piani che includono informazioni sul piano sulle sottoscrizioni che consentono agli utenti di Yammer, vedere la tabella di confronto [completa delle sottoscrizioni.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 ## <a name="feature-availability"></a>Disponibilità delle funzionalità
 
@@ -50,9 +50,23 @@ Nella tabella seguente sono elencate le principali Yammer disponibili. Questa ta
 
 Per rimanere informati sulle modifiche imminenti, incluse funzionalità nuove e modificate, manutenzione pianificata o altri annunci importanti, visitare il Centro messaggi. Per ulteriori informazioni, vedi [Centro messaggi](/microsoft-365/admin/manage/message-center).
 
+## <a name="communication-channels"></a>Canali di comunicazione
+
+I canali utilizzati per comunicare dipendono dall'impatto.
+
+
+| Cambia tipo | Office 365 [messaggi](/microsoft-365/admin/manage/message-center) | Roadmap di Microsoft 365 | Yammer Blog Community tech, ad esempio, Roundup mensili | Community esterna, Twitter |
+|---------|---------|---------|---------|---------|
+|**Modifiche che richiedono un'azione (pianificare** la modifica): modifiche che richiedono un'azione dell'amministratore per mantenere il servizio in esecuzione, aggiornamenti che potrebbero influire sulla conformità dell'organizzazione | Sì | Sì | Sì | Sì |
+| **Modifiche che richiedono consapevolezza (rimanere informati)** - Modifiche che non richiedono l'azione dell'amministratore, modifiche di progettazione visiva | Sì | Sì | Sì | Sì |
+
+> [!NOTE]
+> Con le modifiche che influiscono su un set di utenti mirato, è possibile inviare una notifica diretta a tali utenti.</br>
+> Le modifiche che non sono critiche e che non richiedono azioni o consapevolezza non verranno comunicate in modo generale (anche se potrebbero essere osservabili da alcuni utenti).
+
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer di comunicazione dei servizi aziendali
 
-Yammer rispetta i criteri di Microsoft 365 [gestione](https://aka.ms/ManageChange)delle modifiche, ma usa La versione mirata per implementare alcuni Microsoft 365 aggiornamenti. Yammer utenti sono soggetti a test o versioni di prova delle funzionalità A/B. Ciò consente a Microsoft di testare le funzionalità per la stabilità, le prestazioni e il miglioramento dell'esperienza in molti ambienti e dispositivi. Gli utenti all'interno della stessa rete possono avere diverse esperienze a causa dei test. Non è possibile rifiutarsi di essere sottoposti al test A/B.
+Yammer rispetta i criteri di Microsoft 365 [gestione](https://aka.ms/ManageChange)delle modifiche, ma usa Il rilascio mirato per implementare alcuni Microsoft 365 aggiornamenti. Yammer utenti sono soggetti a test o versioni di prova delle funzionalità A/B. Ciò consente a Microsoft di testare le funzionalità per la stabilità, le prestazioni e il miglioramento dell'esperienza in molti ambienti e dispositivi. Gli utenti all'interno della stessa rete possono avere diverse esperienze a causa dei test. Non è possibile rifiutarsi di essere sottoposti al test A/B.
 
 ## <a name="licensing-terms"></a>Condizioni di licenza
 
@@ -62,7 +76,7 @@ Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratt
 
 Microsoft si impegna a garantire la sicurezza dei dati e la [l'accessibilità](https://www.microsoft.com/trust-center/compliance/accessibility) dei propri servizi. Per ulteriori informazioni, vedi il [Centro protezione Microsoft](https://www.microsoft.com/trust-center)e l’[Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-## <a name="learn-more"></a>Per approfondire
+## <a name="learn-more"></a>Ulteriori informazioni
 
 Per ulteriori informazioni sulle Yammer, vedere le risorse seguenti:
 
@@ -85,7 +99,7 @@ Oggi sono disponibili le seguenti funzionalità:
 - [App Community per](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21) Microsoft Teams
 - Nuova Yammer [app desktop](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
 - [SharePoint Web part Evidenziazioni e conversazioni](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
-- [Yammer Embed (nuovo e Yammer)](https://developer.yammer.com/docs/new-embed-feed)
+- [Yammer Embed (nuovo e classico Yammer)](https://developer.yammer.com/docs/new-embed-feed)
 - [Messaggi di posta elettronica interattivi Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
 - [Yammer app per dispositivi mobili iPhone, iPad e Android](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
 
