@@ -9,18 +9,18 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium è l'offerta di Microsoft best-in-class per i clienti di piccole e medie imprese. Microsoft 365 Business Premium è una soluzione integrata che riunisce Microsoft 365 produttività, sicurezza avanzata e gestione dei dispositivi.
-ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: e4062493a2508b17704c48770d5e991915674426
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670463"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015651"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Assegnazione di licenze di Microsoft 365 per piccole e medie imprese
 
-Microsoft 365 Business Premium è l'offerta di Microsoft best-in-class per i clienti di piccole e medie imprese (SMB). Microsoft 365 Business Premium è una soluzione integrata che riunisce la produttività **Microsoft 365** **sicurezza** avanzata e la gestione **dei dispositivi.**
+Microsoft 365 Business Premium è l'offerta di Microsoft best-in-class per i clienti di piccole e medie imprese (SMB). Microsoft 365 Business Premium è una soluzione integrata che riunisce la produttività **Microsoft 365** sicurezza **avanzata** e la gestione **dei dispositivi.**
 
-In questo articolo vengono confrontate le opzioni di licenza per le piccole e medie imprese, con particolare attenzione alle Microsoft 365 Business Premium.
+In questo articolo vengono confrontate le opzioni di licenza per le piccole e medie imprese, con particolare attenzione Microsoft 365 Business Premium.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Confronto delle funzionalità: Microsoft 365 Business Standard e Microsoft 365 Business Premium
 
@@ -40,17 +40,17 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |**Gestione delle app & dispositivi** | Microsoft Intune | No | Sì |
 |   | Shared computer activation | No | Sì |
 |   | Windows AutoPilot, Windows Pro gestione | No | Sì |
-|   | Aggiornare i diritti Windows 10 Pro per le licenze Pro Win 7/8.1 | No | Sì |
+|   | Aggiornare i diritti Windows 10 Pro licenze win 7/8.1 Pro licenze | No | Sì |
 |   | Desktop virtuale Windows | No | Sì |
 |**Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft | No | Sì |
 |   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì |
-|**Conformità** | Archiviazione illimitata della<sup>posta elettronica 2</sup> | No | Sì |
+|**Conformità** | Archiviazione con espansione automatica<sup>2</sup> | No | Sì |
 
 **Note**
 
 <sup>1</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>2</sup> Archiviazione illimitata quando l'espansione automatica è attivata.
+<sup>2</sup> L'utente ha una capacità di archiviazione fino a 1,5 TB quando è attivata l'archiviazione con espansione automatica.
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle funzionalità: Microsoft 365 Business Premium e Office 365 E3
 
@@ -74,15 +74,15 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |**Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft | Sì | Sì |
 |   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì |
 |**Diritti CAL locali** | ECAL Suite (Exchange, SharePoint, Skype) | Sì | No |
-|**Conformità** | Archiviazione illimitata della posta<sup>elettronica 3</sup> | Sì | Sì |
+|**Conformità** | Archiviazione con espansione automatica<sup>3</sup> | Sì | Sì |
 
 **Note**
 
-<sup>1</sup> Indica che Microsoft 365 Business Standard ha piano 1 della funzionalità e Office 365 E3 ha Piano 2.
+<sup>1</sup> Indica Microsoft 365 Business Standard ha il Piano 1 della funzionalità e Office 365 E3 il Piano 2.
 
 <sup>2</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>3</sup> Archiviazione illimitata quando è attivata l'espansione automatica.
+<sup>3</sup> L'utente ha una capacità di archiviazione fino a 1,5 TB quando l'archiviazione con espansione automatica è attivata.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Confronto delle funzionalità: Microsoft 365 Business Standard, Microsoft 365 Business Premium e Office 365 E3
 
@@ -106,15 +106,15 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 |**Protezione delle informazioni**  | Prevenzione della perdita di dati Microsoft | No | Sì | Sì |
 |   | Azure Information Protection Piano 1, applicazione BitLocker | No | Sì | No |
 |**Diritti CAL locali** | ECAL Suite (Exchange, SharePoint, Skype) | No | No | Sì |
-|**Conformità** | Archiviazione illimitata della posta<sup>elettronica 3</sup> | No | Sì | Sì |
+|**Conformità** | Archiviazione con espansione automatica<sup>3</sup> | No | Sì | Sì |
 
 **Note**
 
-<sup>1</sup> Indica che Microsoft 365 Business Standard ha piano 1 della funzionalità e Office 365 E3 ha Piano 2.
+<sup>1</sup> Indica Microsoft 365 Business Standard ha il Piano 1 della funzionalità e Office 365 E3 il Piano 2.
 
 <sup>2</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>3</sup> Archiviazione illimitata quando è attivata l'espansione automatica.
+<sup>3</sup> L'utente ha una capacità di archiviazione fino a 1,5 TB quando l'archiviazione con espansione automatica è attivata.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Confronto delle funzionalità: Microsoft 365 Business Standard e Microsoft 365 per i piani aziendali
 
@@ -141,7 +141,7 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 | **Protezione delle informazioni** | Prevenzione della perdita di dati Microsoft, Azure Information Protection Piano 1 | No | Sì | Sì | Sì |
 |   | Azure Information Protection Piano 2, Microsoft Cloud App Security, Office 365 Cloud App Security | No | No | No | Sì |
 |**Diritti CAL locali** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | No | No | Sì | Sì |
-|**Conformità** | Archiviazione illimitata della<sup>posta elettronica 2</sup> | No | Sì | Sì | Sì |
+|**Conformità** | Archiviazione con espansione automatica<sup>2</sup> | No | Sì | Sì | Sì |
 |   | Advanced eDiscovery, Customer Lockbox, Advanced Data Governance | No | No | No | Sì |
 |**Analisi** | Power BI Pro, MyAnalytics | No | No | No | Sì |
 | | Insights di MyAnalytics | Sì | Sì | Sì | Sì |
@@ -152,7 +152,7 @@ In questo articolo vengono confrontate le opzioni di licenza per le piccole e me
 
 <sup>1</sup> Disponibile in Stati Uniti, Regno Unito, Canada.
 
-<sup>2</sup> Archiviazione illimitata quando l'espansione automatica è attivata.
+<sup>2</sup> L'utente ha una capacità di archiviazione fino a 1,5 TB quando è attivata l'archiviazione con espansione automatica.
 
 ## <a name="office-client-commercial-plans"></a>Office commerciali dei client
 
@@ -200,11 +200,11 @@ Microsoft 365 Business Premium include il client Microsoft 365 Apps for business
 
 <sup>1</sup> Consente all'organizzazione di eseguire il push di determinate impostazioni di configurazione (impostazioni di sicurezza, impostazioni dell'app, roaming di Active Directory e così via) per Office ai computer che acciacciano alla rete aziendale.1 Allows the organization to push certain configuration settings (security settings, app settings, Active Directory roaming, and so on) for Office to machines logging on to the corporate network.
 
-<sup>2</sup> Con Office Standard 2016 e Office Professional Plus 2016, l'IT ha il controllo completo degli aggiornamenti usando il modello MSI. Con Microsoft 365 Apps for enterprise e Microsoft 365 Apps for business, l'installazione e gli aggiornamenti vengono gestiti tramite A click-to-Run.
+<sup>2</sup> Con Office Standard 2016 e Office Professional Plus 2016, l'IT ha il controllo completo degli aggiornamenti utilizzando il modello MSI. Con Microsoft 365 Apps for enterprise e Microsoft 365 Apps for business, l'installazione e gli aggiornamenti vengono gestiti tramite A click-to-Run.
 
 <sup>3</sup> Le suite offrono diversi livelli di integrazione con i server di produttività aziendale.
 
-<sup>4</sup> Archiviare la posta elettronica Outlook non sono necessari file PST e impostare criteri di conservazione che &mdash; &mdash; archivino o eliminino automaticamente la posta elettronica. Gli amministratori IT possono gestire centralmente il In-Place archivio.
+<sup>4</sup> Archiviare la posta elettronica Outlook file pst necessari e impostare criteri di conservazione che &mdash; &mdash; archivino o eliminino automaticamente la posta elettronica. Gli amministratori IT possono gestire centralmente il In-Place archivio.
 
 <sup>5</sup> Richiede servizi online aggiuntivi.
 

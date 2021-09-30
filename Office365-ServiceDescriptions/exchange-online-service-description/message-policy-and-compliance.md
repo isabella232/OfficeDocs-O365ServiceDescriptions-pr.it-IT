@@ -1,5 +1,5 @@
 ---
-title: Criteri e conformità dei messaggi
+title: Conformità e criteri dei messaggi
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Informazioni sui criteri dei messaggi e sulla conformità in Exchange Online.
-ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 77885b5db378734b1108c240663c0533cdffed7e
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671872"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015670"
 ---
-# <a name="message-policy-and-compliance"></a>Criteri e conformità dei messaggi
+# <a name="message-policy-and-compliance"></a>Conformità e criteri dei messaggi
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archiviazione di cassette postali di Exchange Online
 
@@ -44,7 +44,7 @@ Per ulteriori informazioni, vedere:
 Ciascun archivio personale può contenere i dati di messaggistica di un solo utente. L'allocazione di spazio di archiviazione dipende dal piano di abbonamento. Per ulteriori informazioni sulle dimensioni delle cassette postali di archiviazione, vedere la sezione "Limiti di archiviazione delle cassette postali" in [Exchange Online limiti.](exchange-online-limits.md)
   
 > [!IMPORTANT]
-> - L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Microsoft si riserva il diritto di negare l'archiviazione illimitata nei casi in cui un archivio delle cassette postali non viene utilizzato in uno scenario personale o in altri casi di utilizzo inappropriato.
+> - L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a una cassetta postale di Exchange Online a scopo di archiviazione non è consentito. Microsoft si riserva il diritto di negare l'archiviazione aggiuntiva nei casi in cui un archivio delle cassette postali non viene utilizzato in uno scenario personale o in altri casi di utilizzo inappropriato.
 > - L'archivio locale presenta specifici requisiti di licenza per gli utenti di Outlook. Gli utenti di Outlook 2007 devono disporre dell'aggiornamento cumulativo di Office 2007 del febbraio 2011 per poter accedere all'archivio personale. 
 > - Exchange Online non supporta il cmdlet _New-MailboxImportRequest_ Windows PowerShell di Exchange Server 2010 Service Pack 1 o versione successiva per l'importazione guidata dall'amministratore di file pst in un archivio personale. Se un utente dispone sia della cassetta postale principale sia dell'archivio in Exchange Online, un amministratore può utilizzare PST Capture, uno strumento gratuito, per importare i dati dei file pst nella cassetta postale principale o nell'archivio dell'utente.
 
@@ -90,9 +90,9 @@ Con Customer Key, puoi controllare le chiavi di crittografia dell'organizzazione
   
 ## <a name="office-365-message-encryption"></a>Crittografia dei messaggi di Office 365
 
-Office 365 Message Encryption consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. Sono stati annunciati nuovi Office crittografia dei messaggi che sfruttano le funzionalità di protezione in Crittografia delle informazioni di Azure. Queste nuove funzionalità hanno fornito esperienze utente finali avanzate che semplificano la condivisione e la collaborazione su messaggi protetti con chiunque all'interno o all'esterno dell'organizzazione. Le nuove funzionalità Office crittografia dei messaggi hanno alcuni requisiti di configurazione. Vedere Configurare nuove funzionalità Office 365 Message Encryption integrate in Azure Information Protection. I clienti con Office 365 Message Encryption legacy non ottengono le nuove funzionalità senza seguire le indicazioni di configurazione fornite in precedenza. Leggi le domande [frequenti](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) per ulteriori dettagli su ciò che è incluso nelle nuove funzionalità Office 365 Message Encryption legacy. 
+Office 365 Message Encryption consente agli utenti di posta elettronica di inviare messaggi di posta elettronica crittografati a chiunque. Sono stati annunciati nuovi Office crittografia dei messaggi che sfruttano le funzionalità di protezione in Crittografia delle informazioni di Azure. Queste nuove funzionalità hanno fornito esperienze utente finali avanzate che semplificano la condivisione e la collaborazione su messaggi protetti con chiunque all'interno o all'esterno dell'organizzazione. Le nuove funzionalità Office crittografia dei messaggi hanno alcuni requisiti di configurazione. Vedi Configurare nuove funzionalità Office 365 Message Encryption integrate in Azure Information Protection. I clienti con Office 365 Message Encryption legacy non ottengono le nuove funzionalità senza seguire le indicazioni di configurazione fornite in precedenza. Leggi le domande [frequenti](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) per ulteriori dettagli su ciò che è incluso nelle nuove funzionalità Office 365 Message Encryption legacy. 
 
-Office 365 Advanced Message Encryption protezione aggiuntiva consentendo la scadenza e la revoca dei messaggi.  È inoltre possibile creare più modelli per i messaggi di posta elettronica crittografati provenienti dall'organizzazione.  La crittografia avanzata dei messaggi è inclusa in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Prezzi per il personale non profit), Office 365 Enterprise E5 (Prezzi del personale nonprofit) o Office 365 Education A5. Se l'organizzazione ha una sottoscrizione che non include Office 365 Advanced Message Encryption, è possibile acquistare Microsoft 365 E5 Compliance o lo SKU Office 365 Advanced Compliance come componente aggiuntivo.
+Office 365 Advanced Message Encryption protezione aggiuntiva consentendo la scadenza e la revoca dei messaggi.  È inoltre possibile creare più modelli per i messaggi di posta elettronica crittografati provenienti dall'organizzazione.  La crittografia avanzata dei messaggi è inclusa in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (prezzi del personale no profit), Office 365 Enterprise E5 (Prezzi del personale non profit) o Office 365 Education A5. Se l'organizzazione ha una sottoscrizione che non include Office 365 Advanced Message Encryption, è possibile acquistare Microsoft 365 E5 Compliance o lo SKU Office 365 Advanced Compliance come componente aggiuntivo.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 

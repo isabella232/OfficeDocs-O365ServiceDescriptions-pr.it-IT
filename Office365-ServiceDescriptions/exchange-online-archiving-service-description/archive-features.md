@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Informazioni sulle funzionalità di archiviazione disponibili in Microsoft Exchange Online archiviazione.
-ms.openlocfilehash: 6f342899722b3d411c9eb0f45ef40237ca05bc9f
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1271018444f001e98fde5f628a4ef0a8c3abe782
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670868"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015690"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Funzionalità di archiviazione in Archiviazione Exchange Online
 
@@ -32,8 +32,9 @@ Archiviazione Exchange Online offre agli utenti funzionalità di archiviazione a
 Gli amministratori possono utilizzare l'interfaccia di amministrazione di Exchange (EAC, Exchange Admin Center) o Windows PowerShell remoto per abilitare la funzionalità di archiviazione per specifici utenti. Per ulteriori informazioni, vedere [Abilitare o disabilitare una cassetta postale di archiviazione in Exchange Online](/office365/securitycompliance/enable-archive-mailboxes).
   
 > [!IMPORTANT]
->  L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a Archiviazione Exchange Online a scopo di archiviazione non è consentito.<br/>
->  Una cassetta postale di archiviazione di un utente è destinata esclusivamente a quell'utente. Microsoft si riserva il diritto di non consentire uno spazio di archiviazione illimitato nei casi in cui una cassetta postale di archiviazione dell'utente sia utilizzata per l'archiviazione di dati di altri utenti, o in altri casi di usi inappropriati.
+>  L'utilizzo dell'inserimento nel journal, delle regole di trasporto e delle regole di inoltro automatico per inviare una copia dei messaggi a Archiviazione Exchange Online a scopo di archiviazione non è consentito.
+>
+>  Una cassetta postale di archiviazione di un utente è destinata esclusivamente a quell'utente. Microsoft si riserva il diritto di negare spazio di archiviazione aggiuntivo nei casi in cui la cassetta postale di archiviazione di un utente viene utilizzata per archiviare i dati di archiviazione per altri utenti o in altri casi di utilizzo inappropriato.
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Spostamento dei messaggi su Archiviazione Exchange Online
 
@@ -63,8 +64,9 @@ Dopo che un elemento è stato rimosso dalla cartella Posta eliminata dell'archiv
 Se un utente ha rimosso manualmente un elemento dalla cartella Elementi recuperabili, un amministratore è in grado di recuperare quell'elemento entro lo stesso periodo di 14 giorni tramite la funzionalità di recupero di un singolo elemento. Questa funzionalità consente agli amministratori di effettuare una ricerca su più cassette postali per trovare gli elementi eliminati e utilizzare il cmdlet  `Search-Mailbox` di Windows PowerShell per spostare gli elementi dalla cassetta postale di individuazione a quella degli utenti. Per ulteriori informazioni, vedere [Abilitare o disabilitare il ripristino di un singolo elemento per una cassetta postale](/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
 > [!NOTE]
->  Per impostazione predefinita, il periodo di Ripristino di un singolo elemento è pari a 14 giorni, ma in alcuni casi può essere personalizzato.<br/>
->  Se un amministratore ha applicato una cassetta postale di un utente In-Place blocco o conservazione per controversia legale, gli elementi eliminati vengono conservati a tempo indeterminato e la finestra di 14 giorni non viene applicata. 
+>  Per impostazione predefinita, il periodo di Ripristino di un singolo elemento è pari a 14 giorni, ma in alcuni casi può essere personalizzato.
+>
+>  Se un amministratore ha applicato la cassetta postale di un utente In-Place blocco o conservazione per controversia legale, gli elementi eliminati vengono conservati a tempo indeterminato e la finestra di 14 giorni non viene applicata. 
   
 ## <a name="deleted-mailbox-recovery"></a>Recupero di cassette postali eliminate
 
