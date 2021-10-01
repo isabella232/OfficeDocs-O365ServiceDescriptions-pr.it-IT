@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender per Office 365 è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere l'organizzazione da malware e virus sconosciuti fornendo una protezione zero-day affidabile e include funzionalità per proteggere l'organizzazione da collegamenti dannosi in tempo reale.
-ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1d06d2780efa1e0303ae3b6f155ec5ad0ecf56dd
+ms.sourcegitcommit: 2ef11e882b734751bceffbbcad920b765c47fc92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670341"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040952"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrizione del servizio Microsoft Defender per Office 365
 
@@ -25,9 +25,9 @@ Microsoft Defender per Office 365 è un servizio di filtro della posta elettroni
 
 Di seguito sono riportati i modi principali per usare Defender per Office 365 protezione dei messaggi:
 
-- In uno scenario di solo filtro di Defender per Office 365, Defender per Office 365 fornisce protezione della posta elettronica basata su cloud per l'ambiente Exchange Server locale o qualsiasi altra soluzione di posta elettronica SMTP locale.
+- In uno scenario defender per Office 365 solo filtro, Defender per Office 365 fornisce protezione della posta elettronica basata su cloud per l'ambiente Exchange Server locale o qualsiasi altra soluzione di posta elettronica SMTP locale.
 
-- Defender for Office 365 può essere abilitato per proteggere Exchange Online cassette postali ospitate nel cloud. Per ulteriori informazioni sulle Exchange Online, vedere la [descrizione Exchange Online servizio.](exchange-online-service-description/exchange-online-service-description.md)
+- Defender for Office 365 può essere abilitato per proteggere Exchange Online cassette postali ospitate nel cloud. Per ulteriori informazioni su Exchange Online, vedere la [descrizione Exchange Online servizio.](exchange-online-service-description/exchange-online-service-description.md)
 
 - In una distribuzione ibrida, Defender per Office 365 può essere configurato per proteggere l'ambiente di messaggistica e controllare il routing della posta quando si dispone di una combinazione di cassette postali locali e cloud con Exchange Online Protection per il filtro della posta elettronica in ingresso.
 
@@ -64,18 +64,35 @@ Nella tabella seguente sono elencate le principali funzionalità di Microsoft De
 > [!NOTE]
 > Microsoft Defender per Office 365 è un componente di Microsoft 365 Defender. Per ulteriori informazioni sulla sicurezza automatizzata tra domini con Microsoft 365 Defender, vedere [Microsoft 365 Defender requisiti.](/microsoft-365/security/mtp/prerequisites)
 
-## <a name="learn-more"></a>Per approfondire
+## <a name="learn-more"></a>Altre informazioni
 
-Per ulteriori informazioni su Microsoft Defender per Office 365, vedere le risorse seguenti:
+Per altre informazioni su Microsoft Defender per Office 365, vedere le risorse seguenti:
 
 - [Microsoft Defender per Office 365 documenti Microsoft](/microsoft-365/security/office-365-security/defender-for-office-365)
-- [Sito Web Microsoft Defender per Office 365](https://www.microsoft.com/security/business/threat-protection/office-365-defender)
+- [Sito Web Microsoft Defender for Office 365](https://www.microsoft.com/security/business/threat-protection/office-365-defender)
 - [Blog di Microsoft Defender Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)
 - [Microsoft Defender for Office 365 Forum](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bd-p/MicrosoftDefenderforOffice365)
 
 ### <a name="licensing-terms"></a>Condizioni di licenza
 
 Per le condizioni di licenza di prodotti e servizi acquistati tramite i Contratti multilicenza commerciali di Microsoft, consulta il [sito Condizioni del prodotto](https://www.microsoft.com/licensing/terms/).
+
+Per i tenant di Microsoft Defender per Office 365 Piano 1, le licenze devono essere acquisite per gli utenti o le cassette postali che cadono in uno o più degli scenari seguenti:
+
+- Qualsiasi utente che accede a una cassetta postale che beneficia di Defender per Office 365 protezioni.
+- Cassette postali condivise che beneficiano di Defender per Office 365 protezioni.
+- Se Cassaforte protezione degli allegati per SharePoint, OneDrive for Business o Teams è attivata, tutti gli utenti che accedono a SharePoint, OneDrive for Business o Teams.
+- Qualsiasi utente che utilizza Microsoft 365 Apps o Teams quando Cassaforte sono abilitate le protezioni dei collegamenti.
+
+Per i tenant di Microsoft Defender per Office 365 Piano 2, le licenze devono essere acquisite per gli utenti o le cassette postali che cadono in uno o più degli scenari seguenti:
+
+- Tutti Exchange Online utenti nel tenant. Ciò è dovuto al fatto che le funzionalità e le funzionalità del piano 2 proteggono tutti gli utenti nel tenant.
+- Tutte le cassette postali condivise nel tenant.
+- Se Cassaforte protezione degli allegati per SharePoint, OneDrive for Business o Teams è attivata, tutti gli utenti che accedono a SharePoint, OneDrive for Business o Teams.
+- Qualsiasi utente che utilizza Microsoft 365 Apps o Teams quando Cassaforte sono abilitate le protezioni dei collegamenti.
+
+> [!NOTE]
+> Office 365 E5, Microsoft 365 E5 Security e Microsoft 365 E5 includono le licenze di Microsoft Defender per Office P2 e Microsoft 365 Business Premium include le licenze di Microsoft Defender per Office 365 P1.
 
 ### <a name="messaging"></a>Messaggistica
 
