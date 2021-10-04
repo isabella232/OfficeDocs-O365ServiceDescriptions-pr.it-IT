@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: In questo articolo vengono fornite indicazioni per Microsoft 365 per evitare potenziali interruzioni del servizio a causa dell'accesso senza licenza.
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082856"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088499"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 guida per la conformità della &amp; sicurezza
 
@@ -286,7 +286,7 @@ Gli utenti traggono vantaggio dalla prevenzione della perdita dei dati per Excha
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze forniscono a un utente i diritti di usufruire del servizio?
 
-Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 e Office 365 Data Loss Prevention and F5 Compliance e F5 Security & Compliance forniscono a un utente i diritti per usufruire di Office 365 DLP per Exchange Online, SharePoint Online e OneDrive for Business.
+Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 e Office 365 Data Loss Prevention e F5 Compliance e F5 Security & Compliance forniscono a un utente i diritti di usufruire di Office 365 DLP per Exchange Online, SharePoint Online e OneDrive for Business.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
@@ -298,7 +298,7 @@ Gli amministratori possono personalizzare le posizioni (carichi di lavoro), gli 
 
 ## <a name="double-key-encryption-for-microsoft-365"></a>Crittografia a chiave doppia per Microsoft 365
 
-Double Key Encryption for Microsoft 365 consente di proteggere i dati altamente sensibili per soddisfare requisiti specifici e mantenere il controllo completo della chiave di crittografia. La crittografia a chiave doppia usa due chiavi per proteggere i dati, con una chiave nel controllo e la seconda chiave archiviata in modo sicuro da Microsoft Azure. Per visualizzare i dati, è necessario disporre dell'accesso a entrambe le chiavi. Poiché Microsoft può accedere a una sola chiave, la chiave e anche i dati non sono disponibili per Microsoft, garantendo il controllo completo sulla privacy e sulla sicurezza dei dati.
+Double Key Encryption for Microsoft 365 consente di proteggere i dati altamente sensibili per soddisfare requisiti specifici e mantenere il controllo completo della chiave di crittografia. Double Key Encryption usa due chiavi per proteggere i dati, con una chiave nel controllo e la seconda chiave archiviata in modo sicuro da Microsoft Azure. Per visualizzare i dati, è necessario disporre dell'accesso a entrambe le chiavi. Poiché Microsoft può accedere a una sola chiave, la chiave e anche i dati non sono disponibili per Microsoft, garantendo il controllo completo sulla privacy e sulla sicurezza dei dati.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti traggono vantaggio dal servizio?
 
@@ -306,7 +306,7 @@ Gli utenti traggono vantaggio dalla crittografia a chiave doppia grazie alla pos
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze forniscono a un utente i diritti di usufruire del servizio?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e F5 Security & Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance, Office 365 E5/A5/G5 ed EMS E5 forniscono a un utente i diritti per usufruire della crittografia a chiave doppia.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e F5 Security & Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance, Office 365 E5/A5/G5 ed EMS E5 forniscono i diritti per un utente di usufruire della crittografia a chiave doppia.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
@@ -328,7 +328,7 @@ Un utente trae vantaggio Advanced eDiscovery quando l'utente viene selezionato c
 
 Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 e F5 Compliance e F5 Security & Compliance forniscono a un utente i diritti per trarre vantaggio da Core eDiscovery.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e F5 Security & Compliance, Microsoft 365 E5/A5/G5 eDiscovery and Audit e Office 365 E5/A5/G5 forniscono a un utente i diritti per trarre vantaggio da Advanced eDiscovery.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e F5 Security & Compliance, Microsoft 365 E5/A5/G5 eDiscovery and Audit e Office 365 E5/A5/G5 forniscono a un utente i diritti per usufruire di Advanced eDiscovery.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
@@ -374,14 +374,14 @@ Gli utenti traggono vantaggio dalla possibilità di applicare manualmente etiche
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, F5 Compliance e F5 Security & Compliance, Enterprise Mobility + Security E3/E5, M365 E5/A5/G5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 e AIP Plan 2 forniscono i diritti per un utente di trarre vantaggio dall'etichettatura di riservatezza manuale.
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium and Enterprise Mobility + Security E3/E5, AIP Plan 1 e AIP Plan 2 e F5 Compliance e F5 Security & Compliance forniscono i diritti per un utente di trarre vantaggio dall'applicazione e dalla visualizzazione delle etichette di riservatezza in Power BI e di proteggere i dati quando sono esportato da Power BI a Excel, PowerPoint o PDF.
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium and Enterprise Mobility + Security E3/E5, AIP Plan 1 e AIP Plan 2 and F5 Compliance e F5 Security & Compliance forniscono a un utente i diritti per trarre vantaggio dall'applicazione e dalla visualizzazione delle etichette di riservatezza in Power BI e per proteggere i dati quando sono esportato da Power BI a Excel, PowerPoint o PDF.
 
 Microsoft 365 Business Premium e Enterprise Mobility forniscono i diritti per usare il modulo [AIPService](/powershell/azure/aip/overview#aipservice) PowerShell per amministrare il servizio Azure Rights Management protection per Azure Information Protection.
 
 > [!NOTE]
-> Power BI è incluso in Microsoft 365 E5/A5/G5; in tutti gli altri piani, Power BI licenza separatamente.
+> Power BI è incluso con Microsoft 365 E5/A5/G5; in tutti gli altri piani, Power BI licenza separatamente.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e Conformità F5 Security &, Microsoft 365 E5/A5/G5 Information Protection and Governance, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 e Il piano AIP 2 fornisce a un utente i diritti per trarre vantaggio dall'etichettatura automatica della riservatezza.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance and F5 Security & Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 e Il piano AIP 2 fornisce a un utente i diritti per trarre vantaggio dall'etichettatura automatica della riservatezza.
 
 Information Protection non include i diritti per la classificazione automatica in base Machine Learning (classificatori addestrabili).
 
@@ -407,15 +407,15 @@ Gli utenti traggono vantaggio dalla possibilità di classificare i dati ai fini 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze forniscono a un utente i diritti di usufruire del servizio?
 
-Microsoft 365 F3/Business Premium, Office 365 E5/A5/G5/E3/A3/G3/E1/A1/G1/F3 e i piani di Exchange autonomi offrono a un utente i diritti per trarre vantaggio dall'applicazione manuale di etichette di conservazione non record ai dati delle cassette postali.
+Microsoft 365 F3/Business Premium, Office 365 E5/A5/G5/E3/A3/G3/E1/A1/G1/F3 e i piani Exchange autonomi offrono a un utente i diritti per trarre vantaggio dall'applicazione manuale di etichette di conservazione non record ai dati delle cassette postali.
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E5/A5/G5/E3/A3/G3/F3/E1/A1/G1 e i piani SharePoint autonomi offrono a un utente i diritti per trarre vantaggio dall'applicazione manuale di etichette di conservazione non record ai file in SharePoint o OneDrive.
 
-Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3/A3, Exchange Piano 2 e Archiviazione Exchange Online forniscono a un utente i diritti per usufruire di un criterio di conservazione delle cassette postali di base a livello di organizzazione o di posizione.
+Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3/ A3, Exchange Piano 2 e Archiviazione Exchange Online forniscono a un utente i diritti per trarre vantaggio da un criterio di conservazione delle cassette postali di base a livello di organizzazione o di posizione.
 
 Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 e SharePoint Piano 2 forniscono a un utente i diritti per trarre vantaggio da un criterio di conservazione SharePoint o OneDrive di base e/o per applicare manualmente un'etichetta di conservazione non record ai file in SharePoint o OneDrive.
 
-Le organizzazioni possono utilizzare i criteri di conservazione per mantenere o eliminare Teams messaggi in base ai criteri. Ciò include la gestione dei messaggi in Teams chat e conversazioni.
+Le organizzazioni possono utilizzare i criteri di conservazione per mantenere o eliminare Teams messaggi in base ai criteri. Ciò include la gestione dei messaggi Teams chat e conversazioni.
 
 Le licenze seguenti forniscono a un utente i diritti di usufruire di un Teams di conservazione:
 
@@ -519,7 +519,7 @@ Enterprise Mobility + Security E5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G
 
 Azure AD P1 offre a un utente i diritti per trarre vantaggio dalle funzionalità di individuazione in MCAS.
 
-Per trarre vantaggio dalle funzionalità di controllo dell'app di accesso condizionale in MCAS, gli utenti devono disporre anche della licenza per Azure Active Directory P1, inclusa in Enterprise Mobility + Security F1/F3/E3/A3/G3, Enterprise Mobility + Security E5, Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5/F5 Security and Microsoft 365 F5 Security & Compliance.
+Per usufruire delle funzionalità di controllo dell'app di accesso condizionale in MCAS, gli utenti devono disporre anche della licenza per Azure Active Directory P1, inclusa in Enterprise Mobility + Security F1/F3/E3/A3/G3, Enterprise Mobility + Security E5, Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5/F5 Security e Microsoft 365 Sicurezza & Conformità.
 
 Per usufruire dell'etichettatura automatica sul lato client, gli utenti devono disporre della licenza per Azure Information Protection P2, incluso in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance, Microsoft 365 F5 Security & Conformità e Microsoft 365 e governance delle informazioni.
 
@@ -568,6 +568,13 @@ Le funzionalità di prevenzione della perdita dei dati [(DLP)](/microsoft-365/co
 
 Le funzionalità di protezione delle informazioni e governance sono ampiamente utilizzate Microsoft Teams, in particolare quando le organizzazioni si sono spostate sul lavoro remoto. Con [Teams'API](/microsoftteams/export-teams-content)di esportazione, i dati possono essere esportati in un'applicazione di eDiscovery o Archiviazione conformità di terze parti per garantire che le procedure di conformità siano soddisfatte.
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze forniscono a un utente i diritti di usufruire del servizio?
+
+- Microsoft 365 (E5/A5)
+- Conformità di Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 Security
+- Microsoft 365 E5/A5 Information Protection and Governance
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
 L'accesso api è configurato a livello di tenant.
@@ -576,11 +583,11 @@ L'accesso api è configurato a livello di tenant.
 
 Le API di Microsoft Graph per Teams DLP e Teams l'esportazione forniscono un valore a livello di tenant. Tutti gli utenti che desiderano usufruire di questo servizio devono essere concessi in licenza. Come valore aggiunto, stiamo aggiungendo capacità seeded per utente con licenza, calcolata al mese e aggregata a livello di tenant. Per l'uso oltre la capacità di seeded, i proprietari delle app verranno fatturati per l'uso delle API.
 
-Per ulteriori informazioni sui costi di capacità e consumo seeded, vedere Graph requisiti per l'accesso ai messaggi [di chat.](/graph/teams-licenses)
+Per ulteriori informazioni sui costi di capacità e consumo seeded, vedere Graph [requisiti per l'accesso ai messaggi di chat.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 Advanced Message Encryption
 
-Office 365 Advanced Message Encryption consente ai clienti di soddisfare gli obblighi di conformità che richiedono controlli più flessibili sui destinatari esterni e sul loro accesso ai messaggi di posta elettronica crittografati. Con crittografia avanzata dei messaggi, gli amministratori possono controllare i messaggi di posta elettronica sensibili condivisi all'esterno dell'organizzazione utilizzando criteri automatici in grado di rilevare tipi di informazioni riservate (ad esempio, informazioni di identificazione personale o ID finanziari o sanitari) oppure possono utilizzare parole chiave per migliorare la protezione applicando modelli di posta elettronica personalizzati e scadendo l'accesso ai messaggi di posta elettronica crittografati tramite un portale Web sicuro. Inoltre, gli amministratori possono controllare ulteriormente i messaggi di posta elettronica crittografati a cui si accede esternamente tramite un portale Web sicuro revocando l'accesso in qualsiasi momento.
+Office 365 Advanced Message Encryption aiuta i clienti a rispettare gli obblighi di conformità che richiedono controlli più flessibili sui destinatari esterni e sul loro accesso ai messaggi di posta elettronica crittografati. Con crittografia avanzata dei messaggi, gli amministratori possono controllare i messaggi di posta elettronica sensibili condivisi all'esterno dell'organizzazione utilizzando criteri automatici in grado di rilevare tipi di informazioni riservate (ad esempio, informazioni di identificazione personale o ID finanziari o sanitari) oppure possono utilizzare parole chiave per migliorare la protezione applicando modelli di posta elettronica personalizzati e scadendo l'accesso ai messaggi di posta elettronica crittografati tramite un portale Web sicuro. Inoltre, gli amministratori possono controllare ulteriormente i messaggi di posta elettronica crittografati a cui si accede esternamente tramite un portale Web sicuro revocando l'accesso in qualsiasi momento.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti traggono vantaggio dal servizio?
 
@@ -588,7 +595,7 @@ I mittenti dei messaggi beneficiano del controllo aggiunto sui messaggi di posta
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze forniscono a un utente i diritti di usufruire del servizio?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance and F5 Security & Compliance e Microsoft 365 E5/A5/G5 Information Protection and Governance forniscono i diritti per un utente di beneficiare della crittografia avanzata dei messaggi.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e F5 Security & Compliance e Microsoft 365 E5/A5/G5 Information Protection and Governance forniscono a un utente i diritti per usufruire della crittografia avanzata dei messaggi.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
@@ -635,11 +642,11 @@ Customer Lockbox garantisce che nessuno di Microsoft possa accedere al contenuto
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze forniscono a un utente i diritti di usufruire del servizio?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e F5 Security & Compliance e Microsoft 365 E5/A5/G5 Insider Risk Management forniscono a un utente i diritti per trarre vantaggio da Customer Lockbox.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance e F5 Security & Compliance e Microsoft 365 E5/A5/G5 Insider Risk Management forniscono i diritti per un utente di usufruire di Customer Lockbox.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
-Gli amministratori possono attivare Customer Lockbox nella interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni, vedere [Customer Lockbox in Office 365.](/microsoft-365/compliance/customer-lockbox-requests) Quando Customer Lockbox è attivato, Microsoft deve ottenere l'approvazione di un'organizzazione prima di accedere a qualsiasi contenuto.
+Gli amministratori possono attivare Customer Lockbox nella interfaccia di amministrazione di Microsoft 365. Per ulteriori informazioni, vedere [Customer Lockbox in Office 365](/microsoft-365/compliance/customer-lockbox-requests). Quando Customer Lockbox è attivato, Microsoft deve ottenere l'approvazione di un'organizzazione prima di accedere a qualsiasi contenuto.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Come è possibile applicare il servizio solo agli utenti del tenant con licenza per il servizio?
 
@@ -661,7 +668,7 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 e Azure Information Protection Piano
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Come viene eseguito il provisioning/distribuzione del servizio?
 
-Gli amministratori creano e gestiscono i Office 365 Message Encryption nell'Exchange di amministrazione in **Regole del flusso di**  >  **posta**. Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione di nuove Office 365 Message Encryption, vedere [Set up new Message Encryption capabilities](/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Gli amministratori creano e gestiscono Office 365 Message Encryption nell'Exchange di amministrazione in **Regole del flusso di**  >  **posta**. Per impostazione predefinita, queste regole si applicano a tutti gli utenti del tenant. Per ulteriori informazioni sulla configurazione di nuove Office 365 Message Encryption, vedere [Set up new Message Encryption capabilities](/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Come è possibile applicare il servizio solo agli utenti del tenant con licenza per il servizio?
 
@@ -669,7 +676,7 @@ Gli amministratori devono applicare regole del flusso di posta Office 365 Messag
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestione degli accessi privilegiati in Office 365
 
-[La gestione degli accessi privilegiati (PAM, Privileged Access Management)](/microsoft-365/compliance/privileged-access-management-configuration) offre un controllo granulare dell'accesso sulle attività di amministrazione con privilegi in Office 365. Dopo aver abilitato PAM, per completare le attività con privilegi elevati e con privilegi, gli utenti dovranno richiedere l'accesso just-in-time tramite un flusso di lavoro di approvazione con un ambito elevato e associato a tempo.
+[La gestione degli accessi con privilegi (PAM, Privileged Access Management)](/microsoft-365/compliance/privileged-access-management-configuration) offre un controllo granulare dell'accesso sulle attività di amministrazione con privilegi in Office 365. Dopo aver abilitato PAM, per completare le attività con privilegi elevati e con privilegi, gli utenti dovranno richiedere l'accesso just-in-time tramite un flusso di lavoro di approvazione con un ambito elevato e associato a tempo.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>In che modo gli utenti traggono vantaggio dal servizio?
 
@@ -685,11 +692,11 @@ Per impostazione predefinita, le funzionalità PAM sono abilitate a livello di t
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Come è possibile applicare il servizio solo agli utenti del tenant con licenza per il servizio?
 
-I clienti possono gestire PAM per utente tramite i criteri di accesso e il gruppo di responsabili approvazione, che possono essere applicati agli utenti con licenza. Per ulteriori informazioni, vedere [Privileged access management in Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+I clienti possono gestire PAM per utente tramite i criteri di accesso e il gruppo di responsabili approvazione, che possono essere applicati agli utenti con licenza. Per ulteriori informazioni, vedere [Privileged access management in Office 365.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)
 
 ## <a name="records-management"></a>Gestione record
 
-Gestione dei record consente alle organizzazioni di soddisfare i propri obblighi aziendali e normativi di conservazione dei record tramite l'individuazione, la classificazione, l'etichettatura, la conservazione e le funzionalità di eliminazione defensibile tra i dati di Microsoft 365 e di terze parti.
+Gestione dei record consente alle organizzazioni di soddisfare gli obblighi aziendali e normativi di conservazione dei record tramite l'individuazione, la classificazione, l'etichettatura, la conservazione e le funzionalità di eliminazione defensibile tra i dati di Microsoft 365 e di terze parti.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quali licenze forniscono a un utente i diritti di usufruire del servizio?
 
