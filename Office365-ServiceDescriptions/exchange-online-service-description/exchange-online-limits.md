@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Trovare i limiti di Exchange Online per diverse aree di servizio, compresi, a titolo esemplificativo, quelli relativi a rubrica, archiviazione delle cassette postali, creazione di rapporti e traccia dei messaggi.
-ms.openlocfilehash: 75f62c1fa0134b576beef812c2c8b657c9ab6a43
-ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
+ms.openlocfilehash: 822341c87a9a753f6c81a227d7ae339924cbe152
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2021
-ms.locfileid: "60015710"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149408"
 ---
 # <a name="exchange-online-limits"></a>Limiti Exchange Online
 
@@ -82,12 +82,12 @@ I limiti in Microsoft Exchange Online rientrano in una delle seguenti categorie:
 
 ### <a name="address-book-limits"></a>Limiti della rubrica
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Limite elenco indirizzi|1000|1000|1000|1000|1000|1000|
-|Limite rubrica offline (OAB, offline address book)|250|250|250|250|250|250|
-|Limite criteri delle rubriche (ABP, address book policies)|250|250|250|250|250|250|
-|Limite elenchi indirizzi globali|250|250|250|250|250|250|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Limite elenco indirizzi | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 |
+| Limite rubrica offline (OAB, offline address book) | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
+| Limite criteri delle rubriche (ABP, address book policies) | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
+| Limite elenchi indirizzi globali | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
 
 ### <a name="address-book-limits-across-standalone-plans"></a>Limiti della rubrica nei piani autonomi
 
@@ -107,14 +107,14 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 
 ### <a name="storage-limits"></a>Limiti di archiviazione
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Cassette postali utente|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
-|Cassette postali di archiviazione<sup>7,8</sup>|50 GB|50 GB|50 GB|1,5 TB<sup>1</sup>|1,5 TB<sup>1</sup>|Non disponibile<sup>4</sup>|
-|Cassette postali condivise<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2,9</sup>|50/100 GB<sup>2,9</sup>|50 GB<sup>2</sup>|
-|Cassette postali per le risorse|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3</sup>|
-|Cassette postali delle cartelle pubbliche<sup>5</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|
-|Cassette postali di gruppo|50 GB|50 GB|50 GB|50 GB|50 GB|50 GB|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|---------------------------|
+| Cassette postali utente | 50 GB | 50 GB | 50 GB | 50 GB | 100 GB | 100 GB | 2 GB |
+| Cassette postali di archiviazione<sup>7,8</sup> | 50 GB | 50 GB | 50 GB | 50 GB | 1,5 TB<sup>1</sup> | 1,5 TB<sup>1</sup> | Non disponibile<sup>4</sup> |
+| Cassette postali condivise<sup>10</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50/100 GB<sup>2,9</sup> | 50/100 GB<sup>2,9</sup> | 50 GB<sup>2</sup> |
+| Cassette postali per le risorse | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3,9</sup> | 50 GB<sup>3,9</sup> | 50 GB<sup>3</sup> |
+| Cassette postali delle cartelle pubbliche<sup>5</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> |
+| Cassette postali di gruppo | 50 GB | 50 GB | 50 GB | 50 GB | 50 GB | 50 GB | 50 GB |
 
 > [!NOTE]
 > <sup>1</sup> Inizialmente, ogni utente riceve 100 GB di memoria nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Lo spazio di archiviazione aggiuntivo viene aggiunto in modo incrementale finché la capacità di archiviazione non raggiunge 1,5 TB. Per altre informazioni, vedere [Panoramica dell'archiviazione a espansione automatica](/microsoft-365/compliance/autoexpanding-archiving). <br/> <sup>2</sup> Per accedere a una cassetta postale condivisa un utente deve disporre di una licenza di Exchange Online, ma la cassetta postale condivisa non richiede una licenza separata. Senza licenza, le cassette postali condivise sono limitate a 50 GB. Per aumentare il limite per le dimensioni a 100 GB, la cassetta postale condivisa deve essere assegnata a una licenza di Exchange Online (Piano 2). Se viene assegnata una licenza di Exchange Online (Piano 1) con una licenza per il componente aggiuntivo Archiviazione Exchange Online, è possibile abilitare l'archiviazione a espansione automatica per una capacità di archiviazione aggiuntiva. Analogamente, se si vuole mettere una cassetta postale condivisa in blocco per controversia legale, la cassetta postale condivisa deve essere assegnata a una licenza Exchange Online (Piano 2), oppure a una licenza Exchange Online (Piano 1) con una licenza per il componente aggiuntivo Archiviazione Exchange Online. Se si vogliono applicare caratteristiche avanzate come Microsoft Defender per Office 365, Advanced eDiscovery o criteri di conservazione automatica, è necessario che la cassetta postale condivisa sia concessa in licenza per tali caratteristiche. <br/> <sup>3</sup> Le cassette postali delle risorse non richiedono una licenza. Tuttavia, senza licenza, le cassette postali delle risorse sono limitate a 50 GB. Per aumentare le dimensioni delle cassette postali, è necessario assegnare una licenza E3 o E5. Questo comporterà un aumento nella cassetta postale di 100 GB. <br/> <sup>4</sup>Le cassette postali di archiviazione non sono incluse in Chiosco Exchange Online. Tuttavia, possono essere acquistate come componenti aggiuntivi tramite Archiviazione Exchange Online. Per altre informazioni, vedere [Descrizione del servizio Archiviazione Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>5</sup> Il limite predefinito per le dimensioni delle singole cartelle pubbliche è di 2 GB. È possibile modificare il limite di dimensioni singolarmente in ogni cartella o modificare il limite di dimensioni predefinito impostato nella configurazione dell'organizzazione per rendere effettiva la modifica per tutte le cartelle dell'organizzazione. Nota: la dimensione massima consigliata per la singola cartella pubblica è 25 GB. Se una singola cartella pubblica supera i 25 GB, si verificano problemi durante il [processo di suddivisione automatica](https://techcommunity.microsoft.com/t5/exchange-team-blog/how-exchange-online-automatically-cares-for-your-public-folder/ba-p/2050019). <br/> <sup>6</sup> L'utente ha un limite di 1.000 cassette postali delle cartelle pubbliche e le dimensioni totali sono pari a 100 TB. Le cassette postali di gestione della gerarchia sono limitate a 100 cassette postali di cartelle pubbliche.<br/> <sup>7</sup> Le cassette postali di archiviazione possono essere usate solo per archiviare messaggi per un singolo utente o entità (ad esempio, una cassetta postale condivisa) per il quale è stata applicata una licenza. Non è consentito usare cassette postali di archiviazione come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, un amministratore IT non può creare cassette postali condivise e lasciare che gli utenti le copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) con l'esplicito scopo di archiviarle. Tenere presente che una cassetta postale condivisa da più utenti non archivia automaticamente le e-mail dei singoli utenti. Più utenti possono accedere e inviare e-mail come cassetta postale condivisa. Pertanto, le uniche e-mail archiviate nella cassetta postale condivisa sono quelle inviate a o ricevute da questa, *come* casetta postale condivisa.<br/> <sup>8</sup> Se in Exchange Online è stato creato un criterio di conservazione, i messaggi verranno spostati automaticamente nella cassetta postale di archiviazione dell'utente soltanto se la cassetta postale principale ha una dimensione superiore a 10 MB. Il criterio di conservazione non verrà eseguito automaticamente per le cassette postali con dimensione inferiore a 10 MB.<br/> <sup>9</sup> Le cassette postali delle risorse e condivise non richiedono una licenza. Tuttavia, senza licenza, queste cassette postali sono limitate a 50 GB. Per aumentare le dimensioni delle cassette postali, è necessario assegnare una licenza E3 o E5. Questo comporterà un aumento nella cassetta postale a 100 GB. <br/> <sup>10</sup> Per impostazione predefinita, alle cassette postali condivise è associato un account utente attivo con una password generata dal sistema (sconosciuta). Per bloccare l'accesso per l'account della cassetta postale condivisa associata, vedere [Blocca l'accesso per l'account della cassetta postale condivisa](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
@@ -124,14 +124,14 @@ Il volume di archiviazione delle cassette postali è determinato dal tipo di cas
 | Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
 |Cassette postali degli utenti|2 GB<sup>1</sup>|50 GB|100 GB|2 GB|
-|Cassette postali di archiviazione<sup>8, 9</sup>|100 GB<sup>1</sup>|50 GB|1,5 TB<sup>2</sup>|Non disponibile<sup>5</sup>|
+|Cassette postali di archiviazione<sup>8,9</sup>|100 GB<sup>1</sup>|50 GB|1,5 TB<sup>2</sup>|Non disponibile<sup>5</sup>|
 |Cassette postali condivise<sup>11</sup>|2 GB<sup>1</sup>|50 GB<sup>3</sup>|50 GB<sup>3,10</sup>|50 GB<sup>3</sup>|
 |Cassette postali per le risorse|2 GB<sup>1</sup>|50 GB<sup>4</sup>|50 GB<sup>4,10</sup>|50 GB<sup>4</sup>|
 |Cassette postali delle cartelle pubbliche|2 GB<sup>6</sup>|50 GB<sup>7</sup>|100 GB<sup>7</sup>|Non disponibile|
 |Cassette postali di gruppo|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> Questa è la dimensione predefinita delle cassette postali per le organizzazioni Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione. Non esiste un limite massimo di spazio di archiviazione per le cassette postali locali. <br/> <sup>2</sup> Inizialmente, ogni utente riceve 100 GB di memoria nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima di 100 GB. Lo spazio di archiviazione aggiuntivo viene aggiunto in modo incrementale finché la capacità di archiviazione non raggiunge 1,5 TB. Per altre informazioni, vedere [Panoramica dell'archiviazione a espansione automatica](/microsoft-365/compliance/autoexpanding-archiving). Consultare la [Roadmap di Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) per maggiori dettagli riguardo la disponibilità dell'archiviazione con espansione automatica. <br/> <sup>3</sup> Per accedere a una cassetta postale condivisa, un utente deve disporre di una licenza di Exchange Online, ma la cassetta postale condivisa non richiede una licenza separata. Senza licenza, le cassette postali condivise sono limitate a 50 GB. Per aumentare il limite per le dimensioni a 100 GB, la cassetta postale condivisa deve essere assegnata a una licenza di Exchange Online (Piano 2). La licenza di Exchange Online Piano 1, con una licenza del componente aggiuntivo Archiviazione di Exchange Online, aumenterà le dimensioni della cassetta postale di archiviazione. In questo modo sarà anche possibile abilitare l'archiviazione a espansione automatica per una capacità di archiviazione fino a 1,5 TB. Analogamente, se si vuole mettere una cassetta postale condivisa in blocco per controversia legale, la cassetta postale condivisa deve essere assegnata a una licenza Exchange Online (Piano 2), oppure a una licenza Exchange Online (Piano 1) con una licenza per il componente aggiuntivo Archiviazione Exchange Online. Se si vogliono applicare caratteristiche avanzate come Microsoft Defender per Office 365, Advanced eDiscovery o criteri di conservazione automatica, è necessario che la cassetta postale condivisa sia concessa in licenza per tali caratteristiche. <br/> <sup>4</sup> Le cassette postali delle risorse non richiedono una licenza. Tuttavia, senza licenza, le cassette postali delle risorse sono limitate a 50 GB. Per aumentare le dimensioni delle cassette postali, è necessario assegnare una licenza Exchange Online piano 2. Questo comporterà un aumento nella cassetta postale di 100 GB. <br/> <sup>5</sup>Le cassette postali di archiviazione non sono incluse in Chiosco Exchange Online. Tuttavia, possono essere acquistate come componenti aggiuntivi tramite Archiviazione Exchange Online. Per ulteriori informazioni, vedere [Descrizione del servizio Archiviazione Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Questa è la dimensione predefinita delle cassette postali per le organizzazioni Microsoft Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione. In Exchange Server 2013, l'utente ha un limite di 100 cassette postali per cartelle pubbliche e le dimensioni totali sono complessivamente pari a 50 TB.<br/> <sup>7</sup> In Exchange Online, l'utente ha un limite di 1,000 cassette postali per cartelle pubbliche e le dimensioni totali sono complessivamente pari a 50 TB.<br/> <sup>8</sup> Le cassette postali di archiviazione possono essere utilizzate solo per archiviare messaggi per un singolo utente o una singola entità per la quale è stata applicata una licenza. Non è consentito utilizzare una cassetta postale di archiviazione come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, gli amministratori IT non possono creare cassette postali condivise e lasciare che gli utenti copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) una cassetta postale condivisa con l'esplicito scopo di archiviarla. <br/> <sup>9</sup> Se in Exchange Online è stato creato un criterio di conservazione, i messaggi verranno spostati automaticamente nella cassetta postale di archiviazione dell'utente soltanto se la cassetta postale principale ha una dimensione superiore a 10 MB. Il criterio di conservazione non verrà eseguito automaticamente per le cassette postali con dimensione inferiore a 10 MB.<br/> <sup>10</sup> Le cassette postali delle risorse e condivise non richiedono una licenza. Tuttavia, senza licenza, queste cassette postali sono limitate a 50 GB. Per aumentare le dimensioni della cassetta postale, è necessario assegnare una licenza Exchange Online piano 2. Questo comporterà un aumento nella cassetta postale a 100 GB. <br/> <sup>11</sup> Per impostazione predefinita, alle cassette postali condivise è associato un account utente attivo con una password generata dal sistema (sconosciuta). Per bloccare l'accesso per l'account della cassetta postale condivisa associata, vedere [Blocca l'accesso per l'account della cassetta postale condivisa](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
+> <sup>1</sup> Questa è la dimensione predefinita delle cassette postali per le organizzazioni Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione. Non esiste un limite massimo di spazio di archiviazione per le cassette postali locali. <br/> <sup>2</sup> Inizialmente, ogni utente riceve 100 GB di memoria nella cassetta postale di archiviazione. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria fino al raggiungimento della capacità massima di 100 GB. Lo spazio di archiviazione aggiuntivo viene aggiunto in modo incrementale finché la capacità di archiviazione non raggiunge 1,5 TB. Per altre informazioni, vedere [Panoramica dell'archiviazione a espansione automatica](/microsoft-365/compliance/autoexpanding-archiving). Vedere la [Roadmap di Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) per i dettagli sulla disponibilità per l'archiviazione in espansione automatica. <br/> <sup>3</sup> Per accedere a una cassetta postale condivisa, un utente deve disporre di una licenza di Exchange Online, ma la cassetta postale condivisa non richiede una licenza separata. Senza licenza, le cassette postali condivise sono limitate a 50 GB. Per aumentare il limite per le dimensioni a 100 GB, la cassetta postale condivisa deve essere assegnata a una licenza di Exchange Online (Piano 2). La licenza di Exchange Online Piano 1, con una licenza del componente aggiuntivo Archiviazione di Exchange Online, aumenterà le dimensioni della cassetta postale di archiviazione. In questo modo sarà anche possibile abilitare l'archiviazione a espansione automatica per una capacità di archiviazione fino a 1,5 TB. Analogamente, se si vuole mettere una cassetta postale condivisa in blocco per controversia legale, la cassetta postale condivisa deve essere assegnata a una licenza Exchange Online (Piano 2), oppure a una licenza Exchange Online (Piano 1) con una licenza per il componente aggiuntivo Archiviazione Exchange Online. Se si vogliono applicare caratteristiche avanzate come Microsoft Defender per Office 365, Advanced eDiscovery o criteri di conservazione automatica, è necessario che la cassetta postale condivisa sia concessa in licenza per tali caratteristiche. <br/> <sup>4</sup> Le cassette postali delle risorse non richiedono una licenza. Tuttavia, senza licenza, le cassette postali delle risorse sono limitate a 50 GB. Per aumentare le dimensioni delle cassette postali, è necessario assegnare una licenza Exchange Online piano 2. Questo comporterà un aumento nella cassetta postale di 100 GB. <br/> <sup>5</sup>Le cassette postali di archiviazione non sono incluse in Chiosco Exchange Online. Tuttavia, possono essere acquistate come componenti aggiuntivi tramite Archiviazione Exchange Online. Per ulteriori informazioni, vedere [Descrizione del servizio Archiviazione Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Questa è la dimensione predefinita delle cassette postali per le organizzazioni Microsoft Exchange Server 2013. Gli amministratori possono modificare questo valore per l'organizzazione. In Exchange Server 2013, l'utente ha un limite di 100 cassette postali per cartelle pubbliche e le dimensioni totali sono complessivamente pari a 50 TB.<br/> <sup>7</sup> In Exchange Online, l'utente ha un limite di 1,000 cassette postali per cartelle pubbliche e le dimensioni totali sono complessivamente pari a 50 TB.<br/> <sup>8</sup> Le cassette postali di archiviazione possono essere utilizzate solo per archiviare messaggi per un singolo utente o una singola entità per la quale è stata applicata una licenza. Non è consentito utilizzare una cassetta postale di archiviazione come mezzo per archiviare messaggi da più utenti o entità. Ad esempio, gli amministratori IT non possono creare cassette postali condivise e lasciare che gli utenti copino (tramite i campi Cc o Ccn oppure con una regola di trasporto) una cassetta postale condivisa con l'esplicito scopo di archiviarla. <br/> <sup>9</sup> Se in Exchange Online è stato creato un criterio di conservazione, i messaggi verranno spostati automaticamente nella cassetta postale di archiviazione dell'utente soltanto se la cassetta postale principale ha una dimensione superiore a 10 MB. Il criterio di conservazione non verrà eseguito automaticamente per le cassette postali con dimensione inferiore a 10 MB.<br/> <sup>10</sup> Le cassette postali delle risorse e condivise non richiedono una licenza. Tuttavia, senza licenza, queste cassette postali sono limitate a 50 GB. Per aumentare le dimensioni della cassetta postale, è necessario assegnare una licenza Exchange Online piano 2. Questo comporterà un aumento nella cassetta postale a 100 GB. <br/> <sup>11</sup> Per impostazione predefinita, alle cassette postali condivise è associato un account utente attivo con una password generata dal sistema (sconosciuta). Per bloccare l'accesso per l'account della cassetta postale condivisa associata, vedere [Blocca l'accesso per l'account della cassetta postale condivisa](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
 
 ## <a name="capacity-alerts"></a>Avvisi di capacità
 
@@ -145,11 +145,11 @@ Exchange Online offre tre tipi di notifiche quando la capacità della cassetta p
 
 ### <a name="capacity-alerts"></a>Avvisi di capacità
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Avviso|49 GB|49 GB|49 GB|98 GB|98 GB|1,96 GB|
-|Invio non consentito|49,5 GB|49,5 GB|49,5 GB|99 GB|99 GB|1,98 GB|
-|Invio e/o ricezione non consentiti|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Avviso | 49 GB | 49 GB | 49 GB | 49 GB | 98 GB | 98 GB | 1,96 GB |
+| Invio non consentito | 49,5 GB | 49,5 GB | 49,5 GB | 49,5 GB | 99 GB | 99 GB | 1,98 GB |
+| Invio e/o ricezione non consentiti | 50 GB | 50 GB | 50 GB | 50 GB | 100 GB | 100 GB | 2 GB |
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>Avvisi di capacità nei piani autonomi
 
@@ -190,26 +190,26 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 
 ### <a name="mailbox-folder-limits"></a>Limiti cartella delle cassette postali
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Numero massimo di messaggi per cartella di cassette postali|1 milione|1 milione|1 milione|1 milione|1 milione|1 milione|
-|Avviso per numero di messaggi per cartella di cassette postali|900,000|900,000|900,000|900,000|900,000|900,000|
-|Numero massimo di messaggi per cartella nella cartella Elementi ripristinabili|3 milioni|3 milioni|3 milioni|3 milioni|3 milioni|3 milioni|
-|Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale principale (non in attesa)|30 GB|30 GB|30 GB|30 GB|30 GB|30 GB|
-|Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale principale (in attesa)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
-|Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (non in attesa)|30 GB|30 GB|30 GB|1,5 TB<sup>2</sup>|1,5 TB<sup>2</sup>|30 GB|
-|Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (in attesa)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|1,5 TB<sup>2</sup>|1,5 TB<sup>2</sup>|100 GB<sup>1</sup>|
-|Avviso per numero massimo di messaggi per cartella nella cartella Elementi ripristinabili|2,75 milioni|2,75 milioni|2,75 milioni|2,75 milioni|2,75 milioni|2,75 milioni|
-|Numero massimo di sottocartelle per cartella delle cassette postali|10,000<sup>2</sup>|10,000<sup>2</sup>|10,000<sup>2</sup>|10,000<sup>2</sup>|10,000<sup>2</sup>|10,000<sup>2</sup>|
-|Avviso per numero di sottocartelle per cartella di cassette postali|9000|9000|9000|9000|9000|9000|
-|Massima profondità gerarchia cartella|300|300|300|300|300|300|
-|Avviso per profondità della gerarchia di cartelle|250|250|250|250|250|250|
-|Numero massimo di cartelle pubbliche|500.000|500.000|500.000|500.000|500.000|Non disponibile|
-|Numero massimo di sottocartelle per cartella pubblica|10,000|10,000|10,000|10,000|10,000|Non disponibile|
-|Avviso per numero di sottocartelle per cartella pubblica|9000|9000|9000|9000|9000|Non disponibile|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|-------------------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Numero massimo di messaggi per cartella di cassette postali | 1 milione | 1 milione | 1 milione | 1 milione | 1 milione | 1 milione | 1 milione |
+| Avviso per numero di messaggi per cartella di cassette postali | 900,000 | 900,000 | 900,000 | 900,000 | 900,000 | 900,000 | 900,000 |
+| Numero massimo di messaggi per cartella nella cartella Elementi ripristinabili | 3 milioni | 3 milioni | 3 milioni | 3 milioni | 3 milioni | 3 milioni | 3 milioni |
+| Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale principale (non in attesa) | 30 GB | 30 GB | 30 GB | 30 GB | 30 GB | 30 GB | 30 GB |
+| Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale principale (in attesa) | 100 GB | 100 GB | 100 GB | 100 GB | 100 GB | 100 GB | 100 GB |
+| Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (non in attesa) | 30 GB | 30 GB | 30 GB | 30 GB | 1,5 TB<sup>2</sup> | 1,5 TB<sup>2</sup> | 30 GB |
+| Quota di archiviazione per la cartella Elementi ripristinabili nella cassetta postale di archiviazione (in attesa) | 100 GB<sup>1</sup> | 100 GB<sup>1</sup> | 100 GB<sup>1</sup> | 100 GB<sup>1</sup> | 1,5 TB<sup>2</sup> | 1,5 TB<sup>2</sup> | 100 GB<sup>1</sup> |
+| Avviso per numero massimo di messaggi per cartella nella cartella Elementi ripristinabili | 2,75 milioni | 2,75 milioni | 2,75 milioni | 2,75 milioni | 2,75 milioni | 2,75 milioni | 2,75 milioni |
+| Numero massimo di sottocartelle per cartella delle cassette postali | 10,000<sup>2</sup> | 10,000<sup>2</sup> | 10,000<sup>2</sup> | 10,000<sup>2</sup> | 10,000<sup>2</sup> | 10,000<sup>2</sup> | 10,000<sup>2</sup> |
+| Avviso per numero di sottocartelle per cartella di cassette postali | 9000 | 9000 | 9000 | 9000 | 9000 | 9000 | 9000 |
+| Massima profondità gerarchia cartella | 300 | 300 | 300 | 300 | 300 | 300 | 300 |
+| Avviso per profondità della gerarchia di cartelle | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
+| Numero massimo di cartelle pubbliche | 500.000 | 500.000 | 500.000 | 500.000 | 500.000 | 500.000 | Non disponibile |
+| Numero massimo di sottocartelle per cartella pubblica | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | Non disponibile |
+| Avviso per numero di sottocartelle per cartella pubblica | 9000 | 9000 | 9000 | 9000 | 9000 | 9000 | Non disponibile |
 
 > [!NOTE]
-> <sup>1</sup> Si tratta della quota di archiviazione per la cartella Elementi ripristinabili, non la quota per l'intera cassetta postale di archiviazione. La quota di archiviazione massima per la cassetta postale di archiviazione è pari a 1,5 TB per gli utenti con una licenza di Exchange Online piano 2 oppure per gli utenti che dispongono sia di una licenza di Exchange Online, piano 1 sia di una licenza di Archiviazione Exchange Online. Per informazioni sull’aumentare la quota degli elementi recuperabili per le cassette postali bloccate vedere [Aumentare la quota degli elementi recuperabili per le cassette postali bloccate](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> La quota di archiviazione iniziale per la cartella Elementi ripristinabili in una cassetta postale di archiviazione è di 100 GB. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima prevista per la cartella Elementi ripristinabili. Per altre informazioni, vedere [Panoramica dell'archiviazione a espansione automatica](/microsoft-365/compliance/autoexpanding-archiving). Consultare la [Roadmap di Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) per i dettagli riguardo la disponibilità dell'archiviazione con espansione automatica.
+> <sup>1</sup> Si tratta della quota di archiviazione per la cartella Elementi ripristinabili, non la quota per l'intera cassetta postale di archiviazione. La quota di archiviazione per la cassetta postale di archiviazione è di 1,5 T per gli utenti con una licenza di Exchange Online Piano 2 oppure per gli utenti che dispongono sia di una licenza di Exchange Online Piano 1 sia di una licenza di Archiviazione Exchange Online. Per informazioni sulla quota di Elementi ripristinabili, vedere [Aumentare la quota degli elementi ripristinabili per le cassette postali bloccate](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> La quota di archiviazione iniziale per la cartella Elementi ripristinabili in una cassetta postale di archiviazione è di 100 GB. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima prevista per la cartella Elementi ripristinabili. Per altre informazioni, vedere [Panoramica dell'archiviazione a espansione automatica](/microsoft-365/compliance/autoexpanding-archiving). Consultare la [Roadmap di Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) per i dettagli riguardo la disponibilità dell'archiviazione con espansione automatica.
 > <sup>2</sup> È un limite per lo store; è uno dei vincoli della forma della cassetta postale. Per un dato genitore possono essere presenti solo 10.000 cartelle figlio dirette. Ciò vale indipendentemente dalla migrazione o da altri client che creano cartelle.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Limiti cartella delle cassette postali tra piani autonomi
@@ -233,7 +233,7 @@ Tali limiti servono a delimitare, entro dimensioni note, le cassette postali che
 |Avviso per numero di sottocartelle per cartella pubblica|N/D|900|900|Non disponibile|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft consiglia di non conservare più di 1.000.000 di messaggi per ogni cartella della cassetta postale.<br/> <sup>2</sup> Si tratta della quota di archiviazione per la cartella Elementi ripristinabili, non la quota per l'intera cassetta postale di archiviazione. La quota di archiviazione per la cassetta postale di archiviazione è pari a 1,5 TB per gli utenti con una licenza di Exchange Online piano 2 oppure per gli utenti che dispongono sia di una licenza di Exchange Online, piano 1, sia di una licenza di Archiviazione Exchange Online. Per informazioni sull’aumentare la quota degli elementi recuperabili per le cassette postali bloccate vedere [Aumentare la quota degli elementi recuperabili per le cassette postali bloccate](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>3</sup> La quota di archiviazione iniziale per la cartella Elementi ripristinabili in una cassetta postale di archiviazione è di 100 GB. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima prevista per la cartella Elementi ripristinabili. Per altre informazioni, vedere [Panoramica dell'archiviazione a espansione automatica](/microsoft-365/compliance/autoexpanding-archiving). Consultare la [Roadmap di Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) per i dettagli riguardo la disponibilità dell'archiviazione con espansione automatica.
+> <sup>1</sup> Microsoft consiglia di non conservare più di 1.000.000 di messaggi per ogni cartella della cassetta postale.<br/> <sup>2</sup> Si tratta della quota di archiviazione per la cartella Elementi ripristinabili, non la quota per l'intera cassetta postale di archiviazione. La quota di archiviazione per la cassetta postale di archiviazione è 1,5 TB per gli utenti con una licenza di Exchange Online Piano 2 oppure per gli utenti che dispongono sia di una licenza di Exchange Online Piano 1 sia di una licenza di Archiviazione Exchange Online. Per informazioni sulla quota di Elementi ripristinabili, vedere [Aumentare la quota degli elementi ripristinabili per le cassette postali bloccate](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>3</sup> La quota di archiviazione iniziale per la cartella Elementi ripristinabili in una cassetta postale di archiviazione è di 100 GB. Quando si attiva l'archiviazione con espansione automatica, viene aggiunta ulteriore memoria al raggiungimento della capacità massima prevista per la cartella Elementi ripristinabili. Per altre informazioni, vedere [Panoramica dell'archiviazione a espansione automatica](/microsoft-365/compliance/autoexpanding-archiving). Vedere la [Roadmap di Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) per i dettagli sulla disponibilità per l'archiviazione in espansione automatica.
 
 ## <a name="message-limits"></a>Limiti dei messaggi
 
@@ -261,24 +261,24 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 
 ### <a name="message-limits"></a>Limiti dei messaggi
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Limite per la dimensione del messaggio - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
-|Limite per la dimensione del messaggio - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
-|Limite per la dimensione del messaggio - Outlook per Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
-|Limite per la dimensione del messaggio - migrazione|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
-|Limite per la dimensione del messaggio - Outlook per iOS e Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Lunghezza massima dell'oggetto|255 caratteri|255 caratteri|255 caratteri|255 caratteri|255 caratteri|255 caratteri|
-|Limite massimo dei file allegati|250 allegati|250 allegati|250 allegati|250 allegati|250 allegati|250 allegati|
-|Limite di dimensione massima dei file allegati - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
-|Limite di dimensione massima dei file allegati - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
-|Limite di dimensione massima dei file allegati - Outlook per Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
-|Limite di dimensione massima dei file allegati - Nuovo Outlook per Mac|33 MB|33 MB|33 MB|33 MB|33 MB|33 MB|
-|Limite di dimensione massima dei file allegati - Outlook per iOS e Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
-|Limite dei messaggi a più parti|250 parti|250 parti|250 parti|250 parti|250 parti|250 parti|
-|Limite di profondità del messaggio incorporato|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|30 messaggi incorporati|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Limite per la dimensione del messaggio - Outlook | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> |
+| Limite per la dimensione del messaggio - OWA | 112 MB<sup>1, 3</sup> | 112 MB<sup>1, 3</sup> | 112 MB<sup>1, 3</sup> | 112 MB<sup>1, 3</sup> | 112 MB<sup>1, 3</sup> | 112 MB<sup>1, 3</sup> | 112 MB<sup>1, 3</sup> |
+| Limite per la dimensione del messaggio - Outlook per Mac | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> |
+| Limite per la dimensione del messaggio - migrazione | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> |
+| Limite per la dimensione del messaggio - Outlook per iOS e Android | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB |
+| Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>5</sup> | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB |
+| Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>5</sup> | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB |
+| Lunghezza massima dell'oggetto | 255 caratteri | 255 caratteri | 255 caratteri | 255 caratteri | 255 caratteri | 255 caratteri | 255 caratteri |
+| Limite massimo dei file allegati | 250 allegati | 250 allegati | 250 allegati | 250 allegati | 250 allegati | 250 allegati | 250 allegati |
+| Limite di dimensione massima dei file allegati - Outlook | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB |
+| Limite di dimensione massima dei file allegati - OWA | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> |
+| Limite di dimensione massima dei file allegati - Outlook per Mac | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB |
+| Limite di dimensione massima dei file allegati - Nuovo Outlook per Mac | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB |
+| Limite di dimensione massima dei file allegati - Outlook per iOS e Android | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB |
+| Limite dei messaggi a più parti | 250 parti | 250 parti | 250 parti | 250 parti | 250 parti | 250 parti | 250 parti |
+| Limite di profondità del messaggio incorporato | 30 messaggi incorporati | 30 messaggi incorporati | 30 messaggi incorporati | 30 messaggi incorporati | 30 messaggi incorporati | 30 messaggi incorporati | 30 messaggi incorporati |
 
 > [!NOTE]
 > <sup>1</sup> La dimensione massima predefinita per le cassette postali di Microsoft è 25 MB. Gli amministratori di Microsoft possono specificare un limite personalizzato compreso tra 1 MB e 150 MB. Tuttavia, le dimensioni dei messaggi che è possibile inviare o ricevere dipende anche da cosa è supportato dal client o dalla soluzione di posta elettronica in uso. Per ulteriori informazioni sulla personalizzazione della dimensione massima consentita dei messaggi per l'organizzazione, vedere [Microsoft supports larger email messages](https://go.microsoft.com/fwlink/?linkid=2144144) (Microsoft supporta messaggi di posta elettronica più grandi). <br/> <sup>2</sup> È possibile inviare e ricevere messaggi di dimensioni fino a 150 MB tra utenti (dove il messaggio non lascia mai i data center di Microsoft). I messaggi indirizzati al di fuori dei data center di Microsoft sono soggetti a un ulteriore aumento del 33% della codifica di traduzione. In tal caso le dimensioni massime dei messaggi sono di 112 MB.<br/> 
@@ -291,10 +291,10 @@ I seguenti limiti sono applicati a ogni messaggio di posta elettronica.
 
 | Funzionalità | Exchange Server 2013 | Exchange Online Piano 1 | Exchange Online, piano 2 | Chiosco Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|Limite per la dimensione del messaggio - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
-|Limite per la dimensione del messaggio - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
+|Limite per la dimensione del messaggio - Outlook|10 MB<sup>4</sup>|150 MB<sup>1,2</sup>|150 MB<sup>1,2</sup>|150 MB<sup>2</sup>|
+|Limite per la dimensione del messaggio - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1,2</sup>|
 |Limite per la dimensione del messaggio - Outlook per Mac|10 MB<sup>4</sup>|150 MB|150 MB||
-|Limite per la dimensione del messaggio - migrazione|Non applicabile|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
+|Limite per la dimensione del messaggio - migrazione|Non applicabile|150 MB<sup>5</sup>|150 MB<sup>5</sup>|150 MB<sup>5</sup>|
 |Limite per la dimensione del messaggio - Outlook per iOS e Android |25 MB |33 MB |33 MB |33 MB |
 |Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano Crittografia messaggi di Office 365 con nuove funzionalità)<sup>6</sup>|150 MB|150 MB|150 MB|150 MB|
 |Dimensione massima per i messaggi crittografati (per gli abbonati che utilizzano una versione legacy Crittografia messaggi di Office 365)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
@@ -325,10 +325,10 @@ I limiti di ricezione si applicano al numero di messaggi che un utente, un grupp
 - **Limite di ricezione:** questo limite si applica al numero di messaggi all'ora *da una o tutte le origini*. Sono inclusi i messaggi da mittenti interni, da Internet e da server locali. Una volta superato il limite di ricezione in una cassetta postale, i messaggi inviati alla cassetta postale torneranno al mittente in un rapporto di mancato recapito (noto anche come NDR o notifica di mancato recapito) indicante che la cassetta postale ha superato la soglia massima consentita di recapiti. Dopo un'ora, il limite verrà aggiornato e la cassetta postale potrà ricevere messaggi.
 - **Limita coppia mittente-destinatario:** questo limite si applica al numero di messaggi all'ora da *un singolo mittente*. Questo valore stabilisce un rapporto del limite di ricezione complessivo per la protezione da un flusso di messaggi da un singolo mittente.
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Messaggi ricevuti|3,600 messaggi all'ora|3,600 messaggi all'ora|3,600 messaggi all'ora|3,600 messaggi all'ora|3.600 messaggi all'ora|3.600 messaggi all'ora|
-|Messaggi ricevuti da un singolo mittente|33% dei messaggi ricevuti|33% dei messaggi ricevuti|33% dei messaggi ricevuti|33% dei messaggi ricevuti|33% dei messaggi ricevuti|33% dei messaggi ricevuti|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|----------------------------------------|-----------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Messaggi ricevuti | 3,600 messaggi all'ora | 3,600 messaggi all'ora | 3,600 messaggi all'ora | 3,600 messaggi all'ora | 3,600 messaggi all'ora | 3.600 messaggi all'ora | 3.600 messaggi all'ora |
+| Messaggi ricevuti da un singolo mittente | 33% dei messaggi ricevuti | 33% dei messaggi ricevuti | 33% dei messaggi ricevuti | 33% dei messaggi ricevuti | 33% dei messaggi ricevuti | 33% dei messaggi ricevuti | 33% dei messaggi ricevuti |
 
 ### <a name="sending-limits"></a>Limiti di invio
 
@@ -353,12 +353,12 @@ I limiti di invio si applicano al numero di destinatari, di messaggi e di destin
 
 #### <a name="sending-limits"></a>Limiti di invio
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Limite numero di destinatari<sup>1</sup>|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|10.000 destinatari al giorno|
-|Limite destinatari<sup>2</sup>|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|Personalizzabile fino a 1000 destinatari|
-|Limite di indirizzi proxy del destinatario|400|400|400|400|400|400|
-|Limite di frequenza dei messaggi<sup>3</sup>|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|30 messaggi al minuto|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Limite numero di destinatari<sup>1</sup> | 10.000 destinatari al giorno | 10.000 destinatari al giorno | 10.000 destinatari al giorno | 10.000 destinatari al giorno | 10.000 destinatari al giorno | 10.000 destinatari al giorno | 10.000 destinatari al giorno |
+| Limite destinatari<sup>2</sup> | Personalizzabile fino a 1000 destinatari | Personalizzabile fino a 1000 destinatari | Personalizzabile fino a 1000 destinatari | Personalizzabile fino a 1000 destinatari | Personalizzabile fino a 1000 destinatari | Personalizzabile fino a 1000 destinatari | Personalizzabile fino a 1000 destinatari |
+| Limite di indirizzi proxy del destinatario | 400 | 400 | 400 | 400 | 400 | 400 | 400 |
+| Limite di frequenza dei messaggi<sup>3</sup> | 30 messaggi al minuto | 30 messaggi al minuto | 30 messaggi al minuto | 30 messaggi al minuto | 30 messaggi al minuto | 30 messaggi al minuto | 30 messaggi al minuto |
 
 > [!NOTE]
 > <sup>1</sup>: Al raggiungimento del limite massimo, non è possibile inviare ulteriori messaggi dalla cassetta postale fino a quando il numero di destinatari a cui sono stati inviati messaggi nelle ultime 24 ore non scende al di sotto del limite. Ad esempio, un utente invia un messaggio di posta elettronica a 5000 destinatari alle 09:00, quindi invia un altro messaggio a 2500 destinatari alle 10.00 e quindi invia un altro messaggio a 2500 destinatari alle 11.00, fino a raggiungere il limite di 10.000 messaggi. L'utente non potrà inviare di nuovo messaggi fino alle 09:00 del giorno successivo.  
@@ -397,11 +397,11 @@ Questi limiti controllano il periodo di tempo durante il quale è possibile acce
 
 ### <a name="retention-limits"></a>Limiti di conservazione
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Periodo di mantenimento per la cartella Posta eliminata|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|Nessun limite<sup>1</sup>|
-|Periodo di conservazione per gli elementi rimossi dalla cartella Posta eliminata|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|14 giorni<sup>1</sup>|
-|Periodo di conservazione per la cartella Posta indesiderata|30 giorni|30 giorni|30 giorni|30 giorni|30 giorni|30 giorni|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Periodo di mantenimento per la cartella Posta eliminata | Nessun limite<sup>1</sup> | Nessun limite<sup>1</sup> | Nessun limite<sup>1</sup> | Nessun limite<sup>1</sup> | Nessun limite<sup>1</sup> | Nessun limite<sup>1</sup> | Nessun limite<sup>1</sup> |
+| Periodo di conservazione per gli elementi rimossi dalla cartella Posta eliminata | 14 giorni<sup>1</sup> | 14 giorni<sup>1</sup> | 14 giorni<sup>1</sup> | 14 giorni<sup>1</sup> | 14 giorni<sup>1</sup> | 14 giorni<sup>1</sup> | 14 giorni<sup>1</sup> |
+| Periodo di conservazione per la cartella Posta indesiderata | 30 giorni | 30 giorni | 30 giorni | 30 giorni | 30 giorni | 30 giorni | 30 giorni |
 
 > [!NOTE]
 > <sup>1</sup> Questo è il valore predefinito per le organizzazioni di Microsoft 365. Gli amministratori possono modificare questo valore in un massimo di 30 giorni per le cassette postali dell'organizzazione.
@@ -429,14 +429,14 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 
 ### <a name="distribution-group-limits"></a>Limiti dei gruppi di distribuzione
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Numero massimo di membri del gruppo di distribuzione<sup>1</sup>|100.000 membri|100.000 membri|100.000 membri|100.000 membri|100.000 membri|100.000 membri|
-|Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|5.000 membri o più|
-|Dimensione massima dei messaggi per gruppi di distribuzione da 5.000 a 99.999 membri.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Dimensione massima dei messaggi per gruppi di distribuzione con 100.000 membri.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Numero massimo di proprietari del gruppo di distribuzione|10|10|10|10|10|10|
-|Numero massimo di gruppi che è possibile creare|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Numero massimo di membri del gruppo di distribuzione<sup>1</sup> | 100.000 membri | 100.000 membri | 100.000 membri | 100.000 membri | 100.000 membri | 100.000 membri | 100.000 membri |
+| Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni. | 5.000 membri o più | 5.000 membri o più | 5.000 membri o più | 5.000 membri o più | 5.000 membri o più | 5.000 membri o più | 5.000 membri o più |
+| Dimensione massima dei messaggi per gruppi di distribuzione da 5.000 a 99.999 membri. | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB |
+| Dimensione massima dei messaggi per gruppi di distribuzione con 100.000 membri. | 5 MB | 5 MB | 5 MB | 5 MB | 5 MB | 5 MB | 5 MB |
+| Numero massimo di proprietari del gruppo di distribuzione | 10  | 10  | 10  | 10  | 10  | 10  | 10  |
+| Numero massimo di gruppi che è possibile creare | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> |
 
 > [!NOTE]
 > <sup>1</sup> Se si utilizza Azure Active Directory DirSync, il numero massimo di membri del gruppo di distribuzione che è possibile sincronizzare da Active Directory locale ad Azure Active Directory è pari a 15.000. Se si utilizza Azure AD Connect, tale numero è pari a 50.000. <br/> <sup>2</sup> Questo limite si applica anche agli amministratori.
@@ -447,7 +447,7 @@ Questi limiti si applicano ai gruppi di distribuzione nella rubrica condivisa de
 |:-----|:-----|:-----|:-----|:-----|
 |Numero massimo di membri del gruppo di distribuzione|100.000 membri<sup>1</sup>|100.000 membri|100.000 membri|100.000 membri|
 |Limite di invio messaggi a gruppi di distribuzione di grandi dimensioni.|5.000 membri o più<sup>1</sup>|5.000 membri o più|5.000 membri o più|5.000 membri o più|
-|Numero massimo di proprietari del gruppo di distribuzione|10|10|10|10|
+|Numero massimo di proprietari del gruppo di distribuzione|10 |10 |10 |10 |
 |Numero massimo di gruppi che è possibile creare|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -477,19 +477,19 @@ Il seguente elenco include i limiti validi per le regole del journal, quelle di 
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>Limiti delle regole di diario, trasporto e posta in arrivo
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Numero massimo di regole di diario|300 regole|300 regole|300 regole|300 regole|300 regole|300 regole|
-|Numero massimo di regole di trasporto|300 regole|300 regole|300 regole|300 regole|300 regole|300 regole|
-|Dimensione massima di una singola regola di trasporto|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
-|Il limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
-|Limiti di analisi per il contenuto degli allegati|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
-|Numero massimo di destinatari aggiunti a un messaggio da tutte le regole di trasporto|100 destinatari|100 destinatari|100 destinatari|100 destinatari|100 destinatari|100 destinatari|
-|Limite di inoltri|10 destinatari|10 destinatari|10 destinatari|10 destinatari|10 destinatari|10 destinatari|
-|Numero di reindirizzamenti di un messaggio|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
-|Numero di reindirizzamenti di un messaggio da una regola di trasporto|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
-|Numero di reindirizzamenti di un messaggio|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|1 reindirizzamento|
-|Regola Posta in arrivo|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Numero massimo di regole di diario | 300 regole | 300 regole | 300 regole | 300 regole | 300 regole | 300 regole | 300 regole |
+| Numero massimo di regole di trasporto | 300 regole | 300 regole | 300 regole | 300 regole | 300 regole | 300 regole | 300 regole |
+| Dimensione massima di una singola regola di trasporto | 8 KB | 8 KB | 8 KB | 8 KB | 8 KB | 8 KB | 8 KB |
+| Il limite di caratteri per tutte le espressioni regolari utilizzate in tutte le regole di trasporto | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB |
+| Limiti di analisi per il contenuto degli allegati | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB |
+| Numero massimo di destinatari aggiunti a un messaggio da tutte le regole di trasporto | 100 destinatari | 100 destinatari | 100 destinatari | 100 destinatari | 100 destinatari | 100 destinatari | 100 destinatari |
+| Limite di inoltri | 10 destinatari | 10 destinatari | 10 destinatari | 10 destinatari | 10 destinatari | 10 destinatari | 10 destinatari |
+| Numero di reindirizzamenti di un messaggio | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento |
+| Numero di reindirizzamenti di un messaggio da una regola di trasporto | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento |
+| Numero di reindirizzamenti di un messaggio | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento | 1 reindirizzamento |
+| Regola Posta in arrivo | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> |
 
 > [!NOTE]
 > <sup>1</sup> Se è stata eseguita la migrazione di una cassetta postale a Exchange Online, il limite relativo alla regola della posta in arrivo potrebbe essere impostato sul valore minore del valore EXO predefinito. In questo caso, è possibile aumentare il valore della regola della posta in arrivo. Per istruzioni, vedere [Modificare lo spazio usato dalle regole Posta in arrivo in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules). 
@@ -523,12 +523,12 @@ Durante i periodi di intenso utilizzo è possibile che alcuni mittenti non ricev
 
 ### <a name="moderation-limits"></a>Limiti di moderazione
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Dimensione massima della cassetta postale di arbitraggio|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
-|Numero massimo di moderatori|10 moderatori|10 moderatori|10 moderatori|10 moderatori|10 moderatori|10 moderatori|
-|Scadenza per i messaggi in attesa di moderazione|2 giorni|2 giorni|2 giorni|2 giorni|2 giorni|2 giorni|
-|Frequenza massima per i messaggi di notifica di moderazione scaduta|300 notifiche di scadenza all'ora|300 notifiche di scadenza all'ora|300 notifiche di scadenza all'ora|300 notifiche di scadenza all'ora|300 notifiche di scadenza all'ora|300 notifiche di scadenza all'ora|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|---------------------------------|---------------------------|-------------------------|--------------------------|--------------------------|
+| Dimensione massima della cassetta postale di arbitraggio | 10 GB | 10 GB | 10 GB | 10 GB | 10 GB | 10 GB | 10 GB |
+| Numero massimo di moderatori | 10 moderatori | 10 moderatori | 10 moderatori | 10 moderatori | 10 moderatori | 10 moderatori | 10 moderatori |
+| Scadenza per i messaggi in attesa di moderazione | 2 giorni | 2 giorni | 2 giorni | 2 giorni | 2 giorni | 2 giorni | 2 giorni |
+| Frequenza massima per i messaggi di notifica di moderazione scaduta | 300 notifiche di scadenza all'ora | 300 notifiche di scadenza all'ora | 300 notifiche di scadenza all'ora | 300 notifiche di scadenza all'ora | 300 notifiche di scadenza all'ora | 300 notifiche di scadenza all'ora | 300 notifiche di scadenza all'ora |
 
 ### <a name="moderation-limits-across-standalone-options"></a>Limiti di moderazione nelle opzioni autonome
 
@@ -552,10 +552,10 @@ I seguenti limiti sono validi per Microsoft Exchange ActiveSync, un protocollo c
 
 ### <a name="exchange-activesync-limits"></a>Limiti di Exchange ActiveSync
 
-| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Limite di dispositivi Exchange ActiveSync|100|100|100|100|100|100|
-|Limite di eliminazione di dispositivi Exchange ActiveSync|20|20|20|20|20|20|
+| Funzionalità | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Limite di dispositivi Exchange ActiveSync | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
+| Limite di eliminazione di dispositivi Exchange ActiveSync | 20 | 20 | 20 | 20 | 20 | 20 | 20 |
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>Limiti di Exchange ActiveSync tra le opzioni autonome
 
